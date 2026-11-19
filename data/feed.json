@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:07:40+00:00",
- "started": "2026-11-19T10:07:32+00:00",
+ "updated": "2026-11-19T10:12:40+00:00",
+ "started": "2026-11-19T10:12:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:07:32+00:00"
+   "checked": "2026-11-19T10:12:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:07:33+00:00"
+   "checked": "2026-11-19T10:12:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T10:07:33+00:00"
+   "checked": "2026-11-19T10:12:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T10:07:34+00:00"
+   "checked": "2026-11-19T10:12:34+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T10:07:34+00:00"
+   "checked": "2026-11-19T10:12:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T10:07:34+00:00"
+   "checked": "2026-11-19T10:12:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T10:07:35+00:00"
+   "checked": "2026-11-19T10:12:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:07:35+00:00"
+   "checked": "2026-11-19T10:12:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T10:07:35+00:00"
+   "checked": "2026-11-19T10:12:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T10:07:35+00:00"
+   "checked": "2026-11-19T10:12:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:07:36+00:00"
+   "checked": "2026-11-19T10:12:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T10:07:36+00:00"
+   "checked": "2026-11-19T10:12:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T10:07:36+00:00"
+   "checked": "2026-11-19T10:12:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T10:07:36+00:00"
+   "checked": "2026-11-19T10:12:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "the xbox series s version of gta 6 is seemingly the first to use amd s fsr 4 1 upscaling",
+   "title": "The Xbox Series S version of GTA 6 is seemingly the first to use AMD’s FSR 4.1 upscaling",
+   "link": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T10:08:25+00:00",
+   "seen": "2026-11-19T10:12:35+00:00",
+   "summary": "It was announced last month that the new tech was coming to Xbox Series X/S consoles",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Xbox Series S version of GTA 6 reportedly uses AMD’s FSR 4.1 upscaling, as announced for Xbox Series X/S."
+  },
   {
    "id": "gta 6 players are thirsting over character who might actually be a serial killer",
    "title": "GTA 6 players are thirsting over character who might actually be a serial killer",
@@ -116,6 +129,32 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "GTA 6 players are interested in a character who might be a serial killer."
+  },
+  {
+   "id": "gta 6 overloads reddit as global launch drives record traffic",
+   "title": "GTA 6 Overloads Reddit as Global Launch Drives Record Traffic",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NWmJfSzRZcGlQdHluN3luclJ0T3hudE52eDBKZmVsWGY3bE1tTVk5VkxPbF9DWXRZdVVhQm4yZmZGYVNaYTVjMjVsMVhzazRBNWdmTmJDMXdUc0lXTjlKQXdfUHo?oc=5",
+   "outlet": "SuaraGarut.ID",
+   "via": "Google News",
+   "published": "2026-11-19T10:06:24+00:00",
+   "seen": "2026-11-19T10:12:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 overloads Reddit as the global launch drives record traffic."
+  },
+  {
+   "id": "gta 6 crashes look fun in real life it could cost you 18k to repair",
+   "title": "GTA 6 crashes look fun. In real life, it could cost you $18K to repair",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1pRTWRGaXlXbm5JYy1iRFl3OGNSb2otUXNMMzB6b19KTW9UMDNjQ3VqenY1TWhPQTZjbHJteTg1UkVCTWZxSVJUVEg1SkY3RV9tV2tqMi1KNnE2MnJnX0xBMlpzRDlZYlVndWJDTmdCWXRPVDNvVjltT2xZYWx0cjJpM1g5c1YxYll0b1hyN1ZvdUw5VE1KZEtyYnFLdW1RYmc?oc=5",
+   "outlet": "USA Today",
+   "via": "Google News",
+   "published": "2026-11-19T10:06:00+00:00",
+   "seen": "2026-11-19T10:12:33+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 crashes are described as looking fun, but real-life repairs could cost a lot."
   },
   {
    "id": "i played gta 3 as a kid now as a dad i sneak away to play gta 6",
@@ -142,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A suggestion to take a day off to play GTA 6 and improve at work."
+  },
+  {
+   "id": "grand theft auto vi trains gamer spotlight on new zealand for a day",
+   "title": "‘Grand Theft Auto VI’ Trains Gamer Spotlight on New Zealand for a Day",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3F4UlYyOUVncGZqaFB5X3ZBcFN0b2FhVXRZSDVZcU9aeVhvVUZLU2NhZUViX0lrUVRjNlRINGxuUy1WbzNQQzlBeUx5R2pjZGF0UFFVR3RRaFlWSmZ5UkN3SHc2X2VyZE1uRnNROVM2SDdqWVVNSlZrcVBkOHpFTU9nN180Z0NaYkk3bWw0akhMNUsxc1JES1pyUE1JRjBaV09mWFNrQ2w1STEtLXotU19Tc19lQjRtQXV2eExOQmVpQQ?oc=5",
+   "outlet": "Bloomberg",
+   "via": "Google News",
+   "published": "2026-11-19T10:00:25+00:00",
+   "seen": "2026-11-19T10:12:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI trains gamer spotlight on New Zealand for a day."
   },
   {
    "id": "gta 6 is out now what parents need to know about its mature rating",
@@ -207,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story provides a map guide covering all six Leonida regions, Vice City, and map size."
+  },
+  {
+   "id": "apec summit gta vi launch wine parade today s top no comment videos from around the world",
+   "title": "APEC summit, GTA VI launch, wine parade... Today’s top No Comment videos from around the world",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkVja3ZJa0lQSzUwaDVXTHZJR1g1YU5DTDVIVE9JNl9JZkxrWHZUTEVaR2JHVmRhTUpHM291SmQ0NXNHb1B0Wjh5TnhWVWlQb1B5T0piT24yZkNqdXpUWUVoNzgwQzFoMkFrNC1oa2dSUnlJNEtDTTEySXlyZ1Uzcy0xb0tINFg4UVE?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-19T09:50:26+00:00",
+   "seen": "2026-11-19T10:12:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "APEC summit, GTA VI launch, and a wine parade are featured in top No Comment videos from around the world."
   },
   {
    "id": "gta 6 what are the cars like and how do you steal them",
@@ -2560,6 +2625,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Story reports questions about when players can play as Lucia in GTA 6."
+  },
+  {
+   "id": "grand theft auto vi release chicago area gamers calling in sick to play gta 6 video game as excitement builds",
+   "title": "'Grand Theft Auto VI' release: Chicago-area gamers calling in sick to play GTA 6 video game as excitement builds",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc3B3RElacTM1NmozZzMxQmRKY04tYU5ubWU4QUtHNWd3bUZaZEtrSWtDeTVGSlhjdk9zNk5xNEVrV1FCVXhJckJoYlU1ZmZvQlZ0cW5UYVNnWlgwMlFTbVBQdnprcmE5VTczandGNHl0cUdoSWE5aFltQ2pXenpBVlBFanJtdWFMWWRVMmhzMUk3cHR6SXMyNmhEZFFkRGUwU2ZqcGt0UklTUXpmLVM2YTNXdS1RNlRkdFBqUmZjUnNEYVRPc2cyRmFTZWc5TUp6QzJ4enp30gHbAUFVX3lxTE1PVU5aRU5tbnYwejNDUVZlOFVFdUFiTTR0RXVDRlNhbWNlWWlQdmdNeUhQd0NpbV9xUEJwTlRGbmhydm1nRjdsVGw3ZElBYW9FVmxEM0pLeGF0d3h3a3JiNFZPR1lqXzNwVE1lQlg2LVZXdVNCLVJza0pZal9nTjZMQWQtVTMyYl9JdHZ3c0VWU2N4MVpUZ1ZhSTgxbWhtYjFSOGZFYnZQWWxLbWVYdGtQMXAtTGFfWFZXcHZ5QXViaHJZT19NWVpsaHhVN3k3WTdMOElxeHB4TFU0Yw?oc=5",
+   "outlet": "ABC7 Chicago",
+   "via": "Google News",
+   "published": "2026-11-19T04:11:03+00:00",
+   "seen": "2026-11-19T10:12:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Chicago-area gamers are calling in sick to play GTA 6 as excitement builds."
   },
   {
    "id": "waterloo gta vi listening party",
