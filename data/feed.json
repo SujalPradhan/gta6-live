@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:46:42+00:00",
- "started": "2026-11-19T21:46:35+00:00",
+ "updated": "2026-11-19T21:51:41+00:00",
+ "started": "2026-11-19T21:51:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T21:46:36+00:00"
+   "checked": "2026-11-19T21:51:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T21:46:36+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T21:51:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T21:46:36+00:00"
+   "checked": "2026-11-19T21:51:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T21:46:37+00:00"
+   "checked": "2026-11-19T21:51:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T21:46:37+00:00"
+   "checked": "2026-11-19T21:51:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T21:46:37+00:00"
+   "checked": "2026-11-19T21:51:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T21:46:37+00:00"
+   "checked": "2026-11-19T21:51:37+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T21:46:37+00:00"
+   "checked": "2026-11-19T21:51:37+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T21:46:37+00:00"
+   "checked": "2026-11-19T21:51:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T21:46:38+00:00"
+   "checked": "2026-11-19T21:51:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T21:46:39+00:00"
+   "checked": "2026-11-19T21:51:38+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T21:46:39+00:00"
+   "checked": "2026-11-19T21:51:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T21:46:39+00:00"
+   "checked": "2026-11-19T21:51:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T21:46:39+00:00"
+   "checked": "2026-11-19T21:51:38+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi finally reveals the actors voices and familiar names behind vice city seattle post intelligencer",
+   "title": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City - Seattle Post-Intelligencer",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWdLU2kxQVM1WXAybzNzNndZQkdnQ2U4MlVlakFGdGJDMEx6ZWo0dWlGUzVJdXIyV3VNTjFZUWdOWUhFVTlJOVRPcVROLVh4Q0M1ZWw4SmJOaWMzTnFPMjZCdndZZkQzcDdwQWk2Tkd2Y1RSYlBIcWdiUUU5ekMwd3hXWVNyMzU1aVVqSVpjb21qWGxGTUJ0SlhR?oc=5",
+   "outlet": "Seattle Post-Intelligencer",
+   "via": "Google News",
+   "published": "2026-11-19T21:48:59+00:00",
+   "seen": "2026-11-19T21:51:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI reveals the actors, voices and familiar names behind Vice City."
+  },
+  {
+   "id": "gta vi finally reveals the actors voices and familiar names behind vice city",
+   "title": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajJuTmQtTnF4YWJ3Q0djenRIdDhNOERVX2YzQTJ5WVVaQllWZFpFcVhoNkpjekdNNy1paHJRVWFWTUEtel9HQ1JCQnFyWUE5VURJVDRucWR5Y2loOHotdG1xc3pNS0dOTHk3SHgwaXBlMGpFN1E4V19jU2tiQ0k1M29WMndHS016MUgxRDRKMk44VGpBb20yN3otQ0NaZEtMRk9VZjdKcmpvaDBxNjliRXhLdlVmU2hZR2YtLXpTMjU?oc=5",
+   "outlet": "WSLS",
+   "via": "Google News",
+   "published": "2026-11-19T21:46:38+00:00",
+   "seen": "2026-11-19T21:51:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI reveals the actors, voices and familiar names behind Vice City."
+  },
+  {
+   "id": "michigan gamers explain why they re taking time off work for gta 6",
+   "title": "Michigan gamers explain why they're taking time off work for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSUZmSHVIbF9yYk9zLTRGOFFMOVhNaHg2SmpzcWhzNXJHWkRpMC1meWNWeGdlekVXY3I0TlpESEhQUUxxTXl5cGpFNGFXakpWWGhvUGowbFR0LVNWLXVJQ241WWdRMWllZThGbHJxZWd1UEFIVHpsZGdMTndsZk1fUWo2blVybU9FMThqN1lKQXFwNHM?oc=5",
+   "outlet": "Michigan Public",
+   "via": "Google News",
+   "published": "2026-11-19T21:46:00+00:00",
+   "seen": "2026-11-19T21:51:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Michigan gamers explain why they're taking time off work for GTA 6."
+  },
   {
    "id": "gta 6 launch day hits different for fired rockstar workers",
    "title": "GTA 6 Launch Day Hits Different for Fired Rockstar Workers",
