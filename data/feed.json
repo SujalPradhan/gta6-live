@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:23:58+00:00",
- "started": "2026-11-19T14:23:51+00:00",
+ "updated": "2026-11-19T14:29:05+00:00",
+ "started": "2026-11-19T14:28:57+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T14:23:51+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T14:28:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T14:23:52+00:00"
+   "checked": "2026-11-19T14:28:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T14:23:52+00:00"
+   "checked": "2026-11-19T14:28:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:23:53+00:00"
+   "checked": "2026-11-19T14:28:59+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:23:53+00:00"
+   "checked": "2026-11-19T14:28:59+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T14:23:53+00:00"
+   "checked": "2026-11-19T14:28:59+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-19T14:23:53+00:00"
+   "checked": "2026-11-19T14:29:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T14:23:53+00:00"
+   "checked": "2026-11-19T14:29:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T14:23:53+00:00"
+   "checked": "2026-11-19T14:29:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T14:23:54+00:00"
+   "checked": "2026-11-19T14:29:00+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T14:23:54+00:00"
+   "checked": "2026-11-19T14:29:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T14:23:54+00:00"
+   "checked": "2026-11-19T14:29:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T14:23:54+00:00"
+   "checked": "2026-11-19T14:29:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T14:23:54+00:00"
+   "checked": "2026-11-19T14:29:01+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 debuts at 99 on metacritic tying ocarina of time s all time record",
+   "title": "GTA 6 debuts at 99 on Metacritic, tying Ocarina of Time’s all-time record",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDluQ2FoX1ZoMFhZWi1RT0JaVnR0eUstMDZSRVIwRGF4WEFqWGNocEhlNFFzWU1PMFBQMmJwS0NPbjBNUkNUY1lGbDcwSC1jVUN2Vy1paTRsMVBHQ2RqQ2ppUU4xQU1TUFpDVmVQNWdsUW9aTl8yblJ6cEZPd25XRVE0OUctcF81VnNaZ2FhRVN1bU0?oc=5",
+   "outlet": "GamesHub",
+   "via": "Google News",
+   "published": "2026-11-19T14:24:22+00:00",
+   "seen": "2026-11-19T14:28:58+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "GTA 6 debuts on Metacritic at a high score, tying a legendary game’s all-time record."
+  },
+  {
+   "id": "grand theft auto vi launch fuels work absences fake school closure posts",
+   "title": "‘Grand Theft Auto VI’ launch fuels work absences, fake school closure posts",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWVJRXVLNnRlcmtuSlJoQ0JZN3NCU25JRnllWkEtRDFDQ2FOX0Z4VHRSdzFLbkFyUXM1bzUyV1dXcWZtMFN3WDB6bVJlU2luT0xKQzdVaHoydXZfbDh3Z0dBTVRVR1VIdFdsODVIVWl0dnBfd3lQREMxY19xeHhrREZQV2pIcXhpOGtIdHgzWG9kNUM5cHFyc0prOU9xb1A3Z1l2d3lXRF9kU2MtckV4ZU9uTWtfZDA?oc=5",
+   "outlet": "KSAT",
+   "via": "Google News",
+   "published": "2026-11-19T14:23:22+00:00",
+   "seen": "2026-11-19T14:28:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Launch of Grand Theft Auto VI leads to work absences and posts about fake school closures."
+  },
+  {
+   "id": "how to quickly increase and reduce your wanted and heat levels in gta 6",
+   "title": "How to quickly increase and reduce your Wanted and Heat levels in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ncnlZeVU0M2hIRklPVVh3eUMtb3UzcXh2QzdGWE5lM1BWQm1PY1RSMEJqS3piZGJfNFNMem50ai11OUlHTzJCNUpzM1M3QjU3eGxtRnJWNlktMHVUYkFGa2xvZ3A?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-19T14:21:57+00:00",
+   "seen": "2026-11-19T14:28:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to quickly increase and reduce your Wanted and Heat levels in GTA 6."
+  },
+  {
+   "id": "the official gta 6 map is now available to download for free",
+   "title": "The Official GTA 6 Map Is Now Available To Download For Free",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUVsU3hqekwtRGZBOXRoY29GNUNaSDVRc24wcG84WjNhRUFCNWV0SWsxdmFrVFNnaERGcjMxM19DOVBaVUVWUGYzYnloT3lnWWxma28tRGQyZHBPRUlRVzA4RWZTXzkzcmY1TDFpWS04eXJ5Z0ZfT3NsbkpkT2g0SDB6UU9ZN0RQa1dOTU91SURtMHRVZDN3WmhhOFdMZWs?oc=5",
+   "outlet": "Pure Xbox",
+   "via": "Google News",
+   "published": "2026-11-19T14:21:00+00:00",
+   "seen": "2026-11-19T14:28:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Official GTA 6 Map is now available to download for free."
+  },
   {
    "id": "grand theft auto vi sees record breaking pre sale numbers",
    "title": "Grand Theft Auto VI Sees Record-Breaking Pre-Sale Numbers",
@@ -168,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 removed a popular feature that many fans enjoyed in previous games."
+  },
+  {
+   "id": "gamers call gta 6 best game of all time hours after debut",
+   "title": "Gamers call GTA 6 'best game' of all time hours after debut",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcy05elA1ZmtJOVdobHRyRDJzS1gtTHNWTFZmVWdzQndFR2lyWml1cGZsMEdHbUp4emR2b1NVejlBUzNpYjNyM01CekExeDJRbUtoZkNCdDByR3FOSHAzOXpCc0p0NUZMQS1HYnZueWsxcWVrRUhsazFLQ2JJWFU3N0pFdlBkTlAwYmx2dHFIUC1fMnJBTXVLQnR0RFJwQdIBowFBVV95cUxOZnBRWlItODkxcU1xZUI5SUhRd0tGcEV5bmxkY24xNkVxS0Y0TDlJSGdzelN4WGVhZkx1aVZrYnotcE45NFczc3VUMVdCLXBINzRkakNRQXVwWk5tVWNaV3VfMEc5TGtiRy1yd1hMWHNOMTRSQ21BRjhCYjNURzhweW9VTFpKNk9XVW50dTBPQ1plcjRPbktuU0ltdTQyZVZXZGw4?oc=5",
+   "outlet": "Good Morning America",
+   "via": "Google News",
+   "published": "2026-11-19T14:16:22+00:00",
+   "seen": "2026-11-19T14:28:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Gamers call GTA 6 the best game of all time hours after its debut."
   },
   {
    "id": "how many people are playing gta 6 right now there s no official count yet but estimates top 19 million",
@@ -402,6 +467,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to save the game in GTA 6."
+  },
+  {
+   "id": "an ap reporter tried gta 6 i am in shock",
+   "title": "An AP reporter tried GTA 6: ‘I am in shock’",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTDdYaldWcUk0QTkwM3hIVUpSUUpDdzJpMHh0MGRaWmhYWWU2VkRMRl9yakNXRVJmaEh2dFNHLTE5eHZ2QUVzTDNnMnJ0WVYyaTFhNHd4VUlSYmNJNjd0ODVOa1BxTkhLR1J5NVVDU1RiVGdCVm1UNmhNS3pLYm03TS1YTGowWnRrc0d5aWNITzkzUEw2aXBiMWFiTHRaQTFhUElJdnlVVEZpaElQejAzaF94eExRS1RLbmduRGx3V0NjRVhOSm5heThqNmU?oc=5",
+   "outlet": "Daily Gate City",
+   "via": "Google News",
+   "published": "2026-11-19T13:49:53+00:00",
+   "seen": "2026-11-19T14:28:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An AP reporter tried GTA 6 and said they were in shock."
   },
   {
    "id": "atlanta police urge gta vi players to keep crime in the game",
@@ -5368,6 +5446,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Mashable lists six mundane activities players can do in GTA 6."
+  },
+  {
+   "id": "gta vi is the highest rated video game of all time according to metacritic",
+   "title": "GTA VI is The Highest Rated Video Game of All Time, According to Metacritic",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkY4QWEyV0djaWpCSktnRWF6Mzd6bmVSYWtfWHdQbjNRc3o2anVCSHdPNzhpT3o4cDVXSWd2N3NqVlpkQTJhR1NLVVVqQkR3UlZoZ3JmR1Y5WjdfYUZyblJzbW01NExOaGY0Z1FkVzVEdzhWaHR1ZWs3amNUYUU3akU2ZEpnQzBkNFpqMldDQlBtZDNuVVRNMVhPY21mVjZPVjZTQ1dR?oc=5",
+   "outlet": "GLITCHED",
+   "via": "Google News",
+   "published": "2026-11-19T06:39:54+00:00",
+   "seen": "2026-11-19T14:28:58+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "GTA VI is reported as the highest rated video game of all time according to Metacritic."
   },
   {
    "id": "grand theft auto vi excitement reaches kutztown record store alvernia campus",
