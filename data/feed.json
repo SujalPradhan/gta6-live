@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:36:58+00:00",
- "started": "2026-11-19T22:36:50+00:00",
+ "updated": "2026-11-19T22:42:18+00:00",
+ "started": "2026-11-19T22:42:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,191 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T22:36:51+00:00"
+   "checked": "2026-11-19T22:42:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T22:36:51+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T22:42:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T22:36:52+00:00"
+   "checked": "2026-11-19T22:42:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T22:36:52+00:00"
+   "checked": "2026-11-19T22:42:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T22:36:52+00:00"
+   "checked": "2026-11-19T22:42:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T22:36:53+00:00"
+   "checked": "2026-11-19T22:42:13+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T22:36:53+00:00"
+   "checked": "2026-11-19T22:42:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T22:36:53+00:00"
+   "checked": "2026-11-19T22:42:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-19T22:36:53+00:00"
+   "hits": 4,
+   "checked": "2026-11-19T22:42:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T22:36:54+00:00"
+   "checked": "2026-11-19T22:42:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T22:36:54+00:00"
+   "checked": "2026-11-19T22:42:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T22:36:54+00:00"
+   "checked": "2026-11-19T22:42:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T22:36:54+00:00"
+   "checked": "2026-11-19T22:42:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T22:36:54+00:00"
+   "checked": "2026-11-19T22:42:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "you can t just play an hour grand theft auto vi craze sweeps across the triad",
+   "title": "'You can't just play an hour' | Grand Theft Auto VI craze sweeps across the Triad",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY1NIUm9wV2RndUxHVUxORHVHdUx2d2EwR3JtaS0wdERxUUlNT2JjOHg3bHNuNWNFcWNYQ2ZJcGdiTXJLbE4ybzhfRUxxSWdWaHp5VS03ZUJ2YUJyY09uU2hXT3o1RTZDVUtrZy1tMmI1QzVOM3JqQzdmQVNabmFzaWJyVzRZWkVZSDZzcWVIbXBWdDFyRC14YzJ5WS1KaXdXSnpUX2JnUVRuR2lOVlNZbC11eV81WklTN0dHYWdvV3VKcHFyd0g3M21qSmthMFRsckE?oc=5",
+   "outlet": "wfmynews2.com",
+   "via": "Google News",
+   "published": "2026-11-19T22:39:00+00:00",
+   "seen": "2026-11-19T22:42:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA VI craze sweeping the Triad and says you can't just play an hour."
+  },
+  {
+   "id": "gta 6 moses mission walkthrough",
+   "title": "GTA 6 Moses Mission Walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-moses-mission-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T22:38:25+00:00",
+   "seen": "2026-11-19T22:42:13+00:00",
+   "summary": "Get a new whip with Moses in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 Moses Mission Walkthrough and mentions getting a new whip with Moses in GTA 6."
+  },
+  {
+   "id": "gta 6 is finally here after 13 years was it worth the wait",
+   "title": "GTA 6 is finally here after 13 years. Was it worth the wait?",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDVKajRUd3AybWpMVG9RMi04R3F3b3VHM0xPUjl2dzFfZ2g3VzRtVnhGY1Z5VHdETjB4S09sVEtnSE9iRERKSEg1S2xPUVlDcVVFMDctLU41R1hYMEYyR2ZDSEptblR1dTRLVS1iUl9HbEFWNE8xck9wQU5WcF9qVlE2OUo3UDJZOUJMckNrSUN1SGVuSzRHeFRtaDBHTWR6OUVhRzBSalVvTGx2bDFkZG9nU3FHQTlxc3M3cWZHV3JqTXVQeUVRRUtCZ04wZnVJNWZ1X3MxOEJkMVhl?oc=5",
+   "outlet": "wfmynews2.com",
+   "via": "Google News",
+   "published": "2026-11-19T22:37:00+00:00",
+   "seen": "2026-11-19T22:42:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 is finally here after 13 years and questions if it was worth the wait."
+  },
+  {
+   "id": "is gta 6 the greatest video game of all time the reviews are in",
+   "title": "Is ‘GTA 6’ the Greatest Video Game of All Time? The Reviews Are In",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCd2JaSkUxQkRESWVabl9tcm5jT215NUVOOV9Ga2ZhWkswU0loNEZadl9LVnY0bFNZWnB0eVI4NkpDNXZMbUpsVnducmw1T3hycUtUNWZCci0zZHNRXzNNdktDcGcwd1N5Qkh5T2R1S2xVblBBdFRtbVJ3?oc=5",
+   "outlet": "Man of Many",
+   "via": "Google News",
+   "published": "2026-11-19T22:36:14+00:00",
+   "seen": "2026-11-19T22:42:12+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "The story asks if GTA 6 is the greatest video game of all time and notes reviews are in."
+  },
+  {
+   "id": "gta 6 s new police system ends the easy getaway with flock like cameras",
+   "title": "GTA 6’s New Police System Ends the Easy Getaway With Flock-Like Cameras",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzJyTDBDTms0eUlGQXc4a1plWUpzelR4MUw3ZlVuNDAtWjV3cWI3Y3FBLXN5VGtIclNRd3pJU0R3NmdMZHFDMldMQkhkdER1ZWJ3N1Y2M05PT09KUzNsaXVxQkpqT3J4UVBuNElpdWJnMDRFcE1zUl93MVlwTnUzT3AtNEJhcFpFOUxFckc2VUF5d3RHNmp0RWtoMFBsLWpVSGtmdlk3VQ?oc=5",
+   "outlet": "Newsweek",
+   "via": "Google News",
+   "published": "2026-11-19T22:36:00+00:00",
+   "seen": "2026-11-19T22:42:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6’s new police system ending easy getaways with flock-like cameras."
+  },
+  {
+   "id": "i kill everyone adin ross responds after gta 6 gameplay sparks racism accusations",
+   "title": "‘I kill everyone’: Adin Ross responds after GTA 6 gameplay sparks racism accusations",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPOG5SMjQ2NXoyRW9qaXdjUThTekxWZXJ4N0VLU2ZfS0wxYlRYQ09zNW9fSDA5NFB6NzFZaGxmOGNHT0NzcUlqMDY5TzJQRkpCUzNQRlRZNnhyWDdqWlZ6X2tUT3FNQkVWNXdnYXlFS1ZiMGhpakFSTTZZWDhpTXJQREp2ZUt4VGtHNlRNNktXdXYwU0dtVUszT0p5cDJGd2RFRGY0U3RZNWxISzdId0tueGJ0Z2FWUWJiVU4tTGRYNWducDJaaXlGTHFCNUd0OUlkdVBKdnptY1JOVzhrVXYxdmd0V2VYRVFlZ01vRE9SaDlWQTFSU0JPeWNCYldNRnlDc0t6Sk5jaFRPOXJ5blRYbHI2YkJhSFF1RzFmcWRtQW1rMW1Pc0o3RHEydFA1Q3pUcTlOMjdiSVZ0YkJSaFAySVN0MGzSAfoBQVVfeXFMT2E2eW5pSVZUZFhMWlFldUxyM0kwb3h3d3FfNEgta1VvOFJaOXhueUtfZFRCSU1VX3oxeHkyeW9BUkdNckdkNFZuajRQNUp2bUNmMTRXUHBjbzRDc3FkeXRGRUptaFNfTjhzRV9UT3QxWkg4TzEzRmJYRlZsc3Fabm0yMDJOM0tXYUtOWl9LaUZLVUxSbUhWVTJOeDhtTlpVZU5fUE1JQkNCQ2lBNXNYa3Q5RFQwZTdRTFFTelZYcGxIMU5iUEpvVWJ4ZVgyMlllb2RicXppWDRQcWNiUkJ3WVFBNHRaLUFzRE9QUW9zMXQ3c3pfT1A0VkZQUQ?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-19T22:36:00+00:00",
+   "seen": "2026-11-19T22:42:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Adin Ross responds after GTA 6 gameplay sparks racism accusations, saying 'I kill everyone'."
+  },
+  {
+   "id": "grand theft auto vi releases to critical and commercial acclaim",
+   "title": "Grand Theft Auto VI releases to critical and commercial acclaim",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHBnYmpZZzBGeHUyaG5iME1IcktRZ2MtMW5SY2JFYUdabGgxRVJvNFV6bF9WNGJoWWFFTWhPUGVNcmdQR0ZRd0pyWXBvMi1UZUU1eTV6LWVMbklod0tpUEN4Z25FcHlMcFJWVnducWdqMHJhamplYms5RnNmUUNSMjdGeHlvRWR4TXd6RTRZdlh1TFRsczdrVEpMQ3pyM0dYWFI5SWt1VnNJNDdac1hOOXhvQmJSTDdscEFFRjZWV2RUUWhQd0lTc19Gc3pKdVc5MGI1T1IxdGlDZkhqXzZRbUdSSzRZU1ds?oc=5",
+   "outlet": "13newsnow.com",
+   "via": "Google News",
+   "published": "2026-11-19T22:34:00+00:00",
+   "seen": "2026-11-19T22:42:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "travis scott just dropped more gta 6 merch on his website",
    "title": "Travis Scott Just Dropped More GTA 6 Merch on His Website",
@@ -131,6 +221,30 @@
    "ai_summary": "ESPN's Kyle Brandt praises adults taking off work for GTA VI."
   },
   {
+   "id": "bully 2 could be rockstar s next big game after gta vi",
+   "title": "Bully 2 could be Rockstar's next big game after GTA VI.",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGg2SE44eHpLQ3dxTXFUcWJvUW5leEpGSExEenY0SV9lV29KMzNVWXUwTlFPOGpCcXp4MHBqbXpScXRQX2w4REJMRFhrTUozaHV5UzJlUmE5VUFoSXFicWJIS1BBLVluVWFscENIVFZFcVpPVlpEZ3FHR2RfSVl3QVBTUUJPUmhjdEJueEhxOFNfLWo0VnQ4cGpzMjItSXJ5dGlkWQ?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-19T22:31:57+00:00",
+   "seen": "2026-11-19T22:42:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "local deputies join gta vi buzz urging players to separate games from reality",
+   "title": "Local deputies join GTA VI buzz, urging players to separate games from reality",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGkyTlN2RUJHWXpoeDhPR3hKMlZiejNQb0d5ejBONzJ0VGJINlRZTjNNRlJPa1BUYVdyQVUxQ3lQSXlDbS15VkQ4emNYREJISlUwRWdXU2JWYkhLOGg0Y1pTX3BOWnJkWnZtaVZoS2Fpd1RETzBKSVVROGpCSWhHVzJHVUJtSThlb3R4bWFEY1VzVTg2NkVkYjBqTEQyQVFHZ2wyVU5OTEdhZkU1?oc=5",
+   "outlet": "WRDW",
+   "via": "Google News",
+   "published": "2026-11-19T22:30:00+00:00",
+   "seen": "2026-11-19T22:42:12+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false
+  },
+  {
    "id": "when can you get a new safehouse in gta 6 next hideout explained",
    "title": "When Can You Get a New Safehouse in GTA 6? Next Hideout, Explained",
    "link": "https://insider-gaming.com/when-do-you-get-new-safehouse-gta-6-explained/",
@@ -142,6 +256,18 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains when players can obtain a new safehouse or hideout in GTA 6."
+  },
+  {
+   "id": "gamers celebrate launch of grand theft auto vi",
+   "title": "Gamers celebrate launch of Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbElsakl1WUNCWVFyc29GUU9Bb1FSMG1jSGI2YVJpLVl5S0k5NEFoUUNQYnExQm1EWjZTMVFTTUFIaWwtRkpDa3F6ZXB3bG9tQ2IzOGREb2RHS0ZDMzRPR3ppWXZZUVRSdTlnSUNyME5RY3J2WWs2XzZENFBNdHF5SkVR0gGWAUFVX3lxTE5JYWl2dUVFU0stNE4zOW5aeTVuajkzUXRiVUhfQ2tla1cwdWR5cDBqUUlGcEpxWXoteFlaN1VQaVJsWDNlcE1NS1QyR1pCdDJkVWNRTWRyWllFT1EyakhKUjhPMlUxM0xuYmR3RkM0V0FkWTVxM0RMR3ZGSmw0c0pKaUZfaGdSbWZqR1hPMHRwdE5hSnhLUQ?oc=5",
+   "outlet": "WFSB",
+   "via": "Google News",
+   "published": "2026-11-19T22:29:00+00:00",
+   "seen": "2026-11-19T22:42:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "gta vi release day where pirates were when gta v dropped",
@@ -272,6 +398,18 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 launch and sports talk with PudgyBoyz Sports Talk is covered by FOX 5 New York."
+  },
+  {
+   "id": "grand theft auto vi reimagines cedar key in game we kind of love it",
+   "title": "Grand Theft Auto VI reimagines Cedar Key in-game: ‘We kind of love it’",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEVTMXJnYXdzSi1wM085bkk5MzRXVE9TalVJWnRlQ3VCTXNOZTlEVXBUYnJCQ1ZaRzM0YzJVZGZ5cjRHalhpMlRJbm5HX1EwMmNPZHF6VHRWMFFodjFXR1U4OFpzYU1iUWdpY2JTcE9LdWk2NzdPTjhYWmhlMFNSaXFxSWx6UktYZVJJQXhHWTJfXzU3N05WTktLSzRaS1llYjlmck5n?oc=5",
+   "outlet": "WCJB",
+   "via": "Google News",
+   "published": "2026-11-19T22:19:00+00:00",
+   "seen": "2026-11-19T22:42:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "grand theft auto vi is putting online streamers in the spotlight",
