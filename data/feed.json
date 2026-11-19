@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:13:44+00:00",
- "started": "2026-11-19T13:13:29+00:00",
+ "updated": "2026-11-19T13:18:43+00:00",
+ "started": "2026-11-19T13:18:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T13:13:30+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T13:18:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T13:13:30+00:00"
+   "checked": "2026-11-19T13:18:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T13:13:31+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T13:13:31+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T13:13:31+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-19T13:13:31+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-19T13:13:31+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T13:13:31+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T13:13:31+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T13:13:32+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T13:13:32+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T13:13:32+00:00"
+   "checked": "2026-11-19T13:18:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T13:13:32+00:00"
+   "checked": "2026-11-19T13:18:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T13:13:32+00:00"
+   "checked": "2026-11-19T13:18:40+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece notes GTA 6 memes on Instagram mocking Rockstar's delays and more."
+  },
+  {
+   "id": "anthropic s 90 4 billion ipo and grand theft auto vi land the same day a 64 year old collecting social security day trades the debut for a 5",
+   "title": "Anthropic's $90.4 Billion IPO and Grand Theft Auto VI Land the Same Day. A 64-Year-Old Collecting Social Security Day-Trades the Debut for a $50,000 Profit, and Social Security Ignores Every Dollar of It",
+   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOWGtIYkNHTjNIRVlEVW8wRnBrSjhVdlFJT01LajlaQnpwX0tTOHFsWTN4RHhHdmZiM3dzcl9DWTZWU3ZHTUhxdEtiNy1YQ1FlUmhabHo3NmJKNVMwWG1jN0JhMWlfaG5ScER2UU5lY05ZTk9TelVESjlNdm1uMTRXTnJDN24xZlNWeW5PbWR5Yk05WFF1ZkJOdXFWSW0zeXBPUThmdDBrM29KR2k1U2czNXM2S1hiTkpXRE5Fd0J4UWlVVjJCTEhYa2I5Uk50azZMemh2RkhiM0pJOWM2TFZZbUVfdzVGdVlwa2ZxNlZhV3ZGZ01jME1RVnFtNE5tTjBYTVliNHRpdzRiR3RBT1BTSFhLQjhWVTBESTFRTjk4cWRpOGVRdFpoTkY1NS1kYTZBSTN1c1JhRi1yUXB5b3MxcXhZcG4zXzNsMEF4TUtlTE5sSU1TdGJrMEdXbVFtUjhZejJVWmplYTJQazZUR2ZMMnpjS1prdFk?oc=5",
+   "outlet": "24/7 Wall St.",
+   "via": "Google News",
+   "published": "2026-11-19T13:05:00+00:00",
+   "seen": "2026-11-19T13:18:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story compares a large IPO to Grand Theft Auto VI launch and mentions a 64-year-old day-trading Social Security recipient profiting, with Social Security ignoring the profit."
   },
   {
    "id": "aj dybantsa makes grand theft auto vi joke after wizards snap 8 game losing streak",
@@ -324,6 +337,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story claims GTA VI could be the largest entertainment launch in history."
+  },
+  {
+   "id": "conor mcgregor gives 400 employees time off to play gta 6",
+   "title": "Conor McGregor gives 400 employees time off to play GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkZOS1dPUmwtQy1wS2F0OTg3N3FMVlVhUU1WdW8tZUl0Uy1qYVVtX1lIeUROTEVUWlZRc3dpN08zX0NUaTd4TkxpM2g4ejVaeE4zbHZoWW12UGZDTDQwSWlZZzBHeHNDVkNrR2VyZmdVYUZqZUlRc0EwcDNTWV9Od3h2QkdvNUI4TnlV?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-19T12:42:19+00:00",
+   "seen": "2026-11-19T13:18:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Conor McGregor gave 400 employees time off to play GTA 6."
   },
   {
    "id": "gta vi how much lost productivity will new grand theft auto game actually cause",
