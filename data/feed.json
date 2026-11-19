@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:11:05+00:00",
- "started": "2026-11-19T20:10:58+00:00",
+ "updated": "2026-11-19T20:16:12+00:00",
+ "started": "2026-11-19T20:16:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,167 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T20:10:58+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T20:16:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T20:10:59+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T20:16:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T20:10:59+00:00"
+   "checked": "2026-11-19T20:16:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T20:10:59+00:00"
+   "checked": "2026-11-19T20:16:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T20:11:00+00:00"
+   "checked": "2026-11-19T20:16:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T20:11:00+00:00"
+   "checked": "2026-11-19T20:16:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T20:11:00+00:00"
+   "checked": "2026-11-19T20:16:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T20:11:00+00:00"
+   "checked": "2026-11-19T20:16:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T20:11:01+00:00"
+   "checked": "2026-11-19T20:16:04+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T20:11:01+00:00"
+   "checked": "2026-11-19T20:16:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T20:11:01+00:00"
+   "checked": "2026-11-19T20:16:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T20:11:02+00:00"
+   "checked": "2026-11-19T20:16:05+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T20:11:02+00:00"
+   "checked": "2026-11-19T20:16:05+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T20:11:02+00:00"
+   "checked": "2026-11-19T20:16:05+00:00"
   }
  },
  "items": [
+  {
+   "id": "all gta 6 base jump locations",
+   "title": "All GTA 6 Base Jump Locations",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvXzVEcVBhMC1ZUXhaTFZWLXFjUnRoSlFrTnJpSll0RHBNWElBREFqZmRxY053OHBNVjQ2dUR4djdnbnR2NUVsV0J5THdpUU5pc1ZaYUE5elB0S0pXdzBsZHphclJKRk5UalgweEdsNzhmdw?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-19T20:09:56+00:00",
+   "seen": "2026-11-19T20:16:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "All GTA 6 base jump locations are listed in the story."
+  },
+  {
+   "id": "gta vi pulls in estimated 1 84 billion by release day more than double gta v s launch record",
+   "title": "GTA VI pulls in estimated $1.84 billion by release day, more than double GTA V’s launch record",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1VKbFR5SEVfMThlSEFjanJXbElBcm9wV0U1Q2luQ0c3TWUwSk1BT05wWnlQbFM3dkxSMVY1eXN5OGRTRmdHZTBCSEM5YU8xUjlpNy00bU9nblQ5ZF9XS1FwOEV2T29mQmxlbDFQSkh2YU0xS2tyWmZ3b1czQkxSaHdzdUVFbUhFZEhvOHhEZFQ1TWhQbHFIVnB4ODBDbFlJLVY5OXNtVjJxRjk5bGZEbER6OA?oc=5",
+   "outlet": "FOX 5 New York",
+   "via": "Google News",
+   "published": "2026-11-19T20:08:17+00:00",
+   "seen": "2026-11-19T20:16:00+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI reportedly earned a large amount by release day, more than GTA V’s launch record."
+  },
+  {
+   "id": "fox news panelist sparks debate by comparing gta 6 to giving a child a gun",
+   "title": "Fox News Panelist Sparks Debate by Comparing GTA 6 to Giving a Child a Gun",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkw4NWtkaVJuazZ4czloN2lPd2xyQkx0WVgxR1FFcTdXQlhXUzNqc3VBSFFSVTNQWkpJczF6Q3lTWXJUamRWU1M3Mmtfc1U1aDZzbk9lQm1SRGxKWXRrSHhodmZzcWV5R0t0bVNPQjB6dE1IV0RGYXFyVTF2aDNfY2laYS0xZ0wyT3A3YzlhdUZ5eWViZm0teDNXbklveDdQMFN5aWRaOENFVFJJ?oc=5",
+   "outlet": "Newsweek",
+   "via": "Google News",
+   "published": "2026-11-19T20:08:00+00:00",
+   "seen": "2026-11-19T20:16:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Fox News panelist sparks debate by comparing GTA 6 to giving a child a gun."
+  },
+  {
+   "id": "grand theft absence midcoast gamers play hooky to play gta vi",
+   "title": "Grand Theft Absence: Midcoast gamers play hooky to play GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlV4VTdyMVlxZmdiM052Q0JSRHdIOVRnU25RbmxPRzRKYmNoWU5ia042YWQyRW1JTWxNV1JCemRoUjdRU2Q2ZzB2S1VFbTZaN2twM1NZSG9LQVE3WnRHcExZbllzMVRGQThwUW10UUdhU0tpYlBEVVZ6S0k3cjZ3SWNTTEtCZ1VERGc?oc=5",
+   "outlet": "Bangor Daily News",
+   "via": "Google News",
+   "published": "2026-11-19T20:05:00+00:00",
+   "seen": "2026-11-19T20:16:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Midcoast gamers reportedly played hooky to play GTA VI."
+  },
+  {
+   "id": "key largo s caribbean club draws gta 6 fans",
+   "title": "Key Largo’s Caribbean Club draws GTA 6 fans",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXF3Unc1M1JlWXVPZDJyWVpvaUh0QjlwQWV1Zk9oSGk1enFMbzNpMkNTUU4wNC1RSjFrN3MxLWktMzFUa2VRX2ZJMjY2NTNodTlOdkVQelE1V3ZRZVllRmJQX1BNa1N3VWRmT1lfTlZJclF0b2p2Y3FWTVBRZ254dXlpQTZGM05NM1pEM1JMejBQU05ha0FVVFBMbU5mQmlMb2pSa3QtUVgwenFlaEJIVkJGM0RKQkp6RTJELWFmanRoT0ljS0xUMQ?oc=5",
+   "outlet": "keysnews.com",
+   "via": "Google News",
+   "published": "2026-11-19T20:00:00+00:00",
+   "seen": "2026-11-19T20:16:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Key Largo’s Caribbean Club draws GTA 6 fans."
+  },
   {
    "id": "gta 6 mandy actor reveals her identity amid fan obsession",
    "title": "GTA 6 Mandy Actor Reveals Her Identity Amid Fan Obsession",
@@ -116,6 +181,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a Mandy actor for GTA 6 reveals her identity amid fan obsession."
+  },
+  {
+   "id": "gta 6 mandy actor reveals her identity amid players obsession",
+   "title": "GTA 6 Mandy Actor Reveals Her Identity Amid Players’ Obsession",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85XzdBN0xqSUlSWDhPaWltRktKRTJtVE9sUHhUQmdpM3dpZHROQ1d2Z2FvZXhUZXZCaFZnMHpLcUZES2ZhTTlocU1ybE9KenQwdVMyNl80elBpWTR4NTV3NmVjR29BYnh2TE5yWXhpREY4Zw?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-19T19:58:44+00:00",
+   "seen": "2026-11-19T20:16:00+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "A Mandy actor for GTA 6 reveals her identity amid players’ obsession."
+  },
+  {
+   "id": "gta 6 grand theft auto 6 official global launch trailer",
+   "title": "GTA 6 (Grand Theft Auto 6) - Official Global Launch Trailer",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFRLbnp1WXBpd3NSTGd5NURQQnJCaV9NUWNvaGdLTDBGUTNHSDNVMEhVOVNNc2kyMTdTZ2tTMlVKVkJpX2R3RWdqdlg4b1FjNE9oTVkxRTJ2WG9CeGFNTm5kX29TaUwtU0g2dzc4amF5OFBCRDY5Q0c5MldGcHdsc3l5cmxpdFA3a29mZklUSnk4UUoyOWtRVkkyOHVaSzRBOEtF?oc=5",
+   "outlet": "IGN España",
+   "via": "Google News",
+   "published": "2026-11-19T19:57:31+00:00",
+   "seen": "2026-11-19T20:16:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Official global launch trailer for GTA 6 is released."
   },
   {
    "id": "grand theft auto vi releases to the public",
@@ -324,6 +415,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on discussing sex in GTA 6."
+  },
+  {
+   "id": "gta 6 rockstar explained how content from the game s ultimate edition works",
+   "title": "GTA 6: Rockstar Explained How Content from the Game's Ultimate Edition Works",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLW1vU0F2LVU0c0dvTnBoQ0E4V29fdUpTcTBFc1hKVlZqNWFKeFQ1QmZmQUlJZkRJTzgybXh3SUp3VUU4NEhWSVlYdkY5dkNHNHVKa1ZTTlhibndhOHplay1iNmZRVG51X3hFR3Zob2lBN0tfRE1TSS01VDgwUFpveEtwRlFHWEFzcjNheU50cy1WbU9sNGFZSFZGQQ?oc=5",
+   "outlet": "EGW.News",
+   "via": "Google News",
+   "published": "2026-11-19T19:39:03+00:00",
+   "seen": "2026-11-19T20:16:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar explained how content from the game's Ultimate Edition works."
   },
   {
    "id": "grand theft auto vi has just hit screens and the los angeles district attorney s office is urging players to keep the theft on screen and of",
@@ -1364,6 +1468,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 is released following a long wait."
+  },
+  {
+   "id": "gta 6 broke an internet traffic record but not the one you re seeing on x",
+   "title": "GTA 6 Broke an Internet Traffic Record, but Not the One You’re Seeing on X",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNm5kcy1tQ3B4aVhyaE9WOEFwQ1Fta3k0cEZsOHBTMW40YWMzOXRHczdoRE9lT1RZZnlaUlB5SG11dnlBRk1WX1RUcHlrMjhIN2h3bi1vcGpKamlHdWh6RGwyU01xUTd1YVFlMmN3bUtLdkN6VW9wc3pQR3AweE9XSGFQNU8?oc=5",
+   "outlet": "TalkEsport",
+   "via": "Google News",
+   "published": "2026-11-19T18:04:09+00:00",
+   "seen": "2026-11-19T20:16:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 broke an internet traffic record, though not the one seen on X."
   },
   {
    "id": "seattle s grand theft auto vi fans take days off work",
@@ -2653,6 +2770,19 @@
    "ai_summary": "The headline reports information about GTA 6 possibly being on Xbox Game Pass at launch."
   },
   {
+   "id": "gamers flock to vice city as grand theft auto vi launches worldwide",
+   "title": "Gamers flock to Vice City as Grand Theft Auto VI launches worldwide",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSW16SGs3dGF4bVZtOFhOOGx3MC1yTW9FX0V6eFU5dTcxRDNpaTk4MkdVclQtaWFmRXotWmNSTldHQ2F2VjVpZUg2UGwwb3FXUm9TRGRBa0tOejlwYXZOWTI5emZ1MHZSMHdXT1lQTl81T2NwdjFQU0hBSEg2bVJUdU1saWVxVTh0cXJpSlU3TWU5RV9QUUc5MHJMcjRoQXkwUHVpWkZaeXo1UQ?oc=5",
+   "outlet": "Reuters",
+   "via": "Google News",
+   "published": "2026-11-19T16:52:00+00:00",
+   "seen": "2026-11-19T20:16:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gamers flock to Vice City as GTA VI launches worldwide."
+  },
+  {
    "id": "now that i ve played gta 6 on ps5 pro here s what i want out of the pc version",
    "title": "Now That I've Played GTA 6 On PS5 Pro, Here's What I Want Out of the PC Version",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnU4REp4NjB3ZV9KQ3JvUTVGc0tiZHBwWmhxUnVraWhlVGhGcGNWMTRVT1hGcklHalBFTUdtLVlfTlFsdWJma1FvOFI4a1FWbnVOM09DZnZ0WXFnTTBHYkdwVEhwQ0tCMkdIakh0MzIxaUlPcFhkR0k1Y2hfYzFXTzk0Q3NWWkdHSVhiN0o4cHc2VmtlMUllOHNYOHRPbHFQaFdVN2hqRG0?oc=5",
@@ -3496,6 +3626,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is made in Bengaluru and set in Miami."
+  },
+  {
+   "id": "gta 6 backseat gaming with ign",
+   "title": "🔴 GTA 6 Backseat Gaming With IGN 🔴",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNclhHUXYxMzdoSThIY0dXMDROMDQxazFLWDc2cFlpR29hQnY0TzU0TGZNZ3kxbXgwVEtOMDhSSFlGZEUyLVpFN08tdzhLS3FDbHQ0REVwR0R5SmRjWXh6TExzV2JNX0lpTFpJSTBsazFiMEJfV29ZNGllYlB1Zkc5QjdxTWlhU2c?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-19T16:00:00+00:00",
+   "seen": "2026-11-19T20:16:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 Backseat Gaming feature with IGN."
   },
   {
    "id": "today s your last day to order gta vi and get the free vintage vice city pack",
