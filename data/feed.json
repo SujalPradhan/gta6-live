@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:41:41+00:00",
- "started": "2026-11-19T08:41:37+00:00",
+ "updated": "2026-11-19T08:42:49+00:00",
+ "started": "2026-11-19T08:42:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T08:41:38+00:00"
+   "checked": "2026-11-19T08:42:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-19T08:41:38+00:00"
+   "hits": 92,
+   "checked": "2026-11-19T08:42:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T08:41:38+00:00"
+   "checked": "2026-11-19T08:42:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T08:41:39+00:00"
+   "checked": "2026-11-19T08:42:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T08:41:39+00:00"
+   "checked": "2026-11-19T08:42:48+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-19T08:41:39+00:00"
+   "checked": "2026-11-19T08:42:48+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T08:41:39+00:00"
+   "checked": "2026-11-19T08:42:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T08:41:40+00:00"
+   "checked": "2026-11-19T08:42:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T08:41:40+00:00"
+   "checked": "2026-11-19T08:42:48+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T08:41:40+00:00"
+   "checked": "2026-11-19T08:42:48+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T08:41:41+00:00"
+   "checked": "2026-11-19T08:42:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T08:41:41+00:00"
+   "checked": "2026-11-19T08:42:49+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T08:41:41+00:00"
+   "checked": "2026-11-19T08:42:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T08:41:41+00:00"
+   "checked": "2026-11-19T08:42:49+00:00"
   }
  },
  "items": [
+  {
+   "id": "it really seems like xbox isn t allowed to say gta 6 at all",
+   "title": "It really seems like Xbox isn't allowed to say GTA 6 at all",
+   "link": "https://www.eurogamer.net/xbox-cant-say-grand-theft-auto-6-marketing",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-19T08:41:40+00:00",
+   "seen": "2026-11-19T08:42:48+00:00",
+   "summary": "Like many major brands , Xbox is finding all sorts of ways to associate with the biggest game launch of the year: Grand Theft Auto 6 . Unlike indie publisher Devolver Digital , however, Xbox has cleverly avoided ever mentioning GTA 6 directly in its marketing campaigns for GTA 6. Read more",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 is finally out but millions of gamers still can t play it here s why",
+   "title": "GTA 6 Is Finally Out, but Millions of Gamers Still Can’t Play It – Here’s Why",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UekpUUHR4OC1QSXJsdlhsS0VvdVNwckh1blN0THdXYzYwQjJOS1puOGp0WFVtSE5LRmpObGo5WW1CWGZUT29ILVlqZ3VDYlRnZnBaRFBVRlQwQmQyd09WenNGM0JtMEZ6eVpCWDgtM2lrUFFKWVoyc3ZXVzY?oc=5",
+   "outlet": "Parade Magazine",
+   "via": "Google News",
+   "published": "2026-11-19T08:39:17+00:00",
+   "seen": "2026-11-19T08:42:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 new zealand launch unlock time record chorus traffic psn outage and prices",
+   "title": "GTA 6 New Zealand Launch: Unlock Time, Record Chorus Traffic, PSN Outage and Prices",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15cEdfbmhCbFRnSjMxR2pBWFhWM202NHc1aHM5bU0wSWx4RUFSbEllLTBWNkswVk1rYlk3bFF1NTVNTWRMbndIYlptSUVzV2RsSmlleFRhVl9aZGNxWmpJcGRqZ0FXbWF1aFI0Zg?oc=5",
+   "outlet": "Shane the Gamer",
+   "via": "Google News",
+   "published": "2026-11-19T08:38:33+00:00",
+   "seen": "2026-11-19T08:42:47+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": true
+  },
   {
    "id": "it s cinematic gamers get first taste of grand theft auto vi",
    "title": "'It's cinematic': Gamers get first taste of 'Grand Theft Auto VI'",
@@ -304,6 +340,18 @@
    "via": "Google News",
    "published": "2026-11-19T07:54:20+00:00",
    "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 animals guide what you can spot pet hunt and fish for in leonida",
+   "title": "GTA 6 animals guide: What you can spot, pet, hunt, and fish for in Leonida",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBudExMV3Nzc2FpdFREY0NBMDhONWdlcUIyd1FDN0xGZXpYNkkwbXZxbWFCYUxoMFUtb2JMejlfUHNOQl9JRUtYQmNleVkxRjIyVnlHSjlEMUk3MGp0ZkR4TFI0X0pmRXVRY1lPY3FyMXo?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T07:50:24+00:00",
+   "seen": "2026-11-19T08:42:46+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -2730,6 +2778,18 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi earns more than 1 5 billion before release",
+   "title": "‘Grand Theft Auto VI’ earns more than $1.5 billion before release",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX09IejlIOGZIMXhLZEFQZGZVQTNnbW50eklscG9wUXBoS2E0cVJESUNIQXRsWmw0WEVFN0E2UXpuT3FMM1g3b0VaQ192aVlBeFZpOUlnQ0xScDFjOWUzdUZHdWQ4ZWNUaEhuZTVOWWlrX0xtWGhfU2tTaGhVc2xuT1FKa2N4TzQ?oc=5",
+   "outlet": "CNN",
+   "via": "Google News",
+   "published": "2026-11-18T22:45:21+00:00",
+   "seen": "2026-11-19T08:42:46+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
