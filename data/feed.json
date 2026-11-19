@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:31:35+00:00",
- "started": "2026-11-19T21:31:28+00:00",
+ "updated": "2026-11-19T21:36:40+00:00",
+ "started": "2026-11-19T21:36:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T21:31:29+00:00"
+   "checked": "2026-11-19T21:36:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T21:31:29+00:00"
+   "checked": "2026-11-19T21:36:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T21:31:29+00:00"
+   "checked": "2026-11-19T21:36:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T21:31:30+00:00"
+   "checked": "2026-11-19T21:36:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T21:31:30+00:00"
+   "checked": "2026-11-19T21:36:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T21:31:30+00:00"
+   "checked": "2026-11-19T21:36:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T21:31:31+00:00"
+   "checked": "2026-11-19T21:36:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T21:31:31+00:00"
+   "checked": "2026-11-19T21:36:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T21:31:31+00:00"
+   "checked": "2026-11-19T21:36:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T21:31:31+00:00"
+   "checked": "2026-11-19T21:36:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T21:31:31+00:00"
+   "checked": "2026-11-19T21:36:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T21:31:31+00:00"
+   "checked": "2026-11-19T21:36:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T21:31:32+00:00"
+   "checked": "2026-11-19T21:36:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T21:31:32+00:00"
+   "checked": "2026-11-19T21:36:38+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi couldn t have come at a better time for america",
+   "title": "‘Grand Theft Auto VI’ couldn’t have come at a better time for America",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQlNxUVhobktSX3RuUzAzTkJtSURKZ2VzbkdRLVJGUkxUWUUxcGk0T1pfelNsTWtjU1FDc2pjMWpBTmxvenJqTWF4ajJoRkh3aFFrVzJjMktGRjc1eWpkSXdka2Y4cm5r?oc=5",
+   "outlet": "MS NOW",
+   "via": "Google News",
+   "published": "2026-11-19T21:32:19+00:00",
+   "seen": "2026-11-19T21:36:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims Grand Theft Auto VI came at an opportune time for America."
+  },
+  {
+   "id": "grand theft auto vi launch draws attention in central kentucky",
+   "title": "‘Grand Theft Auto VI’ launch draws attention in central Kentucky",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVRFUmtwQ2lUZVNRdHVNVzJ5eHBDa3dNRkpra2VpaUlJRXczbDZqdmlrVGpBejYtOVNHcXFfS0dUcklBZUhwYXBTYkZ4cldyYWpnNV9LdlBnT0preklHVS1nMFg4UlpEV2lsWEt1TGdKc0dlckFiaVpDSGZ3elVGUWIxZjBQUkxvejRZNGFIU1BzcE9LVXVr?oc=5",
+   "outlet": "WKYT",
+   "via": "Google News",
+   "published": "2026-11-19T21:32:00+00:00",
+   "seen": "2026-11-19T21:36:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Grand Theft Auto VI launch drawing attention in central Kentucky."
+  },
   {
    "id": "grand theft auto vi review a perfect crime",
    "title": "‘Grand Theft Auto VI’ Review: A Perfect Crime",
@@ -298,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes topics and figures around AI, Anthropic, AMD, Elon and GTA VI."
+  },
+  {
+   "id": "gta 6 launch day live our top expert tips the latest news updates and more",
+   "title": "GTA 6 Launch Day Live: Our Top Expert Tips, the Latest News, Updates, and More",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNVeEliLUthZG90Snp6Qm5TVVdHTV9McklHWW41UTFpdHp0elZQcHNYeVJtWmx0VVFfS3lnWXU2OGZsd1k3NGJaelh6M0dvcTBJTkNiZUlqVlNuMEdyMEVSblN5eFIza3phQnZrNE9Nc1ZjUDRHUlp0bDk3LW0zdld2dW9fQ0lRUVZDaXhTMXI4ajBscVpOWEx2YXRaUHIwU1hTeDRrTQ?oc=5",
+   "outlet": "PCMag UK",
+   "via": "Google News",
+   "published": "2026-11-19T21:01:36+00:00",
+   "seen": "2026-11-19T21:36:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story provides launch day tips and the latest news about GTA 6."
   },
   {
    "id": "are we going too crazy here s why rockstar put a red hulk in gta 6",
@@ -610,6 +649,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "KNSV reports a swatting call hit a GTA 6 themed Graffiti Mansion as the game is released."
+  },
+  {
+   "id": "gta vi accessories that make vice city look and sound even better",
+   "title": "GTA VI accessories that make Vice City look and sound even better",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZzMyeWl6NUhPR01uNXZEVFZFQ2JPSl91bm9zS0tlbUFSV0kzY21MNDN3NDNvTjNjZ1JHaFFlYl9EU3NrZXJLTTJDRlF1YU5mMkZldXRfUVp2YTQtaVhwYUpzeTB0ZHow?oc=5",
+   "outlet": "Reviewed",
+   "via": "Google News",
+   "published": "2026-11-19T20:42:13+00:00",
+   "seen": "2026-11-19T21:36:34+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story discusses GTA VI accessories that enhance Vice City’s look and sound."
   },
   {
    "id": "gta 6 dog who saves you is seemingly based on a very cool real life dog",
@@ -10061,6 +10113,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The Week questions how GTA 6 earned eight Game Awards nods and if it can beat a nine-award record."
+  },
+  {
+   "id": "10 early gta 6 money making methods compared by payout and chapter",
+   "title": "10 Early GTA 6 Money Making Methods Compared by Payout and Chapter",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzdlptVV9NX0VSTFB4ZHBqa043eEZPaGZ2T2x5QzV4RTRkbkI3Q090SEJ0ZGM4RW1jUWNzOWdtZENEN2pNTFI1bnZzNWdDREh0S2R5N2I3QzhnWUZpcXNmV0tVM1dlakhBZzRiRzREcmd5bnpYX205cGNB?oc=5",
+   "outlet": "GTA BOOM",
+   "via": "Google News",
+   "published": "2026-11-19T10:39:21+00:00",
+   "seen": "2026-11-19T21:36:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story compares ten early GTA 6 money making methods by payout and chapter."
   },
   {
    "id": "gta 6 breaks records how the game became a global entertainment phenomenon",
