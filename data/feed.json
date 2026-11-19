@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:05:33+00:00",
- "started": "2026-11-19T18:05:23+00:00",
+ "updated": "2026-11-19T18:10:21+00:00",
+ "started": "2026-11-19T18:10:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:05:23+00:00"
+   "checked": "2026-11-19T18:10:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:05:24+00:00"
+   "checked": "2026-11-19T18:10:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-19T18:05:24+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T18:10:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T18:05:25+00:00"
+   "checked": "2026-11-19T18:10:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-19T18:05:25+00:00"
+   "hits": 7,
+   "checked": "2026-11-19T18:10:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T18:05:25+00:00"
+   "checked": "2026-11-19T18:10:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T18:05:25+00:00"
+   "checked": "2026-11-19T18:10:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T18:05:25+00:00"
+   "checked": "2026-11-19T18:10:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T18:05:26+00:00"
+   "checked": "2026-11-19T18:10:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T18:05:26+00:00"
+   "checked": "2026-11-19T18:10:17+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T18:05:27+00:00"
+   "checked": "2026-11-19T18:10:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T18:05:27+00:00"
+   "checked": "2026-11-19T18:10:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T18:05:27+00:00"
+   "checked": "2026-11-19T18:10:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T18:05:27+00:00"
+   "checked": "2026-11-19T18:10:18+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to game share gta 6 and split the cost with a friend",
+   "title": "How To Game Share GTA 6 And Split The Cost With A Friend",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHYUR1c1luYjJKSnI1UjFBZ0lPQTVhQlZkckdBc2R1M2wzYktpVnBtNXVDbnJsU0U1MXUxcGJMamNFdU9mRXl3YllkSjNUd0Z3TUExUko3ekhYZVJwNmRtQUpxdzl6QTNSdXNHbG1NOU1TVnpteWhn?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-19T18:00:48+00:00",
+   "seen": "2026-11-19T18:10:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses how to game share GTA 6 and split the cost with a friend."
+  },
   {
    "id": "nyc public schools urges students to attend school after gta vi release",
    "title": "NYC Public Schools urges students to attend school after GTA VI release",
@@ -573,6 +586,19 @@
    "ai_summary": "Notebookcheck reports YouTube removing GTA 6 nudity channels and streamers moving to Twitch."
   },
   {
+   "id": "game on for grand theft auto vi on release day",
+   "title": "Game on for Grand Theft Auto VI on release day",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaC1qSTJCQzktbDlWRzFqQnlPUlhpSFhjMktPajJXX19TZkg3QjdMcFJkQXZQb2tGNFRhTG5fREt2SGRTcThhb3FIUTliSjBJdVY1TVA4S2MzbHAyaGRnLVFxUGxyVGhwMXNBbU1UaFU0Ukp4dTNFSnBydUxFdDFaMmRtanJQY2VqOXlnVjlmRWR4a0JhLUk2QzJOaUduNFMwNmhlcVJYUUVRZmFFekZnVHFfSG1zSDF4SF92YzMwY0xuQk9peFR3?oc=5",
+   "outlet": "WTHR",
+   "via": "Google News",
+   "published": "2026-11-19T17:27:00+00:00",
+   "seen": "2026-11-19T18:10:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI is set for release day."
+  },
+  {
    "id": "former xbox and ea exec hopes gta 6 gives a much needed shot in the arm to devs and publishers",
    "title": "Former Xbox and EA exec hopes GTA 6 gives \"a much-needed shot in the arm\" to devs and publishers",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/former-xbox-and-ea-exec-hopes-gta-6-gives-a-much-needed-shot-in-the-arm-to-devs-and-publishers-the-video-game-industry-could-really-use-a-moment-like-this/",
@@ -805,6 +831,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Nintendo Life reviews Digital Foundry's take on GTA 6 potentially coming to Switch 2."
+  },
+  {
+   "id": "bam adebayo gives perfect response when asked about gta 6 release after miami heat game",
+   "title": "Bam Adebayo gives perfect response when asked about GTA 6 release after Miami Heat game",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDdpUURrbWllWjFKX1RrdVFua1ZUa09SbFhRa1FPUmE5bG02NWgzLTJSM3BzSWxnN0o2U0Yzd2pocDE4NEhlMHYwSWRTSTNQdktIU3pmT3RKcGV0MFdkYTNwYVlTdThYdnFWYjJuNEtBbHRoYTJTZGdicGVBczRzemtOTHlFRzZEY1Nz?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-19T17:15:00+00:00",
+   "seen": "2026-11-19T18:10:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes Bam Adebayo's response when asked about GTA 6 release after a Heat game."
   },
   {
    "id": "gaming gta vi japan",
