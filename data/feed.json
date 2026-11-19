@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:30:29+00:00",
- "started": "2026-11-19T18:30:23+00:00",
+ "updated": "2026-11-19T18:35:35+00:00",
+ "started": "2026-11-19T18:35:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:30:24+00:00"
+   "checked": "2026-11-19T18:35:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:30:24+00:00"
+   "checked": "2026-11-19T18:35:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T18:30:25+00:00"
+   "checked": "2026-11-19T18:35:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T18:30:25+00:00"
+   "checked": "2026-11-19T18:35:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T18:30:25+00:00"
+   "checked": "2026-11-19T18:35:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T18:30:25+00:00"
+   "checked": "2026-11-19T18:35:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T18:30:26+00:00"
+   "checked": "2026-11-19T18:35:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T18:30:26+00:00"
+   "checked": "2026-11-19T18:35:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T18:30:26+00:00"
+   "checked": "2026-11-19T18:35:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T18:30:26+00:00"
+   "checked": "2026-11-19T18:35:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T18:30:26+00:00"
+   "checked": "2026-11-19T18:35:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T18:30:26+00:00"
+   "checked": "2026-11-19T18:35:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T18:30:27+00:00"
+   "checked": "2026-11-19T18:35:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T18:30:27+00:00"
+   "checked": "2026-11-19T18:35:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 bigfoot explained how to find bigfoot in gta 6",
+   "title": "GTA 6 Bigfoot explained: How to find ‘Bigfoot’ in GTA 6",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-bigfoot-explained-how-to-find-bigfoot-in-gta-6/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T18:30:42+00:00",
+   "seen": "2026-11-19T18:35:28+00:00",
+   "summary": "Bigfoot stalks Jason in GTA 6... or does he?",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on how to find Bigfoot in GTA 6 and discusses Bigfoot stalking Jason in the game."
+  },
+  {
+   "id": "gta 6 censorship in japan sees characters shower in underwear as sex and violence are toned down",
+   "title": "GTA 6 Censorship in Japan Sees Characters Shower in Underwear, as Sex and Violence Are Toned Down",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-censorship-in-japan-sees-characters-shower-in-underwear-as-sex-and-violence-are-toned-down",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-19T18:30:00+00:00",
+   "seen": "2026-11-19T18:35:30+00:00",
+   "summary": "Keep your pants on. GTA 6 has been censored to a fairly large extent in Japan, where the country's strict ratings system often sees nudity, sexual content, and graphic violence be toned down or removed entirely in video games. To be clear, GTA 6 has been given Japan's highest 18+ age rating — but it's still had to make changes in order to ensure its release in the region. Read the full article on ",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 censorship in Japan reduces nudity and sexual content, with changes required for release despite the 18+ rating."
+  },
+  {
+   "id": "gta vi online cheating and the denouncement of the game as interactive porn",
+   "title": "‘GTA VI’, Online ‘Cheating’ and the Denouncement of the Game as Interactive Porn",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTNGWVNwc2N2M29WU3Z5QWxSdXg4TGNKbXJNR0xCWUczcHNfRU1mRDlXd2NSOC1PTWNlMTBFUGpYQjRibFZxNmlDMkVKeGg1ME9zQ25UU2ZFaU1TMWR3dnFDdWxRRFhJekc5a1RRUklHM3BhM1Z2U0NKdk1KTzBfcDNvNXJQQjA?oc=5",
+   "outlet": "Substack",
+   "via": "Google News",
+   "published": "2026-11-19T18:28:40+00:00",
+   "seen": "2026-11-19T18:35:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on online cheating and its denouncement as interactive porn related to GTA VI."
+  },
+  {
+   "id": "africa takes over gta 6 burna boy tyla among stars on afrobank fm",
+   "title": "Africa takes over GTA 6: Burna Boy, Tyla among stars on AfroBank FM",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHZyYlpXa2IzQnAwS0h3YXkyZVYteV9leDFZWHQ0U0pMdUlTZGhDSDluMmxWNFhxNlNKbFliSklCdzR2QW1sSVFLS0lBaS01TXFCVUlMVTVBU0dlcjdxZDhnQXprNVRicDJlLWpaYW5SaktwNnFfbHNOUEFQUHZEOS1ib3AzN2VQenRzdU5iLVRzeUk?oc=5",
+   "outlet": "Tuko News",
+   "via": "Google News",
+   "published": "2026-11-19T18:25:17+00:00",
+   "seen": "2026-11-19T18:35:27+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports Africa taking over GTA 6 with Burna Boy and Tyla among the stars on AfroBank FM."
+  },
   {
    "id": "the guardian view on grand theft auto vi a game that makes players think twice",
    "title": "The Guardian view on Grand Theft Auto VI: a game that makes players think twice",
@@ -116,6 +168,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The Guardian's view on Grand Theft Auto VI is that the game makes players think twice."
+  },
+  {
+   "id": "the guardian view on grand theft auto vi a game that makes players think twice editorial",
+   "title": "The Guardian view on Grand Theft Auto VI: a game that makes players think twice | Editorial",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1ZXQmVKUHdqZEkyTkJWSFBXa2p3THczazMwWTFyTzZBYTRhOFhCY056a216Y3VGNkFtSXd6LVpFWXYwZ3ZTYWhra2puLXdUbEF2eWtXWE16Zm9zcjZsY290S1pBQ1VrNUszbWl6SG9CZWE4WlNEaGliY29lSE9heXhuS0FsZE5ibThtRnMxV0Z2UEMxN0gxMWM5cWNZcnk0VnBocDgxZU8tQ3hJTmVpRUFEdnpxeXpiLUE4RThQbUN1bDg2ME5teXBKOVo?oc=5",
+   "outlet": "The Guardian",
+   "via": "Google News",
+   "published": "2026-11-19T18:25:00+00:00",
+   "seen": "2026-11-19T18:35:26+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The Guardian editorial discusses Grand Theft Auto VI and how the game makes players think twice."
   },
   {
    "id": "gaming gta vi miami launch",
@@ -144,6 +209,19 @@
    "ai_summary": "The story reports Nikola Jokic makes an unusual confession as GTA VI fever hits the NBA."
   },
   {
+   "id": "national phenomenon of gta vi day reaches midcoast",
+   "title": "National Phenomenon of GTA VI Day Reaches Midcoast",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeVNVYmNldERPMWItYzNHZ0dCdkRvRTg4d0ctZ0lNSjVodVZHME5kQ1l3RjZYc2tWd0VVSFNkQ0VjQWJfUTE1TV9pVlNaM25aMm5pTHpDS0hySWh0MG9GbDJDVFk0alZSR0RUZkZxa08yaExFT053RW5NMUZWQVZJMmZtSWZXbDhLay1sTWE3elFQWm9DY0RTVWlKaE5hd2JTZzZVbHNLLWV2NHdxM0J0VUFBWlNMTzBvYXJJb25FRnJLMGtXNWJqY092UllDZ1JyNUdLag?oc=5",
+   "outlet": "Midcoast Villager",
+   "via": "Google News",
+   "published": "2026-11-19T18:17:00+00:00",
+   "seen": "2026-11-19T18:35:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Midcoast Villager reports on a national phenomenon of GTA VI Day reaching Midcoast."
+  },
+  {
    "id": "gta 6 launch tops its own preload traffic record on de cix",
    "title": "GTA 6 Launch Tops Its Own Preload Traffic Record on DE CIX",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVNUX3MtUWt3UmpPMHFQNjV0OW9ZaWdUNUVCUzY1T21rOEd6U3lkZXp5ODdyZWk2ZGRyaGFjVUxlYXBjUl9pakFsdDQ4TzBwbzQ3MkFqemJkTDd0TTc1MmJQaGpuYktsczR6QnRaekxSR0RSdlM0NW9jTnNfejVpakhjOE5kWXVBOEVQRy1HZkJqSGs?oc=5",
@@ -168,6 +246,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6's record $1.6 billion launch triggers a global meltdown, described as the 'Star Wars of Gaming'."
+  },
+  {
+   "id": "instant review of gta vi after four hours of gameplay",
+   "title": "Instant review of GTA VI after four hours of gameplay",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVQ5dDVwTUNROTA2NjkxeExHUWcta0FwYVhGeF9HbUVCazRLQVR2cmRCMGxmNUNMQUlRbmNFcEVEYTk5SFZ2TzB2Qm5WRUYwcWdCVlVqQ1otbmY1N3FIRTduZ1h1bFZ1U3B3STB0OXpRY0xYZnE3UzB0MDFSUjdrQ05ZUzc1YUk2TllxdFR6S2xnRzlpTUQ4bDJ4QjRRcXRUcHJ0RU8teFRsNlJOWHN1WWdpYw?oc=5",
+   "outlet": "KTAR News 92.3 FM",
+   "via": "Google News",
+   "published": "2026-11-19T18:11:11+00:00",
+   "seen": "2026-11-19T18:35:26+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story provides an instant four-hour gameplay review of GTA VI."
   },
   {
    "id": "yes that s bobby moynihan in gta vi",
@@ -389,6 +480,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports methods to steal a fighter jet and battle tank in GTA 6."
+  },
+  {
+   "id": "phone apps list in gta 6",
+   "title": "Phone apps list in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wbHhFNXdxYXY3d1U0R0hoVGZyR2tPRE0yWW9jUDZTc0g0V3pjZ1BZUGgzWjY3cmQ0YlVWLW55RGVpLWNVMVNuT21LUFM5cFRVaG03Tmp2b3hyN2tTb0ozODJ0Ui13QXhB?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T17:53:25+00:00",
+   "seen": "2026-11-19T18:35:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists phone apps available in GTA 6."
   },
   {
    "id": "how to use photo mode in gta 6",
