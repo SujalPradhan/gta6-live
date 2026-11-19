@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:38:11+00:00",
- "started": "2026-11-19T11:38:00+00:00",
+ "updated": "2026-11-19T11:43:19+00:00",
+ "started": "2026-11-19T11:43:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:38:01+00:00"
+   "checked": "2026-11-19T11:43:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T11:38:02+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-19T11:43:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:38:02+00:00"
+   "checked": "2026-11-19T11:43:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T11:38:02+00:00"
+   "checked": "2026-11-19T11:43:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T11:38:03+00:00"
+   "checked": "2026-11-19T11:43:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T11:38:03+00:00"
+   "checked": "2026-11-19T11:43:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 37,
-   "checked": "2026-11-19T11:38:03+00:00"
+   "hits": 38,
+   "checked": "2026-11-19T11:43:04+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T11:38:03+00:00"
+   "checked": "2026-11-19T11:43:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T11:38:04+00:00"
+   "checked": "2026-11-19T11:43:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T11:38:04+00:00"
+   "checked": "2026-11-19T11:43:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T11:38:04+00:00"
+   "checked": "2026-11-19T11:43:05+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T11:38:05+00:00"
+   "checked": "2026-11-19T11:43:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T11:38:05+00:00"
+   "checked": "2026-11-19T11:43:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T11:38:05+00:00"
+   "checked": "2026-11-19T11:43:06+00:00"
   }
  },
  "items": [
+  {
+   "id": "the world prepares for grand theft auto vi an outlaw blockbuster",
+   "title": "The World Prepares for Grand Theft Auto VI, an Outlaw Blockbuster",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcHI5Zm5VaXktajRJNnl3MG1nN0N4am9oV2VYbUc2Ym5wMUZIdF83RXNCanBUWVdLRk5LSlhIaGhyUlVpVWN0ZlFLNmp1RjRwajlodUdwaWptd0hjaVBwZEQzX0ZUdG15ejNIUUx0dGlDdEJZS1dqbk1NcGZtSnZCLS1pbw?oc=5",
+   "outlet": "The New York Times",
+   "via": "Google News",
+   "published": "2026-11-19T11:39:59+00:00",
+   "seen": "2026-11-19T11:43:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The world prepares for Grand Theft Auto VI as an outlaw blockbuster, per The New York Times."
+  },
+  {
+   "id": "gta 6 estimated to have reached 20 million preorders ahead of launch",
+   "title": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdE85c0xrZW1YNUFTc09pSUpJT0M1Tk02VzNZZFNMcGluUFFhY0ZKSmVSM1NITjNMcTUza2I0OHhhcnZKOWYydkVTYzZCQmFJTExiWlNTdjNXNVNoVkRZOWtIc1RlOUl4bnBRU3l3bWhyblVMcHJGOWtKY25lMmZaanNsSGZRUG5iaDNhaVc3dERQdENTeHFIaDl1ZFRKdw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-19T11:39:05+00:00",
+   "seen": "2026-11-19T11:43:02+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 is estimated to have reached 20 million preorders ahead of launch, according to IGN."
+  },
+  {
+   "id": "what s in mandy s sink in gta 6",
+   "title": "What's in Mandy's sink in GTA 6?",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mandy-sink/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T11:38:44+00:00",
+   "seen": "2026-11-19T11:43:04+00:00",
+   "summary": "One of your earliest missions is to see Mandy in GTA 6 and get rent off her, but you'll have to fix her sink first",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "One of your earliest GTA 6 missions involves seeing Mandy and fixing her sink."
+  },
+  {
+   "id": "what if grand theft auto vi took place in cleveland",
+   "title": "What if \"Grand Theft Auto VI\" took place in Cleveland?",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOak5odjY1MW5FeHctUzJselh1SE9VeXJzal9UV0NPZDV2V0VMNzdfNENublREbXIzXzJ6V2JsRlNIYTZZdlh1d1J5eEVlLWlmNFN4UGhEd0E4anBVc1ZVRnZySHRUVEJZUzc3bTRCWmE2ZmJWZ3A2Z011S0ZkMV9RQlhhUkhhdw?oc=5",
+   "outlet": "Axios",
+   "via": "Google News",
+   "published": "2026-11-19T11:38:39+00:00",
+   "seen": "2026-11-19T11:43:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A potential setting for Grand Theft Auto VI could be Cleveland, per Axios."
+  },
+  {
+   "id": "rockstar says gta 6 doesn t let you hire prostitutes as it doesn t support the spirit of the story we wanted to tell",
+   "title": "Rockstar says GTA 6 doesn't let you hire prostitutes as it doesn't \"support the spirit of the story we wanted to tell\"",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-says-gta-6-doesnt-let-you-hire-prostitutes-for-the-first-time-in-25-years-as-it-doesnt-support-the-spirit-of-the-story-we-wanted-to-tell/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T11:38:29+00:00",
+   "seen": "2026-11-19T11:43:04+00:00",
+   "summary": "\"Everything we have implemented in [Grand Theft Auto] 6 has been done to support the spirit of the story we wanted to tell\"",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar says GTA 6 does not let you hire prostitutes because it would not support the story's spirit."
+  },
   {
    "id": "gta 6 is finally here and we are playing here s our first impressions",
    "title": "GTA 6 is finally here and we are playing. Here's our first impressions",
@@ -129,6 +194,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story questions whether GTA 6 could cause economic productivity losses in the United States."
+  },
+  {
+   "id": "gamestop ceo criticizes digital only games as gta 6 releases without a disc",
+   "title": "GameStop CEO Criticizes Digital-Only Games As GTA 6 Releases Without A Disc",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORV91cXJuV3VBZVhfek1kZ1VKbkJ0aFJwWF9SVjlINlhIMF8zMHVUTVMxUGw5QllOLTVxcDRnUXl0X3ZyckI1UnVsZ29CWG1adGNreklkMThsbXVuRThQZ2ZVWEFWd2d6WUlSMXZqdDZCS1J3MDdSU3FhMDdPQk9FOHVoOWJMUUhQbTAtZkpSRVpxTFJZUnBTbmZsUlo4Unp1N2o1Mg?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-19T11:30:22+00:00",
+   "seen": "2026-11-19T11:43:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GameStop's CEO criticizes digital-only games as GTA 6 releases without a disc, per Kotaku."
   },
   {
    "id": "gta 6 bugs draw comparisons to cyberpunk 2077 s messy launch but it s far from the same thing",
@@ -831,6 +909,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Police issue a statement addressing 'Vice City transplants' on GTA 6 release night."
+  },
+  {
+   "id": "millions adjust schedules take time off as long awaited gta vi launches",
+   "title": "Millions adjust schedules, take time off as long-awaited GTA VI launches",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2dSM1c2dHQ2UGd0eXozRmZYV3hLb0xRS0xBa3k5eWYtcXFBX21RQXVJRG5handqZ0ttOUpFd0xrejk2NjR1ZXo0Yks2RUZQZWNERF9WUGtKRVVDX0JpWjJYN1VHV2YtYy1IQndQNUtGLXpYb2dQODNLTEJma3J6cVQwOTF3SHFma1BRQjlWYnBoNVJPcUMyOEMyUnZmMnFvTlFv0gG3AUFVX3lxTE8xU0ZINnFNT2t2cUhmRXB1Q0hqRmd2ZTVzM3lXdXJXNmRROEZPd0R6aGdWdElnMzJUZWlPMW9TWEo2VlVQcE83djlqUEc3TW9KZGlwUWhxRjR1TFR2b2dtXzZlWm0yZjV1UHJoMWhfcGJ1MnRHRElDSk0xYndIaUdrRmRpZk9SNEZDU2llektOejVjdTZDc1E0akxXN3dsRFZkUFdWSUdGVU8wbi1PMW90d1o3bVprOA?oc=5",
+   "outlet": "WGEM",
+   "via": "Google News",
+   "published": "2026-11-19T10:55:00+00:00",
+   "seen": "2026-11-19T11:43:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Millions adjust schedules and take time off as GTA VI launches."
+  },
+  {
+   "id": "travis scott f ing loves the developers for gta 6",
+   "title": "Travis Scott ‘f***ing’ loves the developers for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjRlbXFvbVVSRDZ5dTc5RUp0MmRQT0RYVGxrbkdOdmhwV2Y2bzVRWmo2a2xiQkZya0VTbzZtbG8ybnc1aUltTVFwOFFLZWUtaUhIWE5jZ2llVGVtY3Z4MFFBM2c2OG9ZbEJFSlNrNUlpT0JjNGhUcWVRU0xqM1djOE9feTlXVWRLdEcyVE40dDkzd2FS?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-19T10:54:03+00:00",
+   "seen": "2026-11-19T11:43:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Travis Scott expresses strong support for the GTA 6 developers."
   },
   {
    "id": "how to fix the railing in gta 6",
@@ -7695,6 +7799,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI launch makes media splash with release and more in store."
+  },
+  {
+   "id": "gta 6 opens to roaring critical acclaim matching zelda s historic score",
+   "title": "GTA 6 opens to roaring critical acclaim, matching Zelda’s historic score",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUJCRDlUUkFGV3dmNk1WZXJyT1dWdTFEZkQ2MVg3Y3l6a1BJSElxZVdqVlhaMW1PV0EtdjN0SU1YTHc1M01DWV84VEZFc1pnbHN5bC0tOUJFNHZaY1BTbU1OdUJjcFR4T0VXUVZjbXRPN3Y4cGJUSXk1ZHJKM2xVdDdqM2F6UjdMQjhSY1dGbXBfa1UyVGJPMWV6cDg3VVhyd0FfQXItWmg4Tnp4?oc=5",
+   "outlet": "Digital Trends",
+   "via": "Google News",
+   "published": "2026-11-18T14:12:20+00:00",
+   "seen": "2026-11-19T11:43:03+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "GTA 6 opens to critical acclaim, with a score comparable to Zelda’s historic achievement."
   },
   {
    "id": "6 things i loved about gta 6 and 3 open world learning curves gamers will hate initially",
