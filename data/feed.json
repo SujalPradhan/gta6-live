@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:54:37+00:00",
- "started": "2026-11-19T15:54:29+00:00",
+ "updated": "2026-11-19T15:59:39+00:00",
+ "started": "2026-11-19T15:59:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T15:54:30+00:00"
+   "checked": "2026-11-19T15:59:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T15:54:30+00:00"
+   "checked": "2026-11-19T15:59:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T15:54:31+00:00"
+   "checked": "2026-11-19T15:59:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T15:54:31+00:00"
+   "checked": "2026-11-19T15:59:34+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T15:54:31+00:00"
+   "checked": "2026-11-19T15:59:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T15:54:31+00:00"
+   "checked": "2026-11-19T15:59:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-19T15:54:32+00:00"
+   "checked": "2026-11-19T15:59:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:54:32+00:00"
+   "checked": "2026-11-19T15:59:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T15:54:32+00:00"
+   "checked": "2026-11-19T15:59:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T15:54:32+00:00"
+   "checked": "2026-11-19T15:59:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T15:54:33+00:00"
+   "checked": "2026-11-19T15:59:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T15:54:33+00:00"
+   "checked": "2026-11-19T15:59:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T15:54:33+00:00"
+   "checked": "2026-11-19T15:59:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T15:54:33+00:00"
+   "checked": "2026-11-19T15:59:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 just moved in mission walkthrough",
+   "title": "GTA 6 Just Moved In Mission Walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-just-moved-in-mission-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T15:57:40+00:00",
+   "seen": "2026-11-19T15:59:34+00:00",
+   "summary": "Get supplies for Jason in Just Moved In",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a walkthrough for a GTA 6 mission called Just Moved In and mentions getting supplies for Jason."
+  },
+  {
+   "id": "gta 6 is finally here here s where you can buy it ahead of black friday",
+   "title": "GTA 6 Is Finally Here. Here’s Where You Can Buy It Ahead of Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQ3BEMDE4MlBDTF9fM1NWQmxLMnpjc2tZT2oybThnb1diUnoxWUdIa3paa3llNGVUdHB4T2NsMnNyU21qUThRT0xvTjNLTnVnbXpaR2pLM21adnc?oc=5",
+   "outlet": "CNET",
+   "via": "Google News",
+   "published": "2026-11-19T15:56:10+00:00",
+   "seen": "2026-11-19T15:59:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is available to buy ahead of Black Friday."
+  },
+  {
+   "id": "rockstar publishes full gta 6 credits but beware they contain major spoilers",
+   "title": "Rockstar Publishes Full GTA 6 Credits — But Beware, They Contain Major Spoilers",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDhfSEVoWURTdEd5b19XS0VzdkhUN0lQM2RGLXJZVWgxUmZ1RGdub21rMndpQ2oyYVAzWlhZcWZvZXZ0NGVYcEcya3JDVTlYLVloNkhwNzNESUYzR1dhb1NLcm50cUtEUGNYOElZWFgxckp0TDlWU05LRTYwY2k2X2xaLUlMWHNhTUt2ajVVMWppaG12Z0dZMUtvYWpOb2ZCcGtfcktoUl9aZGJiR2QybnNwTlFzSFdRckxGVHI3anR2MnFx?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-19T15:55:11+00:00",
+   "seen": "2026-11-19T15:59:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Rockstar published the full GTA 6 credits, which contain major spoilers."
+  },
+  {
+   "id": "world of warcraft breaks another 15 year record just before gta 6 s launch",
+   "title": "World of Warcraft Breaks Another 15 Year Record Just Before GTA 6’s Launch",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTgzVlRYMm80cl9Remh5X1Fpc2dQYXRVbjdsc0t3aWhpQThWLVE1NlBkQzUyWUNBZ3FGRVRqYnBPNjZsTV9hMXpWenVKQXdaeHlfTGw3Y29RTUQwYnpUWDR5Mmp0R210RjYxZDZ2YjJRekFFbHJGaEM5TEdEalRBQVRHYmVEdFdCOTJfRHRQckpySEhlN0VMajVsYXM4TGFIbHBhX09jY1lIZw?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-19T15:53:00+00:00",
+   "seen": "2026-11-19T15:59:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that World of Warcraft breaks a 15 year record just before GTA 6’s launch."
+  },
+  {
+   "id": "we played gta 6 it s a car lovers paradise",
+   "title": "We Played GTA 6. It's A Car Lovers Paradise",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iMl9ObTVmLWl6NG9wd1FvWVRyM3hySlp1Mi03SEtQUThMZGNld1NQZkp2d1BXY1NZODF4MWxBSWsyM001REpoOFZtX2s5elcwU29rNTRvMWhvT0sxVHRPbnR2ZW55bDFueHRYcHhfQnNDNnBDbU9JTXJn?oc=5",
+   "outlet": "Motor1.com",
+   "via": "Google News",
+   "published": "2026-11-19T15:51:00+00:00",
+   "seen": "2026-11-19T15:59:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is described as a car lovers paradise."
+  },
   {
    "id": "gta vi players free bear get mauled in satirical scene",
    "title": "GTA VI Players Free Bear, Get Mauled in Satirical Scene",
@@ -337,6 +402,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 Online Multiplayer is not available at launch, with discussions about an Online 2 release window."
+  },
+  {
+   "id": "gta 6 debut prompts mass job callouts after 13 year wait",
+   "title": "GTA 6 debut prompts mass job callouts after 13-year wait",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFFnSWF3eU1YNHhoLXZvVGdwT2NVWVFva1B5ZVkwMFI5azF3YzFoR1d4VEFmLWNlcUdXTUs0bnkzNEhIZGhwWFhZT1F3RzNHY25IaU5CNGtTalhkbzFjNVh3MkFPTnkxTU82MFBkTm1nOHBUa3l1ZTNHUlhtb1R3UG5keDNzaURSWGfSAY8BQVVfeXFMTnJmZFFxTll3XzNNVFlNbTlFcTZzWlpSTndvSkRtaUNmX0RKS19fWFJWeEMzRC1waXpjRG1tVWRqS1lGVXMyQzg5LVQ4aEM4X19Ia3VmaGZjRFRGNDV5NlZrM2xDWjFjak05MTBXdWNuRUZHZlEtcDN3TFB1cXVYV0ZWV3hTNTNWSnZLX18tNmc?oc=5",
+   "outlet": "NewsNation",
+   "via": "Google News",
+   "published": "2026-11-19T15:33:03+00:00",
+   "seen": "2026-11-19T15:59:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 debut prompts mass job callouts after a long wait."
   },
   {
    "id": "ufc champ reacts to embarrassing gta 6 craze wants gamers to shut off the console and focus on sex",
