@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:37:30+00:00",
- "started": "2026-11-19T09:37:22+00:00",
+ "updated": "2026-11-19T09:42:31+00:00",
+ "started": "2026-11-19T09:42:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T09:37:23+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T09:42:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T09:37:23+00:00"
+   "checked": "2026-11-19T09:42:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T09:37:24+00:00"
+   "checked": "2026-11-19T09:42:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T09:37:24+00:00"
+   "checked": "2026-11-19T09:42:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T09:37:24+00:00"
+   "checked": "2026-11-19T09:42:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 33,
-   "checked": "2026-11-19T09:37:24+00:00"
+   "hits": 34,
+   "checked": "2026-11-19T09:42:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T09:37:25+00:00"
+   "checked": "2026-11-19T09:42:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T09:37:25+00:00"
+   "checked": "2026-11-19T09:42:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T09:37:25+00:00"
+   "checked": "2026-11-19T09:42:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T09:37:26+00:00"
+   "checked": "2026-11-19T09:42:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T09:37:26+00:00"
+   "checked": "2026-11-19T09:42:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T09:37:26+00:00"
+   "checked": "2026-11-19T09:42:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T09:37:26+00:00"
+   "checked": "2026-11-19T09:42:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T09:37:26+00:00"
+   "checked": "2026-11-19T09:42:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is there a first person mode i ve played it here s what you need to know",
+   "title": "GTA 6: Is there a first-person mode? I've played it - here's what you need to know",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NczdMbUNnb3RsQkphUTN2YWViaDZaZXRmZ0ozY3dxQXZ6T2NubktzY2JKcTg3QlVNdlpmdG1ZWWJvamVEYXBmVlhMSC1MQU4wSkh3UEtLZ2NvYVdURGU4SV94cGpRa3k1Qk0yNnlpQ3pjX1k?oc=5",
+   "outlet": "Indy100",
+   "via": "Google News",
+   "published": "2026-11-19T09:40:20+00:00",
+   "seen": "2026-11-19T09:42:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains what you need to know about a potential first-person mode in GTA 6."
+  },
+  {
+   "id": "after grand theft auto 6 s launch players are in love with wacky criminality in game social media and animal fatalities",
+   "title": "After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities",
+   "link": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-19T09:38:50+00:00",
+   "seen": "2026-11-19T09:42:26+00:00",
+   "summary": "With Grand Theft Auto 6 launching late last night ( unless you're in New Zealand, in-person or otherwise ), players have been flocking to online spaces to share their favourite moments. So far, slapstick violence, animal fatalities, and the in-game social media have won the hearts of many. Read more",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "After GTA 6's launch, players are loving wacky criminality, in-game social media, and animal fatalities online."
+  },
   {
    "id": "gta 6 fans are in awe of how the game looks on series s",
    "title": "GTA 6 Fans Are In Awe Of How The Game Looks On Series S",
@@ -142,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses how GTA 6's prologue can diverge in more ways than expected."
+  },
+  {
+   "id": "miami vice nba s heat collaborate with grand theft auto vi to transform arena against bucks",
+   "title": "Miami Vice: NBA’s Heat collaborate with Grand Theft Auto VI to transform arena against Bucks",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONm9iOEs0dWtlenBvaHRzX3NaUHhjU29mTGJTUTZQbS1zMlI2ZjY3NnU4TmQ0c3lhbGlzampNVFpsQnRLa2VuRFFickpydk1td1dsRDAzdjl5UllwbXIyNHRxa0RRQkI2dUdicjNQYk9SeFZ5VG1UeEFXLTN5SDA1SEd2dzVNN19HTE9GMGdSWVBScXk0U0ZRNnZYZ2JWZVBwRG5JNm1ScFRnQzYxMkROUWtPN1g3aTczSEJyNVVIUzdmdVBpdVNYS1NyMEQyS2g4cFVxR3NfLWNZTWhzQjREZEJZbHJ4Y3pMQURmZmZuOWwtQ0REbnhMa1BXUDVPLTRN?oc=5",
+   "outlet": "South China Morning Post",
+   "via": "Google News",
+   "published": "2026-11-19T09:30:32+00:00",
+   "seen": "2026-11-19T09:42:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A collaboration between the NBA's Heat and GTA VI aims to transform an arena against the Bucks."
   },
   {
    "id": "i can t wait to play grand theft auto vi for the fashion yes really",
