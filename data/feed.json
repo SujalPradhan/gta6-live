@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:52:53+00:00",
- "started": "2026-11-19T10:52:45+00:00",
+ "updated": "2026-11-19T10:57:56+00:00",
+ "started": "2026-11-19T10:57:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:52:46+00:00"
+   "checked": "2026-11-19T10:57:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:52:46+00:00"
+   "checked": "2026-11-19T10:57:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T10:52:47+00:00"
+   "checked": "2026-11-19T10:57:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T10:52:47+00:00"
+   "checked": "2026-11-19T10:57:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T10:52:47+00:00"
+   "checked": "2026-11-19T10:57:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T10:52:47+00:00"
+   "checked": "2026-11-19T10:57:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T10:52:48+00:00"
+   "checked": "2026-11-19T10:57:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:52:48+00:00"
+   "checked": "2026-11-19T10:57:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T10:52:49+00:00"
+   "checked": "2026-11-19T10:57:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T10:52:49+00:00"
+   "checked": "2026-11-19T10:57:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:52:49+00:00"
+   "checked": "2026-11-19T10:57:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T10:52:49+00:00"
+   "checked": "2026-11-19T10:57:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T10:52:50+00:00"
+   "checked": "2026-11-19T10:57:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T10:52:50+00:00"
+   "checked": "2026-11-19T10:57:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "police issue statement addressing vice city transplants on gta 6 release night",
+   "title": "Police issue statement addressing 'Vice City transplants' on GTA 6 release night",
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQOXBpOU4yUVFzVWVfLV81M0RXUmRxeUJtYnktYk10OUZURUhxRVZ1NXJXSmdaYmdnS19WMjdJcWlNc2ZQWmEyRGtnNDJvOHNwVkJpZ3FPS3VQWHlfWUl1RDJyb2FPNWNubFVzWkVNSXdhZy16OE0tbFg4QkVsMzhIMllESUpGbkt4RThNUGdWc0NPM0o5bTNBdjZXM0w2YkJPN2hZRlNiUFZsb2M4d0ZMMldYZ3dKT3JXT3d4V0N1M1ZyeW1KUEVUQWNHLW41dktZVnVoMU9iSkxPZm13MlEwVXdYWi1PTlpXWXVpQnRqT3BhbENfVUQweVhOTEFwMTJFeGNGRTNLMGJZcGhTSXlQcng1cGpXSVRoM21HUm12eUFRLU1FTUVKOFRGY0hqQ1RmMkU1MFNacngtWEN4LVByVmpxM1EtZ1BKRGc?oc=5",
+   "outlet": "WKRC",
+   "via": "Google News",
+   "published": "2026-11-19T10:56:17+00:00",
+   "seen": "2026-11-19T10:57:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Police issue a statement addressing 'Vice City transplants' on GTA 6 release night."
+  },
+  {
+   "id": "how to fix the railing in gta 6",
+   "title": "How to fix the railing in GTA 6",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/how-to-fix-the-railing-in-gta-6/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T10:52:00+00:00",
+   "seen": "2026-11-19T10:57:51+00:00",
+   "summary": "Here's how you can find and repair the railing at Jason's house in GTA 6.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article explains how to find and repair the railing at Jason's house in GTA 6."
+  },
   {
    "id": "deus ex creator warren spector hopes gta 6 is the last of its kind",
    "title": "Deus Ex Creator Warren Spector Hopes \"GTA 6 Is the Last of Its Kind\"",
@@ -415,6 +441,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Refueling cars in GTA 6 is minor, but garages offer compelling reasons to visit."
+  },
+  {
+   "id": "nikola jokic brushes off gta vi hype reveals his favorite video game",
+   "title": "Nikola Jokic brushes off GTA VI hype, reveals his favorite video game",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkh0cG82ZWg1NmZRcS1mVzBpcUxPajZBWVdPa091WUhxLVpteG42X3I3WkVhQVQ5SnQyMTh5cENhM29KcHh2QzBWRTNQMEJuZFZXdU1aVlNfbjYzRFJIcGljV3pOWjBnb2tVby1PeTNPdEJNeXFKU2R0Nkc1YnRFdkpYVW1lVGpsRlItbGliNjlKNnlMR0ExRGdfUUh6YkthX0VLblpQUE5rNjFG?oc=5",
+   "outlet": "BasketNews.com",
+   "via": "Google News",
+   "published": "2026-11-19T10:11:00+00:00",
+   "seen": "2026-11-19T10:57:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Nikola Jokic dismisses GTA VI hype and shares his favorite video game."
   },
   {
    "id": "gta 6 launch smashes another record as game goes live in the uk",
