@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:07:45+00:00",
- "started": "2026-11-19T09:07:12+00:00",
+ "updated": "2026-11-19T09:12:26+00:00",
+ "started": "2026-11-19T09:12:13+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T09:07:12+00:00"
+   "checked": "2026-11-19T09:12:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 94,
-   "checked": "2026-11-19T09:07:12+00:00"
+   "checked": "2026-11-19T09:12:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T09:07:13+00:00"
+   "checked": "2026-11-19T09:12:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T09:07:13+00:00"
+   "checked": "2026-11-19T09:12:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T09:07:13+00:00"
+   "checked": "2026-11-19T09:12:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-19T09:07:13+00:00"
+   "checked": "2026-11-19T09:12:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T09:07:14+00:00"
+   "checked": "2026-11-19T09:12:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T09:07:14+00:00"
+   "checked": "2026-11-19T09:12:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T09:07:14+00:00"
+   "checked": "2026-11-19T09:12:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T09:07:14+00:00"
+   "checked": "2026-11-19T09:12:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T09:07:14+00:00"
+   "checked": "2026-11-19T09:12:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T09:07:14+00:00"
+   "checked": "2026-11-19T09:12:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T09:07:14+00:00"
+   "checked": "2026-11-19T09:12:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T09:07:14+00:00"
+   "checked": "2026-11-19T09:12:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 sets streaming record before worldwide release",
+   "title": "GTA 6 sets streaming record before worldwide release",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UczVXeVZwZlRxRXlCbEI1SGw0R0hVa05yNWFtLVVtM1R3dm41LTM4WUJUSGpUcnFidnh1a3c0Tm0zMUdGV3ktNE9icWVwU3p3SmZqS2tjRTNIQUkxeEZEdWdITjU0NUU4c2ZBWlJZRmVQRVFsVGdvcA?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-19T09:09:35+00:00",
+   "seen": "2026-11-19T09:12:13+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 set a streaming record before its worldwide release."
+  },
+  {
+   "id": "gta 6 mandy explained can you romance mandy in gta 6",
+   "title": "GTA 6 Mandy explained: Can you romance Mandy in GTA 6?",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-mandy-explained-can-you-romance-mandy-in-gta-6/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T09:07:57+00:00",
+   "seen": "2026-11-19T09:12:14+00:00",
+   "summary": "Mandy from the Pipework mission certainly likes Jason",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses Mandy in GTA 6 and whether you can romance Mandy, noting Mandy from the Pipework mission likes Jason."
+  },
+  {
+   "id": "rockstar ps5 pro is not powerful enough to run gta 6 at higher frame rates",
+   "title": "Rockstar: PS5 Pro Is Not Powerful Enough To Run GTA 6 At Higher Frame Rates",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX1dieHNaemZtUWd6RnY3UFZhWmdHcEJOeW5LZDJTREtTZHVSRlljMndlcnFCSk14TjVXVVNZdXNuS0dBejZZZnoxcWY5Q3JYT1FLVzBJZmN4M0ZkejJuSmtkRXdhbFF4MkwyWndTRWlJQ05sbXhmaldFZWlWODFUQ1J1emR1c1BFU09SSWdabWV6YTE0ZEEyQXhaa2I3MkJIQy1tVVU3c2daVzJSUzAxMHVqVTFYOXpsTUFQQVU0TQ?oc=5",
+   "outlet": "gameranx.com",
+   "via": "Google News",
+   "published": "2026-11-19T09:07:11+00:00",
+   "seen": "2026-11-19T09:12:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states PS5 Pro is not powerful enough to run GTA 6 at higher frame rates."
+  },
   {
    "id": "grand theft auto 6 launch day live",
    "title": "Grand Theft Auto 6 launch day live - news and reaction as GTA 6 arrives around the world",
@@ -1104,6 +1143,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The guide explains how to save your game in GTA 6."
+  },
+  {
+   "id": "bmxing tanuki game was prepared for gta 6 s launch but wasn t expecting zelda",
+   "title": "\"BMXing Tanuki Game\" Was Prepared For GTA 6's Launch, But Wasn't Expecting Zelda",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGU2bTVLV1pMeHZrR0sxSC1NZi1BbU5tMXdvcGszVE5IYmhXTzFrRFZyVi14V0NXY3NKOUhYWG8tYkNhYXJwU3BxYmUtand4a3h1QXNMR2NMNE5BYjk1dUQxU2dka2JsZ1llZnNvWjFoWTVwb3V3UjRGdHM3VTVndURucXNRV3FxZHRFaHBMUl9YajV1cV9uMDdqekFHZUxQcFlObU0tSTJfNHBnWDlPUE8teDl1ck9V?oc=5",
+   "outlet": "Nintendo Life",
+   "via": "Google News",
+   "published": "2026-11-19T05:45:00+00:00",
+   "seen": "2026-11-19T09:12:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story mentions BMXing Tanuki Game was prepared for GTA 6's launch, but wasn't expecting Zelda."
   },
   {
    "id": "morning bid loading claude and gta vi",
@@ -6588,7 +6640,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "Point the finger. GTA 6 is so massive that even the UK's National Health Service — commonly known as the NHS — has gotten in on the act. To be fair, the NHS raises a good point with regards to the open world game's imminent release. On Instagram, it's urging players to take regular breaks in order to avoid issues like repetitive strain injury — or RSI for short. Read the full article on pushsquare",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "The NHS warns about GTA 6 and urges players to take regular breaks to avoid RSI."
   },
   {
    "id": "xbox fans urge caution over new zealand trick for gta 6 while others say it s a non issue",
@@ -6600,7 +6653,8 @@
    "seen": "2026-11-19T05:31:01+00:00",
    "summary": "\"They literally told me this in person in Seattle at Xbox FanFest last week\". We've already talked a little bit about the New Zealand trick and how it's pretty much the number one topic on social media when it comes to Xbox and GTA 6 right now, so it's naive to think nobody's going to try it this Wednesday. If you're not in the loop, this refers to people changing their region on Xbox to access GT",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The story covers Xbox fans' caution over a New Zealand trick for GTA 6 and some call it a non-issue."
   },
   {
    "id": "the game awards just confirmed who plays gta 6 s lucia",
@@ -6612,7 +6666,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Manni L. Perez has been confirmed as the actress behind Grand Theft Auto 6 's Lucia Caminos, just days before the game launches. Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Game Awards confirms the actress for Lucia Caminos in GTA 6."
   },
   {
    "id": "the game awards 2026 nominees revealed gta 6 up for 8 awards",
@@ -6624,7 +6679,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "Full list of The Game Awards 2026 category nominees. Geoff Keighley has today confirmed the nominees for all the categories at The Game Awards 2026 , with the show set to take place on 10th December 2026. The nominees for Game of the Year are: 007 First Light , Control Resonant , GTA 6 , Phantom Blade Zero , Resident Evil Requiem , and The Legend of Zelda: Ocarina of Time . Read the full article o",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The Game Awards 2026 nominees include GTA 6 for multiple awards."
   },
   {
    "id": "the game awards reveals its six nominees for game of the year including gta 6",
@@ -6636,7 +6692,8 @@
    "seen": "2026-11-19T05:31:01+00:00",
    "summary": "Even though it's not out yet. With The Game Awards fast approaching on December 10th, the official nominees have been announced today for every single category, including for the big Game of the Year award that takes the main spotlight. The headline news is that GTA 6 is in the running for that award, even though it hasn't released yet. Nominees for The Game Awards are selected by \"a voting jury o",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The Game Awards reveals GTA 6 as a nominee for Game of the Year."
   },
   {
    "id": "kfc brings gta inspired cluck n bell to life with delivery car straight out of gta 6",
@@ -6648,7 +6705,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "KFC is bringing a GTA-inspired chicken delivery experience to the real world with Cluck n’ Bell, a limited-time promotion that will see fans receive food from a bright pink Cadillac.",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "KFC launches a GTA-inspired Cluck n’ Bell delivery promotion with a pink Cadillac."
   },
   {
    "id": "school offers students 85 prize if they don t skip for gta 6",
@@ -6660,7 +6718,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "A Catholic school in England is offering students the chance to win a £65 Amazon voucher if they attend classes on GTA 6’s launch day.",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "A school offers students a prize tied to attending GTA 6 launch day."
   },
   {
    "id": "gta 6 running at 30 fps makes sense experts say after rockstar s confirmation",
@@ -6672,7 +6731,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Digital Foundry says that Rockstar Games would be “asking for trouble” in trying to run GTA 6 at anything other than 30 FPS after the feature was confirmed.",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Experts say GTA 6 running at 30 FPS makes sense after Rockstar's confirmation."
   },
   {
    "id": "devolver digital is giving away a free game if you delete gta 6",
@@ -6684,7 +6744,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Publisher Devolver Digital is giving away free copies of its new game to players who delete their GTA 6 from their consoles.",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Devolver Digital offers free copies of its new game for players who delete GTA 6."
   },
   {
    "id": "as blockbuster game releases run scared from gta 6 meet the brave devs tackling rockstar s behemoth head on",
@@ -6696,7 +6757,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Grand Theft Auto 6 . It's got cool cars, crime, a big new city to explore, and the potential to hoover up so much player time that many developers have chosen to give it the widest berth possible. It's led to an October uncommonly packed with big-hitters, and a November - ordinarily one of gaming's biggest months - that's near-barren. But not every developer is steering clear. Despite the potentia",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Eurogamer profiles devs bravely tackling GTA 6 amid a packed release season."
   },
   {
    "id": "after gta 6 s original soundtrack justice probably won t work on any other video game ever again",
@@ -6708,7 +6770,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "You've probably heard at least a little bit of the Grand Theft Auto 6 soundtrack from French electronic duo, Justice: a single taken from the act's original soundtrack has been released as a standalone track, and was the accompaniment to GTA 6's launch trailer . Featuring Tame Impala, SZA, and the fantastic King Gizzard and the Lizard Wizard, it's clear that the duo - and Rockstar - have spared no",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "Eurogamer notes the GTA 6 soundtrack teaser and collaboration with Justice and others."
   },
   {
    "id": "sony squeezes out a playstation 5 firmware update before the release of gta 6",
@@ -6720,7 +6783,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Sony has managed to squeeze out another PlayStation 5 firmware update before the highly-anticipated release of Grand Theft Auto 6 . Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Eurogamer reports a PlayStation 5 firmware update ahead of GTA 6 release."
   },
   {
    "id": "ea really doesn t want you to delete madden nfl 27 to make room for gta 6",
@@ -6732,7 +6796,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Assuming you didn't just buy a PlayStation 5 or Xbox Series X/S to play Grand Theft Auto 6 , your console's limited storage space is likely already strained, meaning tough choices may have to be made to make room for Rockstar's chonky 212GB crime game . Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Eurogamer discusses storage concerns as Madden NFL 27 and GTA 6 compete for space."
   },
   {
    "id": "hacker behind 2022 gta vi leaks pleads guilty",
@@ -6744,7 +6809,8 @@
    "seen": "2026-11-19T05:31:01+00:00",
    "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November […]",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The Verge reports a guilty plea from a hacker involved in 2022 GTA VI leaks."
   },
   {
    "id": "original gta 6 leaker pleads guilty to hacking rockstar games years after first revealing lucia",
@@ -6756,7 +6822,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "The 21-year-old responsible for hacking Rockstar Games and leaking in-development GTA 6 footage in 2022 has pleaded guilty to a number of offenses. Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Eurogamer covers the original GTA 6 leaker pleading guilty to hacking Rockstar Games."
   },
   {
    "id": "poll what do you think the metacritic score will be for gta 6",
@@ -6768,7 +6835,8 @@
    "seen": "2026-11-19T05:31:01+00:00",
    "summary": "Come and give us your verdict. Considering we're just a few days away from the release of GTA 6 on November 19th, we're bound to start getting reviews at some point between now and launch, and it'll be fascinating to see what the critics think of it! This is a series that has consistently dominated on Metacritic over the years - a website that takes loads of professional reviews and creates an ave",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "Pure Xbox invites readers to guess GTA 6's Metacritic score before its release."
   },
   {
    "id": "uk conservative leader kemi badenoch is more worried about the amount of time people will spend on gta 6 than the game s violent content",
@@ -6780,7 +6848,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Leader of the UK Conservative Party (and former Mortal Kombat player) Kemi Badenoch is more worried about the amount of time people will spend playing GTA 6 rather than the game itself. Read more",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "Eurogamer reports Kemi Badenoch's concern about time spent on GTA 6 rather than violence."
   },
   {
    "id": "xbox creates new website that generates you a doctor s note for gta 6",
@@ -6792,7 +6861,8 @@
    "seen": "2026-11-19T05:31:01+00:00",
    "summary": "And teams up with DJ Khaled in the process. Xbox is having a bit of fun with the GTA 6 launch this week, even if they're not allowed to officially market it in some situations (due to an apparent deal struck between Take-Two and PlayStation). For example, they've just created a doctor's note website for the game, but it's not spelt out that it's for GTA 6. It obviously is for the new Grand Theft A",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Pure Xbox notes Xbox creates a doctor’s note site for GTA 6 and teams with DJ Khaled."
   },
   {
    "id": "can gta 6 make 2 billion in its opening weekend one industry analyst has run the numbers and seems to think so",
@@ -6804,7 +6874,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "We all know the story of GTA 5 making more than $1 billion in the first three days it was on sale , right? At the time, Take-Two believed this to be the fastest any entertainment property had achieved the impressive milestone - music and films included. It made history, and with ease. And it looks like GTA 6 is going to do even better. Read more",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Eurogamer speculates GTA 6 could reach $2 billion in opening weekend based on analyst numbers."
   },
   {
    "id": "guide gta 6 release times all the key details xbox players need to know",
@@ -6816,7 +6887,8 @@
    "seen": "2026-11-19T05:31:01+00:00",
    "summary": "Welcome to launch week! It's finally here! We've officially reached the launch week of GTA 6 on Xbox Series X, Xbox Series S, PS5 and even the Xbox One (kind of), 13 long years since the most recent entry in the series back in 2013. With that in mind, we thought we'd put up a quick release times guide so you know exactly when you can start playing the game, and we've also thrown in a few extra det",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "Pure Xbox provides a guide to GTA 6 release times for Xbox and other platforms."
   },
   {
    "id": "the latest gta 6 leak comes in the form of a 34 song tracklist for gta 6 the album featuring dua lipa lana del rey rina sawayama and more",
@@ -6828,7 +6900,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "We are now just four days away from the release of GTA 6 on Xbox Series X/S and PS5, but the proximity to the much-anticipated launch date isn't stemming the tide of leaks that has been plaguing the game for much of the past year. Yesterday, a new video - seemingly from a record store that received vinyl records of the soundtrack early - showed off the full 34-song tracklist for the game. Read mor",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Eurogamer reports a 34-song GTA 6 soundtrack tracklist leak ahead of release."
   },
   {
    "id": "vice city was the gta that established rockstar s killer formula",
@@ -6840,7 +6913,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "\"Get the limey out of here,\" Burt Reynolds tells the producers of GTA: Vice City during a recording session for the game, as Rockstar co-founder Dan Houser enters the studio. \"I'm not going to work if this limey Brit is in here!\" Houser refuses to leave, so the story goes - he just came down to meet one of his heroes! - and he and Reynolds end up chest-to-chest, about to come to blows, before a st",
    "topic": "Outage",
-   "record": true
+   "record": true,
+   "ai_summary": "The story discusses Vice City as a foundational GTA that remains highly regarded two decades later."
   },
   {
    "id": "tell us your favourite grand theft auto gaming memory and win a copy of gta 6",
@@ -6852,7 +6926,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Hello! This piece is part of our GTA Week coverage here on Eurogamer, as we explore all things Grand Theft Auto across the launch period of the wildly anticipated Grand Theft Auto 6 . For more like this, see our GTA Week hub - or for the exact opposite, look out for our Not-GTA week of counterprogramming, running from 23rd November. Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Eurogamer invites readers to share GTA memories for a chance to win GTA 6."
   },
   {
    "id": "one week from launch gta 6 s physical map reportedly leaks online thanks to the 350 collector s edition on show in a uk department store",
@@ -6864,7 +6939,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "With less than a week to go before GTA 6's hugely anticipated release , the game's final map - or at least a stylised poster version of it, depicting the state of Leonida's key landmarks - has surfaced online. It was reportedly snapped during Selfridge's sizable GTA 6 's takeover, and is seemingly the physical map included in Rockstar's £350 collector's edition. Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "A physical map poster from GTA 6 appears online, reportedly in a £350 collector's edition."
   },
   {
    "id": "will gta 6 break the internet uk broadband operator braces for impact saying gta 6 has been on our radar for a long time",
@@ -6876,7 +6952,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "As Grand Theft Auto 6 breaks pre-order records on the PlayStation and Xbox stores , and looks poised to break many more sales records once it launches next week, questions of whether it will also break the internet arise. Collective network load will undoubtedly spike around its release - will regional infrastructure be able to bear it? Read more",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 pre-orders surge as expectations grow, with questions about whether the internet infrastructure can handle the load."
   },
   {
    "id": "will a grand theft auto game ever be set outside of america rockstar offers a small glimmer of hope",
@@ -6888,7 +6965,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "The Grand Theft Auto games have always been synonymous with America; Americana is baked into the crime series' very being. Across its history, there's only ever been one GTA game set outside America: the London-based expansion of the original game. Read more",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "The piece considers whether a GTA game might be set outside America, noting past examples."
   },
   {
    "id": "gta 6 might be censored in japan if the game s smaller install size and lack of strong sexual content warning is anything to go by",
@@ -6900,7 +6978,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-anticipated game might look a bit different in Japan. Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 could appear differently in Japan due to a smaller install size and fewer warnings about explicit content."
   },
   {
    "id": "grand theft auto 6 becomes the most pre ordered game in playstation store history",
@@ -6912,7 +6991,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "UPDATE 11TH NOVEMBER: Grand Theft Auto 6 has also become the most pre-ordered game \"of all time\" on the Xbox Store, Microsoft has announced. And on that platform, again, the advice is to pre-load because of \"unprecedented demand\" for the game, a post on Xbox Wire said . Read more",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 becomes the most pre-ordered game on PlayStation Store, with Xbox Store also reporting high pre-orders."
   },
   {
    "id": "rockstar details grand theft auto 6 ps5 pro enhancements but it ll still only run at 30fps",
@@ -6924,7 +7004,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles. Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Rockstar details PS5 Pro enhancements for GTA 6, confirming the game will target 30 FPS on consoles."
   },
   {
    "id": "rockstar kills any hopes of streaming gta 6 from xbox to pc but you can stream it to your old xbox one if you like",
@@ -6936,7 +7017,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Rockstar Games has today clarified a few remaining details about Grand Theft Auto 6's framerate target and visual settings on PlayStation 5, PS5 Pro and Xbox Series X/S . And as part of the same announcement , the developer revealed a key detail about the game's cloud streaming options. Read more",
    "topic": "Streaming",
-   "record": false
+   "record": false,
+   "ai_summary": "Rockstar clarifies GTA 6 streaming options, confirming no Xbox to PC streaming, but support for streaming to Xbox One."
   },
   {
    "id": "as investors ask about gta 6 and ai take two ceo once again puts faith in dev creativity states making hit games remains the purview of huma",
@@ -6948,7 +7030,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick fielded questions from investors after presenting the financial results of the company. One caller was concerned about AI - specifically about the proliferation of AI-powered compilations and decompilations that have been raising piracy concerns for publishers over the past few weeks. Read more",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Take-Two CEO reassures investors that AI will not replace human development in making hit games."
   }
  ]
 }
