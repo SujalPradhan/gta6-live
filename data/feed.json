@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:52:35+00:00",
- "started": "2026-11-19T09:52:28+00:00",
+ "updated": "2026-11-19T09:57:33+00:00",
+ "started": "2026-11-19T09:57:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T09:52:28+00:00"
+   "checked": "2026-11-19T09:57:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T09:52:29+00:00"
+   "checked": "2026-11-19T09:57:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T09:52:29+00:00"
+   "checked": "2026-11-19T09:57:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T09:52:29+00:00"
+   "checked": "2026-11-19T09:57:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T09:52:30+00:00"
+   "checked": "2026-11-19T09:57:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T09:52:30+00:00"
+   "checked": "2026-11-19T09:57:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T09:52:30+00:00"
+   "checked": "2026-11-19T09:57:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T09:52:30+00:00"
+   "checked": "2026-11-19T09:57:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T09:52:30+00:00"
+   "checked": "2026-11-19T09:57:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T09:52:31+00:00"
+   "checked": "2026-11-19T09:57:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T09:52:31+00:00"
+   "checked": "2026-11-19T09:57:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T09:52:31+00:00"
+   "checked": "2026-11-19T09:57:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-19T09:52:31+00:00"
+   "hits": 2,
+   "checked": "2026-11-19T09:57:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T09:52:31+00:00"
+   "checked": "2026-11-19T09:57:30+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions what the dynamics of Jason and Lucia's relationship are really like."
+  },
+  {
+   "id": "we will get gta 6 before jannik sinner s comeback fans give up hope as reports emerge about italian s latest knee injury update",
+   "title": "“We Will Get GTA 6 Before Jannik Sinner’s Comeback” – Fans Give Up Hope As Reports Emerge About Italian’s Latest Knee Injury Update",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXM0a25fMXEtLU1nZkpnZU0zVUlsNXphZ292VzNhRWFUNDdpQmZ3S0JLSmFVX1ZkVlgtYk1iaE5Za2UxdG9wbktHT1JLS2RTQV9MNWZkZHBsOXhfUHNrMC12VGFWTHQ2NkNxdy16Z3lkTk9hdlIxV1BfTnRzVE1ENUgzNA?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-19T09:47:13+00:00",
+   "seen": "2026-11-19T09:57:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Fans express waning hope as reports emerge about an Italian player's latest knee injury update, implying GTA 6 release timing concerns."
   },
   {
    "id": "gta vi launch draws 7 89 million concurrent viewers mythpat sets personal record",
@@ -246,6 +259,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that fans are impressed by how GTA 6 looks on the Series S."
+  },
+  {
+   "id": "playstation outage resolved sony s network is back online hours before gta 6 s us launch",
+   "title": "PlayStation outage resolved: Sony’s network is back online hours before GTA 6’s US launch",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR2RwRnJQbC1Wc3hOWjZfOW1qS0RlS1hvZ1A1dEZxWG1yY2RrVllvTEJnQ3BObjhHTWJFVnBncnJZaG5JVmJ0QjZHZkVMTG93NlN2anBZbDhSNEFHekxCNjN2U0diQnE0WGJzWjlQSDZhZk9NbHVEN1VzVEx2WXdiT3pRa215UTZTenpXX3NjemJyajRwN1hVMkduRTdCdkJfU1VkdnZ2T1gtc1Q2bU1LVEk5S2hrd28zNUxVMk4yUmd2dFktUVc4UkdsX1dBNmNjdkZXVm53T2JxUmMtbFktN2Q1ZkM0alBlU0ZFSm5YMExXaXlab1pPRlNR0gH_AUFVX3lxTE1kZ1FCckJZSDhVamZoSmQ4UXdLV1NDVWcxVlV1SjZjSEdFa0VTVVREYndwcTZQcUVVRmVPWTZwZGxSVGhrR2FGNGdURjg2WFhpNS1QaDdFWmJJWlVLQnVqc2x3OVdrVERPNGI2RXVyVzhEX3pGYkltUlhnai1lR2J3UmFOSFkxbGFBRkIwVjZpUGxLUlVMMmtnb1loSlo1Ml9zSHFQNnRuWWpETFF3M0NPZVd0X2RIUjgtaXlyNlJJRXNnbVFNZzViclNOdy1FdHk4dDRVdzlQeFo3VnVkN2RGYmwtR0JLQ1JiUGEtMDh2R2FMal95X0xCX0ZLOUdLRQ?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-19T09:34:00+00:00",
+   "seen": "2026-11-19T09:57:29+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "PlayStation network outage has been resolved, with services back online ahead of GTA 6’s US launch."
   },
   {
    "id": "gta vi launches today after record pre orders on playstation xbox",
@@ -6423,6 +6449,19 @@
    "ai_summary": "The story notes GTA 6's Metacritic score is jaw-dropping and historic."
   },
   {
+   "id": "after 13 years gta 6 launches thursday with record sales forecasts",
+   "title": "After 13 years, GTA 6 launches Thursday with record sales forecasts",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa3drTERGNEdoV2x2UlhhQTNFRXJ3anFXdExvWmRmekl5N3RzTG5YbjlHOXkzNWdNQ2VxMzRHYzg2ZG90dW81dE51c2ZKUnIzSl9DaHpQeDEyTzhhVTlmZkxpdVBjU2RSYmtLLWtWT2g0WHp1QU44RFhGSVRvWWgyYWxJR1BuYXhBZDdQR2dEenU1M1hxZnZER1p6c19LeF82X21icEhpR1BNdjRQRUNzQ0FQREpiNDQ?oc=5",
+   "outlet": "www.jordannews.jo",
+   "via": "Google News",
+   "published": "2026-11-18T12:32:39+00:00",
+   "seen": "2026-11-19T09:57:29+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 launches on Thursday with record sales forecasts following a 13-year wait."
+  },
+  {
    "id": "gta 6 reviews say highly anticipated game is a masterpiece",
    "title": "GTA 6 reviews say highly-anticipated game is a masterpiece",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83RFNORWlhblpzalV6d2hYUGVucVN2QURUZm12NzlXc055ZWkzem5sSWhkYk5DUVBNeHdiVDh4My1RWGxYQ3lIQ0R5aGFkVUpTTUR4OS1URWEzbHNkTEE?oc=5",
@@ -7383,6 +7422,19 @@
    "topic": "Outage",
    "record": true,
    "ai_summary": "The story discusses Vice City as a foundational GTA that remains highly regarded two decades later."
+  },
+  {
+   "id": "here s how you can save on your gta vi preorder ahead of launch",
+   "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+   "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+   "outlet": "The Verge",
+   "via": "The Verge",
+   "published": "2026-11-13T19:14:38+00:00",
+   "seen": "2026-11-19T09:57:30+00:00",
+   "summary": "The long-awaited launch of GTA VI is around the corner, happening next Thursday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Microsoft Xbox Series […]",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Guidance on saving on a GTA VI preorder ahead of launch, noting limited game discounts but potential savings on gift cards."
   },
   {
    "id": "tell us your favourite grand theft auto gaming memory and win a copy of gta 6",
