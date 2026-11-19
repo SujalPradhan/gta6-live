@@ -1,106 +1,106 @@
 {
- "updated": "2026-11-19T19:56:00+00:00",
- "started": "2026-11-19T19:55:52+00:00",
+ "updated": "2026-11-19T20:01:05+00:00",
+ "started": "2026-11-19T20:01:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T19:55:53+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-19T20:01:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T19:55:53+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-19T20:01:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T19:55:54+00:00"
+   "checked": "2026-11-19T20:01:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:55:54+00:00"
+   "checked": "2026-11-19T20:01:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T19:55:54+00:00"
+   "checked": "2026-11-19T20:01:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T19:55:54+00:00"
+   "checked": "2026-11-19T20:01:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T19:55:55+00:00"
+   "checked": "2026-11-19T20:01:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T19:55:55+00:00"
+   "checked": "2026-11-19T20:01:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T19:55:56+00:00"
+   "checked": "2026-11-19T20:01:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T19:55:56+00:00"
+   "checked": "2026-11-19T20:01:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T19:55:56+00:00"
+   "checked": "2026-11-19T20:01:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T19:55:57+00:00"
+   "checked": "2026-11-19T20:01:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T19:55:57+00:00"
+   "checked": "2026-11-19T20:01:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T19:55:57+00:00"
+   "checked": "2026-11-19T20:01:03+00:00"
   }
  },
  "items": [
@@ -768,6 +768,19 @@
    "ai_summary": "ESPN notes something the sporting world didn't get before GTA VI."
   },
   {
+   "id": "jason showers in his underwear in the japanese version of gta 6 but censorship is nothing new for rockstar games",
+   "title": "Jason Showers in His Underwear in the Japanese Version of GTA 6, but Censorship Is Nothing New for Rockstar Games",
+   "link": "https://www.ign.com/articles/jason-showers-in-his-underwear-in-the-japanese-version-of-gta-6-but-censorship-is-nothing-new-for-rockstar-games",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-19T18:43:45+00:00",
+   "seen": "2026-11-19T20:01:02+00:00",
+   "summary": "GTA 6 is finally here, but for players in Japan the experience is looking a bit different. Pre-release concerns about censorship have proven to be founded, with blood, gore, and nudity getting dialed down, but also some more surprising changes.",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "GTA 6 in Japan features censorship changes including reduced blood, gore, and nudity as reported by IGN."
+  },
+  {
    "id": "the cat came back roaring kitty tweet sends gamestop stock higher amid gta vi fervor",
    "title": "The cat came back: Roaring Kitty tweet sends GameStop stock higher amid GTA VI fervor",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbFFYLXJydXEwQ0xDcnFzMTJSbWJPcS16WmhZVHZsWEIyVThhZWdZU2VHLVRyMlhsWE9Ld1RPY29iZUd3OUg2VWQtbEN4ck56b210YXV0a0t6YXlMRTE4TDlBSHpEODZsMGtCMGRCOEFIRjRwMV9uUWFfQmZhOUNxVWxNSHdiVDJhRDM3Q25pb3dKbldmU2h4aTI5dzZOTUJYS0JOUzNGNThmRXJFekY2aWNzWkZBendPN3kwLWFqLUNmT3JNY3lJQ1p5cUloNGUzX2dHN09DNGtyYk4wZi1oNGtR?oc=5",
@@ -818,6 +831,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports where to find Paul Walker’s 1995 Mitsubishi Eclipse in GTA 6."
+  },
+  {
+   "id": "players are surprised at how well the xbox series s handles gta 6",
+   "title": "Players Are Surprised at How Well the Xbox Series S Handles GTA 6",
+   "link": "https://www.ign.com/articles/players-are-surprised-at-how-well-the-xbox-series-s-handles-gta-6",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-19T18:39:26+00:00",
+   "seen": "2026-11-19T20:01:02+00:00",
+   "summary": "In the run-up to GTA 6's launch, one of the biggest questions was how well the Xbox Series S would handle the game. And, now that it's out in the wild, and actually runs the game pretty well, Series S owners are celebrating.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "IGN reports GTA 6 runs quite well on Xbox Series S, with owners celebrating its performance."
   },
   {
    "id": "drone drops copies of grand theft auto vi across delaware i exclusive",
