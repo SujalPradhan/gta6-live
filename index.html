@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GTA VI's First 12 Hours</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Instrument+Sans:wght@400..700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  /* Layout idea: a Leonida-at-dusk scroll story. Night ink page, one sunset gradient reserved for record numbers. */
+  --night: #0F0B15;
+  --dusk: #1B1424;
+  --haze: #2C2238;
+  --text: #F6EEE6;
+  --muted: #ABA0B5;
+  --pink: #FF4F8B;
+  --peach: #FFB05C;
+  --sunset: linear-gradient(100deg, #FF4F8B 0%, #FF7A6B 45%, #FFB05C 100%);
+  --display: 'Archivo', 'Arial Narrow', Impact, sans-serif;
+  --body: 'Instrument Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--night); color: var(--text); font-family: var(--body); font-size: 18px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+a { color: var(--peach); text-underline-offset: 3px; }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--peach); outline-offset: 3px; border-radius: 4px; }
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; }
+.wrap { max-width: 1160px; margin: 0 auto; padding: 0 24px; }
+.mono { font-family: var(--mono); font-size: 13px; letter-spacing: 0.02em; }
+.muted { color: var(--muted); }
+.grad { background: var(--sunset); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* nav */
+nav.top { position: sticky; top: 0; z-index: 20; background: rgba(15, 11, 21, 0.86); backdrop-filter: blur(10px); border-bottom: 1px solid var(--haze); }
+nav.top .wrap { display: flex; align-items: center; gap: 20px; height: 52px; overflow-x: auto; scrollbar-width: none; }
+nav.top .brand { font-family: var(--display); font-weight: 900; font-stretch: 75%; font-size: 20px; letter-spacing: 0.02em; white-space: nowrap; margin-right: auto; }
+nav.top a { color: var(--muted); text-decoration: none; font-size: 14px; white-space: nowrap; }
+nav.top a:hover, nav.top a.on { color: var(--text); }
+
+/* hero */
+.hero { position: relative; overflow: hidden; border-bottom: 1px solid var(--haze); }
+#sky { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.hero .wrap { position: relative; padding-top: 72px; padding-bottom: 64px; }
+.kicker { font-family: var(--mono); font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--peach); margin: 0 0 18px; }
+.hero h1 { font-weight: 900; font-stretch: 68%; font-size: clamp(56px, 11vw, 148px); line-height: 0.88; letter-spacing: -0.01em; text-transform: uppercase; max-width: 11ch; }
+.thesis { font-size: clamp(20px, 2.4vw, 26px); line-height: 1.35; max-width: 34ch; margin: 28px 0 40px; }
+.hero-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; max-width: 900px; }
+.hstat { background: rgba(27, 20, 36, 0.78); border: 1px solid var(--haze); border-radius: 14px; padding: 18px 20px; backdrop-filter: blur(6px); }
+.hstat b { display: block; font-family: var(--display); font-weight: 900; font-stretch: 80%; font-size: clamp(40px, 6vw, 64px); line-height: 1; }
+.hstat span { display: block; font-size: 15px; color: var(--muted); margin-top: 8px; line-height: 1.35; }
+.snap { margin-top: 28px; }
+
+/* ticker */
+.ticker { border-bottom: 1px solid var(--haze); overflow: hidden; white-space: nowrap; background: var(--dusk); }
+.ticker-track { display: inline-flex; gap: 48px; padding: 14px 0; animation: tick 60s linear infinite; }
+.ticker-track span { font-family: var(--mono); font-size: 13px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+.ticker-track span b { color: var(--peach); font-weight: 600; }
+@keyframes tick { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+/* chapters */
+section.ch { padding: 64px 0 32px; border-bottom: 1px solid var(--haze); scroll-margin-top: 52px; }
+.ch-head { display: grid; grid-template-columns: 120px 1fr; gap: 24px; align-items: end; margin-bottom: 28px; }
+.ch-no { font-family: var(--display); font-weight: 900; font-stretch: 62%; font-size: 96px; line-height: 0.8; color: var(--haze); }
+.ch-head .kicker { margin-bottom: 10px; }
+.ch-head h2 { font-weight: 800; font-stretch: 85%; font-size: clamp(32px, 4.4vw, 52px); line-height: 1.04; max-width: 22ch; }
+.ch-head p.sub { color: var(--muted); max-width: 62ch; margin: 16px 0 0; font-size: 19px; }
+
+.panel { background: var(--dusk); border: 1px solid var(--haze); border-radius: 18px; padding: 28px; }
+.panel h3 { font-weight: 700; font-stretch: 90%; font-size: 22px; margin-bottom: 4px; }
+.panel .cap { color: var(--muted); font-size: 15px; margin: 0 0 22px; }
+.src { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; margin-top: 20px; padding-top: 14px; border-top: 1px dashed var(--haze); color: var(--muted); }
+.pill { display: inline-block; font-family: var(--mono); font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 3px 8px; border-radius: 999px; border: 1px solid currentColor; }
+.pill.high { color: #7EE0B5; }
+.pill.med { color: var(--peach); }
+.pill.low { color: #FF8FA0; }
+
+.grid2 { display: grid; grid-template-columns: 1.35fr 1fr; gap: 20px; }
+.grid3 { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.stack { display: grid; gap: 16px; align-content: start; }
+
+/* bar chart */
+.bars { display: grid; gap: 12px; }
+.brow { display: grid; grid-template-columns: 170px 1fr 88px; gap: 14px; align-items: center; }
+.brow .lab { font-size: 15px; text-align: right; color: var(--muted); line-height: 1.25; }
+.brow.lead .lab { color: var(--text); font-weight: 700; }
+.track { height: 30px; background: rgba(255, 255, 255, 0.03); border-radius: 6px; position: relative; }
+.fill { height: 100%; border-radius: 6px; background: #4A3C5A; width: var(--w); transition: width 0.9s cubic-bezier(.2, .8, .2, 1); }
+.brow.lead .fill { background: var(--sunset); }
+.brow .val { font-family: var(--display); font-weight: 800; font-stretch: 85%; font-size: 20px; font-variant-numeric: tabular-nums; }
+.ref-line { position: absolute; top: -6px; bottom: -6px; width: 2px; background: var(--text); opacity: 0.7; }
+
+.toggle { display: inline-flex; background: var(--night); border: 1px solid var(--haze); border-radius: 999px; padding: 3px; margin-bottom: 20px; }
+.toggle button { font: 600 14px var(--body); color: var(--muted); background: none; border: 0; padding: 7px 14px; border-radius: 999px; cursor: pointer; }
+.toggle button[aria-pressed="true"] { background: var(--haze); color: var(--text); }
+
+.stat { background: var(--dusk); border: 1px solid var(--haze); border-radius: 16px; padding: 22px; }
+.stat b { display: block; font-family: var(--display); font-weight: 900; font-stretch: 78%; font-size: 46px; line-height: 1; margin-bottom: 8px; }
+.stat .what { font-weight: 600; font-size: 17px; line-height: 1.35; margin: 0 0 6px; }
+.stat .vs { color: var(--muted); font-size: 14px; margin: 0; line-height: 1.45; }
+
+/* acclaim */
+.score-wrap { display: grid; grid-template-columns: auto 1fr; gap: 40px; align-items: center; }
+.giant { font-family: var(--display); font-weight: 900; font-stretch: 62%; font-size: clamp(160px, 24vw, 300px); line-height: 0.8; }
+.split { display: flex; height: 18px; border-radius: 999px; overflow: hidden; background: var(--haze); margin: 10px 0 6px; }
+.split i { display: block; background: #7EE0B5; }
+table { width: 100%; border-collapse: collapse; font-size: 15px; }
+th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--haze); vertical-align: top; }
+th { font-family: var(--mono); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+td.r, th.r { text-align: right; font-variant-numeric: tabular-nums; }
+
+/* line chart */
+.chart-svg { width: 100%; height: auto; display: block; overflow: visible; }
+.chart-svg text { font-family: var(--mono); font-size: 12px; fill: var(--muted); }
+.chart-svg .lbl-strong { fill: var(--text); font-weight: 600; }
+
+/* features */
+.features { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.feat { background: var(--dusk); border: 1px solid var(--haze); border-radius: 16px; padding: 22px; display: flex; flex-direction: column; gap: 10px; }
+.feat h3 { font-weight: 800; font-stretch: 88%; font-size: 22px; }
+.feat p { margin: 0; font-size: 16px; color: #DCD2DF; }
+.feat .why { color: var(--muted); font-size: 14px; }
+.feat .meta { margin-top: auto; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding-top: 10px; }
+.watch { display: inline-flex; align-items: center; gap: 8px; font-weight: 600; font-size: 14px; text-decoration: none; color: var(--night); background: var(--peach); padding: 7px 12px; border-radius: 999px; }
+.watch:hover { background: #FFC583; }
+.watch svg { width: 12px; height: 12px; }
+.reel { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-bottom: 28px; }
+.reel a { display: block; text-decoration: none; color: var(--text); background: linear-gradient(160deg, #2C2238, #1B1424); border: 1px solid var(--haze); border-radius: 14px; padding: 18px; position: relative; }
+.reel a:hover { border-color: var(--pink); }
+.reel .play { width: 38px; height: 38px; border-radius: 50%; background: var(--sunset); display: grid; place-items: center; margin-bottom: 12px; }
+.reel .play svg { width: 14px; height: 14px; margin-left: 2px; }
+.reel b { display: block; font-family: var(--display); font-stretch: 85%; font-size: 18px; line-height: 1.2; }
+.reel span { font-size: 13px; color: var(--muted); }
+
+/* timeline */
+.timeline { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 0; }
+.tstep { border-top: 4px solid var(--haze); padding: 18px 16px 0 0; position: relative; }
+.tstep::before { content: ""; position: absolute; top: -10px; left: 0; width: 16px; height: 16px; border-radius: 50%; background: var(--haze); border: 3px solid var(--night); }
+.tstep.hot { border-top-color: var(--pink); }
+.tstep.hot::before { background: var(--pink); }
+.tstep .when { font-family: var(--mono); font-size: 12px; color: var(--peach); letter-spacing: 0.04em; }
+.tstep h3 { font-stretch: 88%; font-size: 19px; margin: 6px 0 6px; }
+.tstep p { margin: 0; font-size: 14px; color: var(--muted); }
+
+/* signals */
+.signals { display: grid; gap: 0; }
+.signal { display: grid; grid-template-columns: 64px 1fr 1fr; gap: 24px; padding: 26px 0; border-top: 1px solid var(--haze); }
+.signal:last-child { border-bottom: 1px solid var(--haze); }
+.signal .n { font-family: var(--display); font-weight: 900; font-stretch: 62%; font-size: 48px; line-height: 1; }
+.signal h3 { font-weight: 800; font-stretch: 85%; font-size: 26px; line-height: 1.1; }
+.signal p { margin: 0; color: #DCD2DF; font-size: 16px; }
+.signal .ev { font-size: 15px; color: var(--peach); margin-top: 10px; }
+
+.ideas { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.idea { border-left: 3px solid var(--pink); background: var(--dusk); border-radius: 0 14px 14px 0; padding: 20px 22px; }
+.idea h3 { font-stretch: 88%; font-size: 21px; margin-bottom: 6px; }
+.idea p { margin: 0; font-size: 15px; color: #DCD2DF; }
+.idea .for { font-family: var(--mono); font-size: 12px; color: var(--peach); margin-top: 10px; display: block; }
+
+details { background: var(--dusk); border: 1px solid var(--haze); border-radius: 16px; padding: 4px 22px; }
+summary { cursor: pointer; padding: 16px 0; font-weight: 700; font-family: var(--display); font-stretch: 90%; font-size: 20px; }
+.ledger-wrap { overflow-x: auto; padding-bottom: 16px; }
+.ledger-wrap table { min-width: 760px; }
+
+.callout { border: 1px solid var(--haze); border-radius: 16px; padding: 22px; background: repeating-linear-gradient(135deg, rgba(255,79,139,0.05) 0 12px, transparent 12px 24px); }
+.callout h3 { font-stretch: 90%; font-size: 20px; margin-bottom: 8px; }
+.callout ul { margin: 0; padding-left: 20px; }
+.callout li { margin: 6px 0; font-size: 16px; }
+
+footer { padding: 48px 0 80px; color: var(--muted); font-size: 14px; }
+
+@media (max-width: 900px) {
+  .grid2, .score-wrap { grid-template-columns: 1fr; }
+  .grid3, .features, .ideas { grid-template-columns: 1fr; }
+  .timeline { grid-template-columns: 1fr; gap: 20px; }
+  .tstep { border-top: 0; border-left: 4px solid var(--haze); padding: 0 0 0 18px; }
+  .tstep.hot { border-left-color: var(--pink); }
+  .tstep::before { top: 0; left: -10px; }
+  .signal { grid-template-columns: 48px 1fr; }
+  .signal > div:last-child { grid-column: 2; }
+  .ch-head { grid-template-columns: 1fr; gap: 8px; }
+  .ch-no { font-size: 64px; }
+}
+@media (max-width: 560px) {
+  .hero-stats { grid-template-columns: 1fr; }
+  .brow { grid-template-columns: 110px 1fr 70px; gap: 10px; }
+  .brow .lab { font-size: 13px; }
+  .panel { padding: 20px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .ticker-track { animation: none; }
+  .fill { transition: none; }
+}
+</style>
+</head>
+<body>
+
+<nav class="top" aria-label="Chapters">
+  <div class="wrap">
+    <span class="brand">GTA VI · <span class="grad">FIRST 12 HOURS</span></span>
+    <a href="#attention">Attention</a>
+    <a href="#acclaim">Acclaim</a>
+    <a href="#demand">Demand</a>
+    <a href="#gameplay">Gameplay</a>
+    <a href="#scale">Scale</a>
+    <a href="#future">So what</a>
+    <a href="live.html" style="color:#FF4F8B;font-weight:700">● Live newsroom</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <canvas id="sky" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <p class="kicker">Launch-day data story · Thursday 19 Nov 2026</p>
+    <h1>The first 12 hours of <span class="grad">GTA VI</span></h1>
+    <p class="thesis">In half a day, Rockstar's game set records for attention, acclaim and demand at once.</p>
+    <div class="hero-stats">
+      <div class="hstat"><b class="grad num" data-count="7.89" data-dec="1" data-suf="M">7.9M</b><span>people watching live at once, 4.5× the previous game-launch record</span></div>
+      <div class="hstat"><b class="grad num">99</b><span>Metascore, tied for the highest ever, with zero mixed or negative reviews</span></div>
+      <div class="hstat"><b class="grad num" data-count="17.07" data-dec="0" data-pre="~" data-suf="M">~17M</b><span>estimated digital pre-orders, 1.5× GTA V's record first day</span></div>
+    </div>
+    <p class="snap mono muted">Snapshot ~09:00 IST, 19 Nov. Live numbers will rise after the US unlock at 10:30 IST.</p>
+  </div>
+</header>
+
+<div class="ticker" aria-hidden="true">
+  <div class="ticker-track" id="ticker">
+    <span>Most-watched game launch ever <b>7.89M CCV</b></span>
+    <span>Biggest game category in Twitch history <b>3.29M</b></span>
+    <span>Most pre-ordered game · PlayStation Store <b>all-time</b></span>
+    <span>Most pre-ordered title · Microsoft Store <b>all-time</b></span>
+    <span>Metacritic <b>99</b> · ties Ocarina of Time (1998)</span>
+    <span>Trailer 2 <b>475M views</b> in 24h</span>
+    <span>Take-Two shares <b>+6%</b> on launch eve</span>
+    <span>Kick: <b>1,128</b> channels streaming at once</span>
+  </div>
+</div>
+
+<main>
+
+<section class="ch" id="attention">
+  <div class="wrap">
+    <div class="ch-head">
+      <div class="ch-no">01</div>
+      <div>
+        <p class="kicker">Attention</p>
+        <h2>The most-watched game launch ever, before America could even play</h2>
+      </div>
+    </div>
+    <div class="grid2">
+      <div class="panel">
+        <h3>Peak concurrent viewers at launch</h3>
+        <p class="cap">Twitch + YouTube + Kick, millions</p>
+        <div class="toggle" role="group" aria-label="Chart view">
+          <button type="button" id="tg-all" aria-pressed="true">All platforms</button>
+          <button type="button" id="tg-twitch" aria-pressed="false">Twitch only</button>
+        </div>
+        <div class="bars" id="bars-attn"></div>
+        <div class="src mono"><span class="pill high">High · preliminary</span><span id="attn-src"></span></div>
+      </div>
+      <div class="stack">
+        <div class="stat"><b class="grad num">3.29M</b><p class="what">on Twitch, its biggest game category ever</p><p class="vs">Passed League of Legends Worlds 2022 (3.11M).</p></div>
+        <div class="stat"><b class="grad num">475M</b><p class="what">views for Trailer 2 in its first 24 hours</p><p class="vs">More than Deadpool &amp; Wolverine's trailer (365M).</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="ch" id="acclaim">
+  <div class="wrap">
+    <div class="ch-head">
+      <div class="ch-no">02</div>
+      <div>
+        <p class="kicker">Acclaim</p>
+        <h2>A 99 from critics, tying the highest score ever</h2>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="score-wrap">
+        <div class="giant grad num">99</div>
+        <div>
+          <p style="margin:0 0 4px;font-weight:700;font-size:20px">147 of 147 scored reviews positive</p>
+          <div class="split" aria-label="100% positive"><i style="width:100%"></i></div>
+          <p class="mono muted" style="margin:0 0 24px">Ties Zelda: Ocarina of Time (1998) · Rockstar's best ever</p>
+          <div class="bars" id="bars-meta"></div>
+          <p class="muted" style="margin:18px 0 0;font-size:16px">The one recurring complaint is that it runs at 30fps on every console.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="ch" id="demand">
+  <div class="wrap">
+    <div class="ch-head">
+      <div class="ch-no">03</div>
+      <div>
+        <p class="kicker">Demand</p>
+        <h2>Pre-orders alone beat GTA V's record first day, at twice the money</h2>
+      </div>
+    </div>
+    <div class="grid2">
+      <div class="panel">
+        <h3>Estimated digital pre-orders</h3>
+        <p class="cap">Sensor Tower, millions of units</p>
+        <div id="line-pre"></div>
+        <div class="src mono"><span class="pill med">Estimate</span><span>No official sales from Take-Two yet</span></div>
+      </div>
+      <div class="stack">
+        <div class="panel" style="padding:22px">
+          <h3>Revenue vs GTA V's day one</h3>
+          <p class="cap">$ millions</p>
+          <div class="bars" id="bars-rev"></div>
+        </div>
+        <div class="stat"><b class="grad">#1</b><p class="what">most pre-ordered game ever on PlayStation and Xbox</p><p class="vs">Confirmed by Sony and Microsoft.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="ch" id="gameplay">
+  <div class="wrap">
+    <div class="ch-head">
+      <div class="ch-no">04</div>
+      <div>
+        <p class="kicker">Gameplay</p>
+        <h2>What's new inside the game</h2>
+      </div>
+    </div>
+    <div class="features" id="features"></div>
+    <div class="reel" id="reel" style="margin-top:16px;margin-bottom:0"></div>
+  </div>
+</section>
+
+<section class="ch" id="scale">
+  <div class="wrap">
+    <div class="ch-head">
+      <div class="ch-no">05</div>
+      <div>
+        <p class="kicker">Scale</p>
+        <h2>The biggest build in games</h2>
+      </div>
+    </div>
+    <div class="grid3">
+      <div class="stat"><b class="grad num">4,711</b><p class="what">people across 12 offices</p><p class="vs">About 2× the Red Dead Redemption 2 team.</p></div>
+      <div class="stat"><b class="grad num">13 yrs</b><p class="what">since GTA V</p><p class="vs">With a ~210 GB install on PS5.</p></div>
+      <div class="stat"><b class="grad num">$79.99</b><p class="what">base price, $20 above GTA V</p><p class="vs">And demand still set records.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="ch" id="future">
+  <div class="wrap">
+    <div class="ch-head">
+      <div class="ch-no">06</div>
+      <div>
+        <p class="kicker">So what</p>
+        <h2>Three signals for gaming, and what we could build</h2>
+      </div>
+    </div>
+    <div class="signals">
+      <div class="signal"><div class="n grad">1</div><div><h3>A launch is now a live broadcast</h3></div><div><p>Up to 7.9M people were watching at one moment. Launches will be planned around creators and time zones, not just stores.</p><p class="ev">We could build a live launch dashboard: viewers, sentiment, reviews and outages in one view.</p></div></div>
+      <div class="signal"><div class="n grad">2</div><div><h3>Simulation is the new bottleneck</h3></div><div><p>Rockstar chose a denser, reactive world over frame rate. The next leap is smarter crowds, traffic and NPCs.</p><p class="ev">We could build crowd and NPC behaviour models, extending our player-movement work.</p></div></div>
+      <div class="signal"><div class="n grad">3</div><div><h3>"Made by people" is a premium</h3></div><div><p>Around 4,700 people built it, and its publisher says generative AI played no part. AI tools promise to close that cost gap for everyone else.</p><p class="ev">We could build critic intelligence that turns 150 reviews into insight within an hour of the embargo lifting.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="ch" id="sources" style="padding-top:56px">
+  <div class="wrap">
+    <details>
+      <summary>Sources and confidence</summary>
+      <p class="muted" style="font-size:14px;margin:0 0 12px">Snapshot ~09:00 IST. Streaming peaks will rise after the US unlock (10:30 IST). Pre-orders are Sensor Tower estimates. A separate agent fact-checked every headline number independently.</p>
+      <div class="ledger-wrap"><table id="ledger">
+        <thead><tr><th>Claim</th><th>Figure</th><th>Source</th><th>Confidence</th></tr></thead>
+        <tbody></tbody>
+      </table></div>
+    </details>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">19 Nov 2026 ·GTA VI and all footage belong to Rockstar Games and Take-Two Interactive. Linked videos open on Rockstar's official YouTube channel.</div>
+</footer>
+
+<script>
+/* Official Rockstar Games YouTube uploads. IDs cross-checked against Rockstar-focused listings and press embeds. */
+window.GTA_VIDEOS = [
+  { id: 'tJbzMqJGH4k', title: 'An Extended Look: 26 minutes of gameplay', date: '27 Aug 2026' },
+  { id: 'rz1B4B2yBZY', title: 'Launch Trailer', date: '15 Oct 2026' },
+  { id: 'VQRLujxTm3c', title: 'Trailer 2', date: '6 May 2025' },
+  { id: 'QdBZY2fkU-0', title: 'Trailer 1', date: '4 Dec 2023' }
+];
+var EXT = 'tJbzMqJGH4k', T1 = 'QdBZY2fkU-0';
+window.GTA_FEATURES = [
+  { name: 'Two leads, one relationship', desc: 'Switch between Lucia and Jason at will. Shared crimes, dates and texts build their bond, and ditching your partner mid-chase weakens it.', why: 'GTA V had three leads but no relationship between them that you could affect. Here the bond is a gameplay stat.', vid: EXT, vlabel: 'Watch the Extended Look', conf: 'high', confLabel: 'Confirmed in reviews' },
+  { name: 'Police who remember your outfit', desc: 'Witnesses describe your clothes, car and weapons, so changing them lowers your heat. Search zones stay on the map after you escape, and police know if you work as a pair.', why: 'The wanted system reads what you look like instead of just counting stars.', conf: 'high', confLabel: 'Confirmed in reviews' },
+  { name: 'A city that reacts', desc: 'Greet, taunt or threaten almost any pedestrian. Police drive in from real stations instead of spawning beside you, and storms rain on specific streets.', why: 'Digital Foundry calls the level of reactivity unprecedented. It is also why the game runs at 30fps.', conf: 'high', confLabel: 'Confirmed · Digital Foundry' },
+  { name: 'Swamps, reefs and 200+ animals', desc: 'Airboats through the Everglades-style swamp, scuba dives into caves and shipwrecks, and more than 200 huntable animals.', why: 'Leonida is a nature map as much as a city map. And yes, an alligator walks into a shop.', vid: T1, vlabel: 'Watch Trailer 1', conf: 'med', confLabel: 'Footage + reviews' }
+];
+</script>
+<script>
+(function () {
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* ---------- hero sky ---------- */
+  var cv = document.getElementById('sky');
+  var ctx = cv.getContext('2d');
+  var t0 = performance.now();
+  function drawSky(now) {
+    var dpr = Math.min(window.devicePixelRatio || 1, 2);
+    var w = cv.clientWidth, h = cv.clientHeight;
+    if (cv.width !== Math.round(w * dpr) || cv.height !== Math.round(h * dpr)) { cv.width = Math.round(w * dpr); cv.height = Math.round(h * dpr); }
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    var horizon = h * 0.7;
+    var sky = ctx.createLinearGradient(0, 0, 0, horizon);
+    sky.addColorStop(0, '#0F0B15'); sky.addColorStop(0.55, '#2A1530'); sky.addColorStop(1, '#5B2140');
+    ctx.fillStyle = sky; ctx.fillRect(0, 0, w, horizon);
+    // sun
+    var r = Math.min(w, h) * 0.34, cx = w * 0.78, cy = horizon;
+    var sun = ctx.createLinearGradient(0, cy - r, 0, cy);
+    sun.addColorStop(0, '#FFB05C'); sun.addColorStop(1, '#FF4F8B');
+    ctx.save(); ctx.beginPath(); ctx.arc(cx, cy, r, Math.PI, 0); ctx.closePath(); ctx.clip();
+    ctx.fillStyle = sun; ctx.fillRect(cx - r, cy - r, r * 2, r);
+    ctx.fillStyle = '#3A1838';
+    for (var i = 0; i < 7; i++) { var y = cy - r * 0.08 - i * r * 0.11; var th = Math.max(1, r * 0.045 * (1 - i / 8)); ctx.fillRect(cx - r, y, r * 2, th); }
+    ctx.restore();
+    // sea
+    var sea = ctx.createLinearGradient(0, horizon, 0, h);
+    sea.addColorStop(0, '#2B1230'); sea.addColorStop(1, '#0F0B15');
+    ctx.fillStyle = sea; ctx.fillRect(0, horizon, w, h - horizon);
+    var t = reduce ? 0 : (now - t0) / 1000;
+    for (var j = 0; j < 14; j++) {
+      var yy = horizon + 6 + j * j * 1.6;
+      if (yy > h) break;
+      var half = r * (1 - j / 16) * (0.85 + 0.15 * Math.sin(t * 1.2 + j));
+      ctx.fillStyle = 'rgba(255,' + (90 + j * 6) + ',120,' + (0.55 - j * 0.035) + ')';
+      ctx.fillRect(cx - half, yy, half * 2, 2);
+    }
+    // palms
+    palm(w * 0.08, horizon, h * 0.42, -0.08); palm(w * 0.16, horizon, h * 0.3, 0.06); palm(w * 0.93, horizon, h * 0.36, -0.05);
+    // left fade for legibility
+    var fade = ctx.createLinearGradient(0, 0, w * 0.75, 0);
+    fade.addColorStop(0, 'rgba(15,11,21,0.92)'); fade.addColorStop(1, 'rgba(15,11,21,0)');
+    ctx.fillStyle = fade; ctx.fillRect(0, 0, w, h);
+    if (!reduce) requestAnimationFrame(drawSky);
+  }
+  function palm(x, base, ht, lean) {
+    ctx.strokeStyle = '#0B0810'; ctx.fillStyle = '#0B0810'; ctx.lineCap = 'round';
+    ctx.lineWidth = Math.max(3, ht * 0.03);
+    var tx = x + lean * ht * 2, ty = base - ht;
+    ctx.beginPath(); ctx.moveTo(x, base); ctx.quadraticCurveTo(x + lean * ht * 0.6, base - ht * 0.5, tx, ty); ctx.stroke();
+    ctx.lineWidth = Math.max(2, ht * 0.018);
+    var angles = [-2.7, -2.2, -1.7, -1.2, -0.6, -0.15, -3.05];
+    for (var k = 0; k < angles.length; k++) {
+      var a = angles[k], L = ht * 0.42;
+      var ex = tx + Math.cos(a) * L, ey = ty + Math.sin(a) * L * 0.55 + L * 0.35;
+      ctx.beginPath(); ctx.moveTo(tx, ty);
+      ctx.quadraticCurveTo(tx + Math.cos(a) * L * 0.5, ty + Math.sin(a) * L * 0.6, ex, ey); ctx.stroke();
+    }
+  }
+  requestAnimationFrame(drawSky);
+  window.addEventListener('resize', function () { if (reduce) requestAnimationFrame(drawSky); });
+
+  /* ---------- ticker duplicate for seamless loop ---------- */
+  var tk = document.getElementById('ticker');
+  tk.innerHTML += tk.innerHTML;
+
+  /* ---------- bar charts ---------- */
+  function bars(el, rows, max, fmt, ref) {
+    if (!el) return;
+    el.innerHTML = '';
+    rows.forEach(function (r) {
+      var row = document.createElement('div');
+      row.className = 'brow' + (r.lead ? ' lead' : '');
+      var pct = Math.max(1.5, (r.v / max) * 100);
+      row.innerHTML = '<div class="lab">' + r.l + '</div><div class="track"><div class="fill" style="--w:' + pct.toFixed(1) + '%"></div>' +
+        (ref ? '<div class="ref-line" style="left:' + (ref.v / max * 100).toFixed(1) + '%" title="' + ref.l + '"></div>' : '') +
+        '</div><div class="val">' + fmt(r.v) + '</div>';
+      el.appendChild(row);
+    });
+  }
+  var M = function (v) { return v.toFixed(2).replace(/0$/, '') + 'M'; };
+
+  var attnAll = [
+    { l: 'GTA VI (2026)', v: 7.89, lead: true },
+    { l: 'VALORANT beta (2020)', v: 1.74 },
+    { l: 'Hogwarts Legacy', v: 1.36 },
+    { l: 'Path of Exile 2', v: 1.35 },
+    { l: 'Cyberpunk 2077', v: 1.32 },
+    { l: 'Elden Ring', v: 1.04 }
+  ];
+  var attnTwitch = [
+    { l: 'GTA VI (2026)', v: 3.29, lead: true },
+    { l: 'LoL Worlds 2022', v: 3.11 },
+    { l: 'Hogwarts Legacy', v: 1.28 }
+  ];
+  var attnEl = document.getElementById('bars-attn');
+  var src = document.getElementById('attn-src');
+  function showAttn(which) {
+    var all = which === 'all';
+    bars(attnEl, all ? attnAll : attnTwitch, all ? 8 : 3.5, M);
+    document.getElementById('tg-all').setAttribute('aria-pressed', all);
+    document.getElementById('tg-twitch').setAttribute('aria-pressed', !all);
+    src.textContent = all
+      ? 'Streams Charts, 18–19 Nov 2026. Previous record: VALORANT closed beta, 1,737,267 (2020).'
+      : 'Streams Charts (3,292,986) and SullyGnome (3,293,515). Hogwarts Legacy was the previous single-player record on Twitch.';
+  }
+  document.getElementById('tg-all').addEventListener('click', function () { showAttn('all'); });
+  document.getElementById('tg-twitch').addEventListener('click', function () { showAttn('twitch'); });
+  showAttn('all');
+
+  bars(document.getElementById('bars-trailer'), [
+    { l: 'GTA VI Trailer 2', v: 475, lead: true },
+    { l: 'Deadpool & Wolverine', v: 365 },
+    { l: 'Spider-Man: No Way Home', v: 355.5 }
+  ], 500, function (v) { return Math.round(v) + 'M'; });
+
+  bars(document.getElementById('bars-meta'), [
+    { l: 'GTA VI (2026)', v: 99, lead: true },
+    { l: 'GTA IV (2008)', v: 98 },
+    { l: 'GTA V (2013)', v: 97 },
+    { l: 'Red Dead 2 (2018)', v: 97 }
+  ], 100, function (v) { return v; });
+
+  bars(document.getElementById('bars-rev'), [
+    { l: 'GTA VI pre-orders (est.)', v: 1650, lead: true },
+    { l: 'GTA V first 24h', v: 815.7 }
+  ], 1800, function (v) { return '$' + (v >= 1000 ? (v / 1000).toFixed(2) + 'B' : Math.round(v) + 'M'); });
+
+  /* ---------- pre-order line chart ---------- */
+  (function () {
+    var pts = [
+      { d: '12 Nov', v: 11.27 },
+      { d: '16 Nov', v: 14.94 },
+      { d: '17 Nov', v: 15.88 },
+      { d: '18 Nov', v: 17.07 }
+    ];
+    var W = 560, H = 300, pl = 40, pr = 70, pt = 20, pb = 36, ymax = 20;
+    var x = function (i) { return pl + i * (W - pl - pr) / (pts.length - 1); };
+    var y = function (v) { return pt + (1 - v / ymax) * (H - pt - pb); };
+    var s = '<svg class="chart-svg" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Estimated pre-orders rising from 11.3 million on 12 November to 17.1 million on 18 November, above GTA V\'s 11.2 million first-day sales.">';
+    s += '<defs><linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#FF4F8B"/><stop offset="1" stop-color="#FFB05C"/></linearGradient>' +
+         '<linearGradient id="ag" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#FF7A6B" stop-opacity="0.35"/><stop offset="1" stop-color="#FF7A6B" stop-opacity="0"/></linearGradient></defs>';
+    [0, 5, 10, 15, 20].forEach(function (g) {
+      s += '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="' + y(g) + '" y2="' + y(g) + '" stroke="#2C2238"/>';
+      s += '<text x="' + (pl - 8) + '" y="' + (y(g) + 4) + '" text-anchor="end">' + g + '</text>';
+    });
+    s += '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="' + y(11.21) + '" y2="' + y(11.21) + '" stroke="#F6EEE6" stroke-dasharray="5 5" opacity="0.7"/>';
+    s += '<text x="' + (W - pr + 6) + '" y="' + (y(11.21) + 4) + '">GTA V</text><text x="' + (W - pr + 6) + '" y="' + (y(11.21) + 18) + '">day 1</text>';
+    var line = pts.map(function (p, i) { return (i ? 'L' : 'M') + x(i) + ' ' + y(p.v); }).join(' ');
+    s += '<path d="' + line + ' L' + x(pts.length - 1) + ' ' + y(0) + ' L' + x(0) + ' ' + y(0) + ' Z" fill="url(#ag)"/>';
+    s += '<path d="' + line + '" fill="none" stroke="url(#lg)" stroke-width="3.5" stroke-linejoin="round"/>';
+    pts.forEach(function (p, i) {
+      var last = i === pts.length - 1;
+      s += '<circle cx="' + x(i) + '" cy="' + y(p.v) + '" r="' + (last ? 6 : 4) + '" fill="' + (last ? '#FFB05C' : '#FF4F8B') + '" stroke="#1B1424" stroke-width="2"/>';
+      s += '<text x="' + x(i) + '" y="' + (y(p.v) - 12) + '" text-anchor="middle" class="' + (last ? 'lbl-strong' : '') + '">' + p.v.toFixed(1) + 'M</text>';
+      s += '<text x="' + x(i) + '" y="' + (H - 12) + '" text-anchor="middle">' + p.d + '</text>';
+    });
+    s += '</svg>';
+    document.getElementById('line-pre').innerHTML = s;
+  })();
+
+  /* ---------- gameplay features ---------- */
+  var playIcon = '<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M2 1l9 5-9 5z" fill="currentColor"/></svg>';
+  var VIDEOS = window.GTA_VIDEOS || [];
+  var FEATURES = window.GTA_FEATURES || [];
+  function yt(id, t) { return 'https://www.youtube.com/watch?v=' + id + (t ? '&t=' + t + 's' : ''); }
+  function mmss(t) { var m = Math.floor(t / 60), s = t % 60; return m + ':' + (s < 10 ? '0' : '') + s; }
+  var reel = document.getElementById('reel');
+  VIDEOS.forEach(function (v) {
+    var a = document.createElement('a');
+    a.href = yt(v.id); a.target = '_blank'; a.rel = 'noopener';
+    a.innerHTML = '<div class="play">' + playIcon.replace('currentColor', '#0F0B15') + '</div><b>' + v.title + '</b><span>' + v.date + ' · Rockstar Games on YouTube</span>';
+    reel.appendChild(a);
+  });
+  var fwrap = document.getElementById('features');
+  FEATURES.forEach(function (f) {
+    var d = document.createElement('article');
+    d.className = 'feat';
+    var link = f.vid ? '<a class="watch" href="' + yt(f.vid, f.t) + '" target="_blank" rel="noopener">' + playIcon + (f.vlabel || 'Watch') + (f.t ? ' at ' + mmss(f.t) : '') + '</a>' : '';
+    d.innerHTML = '<h3>' + f.name + '</h3><p>' + f.desc + '</p><div class="meta">' + link + '<span class="pill ' + f.conf + '">' + f.confLabel + '</span></div>';
+    fwrap.appendChild(d);
+  });
+
+  /* ---------- ledger ---------- */
+  var L = [
+    ['Combined peak concurrent viewers', '7.89M (prelim.)', 'Streams Charts', 'https://streamscharts.com/news/gta-6-streaming-records', 'high'],
+    ['Previous game-launch record', '1,737,267 (VALORANT beta, 2020)', 'Streams Charts', 'https://streamscharts.com/news/gta-6-streaming-records', 'high'],
+    ['Twitch game-category peak', '3.29M, beat LoL (3.11M)', 'Streams Charts; SullyGnome via Dot Esports', 'https://dotesports.com/gta/news/gta-6-twitch-viewership-record', 'high'],
+    ['YouTube / Kick peaks', '3.19M / 1.49M', 'Streams Charts', 'https://streamscharts.com/news/gta-6-streaming-records', 'med'],
+    ['Metacritic score', '99, 147+ reviews, 0 mixed/negative', 'Metacritic via TNW, Dot Esports', 'https://thenextweb.com/news/gta-vi-metacritic-99-reviews-30fps-launch', 'high'],
+    ['OpenCritic score', '98 "Mighty"', 'OpenCritic', 'https://opencritic.com/news/39914/', 'med'],
+    ['Most pre-ordered, PS Store and Microsoft Store', 'All-time records', 'PlayStation Blog, Xbox Wire via Game Informer', 'https://gameinformer.com/2026/11/10/surprising-literally-nobody-grand-theft-auto-vi-is-the-most-pre-ordered-game-in', 'high'],
+    ['Estimated digital pre-orders', '~17.07M units, ~$1.65B', 'Sensor Tower via Fox Business', 'https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait', 'med'],
+    ['Pre-order trajectory', '11.27M (12 Nov) → 14.94M (16 Nov) → 15.88M (17 Nov)', 'Sensor Tower via Benzinga, Vice', 'https://www.vice.com/en/article/how-many-people-pre-ordered-gta-6/', 'med'],
+    ['GTA V first-day benchmark', '11.21M units, $815.7M', 'Guinness World Records (2013)', 'https://www.guinnessworldrecords.com/news/2013/10/confirmed-grand-theft--auto-breaks-six-sales-world-records-51900', 'high'],
+    ['Take-Two stock, 18 Nov', '+6%, close $216.61', 'Fox Business', 'https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait', 'med'],
+    ['Trailer 1 views, 24h', '90,421,491 (YouTube)', 'Guinness World Records', 'https://www.guinnessworldrecords.com/news/2023/12/grand-theft-auto-vi-first-look-becomes-most-viewed-videogame-trailer-in-24-hours-762030', 'high'],
+    ['Trailer 2 views, 24h', '475M (all platforms)', 'Rockstar via TechRadar', 'https://www.techradar.com/gaming/the-latest-grand-theft-auto-6-trailer-has-set-a-major-record-by-racking-up-475-million-views-in-just-24-hours', 'med'],
+    ['PS5 install size', '~210 GB', 'PlayStation Store datamine via LevelUp', 'https://www.levelup.com/en/news/gta-vi-ps5-file-size-revealed-and-its-massive-one-of-the-largest-console-downloads-in-video-game-history/', 'med'],
+    ['Team size', '4,711 staff, 12 offices', 'Bloomberg (Schreier) via GTA Intel', 'https://gtaintel.com/news/gta-6-bloomberg-making-of-project-americas', 'med'],
+    ['Standard price', '$79.99', 'Rockstar via Outlook Respawn', 'https://respawn.outlookindia.com/gaming/gaming-news/rockstar-games-confirms-gta-vi-costs-7999-at-launch', 'high'],
+    ['Generative AI quote', '"zero part"', 'GamesIndustry.biz interview via ESPN', 'https://www.espn.com/gaming/story/_/id/47836600/gta-vi-grand-theft-auto-generative-ai', 'high'],
+    ['Map size vs GTA V', '~2× (unofficial)', 'Fan measurements, various', '', 'low'],
+    ['PSN disruption, 18 Nov', 'Sign-in and launch failures', 'GameSpot', 'https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/', 'med'],
+    ['Opening-weekend bar', '$1.9B over three days', 'Bank of America via Proactive Investors', 'https://www.proactiveinvestors.com/companies/news/1101705/gta-6-needs-1-9bn-opening-weekend-to-satisfy-investors-says-bank-of-america-1101705.html', 'med']
+  ];
+  var labels = { high: 'High', med: 'Medium', low: 'Low' };
+  var tb = document.querySelector('#ledger tbody');
+  L.forEach(function (r) {
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<td>' + r[0] + '</td><td>' + r[1] + '</td><td>' + (r[3] ? '<a href="' + r[3] + '" target="_blank" rel="noopener">' + r[2] + '</a>' : r[2]) + '</td><td><span class="pill ' + r[4] + '">' + labels[r[4]] + '</span></td>';
+    tb.appendChild(tr);
+  });
+
+  /* ---------- nav highlight ---------- */
+  var links = Array.prototype.slice.call(document.querySelectorAll('nav.top a'));
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) {
+        if (e.isIntersecting) links.forEach(function (a) { a.classList.toggle('on', a.getAttribute('href') === '#' + e.target.id); });
+      });
+    }, { rootMargin: '-40% 0px -55% 0px' });
+    document.querySelectorAll('section.ch').forEach(function (s) { io.observe(s); });
+  }
+})();
+</script>
+</body>
+</html>

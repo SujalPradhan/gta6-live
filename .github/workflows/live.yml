@@ -1,0 +1,58 @@
+name: Poll news and deploy
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ["data/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: live
+  cancel-in-progress: false
+
+jobs:
+  poll-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}live.html
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Poll news feeds
+        env:
+          POLL_SECONDS: "300"
+        run: python3 tracker.py --once
+      - name: Commit new stories
+        run: |
+          git config user.name "gta6-live-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/feed.json
+          if git diff --cached --quiet; then
+            echo "No new stories."
+          else
+            git commit -m "Update feed $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash origin main || true
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - name: Build site
+        run: |
+          mkdir -p _site/data
+          cp index.html live.html _site/
+          cp data/feed.json _site/data/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4

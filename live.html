@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GTA VI Live Newsroom</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Instrument+Sans:wght@400..700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  /* Layout idea: a launch-night wire room. Clocks across the top, record wire on the left, everything else streaming on the right. */
+  --night: #0F0B15; --dusk: #1B1424; --haze: #2C2238; --text: #F6EEE6; --muted: #ABA0B5;
+  --pink: #FF4F8B; --peach: #FFB05C; --mint: #7EE0B5;
+  --sunset: linear-gradient(100deg, #FF4F8B 0%, #FF7A6B 45%, #FFB05C 100%);
+  --display: 'Archivo', 'Arial Narrow', Impact, sans-serif;
+  --body: 'Instrument Sans', system-ui, -apple-system, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--night); color: var(--text); font-family: var(--body); }
+a { color: inherit; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--peach); outline-offset: 2px; border-radius: 4px; }
+.wrap { max-width: 1360px; margin: 0 auto; padding: 0 24px; }
+.grad { background: var(--sunset); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.mono { font-family: var(--mono); }
+
+header { border-bottom: 1px solid var(--haze); background: linear-gradient(180deg, #1D1226, var(--night)); }
+.top { display: flex; align-items: center; gap: 20px; padding: 20px 0 8px; flex-wrap: wrap; }
+.brand { font-family: var(--display); font-weight: 900; font-stretch: 68%; font-size: 44px; line-height: 0.9; text-transform: uppercase; letter-spacing: 0.01em; }
+.live { display: inline-flex; align-items: center; gap: 8px; font-family: var(--mono); font-size: 12px; letter-spacing: 0.12em; color: var(--pink); border: 1px solid var(--pink); border-radius: 999px; padding: 4px 10px; }
+.dot { width: 8px; height: 8px; border-radius: 50%; background: var(--pink); animation: pulse 1.4s ease-in-out infinite; }
+.live.stale { color: var(--muted); border-color: var(--haze); }
+.live.stale .dot { background: var(--muted); animation: none; }
+@keyframes pulse { 50% { opacity: 0.25; } }
+.top .spacer { flex: 1; }
+.top a.back { font-size: 14px; color: var(--muted); text-decoration: none; border: 1px solid var(--haze); padding: 7px 12px; border-radius: 999px; }
+.top a.back:hover { color: var(--text); border-color: var(--muted); }
+
+.clocks { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; padding: 14px 0 22px; }
+.clock { background: var(--dusk); border: 1px solid var(--haze); border-radius: 14px; padding: 14px 16px; }
+.clock .k { font-family: var(--mono); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.clock .v { font-family: var(--display); font-weight: 800; font-stretch: 78%; font-size: 40px; line-height: 1.05; font-variant-numeric: tabular-nums; margin-top: 4px; }
+.clock .s { font-size: 13px; color: var(--muted); }
+
+.bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; padding: 16px 0; border-bottom: 1px solid var(--haze); }
+.chip { font: 600 13px var(--body); color: var(--muted); background: var(--dusk); border: 1px solid var(--haze); padding: 7px 12px; border-radius: 999px; cursor: pointer; }
+.chip[aria-pressed="true"] { color: var(--night); background: var(--peach); border-color: var(--peach); }
+.chip .c { font-family: var(--mono); font-weight: 400; margin-left: 4px; opacity: 0.8; }
+.search { margin-left: auto; background: var(--dusk); border: 1px solid var(--haze); color: var(--text); font: 14px var(--body); padding: 8px 12px; border-radius: 999px; width: 240px; }
+
+.cols { display: grid; grid-template-columns: 1fr 1.25fr; gap: 24px; padding: 24px 0 64px; align-items: start; }
+.col h2 { font-family: var(--display); font-weight: 800; font-stretch: 85%; font-size: 22px; margin: 0 0 4px; display: flex; align-items: baseline; gap: 10px; }
+.col h2 .n { font-family: var(--mono); font-size: 13px; color: var(--muted); font-weight: 400; }
+.col p.help { color: var(--muted); font-size: 14px; margin: 0 0 14px; }
+.list { display: grid; gap: 10px; }
+.item { display: grid; grid-template-columns: 74px 1fr; gap: 14px; background: var(--dusk); border: 1px solid var(--haze); border-radius: 14px; padding: 14px 16px; text-decoration: none; transition: border-color .2s; }
+.item:hover { border-color: var(--muted); }
+.item .when { font-family: var(--mono); font-size: 12px; color: var(--muted); line-height: 1.4; }
+.item .when b { display: block; color: var(--text); font-size: 15px; font-weight: 600; }
+.item .t { font-size: 17px; line-height: 1.35; font-weight: 600; }
+.item .meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 8px; font-size: 13px; color: var(--muted); }
+.pill { font-family: var(--mono); font-size: 10.5px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 2px 7px; border-radius: 999px; border: 1px solid currentColor; }
+.pill.rec { color: var(--pink); }
+.pill.topic { color: var(--peach); }
+.pill.new { color: var(--night); background: var(--mint); border-color: var(--mint); }
+.wire .item { border-left: 4px solid var(--pink); border-radius: 4px 14px 14px 4px; }
+.wire .item .t { font-family: var(--display); font-stretch: 88%; font-size: 21px; font-weight: 750; line-height: 1.15; }
+.item.fresh { animation: flash 2.4s ease-out; }
+@keyframes flash { from { background: #3A1C3A; border-color: var(--pink); } }
+.empty { color: var(--muted); font-size: 15px; padding: 24px; border: 1px dashed var(--haze); border-radius: 14px; text-align: center; }
+
+.spark { background: var(--dusk); border: 1px solid var(--haze); border-radius: 14px; padding: 14px 16px; margin-bottom: 18px; }
+.spark .k { font-family: var(--mono); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.spark svg { width: 100%; height: 70px; display: block; margin-top: 8px; }
+.spark text { font-family: var(--mono); font-size: 10px; fill: var(--muted); }
+
+.feeds { font-size: 12px; color: var(--muted); font-family: var(--mono); padding: 0 0 40px; line-height: 1.8; }
+.feeds span { margin-right: 14px; white-space: nowrap; }
+.feeds .ok::before { content: "●"; color: var(--mint); margin-right: 4px; }
+.feeds .bad::before { content: "●"; color: var(--pink); margin-right: 4px; }
+
+@media (max-width: 980px) { .cols { grid-template-columns: 1fr; } .clocks { grid-template-columns: repeat(2, minmax(0, 1fr)); } .search { margin-left: 0; width: 100%; } }
+@media (prefers-reduced-motion: reduce) { .dot, .item.fresh { animation: none; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <div class="brand">GTA VI <span class="grad">Live</span></div>
+      <span class="live" id="live"><span class="dot"></span><span id="live-label">CONNECTING</span></span>
+      <span class="spacer"></span>
+      <a class="back" href="index.html">Open the first-12-hours analysis</a>
+    </div>
+    <div class="clocks">
+      <div class="clock"><div class="k">Since US launch</div><div class="v" id="c-us">--:--:--</div><div class="s">Midnight ET · 10:30 IST, 19 Nov</div></div>
+      <div class="clock"><div class="k">Since first unlock</div><div class="v" id="c-nz">--:--:--</div><div class="s">New Zealand · 18 Nov</div></div>
+      <div class="clock"><div class="k">Stories tracked</div><div class="v grad" id="c-total">0</div><div class="s" id="c-hour">0 in the last hour</div></div>
+      <div class="clock"><div class="k">Record headlines</div><div class="v grad" id="c-rec">0</div><div class="s" id="c-upd">Waiting for first poll</div></div>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="bar" role="group" aria-label="Filter stories" id="chips"></div>
+
+  <div class="cols">
+    <section class="col wire">
+      <h2>Record wire <span class="n" id="n-wire"></span></h2>
+      <p class="help">Headlines that mention a record, a peak, a first or a milestone. Newest first.</p>
+      <div class="spark"><div class="k">GTA VI stories per hour, last 24 hours</div><div id="spark"></div></div>
+      <div class="list" id="wire"></div>
+    </section>
+    <section class="col">
+      <h2>Everything on GTA VI <span class="n" id="n-all"></span></h2>
+      <p class="help">Every matching story from the feeds below, refreshed automatically.</p>
+      <div class="list" id="all"></div>
+    </section>
+  </div>
+  <div class="feeds" id="feeds"></div>
+</div>
+
+<script>
+(function () {
+  var US = Date.parse('2026-11-19T05:00:00Z');
+  var NZ = Date.parse('2026-11-18T11:00:00Z');
+  var TOPICS = ['All', 'Records', 'Streaming', 'Sales', 'Reviews', 'Players', 'Outage', 'News'];
+  var filter = 'All', q = '';
+  var data = null, seenIds = null, freshIds = {}, lastOk = 0;
+
+  function pad(n) { return (n < 10 ? '0' : '') + n; }
+  function dur(ms) {
+    if (ms < 0) return 'in ' + dur(-ms);
+    var s = Math.floor(ms / 1000), h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60);
+    return pad(h) + ':' + pad(m) + ':' + pad(s % 60);
+  }
+  function ago(iso) {
+    var d = (Date.now() - Date.parse(iso)) / 1000;
+    if (d < 60) return 'now';
+    if (d < 3600) return Math.floor(d / 60) + 'm ago';
+    if (d < 86400) return Math.floor(d / 3600) + 'h ago';
+    return Math.floor(d / 86400) + 'd ago';
+  }
+  function hhmm(iso) { var d = new Date(iso); return pad(d.getHours()) + ':' + pad(d.getMinutes()); }
+  function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+
+  function tickClocks() {
+    var now = Date.now();
+    document.getElementById('c-us').textContent = dur(now - US);
+    document.getElementById('c-nz').textContent = dur(now - NZ);
+    var live = document.getElementById('live');
+    var stale = !lastOk || now - lastOk > 120000 || (data && now - Date.parse(data.updated) > 30 * 60000);
+    live.classList.toggle('stale', stale);
+    document.getElementById('live-label').textContent = stale ? (lastOk ? 'RECONNECTING' : 'CONNECTING') : 'LIVE';
+  }
+  setInterval(tickClocks, 1000); tickClocks();
+
+  function matches(i) {
+    if (q && (i.title + ' ' + i.outlet).toLowerCase().indexOf(q) < 0) return false;
+    if (filter === 'All') return true;
+    if (filter === 'Records') return i.record;
+    return i.topic === filter;
+  }
+
+  function card(i) {
+    var fresh = freshIds[i.id];
+    return '<a class="item' + (fresh ? ' fresh' : '') + '" href="' + esc(i.link) + '" target="_blank" rel="noopener">' +
+      '<div class="when"><b>' + hhmm(i.published) + '</b>' + ago(i.published) + '</div>' +
+      '<div><div class="t">' + esc(i.title) + '</div><div class="meta">' +
+      (fresh ? '<span class="pill new">New</span>' : '') +
+      (i.record ? '<span class="pill rec">Record</span>' : '') +
+      '<span class="pill topic">' + esc(i.topic) + '</span><span>' + esc(i.outlet) + '</span></div></div></a>';
+  }
+
+  function chips(items) {
+    var counts = { All: items.length, Records: 0 };
+    items.forEach(function (i) { if (i.record) counts.Records++; counts[i.topic] = (counts[i.topic] || 0) + 1; });
+    document.getElementById('chips').innerHTML = TOPICS.map(function (t) {
+      return '<button type="button" class="chip" data-t="' + t + '" aria-pressed="' + (t === filter) + '">' + t + '<span class="c">' + (counts[t] || 0) + '</span></button>';
+    }).join('') + '<input class="search" id="search" type="search" placeholder="Search headlines" aria-label="Search headlines" value="' + esc(q) + '">';
+    Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (b) {
+      b.onclick = function () { filter = b.getAttribute('data-t'); render(); };
+    });
+    var s = document.getElementById('search');
+    s.oninput = function () { q = s.value.toLowerCase(); renderLists(); };
+  }
+
+  function spark(items) {
+    var now = Date.now(), H = 24, buckets = new Array(H).fill(0);
+    items.forEach(function (i) {
+      var h = Math.floor((now - Date.parse(i.published)) / 3600000);
+      if (h >= 0 && h < H) buckets[H - 1 - h]++;
+    });
+    var max = Math.max(1, Math.max.apply(null, buckets)), W = 600, Hh = 70, bw = W / H;
+    var usIdx = H - 1 - Math.floor((now - US) / 3600000);
+    var s = '<svg viewBox="0 0 ' + W + ' ' + Hh + '" preserveAspectRatio="none" role="img" aria-label="Stories per hour over the last 24 hours, peak ' + max + '">';
+    buckets.forEach(function (v, k) {
+      var h = Math.max(v ? 3 : 1, (v / max) * (Hh - 16));
+      s += '<rect x="' + (k * bw + 1) + '" y="' + (Hh - 12 - h) + '" width="' + (bw - 2) + '" height="' + h + '" rx="2" fill="' + (k === H - 1 ? '#FFB05C' : '#4A3C5A') + '"><title>' + v + ' stories</title></rect>';
+    });
+    if (usIdx >= 0 && usIdx < H) s += '<line x1="' + (usIdx * bw) + '" x2="' + (usIdx * bw) + '" y1="0" y2="' + (Hh - 12) + '" stroke="#FF4F8B" stroke-dasharray="3 3"/><text x="' + (usIdx * bw + 4) + '" y="9" style="fill:#FF4F8B">US launch</text>';
+    s += '<text x="0" y="' + Hh + '">-24h</text><text x="' + W + '" y="' + Hh + '" text-anchor="end">now · peak ' + max + '/h</text></svg>';
+    document.getElementById('spark').innerHTML = s;
+  }
+
+  function renderLists() {
+    var items = data.items.filter(matches);
+    var wire = items.filter(function (i) { return i.record; });
+    document.getElementById('wire').innerHTML = wire.length ? wire.slice(0, 60).map(card).join('') : '<div class="empty">No record headlines in this view yet. They appear here the moment an outlet publishes one.</div>';
+    document.getElementById('all').innerHTML = items.length ? items.slice(0, 150).map(card).join('') : '<div class="empty">No stories match.</div>';
+    document.getElementById('n-wire').textContent = wire.length;
+    document.getElementById('n-all').textContent = items.length;
+  }
+
+  function render() {
+    var items = data.items;
+    chips(items);
+    renderLists();
+    spark(items);
+    var hour = items.filter(function (i) { return Date.now() - Date.parse(i.published) < 3600000; }).length;
+    document.getElementById('c-total').textContent = items.length;
+    document.getElementById('c-hour').textContent = hour + ' in the last hour';
+    document.getElementById('c-rec').textContent = items.filter(function (i) { return i.record; }).length;
+    var src = Object.keys(data.sources).map(function (k) { return data.sources[k]; });
+    var ok = src.filter(function (s) { return s.ok; }).length;
+    document.getElementById('c-upd').textContent = 'Checked ' + (data.polls ? ago(data.updated) : '—') + ' · ' + ok + '/' + src.length + ' feeds up';
+    document.getElementById('feeds').innerHTML = 'Feeds · polled every ' + (data.poll_seconds >= 120 ? Math.round(data.poll_seconds / 60) + ' min' : data.poll_seconds + 's') + ': ' + src.map(function (s) {
+      return '<span class="' + (s.ok ? 'ok' : 'bad') + '" title="' + esc(s.error) + '">' + esc(s.name) + ' (' + s.hits + ')</span>';
+    }).join('');
+  }
+
+  function load() {
+    var local = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
+    var url = local ? '/api/feed' : 'data/feed.json?t=' + Date.now();
+    fetch(url, { cache: 'no-store' }).then(function (r) { return r.json(); }).then(function (d) {
+      d.sources = d.sources || {}; d.poll_seconds = d.poll_seconds || 300; d.polls = d.polls || 1;
+      lastOk = Date.now();
+      freshIds = {};
+      if (seenIds) d.items.forEach(function (i) { if (!seenIds[i.id]) freshIds[i.id] = 1; });
+      seenIds = {}; d.items.forEach(function (i) { seenIds[i.id] = 1; });
+      var newRec = d.items.filter(function (i) { return freshIds[i.id] && i.record; }).length;
+      document.title = (newRec ? '(' + newRec + ' new) ' : '') + 'GTA VI Live Newsroom';
+      data = d; render();
+    }).catch(function () { tickClocks(); });
+  }
+  load(); setInterval(load, 20000);
+})();
+</script>
+</body>
+</html>
