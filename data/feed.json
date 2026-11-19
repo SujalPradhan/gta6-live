@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:06:58+00:00",
- "started": "2026-11-19T22:06:52+00:00",
+ "updated": "2026-11-19T22:11:51+00:00",
+ "started": "2026-11-19T22:11:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T22:06:53+00:00"
+   "checked": "2026-11-19T22:11:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T22:06:53+00:00"
+   "checked": "2026-11-19T22:11:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T22:06:54+00:00"
+   "checked": "2026-11-19T22:11:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T22:06:54+00:00"
+   "checked": "2026-11-19T22:11:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T22:06:54+00:00"
+   "checked": "2026-11-19T22:11:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T22:06:54+00:00"
+   "checked": "2026-11-19T22:11:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T22:06:55+00:00"
+   "checked": "2026-11-19T22:11:46+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-19T22:06:55+00:00"
+   "hits": 15,
+   "checked": "2026-11-19T22:11:46+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T22:06:55+00:00"
+   "checked": "2026-11-19T22:11:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T22:06:56+00:00"
+   "checked": "2026-11-19T22:11:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T22:06:56+00:00"
+   "checked": "2026-11-19T22:11:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T22:06:56+00:00"
+   "checked": "2026-11-19T22:11:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T22:06:56+00:00"
+   "checked": "2026-11-19T22:11:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T22:06:56+00:00"
+   "checked": "2026-11-19T22:11:47+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 glitch lets players access first person mode",
+   "title": "GTA 6 glitch lets players access first-person mode",
+   "link": "https://www.dexerto.com/gta/gta-6-glitch-lets-players-access-first-person-mode-3430025/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-19T22:08:32+00:00",
+   "seen": "2026-11-19T22:11:46+00:00",
+   "summary": "A GTA 6 player has discovered a glitch that lets fans experience Rockstar’s new open-world game in first-person.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "A GTA 6 glitch lets players experience the game in first-person mode."
+  },
+  {
+   "id": "first impression grand theft auto vi s realism pulls gamers into being actors times standard",
+   "title": "First impression: ‘Grand Theft Auto VI’s’ realism pulls gamers into being actors - Times-Standard",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcGVEMlQzV0k5dkxrOThUeEVFb1NPal9DWW1rbWJrVUVYMmtNN1hpeHNOaUItdkJLekQ3UlJBWlFFLUxTNlZFcVVveG96MW4xaU03ZkNHUlMxcHB2Mko2NHNHaUNtcDFrYWNCSg?oc=5",
+   "outlet": "Times-Standard",
+   "via": "Google News",
+   "published": "2026-11-19T22:06:58+00:00",
+   "seen": "2026-11-19T22:11:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Times-Standard reports that GTA VI realism makes players feel like actors."
+  },
+  {
+   "id": "2 million xbox gamers moved to new zealand to play gta 6 early",
+   "title": "2 million Xbox gamers moved to New Zealand to play GTA 6 early",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0Yxb3QtNElydTc4VkczYU1ETE1wRk4tSTgzMkwwcUZoQVd6SEtOSVg4YTVYNmhMbnR6M3B1QzdMMGctVHIxTHVsOFpUajVicWQzcUFVTm0xRE11V25Vc20wSHVoU01GZmNoNFBCUWNodTluVTlEaUdYUTZNblZWVEtGTUdZbUhUNmhJeXFrdVFGME5NaElGVEtTdVlfekdxdW5vR2dSR0IyQnBiem1Mcw?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-19T22:04:03+00:00",
+   "seen": "2026-11-19T22:11:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Two million Xbox gamers moved to New Zealand to play GTA 6 early."
+  },
   {
    "id": "rockstar co lead explains how red dead redemption 2 fixed gta 6 s prologue",
    "title": "Rockstar co-lead explains how Red Dead Redemption 2 fixed GTA 6's prologue",
@@ -181,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA VI glorifies killing and says that's okay."
+  },
+  {
+   "id": "gta vi easter egg players find dexter morgan s apartment in game",
+   "title": "GTA VI Easter Egg: Players Find Dexter Morgan’s Apartment In-Game",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkRpRkd2cWZZMUdZRGlzVkxfUjE1dWtPYnEwR3ZoTUE0RGtONWo2eFFJVnFBMEtnaXphTjRaalJQWThheENJWkVocmdQMGcxbW5kVVBNdVNIVkIwMk1qbWhkdnJGR3ZnRmxOa3k5NzhPZUhaOG9mSU11bmlTd0d4V200YTJqbWpGNHFab3RleENMa1ppWXc?oc=5",
+   "outlet": "TheWrap",
+   "via": "Google News",
+   "published": "2026-11-19T21:52:04+00:00",
+   "seen": "2026-11-19T22:11:43+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA VI Easter Egg reveals Dexter Morgan’s apartment in-game."
   },
   {
    "id": "just how accurate is grand theft auto vi s vice city a lifelong south florida resident weighs in",
@@ -636,6 +688,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes topics and figures around AI, Anthropic, AMD, Elon and GTA VI."
+  },
+  {
+   "id": "how much did gta 6 cost to make gta 6 budget rumours explained",
+   "title": "How much did GTA 6 cost to make? GTA 6 budget rumours explained",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qalI4Nk50QTVSWGRrUHJlZGR1azlCV3NxVGJyblhWRWJZc0JFQXl5bFlHc0lMZzNlS1NvMzV0SzJlQUI2ckxBSHRnVEYwNGs2Z2ZOSHFLcC1qVTdxLWJXOWk5X1l6TTJhanc?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-19T21:01:49+00:00",
+   "seen": "2026-11-19T22:11:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Radio Times explores how much GTA 6 cost to make and budget rumours."
   },
   {
    "id": "gta 6 launch day live our top expert tips the latest news updates and more",
@@ -1171,6 +1236,19 @@
    "ai_summary": "The real Miami figures spotted in GTA VI are highlighted by the Miami New Times."
   },
   {
+   "id": "9 ways gta 5 will live on with the release of gta 6",
+   "title": "9 Ways GTA 5 Will Live On With the Release of GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMlUzdzZyOHY4STIwV0d5SFBnOUNUNWl3MFBFMEJzdXVubEtaWmVkYlozaDdCRXpPZXVoaVo4QWpDQXBfaFJqME1iSjZndkRYaVpGdUpWRnRPSVhZbjhzRGUyNGxxTUN6akM3VHVpYl9hRktFcHgtZTNFU0JaekY5aUJlNGM0UQ?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-19T20:30:00+00:00",
+   "seen": "2026-11-19T22:11:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "DualShockers lists nine ways GTA 5 will live on with GTA 6."
+  },
+  {
    "id": "grand theft auto vi could outsell taylor swift s entire eras tour in its first week report says",
    "title": "Grand Theft Auto VI could outsell Taylor Swift’s entire Eras Tour in its first week, report says",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONFhqc0MxUThSSUFHbWZQanNndlA1bHl0T2FGREUtSkJnZHpsc1JWTllXT3dxam5nbnZrVm1xa0p0RlpydUkxU0VFM0RmS0RrQVIzbDF2RGlwZ2l0anRBRl9TckJsSnN0aE1LWDFFNV95bWFFRS1vd3QxSGk1cXRvZFlEN0lvWHpVZ3lvODhjTzhSZ1NXTFh0RGdIa3dyc21rZXNiTDRIUlFQOHhEZ3BaS0RSZVVHR3JLTWpfOTFNUTluMXVyT0tuajZWdnVFc0VJejRWaklQZ9IB6wFBVV95cUxNaU1saHl0SDUxWXptcC0tRkFpaFhmcjc2S1k0bXhxcFlpVFFMUHpWQ1BoYjEtTkwwVDNDdEhUUWtiMVBxazdEQWxqdkYwTGVEcEFkdjRINkhYN2pTNWQ5eURsZzVyUzR1Um9lS25ocDdqRWUxdHpmNnRJM0x4X1ZQM1J0ZFJLZ0ZRTFNEa0p1UlZZR1BvY1lYalpLbk1MQkhjd0NpbWgzSGIxcnhUWWF4NERaai1NQi1IOFctNEJTUFZtM1BuNFBvakJLLUs4Y2ZLWktaLUc5Tl9kenVaZ3BSNE5QSWhtdWJwTlZr?oc=5",
@@ -1494,6 +1572,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Service members offered time off to play GTA 6, but there’s a big catch, per Mashable SEA."
+  },
+  {
+   "id": "every song on the grand theft auto 6 radio playlist and soundtrack so far",
+   "title": "Every song on the ‘Grand Theft Auto 6’ radio playlist and soundtrack so far",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON01rOE1wa09Pa251Tk5HUzBkN2VFN1ozV3oybGxsNW53WUZKTDN5cFZ1cDU0ekprTnR3ZzBCd2ZNX2lESlEzam1YTEFBejRqOW5hMms4YnZxSDVHTHlYbF8td0hhV3BhUmR4TDdhcUZUUk1RQ3BGcEVtUHlKWHhOdjZMV3JfMi1qZWlZa216YnVWZUg2NjhmM0xFX0VPNlM0RC1wVHNSN19vdVpuRHNYX2JsQQ?oc=5",
+   "outlet": "NME",
+   "via": "Google News",
+   "published": "2026-11-19T20:06:41+00:00",
+   "seen": "2026-11-19T22:11:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "NME compiles every song on the GTA 6 radio playlist and soundtrack so far."
   },
   {
    "id": "grand theft absence midcoast gamers play hooky to play gta vi",
