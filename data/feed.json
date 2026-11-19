@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:31:01+00:00",
- "started": "2026-11-19T05:30:57+00:00",
+ "updated": "2026-11-19T05:31:32+00:00",
+ "started": "2026-11-19T05:31:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T05:30:57+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T05:31:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T05:30:58+00:00"
+   "hits": 85,
+   "checked": "2026-11-19T05:31:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T05:30:58+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T05:31:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T05:30:58+00:00"
+   "checked": "2026-11-19T05:31:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T05:30:59+00:00"
+   "checked": "2026-11-19T05:31:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-19T05:30:59+00:00"
+   "checked": "2026-11-19T05:31:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T05:30:59+00:00"
+   "checked": "2026-11-19T05:31:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T05:30:59+00:00"
+   "checked": "2026-11-19T05:31:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T05:30:59+00:00"
+   "checked": "2026-11-19T05:31:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T05:31:00+00:00"
+   "checked": "2026-11-19T05:31:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T05:31:01+00:00"
+   "checked": "2026-11-19T05:31:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T05:31:01+00:00"
+   "checked": "2026-11-19T05:31:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T05:31:01+00:00"
+   "checked": "2026-11-19T05:31:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T05:31:01+00:00"
+   "checked": "2026-11-19T05:31:32+00:00"
   }
  },
  "items": [
@@ -364,6 +364,18 @@
    "via": "Google News",
    "published": "2026-11-19T05:00:00+00:00",
    "seen": "2026-11-19T05:30:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "we got x before gta 6 beloved internet meme has officially died",
+   "title": "'We got X before GTA 6,' beloved internet meme, has officially died",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOak0yQ2NwN0ZkdHp5b2JtcnFwdmttZURaaFBtTDVOcWV1OFQxWl9BVEFPN3dOdTc5WTZhVUxhMlZLZWxMUlcxTEFrcUw2WGJRaG5yay1nN2Z1T0RsMzZCUVBlY2JYXzNQU0Z0RFVneU1GM09DcUJscHkzUGw3by01TWNrdmR3ZXVHbFFaU1BmLTg5TW50ellLaHFQUnZLakFIdkZGaGRVQXhaM01NaU1XZVdZUkI2YXdpZldjYVVHYWFwTjZqOEUweVNR?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-19T05:00:00+00:00",
+   "seen": "2026-11-19T05:31:29+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -1111,6 +1123,18 @@
    "summary": "",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "grand theft auto 6 launches globally to rave reviews and record preorders",
+   "title": "Grand Theft Auto 6 Launches Globally to Rave Reviews and Record Preorders",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3pWemVCby1SR0lyLWxYWXRvVjVna1lfRHZSMnhta1BsbE9iMGpRNERwbzFtTDctV1hkVWoxX055X1daQWhqQjFWUDlrMXB4Z0J2MGRfUlJnYWJQbXdYRXlxZXluWEZ3TUp3SWpZQlhVQjAxQWJtNTVEOEtqNTk0NVRSbEhKakJxZlE4UlozejZ5OHVEYXJvcENWaWNabnRDVnJLdQ?oc=5",
+   "outlet": "Enduins",
+   "via": "Google News",
+   "published": "2026-11-19T01:22:04+00:00",
+   "seen": "2026-11-19T05:31:29+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
   },
   {
    "id": "highly anticipated grand theft auto vi releases at midnight",
@@ -2757,6 +2781,18 @@
    "record": false
   },
   {
+   "id": "gta 6 reportedly surpasses 5 3 million concurrent viewers before launch",
+   "title": "GTA 6 Reportedly Surpasses 5.3 Million Concurrent Viewers Before Launch",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNTFsSUZYQkdTTVhia2pnTzlJZlhndVZrN3JTZzhnMV9fdG1NSVhXN0xBNV9LU3ZpQUFVcXhoNnJUSE9mQVVYN2ZBYWhZMG1QYUY0SWNJRWJXa2oyTUttZFE2RW1HTzlYZ0E3aXhYbGpRc3B5eUpRVE9JWURCNGF3cEc4QmhGYVdjOVpqOEw5YmljYmZISkptZmFZRDNxMC1CMDhuMXFNeUxxTUszcWdLdm9FbjFiX2c2a2dhNzBPME9mSm1Db2Z5c3o3cnJaNzd4TWRCRG9ZQWFTSmJrZHFZVg?oc=5",
+   "outlet": "Power Up Gaming",
+   "via": "Google News",
+   "published": "2026-11-18T18:21:49+00:00",
+   "seen": "2026-11-19T05:31:29+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true
+  },
+  {
    "id": "our favorite accessories to level up your gaming setup ahead of gta vi",
    "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
    "link": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
@@ -3103,6 +3139,18 @@
    "summary": "",
    "topic": "Reviews",
    "record": true
+  },
+  {
+   "id": "twitch streamer known as bigcheese on gta 6 hype",
+   "title": "Twitch streamer known as BigCheese on GTA 6 hype",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0lzTGtfM1dybjRxcUhwN3lBdXhYTEtYZ2UyaEdlLTRobGpWdkcxZHZmNkZFWVhoRXNTQVNad1piTnlyOGsxVlhLdjhqSGhsdUNTTnlfU0Z3eExtNEFtWVl0ZE44WGFqSjJIc2FTNkt6MnpXTVk0N0xXcmVqd3BBdUlCREtjbk9DOVRMRw?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-18T17:01:39+00:00",
+   "seen": "2026-11-19T05:31:29+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
   },
   {
    "id": "free christian gta 6 parody game released where the devil hunts you instead of cops",
@@ -3895,6 +3943,18 @@
    "summary": "",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "gta 6 critics reviews record breaking scores raise expectations ahead of november 19 launch",
+   "title": "GTA 6 Critics Reviews: Record-Breaking Scores Raise Expectations Ahead of November 19 Launch",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFNEMWlFVmZ0UGU1cVFKVk1zNXJHNkxKenNJTFdzZVBDWktsbm5fWElMSG90aS1aeUgtSlJ4Mk9fSE82SXE2MkhHZmljczVNYVNreDRleS1hcHhNMk1GbThqdWZSZTVHX2VJM3VIOWhVWTRBY0pJT2RQNy14bTRtbGJhTGtzZnBWTEo1TkVJR3Nkek9ZNGZ4b1BPWjhIejVaUmZERnZoLXU4ejNzb3dDSUFFRmhYM21ZOGNzVVlSUldsLWtlbldfZ9IB1gFBVV95cUxQUWVydDlQX3R6Q1NGX1Q2VnhsOHJ2SzdrbWowSmxrUjRlZnB3amRybHBleHJUcnp5TjVDMFpUck01a0hBUGNFdloya1hySm1BZUdWVkFqOFVyek5yaEM0enlwQ0ZyaWc0dE5jSDRGT0RYcUlWR1NJaG9wYktOTllFVUVQZFNWcy1TTE9iUzFDbi1qMXEwX0hwWnNPYl8zQTRHMlRvR3ZsaWNaby13U1pmWXJtNXlpR0VySHRoN0EzeUZIZ2xTcUt0cVA0OHlUMk9Sa0w3VGJR?oc=5",
+   "outlet": "Analytics Insight",
+   "via": "Google News",
+   "published": "2026-11-18T13:25:01+00:00",
+   "seen": "2026-11-19T05:31:29+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true
   },
   {
    "id": "how are people playing gta 6 already how time zones affect game launch",
