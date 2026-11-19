@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:02:48+00:00",
- "started": "2026-11-19T10:02:41+00:00",
+ "updated": "2026-11-19T10:07:40+00:00",
+ "started": "2026-11-19T10:07:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:02:42+00:00"
+   "checked": "2026-11-19T10:07:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:02:43+00:00"
+   "checked": "2026-11-19T10:07:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T10:02:43+00:00"
+   "checked": "2026-11-19T10:07:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T10:02:43+00:00"
+   "checked": "2026-11-19T10:07:34+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T10:02:43+00:00"
+   "checked": "2026-11-19T10:07:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T10:02:43+00:00"
+   "checked": "2026-11-19T10:07:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T10:02:44+00:00"
+   "checked": "2026-11-19T10:07:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 10,
-   "checked": "2026-11-19T10:02:44+00:00"
+   "hits": 11,
+   "checked": "2026-11-19T10:07:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T10:02:44+00:00"
+   "checked": "2026-11-19T10:07:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T10:02:44+00:00"
+   "checked": "2026-11-19T10:07:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:02:44+00:00"
+   "checked": "2026-11-19T10:07:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T10:02:44+00:00"
+   "checked": "2026-11-19T10:07:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T10:02:44+00:00"
+   "checked": "2026-11-19T10:07:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T10:02:45+00:00"
+   "checked": "2026-11-19T10:07:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 players are thirsting over character who might actually be a serial killer",
+   "title": "GTA 6 players are thirsting over character who might actually be a serial killer",
+   "link": "https://www.dexerto.com/gta/gta-6-players-are-thirsting-over-character-who-might-actually-be-a-serial-killer-3429730/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-19T10:06:48+00:00",
+   "seen": "2026-11-19T10:07:35+00:00",
+   "summary": "GTA 6 players have already found their new favorite character in the game, but there’s a strong chance she might be a serial killer.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players are interested in a character who might be a serial killer."
+  },
+  {
+   "id": "i played gta 3 as a kid now as a dad i sneak away to play gta 6",
+   "title": "I Played GTA 3 As a Kid. Now As a Dad I Sneak Away to Play GTA 6.",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXpoQzQ2THdfVFVnc1hoSDFIN1otWkhraHNRTTloVE1XN0J5clptT0wtVGEwbjFCYWZBZkE3RHlkenZ5NWQtSVhiQm5JZ0xmN3VfTTBkMUtxVHl6U0xtU2FFUWJuUDJhZFJISFE0TXJOa2tuUU11ZUs4d2hBd3JfbE9mbnRONHMxdU9UUVlKUmdIQ1BSX1E?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-19T10:05:00+00:00",
+   "seen": "2026-11-19T10:07:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A person reflects on playing GTA 3 as a kid and now as a dad sneaks away to play GTA 6."
+  },
+  {
+   "id": "take a day off to play gta 6 it might make you better at your job",
+   "title": "Take a Day Off to Play GTA 6. It Might Make You Better At Your Job",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaU92MWJtWEdzUmNOOVJBQm5JR09WOGtKN2NHN3psRjFFSnVlWDJweWU4azluY3g2OURWNWZoS2N3S3l2dkdZUWYyTUlCa1QzYlZNV1k4aTBrWlpIeEhCeTlmNjlIZVlrZXRrSnVmYURwX1NFRHdiNFRSYVhaWlFsWnZYZlg4ZzU5TlBwdFRBM25xSEl0TEx4bW1wdnNrQ1hEcllRYlJmOW9zVk0?oc=5",
+   "outlet": "Inc.com",
+   "via": "Google News",
+   "published": "2026-11-19T10:02:59+00:00",
+   "seen": "2026-11-19T10:07:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A suggestion to take a day off to play GTA 6 and improve at work."
+  },
+  {
+   "id": "gta 6 is out now what parents need to know about its mature rating",
+   "title": "GTA 6 is out now. What parents need to know about its Mature rating",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFQ5SWZtUm53djE1Wk9vaEVMS21KazBITklZQi1paVc0LWNkdlhiTFVDLTZKdTdYdjVzLWlybDY4Z3FCSjdZek5NLWtwTGdsMm1oWVA0RnMwbGlSYUJXakhlVXAtem1ZeHZJSEFRVnlNcHJIb1ZIQVhKdEs3UnMyVTN6UWJtM3V6YkxHTmMyUmZ1NDhleGI3Y0l4WnpHd1FZNVFqdVZYenhUU2JL?oc=5",
+   "outlet": "News4JAX",
+   "via": "Google News",
+   "published": "2026-11-19T10:00:01+00:00",
+   "seen": "2026-11-19T10:07:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is out now and parents are advised about its Mature rating."
+  },
   {
    "id": "want to visit gta 6 in real life start with these 5 florida destinations",
    "title": "Want to visit GTA 6 in real life? Start with these 5 Florida destinations",
@@ -311,6 +363,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "After GTA 6's launch, players are loving wacky criminality, in-game social media, and animal fatalities online."
+  },
+  {
+   "id": "gta vi sales top 1 6b take two console partners microsoft and sony shares rise",
+   "title": "GTA VI Sales Top $1.6B — Take-Two, Console Partners Microsoft And Sony Shares Rise",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVERkaGFfMlRmWi1pWHNua3lZUFhVVlVwTmRmRHF3Qk41UjlRVUI2N3ExNXZ3UWt1M1lIdXYyVW9SNXdjRC1BMHB1cFgtd2txbEdtSTFpMG1WUFpaRXd1X2p4RGdQTzAyUjFXUFA5MGoyLUc1eEtsWUJxZnpYYlk5cGlOTVJLR2tORXgw?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T09:36:42+00:00",
+   "seen": "2026-11-19T10:07:32+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI sales top $1.6B and shares rise for Take-Two and partners."
   },
   {
    "id": "gta 6 fans are in awe of how the game looks on series s",
@@ -1039,6 +1104,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story presents a positive opinion that GTA VI is a masterpiece."
+  },
+  {
+   "id": "gta 6 fans are flying planes into buildings or trying to",
+   "title": "'GTA 6' fans are flying planes into buildings (or trying to)",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0pmWlZtanNxYmFHTHJtNkZJQzltaGxQLUNhNUxubmhhcnNTQU9vbW9GdWhJX3lHV2tlS3B2RDlKVDFfamx2bThZS2FsbGstV3daWFNHQVBfYkRpQzRTQTFXODYwTkNzUmxidHVPaURWUU02UXFnbTlwUFZjSkJ3LUg2X1c?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T08:22:20+00:00",
+   "seen": "2026-11-19T10:07:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 fans are attempting to fly planes into buildings."
   },
   {
    "id": "gta 6 is live how the new zealand trick lets millions play a day early",
