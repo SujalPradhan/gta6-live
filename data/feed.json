@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:12:40+00:00",
- "started": "2026-11-19T10:12:33+00:00",
+ "updated": "2026-11-19T10:17:46+00:00",
+ "started": "2026-11-19T10:17:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:12:33+00:00"
+   "checked": "2026-11-19T10:17:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:12:34+00:00"
+   "checked": "2026-11-19T10:17:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T10:12:34+00:00"
+   "checked": "2026-11-19T10:17:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T10:12:34+00:00"
+   "checked": "2026-11-19T10:17:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T10:12:35+00:00"
+   "checked": "2026-11-19T10:17:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T10:12:35+00:00"
+   "checked": "2026-11-19T10:17:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T10:12:35+00:00"
+   "checked": "2026-11-19T10:17:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:12:35+00:00"
+   "checked": "2026-11-19T10:17:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T10:12:35+00:00"
+   "checked": "2026-11-19T10:17:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T10:12:35+00:00"
+   "checked": "2026-11-19T10:17:42+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:12:36+00:00"
+   "checked": "2026-11-19T10:17:42+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T10:12:36+00:00"
+   "checked": "2026-11-19T10:17:42+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T10:12:36+00:00"
+   "checked": "2026-11-19T10:17:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T10:12:36+00:00"
+   "checked": "2026-11-19T10:17:42+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 launch smashes another record as game goes live in the uk",
+   "title": "GTA 6 launch smashes another record as game goes live in the UK",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWjNQTl9XMXlTWHRFTmx4X0xrakZlY0NVQmx3Q1hqWWxJdDJhNkVDVWtfbG9BaVc1dnBQVDFUVnVWSUxhejlVbWZVWUhHXzVDVlAxVDdrdVFqX1g3MEIxU3VFOVRfZ2tyV2lsai1HQWltcC1NTUxVUVRsVmgtanR5X3hVZHJEdUtrZVhjdm83NmlNbE0?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-19T10:10:00+00:00",
+   "seen": "2026-11-19T10:17:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 launch breaks another record as the game goes live in the UK."
+  },
+  {
+   "id": "gta 6 scams are after your google password money and crypto wallet",
+   "title": "GTA 6 scams are after your Google password, money, and crypto wallet",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zUkRHVGt0WEZhdmJqOHEwQngwVGg2Zk9uVVdHY2FSbFNkOFE5SE4wZGZRLVVjZV9TUkp3djBWMjZyaDRfc0ZORWJtcUhxbXl3Mkl3MHZhelpOMk5WeHQ1eHd5c2Zhb2hZMDRWSDhuQk8?oc=5",
+   "outlet": "Help Net Security",
+   "via": "Google News",
+   "published": "2026-11-19T10:09:31+00:00",
+   "seen": "2026-11-19T10:17:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 scams are targeting Google passwords, money, and crypto wallets."
+  },
   {
    "id": "the xbox series s version of gta 6 is seemingly the first to use amd s fsr 4 1 upscaling",
    "title": "The Xbox Series S version of GTA 6 is seemingly the first to use AMD’s FSR 4.1 upscaling",
@@ -183,6 +209,19 @@
    "ai_summary": "A suggestion to take a day off to play GTA 6 and improve at work."
   },
   {
+   "id": "this is the best part of gta 6 on ps5 pro and it s not what i expected at all",
+   "title": "This is the best part of GTA 6 on PS5 Pro – and it's not what I expected, at all",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3lCNTMyMU9ldFBuNW5QVHBPSjVLSTBpUG52UTlMZVlDUE83YkpqaWFPVWJjNVBfWE1RTG5Jci1OV3h6dEk0UWZOTk9ralFMOWkwbVR2TDBhWHAzbHo5ZHJ2SURWMDZzYWlSNmxvekZQdzJWQkdKMEc3YTM2MEZDeUFEelZUMGdPRTROYk9ROWp6QUh2Uy1fQk5zYVp5ODE0OGEtZFZhLUxpTU1WS0RyUVhpVDJVQWs?oc=5",
+   "outlet": "T3",
+   "via": "Google News",
+   "published": "2026-11-19T10:01:06+00:00",
+   "seen": "2026-11-19T10:17:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the best part of GTA 6 on PS5 Pro was not what was expected."
+  },
+  {
    "id": "grand theft auto vi trains gamer spotlight on new zealand for a day",
    "title": "‘Grand Theft Auto VI’ Trains Gamer Spotlight on New Zealand for a Day",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3F4UlYyOUVncGZqaFB5X3ZBcFN0b2FhVXRZSDVZcU9aeVhvVUZLU2NhZUViX0lrUVRjNlRINGxuUy1WbzNQQzlBeUx5R2pjZGF0UFFVR3RRaFlWSmZ5UkN3SHc2X2VyZE1uRnNROVM2SDdqWVVNSlZrcVBkOHpFTU9nN180Z0NaYkk3bWw0akhMNUsxc1JES1pyUE1JRjBaV09mWFNrQ2w1STEtLXotU19Tc19lQjRtQXV2eExOQmVpQQ?oc=5",
@@ -233,6 +272,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story notes GTA 6 removes a controversial franchise feature and discusses players' reactions."
+  },
+  {
+   "id": "grand theft auto vi earns eight the game awards 2026 nominations but clair obscur expedition 33 s record of 12 still stands",
+   "title": "Grand Theft Auto VI Earns Eight The Game Awards 2026 Nominations, but Clair Obscur: Expedition 33’s Record of 12 Still Stands",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTFrZEh2SGdfeF80VWdBUWJpNnh3dHVjWUpEbnRzbTZRWmlnSVVVQ1hweEVwVGtQTEkyRTUwNUlDaHp0ZkxBclNUdnY1TlVxV1dLTWh6c0w4UklNWkRyRzdrQW9zZWJPNU1QNDUta3RLenZMRzRKRmRzWDNycnZEZXZUbURGTjMzRklISGgwVFhTbUlfQTJKMGZ30gGfAUFVX3lxTFBYVXVVTzFlbnlUMjVGUkFJbmprTHJ5dWhpd0Y2U3NSRDh4ckR6R1hpVTduaHVTUlJLMy14U0hsNTJCalQwZXBNd2RwdHE0dmFwbUtISkZsNjVkZEhTQ1ZsRExhRjROUGJ3bzN2U1Rqc1h4VlppX0pGbjdNOFBGU0pNNkVyUWE1SGJoR1o2eWNqUmZkZGpqaHBYUmlycUlhWQ?oc=5",
+   "outlet": "Wccftech",
+   "via": "Google News",
+   "published": "2026-11-19T10:00:00+00:00",
+   "seen": "2026-11-19T10:17:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA VI earns eight The Game Awards 2026 nominations, while a different record remains."
   },
   {
    "id": "gta 6 gets honored for the worldwide release by everyone including the aftermarket and cgi realms",
