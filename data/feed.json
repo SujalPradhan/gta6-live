@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:03:55+00:00",
- "started": "2026-11-19T14:03:44+00:00",
+ "updated": "2026-11-19T14:08:59+00:00",
+ "started": "2026-11-19T14:08:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T14:03:44+00:00"
+   "checked": "2026-11-19T14:08:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T14:03:45+00:00"
+   "checked": "2026-11-19T14:08:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T14:03:45+00:00"
+   "hits": 97,
+   "checked": "2026-11-19T14:08:46+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:03:46+00:00"
+   "checked": "2026-11-19T14:08:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:03:46+00:00"
+   "checked": "2026-11-19T14:08:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-19T14:03:46+00:00"
+   "checked": "2026-11-19T14:08:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-19T14:03:46+00:00"
+   "checked": "2026-11-19T14:08:47+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T14:03:47+00:00"
+   "checked": "2026-11-19T14:08:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T14:03:47+00:00"
+   "checked": "2026-11-19T14:08:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T14:03:47+00:00"
+   "checked": "2026-11-19T14:08:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T14:03:48+00:00"
+   "checked": "2026-11-19T14:08:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T14:03:48+00:00"
+   "checked": "2026-11-19T14:08:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T14:03:48+00:00"
+   "checked": "2026-11-19T14:08:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T14:03:48+00:00"
+   "checked": "2026-11-19T14:08:48+00:00"
   }
  },
  "items": [
+  {
+   "id": "as rockstar s alleged union busting tribunal hearing comes to a close amid gta 6 launch judge pledges to deliver verdict as quickly as i pos",
+   "title": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\"",
+   "link": "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-19T14:08:10+00:00",
+   "seen": "2026-11-19T14:08:46+00:00",
+   "summary": "Closing statements in Rockstar and IWGB's employment tribunal case - revolving around the GTA 6 developer's alleged 'union busting' and the firing of 34 employees - have now been read, bringing the hearing to an end. There's currently no timeline for a verdict, however, with one commentator suggesting a judgement could take weeks or months to arrive. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Closing statements in Rockstar and IWGB's employment tribunal case about GTA 6 allegedly union busting have been read; verdict timeline is unclear."
+  },
+  {
+   "id": "the gta vi effect how marketers can navigate the biggest gaming moment of the decade",
+   "title": "The GTA VI effect: how marketers can navigate the biggest gaming moment of the decade",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkpBdG50RFQ2RXNvVWZFcy1NbDZNN2F2LVNmc2d5eVNOUl9kNzdiRk9YdGZiVy1ZQU5HeS1iTURHbngyZ0VRZlhxQzNQYzdJTnhzbnFCbzlzR3ozaDcySVpEUU9tSkpmTUlwMnNhUTRrb2JyTG1FNjFGTnlJckttNmZmVmdKVF9vR2p1NHotd2V4SFdlNEtR?oc=5",
+   "outlet": "Medical Marketing and Media",
+   "via": "Google News",
+   "published": "2026-11-19T14:04:36+00:00",
+   "seen": "2026-11-19T14:08:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The article discusses how marketers can navigate the GTA VI launch as a major gaming moment."
+  },
+  {
+   "id": "warning to gta vi fans how the new game could put your health at risk beyond the obvious issue",
+   "title": "Warning to GTA VI fans: How the new game could put your health at risk — beyond the obvious issue",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlE0bW5lNlhZTWRub0dKTDFPOW5sYmFqR2hLVUt5OFQtRVRUaDZ6cUh4R1JMc2lneDlVLWFXZ09qZmlNb1EtaHdZT3J0MHR4REpmcDJ1SDlPSWxMSy12N1FTMlhaNjFtQXRLV01aVzRXNExtWDlvLXpwRDBRd3E5UVFfV2lkOGtT?oc=5",
+   "outlet": "New York Post",
+   "via": "Google News",
+   "published": "2026-11-19T14:04:00+00:00",
+   "seen": "2026-11-19T14:08:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece warns GTA VI fans about potential health risks associated with the game beyond the obvious issues."
+  },
   {
    "id": "gta 6 takes the world by storm after 13 years of anticipation",
    "title": "GTA 6 takes the world by storm after 13 years of anticipation",
@@ -129,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes the wait begins for GTA VI on PC."
+  },
+  {
+   "id": "gta 6 s jet skiing cool dog is already a fan favourite inspired by real life pooch",
+   "title": "GTA 6's jet-skiing 'cool dog' is already a fan-favourite, inspired by real-life pooch",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXJURUJtd2J5M3VSUy11VUtLYVhobEk2RklKYk05cDlDQTBpVE9jVGJvUlpmLXc5X1JjeTdWQk13NzFJbEwwenJkV0RtVm90WmpnQkRoWUJ3LWpETW9tOEtFVDA4ajV3THZKajBxbHBJRzlacXBvZUl3bEhyQ1JlRmotRjRoSEFkejNZbEQzX3F6TkNCTWFHSA?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-19T14:00:00+00:00",
+   "seen": "2026-11-19T14:08:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's jet-skiing 'cool dog' character is already a fan-favorite and inspired by a real-life dog."
   },
   {
    "id": "grand theft auto vi revenue reached almost two billion dollars",
@@ -246,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article argues current-gen consoles no longer suffice for GTA VI at 30 FPS."
+  },
+  {
+   "id": "cardi b and travis scott to host gta vi launch parties in miami headline game s music festival",
+   "title": "Cardi B and Travis Scott to Host 'GTA VI' Launch Parties in Miami, Headline Game's Music Festival",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaUJMb3JwZzhDemo4bEFPY2s5ckk2a2ZuWkR0OUFyNHpaMVJ2UHFrR1k2WDFieFktaTJENFFXbG5HYWxZbWFwSG1iQXFHUDQ1amE1UmtpYmozVTc4R2pQLV9UQ2EyLWtyUldfbnZ2Wkcta0ZIR3VDWGpCR3NfSFJHSHNmWi1qNzE5X0lwa2l4bnhpcHNtX25VaWlLNnJYNURwdTlsWTJlckJXVmUzNGtNOFdLOEhqMjZrYkFGZUY0YXg5aS01Y280VU4weGNZVGtyR3V3ZU80QTR6eDg?oc=5",
+   "outlet": "DancehallMag",
+   "via": "Google News",
+   "published": "2026-11-19T13:45:35+00:00",
+   "seen": "2026-11-19T14:08:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Cardi B and Travis Scott will host GTA VI launch parties in Miami and head a music festival."
   },
   {
    "id": "how to complete strange noises in gta 6 shirley house liquor store location guide",
