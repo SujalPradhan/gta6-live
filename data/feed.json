@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:45:06+00:00",
- "started": "2026-11-19T16:44:56+00:00",
+ "updated": "2026-11-19T16:49:58+00:00",
+ "started": "2026-11-19T16:49:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T16:44:56+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T16:49:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:44:57+00:00"
+   "checked": "2026-11-19T16:49:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T16:44:57+00:00"
+   "checked": "2026-11-19T16:49:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:44:57+00:00"
+   "checked": "2026-11-19T16:49:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:44:58+00:00"
+   "checked": "2026-11-19T16:49:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T16:44:58+00:00"
+   "checked": "2026-11-19T16:49:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 27,
-   "checked": "2026-11-19T16:44:58+00:00"
+   "hits": 26,
+   "checked": "2026-11-19T16:49:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T16:44:58+00:00"
+   "checked": "2026-11-19T16:49:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T16:44:58+00:00"
+   "checked": "2026-11-19T16:49:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T16:44:59+00:00"
+   "checked": "2026-11-19T16:49:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T16:44:59+00:00"
+   "checked": "2026-11-19T16:49:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T16:44:59+00:00"
+   "checked": "2026-11-19T16:49:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T16:44:59+00:00"
+   "checked": "2026-11-19T16:49:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T16:44:59+00:00"
+   "checked": "2026-11-19T16:49:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "who voices jason and lucia in gta 6 here s where you ve seen them before",
+   "title": "Who Voices Jason and Lucia in ‘GTA 6’? Here’s Where You’ve Seen Them Before.",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0NXemtpM3Qwcks3emRCWWxCa0czQTBiYW9sWDIxYXhjNHlDY0dSbHk4RWk0a1FJaV9TdkdBMEt6Q1FzT0lHZDJXeG96RzNKNjk1VlR4cldZcGwxX3JwM3l5UTFlTUU1WHFhUnF3MDFKMDVRSWkzQzhTaTdLZHBUOUJVN3QwRDRvaUFweTZVTVI1NnBoRW5iUDJWU19jdzl3UElUMGpn?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-19T16:46:13+00:00",
+   "seen": "2026-11-19T16:49:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports who voices Jason and Lucia in GTA 6 and where viewers have seen them before."
+  },
   {
    "id": "lebiga and tremba set records for the number of viewers during their gta 6 streams",
    "title": "Lebiga and Tremba set records for the number of viewers during their GTA 6 streams",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Grand Theft Auto 6 success isn't enough to stop major Rockstar layoffs, according to a former Square Enix executive."
+  },
+  {
+   "id": "how to make money fast in gta 6 the best early game methods we ve tested",
+   "title": "How To Make Money Fast In GTA 6: The Best Early-Game Methods We've Tested",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SVGt4a3hkMnk4bWNoU3pHUkFYbzZnbE53emJjQVdraXkyb1lfUHpYLWhOYXZoVkRxUHhBV2RLYndBTEkzLWU4UDkwc2hQdkJJRTQtUl9VcXVxZTZkVGRJbUxYMjFoSnJoTXNYak1UVzR6Zw?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-19T16:39:01+00:00",
+   "seen": "2026-11-19T16:49:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses the best early-game methods to make money fast in GTA 6, based on tests."
   },
   {
    "id": "should you spare arnold in gta 6",
@@ -261,6 +287,19 @@
    "ai_summary": "GTA 6's comedy is described as being all over the place."
   },
   {
+   "id": "grand theft auto vi reimagines cedar key in game",
+   "title": "Grand Theft Auto VI reimagines Cedar Key in-game",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRURxbmdabXQ4U0FjRWlkRlBhek9McXZxWVNtcFlXQVNaRW9qUXBORVlweEMxQk9pcFF5cHRwSlctd2poSzR4NVBEaXByU3hQZGFVaGFabTRPU3F5UWg1UlZxMXdhWnF6S1hBUEx4ZUhHa3YxNDdvT2JLYWV6ck96TFEydEF4QjM30gGcAUFVX3lxTE42YlExUThraVIzbEFPR0l3a2pFNVEyaUMtMUN0T2VrVURhd0JxaExvZWU2YzdSTjhUdlRmXzBHUndnSE1wdmlDWjJOc1ZxMF9yb2ZyeVotaXlaTUMxdVBKd29kSDZnS0Y5UEY2VmNPcWJVT1YzVzRyZHZmWXlJZm11X2oyRGZpTFQwQ0JBcV9QTnhlX1h6c0h5RWJUTg?oc=5",
+   "outlet": "WCJB",
+   "via": "Google News",
+   "published": "2026-11-19T16:31:00+00:00",
+   "seen": "2026-11-19T16:49:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states that Grand Theft Auto VI reimagines Cedar Key in-game."
+  },
+  {
    "id": "i am obsessed with gta 6 jason s literary choices",
    "title": "I Am Obsessed With GTA 6 Jason’s Literary Choices",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qYjlUZ3hJd3BXNFBORk16VDFoNXhPTXMwbk1WQkRhUERFSmtzeWllUjc0ZU1rZ0dpTW9DZjF2VWhNS3RCWFRqZkZaQ080UmxpeGFlZ2h5bm1ab0xQUWJDWGRiY1JNQXQ5d0lUQw?oc=5",
@@ -298,6 +337,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions whether Grand Theft Auto VI is what the music business needed most."
+  },
+  {
+   "id": "france gta vi launch",
+   "title": "France GTA VI Launch",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdTE0N09ZQ2ZjRTlwRGdMSU5oRl9LTER2NEtEWFloZHBKdEdCWGt4NU9lRFp0Sy1mM0RUcUZvM0FmQ0lMdUR2dXFvVUVGSlNid216TkVPT2ZDcE1xNi13ejZrZUxYeFo0LXhISXl0YXY5SGxERVZQVlF0cnZ4LXFISE0xalR4WWpoby1GcW9TcDUzZVJaclpHekhhVTR1czYtR3NsbzFXWjhZT3B4c3NLUQ?oc=5",
+   "outlet": "chronicleonline.com",
+   "via": "Google News",
+   "published": "2026-11-19T16:26:52+00:00",
+   "seen": "2026-11-19T16:49:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the launch of GTA VI in France."
   },
   {
    "id": "mayhem car chases grand theft auto vi debuts to rave reviews",
@@ -441,6 +493,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Insider Gaming reports the full GTA 6 voice cast list as assembled by Rockstar Games."
+  },
+  {
+   "id": "gta 6 breaks global livestreaming records with nearly 8 million viewers as launch sends internet traffic to new high",
+   "title": "GTA 6 Breaks Global Livestreaming Records With Nearly 8 Million Viewers as Launch Sends Internet Traffic to New High",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUtqcE8tMkpfUjRxNlVnazdSY1VaS1VxVUhpNTlWVXFPa3VybTJ2VUtlUnJkWTItdm8tTHJsaTZUVmNxRC1oejN2UWphbm1lbkVlNW03UGZBOGViWG10ZERwS05UeWt5ZVh1Yk9yR1NIM1dkcm1iQW1rSlplM1N5UDBEVVpZQUZxYTVwZUhWSlpjSTh5RFN2TVVsQ29nN2NLSjlETktUdm5UQ21mUHlRN21Fb1ljYTcxZFRrZVBhMElPV0tqcFZpVEc4MWdsY0dweDc1U2gyQ2haV2lTV0E?oc=5",
+   "outlet": "Sacnilk",
+   "via": "Google News",
+   "published": "2026-11-19T16:16:12+00:00",
+   "seen": "2026-11-19T16:49:49+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story says GTA 6 set global livestreaming records with near eight million viewers during launch."
   },
   {
    "id": "gta 6 s hidden seinfeld reference explained",
