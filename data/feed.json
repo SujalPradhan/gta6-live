@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:07:55+00:00",
- "started": "2026-11-19T11:07:50+00:00",
+ "updated": "2026-11-19T11:12:58+00:00",
+ "started": "2026-11-19T11:12:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,179 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T11:07:51+00:00"
+   "checked": "2026-11-19T11:12:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:07:51+00:00"
+   "checked": "2026-11-19T11:12:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T11:07:51+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T11:12:52+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T11:07:51+00:00"
+   "checked": "2026-11-19T11:12:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T11:07:52+00:00"
+   "checked": "2026-11-19T11:12:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T11:07:52+00:00"
+   "checked": "2026-11-19T11:12:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 36,
-   "checked": "2026-11-19T11:07:52+00:00"
+   "hits": 37,
+   "checked": "2026-11-19T11:12:53+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T11:07:52+00:00"
+   "checked": "2026-11-19T11:12:53+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T11:07:52+00:00"
+   "checked": "2026-11-19T11:12:53+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T11:07:52+00:00"
+   "checked": "2026-11-19T11:12:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T11:07:53+00:00"
+   "checked": "2026-11-19T11:12:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T11:07:53+00:00"
+   "checked": "2026-11-19T11:12:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T11:07:53+00:00"
+   "checked": "2026-11-19T11:12:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T11:07:53+00:00"
+   "checked": "2026-11-19T11:12:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 what s in the bag walkthrough",
+   "title": "GTA 6 What’s In The Bag? Walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-whats-in-the-bag-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T11:11:26+00:00",
+   "seen": "2026-11-19T11:12:52+00:00",
+   "summary": "Chapter 2 kicks off with What's In The Bag",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Chapter 2 begins the walkthrough titled What's In The Bag?"
+  },
+  {
+   "id": "gta 6 arrives after 13 year wait live updates as gamers explore vice city",
+   "title": "GTA 6 arrives after 13-year wait: Live updates as gamers explore Vice City",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWZod3ZHdWlsdjNneFAyNTNWVERRQjJWU1BhanJEcUIzUFI4NEJRc01OZWZOVXZlV3BSa3VMYWZDRHVOeUVnazJZTFpsd3VOWmpoYm0wM0gyTWZyVjJQN1JIWFRSeFNuZk1KVzN3d3hPSWU4Zk9PUlczUUdJTHY2WFhUckctSWRZUEVnczc1bUhjUk1yMEE?oc=5",
+   "outlet": "azcentral.com and The Arizona Republic",
+   "via": "Google News",
+   "published": "2026-11-19T11:10:49+00:00",
+   "seen": "2026-11-19T11:12:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 arrives after a long wait with live updates as gamers explore Vice City."
+  },
+  {
+   "id": "gta 6 how to use a talking parrot to find a stash of money",
+   "title": "'GTA 6': How to use a talking parrot to find a stash of money",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IanhESkJPU2JUZ2FVeV9oaDU4M0pWWXRkZXlWSTVnYWdPcV9FczhoXzcyU3J0dnZEMHNCSzNicHZ5SUk0ODhRbVNUWlNDNGw1QkVPOUxLUVYtUVo4M0w3b1FLS3k5LXlaTmNfbXJoR0VVU1lYamc?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T11:07:01+00:00",
+   "seen": "2026-11-19T11:12:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 guides show how to use a talking parrot to find a stash of money."
+  },
+  {
+   "id": "saxophonist tributes grand theft auto vi drive this week s new music releases",
+   "title": "Saxophonist tributes, Grand Theft Auto VI drive this week’s new music releases",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMjdsc0dGektkRWRMV0tZRHhRYk0xY2tyVm0waHdKWVJFQUl5dUotV2lkRUdaN1RIeDdUTXppa2QwUnBMX0hkZUdYMzJ5Z2VQWnlCY1g4M0FHYWlkZEswNk9jTE1TLWtpRjZMekZhVjY5dXYxQmVTY3JOdEtyc282aXl4RGpLek9qNDExTWxaXy1KRy1VZEV2TUJEbXo2QnBkWFIwdVpjOTJleTRuSmY4TTJ6YVFNNk8wSkU2R2FBeEw4UTRGUU0zTw?oc=5",
+   "outlet": "Cleveland.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:06:00+00:00",
+   "seen": "2026-11-19T11:12:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Saxophonist tributes accompany this week’s new music releases related to Grand Theft Auto VI."
+  },
+  {
+   "id": "not every game needs to be gta baldur s gate 3 dev says as grand theft auto 6 sparks dev debate",
+   "title": "\"Not every game needs to be GTA,\" Baldur's Gate 3 dev says as Grand Theft Auto 6 sparks dev debate",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/not-every-game-needs-to-be-gta-baldurs-gate-3-dev-says-grand-theft-auto-6-is-a-rare-cultural-moment-but-theres-still-space-for-other-types-of-experiences/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T11:05:42+00:00",
+   "seen": "2026-11-19T11:12:53+00:00",
+   "summary": "And it's \"genuinely brilliant\"",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 sparks dev debate as Baldur's Gate 3’s creator says not every game needs GTA."
+  },
+  {
+   "id": "gta 6 how to solve the pelican valley outpost puzzle",
+   "title": "GTA 6: How to Solve the Pelican Valley Outpost Puzzle",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXZDeXlKMFMweVc0b2U5OTNHakdiQjh6SlJET2toNHZRY2FETlh5empDNWt1aEpCTVl2YXRSZWtRWDh0TzhDTFFuTFZxbVh6RGJ5Q0RpT1Fra09YWWJ5ZGx5OTZQT05kX3ZIWFg1SEFfVWhfMDVJMjR1WHdhQThXSkJudFNQVTZNSHc?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-19T11:05:16+00:00",
+   "seen": "2026-11-19T11:12:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 provides instructions to solve the Pelican Valley Outpost puzzle."
+  },
   {
    "id": "gta vi is here here s how utah fought games like it",
    "title": "\"GTA VI\" is here. Here's how Utah fought games like it.",
@@ -116,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "\"GTA VI\" is here. Here's how Utah fought games like it."
+  },
+  {
+   "id": "gta 6 should you kill or spare arnold what to know",
+   "title": "GTA 6: Should you kill or spare Arnold? What to know.",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4dG1US1dCcW5qOUdRMzNNR0daTnFKZEQ1bFNKZG5Ca0tPRkFzVWEzVFRfQy1oc0w0X193M2FmYWpCTUNISURZakk0VW9UYnJQSnVXd0o5VmZFZlE0ME9ZOWx1OG4xd2hZX2pvYXhB?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T11:04:43+00:00",
+   "seen": "2026-11-19T11:12:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 discusses whether you should kill or spare Arnold and what to know."
   },
   {
    "id": "gta 6 sparks controversy with anti furry law scene",
@@ -207,6 +298,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 bans 'UwU' and furries as a notable quirky policy."
+  },
+  {
+   "id": "new this week gta vi always lalisa the altruists and steps",
+   "title": "New this week: 'GTA VI,' 'Always Lalisa,' 'The Altruists' and 'Steps'",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQVAzSmFCUDdOREctNmxpYmNnUGJOazYtS3VOdTh3MzlwNzJDVWc3dHB5bmpzRWVzLUFYWndOdE1ka1VNSURrSUtiNFB6eDJReENaeENORzVrZnhpTmZHVzE3OE0wUE8yd0tOSUQxNmxOU1E0ZFJIUWtaRHBSX2dTNUZpa25PWmgxTFp4LTBKa0pUNGRGb0FQZlhNSjFkNTg1UUtPRzh3UlpybVpBZXg0cmdyM1BxdUE1NlliRWdBMEN0TUlrV2JSSExIN2MxWHlSSExmcXZSclhNYWFXU1dGU2U4cE4?oc=5",
+   "outlet": "WyomingNews.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:00:00+00:00",
+   "seen": "2026-11-19T11:12:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "This week’s new releases include GTA VI, Always Lalisa, The Altruists and Steps."
+  },
+  {
+   "id": "a rockstar game could be coming to hollywood and it s not gta 6",
+   "title": "A Rockstar Game Could Be Coming to Hollywood, and It's Not GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nVVJPa19NNkdzeEI1ZUpUQmpWV1hlamdNaEpmSS1DWkdWc1k0bGxQUHJuUlp6Z2hXZEE0TFZpTk5JQ2U5RnVRMmVwREZKN1FWaEhmZnBEbGZBWU51WmdIN0dmM2gxdWVQbThPUFlhNVR5M2JTc3NrWA?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T10:59:47+00:00",
+   "seen": "2026-11-19T11:12:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Rockstar game could be coming to Hollywood, but it’s not GTA 6."
   },
   {
    "id": "i thought 20 years of playing gta had prepared me for gta vi i was wrong",
@@ -1481,6 +1598,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A GTA 6 video shows a slapstick moment involving a tiger encounter."
+  },
+  {
+   "id": "grand theft auto vi launches to global fanfare",
+   "title": "Grand Theft Auto VI launches to global fanfare",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUdZZm1iOGZlMzVFNTA0a0ZmYTR5VEdIdjhnUndsU1ZVYWJmYUFvVWdOQ2JTSDJlUkQtV2lsY3dOVnJSZnU0eTJ4OWw1MG9aaU9Ud1dOY0hxTnF2cEdOSmNYQU5IZnk1bkdEdlRVZEtjVmpZNG5EMllkZUVrSnUweDJDY3BjZ9IBhgFBVV95cUxNeWhrbXlBaWRDWGNrSVZLTHZMaU1SUS1QTld0SjR3M3B1aW1LcXEzNHFaZUswUGVEdXotRG5nUnpUbGhmdldZWC1RNGpiRmxyUWFuZ0hNTEVobVhDeDBPek5NWFdMV2c1bDVaZkRHNlN6dk9VX0xlWTRaekxqdUw1bDZ5YWlBdw?oc=5",
+   "outlet": "DW.com",
+   "via": "Google News",
+   "published": "2026-11-19T08:47:42+00:00",
+   "seen": "2026-11-19T11:12:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI launches to global fanfare."
   },
   {
    "id": "xbox series x beats ps5 in gta 6 smoothness thanks to 120hz vrr support",
