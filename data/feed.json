@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:43:19+00:00",
- "started": "2026-11-19T11:43:02+00:00",
+ "updated": "2026-11-19T11:48:10+00:00",
+ "started": "2026-11-19T11:48:03+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:43:02+00:00"
+   "checked": "2026-11-19T11:48:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-19T11:43:02+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-19T11:48:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:43:03+00:00"
+   "checked": "2026-11-19T11:48:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T11:43:03+00:00"
+   "checked": "2026-11-19T11:48:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T11:43:03+00:00"
+   "checked": "2026-11-19T11:48:05+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T11:43:04+00:00"
+   "checked": "2026-11-19T11:48:05+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 38,
-   "checked": "2026-11-19T11:43:04+00:00"
+   "hits": 39,
+   "checked": "2026-11-19T11:48:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T11:43:05+00:00"
+   "checked": "2026-11-19T11:48:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T11:43:05+00:00"
+   "checked": "2026-11-19T11:48:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T11:43:05+00:00"
+   "checked": "2026-11-19T11:48:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T11:43:05+00:00"
+   "checked": "2026-11-19T11:48:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T11:43:06+00:00"
+   "checked": "2026-11-19T11:48:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T11:43:06+00:00"
+   "checked": "2026-11-19T11:48:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T11:43:06+00:00"
+   "checked": "2026-11-19T11:48:07+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 launches in the u s",
+   "title": "GTA 6 launches in the U.S.",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakRNNnMySE0yYmZBNkxRSFhkUjU1Tnhxc3lVbjdaTnZNQV9tWmdONnhKLXV2TlM0UF9wTUZYZi02eDM2ekZiaHRoc1BfOGZUclZEVXZwMUc0dkRQWVBZVkZSY2JISnZNQVRab0VYOFpCbUdWQ3VLNjNodkhPcGRBbERUT3FvODE4MFEyU3c4WmlzUkVfY2d4VVZRaTljaGNGZE9fRlVjcw?oc=5",
+   "outlet": "kare11.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:44:07+00:00",
+   "seen": "2026-11-19T11:48:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 launches in the U.S."
+  },
+  {
+   "id": "gta 6 characters and cast confirmed",
+   "title": "GTA 6 characters and cast confirmed",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-characters-cast/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T11:41:19+00:00",
+   "seen": "2026-11-19T11:48:05+00:00",
+   "summary": "Find out who is in the GTA 6 cast and which characters they portray",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 characters and cast confirmed."
+  },
+  {
+   "id": "i m an elder millennial who stayed up all night to play grand theft auto vi i m tired but i feel like a kid again",
+   "title": "I’m an elder millennial who stayed up all night to play ‘Grand Theft Auto VI.’ I’m tired, but I feel like a kid again.",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSDNrUDJIQVRrbzFHY1BTMlJHSlBBanc4WEhxbm56QVpZRXBoNnNPVFBHVDlMMVJPTkFMN2d1N1hvVWIwQlpTSDlpQTdiNUxGcXAyOUc0MWhNX2FDMzRQY250cy03V1IxVS1TMk8zTFUzWnhXZThXSGVwOXFRWi1hRVd3?oc=5",
+   "outlet": "The Boston Globe",
+   "via": "Google News",
+   "published": "2026-11-19T11:40:46+00:00",
+   "seen": "2026-11-19T11:48:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An elder millennial stayed up all night to play GTA VI and feels tired but young at heart."
+  },
+  {
+   "id": "gta 6 how to enter first person",
+   "title": "GTA 6: How to Enter First-Person",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGTGhPblNSYndQaV8wZUJFb1MxcXJGb3ZUSnJLWE15MHZxdnFzdEp0YXlMMXppMFc3MERIaU9qejVob0JlbVZCQjBXOUlUYVhRRHJaOXVheU16NGY4UzEyVGo3ZGx1M1pRcWxaaGJn?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-19T11:40:21+00:00",
+   "seen": "2026-11-19T11:48:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6: how to enter first-person."
+  },
   {
    "id": "the world prepares for grand theft auto vi an outlaw blockbuster",
    "title": "The World Prepares for Grand Theft Auto VI, an Outlaw Blockbuster",
@@ -2014,6 +2066,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 launches worldwide as employee-leave requests rise in Israel and abroad."
+  },
+  {
+   "id": "gta vi reaches gaming s highest peak with a 99 metacritic score",
+   "title": "GTA VI reaches gaming's highest peak with a 99 Metacritic score",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY3lLTzNHaVNodW9hdmw1ZkZCSkEwd1oyenNBZnVaN3NzTWU0ck1yS0JqblA2N3E0WW8xdmw4RXRwNUhTcmFWb2JheWc1ZTFfVGNScGxGRDVaeFBVUmZkUkI2T0RvWjBjWk9lUkp2b2FfV3FYdU8xZi1HTEtadXluQ28yVzlRN1dSV1JVZkhiMlQ4OGhCTW81VEdGdnlXM0tzUDVzcU5ud2s4b0k?oc=5",
+   "outlet": "DLCompare.com",
+   "via": "Google News",
+   "published": "2026-11-19T09:15:32+00:00",
+   "seen": "2026-11-19T11:48:05+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "GTA VI reaches gaming's highest peak with a Metacritic score of 99."
   },
   {
    "id": "gta 6 pulls off the heist as critics hand rockstar a record tying 99",
@@ -6657,6 +6722,19 @@
    "ai_summary": "Take-Two jumps as gamers relish the blockbuster release."
   },
   {
+   "id": "gta 6 launches in india brings a whole new world to vice city",
+   "title": "GTA 6 Launches In India, Brings A Whole New World To Vice City",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQURzNjVZUnBsdWZVNGU4cDRRNjFjdWdSTjNySU5QWHo2WGlmQ0xteGlvMUsyeTF1VWNXMXJqaHpHSEtGLTdkR1VOeGI2N1ZVUTdHSXdIS1JDaWlVdHBveTV4NlFwQnVGeFVzczY3UFdqbUhZdHc2VUxNMTBQLWpzbXJnWi1BRXdULU14dkdEaDlkTjYwZ2p2MFNINVRfRk5heGZqRHJiVU93TnlzcWFaUk9va2ZwdUxzdW1XMlVn0gHGAUFVX3lxTE1nN0EycGhfdDhrVXUyLS1UanRTNzNzX1RocDE1M3RrZ0phV25QTDVDdXlydkRQVUJRQ0I1aGIzemRoZXB4RVBJcGdNMUxZS1FhOEUzSVk3TlFtR01ZTWt4VHVvUU5RaDFnVXFoTWFxRHV4czJIemc3MmZvdWFLcW5aek1CNTNLQXNGckFkTFRSbUZpQS1kQ1IxUGNkZjVyVEVNLUZXS19tSG5ob3QzeC1wYUc2X3FpTkM5UXFWaXBWcFQ1ZUY5Zw?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-18T18:30:46+00:00",
+   "seen": "2026-11-19T11:48:05+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 launches in India, bringing a whole new world to Vice City."
+  },
+  {
    "id": "gta 6 is the biggest game of all time what it means for take two s stock",
    "title": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock.",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLXBDbHhOaXJwWUlBQW9UdDh4S0pQZ3Vpc2lDbEdDY1RZd2Vpd3UzaXpGR0FaUEUwaURueHYtal9LT2ZHNkNIVFp3SDBFb0pGZFM3U2pLNUdoVHFMM0FJTlFBdDJ6WUJPTWtiTjR3WGxHQ3VaeGlyc1cwckR6eFhydzlGY095TVlwZzN5cVpwLWRWWnNDMUh5eXFlNmx0RlNQV0hidXBianU0QzlGNWNmb3BUR0RDdnZtT0VWTi11MUFuREIzZlZyelo1SXU1ZjloQXRVbGFB?oc=5",
@@ -6746,6 +6824,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "GTA 6 reviews show a Metacritic score of 99, tied with a historic title."
+  },
+  {
+   "id": "gta 6 review scores roundup every rating as metacritic hits 99",
+   "title": "GTA 6 Review Scores Roundup: Every Rating as Metacritic Hits 99",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcjYyQ3M1LUYtTUlJdTRzc0ZadEdUTGZZdWQxZl80aHR0dFpFT1dMc0VyZjRWQl9zRWtHM3FyUHFaQVA2RFc2Vl9Dc0ZOa1djRHpvdTVTWjhVNllqcVJXa3RRdnpxcC1JYnBZRm9oRXpic3R0cmZCc1l6UEZIWGFiUGFySjg2a3BFdHF1Yk1JZFBnUEYyRXlLZ0NPVEk?oc=5",
+   "outlet": "The Mac Observer",
+   "via": "Google News",
+   "published": "2026-11-18T18:14:01+00:00",
+   "seen": "2026-11-19T11:48:05+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 review scores roundup as Metacritic hits 99."
   },
   {
    "id": "gta 6 graphics compared on xbox series x s playstation 5 and ps5 pro",
