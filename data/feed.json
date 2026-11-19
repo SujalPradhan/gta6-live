@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:32:20+00:00",
- "started": "2026-11-19T23:32:14+00:00",
+ "updated": "2026-11-19T23:37:22+00:00",
+ "started": "2026-11-19T23:37:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T23:32:14+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T23:37:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T23:32:15+00:00"
+   "hits": 96,
+   "checked": "2026-11-19T23:37:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T23:32:15+00:00"
+   "checked": "2026-11-19T23:37:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T23:32:15+00:00"
+   "checked": "2026-11-19T23:37:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T23:32:16+00:00"
+   "checked": "2026-11-19T23:37:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T23:32:16+00:00"
+   "checked": "2026-11-19T23:37:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-19T23:32:16+00:00"
+   "checked": "2026-11-19T23:37:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T23:32:16+00:00"
+   "checked": "2026-11-19T23:37:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T23:32:16+00:00"
+   "checked": "2026-11-19T23:37:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T23:32:17+00:00"
+   "checked": "2026-11-19T23:37:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T23:32:17+00:00"
+   "checked": "2026-11-19T23:37:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T23:32:17+00:00"
+   "checked": "2026-11-19T23:37:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T23:32:17+00:00"
+   "checked": "2026-11-19T23:37:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T23:32:18+00:00"
+   "checked": "2026-11-19T23:37:19+00:00"
   }
  },
  "items": [
@@ -116,6 +116,58 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that actress Lexie Shoaibi stars as Mandy, a character in GTA 6 who attracts social media attention."
+  },
+  {
+   "id": "gta vi hype brings excitement to bangor area businesses",
+   "title": "GTA VI hype brings excitement to Bangor-area businesses",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPczFGQnNpVzJLQVpUZWg5RGpBOXkzOVFlekNCenRIVFhWOWloWUJlZGlBakM4LTNxTktEb3h1MWhMUkZzem5VNkJlcVJyXzNLa01kRnpqMURFLXlaNkV5Q0h6My01RFFvbzR1Y2pPZURvTGd5aHgzQUtjWFppT3BaLU9HbXppWkIyTi1wMXoxemNxNEt3dC1KbkQ0YUw3eWdhZlhnWVJ1cEhRRnl0SmJjaWx6RzVGeWxOaElXOEtReFVpdXRYbXdzTU16Z1ppa0xvSFlnTFJpWkNsbXZ6WW43ajh0UWtlWGU3dFhxY0xSMDlOSlIyZ3ViMw?oc=5",
+   "outlet": "newscentermaine.com",
+   "via": "Google News",
+   "published": "2026-11-19T23:33:00+00:00",
+   "seen": "2026-11-19T23:37:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI hype excites Bangor-area businesses."
+  },
+  {
+   "id": "gta 6 is even better when you play it side by side with your wife",
+   "title": "GTA 6 Is Even Better When You Play It Side-By-Side With Your Wife",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkJGMDFsQ0k5V1F4UC0zYXV5d1c2U3NLRld3TlpjWGV3cThoUV82NHo2U3FueEVoZlRUaU9ObzhsT3oxQVo3Tmw0Y1ZBel92M3dZZ0VqUFBoTVdWa1FOZ2xJLVNLQTZocVp2YmRsMU8zd1NEYUN1RE85UTJEMmotOXZuaTZFTGZoUjBkUDdiZmZHQXp0SUhaamJBVQ?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-19T23:30:38+00:00",
+   "seen": "2026-11-19T23:37:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is better when played side-by-side with your wife."
+  },
+  {
+   "id": "logitech employees in san jose take a day off to enjoy gta 6",
+   "title": "Logitech employees in San Jose take a day off to enjoy ‘GTA 6’",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTml5NXh6SDMzSW8xTnVhMHRUdnpFaHBObklSZy0yRnBreTdZaUh4VTdFMHFqOTNtNnEzUFVYY2V4OXRKTXJKVXltR2hfYzBXZ0VHanBoWk8yMjlfbEdyeDRlRi1aaURTb0lzNEJnZEtjdlEyeWtPUHNLRmlFanpibzdLbEk5STZna2VwVHM0anFaNU9yZ0taZFpoMC1YV0JHY3c?oc=5",
+   "outlet": "The Mercury News",
+   "via": "Google News",
+   "published": "2026-11-19T23:30:11+00:00",
+   "seen": "2026-11-19T23:37:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Logitech employees in San Jose took a day off to enjoy GTA 6."
+  },
+  {
+   "id": "lisd sees no attendance decrease as grand theft auto vi arrives",
+   "title": "LISD sees no attendance decrease as Grand Theft Auto VI arrives",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGRQVjN1WEpUVHAzd2hqT1dMTW5tM0p6ZzBtVG13OG9HYjI1WERFbDZjZ1o5cXI5dHpnLXhnWklWS0loYVpwM1lLN3c0VHphZUxfd0UzZHVha1RRLXFaMHBIMFRjVGFySWRDdHB2NGtNWGhEZ25raFk1OWVUb3dISU1GeTl0T3FPM1NiR0hSZVdiOXhxbHBV?oc=5",
+   "outlet": "KGNS",
+   "via": "Google News",
+   "published": "2026-11-19T23:30:00+00:00",
+   "seen": "2026-11-19T23:37:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports LISD sees no attendance decrease as Grand Theft Auto VI arrives."
   },
   {
    "id": "southern university e sports team looks to build on gta vi release",
@@ -142,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The GTA 6 Star System reveals more than just your wanted level."
+  },
+  {
+   "id": "gta vi launch spurs 44 surge in spain paid time off requests how 11 outlets framed it",
+   "title": "GTA VI Launch Spurs 44% Surge in Spain Paid Time Off Requests: how 11 outlets framed it",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMTY2VGlhWGdhVzNQYnVLWjd5RTBTRWhZR0Z5ckJWWHZkdkZvV0Z3YjlUalh0ektOcFg3eWlJVkZubVlVLW42ZVdZMGF5X2NDQUl1eUpLX1Y4MzdfR2h6WFNXdmRpazNoZmQ4M3hLOWxXb3lQLTBLTTdQS2Y1Y3h0R2pfZktrOFVfUGd1VW5NT1FLem9BUnoxdjQzb0thbHhlUk43dHNOVlA4X3RWOW1CLVp6cjFsMzFPOWNhbzNWQVRTM2kwRkJpRjlKcDBiQUU?oc=5",
+   "outlet": "NewsCord",
+   "via": "Google News",
+   "published": "2026-11-19T23:23:19+00:00",
+   "seen": "2026-11-19T23:37:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports launch spurred a 44% surge in Spain paid time off requests as framed by 11 outlets."
   },
   {
    "id": "where do photo studio pictures get saved in gta 6",
