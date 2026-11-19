@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:38:34+00:00",
- "started": "2026-11-19T12:38:19+00:00",
+ "updated": "2026-11-19T12:43:44+00:00",
+ "started": "2026-11-19T12:43:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T12:38:20+00:00"
+   "checked": "2026-11-19T12:43:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T12:38:20+00:00"
+   "checked": "2026-11-19T12:43:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T12:38:21+00:00"
+   "checked": "2026-11-19T12:43:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T12:38:21+00:00"
+   "checked": "2026-11-19T12:43:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T12:38:21+00:00"
+   "checked": "2026-11-19T12:43:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 35,
-   "checked": "2026-11-19T12:38:22+00:00"
+   "checked": "2026-11-19T12:43:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T12:38:22+00:00"
+   "checked": "2026-11-19T12:43:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T12:38:22+00:00"
+   "checked": "2026-11-19T12:43:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T12:38:22+00:00"
+   "checked": "2026-11-19T12:43:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T12:38:23+00:00"
+   "checked": "2026-11-19T12:43:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T12:38:23+00:00"
+   "checked": "2026-11-19T12:43:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T12:38:24+00:00"
+   "checked": "2026-11-19T12:43:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T12:38:24+00:00"
+   "checked": "2026-11-19T12:43:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T12:38:24+00:00"
+   "checked": "2026-11-19T12:43:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 ambulance chaser mission walkthrough",
+   "title": "GTA 6 Ambulance Chaser Mission Walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-ambulance-chaser-mission-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T12:38:38+00:00",
+   "seen": "2026-11-19T12:43:31+00:00",
+   "summary": "Destroy the ambulance that helped you escape Vice City",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses destroying the ambulance that helped you escape Vice City in a GTA 6 mission walkthrough."
+  },
+  {
+   "id": "could gta 6 spark a sick day surge across dfw the numbers behind the hype",
+   "title": "Could GTA 6 Spark A Sick-Day Surge Across DFW? The Numbers Behind The Hype",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZW4zRWg2cE1nUk5OQUx6QnkwMkpoeFBHcW1ueFVYRmN6Ukh0NmFsb3R6SHFDSkFrc0VXdV9ZU01QclBMNzVyYWZGa05lSkdaNlNkanc4Q2dYUC1MQVlpNGdLcG14WWVUazBrUnJCUGtkZG9DaWtrRE91bHE1WFVQSjFfTlBNMDctbHFWSzQ4U3ZoRnRwNjRGbkVLQjB3dGk0RzdGTkpOWTZudw?oc=5",
+   "outlet": "WBAP",
+   "via": "Google News",
+   "published": "2026-11-19T12:38:12+00:00",
+   "seen": "2026-11-19T12:43:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece questions whether GTA 6 could cause a sick-day surge in DFW and analyzes the numbers behind the hype."
+  },
+  {
+   "id": "takeaways from the trump xi putin summit and gta vi launches to rave reviews morning rundown",
+   "title": "Takeaways from the Trump-Xi-Putin summit and ‘GTA VI’ launches to rave reviews: Morning Rundown",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd1dDX09zZ2Z6bDNmZ0UzbUZoTnpoa2hEQ3JqU3BsRElDSHNZUk5fYW5yNElra1NqMng0X1N4UFlWR2hiSjMyRFRLbmNzUk9IRWxDSXUxRVloQ3kyZmJiS1UwMGNWNHRTTm5WclNiVmxfcDJUMjg4V29RbWVhMFBmRHVySVpiejBjSFNDY3BGX1NoRS1DWmFpNmlkeWxhdERGd2YzMTRYM1R6RjVDR0NYWA?oc=5",
+   "outlet": "NBC News",
+   "via": "Google News",
+   "published": "2026-11-19T12:36:50+00:00",
+   "seen": "2026-11-19T12:43:29+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "Morning Rundown covers takeaways from the Trump-Xi-Putin summit and GTA VI launches receiving rave reviews."
+  },
+  {
+   "id": "how to reveal the map fast in gta 6",
+   "title": "How to reveal the map fast in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxT0tUcFVKLUIybjZILWc2REF5bDZDSDBWS3BLeXdMdUhZdnp6TlFxMGEyM0ozQmxVSHBzZVB4VzNFbG85QXhpNms3MkRMcmNjSktUaENsdlNUX1ZiWWFXYzh2Z0piZWxVckFubE44c2I1Z09FWjBV?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-19T12:36:20+00:00",
+   "seen": "2026-11-19T12:43:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to reveal the map quickly in GTA 6."
+  },
+  {
+   "id": "a catholic take on grand theft auto vi",
+   "title": "A Catholic take on Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tMFJaREMxWlB5ZEJjZWs3clNHankwNjZ5Xzk4N2tTLVRXUUNlX2lLc3Q3SGN2c2RQYUNCejFtRTVzVWtkTEtiVFRiS19MSU9DT2JrSkNwRmxUdDAtS0NUdWxMMmZZZkF6QXBDSGRuQWtUb3FzcDNSbTln?oc=5",
+   "outlet": "aleteia.org",
+   "via": "Google News",
+   "published": "2026-11-19T12:34:40+00:00",
+   "seen": "2026-11-19T12:43:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Catholic perspective on Grand Theft Auto VI is presented."
+  },
   {
    "id": "welcome back to vice city gta vi launches after 13 years",
    "title": "Welcome back to Vice City: ‘GTA VI’ launches after 13 years",
@@ -142,6 +207,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "Digital-only GTA 6 is reported to be smashing records, with critics saying the move hurt consumers."
+  },
+  {
+   "id": "as digital only gta 6 smashes records gamestop ceo says move from physical copies has hurt consumers as they should be able to sell or trade",
+   "title": "As digital-only GTA 6 smashes records, GameStop CEO says move from physical copies \"has hurt consumers\" as they \"should be able to sell\" or trade purchases",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWHhmMXJ1UFdTTWg5X0FYcTBCTnYxS3NEbFNrZVlTMFI1WF94RXBKYm9ScjhCTjJ2aUhPY196dUVSb1ExNjRscDBxZmNqVjVxR3ZmTmNlcWtCTlhLWHJRU2JBUnpEa0YyR2hLWlZwNFNhbHZBY3VObHpDbE9GaWl3ZEpGc05qN0pfUk4xT2l5T0RMSS1ZT3dxeG1MRU1WOWFpZUJnNG1QMmNEYThkTHVncmhwZkRrUjFnUC1XVXkxbWp4UUhCVFpQYW5MSkdfZDJKNzF1Q3BpRjYwS2psenhxd2JZUkNReDltcWVkWWVteEhwSHdCQ0RyR0MyX0hWR2VocnV2aTB6MUhJTnJLOTJWMW0tV3hLY0NMVFBUYWY5THZfZ0NGOG9mUg?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-19T12:31:38+00:00",
+   "seen": "2026-11-19T12:43:30+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Digital-only GTA 6 sales are cited as smashing records, with the GameStop CEO criticizing the shift from physical copies."
   },
   {
    "id": "caviar releases gta 6 inspired galaxy z fold 8 ocean drive edition",
@@ -246,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "France 24 calls GTA VI a masterpiece years in the making."
+  },
+  {
+   "id": "grand theft auto vi a masterpiece 13 years in the making press review",
+   "title": "'Grand Theft Auto VI', a 'masterpiece' 13 years in the making - Press Review",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ28zS0dVMlNkblNRTU9NQnFadlJNVjdZWER4NUZGTkZ3TnlTLTBGZFJzd2J3ZXhVdHJ1MGoxc190MkU4OGdPeDB0N3ZLT29HV2FEbFluS0o5YUw2c2NzaUZyTkVCUzhreGFyY1ZITElZNlB4dy1QSi1vQ24tMVlpWGdoQjBHV0FXeFdZZ3ZCS21rRWg3NWtvQTZzOWNzenNmbFdvazJDOXl4MXJkcFB4TW4wdkQ0Zw?oc=5",
+   "outlet": "France 24",
+   "via": "Google News",
+   "published": "2026-11-19T12:22:53+00:00",
+   "seen": "2026-11-19T12:43:29+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "France 24 calls GTA VI a masterpiece after extensive consideration."
   },
   {
    "id": "san antonio gamers count down to grand theft auto vi after 13 year wait",
@@ -677,6 +768,19 @@
    "ai_summary": "An expert warns GTA VI could disrupt sleep and workplaces nationwide."
   },
   {
+   "id": "nikola jokic reveals why he won t be playing gta vi",
+   "title": "Nikola Jokic reveals why he won’t be playing GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmoyTkc4R3JDTjVmOVd0ekhkYVRoRWlEOFhTbThwTk5pMXVDMnc2LVBzTnM3ZjFEZFlncEx6OElqQjJRelhOQmhyenhXZDlPYk8zVXBJUWpBWWxKcVpqRG9RUzFzb1hORmVaYjBPZUdySDExYjVsNmMzanAtR3ZiX3gtTTZJMnFGNHpuTk1JOVU5SE0wVnBLOEZBTlRxS1E?oc=5",
+   "outlet": "Basketball Network",
+   "via": "Google News",
+   "published": "2026-11-19T11:56:02+00:00",
+   "seen": "2026-11-19T12:43:29+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Basketball Network reports why Nikola Jokic won’t be playing GTA VI."
+  },
+  {
    "id": "gamestop ceo blasts all digital releases as gta 6 arrives without a disc",
    "title": "GameStop CEO Blasts All-Digital Releases as GTA 6 Arrives Without a Disc",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mYTlMY3JJTTJud1BUSGxvUlJfVnQxb0J2MWtNQTVicFZHOVRDZVJDcy04VEtrR1AyRVFWYjkzZGVoYXpva2FvaXdzNEdESUxfWXFNMDBsSXA3aTZTS0RzRG5xbExDZ0hZTEtKcW9vMmNxaEZBNXc?oc=5",
@@ -740,6 +844,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story states 43 soldiers will play GTA 6 during an extended weekend as part of a reenlistment deal."
+  },
+  {
+   "id": "gta vi 43 soldiers will play game during extended weekend as part of reenlistment deal wsb tv",
+   "title": "GTA VI: 43 soldiers will play game during ‘extended weekend’ as part of reenlistment deal - WSB-TV",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTWU1NXQ2eDd4MWVENGN2NlY1MlNMT1ZZSnFRaVZjV2lHbUtiaVEwemJ2Y1ZfY3hqV251djJRMlFFLVNSZG00VnBJSUZ2bVRZYV9LdU1vZ2RySkctWE16N29GMWdLU3RhUjVaMjhNb0lrcmIyanlNMDFWQVJSbS1jUG13UkJ0N29Gb2FORVpQSzZUTjVCWkJYMDRITkNWNzVPMGFvZ0YwLWw2ZkVKeEtzMlU3WU90WjB0cjNlMkluUU9neTZZWDY5UGZlY1BWT3l3RmUyMThOa1RBa3BX0gHwAUFVX3lxTE40NDFwNWh0RkZ5TzdaU042UVR1bGJFS3NqSTdDRHlrbUM3ZmRyTlBXazByTlJqbzQtYThKUVpmc1hsSHBzNVNNQy1xUDhFSHlaNHNGYXhqZHJIWUgyeDJ1SWtPYzlrUHVxMWw3QUtURWJJNjRTdXRBcWdhcFlnYzN2U0VEOFJ2S1UzQktvc3BuWHRmdVZZSUY4NzEzYVlKMDZiT3hSaHZBckwwbTZKdWZwaVBJb1ZCRW5TMHFCN2ZfUFk4eE9iNmJGN2JDOEhxYlE5VVlqNndpTHpSWDh6QU1RbS1DWVplbDc3bmNfQWZQLQ?oc=5",
+   "outlet": "WSB-TV",
+   "via": "Google News",
+   "published": "2026-11-19T11:54:14+00:00",
+   "seen": "2026-11-19T12:43:29+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "WSB-TV notes 43 soldiers will play the game during an extended weekend as part of a reenlistment deal."
   },
   {
    "id": "how gta 6 mocks liberals and conservatives",
@@ -2653,6 +2770,19 @@
    "ai_summary": "GTA 6 cheat codes: how to unlock and enter cheats, per The Big Lead."
   },
   {
+   "id": "gta 6 i ve played it and rockstar games has fixed the most annoying part of its older titles",
+   "title": "GTA 6: I've played it and Rockstar Games has fixed the most annoying part of its older titles",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwblpCaGZKbTZTYmp3NXJYSkl5ZjNwQTJEeXJMRExLUTFuZVo2QzA1MnJCcjN3ZE5DSnNid1RTUFpzeHBEV1Y5c1ctU2tsaGg2SldncFUzSW9VdFZTUVdxVU5uUnNuTFd2X2xGd1daOXRoMUcwUjdZUw?oc=5",
+   "outlet": "Indy100",
+   "via": "Google News",
+   "published": "2026-11-19T09:39:22+00:00",
+   "seen": "2026-11-19T12:43:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Indy100 claims they've played GTA 6 and says Rockstar Games fixed the most annoying part of older titles."
+  },
+  {
    "id": "after grand theft auto 6 s launch players are in love with wacky criminality in game social media and animal fatalities",
    "title": "After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities",
    "link": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
@@ -4096,6 +4226,19 @@
    "ai_summary": "'GTA 6 should lead the way for gamers with disabilities' is the campaigner's call."
   },
   {
+   "id": "gta 6 releases november 19 2026 leonida map allegedly leaked here are the facts and new regions in the spotlight",
+   "title": "GTA 6 Releases November 19, 2026, Leonida Map Allegedly Leaked! Here Are the Facts and New Regions in the Spotlight",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wLWIzR2FrelBzbVJzaGJLTExzZnF0SC14ejFvQnVUMUcxY1NoY1AwZloyNjJPSjF5R2VSRUpfSjRKdGI0cXFGdjYtdk52WDM5Wi1xdmFSS2hFYnE5N3VGSW9zZnZtVWtXbHNRYTNnUWgxSG5nZFRRYlhB?oc=5",
+   "outlet": "Aktualita.co",
+   "via": "Google News",
+   "published": "2026-11-19T05:57:51+00:00",
+   "seen": "2026-11-19T12:43:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Aktualita.co reports GTA 6 releases on November 19, 2026 and discusses alleged Leonida map leaks and new regions."
+  },
+  {
    "id": "gta vi didn t break the internet thanks to stupid dns tricks",
    "title": "GTA VI didn’t break the internet, thanks to ‘stupid DNS tricks’",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzFwOTlMN1R3RUZzUUZERzZXV3ZSbmxxRWVvSllpRWtJVm1Hekc1VEFFZk1lVTBqelMyTTl4UW1jUnZLQ0ZVaHpFaEphQm1BdWFtT1p6NUs3Zlk5TG9MXy1oMVBEc3FaTGpVVklFbDA2T3BkekUtclJQWkNMT2Z0dFZxMDFQX1BXU21pX3NSNndmT0hSUlkxMlRodURwRUpGWG92eEd3OUQyWUdSVnVENzRuUzV2QQ?oc=5",
@@ -4965,6 +5108,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Story reports Heat giving the arena a Vice City treatment in honor of GTA VI release."
+  },
+  {
+   "id": "how retailers are cashing in on gta 6 inside the biggest gaming launch in history",
+   "title": "How retailers are cashing in on GTA 6: Inside the biggest gaming launch in history",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR05RQXFQZXJyZWs0clVnMzRla3FnT2FRMHFkbmtqb2ItSXZjTlJnRkE1cExDbC1tSmd5UUZlelctdHpLWENlbHJNLXNKc1Q2TGJMMkZnbzF1dTN3VDRUY3dqZDkzQXN2eWE0NnVIc1BNOTEtMTl4NXV5clkyM3lWX0VSQnJBZEd0OE5sOVRRVFlTVzJqNDdFQWI2QUpyMVVpUEtYbHRPeFRRazBlT0JGQkhfZ3hWaFVqLTZBeXZrRkJ5OUV4LXF5M1EwUnNGWWxzZjVEZEMtcVpGeU1XOHcwMFpUdk9TMi1ka3FSbVdwQ0FoVWVRTjdWbnVuOW9KZw?oc=5",
+   "outlet": "The Australian",
+   "via": "Google News",
+   "published": "2026-11-19T04:14:55+00:00",
+   "seen": "2026-11-19T12:43:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The Australian examines how retailers profit from GTA 6 as the biggest gaming launch in history."
   },
   {
    "id": "gta 6 when do you get to play as lucia",
