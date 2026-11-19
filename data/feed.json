@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:57:05+00:00",
- "started": "2026-11-19T22:56:58+00:00",
+ "updated": "2026-11-19T23:02:05+00:00",
+ "started": "2026-11-19T23:01:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T22:56:59+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T23:02:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T22:56:59+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T23:02:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T22:56:59+00:00"
+   "checked": "2026-11-19T23:02:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T22:57:00+00:00"
+   "checked": "2026-11-19T23:02:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T22:57:00+00:00"
+   "checked": "2026-11-19T23:02:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T22:57:00+00:00"
+   "checked": "2026-11-19T23:02:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 24,
-   "checked": "2026-11-19T22:57:00+00:00"
+   "hits": 23,
+   "checked": "2026-11-19T23:02:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T22:57:00+00:00"
+   "checked": "2026-11-19T23:02:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T22:57:01+00:00"
+   "checked": "2026-11-19T23:02:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T22:57:01+00:00"
+   "checked": "2026-11-19T23:02:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T22:57:02+00:00"
+   "checked": "2026-11-19T23:02:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T22:57:02+00:00"
+   "checked": "2026-11-19T23:02:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T22:57:02+00:00"
+   "checked": "2026-11-19T23:02:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T22:57:02+00:00"
+   "checked": "2026-11-19T23:02:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "can t rush greatness gamers local game store react to gta vi release",
+   "title": "'Can't rush greatness': Gamers, local game store react to GTA VI release",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3NzaUl4XzYwdFJYU2Q5dVZvMnVwMGJERm5WVHN4R3BVbXZqeEF0QmtvcWtZa3hDalNVZzdIS21CRjZQTk53eU9Ba29yaTF0bWxPWVhBVUYxT1Bzb3MwMEd4bC1TeUNKdHo1aDJkeFVoZGpwdWo2LWhyUndFcDVHNTFBelVYbk55QldsN19CZUhsbmNGVUk1bnlXZkl0Zmtt?oc=5",
+   "outlet": "KGAN",
+   "via": "Google News",
+   "published": "2026-11-19T22:58:29+00:00",
+   "seen": "2026-11-19T23:02:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gamers and a local game store react to the GTA VI release."
+  },
+  {
+   "id": "postcards from grand theft auto vi",
+   "title": "Postcards From Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSm1EQWVMMUlUWWhRUGN5MjV4bHJvZWZUdDlUWE5WOGRvdVJhcGRlcENoYVFFLTdPMi1DM0IwaDVFRi1rVHdoMW9wcTNRUTFPcjZJUkNkVnBFZXJWaDczQlR6aDhicjkyaDBMUl9wMmNELXRIaGQwOXBOWm01cXdHS3RB?oc=5",
+   "outlet": "The Atlantic",
+   "via": "Google News",
+   "published": "2026-11-19T22:56:38+00:00",
+   "seen": "2026-11-19T23:02:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Postcards From Grand Theft Auto VI."
+  },
+  {
+   "id": "jason isn t that great asmongold criticises gta 6 character while rating game 9 10",
+   "title": "‘Jason isn’t that great’: Asmongold criticises GTA 6 character while rating game 9/10",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaWFkTGhxRktZNXRIQldVb3NEaVRXZVV1Nms5TWNTUjRPeGZZX2p0Mmw1b1BnMm5reE5UOHFfTHRoMFFPVjFRalFFdDdPbjYxSWpzUTlmeUVpME8zTUJUMFcwZ2k2SWJGWENwZnNYS3kzakNlWVBkTmRrS1o5bGIzcEo4eEI4ZXBSc2huQ2tIYy1tQjBpWXluX2JBSHB1Q0ZSdWtLX2ltenNScmpOeFNTcmtGSGQ0MVNPSnp6M1g5VUhVMExWZnRmZ2MtczNaaFB5Y2pENjdwLTkzTWg2a3JzYXpiaVctUjRPMDJpRDVLUFFmcFpx0gH6AUFVX3lxTE9sTXcwdUZqNHBBaElEdk5Jbk9GaHlYRXdUbjM2WmZfUmk5dXpqMEp5MERDdnpVRFRJUWZfUnFCZDctVzdXTWpnVXBBNlp4VXZ3WkdUSjNpVWktOXpqcU5VY0tmcVhWZVhKdUhBX2hCejk2dFpfWnZHNUZKV0hYd1lIT2NMSmZCNnRkcUQ1cnROeFJMWUk5VTZxc25jNDBsVFdwSVZXLWlOcDEzRTJmcHg0azFSaU1SRlZaLTZWUFBlUFd1UVdaaHRBME9qQnBhcGxTZk05bGRVcmZRLTE0Rm81anh6MFR6VGIxa1pzQ0FGV0NCcHVWeGkzZGc?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-19T22:55:00+00:00",
+   "seen": "2026-11-19T23:02:01+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "Asmongold criticizes a GTA 6 character while rating the game nine out of ten."
+  },
   {
    "id": "gta vi gives maine customers another reason to shop local",
    "title": "GTA VI gives Maine customers another reason to shop local",
