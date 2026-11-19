@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:07:07+00:00",
- "started": "2026-11-19T23:06:59+00:00",
+ "updated": "2026-11-19T23:12:08+00:00",
+ "started": "2026-11-19T23:12:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,180 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T23:06:59+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T23:12:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T23:07:00+00:00"
+   "checked": "2026-11-19T23:12:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T23:07:01+00:00"
+   "checked": "2026-11-19T23:12:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T23:07:01+00:00"
+   "checked": "2026-11-19T23:12:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T23:07:01+00:00"
+   "checked": "2026-11-19T23:12:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T23:07:01+00:00"
+   "checked": "2026-11-19T23:12:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-19T23:07:02+00:00"
+   "checked": "2026-11-19T23:12:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T23:07:02+00:00"
+   "checked": "2026-11-19T23:12:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T23:07:03+00:00"
+   "checked": "2026-11-19T23:12:04+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T23:07:03+00:00"
+   "checked": "2026-11-19T23:12:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T23:07:04+00:00"
+   "checked": "2026-11-19T23:12:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T23:07:04+00:00"
+   "checked": "2026-11-19T23:12:05+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T23:07:04+00:00"
+   "checked": "2026-11-19T23:12:05+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T23:07:04+00:00"
+   "checked": "2026-11-19T23:12:05+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 songs you ll hear cruising around vice city",
+   "title": "GTA 6 songs you'll hear cruising around Vice City",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JSDVFUlp6dU1tRmpTZjZsZmV6UWRFNElzRkNjVWl0WF83emRTQy1XSTM5ajJCZTNENFdveER2cFlBbUdsWTBfdG1DWXhYejFnN2plaEUwdFdxa2dkM29QbXczNGlyQUtWY3lIOThmZw?oc=5",
+   "outlet": "CBS News",
+   "via": "Google News",
+   "published": "2026-11-19T23:11:14+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on songs you’ll hear while driving around Vice City in GTA 6."
+  },
+  {
+   "id": "it sure is interesting watching gta vi become the first grand theft auto game to be released into a collapsed information ecosystem",
+   "title": "It Sure Is Interesting Watching GTA VI Become The First Grand Theft Auto Game To Be Released Into A Collapsed Information Ecosystem",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2cjUwckx0d1VOR2NKMkhYUWNEVkluNUEwemhOSklUeW1TalEzWEFydHczdnhfTFdUd09DZGpPbEh4NHB3M2MxMTVud3JCd3pvSV9qV3FMcmdjdlZ2X25fMU8xUnJQYkVFWllj?oc=5",
+   "outlet": "Aftermath",
+   "via": "Google News",
+   "published": "2026-11-19T23:08:36+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes GTA VI is the first Grand Theft Auto game released into a collapsed information ecosystem."
+  },
+  {
+   "id": "doja cat really wanted that grand theft auto vi cameo",
+   "title": "Doja Cat Really Wanted That ‘Grand Theft Auto VI’ Cameo",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lSGlvZE9KNlJSbndsZzgtRkVnYzJhQUJNRkdRRDdsZDVZd2VISWl3LWJfU1BqbGpHSDRBZWNjS3BkMHJmemZ0VFNfbnl6YUZBMW5TazlOSDlBd3ZoWHY0UDBnTmc4YVZXRWc1eG9sczl3WndXakRFTUd3?oc=5",
+   "outlet": "Vulture",
+   "via": "Google News",
+   "published": "2026-11-19T23:08:34+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states Doja Cat wanted a cameo in Grand Theft Auto VI."
+  },
+  {
+   "id": "did you take the day off to play gta vi tell us all about it chicago sun times",
+   "title": "Did you take the day off to play GTA VI? Tell us all about it. - Chicago Sun-Times",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUJKVXFMTEtyVEo0b3FYUG5meTN5eWh1TlEtR3VsQzQ3eW1BSW5MY2F4YkktYmV5ay1CcjZHdUJFcE0tQ28yc3hXREU5aks0UUthNkR1cHFvaHZTM0kyZVBMRFJWcUJlSGJWbm5kRk03bl9KOGliQlVnSTJZNzFWWUtDN2xrZ1gyN2hmUE1CWXBibmxaSWFfd0NMUmdaSXB6RDZFQTBMQnFYOVVS?oc=5",
+   "outlet": "Chicago Sun-Times",
+   "via": "Google News",
+   "published": "2026-11-19T23:07:00+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks readers if they took the day off to play GTA VI and invites responses."
+  },
+  {
+   "id": "gta 6 release thirteen years and 1 billion in the making a euphoric moment",
+   "title": "GTA 6 Release, thirteen years and $1 billion in the making: 'A euphoric moment'",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNTFxTzA4dFQ1SGdCazBlTFJyOXF5WjFWal9DZE45MEF0UW5WNHlOc3huZTk5a19hakF1c2ZBQmYzYXQ1UzR4Y1FYTU1pN0Z5TlExNC1BakoyMTN2WWtlckd1a1BnQVBOb3V6Q2VrdFBwX2NiZ2l3RHV5U3Z2VnE5M2VOc1duVnp1UnlRcTBPTERWcU56MlZMU0Jmek5jU0g3bkd2eWF3Umh3Y3BZQTlKMjdxM0tDUQ?oc=5",
+   "outlet": "WWMT",
+   "via": "Google News",
+   "published": "2026-11-19T23:06:44+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story frames GTA 6 release as thirteen years and a billion dollars in the making, a euphoric moment."
+  },
+  {
+   "id": "gta 6 officially surpasses christopher nolan s the odyssey box office in 1 day",
+   "title": "GTA 6 Officially Surpasses Christopher Nolan’s The Odyssey Box-Office in 1 Day",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aSmIzbWthMGVldDI2bTI1OHNQV3hzTGFpT1FVcjhXRW96SWJLc3N1eFBUM3RXNjlRemM4UGNYV2NmaHpzMEh4elNvTXNZcEpDY0NzeHBLc01MaXhjdnF2ZFJTRDZWMUxaQldob0w5VUxuZw?oc=5",
+   "outlet": "FandomWire",
+   "via": "Google News",
+   "published": "2026-11-19T23:02:05+00:00",
+   "seen": "2026-11-19T23:12:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 officially surpassed Christopher Nolan’s The Odyssey box-office in one day."
+  },
   {
    "id": "how to make money in gta 6",
    "title": "How to make money in GTA 6",
@@ -142,6 +220,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes some Alabama gamers are taking time off work due to GTA 6 excitement."
+  },
+  {
+   "id": "how gamers across the nation prepared for the launch of gta 6",
+   "title": "How gamers across the nation prepared for the launch of GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNFFFQU13dTB3TDBUbHgta0NoaDA4Z0JqWjlJcmZRamtlX2hFdVJuVi1XZnZuU0xreFBTR1lKU2hvZnhCa0FmSVp6b0FKOTRIei1TT1JWbWdRVUN5a0ZZQm1qRk9BR3BEM1AxaE1pdDFCeS1qQjA3Y01DTVQ0ZllraFg4ZUpWdXhObzB6M1RhQ3k3dlZZZjdVQV9oS3RfY2t5UUVQWVNWVk9CWm92MUhXM0xva2NvTjdzb2lrQlRxZkNQbWU1NFJkaXRyRGFvXzZfWDYzNE9TdjZZTGZL?oc=5",
+   "outlet": "13WMAZ",
+   "via": "Google News",
+   "published": "2026-11-19T23:00:00+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story describes how gamers across the nation prepared for the launch of GTA 6."
+  },
+  {
+   "id": "who is cal hampton in gta 6 jason s friend explained",
+   "title": "Who Is Cal Hampton In GTA 6? Jason's Friend Explained",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiSF9tXzlXUGgxd0RkOVQydFdwREdoU0t3bzFIQmx5Mk43VUZkUWYwYnU2QzlwaDZnTkNBcGhxZDBJVlpVVjRtRHc3ckw0YkRZanRibTMxSzFSUXdzTjRlNlNxekZHbkxQenhsTzhfYjFQTDRk?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-19T23:00:00+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains who Cal Hampton is in GTA 6 as Jason's friend."
   },
   {
    "id": "massachusetts police warn gamers gta vi chaos isn t real life keep the grand theft virtual",
@@ -220,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI is cited as giving Maine customers another reason to shop local."
+  },
+  {
+   "id": "gta vi launch day sees wave of pto requests",
+   "title": "\"GTA VI\" launch day sees wave of PTO requests",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDRZcWR4eXRSc3pEX0RMcFZnSXktXzZacXptRWxCcUlnTEhsUUZvVnZvbTdoQlRGYnNCczI4Q1J0QTBoc1gydzhJaXJIZVA1MWNJcFpTTDFfcV9KNFVHazVBZzl3Q2RTaDRNUklySjlQcUVFckIwdzRpWUE5eU1DdXFUQ3BkWDVoNzhGUTZ1OW16dG03VTV4ZzVUeGRGLXJFZnBZdHVaSDA?oc=5",
+   "outlet": "CNN",
+   "via": "Google News",
+   "published": "2026-11-19T22:52:19+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes a wave of PTO requests on GTA VI launch day."
   },
   {
    "id": "gta 6 s viral npc may actually have a dark secret",
@@ -350,6 +467,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a GTA 6 Moses Mission Walkthrough and mentions getting a new whip with Moses in GTA 6."
+  },
+  {
+   "id": "gta 6 s best music cameos and easter eggs from bad bunny to a possible juice wrld tribute",
+   "title": "’GTA 6’s' Best Music Cameos and Easter Eggs, From Bad Bunny to a Possible Juice WRLD Tribute",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUtTNDVTWGRRRWdpVTFFdURqdXJLLTdlUUlLTncxTl9lVUZnSmwydV9mOXhFSzhxMGRzd2RYTGdCem9Zd3NrVzB1T3lqVFdBZTk2QmFtYkw0NWlYLWF0UkNTOTBhTUx1MXd5M2RxYUhHUmZSZ2hXZ0dTeVB4N2xwNFY0elRGUQ?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-19T22:38:10+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story highlights GTA 6’s best music cameos and Easter eggs, from Bad Bunny to a Juice WRLD tribute."
   },
   {
    "id": "gta 6 is finally here after 13 years was it worth the wait",
@@ -1091,6 +1221,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece states gamers worldwide celebrate the release of Grand Theft Auto VI."
+  },
+  {
+   "id": "cnn calls gta 6 the most intense version of pac man",
+   "title": "CNN Calls GTA 6 The 'Most Intense Version Of Pac-Man'",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGRUZ05Vclg1RTRIc1pFOUlNT29SNVJHSHRyaWVrdUdVcDg2Q29BMGFuX1BvQVhGU3dmNmE0bENfVEdnZ2ZnQVpkQnlYb29lQWpHbWVySXR4UmJuRENhWEc2d1Iyb3hyM3NQT01oUC1PajZpSmdVOF9DNzhZV1Y2YllHS0tjWU9C?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-19T21:36:58+00:00",
+   "seen": "2026-11-19T23:12:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports CNN calling GTA 6 the most intense version of Pac-Man."
   },
   {
    "id": "gta 6 is finally here so when can you play online with friends",
@@ -12518,6 +12661,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "GTA 6 earns eight award nominations and a 99 Metacritic score upon release."
+  },
+  {
+   "id": "gta 6 leads the game awards 2026 with eight nominations before it even launches",
+   "title": "GTA 6 Leads The Game Awards 2026 With Eight Nominations Before It Even Launches",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CZ0JIUW1uN2Nvd1kzZjdHMUVidHdCY1hlWEdRSHVuMWU4dmxCRlpFY2JudEFrS1RrTnFDa3lSSWVKSE9sUDZ2ckVlNHY2dW55UlFueDV4a0pVSTFnTGVqQ3lZb0g0UWFSRlZiZVZTaw?oc=5",
+   "outlet": "GameDaily",
+   "via": "Google News",
+   "published": "2026-11-19T09:17:18+00:00",
+   "seen": "2026-11-19T23:12:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states GTA 6 leads Game Awards 2026 with eight nominations before launch."
   },
   {
    "id": "gta vi reaches gaming s highest peak with a 99 metacritic score",
