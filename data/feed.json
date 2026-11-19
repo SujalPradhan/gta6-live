@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:29:51+00:00",
- "started": "2026-11-19T16:29:41+00:00",
+ "updated": "2026-11-19T16:34:51+00:00",
+ "started": "2026-11-19T16:34:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:29:42+00:00"
+   "checked": "2026-11-19T16:34:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:29:43+00:00"
+   "checked": "2026-11-19T16:34:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T16:29:43+00:00"
+   "checked": "2026-11-19T16:34:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:29:44+00:00"
+   "checked": "2026-11-19T16:34:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:29:44+00:00"
+   "checked": "2026-11-19T16:34:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T16:29:44+00:00"
+   "checked": "2026-11-19T16:34:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 29,
-   "checked": "2026-11-19T16:29:45+00:00"
+   "checked": "2026-11-19T16:34:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T16:29:45+00:00"
+   "checked": "2026-11-19T16:34:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T16:29:45+00:00"
+   "checked": "2026-11-19T16:34:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T16:29:46+00:00"
+   "checked": "2026-11-19T16:34:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T16:29:46+00:00"
+   "checked": "2026-11-19T16:34:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T16:29:47+00:00"
+   "checked": "2026-11-19T16:34:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T16:29:47+00:00"
+   "checked": "2026-11-19T16:34:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T16:29:47+00:00"
+   "checked": "2026-11-19T16:34:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "japan censors gta 6 s violence and nudity including jason in the shower",
+   "title": "Japan censors GTA 6’s violence and nudity, including Jason in the shower",
+   "link": "https://www.videogameschronicle.com/news/japan-censors-gta-6s-violence-and-nudity-including-jason-in-the-shower/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T16:32:45+00:00",
+   "seen": "2026-11-19T16:34:44+00:00",
+   "summary": "In Japan, Jason sports a speedo whenever he's in the shower",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Japan censors GTA 6’s violence and nudity, including Jason in the shower."
+  },
+  {
+   "id": "i am obsessed with gta 6 jason s literary choices",
+   "title": "I Am Obsessed With GTA 6 Jason’s Literary Choices",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qYjlUZ3hJd3BXNFBORk16VDFoNXhPTXMwbk1WQkRhUERFSmtzeWllUjc0ZU1rZ0dpTW9DZjF2VWhNS3RCWFRqZkZaQ080UmxpeGFlZ2h5bm1ab0xQUWJDWGRiY1JNQXQ5d0lUQw?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-19T16:30:59+00:00",
+   "seen": "2026-11-19T16:34:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on obsession with GTA 6 Jason’s literary choices."
+  },
+  {
+   "id": "is grand theft auto vi what the music business needed most",
+   "title": "Is ‘Grand Theft Auto VI’ What The Music Business Needed Most?",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNG1fNUMtWjdXUFVibXR2MWdBbFhJaUJYXy01SHF5WDhIS2ZrNmVsZnRVSUtvczgwU1A1eS1SUnJXNDQ4aEdmQVZjejRSZmk4RnZkcF9zX2lhWXV3djFVS3dFcjFKTVMzeUVCRld6SC1fVnUwUGVtRUhBNmlNWDNieUgzR1Rudw?oc=5",
+   "outlet": "Defector",
+   "via": "Google News",
+   "published": "2026-11-19T16:29:00+00:00",
+   "seen": "2026-11-19T16:34:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether Grand Theft Auto VI is what the music business needed most."
+  },
+  {
+   "id": "mayhem car chases grand theft auto vi debuts to rave reviews",
+   "title": "Mayhem! Car Chases! ‘Grand Theft Auto VI’ Debuts to Rave Reviews",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ19ZMnZBZWdfb2NmS1drODFOZEdtUHM4TEF6MXBnLTRxR0JJbFdVWDRoODJxZXY3Qm1IM004a2lGdENyTmJuc2hMMHZoWldYWkcxXzMyQzlIeUxuYUJZLXV1dmRDQjlTREZLeGpQU0VEMEg4Mm9rYzFrSHhqUHlESS1BSTUxUjRLZW5kbGlTV00?oc=5",
+   "outlet": "Autoweek",
+   "via": "Google News",
+   "published": "2026-11-19T16:26:00+00:00",
+   "seen": "2026-11-19T16:34:42+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story notes GTA VI debuts to rave reviews, with mayhem and car chases highlighted."
+  },
   {
    "id": "grand theft auto 6 is a masterpiece witcher 4 and cyberpunk 2 boss says to rockstar",
    "title": "Grand Theft Auto 6 is a \"masterpiece,\" Witcher 4 and Cyberpunk 2 boss says to Rockstar",
