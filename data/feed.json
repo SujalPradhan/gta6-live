@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:06:03+00:00",
- "started": "2026-11-19T20:05:55+00:00",
+ "updated": "2026-11-19T20:11:05+00:00",
+ "started": "2026-11-19T20:10:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T20:05:55+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T20:10:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T20:05:56+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T20:10:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T20:05:56+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T20:10:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T20:05:56+00:00"
+   "checked": "2026-11-19T20:10:59+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T20:05:57+00:00"
+   "checked": "2026-11-19T20:11:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T20:05:57+00:00"
+   "checked": "2026-11-19T20:11:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T20:05:57+00:00"
+   "checked": "2026-11-19T20:11:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T20:05:57+00:00"
+   "checked": "2026-11-19T20:11:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T20:05:57+00:00"
+   "checked": "2026-11-19T20:11:01+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T20:05:58+00:00"
+   "checked": "2026-11-19T20:11:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T20:05:58+00:00"
+   "checked": "2026-11-19T20:11:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T20:05:58+00:00"
+   "checked": "2026-11-19T20:11:02+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T20:05:58+00:00"
+   "checked": "2026-11-19T20:11:02+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T20:05:58+00:00"
+   "checked": "2026-11-19T20:11:02+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI releases to the public."
+  },
+  {
+   "id": "gta vi adin ross kai cenat ishowspeed and more react to first time playing long awaited game",
+   "title": "‘GTA VI’: Adin Ross, Kai Cenat, Ishowspeed, and More React to First Time Playing Long-Awaited Game",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWdTRFN0Vk9hNGRBTHNMVUVzb1lrb1d1dVZueU5tZjluSlJiQU1sTjEtSm5GQXladWluR05oSW0xR3UzaGViLVc5VWxXbHFVeFFQZk9zanQ3ek5DUkZ3bVJKMlhYMmNEb2RNNDV6aVFHalJTQXhLY3d1alNraFdKS2JmOXdTQk5pd0wwZXBLMGEzSTBYbWhOUGpnSTN5RWhWUTA0RXRxelZsdw?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-19T19:56:32+00:00",
+   "seen": "2026-11-19T20:10:58+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports reactions from Adin Ross, Kai Cenat, Ishowspeed, and others to the first time playing the long-awaited GTA VI."
   },
   {
    "id": "your gta 6 car is your red dead 2 horse and it s perfect",
@@ -495,6 +508,19 @@
    "ai_summary": "KETV notes an Iowa high school will not excuse students for GTA VI release absences."
   },
   {
+   "id": "gta 6 is here see the southwest florida locations inspiring the game",
+   "title": "GTA 6 is here: See the Southwest Florida locations inspiring the game",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSVFocWprTlB1Q2wyQ0hhR3J0LUJGVzhCX2w0QmNmQ3VUekxrZzBzZ3pTOU9HWHVqZ29fSWRRdUdhX3dzeU5Nd3FyUlpWa1A0RUg4ck5tVmlOdkZNSlRtTEJqbDJsTTcya2hONEZOLWk0XzlPTjYzaW5WX3hLYWRNdDJISUNFdEJ1TGViQXpod3FhZzBybzFUS2dMN0wwc0ttRFlNZ3VhaGJrdnF0Q3B5OExlMFAyNjMtMG1RWmJTX3M0NWdMT0tmb2ZRUW5ja2xkSk4wSWlzX3hWbTFqZWJGM0V3?oc=5",
+   "outlet": "WINK News",
+   "via": "Google News",
+   "published": "2026-11-19T19:19:00+00:00",
+   "seen": "2026-11-19T20:10:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses the Southwest Florida locations that inspired GTA 6, as shown by the report."
+  },
+  {
    "id": "it actually does get bleaker than the us army offering gta vi in exchange for several years of service because 43 soldiers ended up doing it",
    "title": "It Actually Does Get Bleaker Than The US Army Offering GTA VI In Exchange For Several Years Of Service, Because 43 Soldiers Ended Up Doing It",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOemppZlRRODVqaTdFQnpacExIY3RkTEY3b1ljU0M3SzVRMWtlLXJhTlN6QkwzVHI5TVFLMElQdXgzMC1lM1dXczdqdks5VGJBak5uMEYzNHd1YUlsRDViVnpoNTlYTjVaOWlPaDJpRDlfNnJFa1VZUjEzVQ?oc=5",
@@ -649,6 +675,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Story notes GTA 6 includes a few cheeky Dexter Easter Eggs."
+  },
+  {
+   "id": "gta 6 broke the open world formula it s about time gtfm",
+   "title": "GTA 6 Broke the Open World Formula… It’s About Time | GTFM",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVN3Um5CSXVKbWZPN0tMVW9fdzJURUhEdHM0V2pJMUxOR3RrWTNxVjVBd3lUbC12TWFFS2ozTllvWlRqeHBCcnBvQ2pBNFRJc21vU294Q3Zpc2RYa0dVcDB5QjhudGVKbWcyUkhZSV93RG9IZmdiRmZib3JvTlZPWmY4YnhXOXRMVjc3MVo2YmVPbDQ5NkswRWdqR1U2TkhjeDlHbFV4QQ?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-19T19:00:00+00:00",
+   "seen": "2026-11-19T20:10:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The article claims GTA 6 broke the open-world formula and that it was about time, per the outlet."
   },
   {
    "id": "gta 6 all strip club locations",
@@ -1338,6 +1377,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI fans in Seattle reportedly take days off work."
+  },
+  {
+   "id": "doja cat is crashing out about her music not being in gta 6 i m so f ckin bitter",
+   "title": "Doja Cat Is Crashing Out About Her Music Not Being In GTA 6 : ‘I’m So F*ckin Bitter’",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVRqYjVHaHN3S1puNlVTTzhUVVI0ZE1YbW9QcFNIZVlraTctTzJ3TGZONzM4bENHUy1Ud1NFUXFwem1KaGJJUDRuZmp4ZUctZ01Xdnc3RGlESjRDR0xuQ0JNV0lvQkxJaVBhX0k4ZW9iNFZCUzExSS1rUGh1QzVQWUkxM0pCUQ?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-19T18:00:57+00:00",
+   "seen": "2026-11-19T20:10:58+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "Doja Cat expresses bitterness that her music is not in GTA 6."
   },
   {
    "id": "how to game share gta 6 and split the cost with a friend",
@@ -3639,6 +3691,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is described as a car lovers paradise."
+  },
+  {
+   "id": "the big data behind gta 6 s blockbuster launch",
+   "title": "The big data behind GTA 6's blockbuster launch",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyNXl2a1lWeklpOGEzT1JkdzZEeG5xQ0hQX0RBUFdxSzhmMDBmeVY5VmlUUnMxYXA2MjBNNWlCcDhFWlRrcl9qYU95RnJOSVFoVUpMZVN2WGcwbGtlemJON05jOTBIVVA0cl9jc2RrOFNCVjMzdDJSQjRaQ0VmWkU?oc=5",
+   "outlet": "PocketGamer.biz",
+   "via": "Google News",
+   "published": "2026-11-19T15:49:00+00:00",
+   "seen": "2026-11-19T20:10:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story analyzes the big data behind GTA 6's blockbuster launch."
   },
   {
    "id": "gta vi players free bear get mauled in satirical scene",
