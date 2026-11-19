@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:36:04+00:00",
- "started": "2026-11-19T19:35:56+00:00",
+ "updated": "2026-11-19T19:40:55+00:00",
+ "started": "2026-11-19T19:40:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T19:35:57+00:00"
+   "checked": "2026-11-19T19:40:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T19:35:57+00:00"
+   "checked": "2026-11-19T19:40:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-19T19:35:57+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T19:40:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:35:58+00:00"
+   "checked": "2026-11-19T19:40:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:35:58+00:00"
+   "checked": "2026-11-19T19:40:48+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T19:35:58+00:00"
+   "checked": "2026-11-19T19:40:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T19:35:58+00:00"
+   "checked": "2026-11-19T19:40:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T19:35:58+00:00"
+   "checked": "2026-11-19T19:40:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T19:35:58+00:00"
+   "checked": "2026-11-19T19:40:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T19:35:59+00:00"
+   "checked": "2026-11-19T19:40:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T19:35:59+00:00"
+   "checked": "2026-11-19T19:40:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T19:35:59+00:00"
+   "checked": "2026-11-19T19:40:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T19:35:59+00:00"
+   "checked": "2026-11-19T19:40:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T19:35:59+00:00"
+   "checked": "2026-11-19T19:40:51+00:00"
   }
  },
  "items": [
@@ -142,6 +142,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story presents GTA 6 as a good teacher for starting effective lifting."
+  },
+  {
+   "id": "relying only on gta 6 s autosave could cost you hours of progress",
+   "title": "Relying Only On GTA 6's Autosave Could Cost You Hours Of Progress",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80NTVzblE2dldiYzFLbTBJUXYxYnE2a05mWHR3UVFnbUNfMVNjNzIwWENTUmlMZk9fTDhOZGQxM0p1N1ZMWGdJNm14X2R1MmdlRkxWRkdval9KZ3N6WGZDalZIYlNFVUNqWTFhM2RaMA?oc=5",
+   "outlet": "BGR",
+   "via": "Google News",
+   "published": "2026-11-19T19:26:15+00:00",
+   "seen": "2026-11-19T19:40:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Relying only on GTA 6's autosave could cost hours of progress."
+  },
+  {
+   "id": "doja cat blasts rockstar games for leaving her music out of gta 6 i m so f kin bitter",
+   "title": "Doja Cat Blasts Rockstar Games for Leaving Her Music Out of ‘GTA 6’: ‘I’m So F–kin Bitter’",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONFdob1JZdEJ2Y2JEU1MzenhzbDBoNDNtdnl2S1ZVTVFaeGJnaThGWklMb3BDcHZmeWhGa1B3Qm9KbjVHaWtxM2ZpNElQYm15NVVzTHNkVHhuY1VwXzROT2VQaW9wUXl1LXlyOTVvUFB1LUhUaENMYWRlMENTcnkyUXlIcGdKMURwVXpUV3NlX3hBTE9PbkZVVjlSYlk?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-19T19:25:25+00:00",
+   "seen": "2026-11-19T19:40:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Doja Cat criticizes Rockstar Games for leaving her music out of GTA 6."
   },
   {
    "id": "erik spoelstra gives heat the green lite to play gta vi on off day like it mattered either way",
@@ -207,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "CNN compares GTA VI’s Vice City to real Florida in the report."
+  },
+  {
+   "id": "gta 6 players should change this one setting before anything else",
+   "title": "GTA 6 Players Should Change This One Setting Before Anything Else",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpbzVHY3dfT2hmdzY2dEhYT2doSFdHNUk1WTI4WHFDN0xwLUhHallRanRCX2NSanR4VC1DN1V0R3l6S1ZGLUVJd0FnRVRIcWtLdmZmSHhzV2RBMmIzVHpZWkN5NWo?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T19:20:17+00:00",
+   "seen": "2026-11-19T19:40:47+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players should change one setting before anything else."
   },
   {
    "id": "iowa high school warns students missing class for gta vi release won t be excused",
@@ -376,6 +415,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story provides all strip club locations in GTA 6."
+  },
+  {
+   "id": "gta 6 credits name jason and lucia actors",
+   "title": "GTA 6 Credits Name Jason and Lucia Actors",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUcUxURE1zR2xweDRNZkV6MFpWSzAyTDdOYlRoYnR5M0cxWnZjVEtmZzlOMXJmeDMzVVpueHZHcnNWWVozckpqZ0ZvV3FoNllkRHhVUHJEbmRKRDBNdEQtN3Y2cG0tSGdVeWow?oc=5",
+   "outlet": "ShiftDelete.Net",
+   "via": "Google News",
+   "published": "2026-11-19T18:54:53+00:00",
+   "seen": "2026-11-19T19:40:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 credits name Jason and Lucia as actors."
   },
   {
    "id": "grand theft auto vi finally arrives",
@@ -831,6 +883,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The headline reports locals skip work to play GTA VI."
+  },
+  {
+   "id": "did you know gta 6 has a built in photo studio for snapping your gameplay and even learning photo skills i am completely addicted",
+   "title": "Did you know GTA 6 has a built-in Photo Studio for snapping your gameplay and even learning photo skills? I am COMPLETELY addicted",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOUVpRTl2RmNaU01vWnpMUWw5U1NZQlR4c3Q1UmtyOVFRX2pmamxWbWFhXzR4d0d3ZVV3UWlDa2NPWmE0UFN3cHBTOFVPVEVBVV8tYzhiTWdBUW1fcEFUX3hmYTlWYmU5S2J5SVFOV2Z2TzZxN1FHT2lTcy1yLXpzYTZQOFItQUwzYU1Sa3JpX0d6TmhNa0ZZR2hmbG5venJLQ2FBVWpyU0FEMmxHakFVSlhsVF85WVdJY1FlNXllS0tvSnZKVGd5dFpPSGxYU04xeXBQSDFtTi1FaWlYekt6QXdBMA?oc=5",
+   "outlet": "Amateur Photographer",
+   "via": "Google News",
+   "published": "2026-11-19T18:16:09+00:00",
+   "seen": "2026-11-19T19:40:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 has a built-in Photo Studio for snapping gameplay and learning photo skills."
   },
   {
    "id": "78 minutes after the ending alone gta 6 credits by the numbers",
@@ -4146,6 +4211,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that the actors for Jason and Lucia confirm they are in GTA 6."
+  },
+  {
+   "id": "rockstar says gta 6 s map has room for future story content",
+   "title": "Rockstar Says GTA 6's Map Has Room for Future Story Content",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WeUtVZHhqN2wyYWFkOEdOMlo5S1YwblVVekRVSENXa214OTNRSHprTE1JWGprLWhDenV2MENJemtTb1FpMnFoR2Fsb0lDR0FlYjdCVmpud08zQmxEankzWjVqaEswS2NhMFo0eQ?oc=5",
+   "outlet": "ShiftDelete.Net",
+   "via": "Google News",
+   "published": "2026-11-19T14:56:45+00:00",
+   "seen": "2026-11-19T19:40:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar says GTA 6's map has room for future story content."
   },
   {
    "id": "aptopix grand theft auto vi",
@@ -8735,6 +8813,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story provides a map guide covering all six Leonida regions, Vice City, and map size."
+  },
+  {
+   "id": "gta 6 pc release reportedly set for early 2027",
+   "title": "GTA 6 PC Release Reportedly Set for Early 2027",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CRndfR1Y0amtndUp3bVNnWVAxYWJ3Qk9JWGc1Zl8tNmRSYlpORE55LWtmWDkxWW5rSUNqY1p5eXY1eU5TcXYwMTJhYVc5Mm14cXFrRFJfMS16cmRSSU00QkdHSGI?oc=5",
+   "outlet": "ShiftDelete.Net",
+   "via": "Google News",
+   "published": "2026-11-19T09:51:52+00:00",
+   "seen": "2026-11-19T19:40:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 PC release reportedly set for early 2027."
   },
   {
    "id": "apec summit gta vi launch wine parade today s top no comment videos from around the world",
@@ -13766,6 +13857,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Player reviews the GTA 6 main story in an AMA-style post."
+  },
+  {
+   "id": "gta 6 reviews is it the best game of all time",
+   "title": "GTA 6 Reviews: Is It the Best Game of All Time?",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GVEZHYnhNR1BhME10M3NIbG40RDFEd1RwbFA4U2t1YkVPM2V4Mlcwemp4LVZMRzFTblA0YUcyWlpKLV9Kdlp0TEFEcjJSQm5qWWxzbjljSjRaQlk4U1FYdmtKTFJWUEpwUDhB?oc=5",
+   "outlet": "Covers.com",
+   "via": "Google News",
+   "published": "2026-11-18T20:20:00+00:00",
+   "seen": "2026-11-19T19:40:48+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "GTA 6 reviews discuss whether it is the best game of all time."
   },
   {
    "id": "gta 6 earns record 99 score from critics",
