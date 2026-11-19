@@ -1,109 +1,148 @@
 {
- "updated": "2026-11-19T20:01:05+00:00",
- "started": "2026-11-19T20:01:00+00:00",
+ "updated": "2026-11-19T20:06:03+00:00",
+ "started": "2026-11-19T20:05:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-19T20:01:01+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-19T20:05:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-19T20:01:01+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-19T20:05:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T20:01:01+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T20:05:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T20:01:02+00:00"
+   "checked": "2026-11-19T20:05:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T20:01:02+00:00"
+   "checked": "2026-11-19T20:05:57+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T20:01:02+00:00"
+   "checked": "2026-11-19T20:05:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T20:01:02+00:00"
+   "checked": "2026-11-19T20:05:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T20:01:02+00:00"
+   "checked": "2026-11-19T20:05:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T20:01:02+00:00"
+   "checked": "2026-11-19T20:05:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T20:01:02+00:00"
+   "checked": "2026-11-19T20:05:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T20:01:03+00:00"
+   "checked": "2026-11-19T20:05:58+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T20:01:03+00:00"
+   "checked": "2026-11-19T20:05:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T20:01:03+00:00"
+   "checked": "2026-11-19T20:05:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T20:01:03+00:00"
+   "checked": "2026-11-19T20:05:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 mandy actor reveals her identity amid fan obsession",
+   "title": "GTA 6 Mandy Actor Reveals Her Identity Amid Fan Obsession",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85XzdBN0xqSUlSWDhPaWltRktKRTJtVE9sUHhUQmdpM3dpZHROQ1d2Z2FvZXhUZXZCaFZnMHpLcUZES2ZhTTlocU1ybE9KenQwdVMyNl80elBpWTR4NTV3NmVjR29BYnh2TE5yWXhpREY4Zw?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-19T19:58:44+00:00",
+   "seen": "2026-11-19T20:05:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a Mandy actor for GTA 6 reveals her identity amid fan obsession."
+  },
+  {
+   "id": "grand theft auto vi releases to the public",
+   "title": "‘Grand Theft Auto VI’ releases to the public",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUnJtZ3ViUGphYy1WZU1VcHhxZjJ6dFQxMU9sOTliRzNhelgtNEdjRTRDWS10T2xoOUE1Z09Ya3dSVW9TN21EZGtPY25iX2NEbWV5MkhOdHJBUFZ5akxPMGRkdnRTb1VpbmE3ZGd6VGVGV3ZxTDI2bHhCRzFsd0pzeEVuV1JscHo4ZTg2cE5IVDctR0Vq?oc=5",
+   "outlet": "KYMA",
+   "via": "Google News",
+   "published": "2026-11-19T19:57:21+00:00",
+   "seen": "2026-11-19T20:05:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI releases to the public."
+  },
+  {
+   "id": "your gta 6 car is your red dead 2 horse and it s perfect",
+   "title": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnJjdzVQWmRwNUlxZlM2XzZJcUpKUUlxUzBZdnVoMTczd183QUtacGxSNHRhUVRWYTFyc3h4MUpjdG5IcmozVVZldENPSGZMYXdnVHdOM256ZVdRaGdxc28tQ205TnRMZzJWc2w5ZUttcERwRWUzcWdOOVVCaW84VEFhQi1TYTFDNVFMbFRUcm83NWs1RTg1YUV3amNBczBqcThWaHpn?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-19T19:54:22+00:00",
+   "seen": "2026-11-19T20:05:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that your GTA 6 car is compared to a Red Dead 2 horse and is considered perfect."
+  },
   {
    "id": "gta 6 sales have already surpassed the odyssey s 1 80 billion global run",
    "title": "GTA 6 Sales Have Already Surpassed The Odyssey’s $1.80 Billion Global Run",
@@ -183,6 +222,19 @@
    "ai_summary": "GTA 6 beats The Odyssey at box office with estimated release-day revenue of 1.84 billion, per Mashable India."
   },
   {
+   "id": "gta 6 launch sparks excitement and plans among gamers",
+   "title": "GTA 6 launch sparks excitement and plans among gamers",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd3FydnJkOEhrMVJxSEJDckdxcmFWX2R1Q1AweU9ra0d4N0o1b3ZKTGp1ZExfTGVweE9Ma2UyQWdxRWVmZ0c0Z0ZWbnZmeWszWWZQTTJ2UnQ1MDFEWXJFazVGZTJPLUpxR3l1LWcyN1Vyb2RwSVp4d1JISms5NzN2VllJZGRlMlZlRXZwMk4tbXkwMlhMYUwteWhBOVl6S2xKbVNxZ0k5Q2F0MUdPMUpDVnpURGRHdTNlbDRhaENyeHpMWjM5ZGFMOUc4UkNZR2JzUVlMUjItb1BNZjZKV0E?oc=5",
+   "outlet": "Twin States News",
+   "via": "Google News",
+   "published": "2026-11-19T19:46:00+00:00",
+   "seen": "2026-11-19T20:05:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 launch sparks excitement and planning among gamers."
+  },
+  {
    "id": "grand theft auto vi creates a buzz with florida gamers",
    "title": "Grand Theft Auto VI creates a buzz with Florida gamers",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWRIQ3FIT0x6Rm96cDJ5RkJhUDhnZUU1SHhzV0RuNUZFRFQ2NmFzblBGdmNheUZTSnh6WGtPWWtRTmUwbmxxWWgzRlkwX3pUcjFYWFlKLWVBZ0hwSVQ3Mi14VGNjVDRCblh5UFNNbHlFVUtFeDBoWC1mWEt1UG1ESERtcWpzTlBIWmZldHZtaExvZXJkMVlKZDEwR1FzSDhv?oc=5",
@@ -246,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Athletes are as hyped for Grand Theft Auto VI as others, per ESPN."
+  },
+  {
+   "id": "let s talk about sex in gta 6 baby",
+   "title": "Let’s Talk About Sex In GTA 6 , Baby",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZURVdDFtdTRUTTAxYjM3V2RHRHp4VTdTcjBtaHk5VGVPSGx3bXlkSzR1MlQ2OU5vRUtNdWRSdEtwQjlGakg4cExUYVBBaXdjOXdVMTlQWlk1RkRONk9wVktyMHpaazdlcmFUeEE3Z1RqSWx3Y1VIQU5sVms2RFF2OGRWcFBXdUhXdkl2MUd0UHRSRXZQRGxSaDFxeFptNTY0?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-19T19:40:09+00:00",
+   "seen": "2026-11-19T20:05:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on discussing sex in GTA 6."
   },
   {
    "id": "grand theft auto vi has just hit screens and the los angeles district attorney s office is urging players to keep the theft on screen and of",
@@ -1052,6 +1117,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The Guardian editorial discusses Grand Theft Auto VI and how the game makes players think twice."
+  },
+  {
+   "id": "uw professor available to discuss the release of grand theft auto vi newswise",
+   "title": "UW professor available to discuss the release of Grand Theft Auto VI | Newswise",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXhmQnZ5Nk96Y3luY0RIbXU0R1RKN2g2X3RPempQWU1sNjhYTWsweVhoNEZHTDNKeHY4UnlqV3lsa0pMZUl4YnlLMnlhcHNOZ2JJVXpCeEM2WHozMEJidFZmQmRScGtYa2Fka3ZacGpFN1RQdW80OFJXeVM1VnA1OFNsX3ZGYmxnendad3g4N01pMzJBb2JJNzJRdjVhdTJDTU5uR9IBpAFBVV95cUxPWXhmQnZ5Nk96Y3luY0RIbXU0R1RKN2g2X3RPempQWU1sNjhYTWsweVhoNEZHTDNKeHY4UnlqV3lsa0pMZUl4YnlLMnlhcHNOZ2JJVXpCeEM2WHozMEJidFZmQmRScGtYa2Fka3ZacGpFN1RQdW80OFJXeVM1VnA1OFNsX3ZGYmxnendad3g4N01pMzJBb2JJNzJRdjVhdTJDTU5uRw?oc=5",
+   "outlet": "Newswise",
+   "via": "Google News",
+   "published": "2026-11-19T18:25:00+00:00",
+   "seen": "2026-11-19T20:05:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a university of Wisconsin professor is available to discuss the release of GTA VI."
   },
   {
    "id": "gaming gta vi miami launch",
@@ -3355,6 +3433,19 @@
    "ai_summary": "GTA VI launch attracts attention from Kentucky schools and workplaces."
   },
   {
+   "id": "gta 6 made in bengaluru set in miami",
+   "title": "GTA 6: Made in Bengaluru, set in Miami",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRG0yY1dkN1F0Yzk1QWZMUmJVXzQtdzdObWhpVmszYmZFZm1OcXR6emc0ZzhmYXE5NURqZFh5NXU3cmkySVpabUlhLXJvSHVsYUdWREJIVE1EYXJOT1JJTDBQUi1rbFZsenNTeGtjYTh6YnVRaWR3Vmg1c0FLODZZekJHcndoSDB1RTVSaDY1ajFpdGYtUDFoUnppSkstWnAzR1htX3FPV0tpRXRqWk9qVEF6WEFvRExZQkZlLWd1RdIBxAFBVV95cUxNZmpnSjR0V01yRk1yVkNiQU90c1UxSndlOFcwSnFWaHhfNlk5V3hacUJ5TWhZZzRibGt0QXVTVG1zMUtLX2NqVlhrcmpxakd3Mk9uZU92dGdQNlZsb3hsZjQ5cEM3OVhvRHNaT2tSYmw0aUVYZ0lhWGdRLW84UDIxR1hzQTYxVWlXa3J4ZDlJS3NYdkQ2c0dBWVFfWXJRVnBsU2VUMjd0MVJBYUdJTTVKMWFFYjZxWXpQTHFFTV80TEdQcU1X?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-19T16:00:00+00:00",
+   "seen": "2026-11-19T20:05:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is made in Bengaluru and set in Miami."
+  },
+  {
    "id": "today s your last day to order gta vi and get the free vintage vice city pack",
    "title": "Today’s Your Last Day to Order GTA VI and Get the Free Vintage Vice City Pack",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Sdm1MWXhsSUhkeGk1ODY4cTFnX05tbFE2S0xtRGhOcm4yTnVBTTZyUnlPWE05ci1GZEJQRGJrSVRRTDhCWDFBMVpQcWNHN1FTTkh1QlpqYjZFbmsyZURxcVpYeGV2QnA3TmNVbDFnc3dXdERCNFRZMGZ3?oc=5",
@@ -4603,6 +4694,19 @@
    "ai_summary": "The story asks why GTA 6 does not include Disney World."
   },
   {
+   "id": "gta 6 is live in new zealand as the midnight rollout begins",
+   "title": "GTA 6 is live in New Zealand as the midnight rollout begins",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa3NicnU3MXV6OXJYZXR6ZmZDRWp6N0cyWlRtdzAwQmJYZTQyeDlENVJFY0dpWXRDdmZXUTF1M0VpamQxNTFWMWhRQXVLN2wtY3VNZVNWcE9qMnlDRzhsajZZZ09SNTF2MTVDcVo5MDZTdG5DTWkxbkh4akxWNWdHVmVOQQ?oc=5",
+   "outlet": "WellPlayed",
+   "via": "Google News",
+   "published": "2026-11-19T14:49:14+00:00",
+   "seen": "2026-11-19T20:05:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is live in New Zealand as the midnight rollout begins."
+  },
+  {
    "id": "gta 6 is here return to leonida now with jason duval and lucia caminos",
    "title": "GTA 6 is here! Return to Leonida now with Jason Duval and Lucia Caminos",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXRUTTYtUXM3WDJrOE5pNFlSVjJPRE9SLWlhOFdUdWZWbHVBV09QMFVoVkRNdzloNl9wb2xqeXJKMVNnc2lOM3hQS0dLdk9ub1V6cGl2ZXRyYlpEUkxiaWxvaUctaGt6WldjWi1NcG9rVWlaT3duZDdzUjNDQ2NJbmRoalRqLW5KMGt6SWdQM1ZNU2FlWTNBOFVuMTV1Y0ptZk04NUpPU2l1YmRDaXlSTmNGQkcxUEtCVXBZWGY3Yw?oc=5",
@@ -5422,6 +5526,19 @@
    "ai_summary": "The story explains how to save the game in GTA 6."
   },
   {
+   "id": "gta 6 launch 10 key facts about 1 5 billion sales 1 billion development cost pricing and take two revenue",
+   "title": "GTA 6 Launch: 10 Key Facts About $1.5 Billion Sales, $1 Billion Development Cost, Pricing and Take-Two Revenue",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVHlBV0laUmNGY1FDM3Vfc3oxVWNFZWVKWXNScVFPTmlBQk4tT3dEVS01aDBIckY0dkFMN2hKd3hwN2x2eU45YUxuVm5UYUtXWXp3N3RzQTJXUXNCYjFVdE9qNzJDd0JTMDFaNDdNRmJaaUdRR0ZqWVhZeGRRVjRHSkpTa3lESnZEMHgxWnZrajZpNjRCcHIyQTE4NHZWV3ZyUFdQeElDOFV3b1JzUXp4bDJjNUN3bEZBQ1V2V09KRjFJNE1UcjdmUnRMcU81Zy1oWVQ5UHQ5LV9iTFVObXIxaE0zRdIB4wFBVV95cUxOVHlBV0laUmNGY1FDM3Vfc3oxVWNFZWVKWXNScVFPTmlBQk4tT3dEVS01aDBIckY0dkFMN2hKd3hwN2x2eU45YUxuVm5UYUtXWXp3N3RzQTJXUXNCYjFVdE9qNzJDd0JTMDFaNDdNRmJaaUdRR0ZqWVhZeGRRVjRHSkpTa3lESnZEMHgxWnZrajZpNjRCcHIyQTE4NHZWV3ZyUFdQeElDOFV3b1JzUXp4bDJjNUN3bEZBQ1V2V09KRjFJNE1UcjdmUnRMcU81Zy1oWVQ5UHQ5LV9iTFVObXIxaE0zRQ?oc=5",
+   "outlet": "InfotechLead",
+   "via": "Google News",
+   "published": "2026-11-19T13:50:01+00:00",
+   "seen": "2026-11-19T20:05:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports ten key facts about sales, development cost, pricing and Take-Two revenue for GTA 6."
+  },
+  {
    "id": "gamestop ceo rips shift to disc free games while selling gta 6 code boxes",
    "title": "GameStop CEO Rips Shift To Disc-Free Games While Selling GTA 6 Code Boxes",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3ZGZnl6aEhKZ2d6dThkOTBNLXY5Q3VTX2tJeERTdXkwaGtkaDBRT05ra1U1YW5rYk9rM3hiVkdWRllxTmZaWlk2SEJLZHd6N29TM1JhUngySlBjR1VyTFhJR0wzN3Y3d3d5TFRGNVlZX2xqdDRjR1NWWXE5REJEdUtOQ0lrX1puRVFoaXBpNWdSdGY0SWNoZQ?oc=5",
@@ -6020,6 +6137,19 @@
    "ai_summary": "The story compares a large IPO to Grand Theft Auto VI launch and mentions a 64-year-old day-trading Social Security recipient profiting, with Social Security ignoring the profit."
   },
   {
+   "id": "gta 6 mania reaches the military as 43 us army soldiers trade reenlistment for a long gaming weekend",
+   "title": "GTA 6 mania reaches the military as 43 US Army soldiers trade reenlistment for a long gaming weekend",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVldicE40dkdhTkE0ZWVETklxWUluUFBnTnRLVGs3NmhiQ2tmQ0JBMWdvb3N2N0tESHd5Q01mVjg2T0hja0Q0X3h1WFBQWDlHREpYZmFJeGsxaGNjU0w4RTdSN1RVa0dIQWJ2NmNYUERUU1QxWF9qdEFTcmVRNkRPS19UVGsyUkdFbXhvZTVwdTF3a0lmZFV2OXcwMlAzWkdwSjAzNldnbU0yTXZmOTZJUUoyQWptQlRXWlVpWjgtMm5oaFJtU3E5NFh4Vll6cWZZaTlxaDFXY1RtTWRUVnJaTXM4V0l5MWFIZF9COW9kemhGSE5qVU1IUU5rOUFDQjFrbHJTOWY3Zjd2dmJJVXfSAZMCQVVfeXFMUEhGczNpRVNUZkFKV01HYmh2cWNPSUFfN0VwV085bFB5LWNKNEZTSjdHQ0hUQ1VLT0RIMUtPX1l2a3pIdmlWcFdLZFhib3E4NHhDQ3l0ZUZUQV9RZTZsWklhQnBMXzlJY3BCeHUxRVFWRmVtYW9IYTF0VXVxRVZSN3Z2MHo5WmdWY1BMMXg2dGNRVnBLeXUxenNnU2dWWFBDQ3FyclNEazM5emNQcms2SWpVN0VhdFd6SWt1NDEyME1VOXpCS2JJc1BSQURpSEdlbUc5akV3ZHNmdHNNUUF4SGxTSng0OWRjandFSVBxd2hFWU5icEw4YlJNQlhxRWxhNXg3eHJhN0dDd2VkdTJFQl9Yd2M?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-19T13:05:00+00:00",
+   "seen": "2026-11-19T20:05:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 mania reaches the military with soldiers trading reenlistment for a gaming weekend."
+  },
+  {
    "id": "aj dybantsa makes grand theft auto vi joke after wizards snap 8 game losing streak",
    "title": "AJ Dybantsa Makes Grand Theft Auto VI Joke After Wizards Snap 8-Game Losing Streak",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUy1WX1hHTkNJRTFaRWF2aENaempEY2U4Tkw1NVg2NDMyNk8yWWt0RGVQYW1GZFlhcVBVdFNES1VTaDV6TW1hakNqQzlQbHNFUGloVTRGMFVFN3dBejVTQUZZaDIwdEJIVC1na0J5dFltWFF3WkkybUd4YzVlMnFCZmZZWW8zeGgyMGl3ampkTmpiaDFYczV2N1FOb2luSmpLZ1pOY3Q4Qk9ZcUIzWlFhVzcwU3VoVFRTOGtkeWF5ZHhOdFdINVE?oc=5",
@@ -6512,6 +6642,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "GTA 6 breaks Valorant’s livestream viewership record, per GamingBolt."
+  },
+  {
+   "id": "gta 6 hype turns 307 solana meme coin bet into 202 278",
+   "title": "GTA 6 Hype Turns $307 Solana Meme Coin Bet Into $202,278",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWUxrSnpvcHZnOGtQM2k5TWRDcTZmbnVnQi14QkI5MV9PSVE2R0cwWG9yVktnN2xHTkh3RVlaSmZvelVNS0tmazBoVldXMERaVUoySEliazVjVVlFSUZBM0ltcTRtbEVLV2M0Ml9JS2x5UQ?oc=5",
+   "outlet": "CryptoRank",
+   "via": "Google News",
+   "published": "2026-11-19T12:23:51+00:00",
+   "seen": "2026-11-19T20:05:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 hype turns a Solana meme coin bet into a large profit."
   },
   {
    "id": "youtube marks gta 6 release with dedicated interactive features 24 hour livestream and more ttwo decline",
@@ -11985,6 +12128,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Story reports GTA 6 release occurring before a Raptors-Wizards game losing streak."
+  },
+  {
+   "id": "13 years 1 billion spent gta 6 goes live earns more than its budget in pre orders",
+   "title": "13 years, $1 billion spent: GTA 6 goes live, earns more than its budget in pre-orders",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLXVORlV3cVRuQVlmREF3RVZSbWtKSHdpZGNkVUJ2ajFiTTdXczduempMZzd4QUtTbkJOa1lLa3I2Ni1ybGZ2T0phcG5uSVA2MUdiMnhvSFRvRjhiQnVqUFRWS2o3bThHSlpFSEt3aHVncWRGRkh0bjh3TUhoMnFyX0tVTF9vdm5BdEN3ZjR4OUlTTHdvS1pkSk1jVjdXNFhxUng5bDR2U3NsOVEtUHg5dW9yU2lGdEFFTlN2LWlzWEZRamE1ZEtoYjlFWGRfd1VsaDNnZUdUeXNFYjdRbEh0c3Bn0gHnAUFVX3lxTE1SWTdneWFoY0dHWlJldDNhZXJSb2xwb1AwMkNnVTdHczlKTVN5WTAtUGkzZFhfWGg0Zlc0MXhDS0d5OHRoc0U2TjNFVVB6amI2bEZCN0NlQ2p4TjhSY3hoU2JhOWV2a2E5MVRpeTM1cWQ5SWFqVUVjRzZqREg0SUNLcEVpcjNtWmtJb2dHR2pWYThzbW5wMlZNTGprSHdISGR4NVEyR21jWWhTM2dmRHFfNzRqQmk5NjlwSVV2YVE2QUpJRGd0TURjRzR2ZFllQ3NQWGY1NUUxSkNhZUVQT1RDMEhsMFkwTQ?oc=5",
+   "outlet": "India Today",
+   "via": "Google News",
+   "published": "2026-11-19T03:50:19+00:00",
+   "seen": "2026-11-19T20:05:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 goes live after years and earns more than its budget in pre-orders."
   },
   {
    "id": "heat hit big with grand theft auto vi inspired makeover and other teams should pay attention",
