@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:51:25+00:00",
- "started": "2026-11-19T20:51:16+00:00",
+ "updated": "2026-11-19T20:56:28+00:00",
+ "started": "2026-11-19T20:56:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T20:51:17+00:00"
+   "checked": "2026-11-19T20:56:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T20:51:17+00:00"
+   "checked": "2026-11-19T20:56:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T20:51:18+00:00"
+   "checked": "2026-11-19T20:56:20+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T20:51:18+00:00"
+   "checked": "2026-11-19T20:56:20+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T20:51:18+00:00"
+   "checked": "2026-11-19T20:56:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T20:51:18+00:00"
+   "checked": "2026-11-19T20:56:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T20:51:19+00:00"
+   "checked": "2026-11-19T20:56:21+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 12,
-   "checked": "2026-11-19T20:51:19+00:00"
+   "hits": 13,
+   "checked": "2026-11-19T20:56:21+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T20:51:19+00:00"
+   "checked": "2026-11-19T20:56:21+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T20:51:19+00:00"
+   "checked": "2026-11-19T20:56:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T20:51:20+00:00"
+   "checked": "2026-11-19T20:56:22+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T20:51:20+00:00"
+   "checked": "2026-11-19T20:56:22+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T20:51:20+00:00"
+   "checked": "2026-11-19T20:56:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T20:51:20+00:00"
+   "checked": "2026-11-19T20:56:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi drops for sony playstation 5 and xbox series x s here s where to shop the game online",
+   "title": "'Grand Theft Auto VI' Drops for Sony PlayStation 5 and Xbox Series X/S: Here's Where to Shop the Game Online",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmJySHdKYkNQWF9mblNwQXJaX2FVcTNKZldObnhvRkJrUm9mRzJCSmZvdmFWLWJ0SE9kUW9fel9EeUkta1ZBSW9SQVJQQ1hBMkNjaW94ek1hNjhfcm5IeXpuaW1lV1pzWHlXWXo2Tndvci1sekRrN2NXbzdYZTB6aS01OWd6N0w3cGEzUWVLN3NyUkpjSTc2RG1EVG9hWm9mVi1CVEN3R25KdkEybjhXcnJIT2UwRXFXeENhaDFISDRfN09I?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-19T20:53:52+00:00",
+   "seen": "2026-11-19T20:56:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA VI is available on PlayStation 5 and Xbox Series X/S and where to buy it online."
+  },
+  {
+   "id": "report gta 6 generated nearly 2b in sales by launch day",
+   "title": "Report: GTA 6 Generated Nearly $2B in Sales by Launch Day",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1R6VXFybDQyQVdHU3NwTHZ5YTBJQldvWU53YlY1a2R1WVZ4ZHBtazVrQlc4VWhfaXJMRmM1NUpHeWtmX2xHMVhielhmTnhBaE1GYlpfM1JlbEdoZEl6WENjZHZnbUtSVDFIOHc4LUJFNURJV3hyS0VZeE1iMHJoY1RuUTk0WXRr?oc=5",
+   "outlet": "80 Level",
+   "via": "Google News",
+   "published": "2026-11-19T20:53:37+00:00",
+   "seen": "2026-11-19T20:56:19+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The report states GTA 6 generated nearly $2B in sales by launch day."
+  },
+  {
+   "id": "gta 6 breaks the internet 7 9 million viewers tune in as global traffic hits record high",
+   "title": "GTA 6 breaks the internet: 7.9 million viewers tune in as global traffic hits record high",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHh6b0xINVcxQnZPVldKN2ZWV2xGd0RmRDN6N3psQWszZWJzdUNNakZZcTFpNElIeE1fU1QwQ1NyWmNiNzJMYXY0aEdLdjNWd1ljajViZE9ubWRock5UdU1GRDhzeVkzcVhkS012MVd3cnVFRTE5UHFhTmdCWXdjZVZEeWEtekhhN3haSkJLbU5sNURmS1JyMkxpM0pkekoy?oc=5",
+   "outlet": "The American Bazaar",
+   "via": "Google News",
+   "published": "2026-11-19T20:48:14+00:00",
+   "seen": "2026-11-19T20:56:19+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The article notes GTA 6 broke the internet with 7.9 million viewers and record global traffic."
+  },
   {
    "id": "doja cat is not feeling okayyy about being left off the gta vi tracklist",
    "title": "Doja Cat is not feeling \"Okayyy\" about being left off the GTA VI tracklist",
@@ -144,6 +183,19 @@
    "ai_summary": "The story reports Rockstar explained how GTA 6 could fit more content into Vice City."
   },
   {
+   "id": "kfc is replacing gta 6 s missing physical disc with fried chicken",
+   "title": "KFC is replacing GTA 6’s missing physical disc with fried chicken",
+   "link": "https://www.dexerto.com/food/kfc-is-replacing-gta-6s-missing-physical-disc-with-fried-chicken-3430001/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-19T20:45:31+00:00",
+   "seen": "2026-11-19T20:56:21+00:00",
+   "summary": "KFC Spain is celebrating the launch of GTA 6 with an unusual giveaway, offering fans a fried chicken disc to replace the missing physical disc in their game cases.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "KFC Spain is offering a fried chicken disc to replace the missing physical GTA 6 disc as part of a launch celebration."
+  },
+  {
    "id": "gta vi morgan state psychologist on gaming and gambling",
    "title": "'GTA VI': Morgan State psychologist on gaming and gambling",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlU2bmoxZ2pTdGV5NmRNUkNmRUYzOTFHdm5yTGVyYlF1QllDVTYtWDVlVXdCSUZBZENDYlc0SDRNUENtUVl6U2xkZ1JvQmZVMEpnajduaWlJRHJxVVRvUTZEV0l0aU1vVFBqcnpzX1N6OHhSU2pCemgwNjkzc0p4ckJJdDA3bm8?oc=5",
@@ -170,6 +222,32 @@
    "ai_summary": "The story reports a psychologist discusses GTA VI impact and how it can affect loved ones."
   },
   {
+   "id": "you can fast travel in gta 6 using this 100 trick",
+   "title": "You Can Fast Travel In GTA 6 Using This $100 Trick",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uUXo0cHRpZGFTTzV5VkVCQ3hnU2stRGtMemp0b2NjelFaS2JrUnlHNHZ2N2lmZXJoUzFmeG5Va2VQV3dGS2UwMzJMQUdNODlOZGlnRVFaQjRFcDRUZHhaUUV3?oc=5",
+   "outlet": "www.bgr.com",
+   "via": "Google News",
+   "published": "2026-11-19T20:44:03+00:00",
+   "seen": "2026-11-19T20:56:19+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The piece claims you can fast travel in GTA 6 using this $100 trick."
+  },
+  {
+   "id": "are you taking off work to play gta vi",
+   "title": "Are you taking off work to play GTA VI?",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80SjhOeGM4S19KOVlLN0M2bGtUQ0FrTi1nVm15OEdaeHZQY1dqUGk1Q2hBUGVLaVFmRzFvdmxFbVBHSTBXSllMc01wcFVNYzRKTmxiQ0NWbjdYZXlRc1hEazQ2cVbSAWpBVV95cUxPUTVwX0NWTlN5MjV0MDhKU0NKM3lIcUFWd0l6OU1GSXNaZWY1cVFvQVpRQ25PRFlsTUhWeENPd2JhdjczY0NTY1JVbFlOUkVmLTlpcVFrd09FNXFCbk9GaW4xYUxnSV9QaHBB?oc=5",
+   "outlet": "FOX 5 Atlanta",
+   "via": "Google News",
+   "published": "2026-11-19T20:43:39+00:00",
+   "seen": "2026-11-19T20:56:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks whether you are taking off work to play GTA VI."
+  },
+  {
    "id": "gta 6 themed graffiti mansion hit by swatting call as game is released",
    "title": "GTA 6 themed Graffiti Mansion hit by swatting call as game is released",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXFKaFdiSFpPdFRjb3lzOFRxMzlPSjNYVVRMbzg3cmM2WXhDeHRwVEpQaGN3b1ZtMlc5QllhaVZTalUtcG12R05FM3RCNFpySHJRNjY2aDMtOFBYY044NWRFZUxuQ0RDWlEybWI3OFNTSWYwdkstdXp6ZjNWcnZqMmpFdzBMSXU0WHdmazhSbUQ4QlZvUkdPTUVTcGdvUm5ERVR1VGFRbHp0enc4NTRwWk4xSQ?oc=5",
@@ -194,6 +272,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GameSpot notes a dog in GTA 6 who saves you appears to be based on a real-life dog."
+  },
+  {
+   "id": "gta 6 released today here are 5 major takeaways from the big day",
+   "title": "GTA 6 released today. Here are 5 major takeaways from the big day",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbllMVlAyZTVEaUFpT21LQ3dMWGNXeDFHTnNrdW9zdHdVV0NjYjRWaldaMmFJbkRkYkRxa0hoYnFScUoxUjdxUkJXQTVjWEpWVGtJYjJFQk9ITjJ2U2NOdWYzb3lkbWs0elp4S3MwVlNDNE5CU3pDcUtaVGVWdm91MXpHSkdmTHBxY3VHMmIyZ2dBWFVQZFBJUXFrWHFPQmZXVFE?oc=5",
+   "outlet": "USA Today",
+   "via": "Google News",
+   "published": "2026-11-19T20:42:00+00:00",
+   "seen": "2026-11-19T20:56:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article highlights five major takeaways from GTA 6's release day."
   },
   {
    "id": "take two stock slips on gta 6 launch day after a 6 jump on reviews the day before",
@@ -792,6 +883,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports reactions from Adin Ross, Kai Cenat, Ishowspeed, and others to the first time playing the long-awaited GTA VI."
+  },
+  {
+   "id": "gta 6 lands with a 99 on metacritic but launch day failures are already making headlines",
+   "title": "GTA 6 Lands With a 99 on Metacritic, But Launch Day Failures Are Already Making Headlines",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOekpzaGRSSzdlekk1Q2tuZ1VwTllGaThvd3BVRkxUYlZoNDRZaml3YWFiVXo3UlJSTTBhYUdVbnB2U1AzUDJwTXJLWmZoc0hYSV9hdE5Sc1NEU19vV0xTZXhVNlJrWVFsdmJGN0gtV3dxcHMtRnNBZVpOdlNxV1BQMzVuZ2h6aTg?oc=5",
+   "outlet": "Latin Times",
+   "via": "Google News",
+   "published": "2026-11-19T19:56:31+00:00",
+   "seen": "2026-11-19T20:56:19+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The report notes GTA 6 has a 99 on Metacritic, with launch day failures making headlines."
   },
   {
    "id": "your gta 6 car is your red dead 2 horse and it s perfect",
