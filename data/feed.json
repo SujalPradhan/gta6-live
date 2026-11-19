@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:25:12+00:00",
- "started": "2026-11-19T17:25:00+00:00",
+ "updated": "2026-11-19T17:30:18+00:00",
+ "started": "2026-11-19T17:30:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T17:25:00+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T17:30:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T17:25:01+00:00"
+   "checked": "2026-11-19T17:30:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T17:25:01+00:00"
+   "checked": "2026-11-19T17:30:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T17:25:02+00:00"
+   "checked": "2026-11-19T17:30:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-19T17:25:02+00:00"
+   "hits": 8,
+   "checked": "2026-11-19T17:30:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T17:25:02+00:00"
+   "checked": "2026-11-19T17:30:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-19T17:25:02+00:00"
+   "hits": 24,
+   "checked": "2026-11-19T17:30:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T17:25:02+00:00"
+   "checked": "2026-11-19T17:30:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T17:25:03+00:00"
+   "checked": "2026-11-19T17:30:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T17:25:03+00:00"
+   "checked": "2026-11-19T17:30:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T17:25:03+00:00"
+   "checked": "2026-11-19T17:30:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T17:25:04+00:00"
+   "checked": "2026-11-19T17:30:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T17:25:04+00:00"
+   "checked": "2026-11-19T17:30:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T17:25:04+00:00"
+   "checked": "2026-11-19T17:30:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "former xbox and ea exec hopes gta 6 gives a much needed shot in the arm to devs and publishers",
+   "title": "Former Xbox and EA exec hopes GTA 6 gives \"a much-needed shot in the arm\" to devs and publishers",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/former-xbox-and-ea-exec-hopes-gta-6-gives-a-much-needed-shot-in-the-arm-to-devs-and-publishers-the-video-game-industry-could-really-use-a-moment-like-this/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T17:25:22+00:00",
+   "seen": "2026-11-19T17:30:11+00:00",
+   "summary": "Peter Moore says this is \"more than the release of a hugely anticipated game\"",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Peter Moore says GTA 6 release is more than just a hugely anticipated game and could provide a shot in the arm to devs and publishers."
+  },
+  {
+   "id": "gta vi how telcos and and ixs readied themselves for historic data traffic surges",
+   "title": "GTA VI: How telcos and and IXs readied themselves for historic data traffic surges",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb042OUlDWXQ3SVEzRml5YnJ3VG1keTdzdnU2QWJOOTN5NzFjZkw1Q3o0Z0U1dDh6SEsyakdTM3h5RS1qSUktQWdGWkJLRWVaSkdlLTJrQmd4OUFaSmtuQmVMM19NUVdOaHZPOXI4a0JyeGNTaF83dGR5NmV0NkNGOExBaG9XUkQ3QUN1YjZfbVlwSFVpZkdkNmhQLVpkTk5IVFUwT2pmVTFzVjU0TFlMNWd4ZDk?oc=5",
+   "outlet": "SDxCentral",
+   "via": "Google News",
+   "published": "2026-11-19T17:25:04+00:00",
+   "seen": "2026-11-19T17:30:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Telcos and IXs prepared for historic data traffic surges related to GTA VI."
+  },
   {
    "id": "where is the casino in gta 6 location explained",
    "title": "Where is the Casino in GTA 6? Location, Explained",
@@ -116,6 +142,58 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks where the GTA 6 casino is and explains its location."
+  },
+  {
+   "id": "i ll never play gta 6 but i ll play the songs",
+   "title": "I’ll never play GTA 6. But I’ll play the songs.",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RXzE4MjAtTHFUZnB5Q1QyMXBjVzV4YzBGbWYtem12VVNLTlVUQWlZLXBaTVRBaTQ3N1dnUFVkQ3VJV015SW9qTHE1ZFd2N2FmeUhWZEJWOA?oc=5",
+   "outlet": "New Jersey 101.5",
+   "via": "Google News",
+   "published": "2026-11-19T17:24:38+00:00",
+   "seen": "2026-11-19T17:30:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The writer states they won’t play GTA 6 but will listen to the songs."
+  },
+  {
+   "id": "you won t find this fan favorite feature in gta 6",
+   "title": "You Won't Find This Fan Favorite Feature In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUXQ3U2lUMkhVNmJ3R1ZMS2hpMDVKdklORk9VZXA2eldKWTctbmV2OFptQjQ4a0dTUnlHeS1XaDZuWmVsYl94WmI4Nkw0M0JYWVExTS1ocjl1MV9hYmlHVEFadjBLYmVLVTBjZHhwcEd6YzZScUFoQnBiVWM5QlBPNnQydW1XeVhPTlE?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-19T17:23:58+00:00",
+   "seen": "2026-11-19T17:30:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article notes a fan-favorite feature will not be found in GTA 6."
+  },
+  {
+   "id": "csra gamers stay up late stay home from work for grand theft auto vi",
+   "title": "CSRA gamers stay up late, stay home from work for ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0xhNHEwa2Q1TVdJUzBFd040c2lFQk5yTFdJSl9mbUtwOHFXQ243SkdHbEJHLThOOXhwcUFnVFJDN3VsQ2dZODhFMTlyVU1sdVN0ZlpuSmswR3d6S0xZM0VIY25remtfaDFndGdFSzBmcTVqNk90ak9ZRWNNUXpXZ1R5NkJGRFZqV1hhUmZ4ZHhmZWo1c1Zj?oc=5",
+   "outlet": "WRDW",
+   "via": "Google News",
+   "published": "2026-11-19T17:22:00+00:00",
+   "seen": "2026-11-19T17:30:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "CSRA gamers stay up late and stay home from work for Grand Theft Auto VI."
+  },
+  {
+   "id": "gamers stay up stay home for release of grand theft auto vi",
+   "title": "Gamers stay up, stay home for release of ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2owU2haS0JPU1RPZ0pFeVAzdWpjTVdSeEt6bUNsRVdYQ3dOaFczVkxNNlhUTnRoQzdGX1FFd2k1bzNxWmlsZUYzbXVESXlGWV9aMHZWOEJVb3JWMTNDWDlfN1VjZWx6NE5NMEN3b0VIU3ZibVJjdkNHZzJMS29RWHF4T0J2cG9IU0RXSk5RUElzOXNGMmc?oc=5",
+   "outlet": "WRDW",
+   "via": "Google News",
+   "published": "2026-11-19T17:21:00+00:00",
+   "seen": "2026-11-19T17:30:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gamers stay up late and stay home for the release of Grand Theft Auto VI."
   },
   {
    "id": "gta 6 has multiple endings and these four things can change yours",
@@ -181,6 +259,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports how to switch camera views in GTA 6."
+  },
+  {
+   "id": "gta 6 should you defuse or provoke mandy in pipework",
+   "title": "GTA 6: Should You Defuse Or Provoke Mandy In \"Pipework\"",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FZTlVbVFVV1VJcGJDVXVoemR1VDlBYmRlZUhXQ1VHR0xsNzFRUi1fN084Yk12TEFqWGlmTUl1TXBqamFJMlk3bWptYUNjWlRJc2sxY3V1WTNpZjRVNVVFaU5iTkIyVS1hOUpBUEc3d1Z5cWZIZmc?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-19T17:17:05+00:00",
+   "seen": "2026-11-19T17:30:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 includes a question of whether to defuse or provoke Mandy in Pipework."
+  },
+  {
+   "id": "grand theft auto vi releases to much fanfare rave reviews",
+   "title": "Grand Theft Auto VI Releases To Much Fanfare, Rave Reviews",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPNXl1YW1vSTVkNTktSERsN1JiZWN5aFJXZUlJSUtfTnFuRUp4TkhRTmxWS3d6WHozXzRRSTVxanpQUGlXU05Tbm5qOUFSZUEyWHhIWDk2cFN4UVJNMi1Jc01LQXdkbWVYdWV0Wks0RWFmcnQxLTRRaw?oc=5",
+   "outlet": "Yahoo News Singapore",
+   "via": "Google News",
+   "published": "2026-11-19T17:15:12+00:00",
+   "seen": "2026-11-19T17:30:09+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI releases to much fanfare and rave reviews."
   },
   {
    "id": "gaming gta vi japan",
@@ -545,6 +649,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The piece argues GTA VI could generate substantial revenue and impact the American workday."
+  },
+  {
+   "id": "power trip debut mutual death warrant via grand theft auto vi",
+   "title": "POWER TRIP Debut “Mutual Death Warrant” via Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRW5XWW95dEJqR3VrbTIzZzFCbWFrUk9tYnp3dHU2bnBKZlV1MUIxejh1Q1pIWkEwaXpQbkdGV3gzSUlpN0FPQXA5UnpUNjFaLXV4cW1WalBWb2NlNTU1aDRVLTFnODFrX1VwVjB4ajlHWnJJTHRJYnYzMzRnNnZWOENlSGhTeTdJTVQ3am9Hb3FESmROMDFlNDMzTWs?oc=5",
+   "outlet": "Northern Transmissions",
+   "via": "Google News",
+   "published": "2026-11-19T16:47:02+00:00",
+   "seen": "2026-11-19T17:30:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "POWER TRIP debuts “Mutual Death Warrant” via Grand Theft Auto VI."
   },
   {
    "id": "who voices jason and lucia in gta 6 here s where you ve seen them before",
