@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:56:28+00:00",
- "started": "2026-11-19T20:56:18+00:00",
+ "updated": "2026-11-19T21:01:27+00:00",
+ "started": "2026-11-19T21:01:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T20:56:19+00:00"
+   "checked": "2026-11-19T21:01:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T20:56:19+00:00"
+   "checked": "2026-11-19T21:01:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T20:56:20+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-19T21:01:20+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T20:56:20+00:00"
+   "checked": "2026-11-19T21:01:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T20:56:20+00:00"
+   "checked": "2026-11-19T21:01:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T20:56:20+00:00"
+   "checked": "2026-11-19T21:01:21+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T20:56:21+00:00"
+   "checked": "2026-11-19T21:01:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T20:56:21+00:00"
+   "checked": "2026-11-19T21:01:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T20:56:21+00:00"
+   "checked": "2026-11-19T21:01:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T20:56:21+00:00"
+   "checked": "2026-11-19T21:01:22+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T20:56:22+00:00"
+   "checked": "2026-11-19T21:01:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T20:56:22+00:00"
+   "checked": "2026-11-19T21:01:23+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T20:56:22+00:00"
+   "checked": "2026-11-19T21:01:23+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T20:56:22+00:00"
+   "checked": "2026-11-19T21:01:23+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar games announces grand theft auto vi the festival",
+   "title": "Rockstar Games announces Grand Theft Auto VI: The Festival",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOU5VQWNDbHgzeVBUM3NxV0R5cjAxTTZxTEgwNWZOUXpYODFQSldsdWpxMjZWWU1pT1YzSG9MbWhUMjdTTS1JM1I1ZlRIemp6X2Fsd2RBczRsZ2ZBckRLdGRlRnBTMGhlWjFOX3M5WDJhc0VKMjZVZERTajAwc1ZpZnRBVnptVVNycERXY0tscHVfMGRUSnpPY0VTY2RieWFjQ2d0aA?oc=5",
+   "outlet": "The Concert Chronicles",
+   "via": "Google News",
+   "published": "2026-11-19T21:00:00+00:00",
+   "seen": "2026-11-19T21:01:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar Games announces Grand Theft Auto VI: The Festival."
+  },
+  {
+   "id": "grand theft auto vi gamers rejoice as rockstar games releases long awaited title after 13 years",
+   "title": "'Grand Theft Auto VI': Gamers rejoice as Rockstar Games releases long-awaited title after 13 years",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZERoX29IR0xBTGk3TFc2UmdXR3hsYklaX1FJX1MtSk1rVkE2bEdJWGY3VGlvUlBHV3FKbzRDWmFCcy1pSGdyaG5KQnhmVEtGVnNZelQzSGczM1hUZW1WWnhEVmFDcThBSmhSTDJQdUY3RkdCY1BxTFVPNTRhMzV4ZkwtZGw1UzBCOE9DRTdxRG1kRGswNTJPUkx0S0FUYVRrUkljcjladDdHdm1LTnkyemY0WWhKTzdRT28wTVRlNjJWY1ZhV3JKbGxvSlBaeWlkcDNxMUE2UDhTRVU?oc=5",
+   "outlet": "NBC News",
+   "via": "Google News",
+   "published": "2026-11-19T20:59:03+00:00",
+   "seen": "2026-11-19T21:01:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI: Gamers rejoice as Rockstar Games releases long-awaited title after 13 years."
+  },
   {
    "id": "grand theft auto vi drops for sony playstation 5 and xbox series x s here s where to shop the game online",
    "title": "'Grand Theft Auto VI' Drops for Sony PlayStation 5 and Xbox Series X/S: Here's Where to Shop the Game Online",
@@ -129,6 +155,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The report states GTA 6 generated nearly $2B in sales by launch day."
+  },
+  {
+   "id": "who plays mandy in gta 6",
+   "title": "Who Plays Mandy In GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYMkxicXV1WExXbG5KcjVVZUs1SnpISGcxa1Q1a0FUUWRwa0lrdmp0cGZxQUlEOGNvTXNiUGkyMEVCaUpoYlZmRjZUelp6S3d4LUhWVmdma1BOY05oalNNWGt2NzhBSE1SaWZCN19Qcw?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-19T20:49:57+00:00",
+   "seen": "2026-11-19T21:01:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Who Plays Mandy In GTA 6?"
   },
   {
    "id": "gta 6 breaks the internet 7 9 million viewers tune in as global traffic hits record high",
@@ -974,6 +1013,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 developers remain worried about layoffs despite strong success, per IGN Nordic."
+  },
+  {
+   "id": "gta 6 s jason and lucia actors have been confirmed and they can finally speak",
+   "title": "GTA 6's Jason and Lucia Actors Have Been Confirmed, and They Can Finally Speak",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzgyV1E5VHBmZW5JMmdxbjFZRVV4aG4xc2pFNUVrSXFaMjBUcGl4c2dWS20yMWJnbmRLdVN2WHpxQm9lVFBoa3hQMUVIcVYySWN0c0s1MzJkRHlLTmlKclNENzZLQmZfb202X05CS21jc3hDT2dKazNpY2o1dXlxcDFIRV9CTXhEY3MxTk9Wdmpkc3hQTG15cWhGWkZTX20zbWZhVWxyZXJXZw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-19T19:49:47+00:00",
+   "seen": "2026-11-19T21:01:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's Jason and Lucia actors have been confirmed, and they can finally speak."
   },
   {
    "id": "gta 6 launch live updates news conversations and discoveries",
