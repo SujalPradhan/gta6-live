@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:21:31+00:00",
- "started": "2026-11-19T21:21:24+00:00",
+ "updated": "2026-11-19T21:26:33+00:00",
+ "started": "2026-11-19T21:26:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T21:21:25+00:00"
+   "checked": "2026-11-19T21:26:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-19T21:21:25+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-19T21:26:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T21:21:26+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T21:26:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T21:21:26+00:00"
+   "checked": "2026-11-19T21:26:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T21:21:26+00:00"
+   "checked": "2026-11-19T21:26:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T21:21:26+00:00"
+   "checked": "2026-11-19T21:26:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T21:21:27+00:00"
+   "checked": "2026-11-19T21:26:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T21:21:27+00:00"
+   "checked": "2026-11-19T21:26:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-19T21:21:27+00:00"
+   "hits": 5,
+   "checked": "2026-11-19T21:26:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T21:21:27+00:00"
+   "checked": "2026-11-19T21:26:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T21:21:28+00:00"
+   "checked": "2026-11-19T21:26:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T21:21:28+00:00"
+   "checked": "2026-11-19T21:26:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T21:21:28+00:00"
+   "checked": "2026-11-19T21:26:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T21:21:28+00:00"
+   "checked": "2026-11-19T21:26:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "where is dexter morgan s apartment in gta 6 location explained",
+   "title": "Where is Dexter Morgan’s Apartment in GTA 6? Location Explained",
+   "link": "https://insider-gaming.com/dexter-morgans-apartment-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-19T21:22:06+00:00",
+   "seen": "2026-11-19T21:26:30+00:00",
+   "summary": "GTA 6 is full of Easter Eggs, and one of the coolest ones is locating Dexter Morgan's apartment. Here's how to discover it yourself. The post Where is Dexter Morgan’s Apartment in GTA 6? Location Explained appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to locate Dexter Morgan's apartment in GTA 6 as part of Easter eggs."
+  },
   {
    "id": "grand theft auto vi drops for sony playstation 5 and xbox series x s here s where to shop the game online k jewel 99 3 fm",
    "title": "‘Grand Theft Auto VI’ Drops for Sony PlayStation 5 and Xbox Series X/S: Here’s Where to Shop the Game Online - K-Jewel 99.3 FM",
@@ -1169,6 +1182,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that your GTA 6 car is compared to a Red Dead 2 horse and is considered perfect."
+  },
+  {
+   "id": "grand theft auto 6 is ready to roll visually it s incredible one player said",
+   "title": "Grand Theft Auto 6 is ready to roll. \"Visually, it's incredible,\" one player said.",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOWtFR1hDTV9qSEd0WmlfRVg2MW03SUlNc3Q0OVJWTVJQV2RzcDlENElrcFZtRzg1aWtoY0pXcmFCN3lBVlZHRmNFRVIzQnhEWTZ5eER0LWVCc1JTR1dKUW51SHlMbFMzRFU5ckJOdlpwbTRCZGhfSVZGNVJOeXI3UmxibzhKOUE?oc=5",
+   "outlet": "CBS News",
+   "via": "Google News",
+   "published": "2026-11-19T19:54:14+00:00",
+   "seen": "2026-11-19T21:26:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is visually incredible according to one player."
   },
   {
    "id": "gta 6 sales have already surpassed the odyssey s 1 80 billion global run",
