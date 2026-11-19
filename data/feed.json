@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:27:22+00:00",
- "started": "2026-11-19T23:27:10+00:00",
+ "updated": "2026-11-19T23:32:20+00:00",
+ "started": "2026-11-19T23:32:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T23:27:10+00:00"
+   "checked": "2026-11-19T23:32:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-19T23:27:10+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T23:32:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T23:27:11+00:00"
+   "checked": "2026-11-19T23:32:15+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T23:27:12+00:00"
+   "checked": "2026-11-19T23:32:15+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T23:27:12+00:00"
+   "checked": "2026-11-19T23:32:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T23:27:13+00:00"
+   "checked": "2026-11-19T23:32:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-19T23:27:15+00:00"
+   "checked": "2026-11-19T23:32:16+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T23:27:16+00:00"
+   "checked": "2026-11-19T23:32:16+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T23:27:16+00:00"
+   "checked": "2026-11-19T23:32:16+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T23:27:17+00:00"
+   "checked": "2026-11-19T23:32:17+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T23:27:17+00:00"
+   "checked": "2026-11-19T23:32:17+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T23:27:18+00:00"
+   "checked": "2026-11-19T23:32:17+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T23:27:18+00:00"
+   "checked": "2026-11-19T23:32:17+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T23:27:19+00:00"
+   "checked": "2026-11-19T23:32:18+00:00"
   }
  },
  "items": [
@@ -116,6 +116,32 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that actress Lexie Shoaibi stars as Mandy, a character in GTA 6 who attracts social media attention."
+  },
+  {
+   "id": "southern university e sports team looks to build on gta vi release",
+   "title": "Southern University E-Sports team looks to build on GTA VI release",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkw1V2hqc19EUUtOTEdyazdyZWJQRjdROEtTd2VTOVd6TjZkaXJaUDF5c2FUeVhnS1ZuX3ZmUE9GLTdyeXRCbXpFR254U0xwaGd3dHRTWkhWVVQ2ci0td09YcUl1M0Q0NHIwcTRKSVQ4M0lZMjNFdjE3WW5lYjYyR0ljWnBOakdaNWZfR2J6aWZ2VGhYN3ljcQ?oc=5",
+   "outlet": "WAFB",
+   "via": "Google News",
+   "published": "2026-11-19T23:29:00+00:00",
+   "seen": "2026-11-19T23:32:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Southern University E-Sports team aims to build on the GTA VI release."
+  },
+  {
+   "id": "the gta 6 star system says a lot more than just your wanted level",
+   "title": "The GTA 6 Star System Says A Lot More Than Just Your Wanted Level",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04dHY4WG5PRkFzYXFKTy1NX1ZRM0paMFN1TDFhZHhqU1RMTmNEN081MGZsdnlDMGJCdno3SUp3R0tSbC00amJ6ZXgxSFJBajRCN1BJb3FoS3BLbFNsckhBY1k5YmY3LVc5Tk1KQkVKeDljSmRVMjdVMy1qOHE?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-19T23:28:22+00:00",
+   "seen": "2026-11-19T23:32:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The GTA 6 Star System reveals more than just your wanted level."
   },
   {
    "id": "where do photo studio pictures get saved in gta 6",
@@ -1962,6 +1988,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Who Plays Mandy In GTA 6?"
+  },
+  {
+   "id": "gta 6 launches as gaming expert discusses record breaking excitement and roblox safety concerns",
+   "title": "GTA 6 launches as gaming expert discusses record-breaking excitement and Roblox safety concerns",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdHNGb0tpZjRFTGFWdTNjWlJkWEtDOUdxcTJwRXB0TG5VYWFjeW5VWmtmMlpXdk1rR2Y1OEZDTlppNkc4VWU3YXhVd09kWjFVWUw1VkFhZ3ZRZmNQaFdoaWRrZXZaNzdFOElYQl9FNnExaXVoUWJVUGN0T09RdGZ0emoyYVhodlh6VmxNVHNiOVo1RnV6WXFpMFRwU2FWRlpqZ2Z2NzhDTVcyWGFQdVpBTDBVTXVYU2NwZ04zMzV5Z01Ya2NmY2gzQm1MTXhtbTZuRTkzcXV2dXRZRmN0TmNYM1RR0gH2AUFVX3lxTE1JUU9Nbm1HdmVwTEpQYjFjR2YzZmc4UUs3YWUta2N5SFBtU09rdWdYS1NRYUNjOUJ5Mjgxb2t2RUczeVozdlQ1WHZ2c2lYcGFuNHhhRDVHUXFHRjQzU2k5Njl5My1MaGVkZlpxYTBPWFRDdVI0TTRkM3VOZTNUWkQ4OXYyMjFWVGF5QzZibXJyRUx5aHBMbHd3TzVvVlN5XzkyQlFjNjZFVHNqaEdDMlZtVDl5d3VpbnBkclVyazlqdDZQU19rbFd1dHNFRC1LWjhHMEdVRGxPV2RfSTF3dHJKVnZuU2FXWl9vclJKU0l0LWd1Ti1BUQ?oc=5",
+   "outlet": "104.5 WOKV",
+   "via": "Google News",
+   "published": "2026-11-19T20:49:14+00:00",
+   "seen": "2026-11-19T23:32:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 launches amid expert discussion of record-breaking excitement and Roblox safety concerns."
   },
   {
    "id": "gta 6 breaks the internet 7 9 million viewers tune in as global traffic hits record high",
@@ -11725,6 +11764,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "GTA VI surpasses VALORANT's six-year Twitch launch record."
+  },
+  {
+   "id": "gta 6 comes without a disc here s why the physical edition is still worth buying",
+   "title": "GTA 6 comes without a disc – here’s why the physical edition is still worth buying",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdGstR29WNnZ2WjJQQjlVT1BvcWdhN0dFdFF0QUZmQWFfQ2tUc1lJeWNYUS03M3loMmdiUUJSRm1GVkprVlFrVmxpbGZPR09CM3puUkc3QVNRcVdMTzBWOU1jdTNWZmFmT012QnZmM3pLTG9CWVU1MDlrOTRPSEhFY1F6WEdjRlBuNW9jZ3BHM29mTUoxSGpvVWp2LXZpSVFXcTBqQWVaQXpaelJST29ET3RLRkhXTFk?oc=5",
+   "outlet": "Newswav",
+   "via": "Google News",
+   "published": "2026-11-19T10:41:03+00:00",
+   "seen": "2026-11-19T23:32:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 launches without a disc, but the physical edition is still considered worthwhile."
   },
   {
    "id": "gta 6 how to switch back to gta 5 controls",
