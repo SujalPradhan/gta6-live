@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:20:07+00:00",
- "started": "2026-11-19T17:19:58+00:00",
+ "updated": "2026-11-19T17:25:12+00:00",
+ "started": "2026-11-19T17:25:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,167 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-19T17:19:58+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T17:25:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T17:19:59+00:00"
+   "checked": "2026-11-19T17:25:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T17:19:59+00:00"
+   "checked": "2026-11-19T17:25:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T17:19:59+00:00"
+   "checked": "2026-11-19T17:25:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T17:20:00+00:00"
+   "checked": "2026-11-19T17:25:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T17:20:00+00:00"
+   "checked": "2026-11-19T17:25:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T17:20:00+00:00"
+   "checked": "2026-11-19T17:25:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T17:20:00+00:00"
+   "checked": "2026-11-19T17:25:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-19T17:20:01+00:00"
+   "hits": 6,
+   "checked": "2026-11-19T17:25:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T17:20:01+00:00"
+   "checked": "2026-11-19T17:25:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T17:20:01+00:00"
+   "checked": "2026-11-19T17:25:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T17:20:01+00:00"
+   "checked": "2026-11-19T17:25:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T17:20:02+00:00"
+   "checked": "2026-11-19T17:25:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T17:20:02+00:00"
+   "checked": "2026-11-19T17:25:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "where is the casino in gta 6 location explained",
+   "title": "Where is the Casino in GTA 6? Location, Explained",
+   "link": "https://insider-gaming.com/gta-6-casino/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-19T17:24:43+00:00",
+   "seen": "2026-11-19T17:25:03+00:00",
+   "summary": "GTA went up a level when it decided to have a fully fledged casino, so let's see if GTA 6 follows suit with a usable casino. The post Where is the Casino in GTA 6? Location, Explained appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks where the GTA 6 casino is and explains its location."
+  },
+  {
+   "id": "gta 6 has multiple endings and these four things can change yours",
+   "title": "GTA 6 Has Multiple Endings and These Four Things Can Change Yours",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZQ1hTNFRxMGdZcEcwbTVfTXBYTXlIVjlvUFBjU2puM1g2UHM5MkxqM2tpaDViejdSRzBjakRFSmUyMGhCSE9vWjlBbDVOeXgyVVNfODVoRlg5bEwzRGpkbE4tTkd6Q2sweVNlMm9ydFI2TFE?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-19T17:20:31+00:00",
+   "seen": "2026-11-19T17:25:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states GTA 6 has multiple endings and that four things can change yours."
+  },
+  {
+   "id": "conor mcgregor gives a holiday to his employees for gta 6",
+   "title": "Conor McGregor Gives A Holiday To His Employees For GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEZrSnRmbGRCV2tRYkhsZUFjNk9hYWR1UG11a2ZxWXh5b0Nsc1lWVFlFdXgyWW1peU9RQlM3TU5EQUprM3V6YkU1UXprUjhmN2V4empqVXV5MmhmcGJIYTMzallucThuYzN0UnZwUkM5cDhHT1V6MUJNdFp4WXpZOWwtS3NlWTdhVUI1Tm9ZTmk4dw?oc=5",
+   "outlet": "MMA Sucka",
+   "via": "Google News",
+   "published": "2026-11-19T17:20:10+00:00",
+   "seen": "2026-11-19T17:25:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Conor McGregor gives a holiday to his employees for GTA 6."
+  },
+  {
+   "id": "clutch brings cars of gta vi to the streets of the greater toronto area lbb lbb",
+   "title": "Clutch Brings Cars of GTA VI to the Streets of the Greater Toronto Area — LBB - LBB",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXRnRTZ1UnpJYUhRY0ZiYUd4djFyMjVqOGRFS2VCVm5QdEM3cmVzV29HTGllb2JwdF9waTROeEVyU09GUmFpUGlDVjl1ekxybGswSWlpcFdheVJfMFJFSEVvQnZqZWhPX0VaR0FoTlBHa3lDMkFhejZpUmhua3ZVcjRUeGVXUHF1aWdwa3NBUDd3cWZ1djl4Ujh0ZEZRQ29BdzZvVg?oc=5",
+   "outlet": "Little Black Book",
+   "via": "Google News",
+   "published": "2026-11-19T17:20:01+00:00",
+   "seen": "2026-11-19T17:25:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes Clutch brings cars of GTA VI to the streets of the Greater Toronto Area."
+  },
+  {
+   "id": "gta 6 soundtrack every hip hop song found so far",
+   "title": "GTA 6 Soundtrack: Every Hip-Hop Song Found So Far",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0o3N2FpTU1ybWFCQjVpN2ktaElCTjl4RmJOT01ESjQtbXQyYnltX09tTDNjMW9SRmxyS3JDRElkaElSTDA3cWJMa3dMVEJBNDVCYXhvNUhPd2xpVUtTaXhKRzBtX2ctSUxrWVRjbUlLT2ZmMExZbXRtbllNWEFydFNVaWV3SGs?oc=5",
+   "outlet": "103weup.com",
+   "via": "Google News",
+   "published": "2026-11-19T17:19:08+00:00",
+   "seen": "2026-11-19T17:25:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists every hip-hop song found so far for the GTA 6 soundtrack."
+  },
   {
    "id": "how to switch camera views in gta 6",
    "title": "How To Switch Camera Views In GTA 6",
@@ -402,6 +467,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The report notes a small connection between Grand Theft Auto VI and Deadpool."
+  },
+  {
+   "id": "where is gta 6 s disney world parody rockstar north co studio head explains no show",
+   "title": "Where Is GTA 6's Disney World Parody? Rockstar North Co-Studio Head Explains No-Show",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU0ZUMExOdTVYRXoyVzJWbTFlQmlxYzY5UTZIMHdDWjlka0xlYnNoWkZEbE9FYjVHdW9zRHJuNFlJNUUtMy1oQzQ1dmpZaWpZMERrZ0tTWC1hVHhkMm1BaUVqNVFxLXV3b3Nhc3YwaUNpWU5kdjlBUGZWQTBsbmloRUZpWDBSZ2NQNGRZTDFjZVVWbnFhbUpXZ3BIMW9BdnVTRXV3MWozZWJxcWFrMHh1WGZkb0ZXdEVSV1FzZkRucGhBemVrcXRkbGFOcWo?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-19T16:56:03+00:00",
+   "seen": "2026-11-19T17:25:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses GTA 6's Disney World parody and explains why there was no show from Rockstar North co-studio head."
   },
   {
    "id": "change these xbox series x s settings before playing gta 6",
