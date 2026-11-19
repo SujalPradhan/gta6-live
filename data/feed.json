@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:13:59+00:00",
- "started": "2026-11-19T14:13:48+00:00",
+ "updated": "2026-11-19T14:18:56+00:00",
+ "started": "2026-11-19T14:18:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T14:13:49+00:00"
+   "checked": "2026-11-19T14:18:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T14:13:49+00:00"
+   "checked": "2026-11-19T14:18:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T14:13:50+00:00"
+   "checked": "2026-11-19T14:18:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:13:50+00:00"
+   "checked": "2026-11-19T14:18:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:13:50+00:00"
+   "checked": "2026-11-19T14:18:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T14:13:52+00:00"
+   "checked": "2026-11-19T14:18:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-19T14:13:53+00:00"
+   "checked": "2026-11-19T14:18:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 11,
-   "checked": "2026-11-19T14:13:53+00:00"
+   "hits": 12,
+   "checked": "2026-11-19T14:18:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T14:13:53+00:00"
+   "checked": "2026-11-19T14:18:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T14:13:53+00:00"
+   "checked": "2026-11-19T14:18:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T14:13:54+00:00"
+   "checked": "2026-11-19T14:18:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T14:13:54+00:00"
+   "checked": "2026-11-19T14:18:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T14:13:54+00:00"
+   "checked": "2026-11-19T14:18:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T14:13:54+00:00"
+   "checked": "2026-11-19T14:18:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 screenshot hidden in san andreas back in 2021 was real and the house has a dark secret",
+   "title": "GTA 6 screenshot hidden in San Andreas back in 2021 was real and the house has a dark secret",
+   "link": "https://www.dexerto.com/gta/gta-6-screenshot-hidden-in-san-andreas-back-in-2021-was-real-and-the-house-has-a-dark-secret-3429837/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-19T14:17:14+00:00",
+   "seen": "2026-11-19T14:18:52+00:00",
+   "summary": "A mysterious GTA 6 screenshot discovered in San Andreas Definitive Edition back in 2021 has finally been found in Rockstar’s new game.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A mysterious GTA 6 screenshot found in San Andreas Definitive Edition in 2021 is reported as real and connected to Rockstar’s new game."
+  },
+  {
+   "id": "gta 6 s opening two hours teach you everything you ll ever need to know about the next 100",
+   "title": "GTA 6’s Opening Two Hours Teach You Everything You’ll Ever Need To Know About the Next 100",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSHhYc2xPUVYwdWFiWHE0LWRYcUU3eXZnLUdBNHlvTFVDVkVvSll5djQwT3B2eWtjNmxJalM2VUViNmZuSmFicTlkU05nam12N3NJelFBSXVDajlTWGFPemo4S1k2N1h0UzY1dVdOQ0ZNNzdyaGpfdjZHandaN0dxSGdwZUxMVzhraVR4VS1wRnFySUFZc1NtM1dXS2tCV1pNYmlIa21GSFM0NjFPeUhvUlhIczIzaUZtdVJJMEJUT2JGanBWNkZsWFJHbF9LRDRZUzZ4cQ?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-19T14:15:11+00:00",
+   "seen": "2026-11-19T14:18:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story claims the opening two hours teach a comprehensive amount about the next game, though no snippet is provided."
+  },
+  {
+   "id": "gta 6 psa here s how gta 6 autosave works",
+   "title": "GTA 6 PSA: Here’s how GTA 6 autosave works",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-psa-heres-how-gta-6-autosave-works/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T14:13:50+00:00",
+   "seen": "2026-11-19T14:18:50+00:00",
+   "summary": "Does GTA 6 autosave? Find out in this guide",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece explains how GTA 6 autosave works."
+  },
   {
    "id": "grand theft auto vi is out now",
    "title": "Grand Theft Auto VI is Out Now",
@@ -168,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece warns GTA VI fans about potential health risks associated with the game beyond the obvious issues."
+  },
+  {
+   "id": "watch gta 6 release day buzz as millions race to stream on twitch",
+   "title": "Watch GTA 6 release day buzz as millions race to stream on Twitch",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZlYxbmo1Uk5VVm1ZdzdXVy1hOWN4Y242M3FUZlg2cmlEcVZpRmIzLTJNaUY5Q2NMN3RrQV9FUG9DTUNSN0xBZGdYdWNXT293QTBjR01LcEJ5QnFENFhLUnpjRWZUdTgta0stOW9feTBwMmU3SXJWNw?oc=5",
+   "outlet": "AOL.co.uk",
+   "via": "Google News",
+   "published": "2026-11-19T14:02:06+00:00",
+   "seen": "2026-11-19T14:18:50+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Watch the release day buzz as millions stream GTA 6 on Twitch."
   },
   {
    "id": "gta 6 takes the world by storm after 13 years of anticipation",
@@ -378,6 +430,19 @@
    "ai_summary": "The report explains Rockstar's stance on cheating in Lucia’s story involving Mandy and strippers."
   },
   {
+   "id": "gta 6 s mandy could be hiding a killer secret",
+   "title": "GTA 6’s Mandy Could Be Hiding A Killer Secret",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2pDUEdXazZlQnFORllRTnhMZGpiOFFzUVZqdmZzU2pOcGF2b2d1ZnpWVXA3UzVuVjRUOG5aS01qM1ZzSjNXQ054WWlLY3RqZkVxdTg2YmxoalEtejU1M0tHUTlQS3pJQTZwb055elBFdmRwWmNmbEY1RHgxQjdSSFN0WHBJQQ?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-19T13:44:27+00:00",
+   "seen": "2026-11-19T14:18:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Mandy in GTA 6 could be hiding a killer secret."
+  },
+  {
    "id": "gta 6 reviews are out rockstar s latest masterpiece scores 99 on metacritic ties all time record",
    "title": "GTA 6 Reviews Are Out: Rockstar’s Latest Masterpiece Scores 99 on Metacritic, Ties All-Time Record",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa2ZkTnlaNDFVSnM1c2NJT05rWnZManA2a1hteThUbmJhb2RJVERaWUlDRlNxd1JhRkQ4SzBLX2xFVWNYVFpLOWdwaGQ3TzRSNHRvRkhCTFlIY1lpa3dmb1N0bWVvRlluZnVOSGxMNUtLdlZHZmZGXy1yTFpGSjh3dmg0TUpXbFVnN283Tm5KeTg1VEdDUHBVSDBNV0FWT0ZmMzNBZC0xZXBrTGh6dHZfVWRqWFZ1eS0x?oc=5",
@@ -467,6 +532,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Sacramento experiences GTA VI fever."
+  },
+  {
+   "id": "rockstar games releases grand theft auto vi for playstation 5 and xbox series x s",
+   "title": "Rockstar Games Releases Grand Theft Auto VI for PlayStation 5 and Xbox Series X|S",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUhtY1pXS2lMZU1tYTVjQTZRMmQtcllpNml0aUY4Z1F0MjRSMGlUQTJFZ0liejdaMXVkLWRIWF9TU2JJVHdaNkNKVm8yQlhtQzRHN3JZM3h3Q3MtVnJzVWpWcmw4REp0OGs4OGl6VmJIbldVVVZ5Ukt4VTU4WVFlN3A5LUUzVDN5M19yaF90SDBfSmNEV2d5SFFtSDJFbDA1akRIRlN3?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T13:34:45+00:00",
+   "seen": "2026-11-19T14:18:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar Games releases Grand Theft Auto VI for PlayStation 5 and Xbox Series X|S."
   },
   {
    "id": "grand theft auto vi is here what to know about characters music and hype",
@@ -4081,6 +4159,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 launches worldwide as employee-leave requests rise in Israel and abroad."
+  },
+  {
+   "id": "gta 6 earns eight award nominations and a 99 metacritic score upon release",
+   "title": "GTA 6 Earns Eight Award Nominations and a 99 Metacritic Score Upon Release",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWG9kWWI3VmwydS1YMmZHWkNnZlJDRXRYU3RkVTVXMWlPVk41Vzh2QjdKN2J2RTJzT1JsVlFSYW9IMkppMDFvdE40V3c1ajVIOU9xMHVRdm54ZFpxdjhhSURtbHRvcHFWaElZZGU4X0VOUmg2bEwwMWJ5aEYxSXRmZEg0aw?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-19T09:17:18+00:00",
+   "seen": "2026-11-19T14:18:50+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 earns eight award nominations and a 99 Metacritic score upon release."
   },
   {
    "id": "gta vi reaches gaming s highest peak with a 99 metacritic score",
