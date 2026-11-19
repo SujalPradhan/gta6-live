@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:12:26+00:00",
- "started": "2026-11-19T09:12:13+00:00",
+ "updated": "2026-11-19T09:17:24+00:00",
+ "started": "2026-11-19T09:17:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T09:12:13+00:00"
+   "checked": "2026-11-19T09:17:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 94,
-   "checked": "2026-11-19T09:12:13+00:00"
+   "checked": "2026-11-19T09:17:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T09:12:14+00:00"
+   "checked": "2026-11-19T09:17:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T09:12:14+00:00"
+   "checked": "2026-11-19T09:17:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T09:12:14+00:00"
+   "checked": "2026-11-19T09:17:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-19T09:12:14+00:00"
+   "checked": "2026-11-19T09:17:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T09:12:15+00:00"
+   "checked": "2026-11-19T09:17:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T09:12:15+00:00"
+   "checked": "2026-11-19T09:17:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T09:12:15+00:00"
+   "checked": "2026-11-19T09:17:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T09:12:15+00:00"
+   "checked": "2026-11-19T09:17:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T09:12:15+00:00"
+   "checked": "2026-11-19T09:17:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T09:12:15+00:00"
+   "checked": "2026-11-19T09:17:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T09:12:15+00:00"
+   "checked": "2026-11-19T09:17:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T09:12:15+00:00"
+   "checked": "2026-11-19T09:17:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 beginner s guide essential tips and hidden mechanics",
+   "title": "GTA 6 beginner’s guide: Essential tips and hidden mechanics",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0bThqczRwazU2QVotSmRPVmFiV2VxbEtyRlVwZzNpa3c5dF9NdW16MHA2cks3M3pTQTFmeTFCdGZYSWNpcTl3c2FmbW5EQkpFOG1BQzFRVTR3NlNrVmstTg?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-19T09:12:04+00:00",
+   "seen": "2026-11-19T09:17:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports essential tips and hidden mechanics for GTA 6 beginners."
+  },
+  {
+   "id": "3 ps5 settings you should change before playing gta 6",
+   "title": "3 PS5 Settings You Should Change Before Playing GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNPVkNFUnlGaU43Szl1N2dCdEhqbTJoUlAzVTdVMF9JcTdtOWpMTlBFa0I4bXJBZXhKVkxIMlFmcXRJalRZRWJqcmo5UTVNMXNSVm41U1dqTmZITHd0MkNKWFpScnB3Z1RkQW9qYm9sb0dMMHVHTmQ3bDlJc2lNeFp1MzA?oc=5",
+   "outlet": "SlashGear",
+   "via": "Google News",
+   "published": "2026-11-19T09:09:43+00:00",
+   "seen": "2026-11-19T09:17:15+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports three PS5 settings you should change before playing GTA 6."
+  },
   {
    "id": "gta 6 sets streaming record before worldwide release",
    "title": "GTA 6 sets streaming record before worldwide release",
@@ -168,6 +194,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A piece about GTA VI pushing the limits of virtual world technology."
+  },
+  {
+   "id": "gta 6 dev speaks on the improved wanted system and how rockstar was able to orchestrate the kind of experience we wanted players to have the",
+   "title": "GTA 6 dev speaks on the improved wanted system and how Rockstar was able to ‘orchestrate the kind of experience we wanted players to have’ — ‘There were many times throughout development where the cops were too easy or too hard, and we had to figu",
+   "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQUERaci03VGRha0VfTXhFeHNmWDVnOXNneUxYSXc4VFRPM0RqZWh0b3N5WkRSTDVXaE1SOFZIU0lGblZDa1JxUkxQZGxFeDY4U2FQZ2FVWDQ5SWZ4bEFvd0dIaWNMWjhla0dRRGpEY2FGV3U1WWU5cVphYWlzNHN6Q2Z2bW9jamVDVkR3d2NuOWo2Z2FXME5HRTZ4WWdKRVhiUDBOM1h1bXNpcFB1eEFWZG5rVkpwSUdkM05tYWFnSnowVlJ4VEQwOG1vdmdMT1VIUGlUNnNvU2JrcnJRam4xUEVjcmtZNXprdl9DODlxMFRsb253MXlza1Vja1hUNU45UkFNb2wtbFpzZWZsSk9LalJHbWIydEdZcXRpLTNjOWNtR3cwQ2Z1YURjSWdwaXZRYkluT1RpTHFZZ3ZfNEY4dF83ZG1ncEVlODJOYUNvZUxJc2dtZTJSUllra19VRUk5WE5ZS25rSmNtRVFiQm12cC0zSHdRa3J3VU1wajZER1ZLRlpCTG0w?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-19T09:00:00+00:00",
+   "seen": "2026-11-19T09:17:15+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports the developer discusses the improved wanted system and shaping the player experience, noting variation in cops during development."
+  },
+  {
+   "id": "gta 6 is finally here",
+   "title": "GTA 6 is FINALLY here!",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oM0lVYVFHaHpSY2ItczFRWlBtUW5BYXh3MlNldGgybHZoa1lhOEZUSU1jZ1F4VmlCdWRkUE0xQWtMZG5tcklfVEVYT1NvYWJNc3VBLTA2TlRWanlCOXRFeWNxa0lzU09GUnc?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-19T09:00:00+00:00",
+   "seen": "2026-11-19T09:17:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is finally released."
   },
   {
    "id": "playstation network struggles with gta vi launch traffic",
@@ -363,6 +415,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story says gamers get a cinematic first taste of Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 earns universal acclaim but 60fps will have to wait",
+   "title": "'GTA 6' earns universal acclaim – but 60fps will have to wait",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xZGtiVm1QUXRILU9jN0lybUNVSHBld1JWSGh4eDlPYkZ6RHNhNXVUbVgtSXd5UmRXSkJyVnJBcldrZ2tWb2ZDTTB5Vzljd09xWnhUbElDR0Zya1BKZ2s0QTRDUHNieEhkRG8zNmlDdkhidUduSERNYzdR?oc=5",
+   "outlet": "FlatpanelsHD",
+   "via": "Google News",
+   "published": "2026-11-19T08:34:41+00:00",
+   "seen": "2026-11-19T09:17:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 earns universal acclaim but 60fps performance will have to wait."
   },
   {
    "id": "gta vi lets you use these cheat codes but only after beating the main story",
