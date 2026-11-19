@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:04:43+00:00",
- "started": "2026-11-19T16:04:31+00:00",
+ "updated": "2026-11-19T16:09:56+00:00",
+ "started": "2026-11-19T16:09:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:04:32+00:00"
+   "checked": "2026-11-19T16:09:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:04:32+00:00"
+   "checked": "2026-11-19T16:09:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T16:04:33+00:00"
+   "checked": "2026-11-19T16:09:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:04:33+00:00"
+   "checked": "2026-11-19T16:09:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:04:33+00:00"
+   "checked": "2026-11-19T16:09:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T16:04:34+00:00"
+   "checked": "2026-11-19T16:09:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-19T16:04:34+00:00"
+   "checked": "2026-11-19T16:09:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T16:04:34+00:00"
+   "checked": "2026-11-19T16:09:51+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-19T16:04:34+00:00"
+   "hits": 6,
+   "checked": "2026-11-19T16:09:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T16:04:35+00:00"
+   "checked": "2026-11-19T16:09:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T16:04:35+00:00"
+   "checked": "2026-11-19T16:09:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T16:04:35+00:00"
+   "checked": "2026-11-19T16:09:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T16:04:37+00:00"
+   "checked": "2026-11-19T16:09:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T16:04:37+00:00"
+   "checked": "2026-11-19T16:09:52+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi launch hammers global networks",
+   "title": "‘Grand Theft Auto VI’ launch hammers global networks",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ21tb1lkSmJEWFQySUZVU1lsLUx6czd2SEsxZ25vbHVrYUN3TlBIbnJPZ1E1cEJRNkZlS21OSEFPcGFrSGVLSG5Sb21zTlBUNjdPSWppcjVyZW1USW83NjE2cDg2a1V1ZVJMYWg0dWNfLVp6dzZ0dnc5V0x5QmFXZnJSajhwOTQwUHVfYUoxSGNXVkNvRkNlY3QxSk4?oc=5",
+   "outlet": "Computer Weekly",
+   "via": "Google News",
+   "published": "2026-11-19T16:06:28+00:00",
+   "seen": "2026-11-19T16:09:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI launch disrupts global networks."
+  },
+  {
+   "id": "northern california gamers lock in for gta vi",
+   "title": "Northern California gamers lock in for GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenVqZ1ZsRGNHTDRFOXZ5UWM2U3RZSlBaYUVIODNLT1d6SmJsYTQ1N0VabHliUUh1RTdfc25Vb1FNNkhiNExNSDdEUE9Hb3BzRV9TZmNGZldTSW96M2RsLTBrYVZDNFJLdlF6d1R4WTF5TW9hSll6TDBNNFBncXN3Z1hDMUNsNzFORFdBcTdTQkVtdTVPalRwRVdmbWk2bC1ydzB3ZDZHYlZCQzI2V0p1YV9mZ2k0UE9OLW5TTHM0TUd5Y3hK?oc=5",
+   "outlet": "ABC10",
+   "via": "Google News",
+   "published": "2026-11-19T16:03:00+00:00",
+   "seen": "2026-11-19T16:09:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that gamers in Northern California are preparing for GTA VI."
+  },
   {
    "id": "two cool hidden features gta 6 doesn t explain flipping and sitting",
    "title": "Two Cool, Hidden Features GTA 6 Doesn’t Explain: Flipping And Sitting",
@@ -129,6 +155,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Today is the last day to order GTA VI to receive the Free Vintage Vice City Pack."
+  },
+  {
+   "id": "gta vi finally hits the streets",
+   "title": "GTA VI finally hits the streets",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemh6TjFLdVBvMVZJZUF2d0tSbnZjdjhGTndDSmhpZjNTUlF5Y3E1NnBpYlBnb1d5enpodk84MURMeHFUcjhURzNjcmFDMWpYMzB6LWF0ZDJUbXVEZHlKSTJtbnRVckJadTFZNlVtZ0lQXzdFU3N3TmRLMkJzbGtibFR2NWF1ZkVTSExOZ2ZJSUlSQ1pmdWZpUkEwSGV4bnczVWFpdE05clVGeWVjRjQ0WnoydWtUdw?oc=5",
+   "outlet": "11Alive.com",
+   "via": "Google News",
+   "published": "2026-11-19T15:59:00+00:00",
+   "seen": "2026-11-19T16:09:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI is now available on the streets."
+  },
+  {
+   "id": "who is mandy in gta 6 the surprise fan favorite might be the game s most dangerous character",
+   "title": "Who Is Mandy In GTA 6? The Surprise Fan-Favorite Might Be The Game's Most Dangerous Character",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QSUZVLS1zUWZGU2EtVVBwSXMtYWhPc0dlUndyZVhOTHk1YlNuNE9VSXc5eFpTWGpfcDc5SllvVmJscjU3dk9NT2wtSEd1MXdESUNGT1JMdDdEUFdqaW5yelYzWWwzdzZIdkhpOQ?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-19T15:58:54+00:00",
+   "seen": "2026-11-19T16:09:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Mandy is a surprise fan-favorite and may be the game's most dangerous character."
   },
   {
    "id": "gta 6 just moved in mission walkthrough",
@@ -168,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Some gamers may choose not to work on Thursday due to GTA VI."
+  },
+  {
+   "id": "from trump to milei how world leaders hijack the gta 6 hype",
+   "title": "From Trump to Milei: How World Leaders Hijack the GTA 6 Hype",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXkyQWxPRnhuN2FORENpODVGX21mbUE1Q3B6blhIaDlXMG1ZWEVBcS1SeUdhVnpRdjZrNlhqQUg5dUU1YjNnTS0xMWM4Smw0NWtzb1JIemxOZk1nVUhjNC14cHVfODBmZkw3cEF1QklVSEh6bkJwdmttX0gzaEVfVGNBNGlKbDBhb24zMEhtNHV6UUNnVUFQLUx0bw?oc=5",
+   "outlet": "Hungarian Conservative",
+   "via": "Google News",
+   "published": "2026-11-19T15:56:15+00:00",
+   "seen": "2026-11-19T16:09:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that world leaders are leveraging GTA 6 hype, from Trump to Milei."
   },
   {
    "id": "gta 6 is finally here here s where you can buy it ahead of black friday",
