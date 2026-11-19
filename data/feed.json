@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:57:27+00:00",
- "started": "2026-11-19T08:56:51+00:00",
+ "updated": "2026-11-19T08:59:13+00:00",
+ "started": "2026-11-19T08:58:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T08:56:51+00:00"
+   "checked": "2026-11-19T08:58:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 92,
-   "checked": "2026-11-19T08:56:51+00:00"
+   "checked": "2026-11-19T08:58:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T08:56:52+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T08:58:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T08:56:52+00:00"
+   "checked": "2026-11-19T08:58:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T08:56:52+00:00"
+   "checked": "2026-11-19T08:58:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-19T08:56:52+00:00"
+   "checked": "2026-11-19T08:58:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T08:56:52+00:00"
+   "checked": "2026-11-19T08:58:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T08:56:52+00:00"
+   "checked": "2026-11-19T08:58:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T08:56:53+00:00"
+   "checked": "2026-11-19T08:58:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T08:56:53+00:00"
+   "checked": "2026-11-19T08:58:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T08:56:53+00:00"
+   "checked": "2026-11-19T08:58:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T08:56:53+00:00"
+   "checked": "2026-11-19T08:58:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T08:56:53+00:00"
+   "checked": "2026-11-19T08:58:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T08:56:53+00:00"
+   "checked": "2026-11-19T08:58:42+00:00"
   }
  },
  "items": [
@@ -714,6 +714,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 launch breaks records with a large global gaming audience."
+  },
+  {
+   "id": "gta 6 could make us 3 5 billion in the next week here s how games make so much money",
+   "title": "GTA 6 could make US$3–5 billion in the next week. Here’s how games make so much money",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PdUpXQkJweFZkNkFYYXNZc1kxZjNkUUNBcmdWMkNIclAzaGdVcG04MVcxMXE0OFNFWi1VRUtuVF9fcTEyWmVwZEQzR1E3Q0JHUjgzOWJzTnZBNUJ2dVRlUlozTE9XY0VuSVFObUlhQnBYbUpxQThXdQ?oc=5",
+   "outlet": "OnlineKhabar English News",
+   "via": "Google News",
+   "published": "2026-11-19T07:00:44+00:00",
+   "seen": "2026-11-19T08:58:40+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 could make US$3–5 billion in the next week and explains how games generate such revenue."
   },
   {
    "id": "gta 6 removes major gta v feature making it stand out from previous releases",
@@ -2688,7 +2701,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "In Grand Theft Auto 6 you can deposit cash into a BuckMe bank, and even work towards family savings",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The article explains how to manage money in GTA 6 and use the BuckMe bank savings app."
   },
   {
    "id": "gta 6 weapon ownership explained how to keep your favorite guns",
@@ -2700,7 +2714,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "The difference between owned weapons, unowned weapons, and unique weapon variants in GTA 6",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The piece explains weapon ownership in GTA 6, including owned, unowned, and unique weapon variants."
   },
   {
    "id": "should you pay into family savings in gta 6",
@@ -2712,7 +2727,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Should you transfer money into the BuckMe Family Saving account? Here's everything you need to know about it in GTA 6",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The story discusses whether you should pay into the BuckMe Family Saving account in GTA 6."
   },
   {
    "id": "how to store manage and recover guns at ammu nation in gta 6",
@@ -2724,7 +2740,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Tweak your loadout at Ammu-Nation stores around the world to get the best out of your weapons",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The article covers storing, managing, and recovering guns at Ammu-Nation in GTA 6."
   },
   {
    "id": "how to manage your loadout in gta 6",
@@ -2736,7 +2753,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Everything you need to know about managing your loadout in GTA 6, including how to store and recover your favorite guns in your car",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The guide covers how to manage your loadout in GTA 6, including storing and recovering guns in your car."
   },
   {
    "id": "how to get a six star wanted level in gta 6",
@@ -2748,7 +2766,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "The Wanted Level goes up to six now, but it isn't for the faint of heart",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The piece explains how to get a six-star wanted level in GTA 6 and notes it is challenging."
   },
   {
    "id": "how to use headphones in gta 6 to listen to music and podcasts",
@@ -2760,7 +2779,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "If you own a pair of headphones in GTA 6, you can even listen to your favorite shows while on foot for the very first time",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The article explains using headphones in GTA 6 to listen to music and podcasts."
   },
   {
    "id": "how to use the gta 6 index to find your next objective",
@@ -2772,7 +2792,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Want to know where to go next in GTA 6? Then the Index is about to become your best friend",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The guide explains using the GTA 6 Index to find your next objective."
   },
   {
    "id": "here s how to save your game in gta 6",
@@ -2784,7 +2805,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "There's 15 save slots that you can use at practically any time",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The story explains how to save your game in GTA 6, noting multiple save slots."
   },
   {
    "id": "how to switch characters in gta 6 and give your partner instructions",
@@ -2796,7 +2818,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Learn how to switch characters and issue commands to Jason and Lucia in GTA 6",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The piece explains how to switch characters and give commands in GTA 6."
   },
   {
    "id": "how to change the time of day in gta 6",
@@ -2808,7 +2831,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "It's possible to advance from day to night so long as you follow this one trick",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The guide explains how to change the time of day in GTA 6."
   },
   {
    "id": "gta 6 first person mode explained",
@@ -2820,7 +2844,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Just because you saw GTA 6 first-person mode in the leaks doesn't necessarily mean it's in the final game",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The article explains GTA 6 first-person mode."
   },
   {
    "id": "feature gta 6 launch hub",
@@ -2832,7 +2857,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "Flower in a hurricane. Well, it's finally here, and for many, I imagine that it all feels quite surreal. GTA 6 is out now here in the UK, which is why this article's being published at midnight GMT. Read the full article on pushsquare.com",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Launch hub feature covers early impressions of GTA 6 on PS5 for UK readers."
   },
   {
    "id": "users report playstation issues hours before gta vi drop",
@@ -2844,7 +2870,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The report notes PlayStation issues hours before GTA VI drop."
   },
   {
    "id": "reports playstation network outages dwindling down on eve of grand theft auto vi release",
@@ -2856,7 +2883,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Outage",
-   "record": false
+   "record": false,
+   "ai_summary": "The report notes PlayStation Network outages dwindling on the eve of GTA 6 release."
   },
   {
    "id": "gta 6 is out 13 years in the making records incoming",
@@ -2868,7 +2896,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 is out after a long wait, with reports of records."
   },
   {
    "id": "can you replay missions in gta 6",
@@ -2880,7 +2909,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Can you replay any of the missions in GTA 6?",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The article answers whether you can replay missions in GTA 6."
   },
   {
    "id": "gta 6 chapter 1 just like paradise guide how many missions are in gta 6 chapter 1",
@@ -2892,7 +2922,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "How long is GTA 6 Chapter 1? This guide explains everything",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The guide explains how many missions are in GTA 6 Chapter 1."
   },
   {
    "id": "want to talk grand theft auto 6 with gaming friends here s a primer as new version drops",
@@ -2904,7 +2935,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The primer helps discuss Grand Theft Auto 6 with gaming friends as the new version drops."
   },
   {
    "id": "gta 6 launch causes massive spike in traffic for internet provider xfinity",
@@ -2916,7 +2948,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "Internet provider Xfinity has reported a massive spike in traffic on Xbox consoles for GTA 6's New Zealand launch.",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Xfinity reports a massive spike in traffic on Xbox consoles for GTA 6's New Zealand launch."
   },
   {
    "id": "psn down sporadically for some as gta 6 launches around the world",
@@ -2928,7 +2961,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "Squeaky bum time. GTA 6 is a single player game , but Sony’s servers are taking a hammering as the game goes online around the world. While you can’t play Rockstar’s latest with other people, you will need to verify your digital license once the title is available in your region – a timely reminder of the digital era we’re all now living in. Read the full article on pushsquare.com",
    "topic": "Outage",
-   "record": false
+   "record": false,
+   "ai_summary": "PSN experiences sporadic downtime for some as GTA 6 launches worldwide."
   },
   {
    "id": "unprecedented unbelievable unmissable the gta 6 reviews are in here s what they re saying",
@@ -2940,7 +2974,8 @@
    "seen": "2026-11-19T08:41:38+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "The article covers the reception to GTA 6 reviews."
   },
   {
    "id": "gta 6 launches after 13 year wait breaking pre order records",
@@ -2952,7 +2987,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 launches after a 13-year wait and breaks pre-order records."
   },
   {
    "id": "why grand theft auto vi s release is a major cultural moment",
@@ -2964,7 +3000,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The piece argues GTA VI's release is a major cultural moment."
   },
   {
    "id": "gta 6 chapter 1 warning read this before finishing chapter 1 of gta 6",
@@ -2976,7 +3013,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "One of the game's early missions has massive consequences",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "One of GTA 6's early missions has massive consequences according to the report."
   },
   {
    "id": "gta 6 sales predictions will grand theft auto vi shatter records",
@@ -2988,7 +3026,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 sales predictions question whether the game will shatter records."
   },
   {
    "id": "gta 6 sales predictions will it shatter launch records",
@@ -3000,7 +3039,8 @@
    "seen": "2026-11-19T08:41:38+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 sales predictions question whether the launch will shatter records."
   },
   {
    "id": "vice city is coming to oak cliff dallas record stores hold gta 6 listening party to celebrate release",
@@ -3012,7 +3052,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "'Vice City' is coming to Oak Cliff as Dallas stores host a GTA 6 listening party to celebrate release."
   },
   {
    "id": "confirmed gta 6 voice actors cast list",
@@ -3024,7 +3065,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Rockstar Games has assembled a hugely talented cast to act out the GTA 6 story, and the cast list is pieced together with many voice actors. The post Confirmed GTA 6 Voice Actors—Cast List appeared first on Insider Gaming .",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Confirmed GTA 6 voice actors and cast list are reported by Insider Gaming."
   },
   {
    "id": "gta 6 doesn t let players pick up prostitutes but rockstar has a logical reason for it",
@@ -3036,7 +3078,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "Rockstar Games has revealed why they chose to forego the ability to pick up prostitutes in GTA 6.",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "Rockstar explains why GTA 6 does not let players pick up prostitutes."
   },
   {
    "id": "6 stocks set to cash in on the grand theft auto vi launch boom",
@@ -3048,7 +3091,8 @@
    "seen": "2026-11-19T08:41:38+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Six stocks are named as set to benefit from the GTA VI launch boom."
   },
   {
    "id": "43 army members reenlisted in exchange for paid time off to play gta 6",
@@ -3060,7 +3104,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "If you’ve been following the GTA 6 hype train, you’ll probably remember the time that an army battalion went viral for offering service members four days of paid time off to play Rockstar's highly-anticipated game if they reenlisted.",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "An army unit reportedly reenlisted in exchange for paid time off to play GTA 6."
   },
   {
    "id": "gta 6 finally launches in uk after playstation outage left gamers furious",
@@ -3072,7 +3117,8 @@
    "seen": "2026-11-19T08:41:38+00:00",
    "summary": "",
    "topic": "Outage",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 launches in the UK after a PS outage angered gamers."
   },
   {
    "id": "one in five workers taking time off for gta 6 it s claimed",
@@ -3084,7 +3130,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "A claim that one in five workers are taking time off for GTA 6."
   },
   {
    "id": "how to take drugs in grand theft auto 6 where to find drugs explained",
@@ -3096,7 +3143,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Grand Theft Auto 6 adds the ability to consume drugs at will. In this guide, you can learn how to do that. The post How to Take Drugs in Grand Theft Auto 6? Where to Find Drugs, Explained appeared first on Insider Gaming .",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "A guide explains how to take drugs in GTA 6 and where to find them."
   },
   {
    "id": "gta 6 discharge time mission walkthrough",
@@ -3108,7 +3156,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 6 Chapter 1 ends with a bang in Discharge Time",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 Chapter 1 ends with Discharge Time."
   },
   {
    "id": "gta 6 home sweet home mission walkthrough",
@@ -3120,7 +3169,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Home Sweet Home is the second last mission of GTA 6 Chapter 1",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Home Sweet Home is the second last mission of GTA 6 Chapter 1."
   },
   {
    "id": "gta 6 tourist trap mission walkthrough",
@@ -3132,7 +3182,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "The finale of GTA 6 Chapter 1 kicks off",
    "topic": "Streaming",
-   "record": false
+   "record": false,
+   "ai_summary": "The finale of GTA 6 Chapter 1 is the Tourist Trap mission."
   },
   {
    "id": "gta 6 recalibration mission walkthrough",
@@ -3144,7 +3195,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Recalibration sees Jason and Lucia get Cal back on his feet",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Recalibration shows Jason and Lucia getting Cal back on his feet."
   },
   {
    "id": "like a kid at christmas gta vi dazzles australian gamers with fully lived in breathable world",
@@ -3156,7 +3208,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA VI dazzles Australian gamers with a fully lived-in world."
   },
   {
    "id": "grand theft auto vi earns more than 1 5 billion before release",
@@ -3168,7 +3221,8 @@
    "seen": "2026-11-19T08:42:46+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA VI earns more than $1.5 billion before release."
   },
   {
    "id": "gta vi is smashing twitch s records and it wants to make sure advertisers don t miss out",
@@ -3180,7 +3234,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA VI is smashing Twitch records and drawing advertiser interest."
   },
   {
    "id": "who is mandy in gta 6 pipework mission and serial killer theory explained",
@@ -3192,7 +3247,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Mandy is one of the most eye-catching GTA 6 characters that you meet during the game's earliest segment, but when does she pop up? The post Who is Mandy in GTA 6? Pipework Mission and Serial Killer Theory, Explained appeared first on Insider Gaming .",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Mandy is a key GTA 6 character encountered in the Pipework mission, with theories about her role."
   },
   {
    "id": "dozens of army soldiers sign up for unique reenlistment incentive to play grand theft auto vi",
@@ -3204,7 +3260,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Dozens of army soldiers sign up for a reenlistment incentive to play GTA VI."
   },
   {
    "id": "gta fans are ditching work i literally just put gta 6 in my pto request one worker said",
@@ -3216,7 +3273,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA fans are taking PTO to play GTA 6 according to a report."
   },
   {
    "id": "what would you do for gta vi launch these soldiers reenlisted for up to 6 more years",
@@ -3228,7 +3286,8 @@
    "seen": "2026-11-19T08:41:38+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Soldiers reenlisted for up to six more years for the GTA VI launch."
   },
   {
    "id": "when can you switch to lucia in gta 6 fastest method explained",
@@ -3240,7 +3299,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "In this guide, learn how and when you can switch between Jason and Lucia in Grand Theft Auto 6, which is out now. The post When Can You Switch To Lucia in GTA 6? Fastest Method, Explained appeared first on Insider Gaming .",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "The fastest method to switch to Lucia in GTA 6 is explained."
   },
   {
    "id": "how to play gta 6 early with the new zealand trick",
@@ -3252,7 +3312,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "An article explains how to play GTA 6 early using a New Zealand trick."
   },
   {
    "id": "gta 6 s record metacritic score stays maintains goat status",
@@ -3264,7 +3325,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6’s MetaCritic score remains a record-high GOAT status."
   },
   {
    "id": "gta 6 players are ignoring crime to jet ski with dogs and redecorate their bedrooms the funniest clips so far",
@@ -3276,7 +3338,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "The story reports GTA 6 players ignoring crime to jet-ski with dogs and redecorate their bedrooms, with the funniest clips so far."
   },
   {
    "id": "video twitch streamer known as big cheese on gta 6 hype abc news",
@@ -3288,7 +3351,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": false
+   "record": false,
+   "ai_summary": "A video about a Twitch streamer known as Big Cheese on GTA 6 hype is reported."
   },
   {
    "id": "gta 6 development is hush hush but we may know where one car recording came from",
@@ -3300,7 +3364,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Development of GTA 6 is described as hush hush, with speculation about the origin of a car recording."
   },
   {
    "id": "gta 6 don gone mission walkthrough",
@@ -3312,7 +3377,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Chapter one is coming to an end with GTA 6's Don Gone mission",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 Don Gone mission walkthrough is highlighted as Chapter one ends."
   },
   {
    "id": "yes that s weird al hosting a radio station in gta 6",
@@ -3324,7 +3390,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Yes, Weird Al is hosting a radio station in GTA 6."
   },
   {
    "id": "guide gta 6 guide all guides collectibles",
@@ -3336,7 +3403,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "Miami Vice. Welcome to our GTA 6 guide , the latest game in Rockstar's long-running crime sandbox series. The goal of our guide is to help you get the most out of your time in Leonida, and achieve 100% completion with as few spoilers as possible. This page serves as an index, and can be used as an easily browsable hub to access all of our specific guides pages, whether you're looking for collectib",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 guide covers all guides and collectibles, serving as an index to help achieve 100% with minimal spoilers."
   },
   {
    "id": "guide gta 6 how to get ultimate editon items pre order bonuses",
@@ -3348,7 +3416,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "The $100 questions. GTA 6's Ultimate Edition features a collection of different items and pre-order bonuses, including vehicles, weapons, and cosmetics. These are unlocked at different points in the story, and some need to be collected from locations around the map. This GTA 6 guide includes step-by-step instructions on how to collect them and when they become available. <blocks> Read the full art",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 guide explains How to Get Ultimate Edition items and pre-order bonuses, with steps to collect them."
   },
   {
    "id": "gta vi industry domination will not end anytime soon",
@@ -3360,7 +3429,8 @@
    "seen": "2026-11-19T05:57:47+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The Hollywood Reporter states GTA VI industry domination will not end soon."
   },
   {
    "id": "gta 6 hits an estimated 17 million digital sales as it launches nearly 6 million more than gta 5 sold on day one",
@@ -3372,7 +3442,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 launches with an estimated digital sales figure, more than GTA 5 on day one."
   },
   {
    "id": "guide gta 6 tips tricks you need to know",
@@ -3384,7 +3455,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "Play like a Leonida pro. GTA 6's vast open world is begging to be explored, but before you sink your teeth into Leonida, there are a handful of tips and tricks you should know. This spoiler-free GTA 6 guide includes info on a dozen key features and mechanics that will help you make the best start to your life in Vice City. <blocks> Read the full article on pushsquare.com",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 tips and tricks guide provides spoiler-free advice for players in Leonida."
   },
   {
    "id": "befuddled japanese player fights gta 6 controls loses becomes guy chugging two shakes i accidentally bought while walking around in a squat",
@@ -3396,7 +3468,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "A Japanese player struggles with GTA 6 controls and reaction to in-game actions."
   },
   {
    "id": "gta 6 decimates live streaming record",
@@ -3408,7 +3481,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 decimates live-streaming records."
   },
   {
    "id": "gta 6 outlaws furries and lets you help them escape the cops",
@@ -3420,7 +3494,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 6’s fictional state of Leonida bans furry activity, and players can break through a police blockade to help a fursuited character escape.",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 bans furry activity in Leonida, while players can help a fursuited character escape cops."
   },
   {
    "id": "gta 6 sets game launch viewership record with 7 1 million peak viewers",
@@ -3432,7 +3507,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 sets a game launch viewership record with peak viewers."
   },
   {
    "id": "how long it takes to play gta 6 story playthrough and achievements",
@@ -3444,7 +3520,8 @@
    "seen": "2026-11-19T08:41:38+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "An article explains how long it takes to play GTA 6, covering story playthrough and achievements."
   },
   {
    "id": "grand theft auto vi draws rave reviews as gamers enter vice city",
@@ -3456,7 +3533,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City."
   },
   {
    "id": "gta 6 metacritic score hits historic 99 with 118 perfect reviews tying all time video game record at launch",
@@ -3468,7 +3546,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 Metacritic score reaches a historic high with perfect reviews, tying a record at launch."
   },
   {
    "id": "gta 6 at 60fps on ps5 pro isn t possible because the console is not powerful enough rockstar says",
@@ -3480,7 +3559,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "We're stuck with 30fps for the time being",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GamesRadar+ states 60fps on PS5 Pro isn't possible due to power limitations; current frame rate is 30fps."
   },
   {
    "id": "ps5 pro s cpu upgrade is not enough for gta 6 at 60 fps",
@@ -3492,7 +3572,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 6 on PS5 Pro adds ray-traced shadows and PSSR improvements, but Rockstar says CPU limits prevent the game from reaching higher FPS. The post PS5 Pro’s CPU Upgrade Is Not Enough for GTA 6 at 60 FPS appeared first on Insider Gaming .",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Insider Gaming reports PS5 Pro's CPU upgrade is not enough for 60 FPS in GTA 6, despite other enhancements."
   },
   {
    "id": "take two stock surges on rave reviews for grand theft auto 6",
@@ -3504,7 +3585,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Take-Two stock rises on rave reviews for Grand Theft Auto 6."
   },
   {
    "id": "rockstar leaves sex workers out of grand theft auto for first time in 25 years",
@@ -3516,7 +3598,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Rockstar reportedly leaves sex workers out of Grand Theft Auto for the first time in 25 years."
   },
   {
    "id": "grand theft auto vi the album tracklist artists and everything you need to know",
@@ -3528,7 +3611,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The Album feature covers tracklist and artists related to Grand Theft Auto VI."
   },
   {
    "id": "playstation users report outages as gta 6 begins global launch",
@@ -3540,7 +3624,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Outage",
-   "record": false
+   "record": false,
+   "ai_summary": "PlayStation users report outages as GTA 6 begins a global launch."
   },
   {
    "id": "should gta 6 have been nominated at the game awards have your say",
@@ -3552,7 +3637,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Have your say on the biggest story of the awards season",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Readers can weigh in on whether GTA 6 should have been nominated at The Game Awards."
   },
   {
    "id": "a gta 6 location was teased by rockstar all the way back in 2021 and what s inside was worth the wait",
@@ -3564,7 +3650,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "In 2021, Rockstar fans believed that a GTA 6 screenshot was snuck into the GTA trilogy collection, but there's more to this theory than meets the eye.",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "A GTA 6 location teased by Rockstar in 2021 is linked to a rumored reveal of what’s inside."
   },
   {
    "id": "gta vi breaks records ahead of its thursday release",
@@ -3576,7 +3663,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA VI is reported to break records ahead of its Thursday release."
   },
   {
    "id": "gta 6 the album soundtrack gets vinyl and cd release where to buy",
@@ -3588,7 +3676,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The GTA 6: The Album soundtrack is getting vinyl and CD releases and guidance on where to buy."
   },
   {
    "id": "gta 6 bigfoot sightings already ramping up as rockstar honors a 22 year old grand theft auto legend",
@@ -3600,7 +3689,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Things are already getting weird in Leonida",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 sightings of Bigfoot rise as a Rockstar tribute to a GTA legend."
   },
   {
    "id": "grand theft auto vi nz internet use spikes by a third to record peak",
@@ -3612,7 +3702,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "NZ internet use spikes to a new peak amid GTA VI coverage."
   },
   {
    "id": "gta 6 reviews land at 99 on metacritic tying the highest score ever given",
@@ -3624,7 +3715,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 reviews reach a score of 99 on Metacritic, tying a high accolade."
   },
   {
    "id": "gta 6 s japanese version only partially obscures male nudity by putting jason in a thong seemingly due to regional censorship",
@@ -3636,7 +3728,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 6 is slowly rolling out across the globe. The crime epic's already available to play in countries such as South Korea and New Zealand , but Japanese players are finding out that male nudity is only partially obscured by a thin black thong that covers Jason and the other men in Leonida. Read more",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6's Japanese version partially hides male nudity with a thong, citing regional censorship."
   },
   {
    "id": "playstation suffers widespread network problems hours before release of gta vi",
@@ -3648,7 +3741,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "PlayStation experiences widespread network problems ahead of GTA VI release."
   },
   {
    "id": "gta 6 is already a massive sales success",
@@ -3660,7 +3754,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 described as a massive sales success."
   },
   {
    "id": "gta 6 is finally out wells fargo thinks it can sell 65 million copies by march",
@@ -3672,7 +3767,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Wells Fargo projects GTA 6 sales of 65 million copies by March."
   },
   {
    "id": "gta 6 is out wells fargo sees 65m sales by march take two interactive nasdaq ttwo",
@@ -3684,7 +3780,8 @@
    "seen": "2026-11-19T05:49:02+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Take-Two reports GTA 6 sales projection of 65 million copies by March."
   },
   {
    "id": "grand theft auto vi finally launches on thursday pre sales reportedly hit 1 65 billion",
@@ -3696,7 +3793,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 pre-sales reportedly hit $1.65 billion ahead of launch."
   },
   {
    "id": "i finished gta 6 s main story ask me anything except for major spoilers",
@@ -3708,7 +3806,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Player reviews the GTA 6 main story in an AMA-style post."
   },
   {
    "id": "gta 6 earns record 99 score from critics",
@@ -3720,7 +3819,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 earns a record score of 99 from critics."
   },
   {
    "id": "gta 6 devs react to unprecedented reviews i feel like a kid on christmas morning",
@@ -3732,7 +3832,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Rockstar is celebrating, and it has every right to",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 devs react to unprecedented reviews with celebration."
   },
   {
    "id": "gta 6 not working on ps5 sony says this system update is required before you can play",
@@ -3744,7 +3845,8 @@
    "seen": "2026-11-19T05:49:02+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "PS5 users must install a system update before GTA 6 can be played."
   },
   {
    "id": "rockstar promotes gta 6 in china despite game lacking official approval",
@@ -3756,7 +3858,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Rockstar promotes GTA 6 in China despite no official game approval."
   },
   {
    "id": "playstation suffers major outage hours before gta vi launch",
@@ -3768,7 +3871,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Outage",
-   "record": false
+   "record": false,
+   "ai_summary": "PlayStation experiences a major outage hours before GTA VI launch."
   },
   {
    "id": "gta 6 launch live blog news reveals twitch drops tips and every update as it releases tomorrow",
@@ -3780,7 +3884,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 launch live blog promises updates, reveals, and tips as it releases tomorrow."
   },
   {
    "id": "gta 6 game reviews are in is it worth the wait",
@@ -3792,7 +3897,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 game reviews question whether it is worth the wait."
   },
   {
    "id": "gta 6 pre orders are rewriting the record books leaving spider man brand new day and avengers endgame in the dust",
@@ -3804,7 +3910,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 pre-orders are breaking records and surpassing major recent releases."
   },
   {
    "id": "gta 6 review roundup 99 on metacritic and 118 perfect scores",
@@ -3816,7 +3923,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 review roundup highlights Metacritic 99 and many perfect scores."
   },
   {
    "id": "gta 6 just broke twitch s biggest viewership record in just 30 minutes",
@@ -3828,7 +3936,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 sets a Twitch viewership record in just 30 minutes."
   },
   {
    "id": "gta 6 rating hits 99 on metacritic take two stock jumps 6",
@@ -3840,7 +3949,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 rating hits 99 on Metacritic as Take-Two stock rises."
   },
   {
    "id": "we got the end of the before gta 6 meme before gta 6",
@@ -3852,7 +3962,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Report claims we had the end of the 'before GTA 6' meme before the game release."
   },
   {
    "id": "where s everyone 12 5m gamers may call out adjust schedules to play gta 6 study finds",
@@ -3864,7 +3975,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "A study notes 12.5 million gamers may adjust schedules to play GTA 6."
   },
   {
    "id": "13 years of anticipation deserves a day off the gta vi work blackout is here",
