@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:54:23+00:00",
- "started": "2026-11-19T14:54:08+00:00",
+ "updated": "2026-11-19T14:59:21+00:00",
+ "started": "2026-11-19T14:59:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T14:54:09+00:00"
+   "checked": "2026-11-19T14:59:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T14:54:09+00:00"
+   "checked": "2026-11-19T14:59:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T14:54:10+00:00"
+   "checked": "2026-11-19T14:59:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:54:10+00:00"
+   "checked": "2026-11-19T14:59:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:54:10+00:00"
+   "checked": "2026-11-19T14:59:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T14:54:12+00:00"
+   "checked": "2026-11-19T14:59:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 35,
-   "checked": "2026-11-19T14:54:12+00:00"
+   "checked": "2026-11-19T14:59:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T14:54:13+00:00"
+   "checked": "2026-11-19T14:59:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T14:54:13+00:00"
+   "checked": "2026-11-19T14:59:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T14:54:14+00:00"
+   "checked": "2026-11-19T14:59:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T14:54:14+00:00"
+   "checked": "2026-11-19T14:59:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T14:54:14+00:00"
+   "checked": "2026-11-19T14:59:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T14:54:14+00:00"
+   "checked": "2026-11-19T14:59:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T14:54:15+00:00"
+   "checked": "2026-11-19T14:59:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "see y all in leonida jason s actor finally confirms he s in gta 6",
+   "title": "‘See y’all in Leonida’: Jason’s actor finally confirms he’s in GTA 6",
+   "link": "https://www.videogameschronicle.com/news/see-yall-in-leonida-jasons-actor-finally-confirms-hes-in-gta-6/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T14:56:48+00:00",
+   "seen": "2026-11-19T14:59:11+00:00",
+   "summary": "Jason and Lucia's actors finally confirm they are in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that the actors for Jason and Lucia confirm they are in GTA 6."
+  },
+  {
+   "id": "aptopix grand theft auto vi",
+   "title": "APTOPIX Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNem9RdFlld20wcElpbnlZUGtwSkMwZ3FUSXRlclVuRC1sbEY3ajRGc1BkV0dLQmVkR3A1OG9pdDBVVlVmaHA4bERwV3pFcDhMaGszbzFzTjh4T2RDTUxDcWQwY0tiN2tSNjkzZmFjWWJEWFdya0VmYWNaUThreXdJSGd5X0g3ck4xMVV6TlhqZV9FektwYmIweGdFY0Ztb0R4Y0hNWFB4SlZhQ0hwZnFWLTJCb1VobjJ0bXc?oc=5",
+   "outlet": "dailyrecordnews.com",
+   "via": "Google News",
+   "published": "2026-11-19T14:56:35+00:00",
+   "seen": "2026-11-19T14:59:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story is titled APTOPIX Grand Theft Auto VI with no snippet available."
+  },
+  {
+   "id": "gta 6 easy mode does gta 6 have difficulty options",
+   "title": "GTA 6 Easy Mode: Does GTA 6 have difficulty options?",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-easy-mode-does-gta-6-have-difficulty-options/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T14:54:21+00:00",
+   "seen": "2026-11-19T14:59:11+00:00",
+   "summary": "GTA 6's difficulty options are hidden in menus",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's difficulty options are hidden in menus."
+  },
+  {
+   "id": "police issue statement addressing vice city transplants on gta 6 release night 13wham tv",
+   "title": "Police issue statement addressing 'Vice City transplants' on GTA 6 release night - 13WHAM-TV",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPTXVUeGFBSDNKcndzQVN2cUJ1RVNlcjlIRWcyRFJlVmxtaTZpQjRXeWdwNGJpU2tTMWxyMTVXaDEtUEpuVDJNenhNNjlrekRvMEVOd0dzeW8xU0g0UDZ2ekxsbEdvR1JjdHV1ZVhaN1hSTWgzSW0xaVdZYW1MQnByNHdNYllIV3ROTlJiMmlXYzZfbHRnSHZtOVBtTFpjOENUVTZocURNa21XdjZmZGpfNWJiMXY0cGdickYxZW5UeG9vS0JxcURqYXkxMklHRVY2czg2T1ZldUc5dkZYcDJTeGdmRHlNX2J6QzhoX0lnV21Cak5lUzBma1BrTEtSZ000TXpmWF9LNm56Y2VtWWwtMlVOakRsTGIzcGhGNXctanlGX1dJMGl2Q0JGZzFDWnduRy03UjgyLXhJWHFrekZoeGsweUgwOTJOWTdXRDFSdUZBekxMVm9pSGY3TXVrUEVIdWdIcVkyQU8?oc=5",
+   "outlet": "13WHAM-TV",
+   "via": "Google News",
+   "published": "2026-11-19T14:53:51+00:00",
+   "seen": "2026-11-19T14:59:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers a police statement addressing 'Vice City transplants' on GTA 6 release night."
+  },
   {
    "id": "why gta 6 doesn t include disney world",
    "title": "Why GTA 6 Doesn’t Include Disney World",
@@ -129,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story proclaims GTA 6 is available and invites readers to return to Leonida with two characters."
+  },
+  {
+   "id": "video what parents need to know about gta 6 and kids abc news",
+   "title": "Video What parents need to know about GTA 6 and kids - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqOXZqTzBrYjF2Q1NJanVWTEkzQkJxRk5iOVZFeV9IdE10WTViNVF4Y2tWaWRPR1JDajZpSlFIbV8zVFFWZGlPSTFUeDg?oc=5",
+   "outlet": "Breaking News, Latest News and Videos",
+   "via": "Google News",
+   "published": "2026-11-19T14:44:56+00:00",
+   "seen": "2026-11-19T14:59:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides information parents need to know about GTA 6 and kids."
   },
   {
    "id": "the best ways to earn money in gta 6 early mid and late game",
@@ -350,6 +415,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "The story reports that GTA 6 Metacritic review score ties a long-standing record held by the original Ocarina of Time."
+  },
+  {
+   "id": "how to fish in gta 6",
+   "title": "How to fish in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ndXFJZUtHUzRhbVRna0poSkRPYng0MjBaZVFiMXhDMW1nXzYwVW52UjZiQm5vMndWaWVCbkg4Qm5Ed1ZJWXdNMUw3aWhVdGVwcmxOZ19Oa0pkWldCTmpv?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-19T14:33:30+00:00",
+   "seen": "2026-11-19T14:59:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to fish in GTA 6."
   },
   {
    "id": "gta 6 scores 99 as launch fever grips the world",
