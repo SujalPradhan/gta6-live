@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:01:27+00:00",
- "started": "2026-11-19T21:01:19+00:00",
+ "updated": "2026-11-19T21:06:30+00:00",
+ "started": "2026-11-19T21:06:20+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T21:01:19+00:00"
+   "checked": "2026-11-19T21:06:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T21:01:20+00:00"
+   "checked": "2026-11-19T21:06:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-19T21:01:20+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-19T21:06:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T21:01:21+00:00"
+   "checked": "2026-11-19T21:06:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T21:01:21+00:00"
+   "checked": "2026-11-19T21:06:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T21:01:21+00:00"
+   "checked": "2026-11-19T21:06:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T21:01:22+00:00"
+   "checked": "2026-11-19T21:06:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T21:01:22+00:00"
+   "checked": "2026-11-19T21:06:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T21:01:22+00:00"
+   "checked": "2026-11-19T21:06:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T21:01:22+00:00"
+   "checked": "2026-11-19T21:06:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T21:01:23+00:00"
+   "checked": "2026-11-19T21:06:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T21:01:23+00:00"
+   "checked": "2026-11-19T21:06:23+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T21:01:23+00:00"
+   "checked": "2026-11-19T21:06:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T21:01:23+00:00"
+   "checked": "2026-11-19T21:06:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 cost a whopping 1b to make here is how it compares to the biggest blockbusters made",
+   "title": "GTA 6 cost a whopping $1B to make — here is how it compares to the biggest blockbusters made",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXc1dFZwRXg3YzZERVNDRGhsMGRHNVlxVVFRSm10SW1SZUF5Zm1UZ2JlY0NwdTAwejJLdmRWYmtfTWVGWi0zMWY1UzY4Wm90NGdDalpvSnNLMVI5Qk91dVVLRXpYcVZuaHd4TUwteGV0WklxNVR3SEh2WnViUXFQTnVWcXcyaEVDa0l1R0dTVVdPY0NNd2xqS1EtSjk0b2J2cGw3U1gtOXB3UjREUGJLTzhYRFEwbEZjVmdqcUVMdlgxLVh1NUtmZw?oc=5",
+   "outlet": "New York Post",
+   "via": "Google News",
+   "published": "2026-11-19T21:03:00+00:00",
+   "seen": "2026-11-19T21:06:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 cost about $1B to make and compares it to major blockbusters."
+  },
+  {
+   "id": "and they re off in ai anthropic amd elon gta vi ard 210",
+   "title": "‘And They’re Off’ in AI. Anthropic, AMD, Elon & GTA VI. ARD #210",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zamtvS29LcThnRGktVnhpOC1MU3o1X1dsN19mRDJPNWkxcVBmUld0Y3dYSDktb2pCUU5Mak16Vmt3SEFJWDFWOXh4WVg5eGJOR0pSUFJRNkRIRGdEbGpWUkYwSkV2NXh2WHJySjYxM1ZUaWtHTi0yODJSOA?oc=5",
+   "outlet": "AI: Reset to Zero",
+   "via": "Google News",
+   "published": "2026-11-19T21:02:27+00:00",
+   "seen": "2026-11-19T21:06:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes topics and figures around AI, Anthropic, AMD, Elon and GTA VI."
+  },
+  {
+   "id": "gta 6 shows why you should never ever ever text and drive ever",
+   "title": "GTA 6 Shows Why You Should Never, Ever, Ever Text and Drive (Ever)",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FdXp0LW9Sb1VsakN0eDNoNE9zVXZhYUV2V0VrVnA2N3N4SjZoS2dxTGRJM2NpUGJpYkNacWZyY0FSYzZPRUZyQ2ViTjIzWUFUZWNXU0VRdkpoUE94V2NJ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T21:00:18+00:00",
+   "seen": "2026-11-19T21:06:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story argues GTA 6 shows why texting and driving is dangerous."
+  },
   {
    "id": "rockstar games announces grand theft auto vi the festival",
    "title": "Rockstar Games announces Grand Theft Auto VI: The Festival",
@@ -118,6 +157,45 @@
    "ai_summary": "Rockstar Games announces Grand Theft Auto VI: The Festival."
   },
   {
+   "id": "come to gta vi for the crime spree stay for the manatee",
+   "title": "Come to GTA VI for the crime spree. Stay for the manatee.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONlNVRmV2Q2FIRjl1Z3pGcFdsVlQ3Q1VLZjV3OHprV0NHOFBEX3JHNVlSRGsxZWpCU052QkRxUEgzNWNLVVo0VF9JUlNFMFNqS2VCZWs5MlFKZXRad1l6OGRaZUZCV2ZLYy1JR1FVc0ZSeFRvak5CaXVVeHF3RWVYV1hyTEY0LWhJbGFDQ3ZB?oc=5",
+   "outlet": "www.vox.com",
+   "via": "Google News",
+   "published": "2026-11-19T21:00:00+00:00",
+   "seen": "2026-11-19T21:06:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says people should visit GTA VI for a crime spree and mentions manatee."
+  },
+  {
+   "id": "gta vi steals the day a portion of in game location apparently inspired by port charlotte",
+   "title": "GTA VI STEALS THE DAY: A portion of in-game location apparently inspired by Port Charlotte",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQWhMTXBTanJFcGRwUHF4bUFncmF1UXlrNG1hZmxOMEU1UThKYkUzbHBpYXFQV0Z6OUJCYVpzTnN1Z21CelJSV1F2X185TDZSdEZybUdjMGQ1ZE5iZVBUS2J3UXE4U1YtRnI2R3NiYldjWm5lWFk2RnRIZ0tFMmIwb0MwaWNzT0VzaUJERmh5UG0yUGtEaThTN2FHX25fNzJFVGtxc2JObUVRdWRDNFh1VXliWUQzZVFTc1RKTTNHRHJoNzI1NXRvd2xVWWlSaHB3X2xUNDE1bk1Jb3Z5bHQ5SFZ0dmRJS0o2Z0ZZRzdjckpMZXRQb0MtMmh2LXI?oc=5",
+   "outlet": "yoursun.com",
+   "via": "Google News",
+   "published": "2026-11-19T21:00:00+00:00",
+   "seen": "2026-11-19T21:06:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says a portion of an in-game location appears inspired by Port Charlotte."
+  },
+  {
+   "id": "florida tiktoker trashes gta 6 for catering to lustful loser men and viewers lost their minds they are gonna hate on you for this but it is ",
+   "title": "Florida TikToker Trashes GTA 6 For Catering to 'Lustful, loser men' and Viewers Lost Their Minds: 'They are gonna hate on you for this but it IS true'",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUjVVSmRRY2RGcmVoT2NVYmwwU2NMQjRfNkJjdWtMZlRIYk1DYU04M3dOdHJxWUhKWFpBZ2xwN0N1bzduSERfcDVMbG1oY2plNWRGVFZZZ1dQX1lVUWxWSHNkd2thWFhSNGU3aHFvbTZua201MFBZOE1xWHpQVVZZUDR2QWRETm9MS0NtN1ZBLUNwVzZJMWkxS0otd29Va244SFFJWmROY3c1MlVHaGotR0c5VWRZWHlYT21aOEhFdWsta3FpY1NvTUF6QkltZHMtcVIyY3VNbmtKU1dsOXcxSUVtbWZIRnJPYVlYY3VmcDUtTk1hWUd4YkNMeFVCOVk?oc=5",
+   "outlet": "The Nerd Stash",
+   "via": "Google News",
+   "published": "2026-11-19T21:00:00+00:00",
+   "seen": "2026-11-19T21:06:21+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story covers a Florida TikToker criticizing GTA 6 for catering to certain viewers, prompting a reaction."
+  },
+  {
    "id": "grand theft auto vi gamers rejoice as rockstar games releases long awaited title after 13 years",
    "title": "'Grand Theft Auto VI': Gamers rejoice as Rockstar Games releases long-awaited title after 13 years",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZERoX29IR0xBTGk3TFc2UmdXR3hsYklaX1FJX1MtSk1rVkE2bEdJWGY3VGlvUlBHV3FKbzRDWmFCcy1pSGdyaG5KQnhmVEtGVnNZelQzSGczM1hUZW1WWnhEVmFDcThBSmhSTDJQdUY3RkdCY1BxTFVPNTRhMzV4ZkwtZGw1UzBCOE9DRTdxRG1kRGswNTJPUkx0S0FUYVRrUkljcjladDdHdm1LTnkyemY0WWhKTzdRT28wTVRlNjJWY1ZhV3JKbGxvSlBaeWlkcDNxMUE2UDhTRVU?oc=5",
@@ -129,6 +207,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Grand Theft Auto VI: Gamers rejoice as Rockstar Games releases long-awaited title after 13 years."
+  },
+  {
+   "id": "gta 6 fox news slams fans clavicular manosphere bros hate lucia",
+   "title": "'GTA 6': Fox News Slams Fans, Clavicular & Manosphere Bros Hate Lucia",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdHZ2Z2dhLTkwZHd3eENNZnk4RUhCbXd2NVM1TGhuYUFFUXdsLW96QXlHdWFoTHJ4czQ3WHh3TXhsOF9vY19KSk8zMExQSVY3a25FRkt6eEM3bFdKVFVuRWltNWxQUDVsVHcwTGRKbFlhN3RNeDdGWnJfLVhaTXVUeTd4UUtMQ0tmZkU3amtySG5DMGxmNUE?oc=5",
+   "outlet": "Variety",
+   "via": "Google News",
+   "published": "2026-11-19T20:59:00+00:00",
+   "seen": "2026-11-19T21:06:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Fox News criticized GTA 6 fans and a group described as Clavicular & Manosphere bros."
+  },
+  {
+   "id": "gta vi parodies culture wars with nick fuentes radio outlawed furries and more",
+   "title": "GTA VI Parodies Culture Wars With Nick Fuentes Radio, Outlawed Furries And More",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYjFlQzlfQ21RRlU1dGRLZm5BbVF6b0VrV0ZwYjRQd01WV19ZV29xTjV4akFQQzRHeGtKUlNvVnZlUEt0QWUyb1pJUUdTTzJ3LURpTlZOaWI1WHgtWkE2N0N2Nkx0aHhmRXBxemo4MDNVaW5ySnNSSl9VNUQzNGhBRWlnUERSNzl4Q1FUckVrM2JNWG1vdnRZRnNmSWRzeEFsZlBNVE4zbUxESzkxZUlhVkY5SzlGcXlaNEY5c0g5V0xPVTUtSmR1dERvQzl5S2ZKMldqSjEtOElZYlBYSzdzT1c1RU0?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-19T20:57:13+00:00",
+   "seen": "2026-11-19T21:06:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says GTA VI parodies culture wars with Nick Fuentes radio and other elements."
   },
   {
    "id": "grand theft auto vi drops for sony playstation 5 and xbox series x s here s where to shop the game online",
@@ -3717,6 +3821,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article states that Grand Theft Auto VI has been released."
+  },
+  {
+   "id": "i didn t expect gta 6 to be the game that tries to de toxify toxic masculinity",
+   "title": "I Didn’t Expect GTA 6 To Be The Game That Tries To De-Toxify Toxic Masculinity",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjN6b3Yzc0tGMlV2bDNvUnJnS2dvTXM2TE01SWVDaVRnM0lFal9JVmRkclZ4MUxsU2pkU3ZXWWxZVS1wcUUzRi05RUE1M1hxVDF1d3Z4QTFTc2JNc1VrUDRCcjRzd0dTb1Y2MmtKc1NKOUllWmoxWXJRSzUwRVlxbXFBYnBIR2Fyejk4QTR4TnAxNU53M3dPcFBGZUN1QS16dE9MMDdoN09KSEE?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-19T16:41:23+00:00",
+   "seen": "2026-11-19T21:06:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states GTA 6 aims to de-toxify toxic masculinity."
   },
   {
    "id": "lebiga and tremba set records for the number of viewers during their gta 6 streams",
