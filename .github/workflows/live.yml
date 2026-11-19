@@ -51,7 +51,7 @@ jobs:
       - name: Build site
         run: |
           mkdir -p _site/data
-          cp index.html live.html _site/
+          cp index.html first-12-hours.html live.html _site/
           cp data/feed.json _site/data/
           cp -R trailer _site/
           touch _site/.nojekyll

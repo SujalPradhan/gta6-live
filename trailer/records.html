@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>GTA VI Records Trailer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Instrument+Sans:wght@400..700&family=IBM+Plex+Mono:wght@400;600&display=block" rel="stylesheet">
+<style>
+:root {
+  --night: #0F0B15; --dusk: #1B1424; --haze: #2C2238; --text: #F6EEE6; --muted: #ABA0B5;
+  --pink: #FF4F8B; --peach: #FFB05C; --mint: #7EE0B5;
+  --sunset: linear-gradient(100deg, #FF4F8B 0%, #FF7A6B 45%, #FFB05C 100%);
+  --display: 'Archivo', 'Arial Narrow', Impact, sans-serif;
+  --body: 'Instrument Sans', system-ui, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 1920px; height: 1080px; overflow: hidden; background: var(--night); color: var(--text); font-family: var(--body); }
+#stage { position: relative; width: 1920px; height: 1080px; overflow: hidden; background: radial-gradient(1200px 700px at 50% 120%, #3a1530 0%, var(--night) 65%); }
+.scene { position: absolute; inset: 0; opacity: 0; display: flex; align-items: center; justify-content: center; flex-direction: column; }
+.grad { background: var(--sunset); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.disp { font-family: var(--display); font-weight: 900; font-stretch: 80%; letter-spacing: -0.01em; line-height: .92; text-transform: uppercase; }
+.pill { font-family: var(--mono); font-size: 22px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; padding: 6px 16px; border-radius: 999px; border: 2px solid currentColor; }
+
+#grain { position: absolute; inset: 0; pointer-events: none; opacity: .07; background-image: repeating-linear-gradient(0deg, #fff 0 1px, transparent 1px 3px); mix-blend-mode: overlay; }
+#vignette { position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,.65) 100%); }
+#flash { position: absolute; inset: 0; background: #fff; opacity: 0; pointer-events: none; }
+#bar { position: absolute; left: 0; bottom: 0; height: 6px; background: var(--sunset); width: 0; }
+
+#s0 .line { position: absolute; font-size: 220px; text-align: center; }
+
+.rec { align-items: flex-start; justify-content: center; padding: 0 140px; }
+.rec .no { font-family: var(--mono); font-size: 30px; letter-spacing: .3em; text-transform: uppercase; color: var(--peach); display: flex; gap: 26px; align-items: center; }
+.rec .no i { display: block; width: 90px; height: 3px; background: var(--peach); }
+.rec .big { font-size: 330px; margin-top: 18px; line-height: .86; }
+.rec .what { font-size: 96px; margin-top: 20px; max-width: 1640px; }
+.rec .cmp { margin-top: 56px; width: 1640px; display: grid; gap: 18px; }
+.rec .row { display: grid; grid-template-columns: 470px 1fr 220px; gap: 26px; align-items: center; }
+.rec .row .l { font-size: 34px; color: var(--muted); text-align: right; }
+.rec .row.lead .l { color: var(--text); font-weight: 700; }
+.rec .track { height: 46px; background: rgba(255,255,255,.04); border-radius: 8px; }
+.rec .fill { height: 100%; border-radius: 8px; background: #4A3C5A; width: 0; }
+.rec .row.lead .fill { background: var(--sunset); }
+.rec .row .v { font-family: var(--display); font-weight: 800; font-stretch: 85%; font-size: 48px; }
+.rec .src { margin-top: 44px; display: flex; gap: 22px; align-items: center; font-family: var(--mono); font-size: 24px; color: var(--muted); letter-spacing: .04em; }
+.rec .badges { margin-top: 56px; display: flex; gap: 28px; }
+.rec .badge { font-family: var(--display); font-weight: 800; font-stretch: 88%; font-size: 56px; padding: 28px 46px; border-radius: 22px; background: var(--dusk); border: 3px solid var(--haze); }
+.rec .badge small { display: block; font-family: var(--mono); font-weight: 600; font-size: 22px; letter-spacing: .14em; color: var(--peach); margin-top: 10px; text-transform: uppercase; }
+
+#s6 .head { font-size: 130px; text-align: center; }
+#s6 .chips { display: flex; gap: 30px; margin-top: 70px; }
+#s6 .chip { width: 520px; background: var(--dusk); border: 2px solid var(--haze); border-radius: 26px; padding: 36px 40px; }
+#s6 .chip b { display: block; font-family: var(--display); font-weight: 900; font-stretch: 80%; font-size: 120px; line-height: 1; }
+#s6 .chip span { display: block; margin-top: 14px; font-size: 32px; color: var(--muted); line-height: 1.3; }
+#s6 .chip .pill { display: inline-block; margin-top: 20px; color: var(--peach); }
+
+#s7 .logo { font-size: 170px; text-align: center; }
+#s7 .cta { margin-top: 40px; font-size: 60px; }
+#s7 .url { margin-top: 50px; font-family: var(--mono); font-size: 40px; letter-spacing: .06em; padding: 18px 40px; border: 3px solid var(--pink); border-radius: 999px; }
+</style>
+</head>
+<body>
+<div id="stage">
+
+  <div class="scene" id="s0">
+    <div class="line disp" data-a="0.0" data-b="1.0">Day one.</div>
+    <div class="line disp" data-a="1.0" data-b="2.0">Five records.</div>
+    <div class="line disp grad" data-a="2.0" data-b="3.0">Already broken.</div>
+  </div>
+
+  <div class="scene rec" id="s1">
+    <div class="no"><i></i>Record 01</div>
+    <div class="big disp grad" data-to="7.89" data-dec="2" data-suf="M">0</div>
+    <div class="what disp">Most-watched game launch ever</div>
+    <div class="cmp">
+      <div class="row lead"><div class="l">GTA VI · 2026</div><div class="track"><div class="fill" data-w="98.6"></div></div><div class="v">7.89M</div></div>
+      <div class="row"><div class="l">VALORANT beta · 2020</div><div class="track"><div class="fill" data-w="21.7"></div></div><div class="v">1.74M</div></div>
+    </div>
+    <div class="src"><span class="pill" style="color:var(--peach)">Preliminary</span>Peak watching at once · Twitch, YouTube, Kick · Streams Charts</div>
+  </div>
+
+  <div class="scene rec" id="s2">
+    <div class="no"><i></i>Record 02</div>
+    <div class="big disp grad" data-to="3.29" data-dec="2" data-suf="M">0</div>
+    <div class="what disp">Biggest game ever on Twitch</div>
+    <div class="cmp">
+      <div class="row lead"><div class="l">GTA VI · 2026</div><div class="track"><div class="fill" data-w="94"></div></div><div class="v">3.29M</div></div>
+      <div class="row"><div class="l">LoL Worlds · 2022</div><div class="track"><div class="fill" data-w="88.9"></div></div><div class="v">3.11M</div></div>
+    </div>
+    <div class="src"><span class="pill" style="color:var(--mint)">Confirmed</span>Twitch category peak · Streams Charts, SullyGnome</div>
+  </div>
+
+  <div class="scene rec" id="s3">
+    <div class="no"><i></i>Record 03</div>
+    <div class="big disp grad" data-to="99" data-dec="0" data-suf="">0</div>
+    <div class="what disp">Highest Metascore ever, tied</div>
+    <div class="cmp">
+      <div class="row lead"><div class="l">GTA VI · 2026</div><div class="track"><div class="fill" data-w="99"></div></div><div class="v">99</div></div>
+      <div class="row"><div class="l">Ocarina of Time · 1998</div><div class="track"><div class="fill" data-w="99"></div></div><div class="v">99</div></div>
+      <div class="row"><div class="l">GTA V · 2013</div><div class="track"><div class="fill" data-w="97"></div></div><div class="v">97</div></div>
+    </div>
+    <div class="src"><span class="pill" style="color:var(--mint)">Confirmed</span>147 scored reviews, none mixed or negative · Metacritic</div>
+  </div>
+
+  <div class="scene rec" id="s4">
+    <div class="no"><i></i>Record 04</div>
+    <div class="big disp grad">#1</div>
+    <div class="what disp">Most pre-ordered game ever</div>
+    <div class="badges">
+      <div class="badge">PlayStation Store<small>All-time</small></div>
+      <div class="badge">Microsoft Store<small>All-time</small></div>
+    </div>
+    <div class="src"><span class="pill" style="color:var(--mint)">Confirmed</span>Announced by Sony and Microsoft</div>
+  </div>
+
+  <div class="scene rec" id="s5">
+    <div class="no"><i></i>Record 05</div>
+    <div class="big disp grad" data-to="475" data-dec="0" data-suf="M">0</div>
+    <div class="what disp">Most-viewed trailer in 24 hours</div>
+    <div class="cmp">
+      <div class="row lead"><div class="l">GTA VI Trailer 2</div><div class="track"><div class="fill" data-w="95"></div></div><div class="v">475M</div></div>
+      <div class="row"><div class="l">Deadpool &amp; Wolverine</div><div class="track"><div class="fill" data-w="73"></div></div><div class="v">365M</div></div>
+    </div>
+    <div class="src"><span class="pill" style="color:var(--peach)">Reported</span>Views across platforms · Rockstar, May 2025</div>
+  </div>
+
+  <div class="scene" id="s6">
+    <div class="head disp">And the estimates <span class="grad">keep climbing.</span></div>
+    <div class="chips">
+      <div class="chip"><b class="grad">~17M</b><span>digital pre-orders</span><span class="pill">Sensor Tower est.</span></div>
+      <div class="chip"><b class="grad">~$1.65B</b><span>pre-order revenue, 2× GTA V's first day</span><span class="pill">Sensor Tower est.</span></div>
+      <div class="chip"><b class="grad">+6%</b><span>Take-Two shares on launch eve</span><span class="pill">Market close</span></div>
+    </div>
+  </div>
+
+  <div class="scene" id="s7">
+    <div class="logo disp">The first <span class="grad">24 hours</span></div>
+    <div class="cta disp">Every record, sourced.</div>
+    <div class="url">sujalpradhan.github.io/gta6-live</div>
+  </div>
+
+  <div id="flash"></div>
+  <div id="grain"></div>
+  <div id="vignette"></div>
+  <div id="bar"></div>
+</div>
+
+<script>
+var DURATION = 30;
+var SCENES = [['s0', 0, 3.0], ['s1', 3.0, 7.2], ['s2', 7.2, 11.2], ['s3', 11.2, 15.4], ['s4', 15.4, 19.4], ['s5', 19.4, 23.6], ['s6', 23.6, 27.2], ['s7', 27.2, 30.0]];
+var CUTS = SCENES.slice(1).map(function (s) { return s[1]; });
+
+function $(id) { return document.getElementById(id); }
+function clamp(x, a, b) { return Math.max(a, Math.min(b, x)); }
+function prog(t, a, b) { return clamp((t - a) / (b - a), 0, 1); }
+function outCubic(x) { return 1 - Math.pow(1 - x, 3); }
+function outBack(x) { var c = 1.9; return 1 + (c + 1) * Math.pow(x - 1, 3) + c * Math.pow(x - 1, 2); }
+function fade(el, p, dy) { el.style.opacity = p; el.style.transform = 'translateY(' + (dy || 30) * (1 - outCubic(p)) + 'px)'; }
+
+function render(t) {
+  SCENES.forEach(function (s) {
+    var el = $(s[0]), on = t >= s[1] && t < s[2];
+    el.style.opacity = on ? 1 : 0;
+    el.style.visibility = on ? 'visible' : 'hidden';
+    if (on) el.style.transform = 'scale(' + (1 + 0.03 * prog(t, s[1], s[2])) + ')';
+  });
+
+  document.querySelectorAll('#s0 .line').forEach(function (el) {
+    var a = +el.dataset.a, b = +el.dataset.b, p = prog(t, a, a + 0.28), on = t >= a && t < b;
+    el.style.opacity = on ? p : 0;
+    el.style.transform = 'scale(' + (1.6 - 0.6 * outCubic(p)) + ')';
+    el.style.filter = 'blur(' + (1 - p) * 14 + 'px)';
+  });
+
+  ['s1', 's2', 's3', 's4', 's5'].forEach(function (id, k) {
+    var a = SCENES[k + 1][1], sc = $(id);
+    fade(sc.querySelector('.no'), prog(t, a, a + 0.3), 20);
+    var big = sc.querySelector('.big');
+    var pb = prog(t, a + 0.1, a + 0.5);
+    big.style.opacity = pb;
+    big.style.transform = 'scale(' + (0.8 + 0.2 * outBack(pb)) + ')';
+    big.style.transformOrigin = 'left center';
+    if (big.dataset.to) {
+      var to = +big.dataset.to, dec = +big.dataset.dec;
+      big.textContent = (to * outCubic(prog(t, a + 0.1, a + 1.4))).toFixed(dec) + big.dataset.suf;
+    }
+    fade(sc.querySelector('.what'), prog(t, a + 0.5, a + 0.85), 40);
+    sc.querySelectorAll('.row').forEach(function (r, i) {
+      var p = prog(t, a + 0.9 + i * 0.2, a + 1.2 + i * 0.2);
+      r.style.opacity = p;
+      var f = r.querySelector('.fill');
+      f.style.width = (+f.dataset.w * outCubic(prog(t, a + 1.0 + i * 0.2, a + 1.9 + i * 0.2))) + '%';
+    });
+    sc.querySelectorAll('.badge').forEach(function (b, i) { fade(b, prog(t, a + 0.9 + i * 0.25, a + 1.25 + i * 0.25), 40); });
+    fade(sc.querySelector('.src'), prog(t, a + 1.8, a + 2.1), 16);
+  });
+
+  fade(document.querySelector('#s6 .head'), prog(t, 23.6, 24.0), 40);
+  document.querySelectorAll('#s6 .chip').forEach(function (c, i) { fade(c, prog(t, 24.1 + i * 0.3, 24.5 + i * 0.3), 60); });
+
+  var p7 = prog(t, 27.2, 27.7);
+  document.querySelector('#s7 .logo').style.transform = 'scale(' + (0.85 + 0.15 * outBack(p7)) + ')';
+  document.querySelector('#s7 .cta').style.opacity = prog(t, 27.7, 28.0);
+  document.querySelector('#s7 .url').style.opacity = prog(t, 28.0, 28.3);
+
+  var flash = 0;
+  CUTS.forEach(function (c) { if (t >= c && t < c + 0.18) flash = Math.max(flash, 0.5 * (1 - (t - c) / 0.18)); });
+  $('flash').style.opacity = flash;
+  $('stage').style.opacity = Math.min(prog(t, 0, 0.25), 1 - prog(t, 29.6, 30));
+  $('bar').style.width = (t / DURATION * 100) + '%';
+}
+
+window.render = render;
+window.DURATION = DURATION;
+if (!/render=0/.test(location.search) && !window.__RECORDING__) {
+  var start = performance.now();
+  (function loop() { render(((performance.now() - start) / 1000) % DURATION); requestAnimationFrame(loop); })();
+} else {
+  render(0);
+}
+</script>
+</body>
+</html>

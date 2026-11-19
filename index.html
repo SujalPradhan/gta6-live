@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI's First 12 Hours</title>
+<title>GTA VI's First 24 Hours</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Instrument+Sans:wght@400..700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
@@ -203,19 +203,45 @@ footer { padding: 48px 0 80px; color: var(--muted); font-size: 14px; }
   .ticker-track { animation: none; }
   .fill { transition: none; }
 }
+
+/* coverage chart */
+.hours { display: grid; grid-template-columns: repeat(24, minmax(0, 1fr)); gap: 4px; align-items: end; height: 240px; margin-top: 8px; }
+.hours div { background: #4A3C5A; border-radius: 4px 4px 0 0; position: relative; }
+.hours div.peak { background: var(--sunset); }
+.hours div.mark::after { content: attr(data-mark); position: absolute; bottom: calc(100% + 8px); left: 0; font-family: var(--mono); font-size: 11px; color: var(--peach); white-space: nowrap; border-left: 2px solid var(--peach); padding-left: 6px; }
+.hours div.mark.r::after { left: auto; right: 0; border-left: 0; border-right: 2px solid var(--peach); padding: 0 6px 0 0; }
+.hours-x { display: flex; justify-content: space-between; font-family: var(--mono); font-size: 12px; color: var(--muted); margin-top: 8px; }
+.recs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.recs .stat:first-child { grid-column: span 2; }
+.recs .rk { font-family: var(--mono); font-size: 12px; letter-spacing: 0.12em; color: var(--peach); margin: 0 0 10px; text-transform: uppercase; }
+.recs .stat .pill { margin-top: 12px; }
+.heads { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.head-card { display: block; text-decoration: none; color: var(--text); background: var(--dusk); border: 1px solid var(--haze); border-left: 3px solid var(--pink); border-radius: 0 14px 14px 0; padding: 16px 20px; }
+.head-card:hover { border-color: var(--pink); }
+.head-card b { display: block; font-family: var(--display); font-stretch: 90%; font-size: 19px; line-height: 1.25; }
+.head-card span { display: block; margin-top: 8px; font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.more { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.more a { display: block; text-decoration: none; color: var(--text); background: linear-gradient(160deg, #2C2238, #1B1424); border: 1px solid var(--haze); border-radius: 16px; padding: 22px; }
+.more a:hover { border-color: var(--pink); }
+.more b { display: block; font-family: var(--display); font-stretch: 85%; font-size: 26px; }
+.more span { color: var(--muted); font-size: 15px; }
+@media (max-width: 900px) {
+  .recs, .heads, .more { grid-template-columns: 1fr; }
+  .recs .stat:first-child { grid-column: auto; }
+  .hours { height: 180px; gap: 2px; }
+  .hours div.mark::after { font-size: 10px; }
+}
 </style>
 </head>
 <body>
 
 <nav class="top" aria-label="Chapters">
   <div class="wrap">
-    <span class="brand">GTA VI · <span class="grad">FIRST 12 HOURS</span></span>
-    <a href="#attention">Attention</a>
-    <a href="#acclaim">Acclaim</a>
-    <a href="#demand">Demand</a>
-    <a href="#gameplay">Gameplay</a>
-    <a href="#scale">Scale</a>
-    <a href="#future">So what</a>
+    <span class="brand">GTA VI · <span class="grad">FIRST 24 HOURS</span></span>
+    <a href="#records">Records</a>
+    <a href="#coverage">Coverage</a>
+    <a href="#after">After the records</a>
+    <a href="first-12-hours.html">First 12 hours</a>
     <a href="live.html" style="color:#FF4F8B;font-weight:700">● Live newsroom</a>
   </div>
 </nav>
@@ -223,165 +249,128 @@ footer { padding: 48px 0 80px; color: var(--muted); font-size: 14px; }
 <header class="hero">
   <canvas id="sky" aria-hidden="true"></canvas>
   <div class="wrap">
-    <p class="kicker">Launch-day data story · Thursday 19 Nov 2026</p>
+    <p class="kicker">Launch data story · 24 hours after the first unlock</p>
     <div class="hero-grid">
       <div>
-        <h1>The first 12 hours of <span class="grad">GTA VI</span></h1>
-        <p class="thesis">In half a day, Rockstar's game set records for attention, acclaim and demand at once.</p>
+        <h1>The first 24 hours of <span class="grad">GTA VI</span></h1>
+        <p class="thesis">One day after New Zealand unlocked it, GTA VI holds five records and the press has filed 628 stories about it.</p>
       </div>
       <figure class="hero-reel">
-        <video id="trailer" src="trailer/gta6-live-trailer-720p.mp4" poster="trailer/poster.jpg" autoplay muted loop playsinline controls preload="metadata" aria-label="30-second trailer for the GTA VI live newsroom"></video>
-        <figcaption><span>Trailer · 0:30</span><a href="trailer/gta6-live-trailer.mp4">Watch in 1080p</a></figcaption>
+        <video id="trailer" src="trailer/gta6-records-trailer-720p.mp4" poster="trailer/records-poster.jpg" autoplay muted loop playsinline controls preload="metadata" aria-label="30-second trailer of the five records GTA VI has broken"></video>
+        <figcaption><span>Records trailer · 0:30</span><a href="trailer/gta6-records-trailer.mp4">Watch in 1080p</a></figcaption>
       </figure>
     </div>
     <div class="hero-stats">
-      <div class="hstat"><b class="grad num" data-count="7.89" data-dec="1" data-suf="M">7.9M</b><span>people watching live at once, 4.5× the previous game-launch record</span></div>
-      <div class="hstat"><b class="grad num">99</b><span>Metascore, tied for the highest ever, with zero mixed or negative reviews</span></div>
-      <div class="hstat"><b class="grad num" data-count="17.07" data-dec="0" data-pre="~" data-suf="M">~17M</b><span>estimated digital pre-orders, 1.5× GTA V's record first day</span></div>
+      <div class="hstat"><b class="grad num">5</b><span>records broken, from most-watched launch to most pre-ordered game</span></div>
+      <div class="hstat"><b class="grad num">628</b><span>GTA VI stories in our newsroom in 24 hours</span></div>
+      <div class="hstat"><b class="grad num">305</b><span>outlets covering it, from games sites to Reuters and The Washington Post</span></div>
     </div>
-    <p class="snap mono muted">Snapshot ~09:00 IST, 19 Nov. Live numbers will rise after the US unlock at 10:30 IST.</p>
+    <p class="snap mono muted">Window: 16:30 IST 18 Nov to 16:30 IST 19 Nov, the 24 hours after the New Zealand unlock.</p>
   </div>
 </header>
 
 <div class="ticker" aria-hidden="true">
   <div class="ticker-track" id="ticker">
-    <span>Most-watched game launch ever <b>7.89M CCV</b></span>
-    <span>Biggest game category in Twitch history <b>3.29M</b></span>
-    <span>Most pre-ordered game · PlayStation Store <b>all-time</b></span>
-    <span>Most pre-ordered title · Microsoft Store <b>all-time</b></span>
-    <span>Metacritic <b>99</b> · ties Ocarina of Time (1998)</span>
-    <span>Trailer 2 <b>475M views</b> in 24h</span>
-    <span>Take-Two shares <b>+6%</b> on launch eve</span>
-    <span>Kick: <b>1,128</b> channels streaming at once</span>
+    <span>Most-watched game launch ever <b>7.89M</b></span>
+    <span>Biggest game ever on Twitch <b>3.29M</b></span>
+    <span>Metacritic <b>99</b> · ties the all-time high</span>
+    <span>Most pre-ordered game · PlayStation and Microsoft stores <b>all-time</b></span>
+    <span>Most-viewed trailer in 24h <b>475M</b></span>
+    <span><b>628</b> stories · <b>305</b> outlets · <b>24h</b></span>
   </div>
 </div>
 
 <main>
 
-<section class="ch" id="attention">
+<section class="ch" id="records">
   <div class="wrap">
     <div class="ch-head">
       <div class="ch-no">01</div>
       <div>
-        <p class="kicker">Attention</p>
-        <h2>The most-watched game launch ever, before America could even play</h2>
+        <p class="kicker">Records</p>
+        <h2>Five records in the books</h2>
+        <p class="sub">Each one is confirmed by the platform or a named tracker. Estimates are kept separate below.</p>
       </div>
     </div>
-    <div class="grid2">
-      <div class="panel">
-        <h3>Peak concurrent viewers at launch</h3>
-        <p class="cap">Twitch + YouTube + Kick, millions</p>
-        <div class="toggle" role="group" aria-label="Chart view">
-          <button type="button" id="tg-all" aria-pressed="true">All platforms</button>
-          <button type="button" id="tg-twitch" aria-pressed="false">Twitch only</button>
-        </div>
-        <div class="bars" id="bars-attn"></div>
-        <div class="src mono"><span class="pill high">High · preliminary</span><span id="attn-src"></span></div>
-      </div>
-      <div class="stack">
-        <div class="stat"><b class="grad num">3.29M</b><p class="what">on Twitch, its biggest game category ever</p><p class="vs">Passed League of Legends Worlds 2022 (3.11M).</p></div>
-        <div class="stat"><b class="grad num">475M</b><p class="what">views for Trailer 2 in its first 24 hours</p><p class="vs">More than Deadpool &amp; Wolverine's trailer (365M).</p></div>
-      </div>
+    <div class="recs">
+      <div class="stat"><p class="rk">Record 01 · Attention</p><b class="grad num">7.89M</b><p class="what">people watching at once, the most-watched game launch ever</p><p class="vs">4.5× the previous record, VALORANT's closed beta (1.74M, 2020). Twitch, YouTube and Kick combined.</p><span class="pill med">Preliminary · Streams Charts</span></div>
+      <div class="stat"><p class="rk">Record 02 · Twitch</p><b class="grad num">3.29M</b><p class="what">on Twitch, its biggest game ever</p><p class="vs">Passed LoL Worlds 2022 (3.11M).</p><span class="pill high">Confirmed</span></div>
+      <div class="stat"><p class="rk">Record 03 · Acclaim</p><b class="grad num">99</b><p class="what">Metascore, tying the highest ever</p><p class="vs">Level with Ocarina of Time (1998). 147 of 147 scored reviews positive.</p><span class="pill high">Confirmed</span></div>
+      <div class="stat"><p class="rk">Record 04 · Demand</p><b class="grad">#1</b><p class="what">most pre-ordered game ever on PlayStation and Microsoft stores</p><p class="vs">Announced by Sony and Microsoft.</p><span class="pill high">Confirmed</span></div>
+      <div class="stat"><p class="rk">Record 05 · Hype</p><b class="grad num">475M</b><p class="what">views for Trailer 2 in 24 hours</p><p class="vs">Beat Deadpool &amp; Wolverine (365M). Set in May 2025.</p><span class="pill med">Reported by Rockstar</span></div>
+    </div>
+    <div class="callout" style="margin-top:20px">
+      <h3>Not records yet: the estimates</h3>
+      <ul>
+        <li>About <b>17M</b> digital pre-orders and <b>$1.65B</b> in pre-order revenue, about twice GTA V's first day ($815.7M). Sensor Tower estimates; Take-Two hasn't reported sales.</li>
+        <li>Take-Two shares closed <b>+6%</b> on launch eve.</li>
+        <li>No streaming tracker had published a new peak after the US unlock by the end of this window, so 7.89M stands for now.</li>
+      </ul>
     </div>
   </div>
 </section>
 
-<section class="ch" id="acclaim">
+<section class="ch" id="coverage">
   <div class="wrap">
     <div class="ch-head">
       <div class="ch-no">02</div>
       <div>
-        <p class="kicker">Acclaim</p>
-        <h2>A 99 from critics, tying the highest score ever</h2>
-      </div>
-    </div>
-    <div class="panel">
-      <div class="score-wrap">
-        <div class="giant grad num">99</div>
-        <div>
-          <p style="margin:0 0 4px;font-weight:700;font-size:20px">147 of 147 scored reviews positive</p>
-          <div class="split" aria-label="100% positive"><i style="width:100%"></i></div>
-          <p class="mono muted" style="margin:0 0 24px">Ties Zelda: Ocarina of Time (1998) · Rockstar's best ever</p>
-          <div class="bars" id="bars-meta"></div>
-          <p class="muted" style="margin:18px 0 0;font-size:16px">The one recurring complaint is that it runs at 30fps on every console.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="ch" id="demand">
-  <div class="wrap">
-    <div class="ch-head">
-      <div class="ch-no">03</div>
-      <div>
-        <p class="kicker">Demand</p>
-        <h2>Pre-orders alone beat GTA V's record first day, at twice the money</h2>
+        <p class="kicker">Coverage</p>
+        <h2>The news never slowed down</h2>
+        <p class="sub">Stories per hour in our live newsroom, deduplicated. The busiest hour was the last one.</p>
       </div>
     </div>
     <div class="grid2">
       <div class="panel">
-        <h3>Estimated digital pre-orders</h3>
-        <p class="cap">Sensor Tower, millions of units</p>
-        <div id="line-pre"></div>
-        <div class="src mono"><span class="pill med">Estimate</span><span>No official sales from Take-Two yet</span></div>
+        <h3>GTA VI stories per hour</h3>
+        <p class="cap">16:30 IST 18 Nov → 16:30 IST 19 Nov</p>
+        <div class="hours" id="hours" style="margin-top:40px"></div>
+        <div class="hours-x"><span>16:30 IST</span><span>04:30</span><span>16:30 IST</span></div>
+        <div class="src mono"><span class="pill high">Our data</span><span>Published time of each story in the live newsroom feed.</span></div>
       </div>
       <div class="stack">
+        <div class="stat"><b class="grad num">53</b><p class="what">stories in the busiest hour</p><p class="vs">15:30 to 16:30 IST on 19 Nov, the last hour of the window.</p></div>
         <div class="panel" style="padding:22px">
-          <h3>Revenue vs GTA V's day one</h3>
-          <p class="cap">$ millions</p>
-          <div class="bars" id="bars-rev"></div>
+          <h3>Most active outlets</h3>
+          <p class="cap">Stories in the window</p>
+          <div class="bars" id="bars-out"></div>
         </div>
-        <div class="stat"><b class="grad">#1</b><p class="what">most pre-ordered game ever on PlayStation and Xbox</p><p class="vs">Confirmed by Sony and Microsoft.</p></div>
       </div>
+    </div>
+    <div class="panel" style="margin-top:20px">
+      <h3>What the stories were about</h3>
+      <p class="cap">Auto-tagged by keyword, so read it as a rough split</p>
+      <div class="bars" id="bars-topic"></div>
     </div>
   </div>
 </section>
 
-<section class="ch" id="gameplay">
+<section class="ch" id="after">
+  <div class="wrap">
+    <div class="ch-head">
+      <div class="ch-no">03</div>
+      <div>
+        <p class="kicker">After the records</p>
+        <h2>After the records, the headlines turned to playing it</h2>
+        <p class="sub">Six headlines from the last 12 hours of the window, in the outlets' own words.</p>
+      </div>
+    </div>
+    <div class="heads" id="heads"></div>
+  </div>
+</section>
+
+<section class="ch" id="earlier">
   <div class="wrap">
     <div class="ch-head">
       <div class="ch-no">04</div>
       <div>
-        <p class="kicker">Gameplay</p>
-        <h2>What's new inside the game</h2>
+        <p class="kicker">Keep reading</p>
+        <h2>The earlier snapshot, and the live feed</h2>
       </div>
     </div>
-    <div class="features" id="features"></div>
-    <div class="reel" id="reel" style="margin-top:16px;margin-bottom:0"></div>
-  </div>
-</section>
-
-<section class="ch" id="scale">
-  <div class="wrap">
-    <div class="ch-head">
-      <div class="ch-no">05</div>
-      <div>
-        <p class="kicker">Scale</p>
-        <h2>The biggest build in games</h2>
-      </div>
-    </div>
-    <div class="grid3">
-      <div class="stat"><b class="grad num">4,711</b><p class="what">people across 12 offices</p><p class="vs">About 2× the Red Dead Redemption 2 team.</p></div>
-      <div class="stat"><b class="grad num">13 yrs</b><p class="what">since GTA V</p><p class="vs">With a ~210 GB install on PS5.</p></div>
-      <div class="stat"><b class="grad num">$79.99</b><p class="what">base price, $20 above GTA V</p><p class="vs">And demand still set records.</p></div>
-    </div>
-  </div>
-</section>
-
-<section class="ch" id="future">
-  <div class="wrap">
-    <div class="ch-head">
-      <div class="ch-no">06</div>
-      <div>
-        <p class="kicker">So what</p>
-        <h2>Three signals for gaming, and what we could build</h2>
-      </div>
-    </div>
-    <div class="signals">
-      <div class="signal"><div class="n grad">1</div><div><h3>A launch is now a live broadcast</h3></div><div><p>Up to 7.9M people were watching at one moment. Launches will be planned around creators and time zones, not just stores.</p><p class="ev">We could build a live launch dashboard: viewers, sentiment, reviews and outages in one view.</p></div></div>
-      <div class="signal"><div class="n grad">2</div><div><h3>Simulation is the new bottleneck</h3></div><div><p>Rockstar chose a denser, reactive world over frame rate. The next leap is smarter crowds, traffic and NPCs.</p><p class="ev">We could build crowd and NPC behaviour models, extending our player-movement work.</p></div></div>
-      <div class="signal"><div class="n grad">3</div><div><h3>"Made by people" is a premium</h3></div><div><p>Around 4,700 people built it, and its publisher says generative AI played no part. AI tools promise to close that cost gap for everyone else.</p><p class="ev">We could build critic intelligence that turns 150 reviews into insight within an hour of the embargo lifting.</p></div></div>
+    <div class="more">
+      <a href="first-12-hours.html"><b>The first 12 hours <span class="grad">→</span></b><span>The morning snapshot: attention, acclaim, demand, gameplay and three signals for gaming.</span></a>
+      <a href="live.html"><b>Live newsroom <span class="grad">●</span></b><span>Every GTA VI story as it lands, summarised and updated every 5 minutes.</span></a>
     </div>
   </div>
 </section>
@@ -390,7 +379,7 @@ footer { padding: 48px 0 80px; color: var(--muted); font-size: 14px; }
   <div class="wrap">
     <details>
       <summary>Sources and confidence</summary>
-      <p class="muted" style="font-size:14px;margin:0 0 12px">Snapshot ~09:00 IST. Streaming peaks will rise after the US unlock (10:30 IST). Pre-orders are Sensor Tower estimates. A separate agent fact-checked every headline number independently.</p>
+      <p class="muted" style="font-size:14px;margin:0 0 12px">Story counts come from our live newsroom feed for the 24-hour window. Record figures come from the sources below.</p>
       <div class="ledger-wrap"><table id="ledger">
         <thead><tr><th>Claim</th><th>Figure</th><th>Source</th><th>Confidence</th></tr></thead>
         <tbody></tbody>
@@ -402,24 +391,12 @@ footer { padding: 48px 0 80px; color: var(--muted); font-size: 14px; }
 </main>
 
 <footer>
-  <div class="wrap">19 Nov 2026 ·GTA VI and all footage belong to Rockstar Games and Take-Two Interactive. Linked videos open on Rockstar's official YouTube channel.</div>
+  <div class="wrap">19 Nov 2026 · GTA VI belongs to Rockstar Games and Take-Two Interactive. Headlines link to the outlets that published them.</div>
 </footer>
 
 <script>
-/* Official Rockstar Games YouTube uploads. IDs cross-checked against Rockstar-focused listings and press embeds. */
-window.GTA_VIDEOS = [
-  { id: 'tJbzMqJGH4k', title: 'An Extended Look: 26 minutes of gameplay', date: '27 Aug 2026' },
-  { id: 'rz1B4B2yBZY', title: 'Launch Trailer', date: '15 Oct 2026' },
-  { id: 'VQRLujxTm3c', title: 'Trailer 2', date: '6 May 2025' },
-  { id: 'QdBZY2fkU-0', title: 'Trailer 1', date: '4 Dec 2023' }
-];
-var EXT = 'tJbzMqJGH4k', T1 = 'QdBZY2fkU-0';
-window.GTA_FEATURES = [
-  { name: 'Two leads, one relationship', desc: 'Switch between Lucia and Jason at will. Shared crimes, dates and texts build their bond, and ditching your partner mid-chase weakens it.', why: 'GTA V had three leads but no relationship between them that you could affect. Here the bond is a gameplay stat.', vid: EXT, vlabel: 'Watch the Extended Look', conf: 'high', confLabel: 'Confirmed in reviews' },
-  { name: 'Police who remember your outfit', desc: 'Witnesses describe your clothes, car and weapons, so changing them lowers your heat. Search zones stay on the map after you escape, and police know if you work as a pair.', why: 'The wanted system reads what you look like instead of just counting stars.', conf: 'high', confLabel: 'Confirmed in reviews' },
-  { name: 'A city that reacts', desc: 'Greet, taunt or threaten almost any pedestrian. Police drive in from real stations instead of spawning beside you, and storms rain on specific streets.', why: 'Digital Foundry calls the level of reactivity unprecedented. It is also why the game runs at 30fps.', conf: 'high', confLabel: 'Confirmed · Digital Foundry' },
-  { name: 'Swamps, reefs and 200+ animals', desc: 'Airboats through the Everglades-style swamp, scuba dives into caves and shipwrecks, and more than 200 huntable animals.', why: 'Leonida is a nature map as much as a city map. And yes, an alligator walks into a shop.', vid: T1, vlabel: 'Watch Trailer 1', conf: 'med', confLabel: 'Footage + reviews' }
-];
+window.HOURS = [28, 18, 23, 10, 29, 18, 19, 31, 23, 18, 20, 23, 19, 42, 11, 9, 20, 42, 40, 19, 22, 41, 50, 53];
+window.HEADS = [{"t": "After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities", "o": "Eurogamer", "p": "2026-11-19T09:38:50+00:00", "u": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals"}, {"t": "PlayStation outage resolved: Sony\u2019s network is back online hours before GTA 6\u2019s US launch", "o": "The Times of India", "p": "2026-11-19T09:34:00+00:00", "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR2RwRnJQbC1Wc3hOWjZfOW1qS0RlS1hvZ1A1dEZxWG1yY2RrVllvTEJnQ3BObjhHTWJFVnBncnJZaG5JVmJ0QjZHZkVMTG93NlN2anBZbDhSNEFHekxCNjN2U0diQnE0WGJzWjlQSDZhZk9NbHVEN1VzVEx2WXdiT3pRa215UTZTenpXX3NjemJyajRwN1hVMkduRTdCdkJfU1VkdnZ2T1gtc1Q2bU1LVEk5S2hrd28zNUxVMk4yUmd2dFktUVc4UkdsX1dBNmNjdkZXVm53T2JxUmMtbFktN2Q1ZkM0alBlU0ZFSm5YMExXaXlab1pPRlNR0gH_AUFVX3lxTE1kZ1FCckJZSDhVamZoSmQ4UXdLV1NDVWcxVlV1SjZjSEdFa0VTVVREYndwcTZQcUVVRmVPWTZwZGxSVGhrR2FGNGdURjg2WFhpNS1QaDdFWmJJWlVLQnVqc2x3OVdrVERPNGI2RXVyVzhEX3pGYkltUlhnai1lR2J3UmFOSFkxbGFBRkIwVjZpUGxLUlVMMmtnb1loSlo1Ml9zSHFQNnRuWWpETFF3M0NPZVd0X2RIUjgtaXlyNlJJRXNnbVFNZzViclNOdy1FdHk4dDRVdzlQeFo3VnVkN2RGYmwtR0JLQ1JiUGEtMDh2R2FMal95X0xCX0ZLOUdLRQ?oc=5"}, {"t": "GTA 6 Metacritic Score Ties Ocarina of Time at 99, but Base PS5 Dips Below 30 FPS in Heavy Action", "o": "Tech Times", "p": "2026-11-19T05:35:16+00:00", "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWh3LWM2azlUeDRfY1RlQ2pRLUpqazk4cGQ0X2diTXd6OUFmV1dMR0xMVjFIMXlob1FsU3ZrT2dJWUhySkhUYnhBZjZEeEZSUW1NNDNiV192Y0UtRlNQbjhHNjJTeWpUczFSZXhxWVo2YVhUeVJybnpsblFlQ29Vb0lnS3FUbHNkc1puZWpXclFSUEZzbVNMa0p4M3BXYzUwUUVJMHRJYjNHNms2M05TRU9MNnJVdE9UcjdkbG5xRVlOVnpfLWVldEdhS3RUbnI1dkZXVQ?oc=5"}, {"t": "The Xbox Series S version of GTA 6 is seemingly the first to use AMD\u2019s FSR 4.1 upscaling", "o": "VGC", "p": "2026-11-19T10:08:25+00:00", "u": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/"}, {"t": "Soldiers sign up to play \u2018Grand Theft Auto VI\u2019 in exchange for reenlisting", "o": "The Washington Post", "p": "2026-11-19T05:28:55+00:00", "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGstLUJXanc0c0tYRVV2RWNvVnFjc2cycS1waWhENTdhYkNMY3NESTY5aDhCY0ZhN1NOUkxfaTd6UnhBVURhRC01cWF6aHpVczFfLVU0THJidWVXUlJXWnctVmQ0UTlFOGlOblNJT044Z0hPR0FNb2NTT3VuNzJoT2hHXy1TNzZyUk9UdjRMemFoOHRNMHR4dDF5WS15MGYtbGdTSHhmY2pneFhEekpxblNtMGtMX1dRQ0JxdDUwVTc?oc=5"}, {"t": "GTA 6\u2019s Record Reviews Back Up All Eight Of Its Game Awards Nominations", "o": "GameDaily", "p": "2026-11-19T09:24:05+00:00", "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RUFVmQmFYYy1wcGhNcHR5NENCcXpmV3RrTFNhWWdKblYxTGdyZHd0MDhPY3VLUE1Qb0s0bXZCYW9lbWEyMmFZeGU2bkt0cExpZzE0dTlMM0ZFTXdxSXptcDJ3ODdhMU5SeV9zcmhlYTVpenpaWjhKX0g3Z2VVdw?oc=5"}];
 </script>
 <script>
 (function () {
@@ -490,7 +467,9 @@ window.GTA_FEATURES = [
   var tk = document.getElementById('ticker');
   tk.innerHTML += tk.innerHTML;
 
-  /* ---------- bar charts ---------- */
+  var tk = document.getElementById('ticker');
+  tk.innerHTML += tk.innerHTML;
+
   function bars(el, rows, max, fmt, ref) {
     if (!el) return;
     el.innerHTML = '';
@@ -504,131 +483,38 @@ window.GTA_FEATURES = [
       el.appendChild(row);
     });
   }
-  var M = function (v) { return v.toFixed(2).replace(/0$/, '') + 'M'; };
 
-  var attnAll = [
-    { l: 'GTA VI (2026)', v: 7.89, lead: true },
-    { l: 'VALORANT beta (2020)', v: 1.74 },
-    { l: 'Hogwarts Legacy', v: 1.36 },
-    { l: 'Path of Exile 2', v: 1.35 },
-    { l: 'Cyberpunk 2077', v: 1.32 },
-    { l: 'Elden Ring', v: 1.04 }
-  ];
-  var attnTwitch = [
-    { l: 'GTA VI (2026)', v: 3.29, lead: true },
-    { l: 'LoL Worlds 2022', v: 3.11 },
-    { l: 'Hogwarts Legacy', v: 1.28 }
-  ];
-  var attnEl = document.getElementById('bars-attn');
-  var src = document.getElementById('attn-src');
-  function showAttn(which) {
-    var all = which === 'all';
-    bars(attnEl, all ? attnAll : attnTwitch, all ? 8 : 3.5, M);
-    document.getElementById('tg-all').setAttribute('aria-pressed', all);
-    document.getElementById('tg-twitch').setAttribute('aria-pressed', !all);
-    src.textContent = all
-      ? 'Streams Charts, 18–19 Nov 2026. Previous record: VALORANT closed beta, 1,737,267 (2020).'
-      : 'Streams Charts (3,292,986) and SullyGnome (3,293,515). Hogwarts Legacy was the previous single-player record on Twitch.';
-  }
-  document.getElementById('tg-all').addEventListener('click', function () { showAttn('all'); });
-  document.getElementById('tg-twitch').addEventListener('click', function () { showAttn('twitch'); });
-  showAttn('all');
-
-  bars(document.getElementById('bars-trailer'), [
-    { l: 'GTA VI Trailer 2', v: 475, lead: true },
-    { l: 'Deadpool & Wolverine', v: 365 },
-    { l: 'Spider-Man: No Way Home', v: 355.5 }
-  ], 500, function (v) { return Math.round(v) + 'M'; });
-
-  bars(document.getElementById('bars-meta'), [
-    { l: 'GTA VI (2026)', v: 99, lead: true },
-    { l: 'GTA IV (2008)', v: 98 },
-    { l: 'GTA V (2013)', v: 97 },
-    { l: 'Red Dead 2 (2018)', v: 97 }
-  ], 100, function (v) { return v; });
-
-  bars(document.getElementById('bars-rev'), [
-    { l: 'GTA VI pre-orders (est.)', v: 1650, lead: true },
-    { l: 'GTA V first 24h', v: 815.7 }
-  ], 1800, function (v) { return '$' + (v >= 1000 ? (v / 1000).toFixed(2) + 'B' : Math.round(v) + 'M'); });
-
-  /* ---------- pre-order line chart ---------- */
-  (function () {
-    var pts = [
-      { d: '12 Nov', v: 11.27 },
-      { d: '16 Nov', v: 14.94 },
-      { d: '17 Nov', v: 15.88 },
-      { d: '18 Nov', v: 17.07 }
-    ];
-    var W = 560, H = 300, pl = 40, pr = 70, pt = 20, pb = 36, ymax = 20;
-    var x = function (i) { return pl + i * (W - pl - pr) / (pts.length - 1); };
-    var y = function (v) { return pt + (1 - v / ymax) * (H - pt - pb); };
-    var s = '<svg class="chart-svg" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Estimated pre-orders rising from 11.3 million on 12 November to 17.1 million on 18 November, above GTA V\'s 11.2 million first-day sales.">';
-    s += '<defs><linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#FF4F8B"/><stop offset="1" stop-color="#FFB05C"/></linearGradient>' +
-         '<linearGradient id="ag" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#FF7A6B" stop-opacity="0.35"/><stop offset="1" stop-color="#FF7A6B" stop-opacity="0"/></linearGradient></defs>';
-    [0, 5, 10, 15, 20].forEach(function (g) {
-      s += '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="' + y(g) + '" y2="' + y(g) + '" stroke="#2C2238"/>';
-      s += '<text x="' + (pl - 8) + '" y="' + (y(g) + 4) + '" text-anchor="end">' + g + '</text>';
-    });
-    s += '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="' + y(11.21) + '" y2="' + y(11.21) + '" stroke="#F6EEE6" stroke-dasharray="5 5" opacity="0.7"/>';
-    s += '<text x="' + (W - pr + 6) + '" y="' + (y(11.21) + 4) + '">GTA V</text><text x="' + (W - pr + 6) + '" y="' + (y(11.21) + 18) + '">day 1</text>';
-    var line = pts.map(function (p, i) { return (i ? 'L' : 'M') + x(i) + ' ' + y(p.v); }).join(' ');
-    s += '<path d="' + line + ' L' + x(pts.length - 1) + ' ' + y(0) + ' L' + x(0) + ' ' + y(0) + ' Z" fill="url(#ag)"/>';
-    s += '<path d="' + line + '" fill="none" stroke="url(#lg)" stroke-width="3.5" stroke-linejoin="round"/>';
-    pts.forEach(function (p, i) {
-      var last = i === pts.length - 1;
-      s += '<circle cx="' + x(i) + '" cy="' + y(p.v) + '" r="' + (last ? 6 : 4) + '" fill="' + (last ? '#FFB05C' : '#FF4F8B') + '" stroke="#1B1424" stroke-width="2"/>';
-      s += '<text x="' + x(i) + '" y="' + (y(p.v) - 12) + '" text-anchor="middle" class="' + (last ? 'lbl-strong' : '') + '">' + p.v.toFixed(1) + 'M</text>';
-      s += '<text x="' + x(i) + '" y="' + (H - 12) + '" text-anchor="middle">' + p.d + '</text>';
-    });
-    s += '</svg>';
-    document.getElementById('line-pre').innerHTML = s;
-  })();
-
-  /* ---------- gameplay features ---------- */
-  var playIcon = '<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M2 1l9 5-9 5z" fill="currentColor"/></svg>';
-  var VIDEOS = window.GTA_VIDEOS || [];
-  var FEATURES = window.GTA_FEATURES || [];
-  function yt(id, t) { return 'https://www.youtube.com/watch?v=' + id + (t ? '&t=' + t + 's' : ''); }
-  function mmss(t) { var m = Math.floor(t / 60), s = t % 60; return m + ':' + (s < 10 ? '0' : '') + s; }
-  var reel = document.getElementById('reel');
-  VIDEOS.forEach(function (v) {
-    var a = document.createElement('a');
-    a.href = yt(v.id); a.target = '_blank'; a.rel = 'noopener';
-    a.innerHTML = '<div class="play">' + playIcon.replace('currentColor', '#0F0B15') + '</div><b>' + v.title + '</b><span>' + v.date + ' · Rockstar Games on YouTube</span>';
-    reel.appendChild(a);
+  var hrs = document.getElementById('hours');
+  var max = Math.max.apply(null, window.HOURS);
+  var marks = { 0: 'New Zealand unlock', 18: 'US unlock' };
+  window.HOURS.forEach(function (n, i) {
+    var d = document.createElement('div');
+    d.style.height = (n / max * 100) + '%';
+    d.title = n + ' stories';
+    if (n === max) d.className = 'peak';
+    if (marks[i]) { d.className += ' mark' + (i > 12 ? ' r' : ''); d.setAttribute('data-mark', marks[i]); }
+    hrs.appendChild(d);
   });
-  var fwrap = document.getElementById('features');
-  FEATURES.forEach(function (f) {
-    var d = document.createElement('article');
-    d.className = 'feat';
-    var link = f.vid ? '<a class="watch" href="' + yt(f.vid, f.t) + '" target="_blank" rel="noopener">' + playIcon + (f.vlabel || 'Watch') + (f.t ? ' at ' + mmss(f.t) : '') + '</a>' : '';
-    d.innerHTML = '<h3>' + f.name + '</h3><p>' + f.desc + '</p><div class="meta">' + link + '<span class="pill ' + f.conf + '">' + f.confLabel + '</span></div>';
-    fwrap.appendChild(d);
-  });
+  var N = function (v) { return v; };
+  bars(document.getElementById('bars-out'), [{"l": "GamesRadar+", "v": 44, "lead": true}, {"l": "Mashable", "v": 18, "lead": false}, {"l": "Push Square", "v": 16, "lead": false}, {"l": "VGC", "v": 15, "lead": false}, {"l": "Insider Gaming", "v": 15, "lead": false}, {"l": "Eurogamer", "v": 13, "lead": false}], 48, N);
+  bars(document.getElementById('bars-topic'), [{"l": "News", "v": 363, "lead": true}, {"l": "Reviews", "v": 109, "lead": false}, {"l": "Sales", "v": 72, "lead": false}, {"l": "Streaming", "v": 47, "lead": false}, {"l": "Players", "v": 24, "lead": false}, {"l": "Outage", "v": 13, "lead": false}], 380, N);
 
-  /* ---------- ledger ---------- */
+  var IST = function (iso) { var d = new Date(new Date(iso).getTime() + 330 * 60000); return ('0' + d.getUTCHours()).slice(-2) + ':' + ('0' + d.getUTCMinutes()).slice(-2) + ' IST'; };
+  var esc = function (s) { return s.replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+  document.getElementById('heads').innerHTML = window.HEADS.map(function (h) {
+    return '<a class="head-card" href="' + esc(h.u) + '" target="_blank" rel="noopener"><b>' + esc(h.t) + '</b><span>' + esc(h.o) + ' · ' + IST(h.p) + '</span></a>';
+  }).join('');
+
   var L = [
     ['Combined peak concurrent viewers', '7.89M (prelim.)', 'Streams Charts', 'https://streamscharts.com/news/gta-6-streaming-records', 'high'],
     ['Previous game-launch record', '1,737,267 (VALORANT beta, 2020)', 'Streams Charts', 'https://streamscharts.com/news/gta-6-streaming-records', 'high'],
     ['Twitch game-category peak', '3.29M, beat LoL (3.11M)', 'Streams Charts; SullyGnome via Dot Esports', 'https://dotesports.com/gta/news/gta-6-twitch-viewership-record', 'high'],
-    ['YouTube / Kick peaks', '3.19M / 1.49M', 'Streams Charts', 'https://streamscharts.com/news/gta-6-streaming-records', 'med'],
     ['Metacritic score', '99, 147+ reviews, 0 mixed/negative', 'Metacritic via TNW, Dot Esports', 'https://thenextweb.com/news/gta-vi-metacritic-99-reviews-30fps-launch', 'high'],
-    ['OpenCritic score', '98 "Mighty"', 'OpenCritic', 'https://opencritic.com/news/39914/', 'med'],
     ['Most pre-ordered, PS Store and Microsoft Store', 'All-time records', 'PlayStation Blog, Xbox Wire via Game Informer', 'https://gameinformer.com/2026/11/10/surprising-literally-nobody-grand-theft-auto-vi-is-the-most-pre-ordered-game-in', 'high'],
     ['Estimated digital pre-orders', '~17.07M units, ~$1.65B', 'Sensor Tower via Fox Business', 'https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait', 'med'],
-    ['Pre-order trajectory', '11.27M (12 Nov) → 14.94M (16 Nov) → 15.88M (17 Nov)', 'Sensor Tower via Benzinga, Vice', 'https://www.vice.com/en/article/how-many-people-pre-ordered-gta-6/', 'med'],
     ['GTA V first-day benchmark', '11.21M units, $815.7M', 'Guinness World Records (2013)', 'https://www.guinnessworldrecords.com/news/2013/10/confirmed-grand-theft--auto-breaks-six-sales-world-records-51900', 'high'],
     ['Take-Two stock, 18 Nov', '+6%, close $216.61', 'Fox Business', 'https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait', 'med'],
-    ['Trailer 1 views, 24h', '90,421,491 (YouTube)', 'Guinness World Records', 'https://www.guinnessworldrecords.com/news/2023/12/grand-theft-auto-vi-first-look-becomes-most-viewed-videogame-trailer-in-24-hours-762030', 'high'],
-    ['Trailer 2 views, 24h', '475M (all platforms)', 'Rockstar via TechRadar', 'https://www.techradar.com/gaming/the-latest-grand-theft-auto-6-trailer-has-set-a-major-record-by-racking-up-475-million-views-in-just-24-hours', 'med'],
-    ['PS5 install size', '~210 GB', 'PlayStation Store datamine via LevelUp', 'https://www.levelup.com/en/news/gta-vi-ps5-file-size-revealed-and-its-massive-one-of-the-largest-console-downloads-in-video-game-history/', 'med'],
-    ['Team size', '4,711 staff, 12 offices', 'Bloomberg (Schreier) via GTA Intel', 'https://gtaintel.com/news/gta-6-bloomberg-making-of-project-americas', 'med'],
-    ['Standard price', '$79.99', 'Rockstar via Outlook Respawn', 'https://respawn.outlookindia.com/gaming/gaming-news/rockstar-games-confirms-gta-vi-costs-7999-at-launch', 'high'],
-    ['Generative AI quote', '"zero part"', 'GamesIndustry.biz interview via ESPN', 'https://www.espn.com/gaming/story/_/id/47836600/gta-vi-grand-theft-auto-generative-ai', 'high'],
-    ['Map size vs GTA V', '~2× (unofficial)', 'Fan measurements, various', '', 'low'],
-    ['PSN disruption, 18 Nov', 'Sign-in and launch failures', 'GameSpot', 'https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/', 'med'],
-    ['Opening-weekend bar', '$1.9B over three days', 'Bank of America via Proactive Investors', 'https://www.proactiveinvestors.com/companies/news/1101705/gta-6-needs-1-9bn-opening-weekend-to-satisfy-investors-says-bank-of-america-1101705.html', 'med']
+    ['Trailer 2 views, 24h', '475M (all platforms)', 'Rockstar via TechRadar', 'https://www.techradar.com/gaming/the-latest-grand-theft-auto-6-trailer-has-set-a-major-record-by-racking-up-475-million-views-in-just-24-hours', 'med']
   ];
   var labels = { high: 'High', med: 'Medium', low: 'Low' };
   var tb = document.querySelector('#ledger tbody');
@@ -649,6 +535,7 @@ window.GTA_FEATURES = [
     document.querySelectorAll('section.ch').forEach(function (s) { io.observe(s); });
   }
 })();
+
 </script>
 </body>
 </html>
