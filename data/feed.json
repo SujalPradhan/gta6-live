@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:24:27+00:00",
- "started": "2026-11-19T15:24:18+00:00",
+ "updated": "2026-11-19T15:29:27+00:00",
+ "started": "2026-11-19T15:29:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T15:24:18+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T15:29:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T15:24:19+00:00"
+   "checked": "2026-11-19T15:29:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T15:24:19+00:00"
+   "checked": "2026-11-19T15:29:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T15:24:19+00:00"
+   "checked": "2026-11-19T15:29:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T15:24:20+00:00"
+   "checked": "2026-11-19T15:29:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T15:24:20+00:00"
+   "checked": "2026-11-19T15:29:21+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 31,
-   "checked": "2026-11-19T15:24:20+00:00"
+   "hits": 30,
+   "checked": "2026-11-19T15:29:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:24:20+00:00"
+   "checked": "2026-11-19T15:29:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T15:24:21+00:00"
+   "checked": "2026-11-19T15:29:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T15:24:21+00:00"
+   "checked": "2026-11-19T15:29:22+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:24:21+00:00"
+   "checked": "2026-11-19T15:29:22+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T15:24:22+00:00"
+   "checked": "2026-11-19T15:29:22+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T15:24:22+00:00"
+   "checked": "2026-11-19T15:29:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T15:24:22+00:00"
+   "checked": "2026-11-19T15:29:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "nice try hoaxers but schools are not closed for the release of gta vi as fake announcements flood social media",
+   "title": "Nice try hoaxers, but schools are not closed for the release of GTA VI, as fake announcements flood social media",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3pZRVRaWWFOU3lQWG5UbF9rdGVEaWdCeGdNck13ZEx1cmtncjhKeXM4YTkwUlVjOWozYzBZVlRaNVB3WWNzSllKd0M2WmNNdDYzYmJ2Q0ZGQTNjMy1ubWc0X3Z4UFp2bERxT3lHNHFRV0RaOEpCR1JmbXJtUmF0LTZQaXpRTlZE?oc=5",
+   "outlet": "The Boston Globe",
+   "via": "Google News",
+   "published": "2026-11-19T15:26:39+00:00",
+   "seen": "2026-11-19T15:29:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says schools are not closed for GTA VI release despite fake announcements on social media."
+  },
+  {
+   "id": "gta vi a masterpiece fans react to gaming s biggest release",
+   "title": "'GTA VI': A masterpiece? Fans react to gaming's biggest release",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMURvQVo3NWxIVldvMllMZUlZRzZXVnRwN2NIeHFJQmVpR1VwRGw1a0oxdVdLcHlFcFU0WnZTWVNGNGphM0N5YUl5MncySG9QVThXeVhUbWFkajk5dVBnUjcyREhyMTc2OFQtc2xEUktvaG1ELXN0aGhkSTlfeWVNZWZaaV93bE5IQURYSWdRVVJ0Q0ptZG14UWR3U2Z2aHpGTlpwVDVjZl9qcTR5Z1VMdEZ3?oc=5",
+   "outlet": "France 24",
+   "via": "Google News",
+   "published": "2026-11-19T15:23:21+00:00",
+   "seen": "2026-11-19T15:29:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Fans react to GTA VI as a potential masterpiece and gaming's biggest release."
+  },
+  {
+   "id": "when will rockstar reveal gta 6 sales possibly within days and these are the records to beat",
+   "title": "When will Rockstar reveal GTA 6 sales? Possibly within days, and these are the records to beat",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3ZWYnJ0SHdkWWhIM0pWZ29NOWh0RjRfdThvZUhENUNVaFQ1VUg4aDBRazV2ZFNIb0FNeE9TWThwZjZuN2dmbFEtM0hPVmVxZGthYnZ3VmlQUFdyYndBVFl1U3NwRlMtNlBBV0xtM1ZZbXJ4SFVsUTJKTzQzMWVaVXJESHRfQXVWdVJsLS1vcEVPYlRGN0I5Mi1kVlVEMHFXV2xKTFZkcHhEMzNLdDdxamVIdmo?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-19T15:23:14+00:00",
+   "seen": "2026-11-19T15:29:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Rogue speculation suggests Rockstar may reveal GTA 6 sales soon, with mentions of records to beat."
+  },
+  {
+   "id": "estefans travis scott among celebs spotted at highly anticipated gta vi themed miami heat game",
+   "title": "Estefans, Travis Scott among celebs spotted at highly-anticipated ‘GTA VI’-themed Miami Heat game",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LeG5PNlZ2bm9LMnpjRUlYdnhPQlVBT0FMeHVtWXdMZEpSV1VwcEF3RlliUVplQmNoYmFHV3ZLWTZjdXh4aDRNR0NGQWNnTDZKQWtsYTdwMDBhY1ZDd3YzVlpNVnIzZE5TalYycUZSTQ?oc=5",
+   "outlet": "WSVN",
+   "via": "Google News",
+   "published": "2026-11-19T15:22:11+00:00",
+   "seen": "2026-11-19T15:29:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Celebrities, including Estefans and Travis Scott, are spotted at a GTA VI-themed Miami Heat game."
+  },
   {
    "id": "the best gta 6 gun is very easy to get from the start",
    "title": "The Best ‘GTA 6’ Gun Is Very Easy To Get From The Start",
@@ -430,6 +482,19 @@
    "ai_summary": "The story reports that GTA 6's Jason and Lucia actors were spotted together in a first photo."
   },
   {
+   "id": "gta 6 just brought back the best e3 meme of all time",
+   "title": "GTA 6 Just Brought Back the Best E3 Meme of All Time",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HYjZ1V1Y3Qk94TXhpeGRFaC11UXJNQXYtcGYxdTAxZXNqTzRfdm1BaFliYzdaVUpIVWVwcU04X0puOWJFc3B6Njd0NVZnQVpYa3pncnBJZ0pDRUp3Y3hJ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T15:00:15+00:00",
+   "seen": "2026-11-19T15:29:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 has revived a popular E3 meme."
+  },
+  {
    "id": "grand theft auto vi frenzy highlights digital infrastructure insurance risks",
    "title": "Grand Theft Auto VI Frenzy Highlights Digital Infrastructure Insurance Risks",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nbUZKMFprRXFSUVIyTEpLeHUtek9CeS1ZRk01YzZQMGEtRWVtcnRtc3J0RzQzVGstOXRKbjB1UE05UjJIeW00TmlGaTE1cHdZWTB6ZEoyeWp4YjJDaHNacFhGTjR4UVZ6UWY3VQ?oc=5",
@@ -597,6 +662,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story covers a police statement addressing 'Vice City transplants' on GTA 6 release night."
+  },
+  {
+   "id": "tech bytes universal praise for grand theft auto vi",
+   "title": "Tech Bytes: Universal praise for Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0ZKQVNGX1BvcFFWNm9ZeG8xcjF5T01NeEhUakhCNmJnOE9RTUR6U2pTUXo2M3VtZHlxd3MzcVloSnlYVVJ5UkJlU2l6TTVGRUxCZ3N2NHBNam1IZUowRjVXZ2xNQUd2SkM5aTJDdWxVMEs0ZHB3dEFmUmNhSUFabUtSampZX3hLVVN2aXdUS0IwR2tZT2xTcHZDeW4?oc=5",
+   "outlet": "WDIO.com",
+   "via": "Google News",
+   "published": "2026-11-19T14:53:21+00:00",
+   "seen": "2026-11-19T15:29:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Tech coverage praises Grand Theft Auto VI with broad acclaim."
   },
   {
    "id": "grand theft auto vi lucia s main stunt double on blood sweat tears behind game s creation",
@@ -976,6 +1054,19 @@
    "ai_summary": "The story questions whether GTA 6 is available on Mac or Apple TV."
   },
   {
+   "id": "gamers call gta 6 best game of all time hours after debut abc news",
+   "title": "Gamers call GTA 6 'best game' of all time hours after debut - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR1lCTER2a1ZmeGJPeno5SlI1NTZWa0Y4NFBJVnpXMTduNUdQZW5LSDlXcnU1WnFWOWRZZENiWGpPeTdWUmhjMGpPT0ZtSzBzNnVOelJGVER4c3RxWWYzMDhsTmNENE5aS2EwSGFmd1NJYjJFYmU4ZGtucmNoMDlOTUsxUG1XZGk2aW9rcEhYaExSX3PSAZgBQVVfeXFMUGtNdjc5QUFxbWFNU2NiWmh4aXUtaEFEX196enpWbE9VcDVYTzdjWmVkMWtjTzZuR2ppa3BmcG1tU0ZJa0RMWERNcXNHbktBYkRpMWF4em1GR0dQY1hTV05ENzhzTDY3WWRTcGZ0UFVuWURtc0ZsU2J0TGZNQzd5RXBIREhjUGQ1QXdQem5MZGNoWDY3ZU12Q3o?oc=5",
+   "outlet": "Breaking News, Latest News and Videos",
+   "via": "Google News",
+   "published": "2026-11-19T14:28:15+00:00",
+   "seen": "2026-11-19T15:29:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Gamers call GTA 6 the best game of all time hours after its debut."
+  },
+  {
    "id": "gta 6 debuts at 99 on metacritic tying ocarina of time s all time record",
    "title": "GTA 6 debuts at 99 on Metacritic, tying Ocarina of Time’s all-time record",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDluQ2FoX1ZoMFhZWi1RT0JaVnR0eUstMDZSRVIwRGF4WEFqWGNocEhlNFFzWU1PMFBQMmJwS0NPbjBNUkNUY1lGbDcwSC1jVUN2Vy1paTRsMVBHQ2RqQ2ppUU4xQU1TUFpDVmVQNWdsUW9aTl8yblJ6cEZPd25XRVE0OUctcF81VnNaZ2FhRVN1bU0?oc=5",
@@ -1169,6 +1260,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story claims the opening two hours teach a comprehensive amount about the next game, though no snippet is provided."
+  },
+  {
+   "id": "gta 6 launches with big impact on black gamers",
+   "title": "GTA 6 Launches with Big Impact on Black Gamers",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zWVlhZlU0RmJtVHVuaHQzaTdaNXlLMTltQjhtdjFvZzh0blNfTzZ1a3JpUkdQYkloTmk2YWNxMGNGYW1jNE9fazdtTzBPZ1lmdkRhUnh0MVFLYm0wMFJqdGM2ek91NHJJSUgtdy1yd25wd0F2emJNWg?oc=5",
+   "outlet": "EBONY Magazine",
+   "via": "Google News",
+   "published": "2026-11-19T14:14:13+00:00",
+   "seen": "2026-11-19T15:29:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 launches with a notable impact on Black gamers."
   },
   {
    "id": "gta 6 psa here s how gta 6 autosave works",
@@ -4874,6 +4978,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story states GTA 6 gets honored for its worldwide release by fans, aftermarket, and CGI realms."
+  },
+  {
+   "id": "latest ps5 prices in november 2026 are shocking prepare idr 10 million to play gta 6 here are your console options",
+   "title": "Latest PS5 Prices in November 2026 Are Shocking! Prepare IDR 10 Million to Play GTA 6, Here Are Your Console Options",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFaUthT2xxNlVwUFFZaHBEdm9VWHZiVzFDbDFMbFRSZ1ZERWtrdVJid0FtVE1MbHJNeUdZejVVdzlNSTU3N0h6cHFoRVhCeDdIM1hHYkQwUUVDUzBPcEctUnF1Yzk4TTdDazYycTlfbDJEZkhDZjBXLWpKcjM?oc=5",
+   "outlet": "Aktualita.co",
+   "via": "Google News",
+   "published": "2026-11-19T09:56:32+00:00",
+   "seen": "2026-11-19T15:29:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "November PS5 prices are high, with options to play GTA 6 hinted at."
   },
   {
    "id": "gta 6 map guide all 6 leonida regions vice city map size",
@@ -10659,6 +10776,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "GTA 6 removes paid hookups and limits sexual activity with others to focus on Jason and Lucia’s romance, with private dances still available."
+  },
+  {
+   "id": "everything to know about gta 6 album abc news",
+   "title": "Everything to know about GTA 6 album - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rdjBrYkQ5UExpZmF4NzlhVkUwYWNDX3lWRURJNlRhai1FSUhRVHBCQmVUdWhaQXZSX0d3VVAzX2dkS0ZaRHVaNUNZZ3JkNGh0WVMxeTFGZHdHZHpvUnBfZmlSNldBRkdvdllxUFdwd9IBdEFVX3lxTE55Z3VYZkI3LVlRNC1vSzR2cTFDQW5kMWJFeldXSWVoYl9wc1JXeDA4eGxwOFhXU2s4UUlIQ3RSYkE1TFE3LU5RT3Z1YUFZbkFjQk1fZnFvX1hLbWo3NVBILTZEN1pIUTRNaWNsQURTR01MZEtI?oc=5",
+   "outlet": "Breaking News, Latest News and Videos",
+   "via": "Google News",
+   "published": "2026-11-18T17:37:42+00:00",
+   "seen": "2026-11-19T15:29:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "ABC News covers everything to know about GTA 6 album."
   },
   {
    "id": "most though not quite all of the 34 fired rockstar employees are named in the gta 6 credits",
