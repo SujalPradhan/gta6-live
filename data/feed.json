@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:06:30+00:00",
- "started": "2026-11-19T21:06:20+00:00",
+ "updated": "2026-11-19T21:11:28+00:00",
+ "started": "2026-11-19T21:11:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T21:06:21+00:00"
+   "checked": "2026-11-19T21:11:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T21:06:21+00:00"
+   "checked": "2026-11-19T21:11:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T21:06:21+00:00"
+   "checked": "2026-11-19T21:11:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T21:06:22+00:00"
+   "checked": "2026-11-19T21:11:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T21:06:22+00:00"
+   "checked": "2026-11-19T21:11:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-19T21:06:22+00:00"
+   "hits": 41,
+   "checked": "2026-11-19T21:11:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T21:06:22+00:00"
+   "checked": "2026-11-19T21:11:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 13,
-   "checked": "2026-11-19T21:06:22+00:00"
+   "hits": 14,
+   "checked": "2026-11-19T21:11:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T21:06:23+00:00"
+   "checked": "2026-11-19T21:11:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T21:06:23+00:00"
+   "checked": "2026-11-19T21:11:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T21:06:23+00:00"
+   "checked": "2026-11-19T21:11:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T21:06:23+00:00"
+   "checked": "2026-11-19T21:11:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T21:06:24+00:00"
+   "checked": "2026-11-19T21:11:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T21:06:24+00:00"
+   "checked": "2026-11-19T21:11:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "ocala speedway dirt track is featured in gta 6 video",
+   "title": "Ocala Speedway dirt track is featured in GTA 6 (Video)",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNV9yMGdYMlZpdW1sZlo4TUVSVm9ERUtrRzBHZTA1dmdYY2RRMHN6Z284VV90UFY3WEJTaC1wU3BQN1pIa2RBdFhpdmVGSlNHT2RZMWU4OUJHVEd3SlNDWlcwTU9wSjRoS0VJM1JyeEtsTjJVNzZUa1ROTUVrZXZWcEY1NXFEVVVWdFNnSE1vSQ?oc=5",
+   "outlet": "RacingNews.co",
+   "via": "Google News",
+   "published": "2026-11-19T21:09:51+00:00",
+   "seen": "2026-11-19T21:11:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Ocala Speedway dirt track is highlighted as part of GTA 6 featured content."
+  },
+  {
+   "id": "infamous gta 6 leaker cyberleek is back and this time the group claims to have leaked a full development build of the game",
+   "title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game",
+   "link": "https://www.eurogamer.net/cyberleek-gta-6-dev-build",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-19T21:08:50+00:00",
+   "seen": "2026-11-19T21:11:23+00:00",
+   "summary": "CyberLeek, the persona of a hacker group that was responsible for leaking GTA 6 gameplay before the game launched, has reappeared today, claiming to have released a development build of the final version of the game on its site. This new leak appears to be making good on a threat posted back in October, where the group stated its intent to release a full, playable build of the game . Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 leaker claims to have released a full development build of the game."
+  },
+  {
+   "id": "ps5 vs xbox series x for gta 6 here s how the hardware and prices stack up",
+   "title": "PS5 vs. Xbox Series X for GTA 6? Here's How the Hardware and Prices Stack Up",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGxDRzdRZTRoUU1QcS1jQXhqNllrRm1kN1RTN2NYN0dRTVh0Q3FOSVEwbVV5N2dFeFM3Ym0xUk03eFVZUDZSUVNlWlpjN0laUW1OZ3ZiZWltRExONmJ1THctdHd6N0ZSdy03T3Nkc3E2QVUyeTJMRzFmOWM2U2o2eFVzdnJad190Nl9aZ3dlS3c?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-19T21:05:16+00:00",
+   "seen": "2026-11-19T21:11:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A comparison of PS5 and Xbox Series X for GTA 6 discusses hardware and prices."
+  },
   {
    "id": "gta 6 cost a whopping 1b to make here is how it compares to the biggest blockbusters made",
    "title": "GTA 6 cost a whopping $1B to make — here is how it compares to the biggest blockbusters made",
@@ -233,6 +272,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story says GTA VI parodies culture wars with Nick Fuentes radio and other elements."
+  },
+  {
+   "id": "us police forces worried gta 6 players will start committing real crimes warn officers are not npcs",
+   "title": "US police forces worried GTA 6 players will start committing real crimes, warn officers “are not NPCs”",
+   "link": "https://www.dexerto.com/gta/us-police-forces-worried-gta-6-players-will-start-committing-real-crimes-warn-officers-are-not-npcs-3430007/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-19T20:54:30+00:00",
+   "seen": "2026-11-19T21:11:24+00:00",
+   "summary": "Police departments across the United States are warning GTA 6 players not to recreate crimes from the game in real life.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "U.S. police warn GTA 6 players not to commit real crimes inspired by the game."
   },
   {
    "id": "grand theft auto vi drops for sony playstation 5 and xbox series x s here s where to shop the game online",
@@ -1808,6 +1860,19 @@
    "ai_summary": "GTA 6 is reportedly the most popular game on Twitch and Kick since its release, according to IGN."
   },
   {
+   "id": "gta 6 soundtrack radio stations full tracklist score and celebrity hosts",
+   "title": "GTA 6 Soundtrack & Radio Stations: Full Tracklist, Score, and Celebrity Hosts",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2ZuaXhrTEVNaUN4M0xZX0dyMklOVkRQTUJoLTdFYmV2eTdLN2F3MG9TdndMclVYTkV2RHcteVU4U0hqMXF3bzZpWUM0MzRGbjF0aEU0c01jYlV5RktRY090a3Mwb1FhZ3R1MnNYek9yeXZZN0VDVlgzNFhySlVxU3N1Mm1Qelk?oc=5",
+   "outlet": "Man of Many",
+   "via": "Google News",
+   "published": "2026-11-19T18:50:57+00:00",
+   "seen": "2026-11-19T21:11:22+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 soundtrack and radio stations include a full tracklist, score, and celebrity hosts."
+  },
+  {
    "id": "grand theft auto vi jason lucia actors call game a worldwide testament to human creativity",
    "title": "'Grand Theft Auto VI': Jason, Lucia Actors Call Game a 'Worldwide Testament to Human Creativity'",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUIzQTBnSjBXUFdNdmkzc3hfVWJOYWJhZkFyR2ZyNmF3MGRrd1YxOGxwcjBNN0pTTWhBWXE5N0c3SGNzakIyaElYTDhsaU5aeW1WeHM0dW5xYzR4ak5yYld4U1BYWXhaZjBIZG1vN2Qwa096LUZhcERfS3k3Y2RtUExqSWI1MnhPSjdDOGtETzVXVE5BbUJqTEVB?oc=5",
@@ -1819,6 +1884,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that actors Jason and Lucia call GTA VI a worldwide testament to human creativity according to Complex."
+  },
+  {
+   "id": "kalshi says it s hiring a gta 6 researcher to study the game s economy",
+   "title": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1RmFTR0VxS3RUWFFHOENGTWQxeUVLZW9nWnJNRF9KMFVkT3YzTnUxa2FEVkdtQ1NtMDhucktOR2VhaXVSZkc5TDFocTNnRnRLZlRVd0ItQ3I1OEVzMnhQYU1yMmgtbndtNWNfR0lpcERUaEZLSHh4LUZn?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T18:49:41+00:00",
+   "seen": "2026-11-19T21:11:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Kalshi states it is hiring a GTA 6 researcher to study the game's economy."
   },
   {
    "id": "gta 6 s devotion to life simulation is taking retro gaming sickos back to the dreamcast era",
