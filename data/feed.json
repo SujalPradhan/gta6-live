@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:25:32+00:00",
- "started": "2026-11-19T18:25:26+00:00",
+ "updated": "2026-11-19T18:30:29+00:00",
+ "started": "2026-11-19T18:30:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:25:27+00:00"
+   "checked": "2026-11-19T18:30:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:25:27+00:00"
+   "checked": "2026-11-19T18:30:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T18:25:28+00:00"
+   "checked": "2026-11-19T18:30:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T18:25:28+00:00"
+   "checked": "2026-11-19T18:30:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T18:25:28+00:00"
+   "checked": "2026-11-19T18:30:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T18:25:28+00:00"
+   "checked": "2026-11-19T18:30:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T18:25:28+00:00"
+   "checked": "2026-11-19T18:30:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T18:25:28+00:00"
+   "checked": "2026-11-19T18:30:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T18:25:29+00:00"
+   "checked": "2026-11-19T18:30:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T18:25:29+00:00"
+   "checked": "2026-11-19T18:30:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T18:25:29+00:00"
+   "checked": "2026-11-19T18:30:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T18:25:29+00:00"
+   "checked": "2026-11-19T18:30:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T18:25:29+00:00"
+   "checked": "2026-11-19T18:30:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T18:25:29+00:00"
+   "checked": "2026-11-19T18:30:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "the guardian view on grand theft auto vi a game that makes players think twice",
+   "title": "The Guardian view on Grand Theft Auto VI: a game that makes players think twice",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1ZXQmVKUHdqZEkyTkJWSFBXa2p3THczazMwWTFyTzZBYTRhOFhCY056a216Y3VGNkFtSXd6LVpFWXYwZ3ZTYWhra2puLXdUbEF2eWtXWE16Zm9zcjZsY290S1pBQ1VrNUszbWl6SG9CZWE4WlNEaGliY29lSE9heXhuS0FsZE5ibThtRnMxV0Z2UEMxN0gxMWM5cWNZcnk0VnBocDgxZU8tQ3hJTmVpRUFEdnpxeXpiLUE4RThQbUN1bDg2ME5teXBKOVo?oc=5",
+   "outlet": "The Guardian",
+   "via": "Google News",
+   "published": "2026-11-19T18:25:00+00:00",
+   "seen": "2026-11-19T18:30:24+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The Guardian's view on Grand Theft Auto VI is that the game makes players think twice."
+  },
   {
    "id": "gaming gta vi miami launch",
    "title": "GAMING-GTA VI/MIAMI-LAUNCH",
@@ -4928,6 +4941,19 @@
    "ai_summary": "The article lists every story mission and how long the game takes to complete."
   },
   {
+   "id": "gta 6 adopts open ended mission design to reduce failures",
+   "title": "GTA 6 adopts open-ended mission design to reduce failures",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeUY4T1NZb0tDNEMxV0I3X194cFBDdDdJeVU4ZG0wbVBWT29EWjFVSzFGS3d1aGpIOTVxTHBkUUZLN3NzSHhpUGdvWmR4eTdfcWFiNlVyZk5mc0dhRGVkWEtoZGIxSldIa0lrd0hGa1UyOXFibUZ2XzRaZExrZm5EdC1pQkNWdTg?oc=5",
+   "outlet": "games.gg",
+   "via": "Google News",
+   "published": "2026-11-19T12:59:14+00:00",
+   "seen": "2026-11-19T18:30:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 uses open-ended mission design to reduce failures."
+  },
+  {
    "id": "take two stock jumps more than 6 as gta vi launches to near perfect reviews",
    "title": "Take-Two stock jumps more than 6% as GTA VI launches to near-perfect reviews",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xb0FzZllVMHRHN01zOEhJOHBWbTRWODNhUmpPU1hXOUQ2dUxUYVJsS1ozUTYzc3J3R0RwbTFfa1VHWnkzb0V6WXZtdjFfOHR3c0NfVndveUU3Tm1PMi1JTjM4d09Yd3d5V3c?oc=5",
@@ -5927,6 +5953,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "WSB-TV notes 43 soldiers will play the game during an extended weekend as part of a reenlistment deal."
+  },
+  {
+   "id": "gta 6 players spot bigfoot during worldwide rollout",
+   "title": "GTA 6 players spot Bigfoot during worldwide rollout",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ME9iaVhzWXJlMEVyc3RZUEhCRWx4bFNSamMyalFIbGE2Q3kzbHNmTHZkNDFaU25rWWVjQmtHNXdrSVI1dTExZEhOUmp4WHVnOVpHMXUyWnRfZkNVRTBvTlNXdjNUSXNPdDJZSUpoSDF6ZUhtbDFIT0pvRzlTQUU?oc=5",
+   "outlet": "games.gg",
+   "via": "Google News",
+   "published": "2026-11-19T11:54:12+00:00",
+   "seen": "2026-11-19T18:30:25+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players spot Bigfoot during the worldwide rollout."
   },
   {
    "id": "how gta 6 mocks liberals and conservatives",
