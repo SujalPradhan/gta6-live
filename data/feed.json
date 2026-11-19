@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:38:44+00:00",
- "started": "2026-11-19T13:38:37+00:00",
+ "updated": "2026-11-19T13:43:42+00:00",
+ "started": "2026-11-19T13:43:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T13:38:37+00:00"
+   "checked": "2026-11-19T13:43:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T13:38:38+00:00"
+   "checked": "2026-11-19T13:43:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T13:38:38+00:00"
+   "checked": "2026-11-19T13:43:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T13:38:39+00:00"
+   "checked": "2026-11-19T13:43:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T13:38:39+00:00"
+   "checked": "2026-11-19T13:43:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 36,
-   "checked": "2026-11-19T13:38:39+00:00"
+   "hits": 37,
+   "checked": "2026-11-19T13:43:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-19T13:38:40+00:00"
+   "checked": "2026-11-19T13:43:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T13:38:40+00:00"
+   "checked": "2026-11-19T13:43:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-19T13:38:40+00:00"
+   "hits": 6,
+   "checked": "2026-11-19T13:43:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T13:38:40+00:00"
+   "checked": "2026-11-19T13:43:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T13:38:41+00:00"
+   "checked": "2026-11-19T13:43:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T13:38:41+00:00"
+   "checked": "2026-11-19T13:43:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T13:38:41+00:00"
+   "checked": "2026-11-19T13:43:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T13:38:41+00:00"
+   "checked": "2026-11-19T13:43:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 has replaced websites with social media and phone apps because it didn t feel necessary",
+   "title": "GTA 6 has replaced websites with social media and phone apps because \"it didn't feel necessary\"",
+   "link": "https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-19T13:43:10+00:00",
+   "seen": "2026-11-19T13:43:34+00:00",
+   "summary": "The internet of today is a far cry from the days when Grand Theft Auto 5 was released, which is partly why Rockstar didn't bring back its own satirical version of the web in GTA 6 . Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 replaced websites with social media and phone apps because developers felt it wasn’t necessary."
+  },
+  {
+   "id": "we got gta vi before a better health care system health care un covered",
+   "title": "We Got GTA VI Before a Better Health Care System - HEALTH CARE un-covered",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU21HdXBmTUdtbVJlVklKUkozRXNSNXZwRFltdzBxUnE4UHRaWU9fczdHYVB2TklfWkdxcHAwWjJ4RllTYWxUaXBKTWt4Y3VhczNCdG5sRFljcGFra0I4eUsybXRaWGJOXzVLZk0zWDRIWTVQXy1yYUJQcFQ4NUZmQVJSRlk5dw?oc=5",
+   "outlet": "HEALTH CARE un-covered",
+   "via": "Google News",
+   "published": "2026-11-19T13:38:24+00:00",
+   "seen": "2026-11-19T13:43:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA VI was released before a better health care system."
+  },
+  {
+   "id": "gta 6 jason actor seemingly confirmed in social media post",
+   "title": "GTA 6 Jason Actor Seemingly Confirmed in Social Media Post",
+   "link": "https://insider-gaming.com/gta-6-jason-actor-seemingly-confirmed-in-social-media-post/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-19T13:37:31+00:00",
+   "seen": "2026-11-19T13:43:35+00:00",
+   "summary": "GTA 6's Jason actor has been seemingly confirmed as Dylan Rourke, which players were already expecting. Here are more details. The post GTA 6 Jason Actor Seemingly Confirmed in Social Media Post appeared first on Insider Gaming .",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Insider Gaming reports the Jason actor for GTA 6 appears to be confirmed via a social media post."
+  },
   {
    "id": "grand theft auto vi is here what to know about characters music and hype",
    "title": "‘Grand Theft Auto VI’ is here. What to know about characters, music and hype",
@@ -116,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on what to know about characters, music, and hype surrounding Grand Theft Auto VI."
+  },
+  {
+   "id": "grand theft auto vi is here what to know about the char acters music and all the hype",
+   "title": "'Grand Theft Auto VI' is here. What to know about the char­acters, music and all the hype",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVFBqaVZiRTR2LUxOX3Zpc08wMWUxejdfdEhQQVBKM0FraDRUZ1dCOUx5Y1JrdzNzY0tNeEgxV0F1ekJydTNVOWhFMXNhT1ZLQllWTEpaY3hCbEpCS3VseVRkTnFmcWhoNzZVd3c2cHlWYy1kSC16TjMzNEpBYlRSeDQ2eV9oVjNBWjhRMVBEUzlRclJ2bnVlZEFRSEVkZw?oc=5",
+   "outlet": "NY State of Politics",
+   "via": "Google News",
+   "published": "2026-11-19T13:34:00+00:00",
+   "seen": "2026-11-19T13:43:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article discusses what to know about GTA VI’s characters, music, and hype."
   },
   {
    "id": "rockstar confirms gta 6 won t get 60 fps mode",
@@ -142,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that the Taylor County Sheriff's Office turned GTA VI hype into a real-world warning."
+  },
+  {
+   "id": "rockstar says that gta 6 s map has room to expand for future storylines",
+   "title": "Rockstar Says That GTA 6's Map Has Room To Expand For Future Storylines",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbktBajlLWDJRN01kZ0pDb0RvWXNob0RfZTdEbmh2YWpVSGxMSFhCeHp0a3Y0dTVFWVJkZWswRVBGY3UtQWZRVDhLZ2Zra1Nva1pKZVBDZHZPTXBHM2JZNTd4NXlZTkdFMWIzWmtUb09XSW9ZQWhyTEo1dzBsUy01Z1F4b004ZDR4ZEpBYjhyUFgxV0kzNFNJSWtGWXZOQVUyV084ajQ3MA?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-19T13:30:02+00:00",
+   "seen": "2026-11-19T13:43:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar says GTA 6's map has room to expand for future storylines."
   },
   {
    "id": "i bought gta vi but not take two interactive stock nasdaq ttwo",
@@ -7398,6 +7463,19 @@
    "ai_summary": "GTA VI is smashing Twitch records and drawing advertiser interest."
   },
   {
+   "id": "gta 6 reviews hit 99 on metacritic with a warning about the first 25 hours",
+   "title": "GTA 6 Reviews Hit 99 on Metacritic, With a Warning About the First 25 Hours",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZVdpTnpKM3JGS1h4OHVaOElINVZxVnZPeXlnaFotYV9qZFNUNTduQ1QyZkg4V25hT3l0VkJza2JyenprcVBtNklqMjhJck5mY0hKNEZOSDlITlFPalI4djUwTFl2MGFLWHJybUtKUFdVeE9vSm5lUXhTcTdXOXRtTkViQjRiWkFoWDBpdndJMV9BeWpi?oc=5",
+   "outlet": "Martin Cid Magazine",
+   "via": "Google News",
+   "published": "2026-11-18T22:42:15+00:00",
+   "seen": "2026-11-19T13:43:32+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 reviews reach a high Metacritic score with a caution about the first twenty-five hours."
+  },
+  {
    "id": "who is mandy in gta 6 pipework mission and serial killer theory explained",
    "title": "Who is Mandy in GTA 6? Pipework Mission and Serial Killer Theory, Explained",
    "link": "https://insider-gaming.com/who-is-mandy-gta-6-when-do-you-meet-serial-killer/",
@@ -8501,6 +8579,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "CNN asks if GTA VI was worth the 13-year wait, as reviews arrive."
+  },
+  {
+   "id": "gta 6 review roundup near perfect scores huge praise and a few familiar problems",
+   "title": "GTA 6 review roundup: Near-perfect scores, huge praise, and a few familiar problems",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51MTZsb0M1aVRMeG40SVhTQU42STBmczlmdGt4aTV6ek5nV2tVa2g3SUpXMmpPbWxlc1k4T3pfV3FNZFNDcXVGRnpQSU90eFV0TkJCVFZzR3dPaWFYeEdRN3lR?oc=5",
+   "outlet": "Dot Esports",
+   "via": "Google News",
+   "published": "2026-11-18T18:36:00+00:00",
+   "seen": "2026-11-19T13:43:32+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "A review roundup highlights near-perfect scores, strong praise, and some familiar problems for GTA 6."
   },
   {
    "id": "grand theft auto vi is about to drop and millions are planning to spend thursday playing",
