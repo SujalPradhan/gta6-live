@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:09:56+00:00",
- "started": "2026-11-19T16:09:49+00:00",
+ "updated": "2026-11-19T16:14:52+00:00",
+ "started": "2026-11-19T16:14:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:09:49+00:00"
+   "checked": "2026-11-19T16:14:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:09:50+00:00"
+   "checked": "2026-11-19T16:14:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T16:09:50+00:00"
+   "checked": "2026-11-19T16:14:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:09:50+00:00"
+   "checked": "2026-11-19T16:14:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:09:51+00:00"
+   "checked": "2026-11-19T16:14:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T16:09:51+00:00"
+   "checked": "2026-11-19T16:14:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-19T16:09:51+00:00"
+   "checked": "2026-11-19T16:14:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T16:09:51+00:00"
+   "checked": "2026-11-19T16:14:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T16:09:51+00:00"
+   "checked": "2026-11-19T16:14:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T16:09:51+00:00"
+   "checked": "2026-11-19T16:14:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T16:09:52+00:00"
+   "checked": "2026-11-19T16:14:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T16:09:52+00:00"
+   "checked": "2026-11-19T16:14:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T16:09:52+00:00"
+   "checked": "2026-11-19T16:14:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T16:09:52+00:00"
+   "checked": "2026-11-19T16:14:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 girl s trip mission walkthrough",
+   "title": "GTA 6 Girl’s Trip Mission Walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-girls-trip-mission-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T16:13:55+00:00",
+   "seen": "2026-11-19T16:14:38+00:00",
+   "summary": "Meet Vicki and look for pills in the Girl's Trip walkthrough",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers a walkthrough titled 'Girl’s Trip' featuring a character named Vicki and searching for pills."
+  },
+  {
+   "id": "make sure to read everything in gta 6",
+   "title": "Make Sure To Read Everything In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xWVd3VEFsd3gzNFIzaEpZQWppbUxWMmJWbEd1UWxXa0hPOTB0bFBKRExJSFRwVXlnMUhZZEw4N25DQktmNWNyT3RaLWFnbTQ4NXNBUnd1NnpTNjhxYnVrSFYwYTBRVkxYZk9HQ1Q4MG80UXNtck9QOEctUEw?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-19T16:13:04+00:00",
+   "seen": "2026-11-19T16:14:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story urges readers to read everything in GTA 6."
+  },
+  {
+   "id": "parents reveal meticulous plan to play gta 6 while caring for toddler",
+   "title": "Parents Reveal Meticulous Plan To Play GTA 6 While Caring for Toddler",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTBSVWItWHQ3NFU4UUNvNm0zUVhIa1hQRXBkazVmRG1INk1zcE5GOUZodkpfSFBzVVZUWmNORHNrTE56VG1GSzVjQWFzbVZfZEdrdjJVUGp4eGNRcmlmaVZGMkEwRklUYXA3M1lOMWo5a281QTMtVG94UHktRG13ZklxZmpjTFhSRkZ4bDZKMFRMdnNkUVRPdTJhdEtzYzF6R3c?oc=5",
+   "outlet": "Newsweek",
+   "via": "Google News",
+   "published": "2026-11-19T16:10:00+00:00",
+   "seen": "2026-11-19T16:14:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Parents describe a careful plan to play GTA 6 while caring for a toddler."
+  },
+  {
+   "id": "gta 6 is finally here after 13 years but there s a catch for some gamers",
+   "title": "GTA 6 is finally here after 13 years — but there’s a catch for some gamers",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3doXzhmOGlLQWFvVmlCZm5rN0xKMW8wejhkNzBBRW1CMkxoZTl2d2V0WE5kX0pBNFllRURBQjhiT25qSmkwOTZYb0E1YVU4bXFSUXRJWVotWU5ZeUlfMUJxVVRmMkVOSngtVmFqb3J1d0pOWDBCUWpNT0lCbjBGcDRnVkNmSTVxcVZmNWJPajZUUmdsRllQYnUwMTdJR182Wmk1Y2pkakxtZ2txRFlrREZ4cw?oc=5",
+   "outlet": "New York Post",
+   "via": "Google News",
+   "published": "2026-11-19T16:09:00+00:00",
+   "seen": "2026-11-19T16:14:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes GTA 6 is released after a long wait, with a catch for some gamers."
+  },
+  {
+   "id": "the lead actress in grand theft auto vi has finally been revealed what to know about the woman behind lucia",
+   "title": "The lead actress in 'Grand Theft Auto VI' has finally been revealed. What to know about the woman behind Lucia.",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaUlOSllidjFiLWRTOWV2bTZXOGlfbjUyVERrT25RdDRfUnIyRnB3WTBselpjdnhrVHVrMUFwT2V0TUxKQXVHQ1BIVEJlSVA1YkhnLW1ZTnJsQ2RiQlNlWUJ4NkJWRktXdTI1anhhVUlxdVNmVFBPajhSd3ZVcWJwdmxFVVE5Y1dna2RxXzQ3SE9TbzdNT2NPSGk5MERpVTEweFhDM3pYS1RFT1RxeVZNSzlhVFcyTVlrb05UbnNrMlJHUDJPbkFBSW1fb3ZXMUFCV2JOeGphX2ltQWk4VS1pVzlVXzFNSTd0WG5BdngyWDdNTWpMUzFMQlFteEpyOXdqbTFVellxQQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-19T16:07:34+00:00",
+   "seen": "2026-11-19T16:14:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The lead actress for Grand Theft Auto VI has been revealed; information about the actress behind Lucia is provided."
+  },
   {
    "id": "grand theft auto vi launch hammers global networks",
    "title": "‘Grand Theft Auto VI’ launch hammers global networks",
@@ -142,6 +207,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Two features GTA 6 reportedly has are flipping and sitting, not explained by the game."
+  },
+  {
+   "id": "gta 6 live blog we re sharing our favorite tips the latest reveals twitch drops and more",
+   "title": "GTA 6 Live Blog: We're Sharing Our Favorite Tips, the Latest Reveals, Twitch Drops, and More",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWTFpSi13OVRfOW9vRHJEU3hSblFBblRfVklyMm5YNS1ORjVvSFhSdlJKdXAtamw1LTctSVBSalJORldJY01iZmR1R1FmRFl6TE5JdGo5OWROSXE2UnpLTGJyR1hlRXdvZ0VZSU9aZ0lBVEN6YmNESXZkMmFOTkdNXzAwN3E1SE4xcUlwSE56d0dTcjNaOXF6YUZsWWl6dFNPdENuQTZLWQ?oc=5",
+   "outlet": "PCMag UK",
+   "via": "Google News",
+   "published": "2026-11-19T16:00:33+00:00",
+   "seen": "2026-11-19T16:14:38+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The live blog covers favorite tips, latest reveals, Twitch drops, and more for GTA 6."
+  },
+  {
+   "id": "gta vi launch draws attention from kentucky schools and workplaces",
+   "title": "GTA VI launch draws attention from Kentucky schools and workplaces",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1RIbmQ0NTgyMy05dXllYmlHdG1GV3JWTWlXNlhySGcyQkRkZzhaeDVlMzY5NC1yVThJaWNJbDNTSmtRQ0cyMTZjMEpsc0VGVHZPM25fYkZOWFB3NnE2eExhLVVxaHczLUI2ZHY4emRGV1FSRE83MWI3cWVRUGNDVHRtTHhSeWUxb0lNaVhsb01OUl94Z1VxajB3ZUdNaEc5Tmd5OTNURUNIMDZPbFIyVmV6cXBxRkUtcDQ2SktmRQ?oc=5",
+   "outlet": "NY State of Politics",
+   "via": "Google News",
+   "published": "2026-11-19T16:00:00+00:00",
+   "seen": "2026-11-19T16:14:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI launch attracts attention from Kentucky schools and workplaces."
   },
   {
    "id": "today s your last day to order gta vi and get the free vintage vice city pack",
@@ -4172,6 +4263,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story covers fixing cars in GTA 6."
+  },
+  {
+   "id": "gta 6 could shatter gta 5 s six guinness world records",
+   "title": "GTA 6 Could Shatter GTA 5’s Six Guinness World Records",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52Rmd0eW5CeGcwZ3FLUkx0VFpIZkZNLWdpMWdzc0Y3QVhRLWxSZGE0MWVGaW5PbjhqU0VLdEZZREc2SmV1Ylg0bW1yMzc2T3Rxa2gyeFJRNkI5R1NRMjFkMVZCTm5qR0oweUoxZWQ0bmRTNlcybm0zYkFZOWo1OXM?oc=5",
+   "outlet": "GameRiv",
+   "via": "Google News",
+   "published": "2026-11-19T11:20:45+00:00",
+   "seen": "2026-11-19T16:14:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 could surpass GTA 5's Guinness World Records."
   },
   {
    "id": "gta vi earns widespread acclaim following global release ties metacritic record",
