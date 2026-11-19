@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:30:53+00:00",
- "started": "2026-11-19T19:30:44+00:00",
+ "updated": "2026-11-19T19:36:04+00:00",
+ "started": "2026-11-19T19:35:56+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T19:30:45+00:00"
+   "checked": "2026-11-19T19:35:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T19:30:45+00:00"
+   "checked": "2026-11-19T19:35:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T19:30:46+00:00"
+   "hits": 97,
+   "checked": "2026-11-19T19:35:57+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:30:46+00:00"
+   "checked": "2026-11-19T19:35:58+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:30:46+00:00"
+   "checked": "2026-11-19T19:35:58+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T19:30:46+00:00"
+   "checked": "2026-11-19T19:35:58+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 24,
-   "checked": "2026-11-19T19:30:46+00:00"
+   "hits": 25,
+   "checked": "2026-11-19T19:35:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T19:30:47+00:00"
+   "checked": "2026-11-19T19:35:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T19:30:47+00:00"
+   "checked": "2026-11-19T19:35:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T19:30:48+00:00"
+   "checked": "2026-11-19T19:35:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T19:30:48+00:00"
+   "checked": "2026-11-19T19:35:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T19:30:48+00:00"
+   "checked": "2026-11-19T19:35:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-19T19:30:48+00:00"
+   "hits": 3,
+   "checked": "2026-11-19T19:35:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T19:30:49+00:00"
+   "checked": "2026-11-19T19:35:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi physical release ditches discs",
+   "title": "Grand Theft Auto VI physical release ditches discs",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU1VlenhNSktUMnlOc0tPUlFOWUFLY2VjRXhDZmducXZ4M0ItamcydDFwc0c5V0YyeFdzUVJQdHhhdzBiNHVjMFNsMXhqOElZa1JFOEgxRU9BZnkwZWJVWEF3LVJ1UkppeUtmOGlRTFhzdk5JZ0QyUm5iNEgxMGFXVXBlOHFpeUhOTndKR2VrcUs2cFpIRGJ1aFY5N3FLM3JpSDVRcGN3RnRCNjBMc2hGRlhCa3djSjVDNlhGS2pzQWhxNFhlcDdZS3ZvY0xNcE9MWVg2cGozSUxyc002RnBZLTE5UHFLY0tpbTNBTy1OdVhrdDRkYUtPUllLN3h4MERHY212QzBIZ3Y1UQ?oc=5",
+   "outlet": "cbs19.tv",
+   "via": "Google News",
+   "published": "2026-11-19T19:33:33+00:00",
+   "seen": "2026-11-19T19:35:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports that GTA VI physical release ditches discs."
+  },
+  {
+   "id": "blockbuster gta vi release shows cultural economic heft of video games",
+   "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmVUcjFqVHQ3ODNqUlJONHpXLUxoWjlDVzNha1RoYnVPT2tnV3U4X2dpXy1XVE9WSlYxYjZUYUwxbXJwYU9QYW5DczNkLWJfS3lHdTBQaF9seE1icnpTc3Zwdzl5eVA2bjBLdUw4bFd4UXMtLTliWmdFYzcwNk9iSDZJV21OWVdVZGJvYWNWSzd0Ukx0S3NqN2NZN2dUeWNUSEt1Z1F1cWZmakFTT21JdTB30gG3AUFVX3lxTE05cXJ6SFh5dlBPY1lXTDR5OEY2Nm5INUZ2SGozTWVZUHNINU5lUi1YMGwwQU56RU4wZzRScUVRTmlIdHZsd3dQdF9qRFNNaFVOeUJyYnI2VGVaUWo0amJHQXRDczNqeE5vS0RqNW94R2tFZVV5VWhqcVJGWFQ2U1ZQUDl1Tmtpd0VubWlvamNQUWgzQTFzcVNHaVFZdlVONlc4c09sc1Z1c0FJWlFiZ3VxZnN3azhiOA?oc=5",
+   "outlet": "Al Jazeera",
+   "via": "Google News",
+   "published": "2026-11-19T19:30:00+00:00",
+   "seen": "2026-11-19T19:35:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports that a blockbuster GTA VI release shows cultural and economic heft of video games."
+  },
   {
    "id": "want to start lifting effectively gta 6 is a good teacher",
    "title": "Want To Start Lifting Effectively? GTA 6 Is A Good Teacher",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story presents GTA 6 as a good teacher for starting effective lifting."
+  },
+  {
+   "id": "erik spoelstra gives heat the green lite to play gta vi on off day like it mattered either way",
+   "title": "Erik Spoelstra gives Heat the green lite to play 'GTA VI' on off day (like it mattered either way)",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXhfdjZ2LXlDd2lybXZUczBBYWQ5NU1KR2JIeXpCZ1E2d29zNzk2cjRSMnhneEI3cWlYX3RCeS13SHB4b3luUWk0WjZuWm5kcm1GSHFqWFBRYzFFUVFKYmMzeS1pN0h0MzdBNTVGTHplTW45S3pYV0MzbHQ1VjFvdDFxNDNJd2JhaFB6bUlteTVILXZxQjhsb1FFUQ?oc=5",
+   "outlet": "Fox News",
+   "via": "Google News",
+   "published": "2026-11-19T19:25:21+00:00",
+   "seen": "2026-11-19T19:35:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports Erik Spoelstra allows Heat to play GTA VI on an off day."
   },
   {
    "id": "time flies sports world reacts to long awaited gta 6 release",
@@ -779,6 +818,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The Midcoast Villager reports on a national phenomenon of GTA VI Day reaching Midcoast."
+  },
+  {
+   "id": "grand theft absence locals play hooky to play gta vi",
+   "title": "Grand Theft Absence: Locals Play Hooky to Play GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVEwxV0pLeXB0T3hrYlh6SGNDNnd3eW9rNGFWM2RyT0NGX2RSWXVPR3JpdEdjbGdUc3NmSFdIZkVrLUoyMm5iV2VMMlJHOWI3YU50aFZSZUdlRm9BcDluSE5CalJKX2dLdGRaakVidmI4bjJLV3E0YkVsVk9qMUtDamNlLTJPekdtUXlMaTU0LWZ3bld0VXlRLVpBcWU4RzE0VVh4cExPdVVtUTNnX1VZWlQwN1BzS0FRSVhoMGNXcHhabm1rdWh0WWlLS0syS3hGRWZGTEhYUQ?oc=5",
+   "outlet": "Midcoast Villager",
+   "via": "Google News",
+   "published": "2026-11-19T18:17:00+00:00",
+   "seen": "2026-11-19T19:35:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports locals skip work to play GTA VI."
   },
   {
    "id": "78 minutes after the ending alone gta 6 credits by the numbers",
@@ -1600,6 +1652,19 @@
    "ai_summary": "The article notes a fan-favorite feature will not be found in GTA 6."
   },
   {
+   "id": "ps5 pro stock updates where to buy sony s console for gta 6 without overpaying",
+   "title": "PS5 Pro stock updates: Where to buy Sony's console for 'GTA 6' (without overpaying)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ncWRGLVFRVUFqM3BHWUpIdTkwSExuMzItLXE5ZldVeGpYSUFEajloSV95ZWx2SWU3aHBfUjBFZWdNR01hVUVLczQwM2ozTjNwcnNSbGw1UUZMRVNJWk9wTnF3?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T17:23:18+00:00",
+   "seen": "2026-11-19T19:35:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The headline reports PS5 Pro stock updates and where to buy for GTA 6 without overpaying."
+  },
+  {
    "id": "csra gamers stay up late stay home from work for grand theft auto vi",
    "title": "CSRA gamers stay up late, stay home from work for ‘Grand Theft Auto VI’",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0xhNHEwa2Q1TVdJUzBFd040c2lFQk5yTFdJSl9mbUtwOHFXQ243SkdHbEJHLThOOXhwcUFnVFJDN3VsQ2dZODhFMTlyVU1sdVN0ZlpuSmswR3d6S0xZM0VIY25remtfaDFndGdFSzBmcTVqNk90ak9ZRWNNUXpXZ1R5NkJGRFZqV1hhUmZ4ZHhmZWo1c1Zj?oc=5",
@@ -2144,6 +2209,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The report describes brands turning the GTA VI release into a real-world Vice City takeover."
+  },
+  {
+   "id": "will gta 6 be on xbox game pass at launch everything you need to know",
+   "title": "Will GTA 6 be on Xbox Game Pass at launch? Everything you need to know.",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sZlBxQnA0c19nVXFvN3lqTmJ4RWRSR1RlZ2h3M3ZFeDQzR2IzWEJLTFlUbm5HOUhWQVZVOG5WM3I3MEZTclVwdFdENmV4bjhMcV9Ub2RZYVFNd21jZFVSOGlDVjlJRzcxb1FrR3dwTWxhSVRfN1E?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T16:52:37+00:00",
+   "seen": "2026-11-19T19:35:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports information about GTA 6 possibly being on Xbox Game Pass at launch."
   },
   {
    "id": "now that i ve played gta 6 on ps5 pro here s what i want out of the pc version",
@@ -4577,6 +4655,19 @@
    "ai_summary": "Gamers call GTA 6 the best game of all time hours after its debut."
   },
   {
+   "id": "what s the cheapest way to play gta 6 on launch day",
+   "title": "What's the cheapest way to play 'GTA 6' on launch day?",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByZl9odTltV1A4UWE0QkNkdTRXcWYtUVhmLWxyVHo2MzliOFU4NGpCaDQtREFqU1IzZlRubGZwd0VwVzhIeGJrcmxNRC1rb0luNWRRVWhPYWdPTE9LOEo1WEJUQ1ZpanRnRms3U2xPZWc?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T14:27:49+00:00",
+   "seen": "2026-11-19T19:35:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports on the cheapest way to play GTA 6 on launch day."
+  },
+  {
    "id": "what road rage moment most mirrored gta 6 in your real life",
    "title": "What Road Rage Moment Most Mirrored GTA 6 In Your Real Life?",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1NucUNId01CRk96bk5vaWVxZEg4NWtNYU1zbFp4Sm9Sc0pVSURwSk5WXzNtVFZQTnQ5Q0gzSFc0TkFzeC11ZDluQTIyOTBVelhsZ25lMWEzN0tNLVA4UkhjWE1vMXZlWmlhdnpmaWZKckZVaEZsa1AwVDY4T3FnWk5Pa3BfY1JLSkpNNV9KTGNreUx1TjF5VFpoVWtVMklF?oc=5",
@@ -5186,6 +5277,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Mandy in GTA 6 could be hiding a killer secret."
+  },
+  {
+   "id": "the ceo behind gta vi doesn t play video games he s betting 1b on the decade s biggest game launch",
+   "title": "The CEO behind GTA VI doesn’t play video games. He’s betting $1B on the decade’s biggest game launch",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1U5U2x4Vm9fS2xrOVNxOGZHSUtXeUdNMzY5RzZoaWJUbktQYzZjVUZVLUd5b243aEl5ZDJjVC0xYUlaNTVzSXNRd19Nc2VZdjFhVTdHeGtpYjlIdUZxM3FmaTd1N21GcWFRTjdqYU9DNmF2TGs1UWRtalhrd01mVU1QZTdoQWFwUWxmVnAwVWJuMmhOQkRlWURvVms0WmpTbGZPU1dDTi1EVnl0bGc?oc=5",
+   "outlet": "Fortune",
+   "via": "Google News",
+   "published": "2026-11-19T13:44:22+00:00",
+   "seen": "2026-11-19T19:35:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The headline reports the GTA VI CEO doesn’t play games but bets $1B on the game launch."
   },
   {
    "id": "gta 6 reviews are out rockstar s latest masterpiece scores 99 on metacritic ties all time record",
@@ -9528,6 +9632,19 @@
    "topic": "Outage",
    "record": true,
    "ai_summary": "The story covers GTA 6 New Zealand launch details including unlock time, traffic, PSN outage, and prices."
+  },
+  {
+   "id": "gta 6 3 intriguing new details we just learned",
+   "title": "'GTA 6': 3 intriguing new details we just learned",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHA1dkU4dWdmRUtXZFFUWFBkTmJrUHhLZk9jYmRiekpWWTc1c2ZqOWpoZFQ1VU9HUXdpdmE3TlZiU011N1BKaHBtMnNVTVV0ejM5Y1dVQmF2bERRY0hUaThqUUdySE5yUDZCUVRwNTVRdVAyQXZ2NHV2VXhreEJfNW9FbWw?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T08:37:43+00:00",
+   "seen": "2026-11-19T19:35:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports three intriguing new details about GTA 6."
   },
   {
    "id": "it s cinematic gamers get first taste of grand theft auto vi",
