@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:12:58+00:00",
- "started": "2026-11-19T11:12:51+00:00",
+ "updated": "2026-11-19T11:18:06+00:00",
+ "started": "2026-11-19T11:17:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T11:12:51+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T11:17:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:12:52+00:00"
+   "checked": "2026-11-19T11:17:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:12:52+00:00"
+   "checked": "2026-11-19T11:17:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T11:12:52+00:00"
+   "checked": "2026-11-19T11:17:57+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T11:12:52+00:00"
+   "checked": "2026-11-19T11:17:57+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T11:12:53+00:00"
+   "checked": "2026-11-19T11:17:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-19T11:12:53+00:00"
+   "checked": "2026-11-19T11:17:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T11:12:53+00:00"
+   "checked": "2026-11-19T11:17:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T11:12:53+00:00"
+   "checked": "2026-11-19T11:17:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T11:12:53+00:00"
+   "checked": "2026-11-19T11:17:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T11:12:53+00:00"
+   "checked": "2026-11-19T11:17:58+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T11:12:54+00:00"
+   "checked": "2026-11-19T11:17:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T11:12:54+00:00"
+   "checked": "2026-11-19T11:17:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T11:12:54+00:00"
+   "checked": "2026-11-19T11:17:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 becomes biggest entertainment launch in history",
+   "title": "GTA 6 Becomes Biggest Entertainment Launch in History",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU05LdVg1WDBtYnJsX013SUJ5SURoODJ3T3hBdDY3SVdYbF9xeWVxT0VjeVZIUVBKb0JEdTZfd1hMa0ZlLXNxVjJZX2pwRlJLam9aOV9mTUctWEYyaGZIbC1MbTJ3X2JuanpiTllPYjRhTWdVYWY1dTF0bjE0NkRBVUFWTFQ1dFpiV2tfYkNxMmE5MExHYWJyRnFRX21Sd1NtR1NyOFNTU1Q2ZmQ0LUtwaElJeGJrQzhDaE1N?oc=5",
+   "outlet": "Hungarian Conservative",
+   "via": "Google News",
+   "published": "2026-11-19T11:12:02+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 becomes the biggest entertainment launch in history, according to the headline."
+  },
+  {
+   "id": "all gta 6 smartphone apps and what they do",
+   "title": "All GTA 6 Smartphone Apps And What They Do",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmhiZE5pQ1ZianZaTDdjRk1SMWpkUHlhSWtqZmN1eXJCYVBtY1lSTWE5bUM1dThmVXdPeWh4YUhBVmF0THltc3oyS2RsSmZvYnFVLU9mQ010V01NTHNtQ1pWNjRvdGZvZkpTSnNBTjNRT0c3NW00Z3JZYm9nOV9xd0xHMA?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-19T11:11:50+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers all GTA 6 smartphone apps and their functions."
+  },
   {
    "id": "gta 6 what s in the bag walkthrough",
    "title": "GTA 6 What’s In The Bag? Walkthrough",
@@ -118,6 +144,19 @@
    "ai_summary": "Chapter 2 begins the walkthrough titled What's In The Bag?"
   },
   {
+   "id": "can you play golf in gta vi",
+   "title": "Can you play golf in GTA VI?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlQ4czFhV0lyMlBOTWZPSlhqN1REaFNNM1NDTk9XaUF0RmFZeTlFTzVIYmpBdEtCSm1kSk9TU2ZGOWVXcDRZWmlhSXF2T2FxbG56a203WHR4YkhaMVFUQnBiQjFkX0JwZ0NQMGo1RlRITVljTmRKRXZXNmlMcm1ocWhVWHdGQ3ZRdjJyMDBXMm4?oc=5",
+   "outlet": "Today's Golfer",
+   "via": "Google News",
+   "published": "2026-11-19T11:11:21+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece asks whether you can play golf in GTA VI."
+  },
+  {
    "id": "gta 6 arrives after 13 year wait live updates as gamers explore vice city",
    "title": "GTA 6 arrives after 13-year wait: Live updates as gamers explore Vice City",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWZod3ZHdWlsdjNneFAyNTNWVERRQjJWU1BhanJEcUIzUFI4NEJRc01OZWZOVXZlV3BSa3VMYWZDRHVOeUVnazJZTFpsd3VOWmpoYm0wM0gyTWZyVjJQN1JIWFRSeFNuZk1KVzN3d3hPSWU4Zk9PUlczUUdJTHY2WFhUckctSWRZUEVnczc1bUhjUk1yMEE?oc=5",
@@ -129,6 +168,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 arrives after a long wait with live updates as gamers explore Vice City."
+  },
+  {
+   "id": "gta 6 how to listen to korn and linkin park",
+   "title": "GTA 6: How to Listen To Korn and Linkin Park",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwYlBYc1BuQTZDWXZhOXdpX0l4N3ZnSF9ZZ0t3RWl5UkFXQUtneXJDUEFsSWpSVWJ6YlhvbERCdUVyb1pTVkRfT3phc2lfWjRwektiNk1kSm5yTGtGb3VjSWVPSXFia0tZcmZjaVBGNmxYRWVwamR3cWl3X2F3Zw?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-19T11:09:37+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article explains how to listen to Korn and Linkin Park in GTA 6."
+  },
+  {
+   "id": "gta 6 team embraced open ended design philosophy to reduce the number of mission fails",
+   "title": "GTA 6 Team Embraced “Open-Ended Design Philosophy” to Reduce the Number of Mission Fails",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzR6RHRwd0hMWGl5cmY0VWpacUxZVkdTdmJHM1lMbU5fSk5MQjdSVTd4d2x6Z2dyRzA2LTVwSUdpeHltUGExV19sZUkxbE83SHQ4QWdKUERIMWRWU3NsVVAwUWxHM2V4endVR29rOWNNbnZmZlRqWFg4cFN6Ylc0cUhaTHNpQzlaVktOWGdTZHVfcm5Dd2d0UVM5WXZ0YmxDTFZRQ08zbFJ4UFNqVlE?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-19T11:09:25+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The team adopted an open-ended design philosophy to reduce mission fails in GTA 6."
   },
   {
    "id": "gta 6 how to use a talking parrot to find a stash of money",
@@ -235,6 +300,110 @@
    "ai_summary": "How to save in GTA 6."
   },
   {
+   "id": "the best ways to make money fast in gta 6",
+   "title": "The best ways to make money fast in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTc3d2xabGZScTZMNXBJSl9vQmhTeFM0SkIzblM0S0phZE93Wjd0TjMwMFo4UTE0MzAxUEZFUFFxaWhueHV2d2w0T28weEdjN05hbU5YVG1aU0ZidWlLZlFBUnZCVXNxYnFMWUhBbFlwSEhXUk11WlFLTGVJSExrRk9pU2FWb0lHSFE?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:01:18+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide lists the best ways to make money fast in GTA 6."
+  },
+  {
+   "id": "how to change your criminal profile in gta 6",
+   "title": "How to change your criminal profile in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVFybkJDX0VILVJ6bDNiVzJlc1NWc3VUVzFLZGZGWGNoNUhkT3dKbW9OSW91U1FSRHNnWkRvS3l5aVpjVlhYd09KNEFyNXowMklsVXZycVF3NUQ0WS1iZUJLeXE3cktmd042cEJJTnpBV1ZBTlN6M2xUVDd3VS1ENXdmbnc4bWc?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:01:18+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to change your criminal profile in GTA 6."
+  },
+  {
+   "id": "how to change your appearance in gta 6",
+   "title": "How to change your appearance in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRW1pVGhFN2pGNGEtWUFXSUFiWDRiVTkwOGh1aGFGWUxyWHhvTzhUYVRkaGR3NGhoSS0tdnotaE5DNktwTmdUbWo2dXlBRHd0czBpR2hHYXgybUw1U1c2b3RKS09kcFpCWHc5SFJScFdvN0R4VEg5WFhLeEpRN2o4QldONE03S2ZVOXE2c0tn?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:01:18+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to change your appearance in GTA 6."
+  },
+  {
+   "id": "what to do first in gta 6",
+   "title": "What to do first in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWZUFLbkstbHZ2R1VIcDk2UmFjVFY4SWFROVdwdldiQm5OMUp5QUhac0NfOWhwMnlJam0yanltRlNHLVF5U1RCcHhrSk4zaGJpOVNxMklyR3h2UTVVX2RKcl9DNjBSNjd1ZHlFbzJHMWhpVElj?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:01:18+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article suggests what to do first in GTA 6."
+  },
+  {
+   "id": "how to steal the red phoenix for unwanted attention in gta 6",
+   "title": "How to steal the red Phoenix for 'Unwanted Attention' in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEFYNndYaTRLWEJHVzNXMWFmdm5hNmtPQnl2dGxicHUxYXEtVTEtZ3BueHRhNTduaWNHWEVmRkpITGpoYzZSRFlrU2lodjRCVjljcVdKV1pBczNKUTZDWmpXLWFDYjFQeHN4TzNLektEbUZLemJ5NXFnSFpjWEpLbEpSUVBQRElwNWZZXw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:01:18+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to steal the red Phoenix for Unwanted Attention in GTA 6."
+  },
+  {
+   "id": "how to keep stolen cars and weapons in gta 6",
+   "title": "How to keep stolen cars and weapons in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xdk9tQTNwMFpmRmttT3BFeDM5Rk81NEMwU0w2ZGRHdkhQNFk1TTlDYVlYb19jTnNaZnl5SmEtNEVjeURwQmtPTjdwM2lRMVV5bDViQ1dXRWY1SE1DYVBIXy1zUlFUSHB3dnUtZEFsWmJVQ2x6MDE4?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:01:18+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to keep stolen cars and weapons in GTA 6."
+  },
+  {
+   "id": "how to rob the exotic animal front in gta 6",
+   "title": "How to rob the Exotic Animal Front in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT1pEWGpLczhPTHB3SW1rS3ZERWNkUl90UXEzd0d1TnhEUTEzNGwzbTluLTVOc1dERmZXQVVaRjh3eVZodGZlejlQSTdtUE9lLXJUbnZ3QWZiMVEtSXgzMzV0azFrX1o3SEZDNjI1R2d2MlpKeWhTWHY0bnYtRXdUQkRzZ0ZpcXBrUnhxQUN0RGFsX1JRVWNj?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:01:18+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to rob the Exotic Animal Front in GTA 6."
+  },
+  {
+   "id": "where to find the tree effigies for the skunk ape mission in gta 6",
+   "title": "Where to find the tree effigies for the Skunk Ape mission in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTjFhd19iRzZ2alRmTVdHci1QWmpXSy1iTWdGblRXLTAyajdaWnBVcW02VE5GYUpiNVhhdlAtdExtdGFvSVhuREE3dnFVRjZtTzBwWjdoS3p2OG5kdDNCT19abjVIdjVSUWFqLWJScVhHcjJPb1l0amh4STlIc3Z0OU1Vc2U?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:01:18+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide shows where to find tree effigies for the Skunk Ape mission in GTA 6."
+  },
+  {
    "id": "gta 6 fans in japan disappointed after discovering censored content",
    "title": "GTA 6 fans in Japan disappointed after discovering censored content",
    "link": "https://www.dexerto.com/gta/gta-6-fans-in-japan-disappointed-after-discovering-censored-content-3429762/",
@@ -259,6 +428,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "Inter Miami and GTA 6: The Exciting Miami Connection reports a feature or collaboration linking the two."
+  },
+  {
+   "id": "gta vi release date where steelers were when gta v dropped",
+   "title": "GTA VI Release Date: Where Steelers Were When GTA V Dropped",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMUVBX2ptbFJvOGNFM0JsT1NtTDNfbGU2My1QdGl6a3FTQkVGaTVTWnR5alVuQ0dJSDlyWHFNd1MwNllJcHR6dDR4VkJsUDBTSzBSMUc4dUtFTDdiWDl0b1dseDFOV0ZZbVpDWXZ3YU9RQnVBQW53M0tUUl9qd01lS1BOOFIteWY4RjRiaWljOVhWUi1nQnYzTGhCSk1SdVFqLWtmR00zSFNNZw?oc=5",
+   "outlet": "Sports Illustrated",
+   "via": "Google News",
+   "published": "2026-11-19T11:00:02+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses GTA VI release date and Steelers in relation to GTA V's launch."
   },
   {
    "id": "gta vi is finally out",
@@ -311,6 +493,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "This week’s new releases include GTA VI, Always Lalisa, The Altruists and Steps."
+  },
+  {
+   "id": "gta 6 map guide key locations and secrets across leonida",
+   "title": "GTA 6 Map Guide: Key Locations And Secrets Across Leonida",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Tb2pIcFQ4R2ZpYmhURng4Y2lXS2JVakhzV1h5V3dVbGY1b0Y1dFZ5aTA3Ry15Y1MwbjhrUmRfNGdXUlNRZXZUR3NaeEtGTFNGZ1RnZGxkUWNVZkNlTHZGcTR3eWlOaXZZVnlKWTZ6S3N6MUFnRzFLLWtYMUktLTQ?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-19T11:00:00+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The map guide highlights key locations and secrets across Leonida in GTA 6."
+  },
+  {
+   "id": "there s a surprisingly human reason gta 6 s buildings look so good",
+   "title": "There's a surprisingly human reason GTA 6's buildings look so good",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGtQdld6QnF3UjRXaEVab0xHeVVmRmU2ZlhPa2tRdTVxVHdUelFDaXZCYTVqMXI4Zm94Q1lYSXlZekRoRlg5MEpjME9NVUEtejN2anpUWkdEemp5RThTVTJqaDRRU1JycjcyaDZtZkg2TC1PYnNPUzQ5UXdQMkVHS09UZXJPT1ZQMFlvdlNZYWF4WkZibEE4aTJhVzdadTAtZEQwaG5QX29EdzZvMVhtSGtuMXl1cVVxeEU1VS1JcDllOWxGbXNn?oc=5",
+   "outlet": "Creative Bloq",
+   "via": "Google News",
+   "published": "2026-11-19T11:00:00+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article suggests there is a surprisingly human reason GTA 6's buildings look good."
   },
   {
    "id": "a rockstar game could be coming to hollywood and it s not gta 6",
@@ -376,6 +584,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The creator of Deus Ex hopes GTA 6 will be the last of its kind."
+  },
+  {
+   "id": "system shock producer warren spector hopes gta 6 is the last of its kind",
+   "title": "System Shock Producer Warren Spector Hopes \"GTA 6 Is the Last of Its Kind\"",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1hZMEpBbGxtUDV5bGZaWE0zMzItbUstMUlkNmdMenprMUFxcmVKckowaVNhZld2ZGR5QjJNMEVXeG9KOG9udktSTktTS2FvRlpkVU5xSUZkVnRiYWh3ejBUN0RhSF9RSmZDMEZmWHBpamVYVWdudG9sMDVEZVM2VWZfVVcxdTY5b0IyQWMtajByaml0WUlKbnAzWQ?oc=5",
+   "outlet": "80 Level",
+   "via": "Google News",
+   "published": "2026-11-19T10:46:59+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The producer Warren Spector hopes GTA 6 may be the last of its kind."
   },
   {
    "id": "how to holster your weapon in gta 6",
@@ -558,6 +779,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that official GTA 6 free download codes are now available."
+  },
+  {
+   "id": "gta 6 free codes available to claim now via twitch",
+   "title": "GTA 6 Free Codes Available To Claim Now Via Twitch",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSV9aNTZqb2w2SC1nUG8ycVloVGVudWViODFrQmU4bUlPY0VQbHAtUk5nZXNVZ0Q5WGxmRWpZT1M5dVVvT1JSX1NNQkQtUEU0cTBLU2c3M1lLSDBiTmJPSmV2MXpxdUNmUkdwcHhGV05VMHp4YnNJMGhKejlyU2J0SQ?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-19T10:29:32+00:00",
+   "seen": "2026-11-19T11:17:56+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story notes free codes for GTA 6 available via Twitch."
   },
   {
    "id": "i ve found the 95 best black friday deals 2026 in the uk gta 6 shokz openrun shark vacuums oura ring kindle switch 2 and more",
@@ -1364,6 +1598,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "The story reports that GTA 6 broke Twitch's all-time game record."
+  },
+  {
+   "id": "gta 6 launches worldwide as employee leave requests rise in israel and abroad",
+   "title": "GTA 6 Launches Worldwide As Employee-leave Requests Rise In Israel And Abroad",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2hyMFU3enB6Yjh4OThFSVltYlNiNl9MVVZtUXR6MmpocmFZa1lLdFplYzFHTFBSTzZiTUtBeDJ5dUh1Z1E4TUREUDI2aFNMOEtoaHdIdWQxd2lhUDdJeW5EMU95MmJrRTBkamNTdXBVYjM5SUk5SFlMVkE3el83aFJRZU55QXhNQ3JPMTRYTHU3c0xHRVhnTFBPZG9ybFRueWJzZWhZbHJxelhMemk4TTVVS1hOWUpET3hfM1ZMUjlEX01VdGtz?oc=5",
+   "outlet": "i24NEWS",
+   "via": "Google News",
+   "published": "2026-11-19T09:17:21+00:00",
+   "seen": "2026-11-19T11:17:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 launches worldwide as employee-leave requests rise in Israel and abroad."
   },
   {
    "id": "gta 6 pulls off the heist as critics hand rockstar a record tying 99",
