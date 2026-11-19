@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:40:55+00:00",
- "started": "2026-11-19T19:40:46+00:00",
+ "updated": "2026-11-19T19:45:57+00:00",
+ "started": "2026-11-19T19:45:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T19:40:47+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T19:45:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T19:40:47+00:00"
+   "checked": "2026-11-19T19:45:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T19:40:48+00:00"
+   "hits": 97,
+   "checked": "2026-11-19T19:45:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:40:48+00:00"
+   "checked": "2026-11-19T19:45:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:40:48+00:00"
+   "checked": "2026-11-19T19:45:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T19:40:49+00:00"
+   "checked": "2026-11-19T19:45:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T19:40:49+00:00"
+   "checked": "2026-11-19T19:45:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T19:40:49+00:00"
+   "checked": "2026-11-19T19:45:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T19:40:50+00:00"
+   "checked": "2026-11-19T19:45:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T19:40:50+00:00"
+   "checked": "2026-11-19T19:45:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T19:40:51+00:00"
+   "checked": "2026-11-19T19:45:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T19:40:51+00:00"
+   "checked": "2026-11-19T19:45:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T19:40:51+00:00"
+   "checked": "2026-11-19T19:45:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T19:40:51+00:00"
+   "checked": "2026-11-19T19:45:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "dallasites celebrate grand theft auto vi release after 13 years",
+   "title": "Dallasites celebrate Grand Theft Auto VI release after 13 years",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnR0ZWtyMHdTVmhBaDJ0cnVUeFkxYVRMbTllakQ0NEQ3cXA0cTkyQ3hsbGE0T09tM2E2SlBqa29uYjFSYVV0Z3NCVEhJWEVsWFZUeGhPYU1mRDB1NDJVZlpMR1VhLUc3TFowckFMNHU4alFwNnlqLVJrcjRlTW1aSzFYbUI4UFNnbTdQOHNId09tVUk3RFFsS1VPSFU?oc=5",
+   "outlet": "www.kera.org",
+   "via": "Google News",
+   "published": "2026-11-19T19:42:07+00:00",
+   "seen": "2026-11-19T19:45:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Dallasites celebrate Grand Theft Auto VI release after 13 years."
+  },
+  {
+   "id": "grand theft auto vi has just hit screens and the los angeles district attorney s office is urging players to keep the theft on screen and of",
+   "title": "Grand Theft Auto VI has just hit screens and the Los Angeles District Attorney's Office is urging players to keep the theft on screen and off the streets. In real life there’s no respawning, no Pay 'n' Spray and no losing a wanted level by hiding in an alley. While the",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKeXhtZm1RSUQ5WXp2anE4QmM1b0dxeFEyVTBLRDJTMXRZNHFaX09yLWxsQ0tNbnp2cWFsS3diYVdUaDdONEZYbmNzUmRNbFNQYVE?oc=5",
+   "outlet": "Instagram",
+   "via": "Google News",
+   "published": "2026-11-19T19:38:48+00:00",
+   "seen": "2026-11-19T19:45:50+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI has just hit screens and authorities remind players to keep theft on screen and off the streets; there is no respawning or crime evasion in real life."
+  },
+  {
+   "id": "strauss zelnick take two s ceo behind gta 6 has led it since 2011 and says he doesn t play games",
+   "title": "Strauss Zelnick, Take-Two's CEO behind GTA 6, has led it since 2011 and says he doesn't play games",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMGZZcHh4Znc0Ni1OOHQ2b3VNUURtVkQ5NElpTVprb1VrU2gta0RnVmtaQnVUV3FaYVVZY1hHWlZXNVdjOUJBM202a1U1eVlPWVlaQjFPUzZJcm9Bc29nVXdJbHNkYVlNcEl1WUdCb1dscEFjcm1zUFdZbTh3ajRfRkY5ZXI4MGgtZXlzanlfLXZraUUtQmU1RWRkaWxOZjZiRXZzTk93?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-19T19:35:25+00:00",
+   "seen": "2026-11-19T19:45:51+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Take-Two's CEO behind GTA 6 says he doesn't play games."
+  },
   {
    "id": "grand theft auto vi physical release ditches discs",
    "title": "Grand Theft Auto VI physical release ditches discs",
