@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:52:04+00:00",
- "started": "2026-11-19T22:51:55+00:00",
+ "updated": "2026-11-19T22:57:05+00:00",
+ "started": "2026-11-19T22:56:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T22:51:56+00:00"
+   "checked": "2026-11-19T22:56:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T22:51:56+00:00"
+   "checked": "2026-11-19T22:56:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T22:51:57+00:00"
+   "checked": "2026-11-19T22:56:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T22:51:57+00:00"
+   "checked": "2026-11-19T22:57:00+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T22:51:57+00:00"
+   "checked": "2026-11-19T22:57:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T22:51:57+00:00"
+   "checked": "2026-11-19T22:57:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T22:51:58+00:00"
+   "checked": "2026-11-19T22:57:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T22:51:58+00:00"
+   "checked": "2026-11-19T22:57:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T22:51:58+00:00"
+   "checked": "2026-11-19T22:57:01+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T22:51:59+00:00"
+   "checked": "2026-11-19T22:57:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T22:51:59+00:00"
+   "checked": "2026-11-19T22:57:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T22:51:59+00:00"
+   "checked": "2026-11-19T22:57:02+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T22:51:59+00:00"
+   "checked": "2026-11-19T22:57:02+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T22:51:59+00:00"
+   "checked": "2026-11-19T22:57:02+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi gives maine customers another reason to shop local",
+   "title": "GTA VI gives Maine customers another reason to shop local",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWxxVklQeTNQMjZGZE9hcmdqamNZb096bG9xdW5PUXpzMmZMZGNpZnZhd2lXaW9OT2NjckpheElnbnNwcTBLd2RUemFwWUswZlZFXzBHeWl5ay1Ba1dzME44c3RHZXNOYldwTlZtbDY2VWlTdjVRUEJESVlCc3BOMmZFYVRiSlR2QkwteXRyVzM5N0ZCTjFDRVdFNDl3NmR6XzhQZGVXTXRDVnhrczdHak5kc2Z6eGZIVlRaVEZoMS1xdEZTcHU0QkttOXlDSk51YV8tRnJwNDItcURaaEhr?oc=5",
+   "outlet": "newscentermaine.com",
+   "via": "Google News",
+   "published": "2026-11-19T22:53:00+00:00",
+   "seen": "2026-11-19T22:56:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI is cited as giving Maine customers another reason to shop local."
+  },
+  {
+   "id": "gta 6 s viral npc may actually have a dark secret",
+   "title": "GTA 6's Viral NPC May Actually Have a Dark Secret",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdldicDRsNkI2OEhhQWQ4T1JCRkRZSEM0UFlyWFJEMUZSclJNa3UtVDBsdVM4VVRkQ3JkMU9SSFMyYmVVc0cyMDdBdXRwOEhtZzY3QmxlUUdPd18teUQtN01vS0x4NUxyYW1pcFlvNmFRbEY4M2VxSFlUSmdSV2wtQzloa21qNEtPeUJ6MzlqVEt3U0NGczJycGtrcU5vVDg?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-19T22:52:14+00:00",
+   "seen": "2026-11-19T22:56:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's viral NPC may actually have a dark secret."
+  },
+  {
+   "id": "best early game locations for easy cash in gta 6 chapter one money making explained",
+   "title": "Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained",
+   "link": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-19T22:51:08+00:00",
+   "seen": "2026-11-19T22:57:01+00:00",
+   "summary": "In GTA 6, there are a few easy-to-access locations you'll want to take advantage of early to make a good stack of cash. The post Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Insider Gaming explains early game locations for easy cash in GTA 6 Chapter One."
+  },
+  {
+   "id": "take two stock just sank almost 4 on the day gta vi launched with a 99 score",
+   "title": "Take-Two Stock Just Sank Almost 4% on the Day GTA VI Launched With a 99 Score",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2M4ZlN5TjdXeEMyTk85VUdQT1RyVmxqMkxSblhqb25XX1VaSDhnckcyeHZuVlR6YW9zQW1vZTdWUmtrUWtXWWZKVnllRzRYank3Sko3SHRHRVNtaTNNLXBWMks5bW1waERRUXFmYmhYUTFiOVMwQUdxWDVzVG9ra2Q5M3JSU3JfRVFaMU5MeGdfZi1CVHF2bC01TFVQRHA0ZzhHMXktSGY2OUh0ZHU1UURmRHNqMUxqRDNpUQ?oc=5",
+   "outlet": "24/7 Wall St.",
+   "via": "Google News",
+   "published": "2026-11-19T22:51:00+00:00",
+   "seen": "2026-11-19T22:56:59+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Take-Two stock dropped on the day GTA VI launched with a 99 score, according to 24/7 Wall St."
+  },
   {
    "id": "some gamers are pissed that gta vi makes them be nice to their girlfriend",
    "title": "Some Gamers Are Pissed That ‘GTA VI’ Makes Them Be Nice to Their Girlfriend",
@@ -285,6 +337,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Travis Scott released more GTA 6 merchandise on his website."
+  },
+  {
+   "id": "gta 6 is here and this boss closed the whole office",
+   "title": "GTA 6 Is Here, and This Boss Closed the Whole Office",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWNsWDFVbllaLTV2Y0N6OG9IUUNaNVBPMTJJaVNueDF1a1N2UF93ZV9VeUVSNFhITWJXRndWbHhDMTJJeThRblFkVXo4ZFNvQ2ZJM1BLMEs2aThZWjdEQ0xHV0ZUdmZhVE9NSlpnX3FtbC1qOWZSWmN2Mk5sWngtY01pRlVKWlg2R1hETEdWWGJrQ3hwdDd0MFNtOA?oc=5",
+   "outlet": "KSAT",
+   "via": "Google News",
+   "published": "2026-11-19T22:32:20+00:00",
+   "seen": "2026-11-19T22:56:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is here, and a boss closed the whole office."
   },
   {
    "id": "espn s kyle brandt praises adults taking off work for gta vi",
