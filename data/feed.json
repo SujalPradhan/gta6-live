@@ -1,106 +1,106 @@
 {
- "updated": "2026-11-19T08:59:13+00:00",
- "started": "2026-11-19T08:58:38+00:00",
+ "updated": "2026-11-19T09:02:42+00:00",
+ "started": "2026-11-19T09:02:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T08:58:39+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-19T09:02:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 92,
-   "checked": "2026-11-19T08:58:39+00:00"
+   "checked": "2026-11-19T09:02:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T08:58:40+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T09:02:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T08:58:40+00:00"
+   "checked": "2026-11-19T09:02:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T08:58:40+00:00"
+   "checked": "2026-11-19T09:02:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-19T08:58:40+00:00"
+   "checked": "2026-11-19T09:02:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T08:58:40+00:00"
+   "checked": "2026-11-19T09:02:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T08:58:41+00:00"
+   "checked": "2026-11-19T09:02:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T08:58:41+00:00"
+   "checked": "2026-11-19T09:02:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T08:58:41+00:00"
+   "checked": "2026-11-19T09:02:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T08:58:41+00:00"
+   "checked": "2026-11-19T09:02:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T08:58:41+00:00"
+   "checked": "2026-11-19T09:02:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T08:58:41+00:00"
+   "checked": "2026-11-19T09:02:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T08:58:42+00:00"
+   "checked": "2026-11-19T09:02:12+00:00"
   }
  },
  "items": [
@@ -2536,6 +2536,19 @@
    "ai_summary": "VICE announces GTA 6 soundtrack album coming to vinyl and CD."
   },
   {
+   "id": "this new gta 6 gameplay mechanic is bound to frustrate players",
+   "title": "This New GTA 6 Gameplay Mechanic Is Bound To Frustrate Players",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDRBRmZhNWpoSEVlTFRpWFI2MTlOck9KVGZtaWZwTlZtdDRkUDdhUmNqdmd2bzA2UmFtUzlQaFAxLXJ0WDdXVlFLTUlXTmlIaTF5RnE2YWZROE5EQXg4bUN5eDh6S3R5aVJkbjlkYjFCQ0c2d09TSHg1LURnd2V0MXUwRjM3dWhGTWdhVHFn?oc=5",
+   "outlet": "SlashGear",
+   "via": "Google News",
+   "published": "2026-11-19T00:17:00+00:00",
+   "seen": "2026-11-19T09:02:10+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports a new GTA 6 gameplay mechanic that is expected to frustrate players."
+  },
+  {
    "id": "deus ex s warren spector hopes gta 6 is the last of its kind because of its 1 billion budget",
    "title": "Deus Ex's Warren Spector hopes GTA 6 is \"the last of its kind\" because of its $1 billion budget",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-deus-ex-creator-sees-rockstars-usd1-billion-development-cost-and-says-id-rather-have-hundreds-of-games-and-full-employment/",
@@ -3988,7 +4001,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The piece notes a day off from GTA VI anticipation, referencing a long wait."
   },
   {
    "id": "grand theft auto vi review gaming s most depraved world is now also its greatest love story",
@@ -4000,7 +4014,21 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "The review describes GTA VI as a depraved world and a great love story."
+  },
+  {
+   "id": "it s thursday somewhere some hardcore gta 6 fans flew to new zealand to play asap",
+   "title": "It's Thursday somewhere: Some hardcore 'GTA 6' fans flew to New Zealand to play ASAP",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeS1TT282VEtmTGJpcWc1NTYwajdydUpJcl84VXM0TF80dW9QTXJZVThBTTV5Xy1NWW0yRlN3bmc2UXNxWmNmR0x5WlROSENhMWpwcGNBekRvVTIxdmxGN1dXc29tamtvQkIxd0o3cWFCTW5jU21OWjE4UzVrM2Y1akJwblRITDJuR2l1bW5IN3k?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-18T19:31:00+00:00",
+   "seen": "2026-11-19T09:02:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Hardcore GTA 6 fans flew to New Zealand to play ASAP."
   },
   {
    "id": "were critics forced to give gta 6 a perfect score",
@@ -4012,7 +4040,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "The article questions whether critics were forced to give GTA 6 a perfect score."
   },
   {
    "id": "gta vi frenzy spotlights potential insurance risks lurking in digital infrastructure",
@@ -4024,7 +4053,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The report highlights potential insurance risks in digital infrastructure around GTA VI frenzy."
   },
   {
    "id": "gta 6 has scored 99 points on metacritic putting it on a par with the best game in history",
@@ -4036,7 +4066,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 scored 99 points on Metacritic, equating it with the best game in history."
   },
   {
    "id": "grand theft auto vi may mark the end of an era in gaming",
@@ -4048,7 +4079,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The piece argues GTA 6 may mark the end of an era in gaming."
   },
   {
    "id": "grand theft auto vi enters the gaming pantheon with rapturous reviews",
@@ -4060,7 +4092,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "The review labels GTA VI as entering the gaming pantheon with rapturous reviews."
   },
   {
    "id": "delete gta 6 from your hard drive and indie publisher devolver digital might give you a free game",
@@ -4072,7 +4105,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 6 is out at midnight everywhere (19th November), but it's far from the only game in town. Indie publisher Devolver Digital is taking on the open-world behemoth with its very own Volvy's Adventure: Reslimed, out the same day, and you can win a free copy of the platformer by proving you've deleted GTA 6 off your hard drive. Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 is out at midnight; Devolver Digital offers a free game for those who delete GTA 6."
   },
   {
    "id": "gta vi preload breaks virgin media o2 data record by 4",
@@ -4084,7 +4118,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA VI preload breaks Virgin Media O2 data record by 4%."
   },
   {
    "id": "gta 6 is winning over gamers can take two stock beat bitcoin next",
@@ -4096,7 +4131,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "The article discusses GTA 6 winning over gamers and questions stock performance vs Bitcoin."
   },
   {
    "id": "grand theft auto vi is an astonishing american epic",
@@ -4108,7 +4144,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The Washington Post calls GTA VI an astonishing American epic."
   },
   {
    "id": "gta 6 obliterates all time streaming record before it s even fully released",
@@ -4120,7 +4157,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 obliterates all-time streaming records before full release."
   },
   {
    "id": "bad bunny rauw alejandro and more latinos join gta 6 soundtrack",
@@ -4132,7 +4170,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Bad Bunny, Rauw Alejandro, and others join GTA 6 soundtrack."
   },
   {
    "id": "ps5 users report playstation network errors as gta 6 fever hits some struggling to redeem codes",
@@ -4144,7 +4183,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Please no servers down on Grand Theft Auto day",
    "topic": "Outage",
-   "record": false
+   "record": false,
+   "ai_summary": "PS5 users report PlayStation Network errors as GTA 6 fever hits, with some struggling to redeem codes."
   },
   {
    "id": "gta 6 breaks twitch s single player livestream viewing record",
@@ -4156,7 +4196,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 breaks Twitch single-player livestream viewing records."
   },
   {
    "id": "take two shares jump as masterpiece gta 6 lands top metacritic spot",
@@ -4168,7 +4209,21 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "Take-Two shares rise as GTA 6 lands top Metacritic spot."
+  },
+  {
+   "id": "gta 6 releases tomorrow after much wait here s what you should know",
+   "title": "GTA 6 releases tomorrow. After much wait, here's what you should know",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVHA3V2N2ak9YMXVMR19YYVA5YmNNRHI0czY3Xy1tb0c4M2lXOWRRVXJ5c2Q4YjF1d2UzeV82UXAwWVJPR0RRNXlqbGFTbTJhNml6QWEyM180ZDJzQWZWek1ETWVSc3VuNHBlc1FHanVWUXNrYXM1aGJCOWxmckJucEhuODZXZEtPbWd1UF9SZEQ1Ung1NVVaS2xYVk1PYU4wdkhHVVFWeE9NcjdoNmttLWloTGpBUURWMWVOXzd0WWVDTUdpcEE?oc=5",
+   "outlet": "USA Today",
+   "via": "Google News",
+   "published": "2026-11-18T18:46:00+00:00",
+   "seen": "2026-11-19T09:02:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 releases tomorrow; what you should know."
   },
   {
    "id": "gta 6 ties 99 metacritic record scores game of the year nod before launch",
@@ -4180,7 +4235,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 ties 99 Metacritic record and earns a Game of the Year nod pre-launch."
   },
   {
    "id": "gta 6 is already breaking records within hours of release",
@@ -4192,7 +4248,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 is already breaking records within hours of release."
   },
   {
    "id": "gta 6 shatters streaming records before it even launches globally",
@@ -4204,7 +4261,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "GTA 6 is already breaking records, despite not having even been out for a full day yet.",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 shatters streaming records before global launch."
   },
   {
    "id": "gta 6 won t let you use cheats until you complete the main story and locks progression when you do",
@@ -4216,7 +4274,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Here's a twist: you can't use cheats in Grand Theft Auto 6 until you complete the entire game's main story. Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 disables cheats until the main story is completed and progression is locked."
   },
   {
    "id": "gta 6 metacritic score odds reviews embargo preload",
@@ -4228,7 +4287,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "The article discusses Metacritic score odds, reviews, embargo, and preload for GTA 6."
   },
   {
    "id": "was grand theft auto vi worth the 13 year wait the reviews are in",
@@ -4240,7 +4300,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "CNN asks if GTA VI was worth the 13-year wait, as reviews arrive."
   },
   {
    "id": "grand theft auto vi is about to drop and millions are planning to spend thursday playing",
@@ -4252,7 +4313,34 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "The story says GTA VI is about to drop and many plan to play on Thursday."
+  },
+  {
+   "id": "gta vi publisher take two jumps as gamers relish blockbuster release",
+   "title": "'GTA VI' publisher Take-Two jumps as gamers relish blockbuster release",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTms1VVZUOTUyUjBnS3VLVjFBZU5SeW1UWDZNRDJqY2w1N3dlT2Z6OEU2MDNIdGRaMG9XRzZMZVZZWDhERVRWbVpSVnkxZFVtUU9wVmxhVTl4akNIN2p6d0JWSHJ1RzlpNnljZkFXTjBySlRHMVNaRXMtbDM5eFctekpJay03M1ZJM0JzdkpfTml3MWJOcVh6YnBvaVk3QTYyS2Rha2cxYUtpWF9TWjdr?oc=5",
+   "outlet": "Reuters",
+   "via": "Google News",
+   "published": "2026-11-18T18:31:56+00:00",
+   "seen": "2026-11-19T09:02:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Take-Two jumps as gamers relish the blockbuster release."
+  },
+  {
+   "id": "gta 6 is the biggest game of all time what it means for take two s stock",
+   "title": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock.",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLXBDbHhOaXJwWUlBQW9UdDh4S0pQZ3Vpc2lDbEdDY1RZd2Vpd3UzaXpGR0FaUEUwaURueHYtal9LT2ZHNkNIVFp3SDBFb0pGZFM3U2pLNUdoVHFMM0FJTlFBdDJ6WUJPTWtiTjR3WGxHQ3VaeGlyc1cwckR6eFhydzlGY095TVlwZzN5cVpwLWRWWnNDMUh5eXFlNmx0RlNQV0hidXBianU0QzlGNWNmb3BUR0RDdnZtT0VWTi11MUFuREIzZlZyelo1SXU1ZjloQXRVbGFB?oc=5",
+   "outlet": "MarketWatch",
+   "via": "Google News",
+   "published": "2026-11-18T18:28:00+00:00",
+   "seen": "2026-11-19T09:02:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 is described as the biggest game of all time and its meaning for Take-Two’s stock."
   },
   {
    "id": "gta 6 reportedly surpasses 5 3 million concurrent viewers before launch",
@@ -4264,7 +4352,8 @@
    "seen": "2026-11-19T05:31:29+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 reportedly surpasses 5.3 million concurrent viewers before launch."
   },
   {
    "id": "our favorite accessories to level up your gaming setup ahead of gta vi",
@@ -4276,7 +4365,8 @@
    "seen": "2026-11-19T05:31:01+00:00",
    "summary": "With Grand Theft Auto VI set to finally launch tomorrow, November 19th, our long-awaited return to Vice City is nearly here. But after all this time, some of the gear you’ve used in San Andreas might feel out of place on the glamorous streets of Leonidas County. Luckily for you, we’ve gathered a few of […]",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The Verge highlights favorites to level up gaming setups ahead of GTA VI."
   },
   {
    "id": "gta vi is here traders bet on beating the 815 7 million day one record",
@@ -4288,7 +4378,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA VI is here and traders bet on beating the day-one record."
   },
   {
    "id": "even the ps5 pro is not powerful enough to run gta 6 at 60fps or 40fps rockstar says",
@@ -4300,7 +4391,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Don't expect GTA 6 to get an update supporting higher framerate modes, at least, not on current-generation consoles. Rockstar has explained that even the most powerful console of the bunch, the PS5 Pro , isn't powerful enough to run the lavish game at 40FPS or 60FPS. Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "PS5 Pro is not powerful enough to run GTA 6 at 60FPS or 40FPS, according to Rockstar."
   },
   {
    "id": "how to enable classic controls in gta 6",
@@ -4312,7 +4404,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Rockstar has made some big changes to the way GTA 6 handles, but you can switch some key buttons to go back to old controls",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "How to enable classic controls in GTA 6."
   },
   {
    "id": "gta 6 reviews 99 on metacritic tied with ocarina of time as the highest ever",
@@ -4324,7 +4417,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 reviews show a Metacritic score of 99, tied with a historic title."
   },
   {
    "id": "gta 6 graphics compared on xbox series x s playstation 5 and ps5 pro",
@@ -4336,7 +4430,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Graphics comparison of GTA 6 across Xbox Series X|S, PS5, and PS5 Pro."
   },
   {
    "id": "gta 6 launches with 99 metacritic score and record streams",
@@ -4348,7 +4443,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 launches with a 99 Metacritic score and record streams."
   },
   {
    "id": "grand theft auto 6 is the smoothest gta game in history despite 30fps analysis finds",
@@ -4360,7 +4456,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 6's frame rate isn't flawless, but it's substantially better than how its predecessors launched",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 is the smoothest GTA game in history despite 30fps, with improvements over predecessors."
   },
   {
    "id": "kia shine says he recorded 200 300 lines for two gta 6 characters",
@@ -4372,7 +4469,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Kia Shine reportedly recorded hundreds of lines for two GTA 6 characters."
   },
   {
    "id": "tell us are you playing grand theft auto vi",
@@ -4384,7 +4482,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "Tell us: are you playing Grand Theft Auto VI?"
   },
   {
    "id": "grand theft auto vi is a cultural and economic earthquake brace yourself",
@@ -4396,7 +4495,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA VI is described as a cultural and economic earthquake."
   },
   {
    "id": "gta 6 studio head multiple characters was a leap of faith and rockstar knew it might backfire",
@@ -4408,7 +4508,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 5's iconic trio had something to prove",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 studio head says multiple characters was a leap of faith and might have backfired."
   },
   {
    "id": "round up gta 6 is not just the most acclaimed game of 2026 it s the highest rated game of all time",
@@ -4420,7 +4521,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "The reviews are in. The initial reviews have arrived for GTA 6 , and it's safe to say the game has been an absolute smash hit with critics. The metascore has settled on a 99, making it one point off a \"perfect\" score of 100. In a year stuffed with fantastic games big and small, it's become the highest rated title of 2026. Read the full article on pushsquare.com",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 is the most acclaimed game of 2026 and the highest-rated game of all time."
   },
   {
    "id": "xbox unveils new halo background default event background for gta 6",
@@ -4432,7 +4534,8 @@
    "seen": "2026-11-19T05:31:01+00:00",
    "summary": "If you're seeing it, now you know why. If you've turned on your Xbox console today and been presented with a background for GTA 6 without selecting it, there's a reason for that. Xbox is promoting the game by making a default \"event\" background for certain people. You can let it sit there and do its thing if you want (although unfortunately it's not dynamic), or you can turn it off by going to Set",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Xbox unveils a GTA 6-themed background as part of a promotion for the game."
   },
   {
    "id": "gta 6 lives up to the hype and becomes the highest rated game in history",
@@ -4444,7 +4547,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 lives up to the hype and becomes the highest rated game in history."
   },
   {
    "id": "gta 6 launch live review roundups metacritic score and everything you need to know plus ask me anything after 100 hours of gameplay",
@@ -4456,7 +4560,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "Launch live coverage includes review roundups, Metacritic score, and gameplay notes."
   },
   {
    "id": "gta 6 is already breaking twitch records",
@@ -4468,7 +4573,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 is already breaking Twitch records."
   },
   {
    "id": "gta 6 is breaking streaming records here are the streamers to watch right now",
@@ -4480,7 +4586,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "'GTA 6' is breaking streaming records with a list of streamers to watch."
   },
   {
    "id": "psa some gta 6 ultimate edition content is only available for the first chapter and you ll have to put in hard graft to unlock more",
@@ -4492,7 +4599,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 6's Ultimate Edition has proven enormously popular, despite its hefty $100 price tag. So much so that Strauss Zelnick, boss of Rockstar parent company Take-Two, recently confirmed it's the edition most people are buying - and that's despite a lack of specific information about how its unlockable content works. With GTA 6 just hours away from release, however - and out now in certain parts of t",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Some GTA 6 Ultimate Edition content is limited to the first chapter andUnlocking more requires effort."
   },
   {
    "id": "gta 6 makes video game history 99 100 on metacritic zelda s record matched after 28 years",
@@ -4504,7 +4612,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 makes video game history with a 99/100 Metacritic score and a Zelda record match."
   },
   {
    "id": "gta 6 ties ocarina of time for highest metacritic score ever with 99",
@@ -4516,7 +4625,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 ties Ocarina of Time for the highest Metacritic score ever with 99."
   },
   {
    "id": "gta 6 drops longtime hookup options and prostitution to focus on jason and lucia s romance",
@@ -4528,7 +4638,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "GTA 6 cuts paid hookups and limits how far players can go with other characters, with private dances still available.",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 removes paid hookups and limits sexual activity with others to focus on Jason and Lucia’s romance, with private dances still available."
   },
   {
    "id": "most though not quite all of the 34 fired rockstar employees are named in the gta 6 credits",
@@ -4540,7 +4651,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Eurogamer can confirm that at least 28 of the 34 employees fired by Rockstar roughly a year ago - in an action that directly led to the employment tribunal Rockstar is currently facing in Scotland - are named in the credits of Grand Theft Auto 6 . Read more",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Most of the 34 fired Rockstar employees are named in the GTA 6 credits."
   },
   {
    "id": "the 13 year wait is over gta 6 has been officially released and is breaking records",
@@ -4552,7 +4664,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "The 13-year wait is over as GTA 6 has been officially released and is breaking records."
   },
   {
    "id": "gta 6 didn t get as many game awards nominations as clair obscur expedition 33 but it never could",
@@ -4564,7 +4677,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Being a debut indie gives Sandfall the advantage",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 had fewer Game Awards nominations than Clair Obscur: Expedition 33, but debut indie status gives Sandfall an advantage."
   },
   {
    "id": "as gta 6 breaks records rockstar devs call for union recognition",
@@ -4576,7 +4690,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "As GTA 6 breaks records, Rockstar developers call for union recognition."
   },
   {
    "id": "43 soldiers said yes to more army if they could play gta vi",
@@ -4588,7 +4703,8 @@
    "seen": "2026-11-19T08:45:21+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "43 soldiers said yes to more Army if they could play GTA VI."
   },
   {
    "id": "gta 6 players have already discovered the most evil crime in the game",
@@ -4600,7 +4716,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 players have already discovered the game's most evil crime."
   },
   {
    "id": "why is take two nasdaq ttwo stock up 8 today gta 6 ties the record for best reviewed game ever",
@@ -4612,7 +4729,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "Take-Two stock rose as GTA 6 ties the record for best-reviewed game ever."
   },
   {
    "id": "the reviews are in gta 6 lands 99 metacritic score ties for highest rated game of all time",
@@ -4624,7 +4742,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 reviews indicate a Metacritic score of 99, tying the highest rating for a game."
   },
   {
    "id": "twitch streamer known as bigcheese on gta 6 hype",
@@ -4636,7 +4755,8 @@
    "seen": "2026-11-19T05:31:29+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": false
+   "record": false,
+   "ai_summary": "A Twitch streamer known as BigCheese is associated with GTA 6 hype."
   },
   {
    "id": "free christian gta 6 parody game released where the devil hunts you instead of cops",
@@ -4648,7 +4768,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "A free Christian parody of Grand Theft Auto is launching alongside GTA 6, and getting five stars will bring Satan after you instead of the cops.",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "Free Christian GTA 6 parody game released where the devil hunts you instead of cops."
   },
   {
    "id": "nba players receive this special gta 6 ps5 pro console and we re not jealous at all",
@@ -4660,7 +4781,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "Not one bit. On the eve of GTA 6 finally making its debut, it seems a lucky few have been given a special way to play it. Several NBA players, all belonging to the Miami Heat team, have received a crazy care package from Rockstar Games that includes a special edition PS5 Pro console that's not publicly available. Read the full article on pushsquare.com",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "NBA players receive a special GTA 6 PS5 Pro console in a limited, not publicly available package."
   },
   {
    "id": "i ve played the first 30 minutes of gta 6 on every console here s how performance compares",
@@ -4672,7 +4794,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "How GTA 6 performance compares across every console, based on our early tests.",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "First 30 minutes of GTA 6 across consoles are compared for performance."
   },
   {
    "id": "gta 6 broke a streaming record before most could play",
@@ -4684,7 +4807,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 broke a streaming record before most could play."
   },
   {
    "id": "ai fueled game development just needs a toy story style hit to be accepted former take two ceo says",
@@ -4696,7 +4820,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "Audiences will learn to love AI-generated games, the former CEO of GTA publisher Take-Two Interactive has said — as soon as they churn out a 'Toy Story moment' of quality.",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Former Take-Two CEO says AI-fueled game development needs a Toy Story-style hit to be accepted."
   },
   {
    "id": "gta flu xbox dj khaled collaborate to offer doctor s note for video game players amid grand theft auto vi release",
@@ -4708,7 +4833,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 release prompts Xbox and DJ Khaled collaboration offering a doctor’s note for players."
   },
   {
    "id": "gamers take sick days plan schedules ahead of gta 6 release abc news",
@@ -4720,7 +4846,21 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Gamers take sick days and plan schedules ahead of the GTA 6 release."
+  },
+  {
+   "id": "rockstar founder issues rare statement as gta 6 launches to superb reviews and huge sales",
+   "title": "Rockstar Founder Issues Rare Statement As GTA 6 Launches To Superb Reviews And Huge Sales",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2Z3RkRNWlNBMnBNaE5hX3hvUk5BUDdveGRQLW1tSzh2V3lqQldBMUVGeDlRQ1k4MGo1VTJib0dKaHZsT2xaakRkV1FEWGN4SzVIeGM3YWoxQl8wRXlQRklkWjQ0cGFrSlFHSzJkUVVheXo1dmFYRUpWWTFJMTRrRExmWVdOY1BnUUh4dFJDNUFScWFvTGM0VHZDV1dod2l6V0pEV2FVZGZJTEprWlM0d1VQWTJ5VFRMMktzSlRWV0h4Zw?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-18T16:37:12+00:00",
+   "seen": "2026-11-19T09:02:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Rockstar founder issues a rare statement as GTA 6 launches to strong reviews and sales."
   },
   {
    "id": "grand theft auto 6 release sparks massive boom in xbox and playstation 5 sales",
@@ -4732,7 +4872,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 release sparks a massive boom in Xbox and PlayStation 5 sales."
   },
   {
    "id": "everything a gta subscription unlocks in gta 6",
@@ -4744,7 +4885,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "If you pre-ordered GTA 6 you get a free month of GTA+. Here's how to activate it and what you get",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA+ subscription unlocks explained for GTA 6, including a free month if pre-ordered."
   },
   {
    "id": "how gta 6 release is impacting xbox and playstation sales",
@@ -4756,7 +4898,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 release is impacting Xbox and PlayStation sales."
   },
   {
    "id": "when is gta 6 available in the us see global release times",
@@ -4768,7 +4911,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Us release timings: when GTA 6 becomes available in the US."
   },
   {
    "id": "gta 6 set to make history with record breaking launch pre orders reportedly cross 15 million",
@@ -4780,7 +4924,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 is set to make history with a record-breaking launch as pre-orders cross 15 million."
   },
   {
    "id": "gta vi nears 1 7 billion in pre order sales one day before launch",
@@ -4792,7 +4937,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA VI nears $1.7 billion in pre-order sales one day before launch."
   },
   {
    "id": "can you play gta 6 right now when it s playable in the u s",
@@ -4804,7 +4950,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "Information on when GTA 6 is playable in the United States."
   },
   {
    "id": "gta 6 is so big it managed to break reddit",
@@ -4816,7 +4963,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "Grand Theft Auto 6 isn't even out yet, and it's already causing some technical issues over at the game's official Reddit page. Read more",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 is reportedly big enough to cause Reddit issues before its release."
   },
   {
    "id": "gta 6 breaks streaming record with 6 38 million viewers",
@@ -4828,7 +4976,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 reportedly breaks a streaming record with millions of viewers."
   },
   {
    "id": "gta vi the album tracklist every confirmed song and artist",
@@ -4840,7 +4989,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA VI: The Album Tracklist lists every confirmed song and artist."
   },
   {
    "id": "grand theft auto vi launches tomorrow november 19",
@@ -4852,7 +5002,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI launches tomorrow."
   },
   {
    "id": "gta 6 base ps5 performance suffers minor and sustained frame rate drops but it s unwavering on ps5 pro",
@@ -4864,7 +5015,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "Digital Foundry delivers the verdict. As you'd expect, it sounds like PS5 Pro is the absolute best place to play GTA 6 at launch — but what about playing it on Sony's standard console? Our pals over at Digital Foundry have been putting it to the test. First things first, Digital Foundry can't stress enough just how technically impressive Rockstar's latest open world is. In terms of simulating a li",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 base PS5 performance experiences minor and sustained frame rate drops, with PS5 Pro performing best."
   },
   {
    "id": "gta 6 story missions have consequences and you can t simply replay them",
@@ -4876,7 +5028,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 story missions have consequences and aren’t replayable."
   },
   {
    "id": "gta 6 reviews what critics love what they don t and the biggest surprises",
@@ -4888,7 +5041,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 reviews discuss critics' opinions, dislikes, and surprises."
   },
   {
    "id": "take two shares jump 7 5 as gta vi hits 99 on metacritic a day before launch",
@@ -4900,7 +5054,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Take-Two shares rise as GTA VI hits high Metacritic score ahead of launch."
   },
   {
    "id": "gta 6 just set a streaming record with over 6 million peak viewers at launch",
@@ -4912,7 +5067,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 sets a streaming record with over six million peak viewers at launch."
   },
   {
    "id": "gta 6 review rockstar s vice city is a masterpiece i never want to leave",
@@ -4924,7 +5080,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 review calls Rockstar's Vice City a masterful experience."
   },
   {
    "id": "gta 6 breaks the all time livestream viewer record hours before it s available to play for most of the world",
@@ -4936,7 +5093,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 breaks livestream viewer records hours before it’s playable for most."
   },
   {
    "id": "zelda remake vs gta 6 global gaming sales showdown",
@@ -4948,7 +5106,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Zelda Remake vs. GTA 6 compared in a global sales showdown."
   },
   {
    "id": "grand theft auto 6 release set to shatter records as gamers take time off",
@@ -4960,7 +5119,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "Grand Theft Auto 6 release expected to shatter records as gamers take time off."
   },
   {
    "id": "how to unlock all pre order and ultimate edition bonuses in gta 6",
@@ -4972,7 +5132,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "The additional content you unlock through pre-ordering GTA 6 or buying the Ultimate Edition is all found in different locations",
    "topic": "Sales",
-   "record": false
+   "record": false,
+   "ai_summary": "Guide explains how to unlock pre-order and Ultimate Edition bonuses in GTA 6."
   },
   {
    "id": "grand theft auto 6 reviews i never want to leave",
@@ -4984,7 +5145,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": false
+   "record": false,
+   "ai_summary": "GTA 6 reviews express strong praise and desire to keep playing."
   },
   {
    "id": "grand theft auto 6 is about to test the internet like never before comcast expects a new record",
@@ -4996,7 +5158,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "News",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 is poised to test the internet, with Comcast anticipating a new record."
   },
   {
    "id": "the real life city that inspires grand theft auto vi",
@@ -5008,7 +5171,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "The real-life city inspiring Grand Theft Auto VI is explored."
   },
   {
    "id": "gta 6 receives perfect scores on metacritic and becomes one of the highest rated games in history",
@@ -5020,7 +5184,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 receives perfect Metacritic scores and ranks among highly rated games."
   },
   {
    "id": "how long to finish gta 6 s main story campaign",
@@ -5032,7 +5197,8 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "How long it takes to finish GTA 6's main story campaign is discussed."
   },
   {
    "id": "guide gta 6 who is the real actress lucia is based on",
@@ -5044,7 +5210,8 @@
    "seen": "2026-11-19T05:31:00+00:00",
    "summary": "Revealing all about Manni L. Perez. As one of the two main protagonists in GTA 6 , you're going to spend a lot of time playing as Lucia. As such, you may be interested in learning more about the real-life actress she's based on. In this GTA 6 guide , we are answering: who is the real actress Lucia is based on in GTA 6? Who Is the Real Actress Lucia Is Based on in GTA 6? Read the full article on pu",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "A GTA 6 guide reveals the real actress Lucia is based on."
   },
   {
    "id": "gta 6 arrives to record review scores and streaming audiences",
@@ -5056,7 +5223,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Streaming",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 arrives with record review scores and streaming audiences."
   },
   {
    "id": "how to develop romances and change your relationship status in gta 6",
@@ -5068,7 +5236,8 @@
    "seen": "2026-11-19T05:30:59+00:00",
    "summary": "You can build (or neglect) the romance and relationship between Jason and Lucia in GTA 6",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "A guide explains romances and relationship statuses in GTA 6."
   },
   {
    "id": "gta 6 scores 99 on metacritic ties ocarina of time s all time record",
@@ -5080,7 +5249,8 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 scores 99 on Metacritic, tying a historic record."
   },
   {
    "id": "three big takeaways from digital foundry s gta 6 analysis for xbox series x s",
@@ -5092,7 +5262,8 @@
    "seen": "2026-11-19T05:31:01+00:00",
    "summary": "Their in-depth tech review. The good folks over at Digital Foundry have been sharing their deep dive analysis on the Xbox Series X|S versions of GTA 6 today, presented in the form of a 23-minute video on YouTube, and a separate article over on their website. <related ids=\"209224\"> Read the full article on purexbox.com",
    "topic": "Streaming",
-   "record": false
+   "record": false,
+   "ai_summary": "Digital Foundry's GTA 6 analysis for Xbox Series X|S highlights key takeaways."
   },
   {
    "id": "gta 6 ties ocarina of time at 99 on metacritic",
@@ -5104,7 +5275,8 @@
    "seen": "2026-11-19T08:41:38+00:00",
    "summary": "",
    "topic": "Reviews",
-   "record": true
+   "record": true,
+   "ai_summary": "GTA 6 ties Ocarina of Time at 99 on Metacritic."
   },
   {
    "id": "just how detailed is the audio in gta 6 well even convenience store refrigerators all have their own unique sounds says rockstar dev",
@@ -5695,6 +5867,18 @@
    "record": false
   },
   {
+   "id": "gta 6 is finally here global rollout kicks off in new zealand preorders top 1 5b",
+   "title": "GTA 6 Is Finally Here! Global Rollout Kicks Off In New Zealand, Preorders Top $1.5B",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXZoZTZsNXQ1dkM4c3RqM1RwRnNmUGxKMHZKc3hqUm9uR1JSQTFzUUJNeWNaSlBMQl9EV0h1UncxdERxMjduYXFmMFUwOU5kVldrNFgwaGc4WXJFUTZqMk0tcnppZkFIVTJTUHR4UXdQaDNVU0NESmRfYW1tbm1hUE9BZ3FkaTR6aXFnZ0plY2h1NVM5MmEwOFdjN2o?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-18T12:05:25+00:00",
+   "seen": "2026-11-19T09:02:10+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true
+  },
+  {
    "id": "gta 6 review round up what s the metacritic score",
    "title": "GTA 6 review round-up: What's the Metacritic score?",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92VkF4RVhpSExUc2wxLThmb3NibG9tZ3d4dUYwYTdEa1JKX0dIMjdaM3piSzhmbHlXRFh6bDFzVk9hWTZjQkg4b1BQZVVSVzNhR0VuMDBrZ3NXSllSbE5JNGREY2t3VkFnWFpvQlJSSmo3TlBxU0E?oc=5",
@@ -5933,6 +6117,30 @@
    "summary": "",
    "topic": "Reviews",
    "record": false
+  },
+  {
+   "id": "is grand theft auto 6 down gta 6 issues explained",
+   "title": "Is Grand Theft Auto 6 Down? GTA 6 Issues, Explained",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2ZGbnFqMS1rb2cxSFdSVmJCakkwVVdYV3kwMENKNkNNektGWXczRkdvWGM4dWZOSWI3RHVjM0Jra2NsSkU3eUlsWkx3QjNuQVNYVDRDM2s0UU8zR01yVzVpQkF2UzFMc193LXZjdE9Ma1NPX01kUTRTb0NiSlZiYUl2MA?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-18T11:02:42+00:00",
+   "seen": "2026-11-19T09:02:10+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false
+  },
+  {
+   "id": "gta vi scores 99 on metacritic tying ocarina of time as the highest rated game ever",
+   "title": "GTA VI scores 99 on Metacritic, tying Ocarina of Time as the highest-rated game ever",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGpfTXlwWmZuV0Nka3NPbkotdEc1b0NWWTQ0MnhZcUlVRTF1UGp6MGZOMWxDR0RiR1U2MHBIR2dOdWZHdUpQNEZXbDNIRFNjM3hGSUlCd0xRZ3N6bHQ3b3piVF9keHZXcWY5VmdfRVR4WDNXY0tPUEp0ek9fcmR5QmswbVNXTUlJU0lyQm9GN2dKY0pRZ0V4NUN4VFYtQ05ROVdTYWdFYTlnMk9jR3g1cXZMSV9zWGJISE96ZzR3Um1pODluWGJKWjdn?oc=5",
+   "outlet": "AltChar",
+   "via": "Google News",
+   "published": "2026-11-18T11:02:00+00:00",
+   "seen": "2026-11-19T09:02:10+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true
   },
   {
    "id": "grand theft auto vi the ars technica review",
