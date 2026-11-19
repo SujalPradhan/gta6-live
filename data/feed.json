@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:14:52+00:00",
- "started": "2026-11-19T16:14:37+00:00",
+ "updated": "2026-11-19T16:19:43+00:00",
+ "started": "2026-11-19T16:19:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:14:37+00:00"
+   "checked": "2026-11-19T16:19:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:14:38+00:00"
+   "checked": "2026-11-19T16:19:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T16:14:38+00:00"
+   "checked": "2026-11-19T16:19:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:14:38+00:00"
+   "checked": "2026-11-19T16:19:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:14:38+00:00"
+   "checked": "2026-11-19T16:19:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T16:14:39+00:00"
+   "checked": "2026-11-19T16:19:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-19T16:14:39+00:00"
+   "checked": "2026-11-19T16:19:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T16:14:39+00:00"
+   "checked": "2026-11-19T16:19:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-19T16:14:39+00:00"
+   "hits": 5,
+   "checked": "2026-11-19T16:19:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T16:14:39+00:00"
+   "checked": "2026-11-19T16:19:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T16:14:40+00:00"
+   "checked": "2026-11-19T16:19:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T16:14:40+00:00"
+   "checked": "2026-11-19T16:19:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T16:14:40+00:00"
+   "checked": "2026-11-19T16:19:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T16:14:40+00:00"
+   "checked": "2026-11-19T16:19:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 estimated to make 1 65 billion before its first weekend",
+   "title": "GTA 6 Estimated to Make $1.65 Billion Before Its First Weekend",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RNUY3SHNaT1hzZHdjOThGY1piMzNmU3NZWjlDSmtTZV9PRkMwMEdCdHZJdjd6TFlZcnZPUmZaa0thRXpBZExIZ2RSTWRFSHlNWDJVNzFzLU5JOTQwR3JGMXNjNUZtNE1oVHFBMkFMcERLS3pmalE?oc=5",
+   "outlet": "Baller Alert",
+   "via": "Google News",
+   "published": "2026-11-19T16:17:25+00:00",
+   "seen": "2026-11-19T16:19:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 is estimated to make $1.65 billion before its first weekend, according to Baller Alert."
+  },
+  {
+   "id": "all gta 6 voice actors full cast list",
+   "title": "All GTA 6 Voice Actors—Full Cast List",
+   "link": "https://insider-gaming.com/gta-6-voice-actors/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-19T16:16:23+00:00",
+   "seen": "2026-11-19T16:19:39+00:00",
+   "summary": "Rockstar Games has assembled a hugely talented cast to act out the GTA 6 story, and the cast list is pieced together with many voice actors. The post All GTA 6 Voice Actors—Full Cast List appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Insider Gaming reports the full GTA 6 voice cast list as assembled by Rockstar Games."
+  },
+  {
+   "id": "gta 6 the optional missions you won t want to miss",
+   "title": "GTA 6: The Optional Missions You Won’t Want to Miss",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTF6T253VGtzSnBkUXozSGQwTlpXdzNrb0Zfd0diQkRjZVhtYWVXY0JHVjA3UlpKa1N4MXYzbHdtNk5xbWduNDF2UkZYWjlxUVZ3WWItRGdYaUZ5STZfZnJ3M3V5WlEtUGNLdzVwazU2Mnd5WFhWbXAzYzNZcU82cHFmcGxYd3lsX1Q4Qi1DSE9WWGJYcDREUTItOXpuYVFk?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-19T16:15:11+00:00",
+   "seen": "2026-11-19T16:19:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 features optional missions that the article highlights as worth checking out."
+  },
   {
    "id": "gta 6 girl s trip mission walkthrough",
    "title": "GTA 6 Girl’s Trip Mission Walkthrough",
@@ -129,6 +168,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story urges readers to read everything in GTA 6."
+  },
+  {
+   "id": "christmas morning our live impact producer shares first impressions of gta 6",
+   "title": "'Christmas morning': Our Live Impact producer shares first impressions of GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMElUSHlWaHhBUWg4UXBjcmpKN0d4VFZMeDVjbE1iN25JLUVXb2xWUE90dV9mQlNKODdJUzlYM3JzY1FpdndnMmxtUWZ0dnFLd0xHN2JGTWtXMjNBT1lqWXhpRXI5ZDYweklQaWlQUHM1enNyZ2RyZjJQWW44QmJnc1NyczY3YVVlUTNfYlVXOFltMnZnNEMyVXM1b2ZXRnAwYmdjYkNKZGxJVTRNU0t4SmNR?oc=5",
+   "outlet": "WCNC",
+   "via": "Google News",
+   "published": "2026-11-19T16:11:00+00:00",
+   "seen": "2026-11-19T16:19:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "WCNC shares first impressions of GTA 6 from Live Impact producer on Christmas morning."
+  },
+  {
+   "id": "weird al is gta 6 s dj al",
+   "title": "“Weird Al” Is GTA 6’s DJ Al",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Dd29nRlN1VWNiekI5WUIzZk1KSlBXcG5hN1BrWHcyMnFRV3Y3d1k5OFZjUE5SWndrQmxkTEljZ3ZCRkUtSWhUSGFrbEdCNnd0d25sdmdFZHlITVczMnA5TGJEV2prRUh6?oc=5",
+   "outlet": "Consequence of Sound",
+   "via": "Google News",
+   "published": "2026-11-19T16:10:53+00:00",
+   "seen": "2026-11-19T16:19:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Consequence of Sound notes that ‘Weird Al’ is GTA 6’s DJ Al."
   },
   {
    "id": "parents reveal meticulous plan to play gta 6 while caring for toddler",
@@ -690,6 +755,19 @@
    "ai_summary": "A UFC champion criticizes the GTA 6 craze and urges gamers to shut off the console and focus on sex."
   },
   {
+   "id": "the dangerous fantasy of gta vi",
+   "title": "The dangerous fantasy of GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DMmlYckhBZWQ1VEtLWHg5SU4ydHphckRmX3FaRG9DcEx4SHZqY0YtTnZadjVKRXc4S2JUN295c21IOHVFcFVQY2pJcGF4aktWOEtFQWJVaFIzQUQ2Q05aNWpZa21ZeHItMlFCQnREeFdRM0NyNkhIc25ZNm56dw?oc=5",
+   "outlet": "The Spectator",
+   "via": "Google News",
+   "published": "2026-11-19T15:30:40+00:00",
+   "seen": "2026-11-19T16:19:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Spectator discusses the dangerous fantasy of GTA VI."
+  },
+  {
    "id": "how to find paul walker s mitsubishi eclipse in gta 6 fast and furious easter egg location",
    "title": "How to Find Paul Walker’s Mitsubishi Eclipse in GTA 6—Fast and Furious Easter Egg Location",
    "link": "https://insider-gaming.com/paul-walker-gta-6-easter-egg/",
@@ -818,6 +896,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A 2000s rapper reveals a secret GTA VI role and says his son recognized him."
+  },
+  {
+   "id": "streamer beats out over 30 000 applicants to become kalshi s gta vi researcher",
+   "title": "Streamer beats out over 30,000 applicants to become Kalshi’s ‘GTA VI Researcher’",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jR25QQk5NMXhwMWVMdGNIVlcxWjhqLURoY1RfRGg1UE1TaTBMWk5NUVFqd1JaeTJWeVZFSFhPbkpyMzJnT0ZCNDhPbktYaFk3Wjd2M0pxd0xFUzE5OWVvU09qMnlfMFRSZEhKXzFscG4?oc=5",
+   "outlet": "WSVN",
+   "via": "Google News",
+   "published": "2026-11-19T15:17:41+00:00",
+   "seen": "2026-11-19T16:19:37+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "WSVN reports a streamer beat out over 30,000 applicants to become Kalshi’s GTA VI Researcher."
   },
   {
    "id": "fastly stock pops on successful gta vi rollout",
