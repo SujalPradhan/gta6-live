@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:42:31+00:00",
- "started": "2026-11-19T09:42:23+00:00",
+ "updated": "2026-11-19T09:47:35+00:00",
+ "started": "2026-11-19T09:47:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T09:42:24+00:00"
+   "checked": "2026-11-19T09:47:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T09:42:24+00:00"
+   "checked": "2026-11-19T09:47:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T09:42:25+00:00"
+   "checked": "2026-11-19T09:47:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T09:42:25+00:00"
+   "checked": "2026-11-19T09:47:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T09:42:25+00:00"
+   "checked": "2026-11-19T09:47:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T09:42:26+00:00"
+   "checked": "2026-11-19T09:47:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T09:42:26+00:00"
+   "checked": "2026-11-19T09:47:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T09:42:26+00:00"
+   "checked": "2026-11-19T09:47:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T09:42:26+00:00"
+   "checked": "2026-11-19T09:47:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T09:42:27+00:00"
+   "checked": "2026-11-19T09:47:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T09:42:27+00:00"
+   "checked": "2026-11-19T09:47:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T09:42:27+00:00"
+   "checked": "2026-11-19T09:47:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T09:42:28+00:00"
+   "checked": "2026-11-19T09:47:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T09:42:28+00:00"
+   "checked": "2026-11-19T09:47:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 has made me a nice guy for the first time since 1999",
+   "title": "GTA 6 Has Made Me a ‘Nice Guy’ For The First Time Since 1999",
+   "link": "https://insider-gaming.com/gta-6-has-me-nice-guy-first-time-1999/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-19T09:45:41+00:00",
+   "seen": "2026-11-19T09:47:31+00:00",
+   "summary": "Grand Theft Auto 6 has made me determined to be the nicest guy possible for the first time in franchise history, and I love every second. The post GTA 6 Has Made Me a ‘Nice Guy’ For The First Time Since 1999 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 has made the author determined to be the nicest guy possible for the first time since 1999."
+  },
+  {
+   "id": "gta 6 all radio stations and genres in grand theft auto 6",
+   "title": "GTA 6: All radio stations and genres in Grand Theft Auto 6",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-all-radio-stations-genres-grand-theft-auto/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T09:44:51+00:00",
+   "seen": "2026-11-19T09:47:29+00:00",
+   "summary": "Every radio station and the genres they play in Grand Theft Auto 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the radio stations and genres present in Grand Theft Auto 6."
+  },
+  {
+   "id": "all underwater discoveries in gta 6 kenton s treasures guide",
+   "title": "All Underwater Discoveries In GTA 6 – Kenton’s Treasures Guide",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0ZGOGJEczlwT3VLRVZ1ajkyMjdXM24tSHFCdE1ZM2RDTVNINE9rZ1IxOW01WElzRzVGQlY0RklPbGJtMjhLeGJnekdIampoR0NSeVdsLVpLbjFIczB3dDlkdnlZdUZwTi1pWmF5NkliWFhDWVh5Y21iWTRNZm1VcW9QVUVEVmdINXdBSFoweUw?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-19T09:44:02+00:00",
+   "seen": "2026-11-19T09:47:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports all underwater discoveries in GTA 6 as Kenton’s Treasures Guide."
+  },
   {
    "id": "gta 6 is there a first person mode i ve played it here s what you need to know",
    "title": "GTA 6: Is there a first-person mode? I've played it - here's what you need to know",
@@ -506,6 +545,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "GTA VI launches worldwide to near-perfect reviews."
+  },
+  {
+   "id": "grand theft auto vi released after 13 year wait selling over 17 million copies",
+   "title": "'Grand Theft Auto VI' released after 13-year wait, selling over 17 million copies",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGdQSm96S2tIZDVNakkxdUgtVGhwX2w1M1NLWHpWMl9COGRfcG5DUGFBMWEwU19FNmRkN2JEQUJHUDMwRWgwNWVXdkhBa1k1d0pwRWVPLV9kb2ZWdGZaWkJXMzJKNm9hYmRfcHhOTml3MnF1NEpaRFNGcDVTUVB0ZDUwWlFrN002bnc?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-19T08:52:40+00:00",
+   "seen": "2026-11-19T09:47:27+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI released after a 13-year wait and has sold over 17 million copies."
   },
   {
    "id": "gta 6 how to give the middle finger",
