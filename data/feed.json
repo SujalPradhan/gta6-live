@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:42:18+00:00",
- "started": "2026-11-19T22:42:12+00:00",
+ "updated": "2026-11-19T22:47:00+00:00",
+ "started": "2026-11-19T22:46:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T22:42:12+00:00"
+   "checked": "2026-11-19T22:46:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T22:42:12+00:00"
+   "checked": "2026-11-19T22:46:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T22:42:13+00:00"
+   "checked": "2026-11-19T22:46:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T22:42:13+00:00"
+   "checked": "2026-11-19T22:46:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T22:42:13+00:00"
+   "checked": "2026-11-19T22:46:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T22:42:13+00:00"
+   "checked": "2026-11-19T22:46:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T22:42:14+00:00"
+   "checked": "2026-11-19T22:46:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T22:42:14+00:00"
+   "checked": "2026-11-19T22:46:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T22:42:14+00:00"
+   "checked": "2026-11-19T22:46:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T22:42:15+00:00"
+   "checked": "2026-11-19T22:46:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T22:42:15+00:00"
+   "checked": "2026-11-19T22:46:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T22:42:15+00:00"
+   "checked": "2026-11-19T22:46:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T22:42:15+00:00"
+   "checked": "2026-11-19T22:46:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T22:42:15+00:00"
+   "checked": "2026-11-19T22:46:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "fresno game store closes for grand theft auto vi release",
+   "title": "Fresno game store closes for ‘Grand Theft Auto VI’ release",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVWpxMVdTeEZUQ2J5M0JkMVFPSlV4alR3cnUyamtPcXB2YzhkU3ZzTzQ4QjlWTk1fYWxtVGRXQUFIWEJybHFsUnRNU3NBazdSLUdEMm9fdEtUREd3MnRWdVpnVUZ1UWxvSktobUtkSGxwQ29weTE2TEw0aTZVUGJzbnhGWkJyWmlmaUNXMg?oc=5",
+   "outlet": "The Business Journal",
+   "via": "Google News",
+   "published": "2026-11-19T22:45:03+00:00",
+   "seen": "2026-11-19T22:46:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Fresno game store closes in response to the Grand Theft Auto VI release."
+  },
+  {
+   "id": "gta 6 sold an estimated 19 million copies by launch day gta v s 24 hour record was 11 million",
+   "title": "GTA 6 Sold an Estimated 19 Million Copies by Launch Day. GTA V’s 24-Hour Record Was 11 Million",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFNza3FqT0hKcXVSNHFEa1YzbFhMS215OTI3UzJtX05feEhnaDF2QWpZQnUzTTNDWDJ2MVlpZm9JNFBfV0xyaUllQUNRdlB1NUI5a2NsNDJWS2NUbEFWNC1vRk9HRVJYaU12c0laX0d2WGx3NGdDeTY1cF91S1BvWQ?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-19T22:42:01+00:00",
+   "seen": "2026-11-19T22:46:53+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 sold an estimated number of copies by launch day, with GTA V's 24-hour record noted."
+  },
   {
    "id": "you can t just play an hour grand theft auto vi craze sweeps across the triad",
    "title": "'You can't just play an hour' | Grand Theft Auto VI craze sweeps across the Triad",
@@ -142,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 is finally here after 13 years and questions if it was worth the wait."
+  },
+  {
+   "id": "we went birding in gta 6 these are the florida species we found",
+   "title": "We went birding in GTA 6. These are the Florida species we found.",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2VRcV9OaXY3ejVJNV9PdUh4cFdiMWlDOXE4RHBDNWFZNmxxYnRyc0RQYVpCczFhSXBVOUt2dHFFbkVpTU5JUEZERVpxRlRLMEg4aEFfTFBHVFVNR09IbU9UVjd1a3lGYmlyNGRSOThzN2QtY2ZhT0hfbkNXVnVhUXREZDgtN21vSjBVMVk4b3l2NHU5NDlZT3VzckRnbHo1ODlLa1Z6NUh4b2VGcXhn?oc=5",
+   "outlet": "Tampa Bay Times",
+   "via": "Google News",
+   "published": "2026-11-19T22:36:47+00:00",
+   "seen": "2026-11-19T22:46:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "We went birding in GTA 6 and list the Florida species found."
   },
   {
    "id": "is gta 6 the greatest video game of all time the reviews are in",
@@ -192,7 +231,8 @@
    "seen": "2026-11-19T22:42:12+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI releases to critical and commercial acclaim."
   },
   {
    "id": "travis scott just dropped more gta 6 merch on his website",
@@ -230,7 +270,8 @@
    "seen": "2026-11-19T22:42:12+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Bully 2 could be Rockstar's next big game after GTA VI."
   },
   {
    "id": "local deputies join gta vi buzz urging players to separate games from reality",
@@ -242,7 +283,8 @@
    "seen": "2026-11-19T22:42:12+00:00",
    "summary": "",
    "topic": "Players",
-   "record": false
+   "record": false,
+   "ai_summary": "Local deputies join GTA VI buzz and urge players to separate games from reality."
   },
   {
    "id": "when can you get a new safehouse in gta 6 next hideout explained",
@@ -267,7 +309,8 @@
    "seen": "2026-11-19T22:42:12+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Gamers celebrate the launch of Grand Theft Auto VI."
   },
   {
    "id": "gta vi release day where pirates were when gta v dropped",
@@ -409,7 +452,8 @@
    "seen": "2026-11-19T22:42:12+00:00",
    "summary": "",
    "topic": "News",
-   "record": false
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI reimagines Cedar Key in-game, expressing affection for it."
   },
   {
    "id": "grand theft auto vi is putting online streamers in the spotlight",
