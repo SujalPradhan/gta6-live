@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:16:32+00:00",
- "started": "2026-11-19T21:16:24+00:00",
+ "updated": "2026-11-19T21:21:31+00:00",
+ "started": "2026-11-19T21:21:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T21:16:25+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T21:21:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T21:16:25+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-19T21:21:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T21:16:26+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T21:21:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T21:16:26+00:00"
+   "checked": "2026-11-19T21:21:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T21:16:26+00:00"
+   "checked": "2026-11-19T21:21:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T21:16:26+00:00"
+   "checked": "2026-11-19T21:21:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T21:16:26+00:00"
+   "checked": "2026-11-19T21:21:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T21:16:27+00:00"
+   "checked": "2026-11-19T21:21:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T21:16:27+00:00"
+   "checked": "2026-11-19T21:21:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T21:16:27+00:00"
+   "checked": "2026-11-19T21:21:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T21:16:27+00:00"
+   "checked": "2026-11-19T21:21:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T21:16:27+00:00"
+   "checked": "2026-11-19T21:21:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T21:16:27+00:00"
+   "checked": "2026-11-19T21:21:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T21:16:27+00:00"
+   "checked": "2026-11-19T21:21:28+00:00"
   }
  },
  "items": [
@@ -181,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A comparison of PS5 and Xbox Series X for GTA 6 discusses hardware and prices."
+  },
+  {
+   "id": "gta 6 s radio djs include keith richards lindsey buckingham and gloria estefan",
+   "title": "GTA 6’s Radio DJs Include Keith Richards, Lindsey Buckingham, and Gloria Estefan",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkxnYkpoYXNZbEctaTZQRnE1ZXdENEJDZUs3cElrc3piRktkNnBKZ3luamN4QXd5NjNIRzdMbktJYzVTU3pqTmdEWTdqU2tJNUY5ZlJVYmxiVnVzNFFHend4T2tqeGI4U2s4eHV4aGk4QnpQV2lMMzZyX3BiM3RCMzZvRXN1eUR3NEk4OWtfVE5sZw?oc=5",
+   "outlet": "Consequence of Sound",
+   "via": "Google News",
+   "published": "2026-11-19T21:05:10+00:00",
+   "seen": "2026-11-19T21:21:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6’s radio DJs include Keith Richards, Lindsey Buckingham, and Gloria Estefan."
   },
   {
    "id": "gta 6 cost a whopping 1b to make here is how it compares to the biggest blockbusters made",
@@ -7149,6 +7162,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Sacramento experiences GTA VI fever."
+  },
+  {
+   "id": "rockstar adds iconic before gta 6 meme in gta 6",
+   "title": "Rockstar Adds Iconic 'Before GTA 6' Meme in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHBmYTBBVDJpZEtqQlpXeHY2bmx0OWJ1SFE5Z2g5dE5zR0JTTXJaRHU5TFJMaEtnQ0hLODhsaVdPck5TSVFkWklzTG0zSzFHeEpDSXpIdVBLVjN0X28tQi0xNFBacHRfbmpOaC1HMWZFSno0TW5tTU9ITzhUYzdzZDhDLUFIZS1OM0o1VU5rQVFuRE1FRzlucw?oc=5",
+   "outlet": "IGN India",
+   "via": "Google News",
+   "published": "2026-11-19T13:35:53+00:00",
+   "seen": "2026-11-19T21:21:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says Rockstar adds an iconic 'Before GTA 6' meme in GTA 6."
   },
   {
    "id": "rockstar games releases grand theft auto vi for playstation 5 and xbox series x s",
