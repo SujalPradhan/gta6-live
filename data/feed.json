@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:30:18+00:00",
- "started": "2026-11-19T17:30:09+00:00",
+ "updated": "2026-11-19T17:35:20+00:00",
+ "started": "2026-11-19T17:35:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,167 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T17:30:09+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T17:35:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T17:30:10+00:00"
+   "checked": "2026-11-19T17:35:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T17:30:10+00:00"
+   "checked": "2026-11-19T17:35:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T17:30:11+00:00"
+   "checked": "2026-11-19T17:35:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T17:30:11+00:00"
+   "checked": "2026-11-19T17:35:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T17:30:11+00:00"
+   "checked": "2026-11-19T17:35:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T17:30:11+00:00"
+   "checked": "2026-11-19T17:35:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T17:30:11+00:00"
+   "checked": "2026-11-19T17:35:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T17:30:12+00:00"
+   "checked": "2026-11-19T17:35:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T17:30:12+00:00"
+   "checked": "2026-11-19T17:35:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T17:30:13+00:00"
+   "checked": "2026-11-19T17:35:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T17:30:13+00:00"
+   "checked": "2026-11-19T17:35:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T17:30:13+00:00"
+   "checked": "2026-11-19T17:35:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T17:30:13+00:00"
+   "checked": "2026-11-19T17:35:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi",
+   "title": "Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORjl5amZQLVZvTHRiMlo1djlvOHF5UHVQNTZXdnRIODZ1eTNuaVc1UGVPMVpWd1hValJMUnpBc2U3c0lKbTVWa1htR2YwYm9hZV9MUHVFRHNCMWJzeVhUemZRWUY4UDNnbkZWRmJsU0FlYTFZX0tfWkU5QUlya2stNERKVlVBdFpwYjhVR2JtZDk2UkpmbmFUXy1nWHhJaVd3ZUhGWHRYSTlsRVhIZS00MTM2aFBhSEhFU0h6QWNlMlhEeXJweUVVeWtkVkxFQ19lcUhBTkNJaw?oc=5",
+   "outlet": "LAist",
+   "via": "Google News",
+   "published": "2026-11-19T17:32:03+00:00",
+   "seen": "2026-11-19T17:35:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Headline reports Grand Theft Auto VI from LAist."
+  },
+  {
+   "id": "it looks like rockstar co founder sam houser is hiding in gta 6 as fans find little sam easter egg",
+   "title": "It looks like Rockstar co-founder Sam Houser is hiding in GTA 6 as fans find \"Little Sam\" Easter egg",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/it-sure-looks-like-rockstar-co-founder-sam-houser-is-hiding-in-gta-6-as-fans-find-little-sam-easter-egg-that-calls-back-to-gta-3/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T17:31:33+00:00",
+   "seen": "2026-11-19T17:35:14+00:00",
+   "summary": "Another Grand Theft Auto, another Easter egg",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GamesRadar+ notes fans find an Easter egg referencing a Rockstar co-founder in GTA 6."
+  },
+  {
+   "id": "guide gta 6 who is the real actor jason is based on",
+   "title": "Guide: GTA 6: Who Is the Real Actor Jason Is Based On?",
+   "link": "https://www.pushsquare.com/guides/gta-6-who-is-the-real-actor-jason-is-based-on",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-19T17:30:00+00:00",
+   "seen": "2026-11-19T17:35:14+00:00",
+   "summary": "All you need to know about Dylan Rourke. Of the two playable characters in GTA 6 , the first you'll take control of is Jason. You might be wondering about who exactly it is that has played the part of this co-lead character. In this GTA 6 guide , we answer the question: who is the real actor Jason is based on in GTA 6? Who Is the Real Actor Jason Is Based on in GTA 6? Read the full article on push",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Push Square discusses who the real actor behind Jason in GTA 6 is, per its guide."
+  },
+  {
+   "id": "is gta 6 about to break the internet logitech s gaming boss weighs in",
+   "title": "Is GTA 6 About to Break the Internet? Logitech's Gaming Boss Weighs In",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUpYeWV1YnhNWFVXR1dfbktxdnhMWkhCMkdnemNxTDBYR1F5NjlEQ2ZiOExVQ1ZSZnp3VlZpUkVBaHM4cHZodE5aSUhSTUJZWWpzZnVzUGpCSXlRMFZLUVZJMkVrZ3FLcUNhelNoNzNyc2V1alNndHFZTUVEUVdQTEpJY1FJUHJ6VFNiLUIyaHpHMHc2Ny0wMjRUenl4Ymc5?oc=5",
+   "outlet": "www.cheddar.com",
+   "via": "Google News",
+   "published": "2026-11-19T17:28:01+00:00",
+   "seen": "2026-11-19T17:35:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Cheddar discusses whether GTA 6 could break the internet with Logitech's input."
+  },
+  {
+   "id": "youtube removes channels for gta 6 nudity prompting streamers to flee to twitch",
+   "title": "YouTube removes channels for GTA 6 nudity, prompting streamers to flee to Twitch",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMk5JMVVteExlMkl2cE1YQU1DUHByUVFTR1JLcU8zODhMYzRacF83Z0oyTlZSd2NGeVhVVV9uQ0xlY2pvUEsxWVpGcWtUdVFoZXdZbm11V1FJRlozaFpsbHpLR1BKeDV6M1d1X1UxQWU1MzZsRUc3a1M3X3lBaVF2MGVLeVo4cS1QbjdWeDlvaG5ld3hKNWszbDlmQzNjOS1PUjdqSEhCWkpSbkJPWEU0Z29OZlg1dlN6RkZsb1JmcGw3Zw?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-19T17:28:00+00:00",
+   "seen": "2026-11-19T17:35:13+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Notebookcheck reports YouTube removing GTA 6 nudity channels and streamers moving to Twitch."
+  },
   {
    "id": "former xbox and ea exec hopes gta 6 gives a much needed shot in the arm to devs and publishers",
    "title": "Former Xbox and EA exec hopes GTA 6 gives \"a much-needed shot in the arm\" to devs and publishers",
@@ -155,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The writer states they won’t play GTA 6 but will listen to the songs."
+  },
+  {
+   "id": "school holds drawing to encourage students not to skip for gta vi",
+   "title": "School holds drawing to encourage students not to skip for 'GTA VI'",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGVKb1plSE1rVlZUNVdkNHBQYzJZS0dIUlQ4bDQwSTFab25YSmNqbEpIZzA1TzZvZHN3SWVTODFwc2tqdGxTcVdLSWlVLUxhUzA0VDJYSXhPWlFyQ052bUpEWm9CTDYwdzhGMktBaFVKRGtVX2kyZ1ZmeWxCVFVUbUQ3T0d3ekpnNkkxeXlrNmpkdkJ1b2VSTzJwOG5IWURyMkxacmN2OEXSAa4BQVVfeXFMUHVXY2pHS3FURkx4N0lJOWN4VmJRQjhycWJkbUZQczVHZkYtczI5aHo1WFNuYVoyVUdydGw0bEN6WFZPM3JTN2djSXZPRjUzUXdfa2ZURFJtYzBxMER2UlZabGpNY0dVUlhZWHJRRzUyWFNGc3YtVVo3MklSNGNuYThpVGI4YlVDUlpyc0sxSXM5X21yd25MVnRtb3U5eEZHZEdYU3VKWXBLaTJvWmFR?oc=5",
+   "outlet": "upi",
+   "via": "Google News",
+   "published": "2026-11-19T17:24:21+00:00",
+   "seen": "2026-11-19T17:35:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "UPI covers a school drawing aimed at discouraging skipping for GTA VI."
   },
   {
    "id": "you won t find this fan favorite feature in gta 6",
@@ -274,6 +352,19 @@
    "ai_summary": "GTA 6 includes a question of whether to defuse or provoke Mandy in Pipework."
   },
   {
+   "id": "gta 6 could be the closest we ll get to a true romance sequel",
+   "title": "GTA 6 Could Be The Closest We'll Get To A True Romance Sequel",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QY3E4Q3ZNZ3BnNnRRb0dtdG1ieVBRdnVwbDVCcUlRZmF5bGkzR1M5QUNKQzJxS2RMa2xhcDVzakhpR25VMVZ6dFIyajgxWnZGc1dIalhyYlJOTk9nVFVocVczSXljUlVKMGsw?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-19T17:16:19+00:00",
+   "seen": "2026-11-19T17:35:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "ScreenRant suggests GTA 6 might be the closest thing to a true Romance sequel."
+  },
+  {
    "id": "grand theft auto vi releases to much fanfare rave reviews",
    "title": "Grand Theft Auto VI Releases To Much Fanfare, Rave Reviews",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPNXl1YW1vSTVkNTktSERsN1JiZWN5aFJXZUlJSUtfTnFuRUp4TkhRTmxWS3d6WHozXzRRSTVxanpQUGlXU05Tbm5qOUFSZUEyWHhIWDk2cFN4UVJNMi1Jc01LQXdkbWVYdWV0Wks0RWFmcnQxLTRRaw?oc=5",
@@ -285,6 +376,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "Grand Theft Auto VI releases to much fanfare and rave reviews."
+  },
+  {
+   "id": "gta 6 on switch 2 digital foundry weighs in on the possibility",
+   "title": "GTA 6 On Switch 2? Digital Foundry Weighs In On The Possibility",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXZSM2dPckNuRzREX204MF9kcFFSRDF2YjNnbnlaOGNEWFp1dUlqQXVCazB0cEl3bXpnMmo5MWFIOFI5VkdEUm1WR29kTktVYXRyTVRDa1BRYXpmVFYwR1dkVEhjSmt0UzRHRXp3dXBJa3R5TXVJQ1A4NnJ0MndlUERSNjNDYk9rZmFjSTJIb0pzTXJVWlVNemEtT1piNTcwTU5nd1A4QQ?oc=5",
+   "outlet": "Nintendo Life",
+   "via": "Google News",
+   "published": "2026-11-19T17:15:00+00:00",
+   "seen": "2026-11-19T17:35:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Nintendo Life reviews Digital Foundry's take on GTA 6 potentially coming to Switch 2."
   },
   {
    "id": "gaming gta vi japan",
