@@ -54,6 +54,12 @@ nav.top a:hover, nav.top a.on { color: var(--text); }
 .hstat b { display: block; font-family: var(--display); font-weight: 900; font-stretch: 80%; font-size: clamp(40px, 6vw, 64px); line-height: 1; }
 .hstat span { display: block; font-size: 15px; color: var(--muted); margin-top: 8px; line-height: 1.35; }
 .snap { margin-top: 28px; }
+.hero-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 500px); gap: 40px; align-items: center; margin-bottom: 40px; }
+.hero-grid .thesis { margin-bottom: 0; }
+.hero-grid h1 { font-size: clamp(56px, 8vw, 128px); }
+.hero-reel { margin: 0; border: 1px solid var(--haze); border-radius: 16px; overflow: hidden; background: var(--night); box-shadow: 0 30px 80px rgba(0, 0, 0, 0.55); }
+.hero-reel video { display: block; width: 100%; aspect-ratio: 16 / 9; background: var(--night); }
+.hero-reel figcaption { display: flex; justify-content: space-between; gap: 12px; padding: 10px 14px; font-family: var(--mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); background: var(--dusk); }
 
 /* ticker */
 .ticker { border-bottom: 1px solid var(--haze); overflow: hidden; white-space: nowrap; background: var(--dusk); }
@@ -174,6 +180,7 @@ summary { cursor: pointer; padding: 16px 0; font-weight: 700; font-family: var(-
 footer { padding: 48px 0 80px; color: var(--muted); font-size: 14px; }
 
 @media (max-width: 900px) {
+  .hero-grid { grid-template-columns: 1fr; gap: 28px; }
   .grid2, .score-wrap { grid-template-columns: 1fr; }
   .grid3, .features, .ideas { grid-template-columns: 1fr; }
   .timeline { grid-template-columns: 1fr; gap: 20px; }
@@ -217,8 +224,16 @@ footer { padding: 48px 0 80px; color: var(--muted); font-size: 14px; }
   <canvas id="sky" aria-hidden="true"></canvas>
   <div class="wrap">
     <p class="kicker">Launch-day data story · Thursday 19 Nov 2026</p>
-    <h1>The first 12 hours of <span class="grad">GTA VI</span></h1>
-    <p class="thesis">In half a day, Rockstar's game set records for attention, acclaim and demand at once.</p>
+    <div class="hero-grid">
+      <div>
+        <h1>The first 12 hours of <span class="grad">GTA VI</span></h1>
+        <p class="thesis">In half a day, Rockstar's game set records for attention, acclaim and demand at once.</p>
+      </div>
+      <figure class="hero-reel">
+        <video id="trailer" src="trailer/gta6-live-trailer-720p.mp4" poster="trailer/poster.jpg" autoplay muted loop playsinline controls preload="metadata" aria-label="30-second trailer for the GTA VI live newsroom"></video>
+        <figcaption><span>Trailer · 0:30</span><a href="trailer/gta6-live-trailer.mp4">Watch in 1080p</a></figcaption>
+      </figure>
+    </div>
     <div class="hero-stats">
       <div class="hstat"><b class="grad num" data-count="7.89" data-dec="1" data-suf="M">7.9M</b><span>people watching live at once, 4.5× the previous game-launch record</span></div>
       <div class="hstat"><b class="grad num">99</b><span>Metascore, tied for the highest ever, with zero mixed or negative reviews</span></div>
@@ -409,6 +424,8 @@ window.GTA_FEATURES = [
 <script>
 (function () {
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var trailer = document.getElementById('trailer');
+  if (reduce && trailer) { trailer.removeAttribute('autoplay'); trailer.pause(); }
 
   /* ---------- hero sky ---------- */
   var cv = document.getElementById('sky');
