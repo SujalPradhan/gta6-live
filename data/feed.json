@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:16:51+00:00",
- "started": "2026-11-19T22:16:44+00:00",
+ "updated": "2026-11-19T22:21:53+00:00",
+ "started": "2026-11-19T22:21:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T22:16:44+00:00"
+   "hits": 97,
+   "checked": "2026-11-19T22:21:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T22:16:45+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T22:21:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T22:16:45+00:00"
+   "checked": "2026-11-19T22:21:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T22:16:46+00:00"
+   "checked": "2026-11-19T22:21:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T22:16:46+00:00"
+   "checked": "2026-11-19T22:21:48+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T22:16:46+00:00"
+   "checked": "2026-11-19T22:21:48+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T22:16:46+00:00"
+   "checked": "2026-11-19T22:21:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T22:16:46+00:00"
+   "checked": "2026-11-19T22:21:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T22:16:46+00:00"
+   "checked": "2026-11-19T22:21:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T22:16:47+00:00"
+   "checked": "2026-11-19T22:21:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T22:16:47+00:00"
+   "checked": "2026-11-19T22:21:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T22:16:47+00:00"
+   "checked": "2026-11-19T22:21:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T22:16:47+00:00"
+   "checked": "2026-11-19T22:21:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T22:16:47+00:00"
+   "checked": "2026-11-19T22:21:51+00:00"
   }
  },
  "items": [
@@ -116,6 +116,32 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI is putting online streamers in the spotlight."
+  },
+  {
+   "id": "analyst says gta vi could sell 30m copies by march maybe december",
+   "title": "Analyst says 'GTA VI' could sell 30M copies by March, maybe December",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXRzdDBVUC1qNDJpN2xTVXMyMWVpZ2h2Uzl2ckoxSkl2NVJ4Z2oxNDUwQ1FsU05Ubkd4WUU0VE1MOWtzTnVNbEdiTmRkeGptM0lodkVjZzFUUzdHUVlsclVRTlBCbXY0RURFYmFtY0QyMXhuWHJKTlVaMHIteWM2ZENtaEN1LWpQZDV3RnJJUGVfaVFmTklwUncwdkZoamlnazhQemczUzg2T01MU1hyak5iUHY0dw?oc=5",
+   "outlet": "Yahoo Finance UK",
+   "via": "Google News",
+   "published": "2026-11-19T22:13:57+00:00",
+   "seen": "2026-11-19T22:21:47+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "An analyst suggests GTA VI could sell a large number of copies by March, possibly by December."
+  },
+  {
+   "id": "gta 6 has a radio station hosted by weird al yankovic",
+   "title": "GTA 6 Has A Radio Station Hosted By 'Weird Al' Yankovic",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSFBXN19JSHpZOWhmczV3TGM4bG84dnVRSnJXWV96VFdNcG54d1R5dl91LWRzR3NTZWFDbm9DSTh0NFNlanJrTXloUmFxRHpsOGZCWkNrbXJ2QVRnM1RrN0tJQnhlWHdsck1lRzViTnF6bDFNVUF1NWtwWTVqRXVQb0tVb0s2WnFnRlNkWjhmZFZZbExQV2xWMHFCSEZkeG00cEl5TQ?oc=5",
+   "outlet": "Power 100.9",
+   "via": "Google News",
+   "published": "2026-11-19T22:10:00+00:00",
+   "seen": "2026-11-19T22:21:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 features a radio station hosted by Weird Al Yankovic."
   },
   {
    "id": "gta vi rockstar games discuss mission design",
@@ -261,6 +287,19 @@
    "ai_summary": "The story reports that GTA VI glorifies killing and says that's okay."
   },
   {
+   "id": "gta vi becomes best reviewed video game of all time",
+   "title": "'GTA VI' becomes best-reviewed video game of all time",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmgwV3JuZEZfXzJRQzBwdy1lbDZmVDNyWFZHNjhKNTBlT2pWcU5UdXhfOVA4OWJZb0VpdG5SRll6OFE3aThQZ01ELVRENVVLM0xqNlhYME5tZU9aSGoyZy01d0NRcmRCRTFfb3k0VVVsR2tUeVFXVko2aHRrMGhLZU9sdFBONnRGZWNrYTJVa1RfRDRnZWNQWE1YSWFKWVU?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T21:55:26+00:00",
+   "seen": "2026-11-19T22:21:47+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "GTA VI is claimed to be the best-reviewed video game of all time."
+  },
+  {
    "id": "gta vi easter egg players find dexter morgan s apartment in game",
    "title": "GTA VI Easter Egg: Players Find Dexter Morgan’s Apartment In-Game",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkRpRkd2cWZZMUdZRGlzVkxfUjE1dWtPYnEwR3ZoTUE0RGtONWo2eFFJVnFBMEtnaXphTjRaalJQWThheENJWkVocmdQMGcxbW5kVVBNdVNIVkIwMk1qbWhkdnJGR3ZnRmxOa3k5NzhPZUhaOG9mSU11bmlTd0d4V200YTJqbWpGNHFab3RleENMa1ppWXc?oc=5",
@@ -300,6 +339,19 @@
    "ai_summary": "The story reports that GTA VI reveals the actors, voices and familiar names behind Vice City."
   },
   {
+   "id": "gta 6 has lamine yamal in it character s appearance has players looking for answers",
+   "title": "GTA 6 has Lamine Yamal in it? Character’s appearance has players looking for answers",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkF6RFktb0RpTjBzUXpsWkN3dE5aUHdocWRTbnI5aXhyYVBHTklxQkh6YUU5dTFBS0EwTDR6SHhVWnFiQzZDSE84cWJnUldFOElDTHJBbnQ5M05TaXNkT01qMlFUU194VGxTck1UWTdiTmU5RDZkeVlvTzdKTVRNdDhtTEdiNWF4TlNCQ0hiZGVSLUN1Qi1PaHlWeHpnSXY5c05ZV2lMQ2p6WmxLUW45Q3JqbEVCU1FUcEN5czlKb2RJcmo3OWhKTTlraDUtTjU1QzhSOTFJZmtEd9IB2gFBVV95cUxQdHFQTHlZakhHSERqVVZaNnNicC0ydFoyZFl4Q1Vvcmoya3R2TmdGaDhVRUVlQ1VuS25DTFZyT093R18xNXZXVDAzb0dpUzNWWXZKb0tRZUJhVkh5dGg4VXBreXFaRkh6QVJ5dWEtOVZTaC1UUHpBZEJSYnYzNl8taWdJZWNrUFppM2l5djFHZ3J4R3R5ZHJYeHNTUFRrck9SdmRYY1RkVlk3ajNNck9vakI3RXdQaGZFM3p1cmxHM0dzZl9VdGRxWlRqZjJRSFU4WEp5UWhBcXNPZw?oc=5",
+   "outlet": "MARCA",
+   "via": "Google News",
+   "published": "2026-11-19T21:47:55+00:00",
+   "seen": "2026-11-19T22:21:47+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Lamine Yamal is rumored to appear in GTA 6, prompting questions about the character’s appearance."
+  },
+  {
    "id": "grand theft auto vi goes on sale 13 years after grand theft auto v",
    "title": "Grand Theft Auto VI Goes on Sale, 13 Years After Grand Theft Auto V",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVENGV1ZFOU5JR3ZyQ3JmX29NQjVyY1ZnNEhIRHlocl8za3BKTjV6OVZXT2FkVGNNbHQwcl9sOUJlTlJRNFNJQnU0aEktUHRSYW9ialprcWZOQW5Gc2s1bjVCeHFabGhBcHNGeUJOSmZFR2lQVTZ2Ym0yN3Ryd0p2Yl9HVlZscERfdnNsUDFHcDlqcWQ1V2N1TVlGbU1rS2hadFdhbFhFeWU0UUprSUVpUVdR?oc=5",
@@ -337,6 +389,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that Grand Theft Auto VI launches after a 13-year wait and aims for record-breaking sales."
+  },
+  {
+   "id": "gta 6 has a hidden fast and furious easter egg you should find asap",
+   "title": "GTA 6 Has A Hidden Fast And Furious Easter Egg You Should Find ASAP",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43UWVhN1VhTl8yUWN6WkxzSEw2NGlXWTJHTVlOb25FWHVOTy1STml5TG9pc1pUQktHQmlyWUFmcGVVaGVpejZ6VUxmSWFhQmh5Nm12aEFKd0kzbTdkU2Z0T1A5dk5FMUtJRHQ3Q3NKNFVCWUVjbVhyTWhvWDJmODQ?oc=5",
+   "outlet": "BGR",
+   "via": "Google News",
+   "published": "2026-11-19T21:46:24+00:00",
+   "seen": "2026-11-19T22:21:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 reportedly includes a hidden Fast and Furious Easter egg that players should find."
   },
   {
    "id": "michigan gamers explain why they re taking time off work for gta 6",
