@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:05:43+00:00",
- "started": "2026-11-19T19:05:34+00:00",
+ "updated": "2026-11-19T19:10:44+00:00",
+ "started": "2026-11-19T19:10:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T19:05:35+00:00"
+   "checked": "2026-11-19T19:10:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T19:05:35+00:00"
+   "checked": "2026-11-19T19:10:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-19T19:05:36+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T19:10:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:05:36+00:00"
+   "checked": "2026-11-19T19:10:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:05:36+00:00"
+   "checked": "2026-11-19T19:10:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T19:05:36+00:00"
+   "checked": "2026-11-19T19:10:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T19:05:37+00:00"
+   "checked": "2026-11-19T19:10:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T19:05:37+00:00"
+   "checked": "2026-11-19T19:10:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T19:05:37+00:00"
+   "checked": "2026-11-19T19:10:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T19:05:38+00:00"
+   "checked": "2026-11-19T19:10:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T19:05:38+00:00"
+   "checked": "2026-11-19T19:10:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T19:05:38+00:00"
+   "checked": "2026-11-19T19:10:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T19:05:38+00:00"
+   "checked": "2026-11-19T19:10:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T19:05:38+00:00"
+   "checked": "2026-11-19T19:10:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "here s how many soldiers took the army s gta vi deal",
+   "title": "Here's how many soldiers took the Army's GTA VI deal",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQndrZ0xEZENVQUlSM1dVNkRkaHBYUkpRMVcwYmxnejJudDNEbndCS2VLVFVfQktkcnp2a1IwWG1lMi1LNmF6NEk3YW9rMGdWc3gybVVtSjQ3S3RuX2ZYSVR3cEtsNjlROF9tag?oc=5",
+   "outlet": "Axios",
+   "via": "Google News",
+   "published": "2026-11-19T19:07:50+00:00",
+   "seen": "2026-11-19T19:10:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports on how many soldiers took the Army's GTA VI deal."
+  },
+  {
+   "id": "texas police to grand theft auto vi players keep it in the game san antonio express news",
+   "title": "Texas police to Grand Theft Auto VI players: 'Keep it in the game' - San Antonio Express-News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUjc0MGg5dloxbFF0ZnRhbmhxREJYTnVhUGJoekoxR1BIdDRNb1VJRHM0WXdRTmxPMlpac3ZaT1BIa2Jzc0RHMi1lOWl1N055V2FkLXdrQzNPXzVfZEkwLWk5ZWw2QUluQUVTbnZGSE5UWE1mbUh3NE9SYWZVcm5HUUtlNF85akdiTUlhcGNXcw?oc=5",
+   "outlet": "San Antonio Express-News",
+   "via": "Google News",
+   "published": "2026-11-19T19:07:22+00:00",
+   "seen": "2026-11-19T19:10:37+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Texas police tell Grand Theft Auto VI players to keep it in the game."
+  },
+  {
+   "id": "umpg lands 250 songs in grand theft auto vi",
+   "title": "UMPG Lands 250+ Songs in \"Grand Theft Auto VI\"",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSlRQamNIRGlpM2ZMMmxtSkpJQkdGc0t5bGl1VEg2Qmk1YmlwMlBoV0pwQnVuRVg3cmVuWnBVaXRVdThMaEZZaXBrT0UxeHdKUDl1M3YtNmNSWmZ3UlFudnZGZVZzdVZRVTlHQ0psZUZrd2tVUmt6dlhNOEU3ckVzREI0VElDSmxJc05CaVd3?oc=5",
+   "outlet": "Hits Daily Double",
+   "via": "Google News",
+   "published": "2026-11-19T19:05:03+00:00",
+   "seen": "2026-11-19T19:10:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "UMPG has landed over 250 songs in Grand Theft Auto VI."
+  },
   {
    "id": "what i saw playing 170 hours of grand theft auto vi before everyone else",
    "title": "What I saw playing 170 hours of ‘Grand Theft Auto VI’ before everyone else",
@@ -129,6 +168,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "The story claims GTA 6 is the most popular game across Twitch and Kick since its release."
+  },
+  {
+   "id": "gta 6 all strip club locations",
+   "title": "GTA 6: All strip club locations",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMUy1yZVhTQzFpcXZHeG1QTGN0R3U2dFU5NTBpZEFJcUgzeUFCNllwYkJUeTJXRV81VEc0Z0dzQ2lManJ6ZTV1YkJES2lEbjcyQkFjSE1JT1NRMVFPQVVVQkZQM3REdWhMT2k0?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-19T18:59:00+00:00",
+   "seen": "2026-11-19T19:10:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides all strip club locations in GTA 6."
   },
   {
    "id": "grand theft auto vi finally arrives",
