@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:09:20+00:00",
- "started": "2026-11-19T15:09:12+00:00",
+ "updated": "2026-11-19T15:14:27+00:00",
+ "started": "2026-11-19T15:14:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T15:09:13+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T15:14:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T15:09:13+00:00"
+   "checked": "2026-11-19T15:14:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T15:09:14+00:00"
+   "checked": "2026-11-19T15:14:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T15:09:14+00:00"
+   "checked": "2026-11-19T15:14:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T15:09:14+00:00"
+   "checked": "2026-11-19T15:14:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T15:09:14+00:00"
+   "checked": "2026-11-19T15:14:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 35,
-   "checked": "2026-11-19T15:09:15+00:00"
+   "checked": "2026-11-19T15:14:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:09:15+00:00"
+   "checked": "2026-11-19T15:14:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T15:09:15+00:00"
+   "checked": "2026-11-19T15:14:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T15:09:15+00:00"
+   "checked": "2026-11-19T15:14:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:09:16+00:00"
+   "checked": "2026-11-19T15:14:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T15:09:16+00:00"
+   "checked": "2026-11-19T15:14:23+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T15:09:16+00:00"
+   "checked": "2026-11-19T15:14:23+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T15:09:16+00:00"
+   "checked": "2026-11-19T15:14:23+00:00"
   }
  },
  "items": [
+  {
+   "id": "podcast special your gta 6 questions answered after 150 hours of gameplay",
+   "title": "Podcast special: Your GTA 6 questions answered after 150 hours of gameplay",
+   "link": "https://www.videogameschronicle.com/blog/podcast/podcast-special-your-gta-6-questions-answered-after-150-hours-of-gameplay/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T15:13:37+00:00",
+   "seen": "2026-11-19T15:14:18+00:00",
+   "summary": "We answer VGC readers' questions about all things Grand Theft Auto 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story answers readers' questions about all things Grand Theft Auto 6 in a podcast special."
+  },
+  {
+   "id": "gta 6 is finally here how to buy and play grand theft auto vi",
+   "title": "GTA 6 is finally here. How to buy and play Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFZMNGhFbk12a3puSjBvMkRDWlZjb043VV91VU5tXzhSUWpYT2pKMGJmRnlGcFRwWWtTVVVSeDZwZVFFcmlnT2k2eW81eGk1Y0tXaFRaXzFUOVdtWWNxMklMUXh6Nkl0RWdxQVVGMTZmd1V2LTI4cl9yeU9ZNXZIWHNld0ttTWE2UlM5bzhlbzBRNlY0MWk3VWs2Q0s3SmRsQ01jV3pDZk9Kc1paY1puSjk2Sm9qd09VcHN1eGFhNnhZa2RNM0oyd0Q4SVg?oc=5",
+   "outlet": "Democrat and Chronicle",
+   "via": "Google News",
+   "published": "2026-11-19T15:10:00+00:00",
+   "seen": "2026-11-19T15:14:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides guidance on how to buy and play Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 launch breaks internet usage records twitch and other livestream viewership reaches nearly 8 million in first hours of release",
+   "title": "‘GTA 6’ Launch Breaks Internet Usage Records; Twitch and Other Livestream Viewership Reaches Nearly 8 Million in First Hours of Release",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmFqRFliSG9zd1JuQmZuMmpIb0I0ZFM0b2NuSWVBZnVGR3FyWGxIOUpsQkZ2ZjRLZFh2ckN4Tm1qVUt5RE1SMFFSNEZKMGRQR0RtOU81Qmk1MnZyOE9rT01tcnV1ZzN5aWdfVDB5QktTdGdFbEVka24xZ3U0MzJTeGhQRFc3OE9BcEk3ajJLYW8yWnNibkJKY196Rm1KclE?oc=5",
+   "outlet": "Variety",
+   "via": "Google News",
+   "published": "2026-11-19T15:09:00+00:00",
+   "seen": "2026-11-19T15:14:16+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 launch broke internet usage records, with high livestream viewership in the first hours."
+  },
+  {
+   "id": "where can i play gta 6 here s what rockstar s new game is like",
+   "title": "Where Can I Play GTA 6? Here’s What Rockstar’s New Game Is Like",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV21YUEIyOFJYNU9qV0FTSmR6ZUlNdzhHSTJDUWE0V3BhY2NfcVFqa2FETkowZE9zYklmbldLSExsQWpJRVl2ZXhsdlRfbXhMLUNTTmMyZTRJWkdHZGJJLXQ0UGo5NVREM19zWkU3TXBLR3ZKRHRwOVFqbU9ONjBsZXlBY2NSTmNTSk0tT0Zn?oc=5",
+   "outlet": "Revista Merca2.0",
+   "via": "Google News",
+   "published": "2026-11-19T15:07:17+00:00",
+   "seen": "2026-11-19T15:14:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains where to play GTA 6 and what the new game is like."
+  },
   {
    "id": "rockstar reveals full gta 6 cast list finally ending speculation about who plays jason duval in the game",
    "title": "Rockstar reveals full GTA 6 cast list, finally ending speculation about who plays Jason Duval in the game",
@@ -144,6 +196,45 @@
    "ai_summary": "Players discover Dexter Morgan’s apartment and his signature killing tools in Vice City."
   },
   {
+   "id": "pupils warned not to skip school to play gta 6",
+   "title": "Pupils warned not to skip school to play GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWQxdzd2TGZzdWk5eUc0VDk3ekdmN2Z1VjBEcmJSWWw3WnZZMWFpMEZ6UDVsZk1vd0lfWEZlSUxjNGZWekJTM1F5Q0NETTdwT09YelE5THNaNFA0M1dpUjZSblFqWjNha2d4c1htaFRUM2lYQmhyZnlWWGlxTDNuOHFDelRpak82RmhybzJ2VQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-19T15:03:29+00:00",
+   "seen": "2026-11-19T15:14:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story warns pupils not to skip school to play GTA 6."
+  },
+  {
+   "id": "bristol and gloucestershire schools warn over grand theft auto vi",
+   "title": "Bristol and Gloucestershire schools warn over Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45QzlTN0ZCY0dWc2E0M2daOU85cnh5WEJveG5JRnd4clhpcGlHNHE5VmhheFdRRHFLa3hKRnpHN0NwYmwyeklydmd1RFcyQTlZbDM5VlBnVDNVRlk?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-19T15:03:24+00:00",
+   "seen": "2026-11-19T15:14:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Bristol and Gloucestershire schools warn over Grand Theft Auto VI."
+  },
+  {
+   "id": "liverpool echo news i could ve stayed on longer but i need my sleep after years of anticipation gta 6 is finally here calving missing was up",
+   "title": "Liverpool Echo News. . 'I could've stayed on longer, but I need my sleep' 🥱 🎮 After years of anticipation, GTA 6 is finally here. Calving Missing was up bright and early outside Smyths on New Mersey Retail Park in Speke, where he was hoping to get his hands",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWGVEN0FubnVURjlxdWx4SGZOd0lmdkg2N3NsajVUQlNpNHpQWGNPVVFzQ0Rsb1NGQUVocDhmbEpuV2RtWE43dHpiN0pDd2xKTjJFRlQwZGF3NHpPS2EzTFdBSWtBaUVtZWJQRXFaeGljcGdBeHpjcEVEVmI1NmJZLTNOTE4wellwLTdmQlpPVjV5TEZRUjczcF9KQW95NmRqalcwRTNTcmlGYXZ0UnBRZi0td0I4WE1RUnVSbVllZzQ5c2xqOFBJY2l3azdfM2RzblM5Z0xEdjlyQVJQRV8zNw?oc=5",
+   "outlet": "Facebook",
+   "via": "Google News",
+   "published": "2026-11-19T15:02:27+00:00",
+   "seen": "2026-11-19T15:14:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes a fan outside a retailer ahead of GTA 6 release with comments about staying up late for sleep."
+  },
+  {
    "id": "gta 6 has full playable console games made by a dev team within the dev team",
    "title": "GTA 6 Has Full Playable Console Games Made By A ‘Dev Team Within The Dev Team’",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFNwTjViY3JlYUJwVGZmOGhRX0p2NDVNYWZGMzhmb201WVZNZWRtVHk1VVctV2RnV3pjcnR2RC1SZm9YMUV3bmJHemJHMzJvblo4QzJHcFEzanljTnN5V0txVXVjaUtCWDYtVU5OTVNLR1BLcjI0ZlE4SmJ1YXhrcXJJT21FUnZUWC1oS2NjTmpRMUh0c29N?oc=5",
@@ -155,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 features a full playable console games developed by a dedicated dev team within the dev team."
+  },
+  {
+   "id": "gta 6 s jason and lucia actors spotted together in first photo",
+   "title": "GTA 6's Jason and Lucia Actors Spotted Together in First Photo",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWlaQWFGNVlDaXBmWUlvTTE4QzZyS0FYUk82dHM2TjQxa2l1YTBKNjRjd0pZUTNhMWtYRkRXNk5jNHloY3E4OUxlU0t0c1JzOWM0QnB6UGczd0pIWHBKYlh2UjVYSi1hR3htdW94Rk1sZ0FuQUtrUXliNW9YM1FCQmJfMzN0Zy03eDN0cWNfeVV5UWFSeW1TZ2NYSkJ0Ujk2eW1oN29tWUh4NUJvM3ZzT293c3RSUnZYYkVlbzltOA?oc=5",
+   "outlet": "IGN Southeast Asia",
+   "via": "Google News",
+   "published": "2026-11-19T15:00:23+00:00",
+   "seen": "2026-11-19T15:14:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's Jason and Lucia actors were spotted together in a first photo."
   },
   {
    "id": "grand theft auto vi frenzy highlights digital infrastructure insurance risks",
@@ -2443,6 +2547,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Nike rides the GTA 6 hype; questions about its stock price relief arise."
+  },
+  {
+   "id": "gta 6 broke records on live streaming platforms",
+   "title": "GTA 6 broke records on live streaming platforms.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXJuQ29XXzR1cmpNY3ZpZklzNllxZUJITXc0X20tTDFGZGtwVkdqYTNGUFo4enNQRm1rXzF2N3dlVk9ZX1FtWWdicmRKUjlFNGJ3NzZmUEZmYTJiQ2JhanFJRDIxekdNcmxKZ05TZ1RndzRMYzR2Z0JVaUd1NHlFZDRzb1g3enE5Zm82WUZB?oc=5",
+   "outlet": "virus.hr",
+   "via": "Google News",
+   "published": "2026-11-19T12:05:00+00:00",
+   "seen": "2026-11-19T15:14:17+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story states that GTA 6 broke records on live streaming platforms."
   },
   {
    "id": "gta 6 smashes records with nearly 7 9 million concurrent viewers",
