@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:29:05+00:00",
- "started": "2026-11-19T14:28:57+00:00",
+ "updated": "2026-11-19T14:34:09+00:00",
+ "started": "2026-11-19T14:34:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T14:28:57+00:00"
+   "checked": "2026-11-19T14:34:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T14:28:58+00:00"
+   "checked": "2026-11-19T14:34:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T14:28:58+00:00"
+   "checked": "2026-11-19T14:34:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:28:59+00:00"
+   "checked": "2026-11-19T14:34:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:28:59+00:00"
+   "checked": "2026-11-19T14:34:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T14:28:59+00:00"
+   "checked": "2026-11-19T14:34:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-19T14:29:00+00:00"
+   "checked": "2026-11-19T14:34:04+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T14:29:00+00:00"
+   "checked": "2026-11-19T14:34:04+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T14:29:00+00:00"
+   "checked": "2026-11-19T14:34:04+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T14:29:00+00:00"
+   "checked": "2026-11-19T14:34:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T14:29:01+00:00"
+   "checked": "2026-11-19T14:34:05+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T14:29:01+00:00"
+   "checked": "2026-11-19T14:34:05+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-19T14:29:01+00:00"
+   "hits": 4,
+   "checked": "2026-11-19T14:34:05+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T14:29:01+00:00"
+   "checked": "2026-11-19T14:34:05+00:00"
   }
  },
  "items": [
+  {
+   "id": "six things you should do now to optimize your setup for gta 6",
+   "title": "Six Things You Should Do Now to Optimize Your Setup for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXp5alluSFhSeWF4SG5ubV9TZ2ZVcGU3VHV4bnJRUWxvQU96RUYybE5XdTJBcS1XOFNTOHVVbUtxenMxaC13bm0xaS0tY3ZLWGVkS0YzbkFEQlV6Y2Vudlo1aS1nRUlzNjhQRHJsWjZzeGN4LXp6aGpBWXk4VTF5bDVvZUtWY0ZBb2NiN1g1T1diQ1p3al84Zk9ab2RqTU82Mk8zaklLRXRxUQ?oc=5",
+   "outlet": "Lifehacker",
+   "via": "Google News",
+   "published": "2026-11-19T14:30:00+00:00",
+   "seen": "2026-11-19T14:34:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story offers tips to optimize your GTA 6 setup."
+  },
+  {
+   "id": "is gta 6 available on mac or apple tv",
+   "title": "Is GTA 6 Available on Mac or Apple TV?",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQ2tMaDVkc2Y5T3BzZjZGMTVETmw1dDRvdmlUa2Q2LURhUTFGQ0dfa2xiQ2x1Y0V2dm93N280N09CejlIakdKSThqbDhVWmFZM1A2WWdUcTE0Ml9Lc0xFYWRWZG01N196eDdPWlBUUll3aGh0MFE?oc=5",
+   "outlet": "MacRumors",
+   "via": "Google News",
+   "published": "2026-11-19T14:29:48+00:00",
+   "seen": "2026-11-19T14:34:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 is available on Mac or Apple TV."
+  },
   {
    "id": "gta 6 debuts at 99 on metacritic tying ocarina of time s all time record",
    "title": "GTA 6 debuts at 99 on Metacritic, tying Ocarina of Time’s all-time record",
@@ -324,6 +350,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Closing statements in Rockstar and IWGB's employment tribunal case about GTA 6 allegedly union busting have been read; verdict timeline is unclear."
+  },
+  {
+   "id": "ksr today prepping for indiana and missouri gta vi is out and end of season honors",
+   "title": "KSR Today: Prepping for Indiana and Missouri, GTA VI is out, and end-of-season honors",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEVuOUJDcTlWd2w2NWJnQllDd0dhc2RvMzhuWUkydlhtTC1lazhIV3dnY1VfelpXM1BiMHdaV3pIMTFhSmIwd1Y5V0xyMWk1UnlDeFhMaE9XbW5yQjR6alY0NXowejlGV2pOYVhTb25FZ0RpaXJSNjhuS0kxVjZJYXZxZkhpT1lWeFBNWW1lUzQtRl9MRUEwWFM5YTBFLVNhMG1Gbno4Y1FSZ25MQ0lfWWNadmhEX29WXzhoakkydXp0ZFNKRllYWXJOR0s?oc=5",
+   "outlet": "On3",
+   "via": "Google News",
+   "published": "2026-11-19T14:08:06+00:00",
+   "seen": "2026-11-19T14:34:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story recaps KSR Today about prep for Indiana and Missouri, GTA VI release, and end-of-season honors."
   },
   {
    "id": "the gta vi effect how marketers can navigate the biggest gaming moment of the decade",
@@ -1377,6 +1416,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Grand Theft Auto VI release is already breaking records."
+  },
+  {
+   "id": "fans swarm to play grand theft auto vi",
+   "title": "Fans swarm to play \"Grand Theft Auto VI\"",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CY2RuZWE1LXluY2tSWUlsYUl1aUlubEZaQXN1d2c3VURmNHFHd3BGWU1vdjJtRDJ1TkZwSHgtMmhKNDhZRE1lSW9xeXYxQ0JlNERCb2dkTXBrTFJ6VlRBVzJlNW9EbHJsOTE2QVh3UHhmZU5IWGszYg?oc=5",
+   "outlet": "CBS News",
+   "via": "Google News",
+   "published": "2026-11-19T12:32:00+00:00",
+   "seen": "2026-11-19T14:34:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports fans gathering to play Grand Theft Auto VI."
   },
   {
    "id": "as digital only gta 6 smashes records gamestop ceo says move from physical copies hurt consumers",
