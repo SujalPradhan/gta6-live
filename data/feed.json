@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:33:32+00:00",
- "started": "2026-11-19T12:33:21+00:00",
+ "updated": "2026-11-19T12:38:34+00:00",
+ "started": "2026-11-19T12:38:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,179 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T12:33:21+00:00"
+   "checked": "2026-11-19T12:38:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T12:33:22+00:00"
+   "checked": "2026-11-19T12:38:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T12:33:22+00:00"
+   "checked": "2026-11-19T12:38:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T12:33:22+00:00"
+   "checked": "2026-11-19T12:38:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 35,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T12:33:23+00:00"
+   "checked": "2026-11-19T12:38:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "welcome back to vice city gta vi launches after 13 years",
+   "title": "Welcome back to Vice City: ‘GTA VI’ launches after 13 years",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWHcxTVBUSm1RMFpNT0Q1YUlmbkFfSm9WWk9BS2ROemFzU0paOE5VZDRURWpBZmtTNFJwQVotZTVRaFY3WFJOTjBPZm54MU9zSURpdGJvRDRNUWtHWjhCLUtnM3djcTVONm9RR1o1M24xcW5wai1xYmZUMjlRQmU4SFJSeG9qNmpZd0JSZ1VEX3Y4WWs5cGFV?oc=5",
+   "outlet": "ABC15 Arizona",
+   "via": "Google News",
+   "published": "2026-11-19T12:33:30+00:00",
+   "seen": "2026-11-19T12:38:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Vice City awaits as GTA VI launches after a long gap."
+  },
+  {
+   "id": "release of grand theft auto vi already breaking records",
+   "title": "Release of 'Grand Theft Auto VI' already breaking records",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeE9idFZ5VHRXQWZaeUZDb3JlbzViT1p4Yk95d2hYenE2VDBVN1VsWmpyU3ZoU3RadkxjVm1OM0ZQa2dwTWU4VjZGU2N3dmRoVGJKMFhGTFFQZFNTVDFQNzl1ZURBOElnUkg0ZzNQdjBPYjFseG5ab0xOT3Vha3pvVUdvdk5WUTJ0aWNOOUg3ampWUnI4SndHYnV6YXFDQ1dVaWFZa05jVmF4eXlYZHFFZzExcTZVbVg5WHdwdEw3M1JadmUyX0RjSjd1b3JMdU5q?oc=5",
+   "outlet": "WZZM13.com",
+   "via": "Google News",
+   "published": "2026-11-19T12:32:00+00:00",
+   "seen": "2026-11-19T12:38:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI release is already breaking records."
+  },
+  {
+   "id": "as digital only gta 6 smashes records gamestop ceo says move from physical copies hurt consumers",
+   "title": "As digital-only GTA 6 smashes records, GameStop CEO says move from physical copies \"hurt consumers\"",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/as-digital-only-gta-6-smashes-records-gamestop-ceo-says-move-from-physical-copies-has-hurt-consumers-as-they-should-be-able-to-sell-or-trade-purchases/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T12:31:38+00:00",
+   "seen": "2026-11-19T12:38:22+00:00",
+   "summary": "\"It's also hurt GameStop\"",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Digital-only GTA 6 is reported to be smashing records, with critics saying the move hurt consumers."
+  },
+  {
+   "id": "caviar releases gta 6 inspired galaxy z fold 8 ocean drive edition",
+   "title": "Caviar releases GTA 6-inspired Galaxy Z Fold 8 Ocean Drive edition",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3dqaVJfT1RZUnQyS19EaU9nM0piR3dTY0J2NEhhaFRFbnVPYl9XMGhOVVFJc2tKSG83OFpRMlZDYXNILVdiMVI3eGIxSTc2RjdKV0tiTjg4RW1IUmozR3U4bWttcm9CVDNXTU40WDBpX3FaREp2dW5RWktfOUF2eVlWcDVpQXNmZXdVNEQ5eWpOOFVpTjRqMVl6a3QyZUU?oc=5",
+   "outlet": "SamMobile",
+   "via": "Google News",
+   "published": "2026-11-19T12:30:00+00:00",
+   "seen": "2026-11-19T12:38:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Caviar releases a GTA 6-inspired Galaxy Z Fold 8 Ocean Drive edition."
+  },
+  {
+   "id": "gta 5 actor says he auditioned for over 60 gta 6 roles and never heard back from rockstar",
+   "title": "‘GTA 5’ Actor Says He Auditioned for Over 60 ‘GTA 6’ Roles and Never Heard Back From Rockstar",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0tBZWNjQjd4bTN3M0hISWhJRDRGMmN5ZnYzRnFJZWZ4QjVSVERsSnpMZk5VM2VIVzNmSjNrcDlybVU1NXMwd1JJYlVZOG90NXU4REMtMFhHUUFiZmJ1RHdYLWpJMGw2aUUxVzBUUVZGUmxlbWlsTy0zeFdJeHpIN3BoekV6QzVHcmlXVzFTRk5FRkd0LWJIS2tPSnl6czk4YnI2aEY5bFBlUkJlU1pTY204c0NzN3VtdVdDcVVzVQ?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-19T12:30:00+00:00",
+   "seen": "2026-11-19T12:38:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An actor says he auditioned for over sixty GTA 6 roles and heard nothing back."
+  },
+  {
+   "id": "uk joins in gta 6 frenzy as game becomes available worldwide",
+   "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ybG9CYlcyZVdMTE04RzFIbTRncGloOElTSGliUFl0bzBmVjg0VUsyUjkzcWZXYWhMNll0cWNMWW95ZXM4OHp3Zm94UEZleE1iT1J2R0w4MjlTd3gxc1hicnczTTF6cHAzZHFYdWdabw?oc=5",
+   "outlet": "Yahoo News New Zealand",
+   "via": "Google News",
+   "published": "2026-11-19T12:26:44+00:00",
+   "seen": "2026-11-19T12:38:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The UK joins the GTA 6 frenzy as the game becomes available worldwide."
+  },
   {
    "id": "gta 6 breaks valorant s record for most viewed video game livestream",
    "title": "GTA 6 Breaks Valorant’s Record for Most-Viewed Video Game Livestream",
@@ -324,6 +402,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Red Bull covers GTA 6 launch updates, including patch sizes, versions, and release dates."
+  },
+  {
+   "id": "nike is riding the gta 6 hype will its stock price see any relief",
+   "title": "Nike is Riding the GTA 6 Hype. Will Its Stock Price See Any Relief?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2xXRDU3R1VpdXVMRDNsSlh6ajJOOVlKcHNUeW5JSEVMODZDQk1xR1VFeUJ5YVVscU1OX2JSc3BvSXB6S3pfQ3hmZXVDbUdtWGx2SW12YWdnY2ZWd2RCNWZnVlE5cWtnWTBjVU52NzAyaTNyZ2sxdnQ2TXZ5OGJleXMweldISDRHY29IVHZoNzg?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T12:05:27+00:00",
+   "seen": "2026-11-19T12:38:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Nike rides the GTA 6 hype; questions about its stock price relief arise."
   },
   {
    "id": "gta 6 smashes records with nearly 7 9 million concurrent viewers",
@@ -1637,6 +1728,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article suggests there is a surprisingly human reason GTA 6's buildings look good."
+  },
+  {
+   "id": "one big reunion how gta vi has taken over the miami sports world",
+   "title": "‘One big reunion.’ How GTA VI has taken over the Miami sports world",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2Fxc1JXN2Zkb1k3QkFMaFNUNzlxTDdFOERXQTM2MGpnNS03bjBLY1lpblFhSkZwT1Jyb2RsaFNUdUZrR19NQ1RKNFRvc0ZqVzJmd2trU1VRVXk5U3p4R2Z4TDRxY3JmYkZPVERQdmhKVkNxeUFnaXFqU0tlSzhmTdIBgAFBVV95cUxPR2ZmNEtrQm9KclVFSzdFbE1fODl4c2ZJbGxHZnFQSUU4cXpVYnpyNVZPeUFGNzA0V1hBeFZjV1FLOWlMdDdzOGhobXJZNDJtVThLbDZoZV80WHBzS2NORV9naTZmTW1lTjM1RmdQOVlmOEtRZWlzX3hwNmNhVGlOcg?oc=5",
+   "outlet": "Miami Herald",
+   "via": "Google News",
+   "published": "2026-11-19T11:00:00+00:00",
+   "seen": "2026-11-19T12:38:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI has brought a major reunion to the Miami sports world."
   },
   {
    "id": "a rockstar game could be coming to hollywood and it s not gta 6",
@@ -3745,6 +3849,19 @@
    "ai_summary": "The article notes GTA 6 removes a major GTA V feature, marking a standout change."
   },
   {
+   "id": "gta 6 set to storm gaming world amid over 1bn pre sales hype",
+   "title": "GTA 6 set to storm gaming world amid over $1bn pre-sales hype",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlRkTW03OXI0SzJiZjZFeHIyUlF3amdYRTVSVnRLdGktWGFBVmlIalEyVTNVQXpyVjdRT3FmWjBUSy11Y2FybVdxbmtVRGdHMGE5YnM1M0hackJkaEZ1bG5VOTM4SnA0aWlrSk9MUFBHbG04ZEU3Ylh5bzlsOHZFT3NRMUhGbkp0MS0xeGx3RHR4UC1rVXZqaGdCTEZLX0ZkbW9ta25ENFp6Vkl4d0E?oc=5",
+   "outlet": "The Peninsula Qatar",
+   "via": "Google News",
+   "published": "2026-11-19T06:59:10+00:00",
+   "seen": "2026-11-19T12:38:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 set to storm gaming world amid high pre-sales hype."
+  },
+  {
    "id": "gta 6 bugs list all issues we found so far",
    "title": "GTA 6 Bugs List: All Issues We Found So Far",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTGxJbFZiZk1PMDNGeVdraWZMUDdONklydktuN3ZHNnNCT0owODFGSUhMaUdoSGRaSEt5cW9QcHV3Ylg5U3paNWlLbC1lZXRnRGZVWUZlTllSbTQwTG10NTFnZmlZenhZc2JVVQ?oc=5",
@@ -5303,6 +5420,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 is described as the highest-rated game of all time."
+  },
+  {
+   "id": "seven gta vi thoughts after eight hours with the game",
+   "title": "Seven GTA VI thoughts, after eight hours with the game",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zZDdKVjlNb1F1T1ZaMUNtc1NOeFBocm44cmxiRlBNVkhlamhYOTRMNzd6b0E3R1BlYVF6YkpxWDhGbmZ1ekhPQWdIUElBaTVNQXdnbHIyWXFjUzYyaDh0REFR?oc=5",
+   "outlet": "Game File | Stephen Totilo",
+   "via": "Google News",
+   "published": "2026-11-19T02:24:46+00:00",
+   "seen": "2026-11-19T12:38:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Seven GTA VI thoughts after eight hours with the game."
   },
   {
    "id": "gta 6 launch breaks two australian internet records in a week",
