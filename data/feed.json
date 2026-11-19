@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:24:49+00:00",
- "started": "2026-11-19T16:24:40+00:00",
+ "updated": "2026-11-19T16:29:51+00:00",
+ "started": "2026-11-19T16:29:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,167 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T16:24:41+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T16:29:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T16:24:41+00:00"
+   "checked": "2026-11-19T16:29:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T16:24:41+00:00"
+   "checked": "2026-11-19T16:29:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:24:42+00:00"
+   "checked": "2026-11-19T16:29:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T16:24:42+00:00"
+   "checked": "2026-11-19T16:29:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T16:24:42+00:00"
+   "checked": "2026-11-19T16:29:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 30,
-   "checked": "2026-11-19T16:24:43+00:00"
+   "hits": 29,
+   "checked": "2026-11-19T16:29:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T16:24:43+00:00"
+   "checked": "2026-11-19T16:29:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T16:24:43+00:00"
+   "checked": "2026-11-19T16:29:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T16:24:44+00:00"
+   "checked": "2026-11-19T16:29:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T16:24:44+00:00"
+   "checked": "2026-11-19T16:29:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T16:24:44+00:00"
+   "checked": "2026-11-19T16:29:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T16:24:44+00:00"
+   "checked": "2026-11-19T16:29:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T16:24:45+00:00"
+   "checked": "2026-11-19T16:29:47+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto 6 is a masterpiece witcher 4 and cyberpunk 2 boss says to rockstar",
+   "title": "Grand Theft Auto 6 is a \"masterpiece,\" Witcher 4 and Cyberpunk 2 boss says to Rockstar",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/grand-theft-auto-6-is-a-masterpiece-witcher-4-and-cyberpunk-2-boss-says-to-rockstar-it-is-unbelievably-hard-to-achieve-what-you-just-did/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T16:24:51+00:00",
+   "seen": "2026-11-19T16:29:45+00:00",
+   "summary": "Cyberpunk 2's director has called it a \"generational banger\"",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A director from Cyberpunk 2 calls GTA 6 a generational banger and a masterpiece."
+  },
+  {
+   "id": "gta 6 cast list includes potentially huge spoiler so be warned",
+   "title": "GTA 6 Cast List Includes Potentially Huge Spoiler, So Be Warned",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMW5RMGtueFZvSjI2VXVnSEtZdl9CZzc5cWVOeHFXcjAzLVBUQTNyVTBqWWZabTBaZGx3TFNHT3BsQWctZEEtYzJsQ3oyVkxCSWl4Yy1uTUo4QW5VR21Pa0pEaHhPRF80QWtVUFdzMmVTd2tNLWVWN0g1NFlPT2kxTWtRNzhTU3h5SnN3UTVhZHpTYWw2ZUt4VDJmSWFvZw?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-19T16:24:28+00:00",
+   "seen": "2026-11-19T16:29:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 cast list includes a potential spoiler warning."
+  },
+  {
+   "id": "in gta 6 the ultimate male fantasy is being a good boyfriend",
+   "title": "In GTA 6, the Ultimate Male Fantasy Is Being a Good Boyfriend",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1BjcFNZNFRXUW1nNDlZaTMxaVJoa2RNQjZiTE96b0pBOWMtMFNCSlptUkx0MjMzeV84WUU2WVZTSjAtR2pNM0lxSjJ4X1lSM3IwLVc4R0JrS2p0SVVPWlp6TGltLXRsaGw2ZW96bm55Z1Y1RTVMLTJhM2pmOGs0dU1YVlRreUJIVVc2UmE5dTZiLURjM3c5eXdR?oc=5",
+   "outlet": "Newsweek",
+   "via": "Google News",
+   "published": "2026-11-19T16:23:00+00:00",
+   "seen": "2026-11-19T16:29:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is portrayed as the ultimate male fantasy of being a good boyfriend."
+  },
+  {
+   "id": "gta 6 breaks league of legends twitch record more than 11 hours before us launch",
+   "title": "GTA 6 Breaks League of Legends’ Twitch Record More Than 11 Hours Before US Launch",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0FuVzdUMzZpT3ZXNUJxbzhHdEJScFpxYlVjZnFseVJnTnZ4QkdpNDJfZ1UxWVBGbkxkemxxTnpQMG5PbmVHdHZ1c0lGaV9EdUVfTWJSdllsaDJFclFHTTRaY2dCLWN1SUNtUk1NZkNIV2lyWlM2VHJfUEJIeERMZ1ljTXhTR3dGQmRyQTUtaGJaMGJaeXJpUjJOcEJCdHZ4OTRwTnlnVjYxdnEybDJ2NUE4cw?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-19T16:23:00+00:00",
+   "seen": "2026-11-19T16:29:43+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "GTA 6 breaks League of Legends’ Twitch record more than 11 hours before its US launch."
+  },
+  {
+   "id": "action 2 news senior producer reviews grand theft auto vi",
+   "title": "Action 2 News senior producer reviews Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObTYtQ2czcFR0MzBON0d5dGFZMEtYUEtHaGI2U2x4YzllZ3pqNkF0alotTzZxUkVfbWJwaUpTVG4ySndBazRybFBOS1RMeEhFNFBrWHpKcVhzd2k5bTdoVnZTNVRLTldlc09XU0JvdHRFdklzRFpOU0FPR1ZEZzhFeUNMRW5tel8zZVNPSlBZRERDb3B1d0RtbkFXZ2E?oc=5",
+   "outlet": "WSMV",
+   "via": "Google News",
+   "published": "2026-11-19T16:20:00+00:00",
+   "seen": "2026-11-19T16:29:42+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "Action 2 News senior producer reviews Grand Theft Auto VI."
+  },
   {
    "id": "gta vi launch rockstar s 1 5 billion blockbuster eyes biggest video game debut",
    "title": "GTA VI launch: Rockstar’s $1.5 billion blockbuster eyes biggest video game debut",
@@ -389,6 +454,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Today is the last day to order GTA VI to receive the Free Vintage Vice City Pack."
+  },
+  {
+   "id": "gamers celebrate long awaited release of grand theft auto vi",
+   "title": "Gamers Celebrate Long-Awaited Release of Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXl6WnpHVmNtcWVnbzJ5RWxlUFRyRVY0V3BOdzBRUy1USlVHTnAtVVpYOFd3Q0FHU1NTVnRYUXRUckd2OWV5YjRCOVpsdDlDX3NPVTJXVUdnNXJDVkFvRVk0d2xIT2hmQk9yNFRucXhxbjhPVGFpQll4MmNTMW1INV9lcTRyV0N6dDVsbkRLZWZoMmpBNEoyeDFwMnU?oc=5",
+   "outlet": "Floridian Press",
+   "via": "Google News",
+   "published": "2026-11-19T15:59:15+00:00",
+   "seen": "2026-11-19T16:29:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gamers celebrate the long-awaited release of Grand Theft Auto VI."
   },
   {
    "id": "gta vi finally hits the streets",
