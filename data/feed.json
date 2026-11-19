@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:26:16+00:00",
- "started": "2026-11-19T20:26:09+00:00",
+ "updated": "2026-11-19T20:31:22+00:00",
+ "started": "2026-11-19T20:31:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T20:26:10+00:00"
+   "checked": "2026-11-19T20:31:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T20:26:10+00:00"
+   "checked": "2026-11-19T20:31:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T20:26:11+00:00"
+   "checked": "2026-11-19T20:31:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T20:26:11+00:00"
+   "checked": "2026-11-19T20:31:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T20:26:11+00:00"
+   "checked": "2026-11-19T20:31:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T20:26:11+00:00"
+   "checked": "2026-11-19T20:31:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T20:26:12+00:00"
+   "checked": "2026-11-19T20:31:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T20:26:12+00:00"
+   "checked": "2026-11-19T20:31:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T20:26:12+00:00"
+   "checked": "2026-11-19T20:31:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T20:26:12+00:00"
+   "checked": "2026-11-19T20:31:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-19T20:26:13+00:00"
+   "hits": 13,
+   "checked": "2026-11-19T20:31:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T20:26:13+00:00"
+   "checked": "2026-11-19T20:31:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T20:26:13+00:00"
+   "checked": "2026-11-19T20:31:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T20:26:13+00:00"
+   "checked": "2026-11-19T20:31:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "cyberleek claims to release development build of gta 6",
+   "title": "Cyberleek claims to release development build of GTA 6",
+   "link": "https://www.videogameschronicle.com/news/cyberleek-claims-to-release-development-build-of-gta-6/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T20:27:49+00:00",
+   "seen": "2026-11-19T20:31:17+00:00",
+   "summary": "Cyberleek is back for the first time since GTA 6's release",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Cyberleek claims to release a development build of GTA 6."
+  },
+  {
+   "id": "asmongold a gta first timer rates gta vi a nine after nine hours",
+   "title": "Asmongold, a GTA first-timer, rates GTA VI a nine after nine hours",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTJLMGdnanVWMTdxZDFNb0IyeGp2Um5mcjk1UHRvU3JlOE9rc0NVUWp5U2lucmtXanF2bGdyTFlQdFd6bGVZR2Z0cU96OTRSVEtCbjVZRm5GVUFIcDFfRmxQZ25KSVlDOW1mVEhGeThQR3BMNktwcTNRYWxWYXNGTGV6X0pmN2ZSX3c?oc=5",
+   "outlet": "PPC Land",
+   "via": "Google News",
+   "published": "2026-11-19T20:27:08+00:00",
+   "seen": "2026-11-19T20:31:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Asmongold rates GTA VI a nine after nine hours of playing."
+  },
   {
    "id": "factbox gta vi economy 1 65b in preorders surging console sales and workplace absences",
    "title": "FACTBOX - GTA VI economy: $1.65B in preorders, surging console sales and workplace absences",
@@ -131,6 +157,19 @@
    "ai_summary": "The story reports trying GTA 6's launch while playing a $5 game released the same day, without regrets."
   },
   {
+   "id": "here is every song in grand theft auto vi including new music from lana del rey health power trip",
+   "title": "Here Is Every Song In Grand Theft Auto VI Including New Music From Lana Del Rey, HEALTH, Power Trip & ...",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMENNS3FjOVdlODNoYUdwZnRKVE9xNFdRa0diaDVCeXNxc3VNNTFPMHI5V3E4QUc3TEJMenFWSjFxcXVDZnhWd3Q3bG9aY3VucU5FbXFjY3RITzJ3U2E2ZjBCbl9Qc2xnY3hzYXFQMG82QmNsVXl4LXMxVkY2ZjhRcG5nVjhmSGlsSkd0LXlDMERYRV9Ubmg1dUJJTnpDWU9mYjA1Vk50S3ZoQXlLZWNDakdHQjJEVUtDZHVWOUxJY3ZBMndsRVROc05Lal9KR2toS3hqa2tlNE83MjjSAeABQVVfeXFMTmF2bWtHSkJ3R2M1MTd1VndZM1JCdnFIQkRDNG1TeEYzMWo3Mnkzbmo5eENra1MwZVNROExwc3hGRjNvaEktY3hHbk1mUnhia0FrQ0hXZ0x6Z0RITFJhaVlnb0QzRjFreV9vRm51bHpRU1k2TjJPRHY3dUhOZzJaUmxFYTlHb0k3UnRQZktaYjNfcXJXaHhwZ3c4cmJGZTcwNVBHelk5VXJMRWktUUhJVkZHdTVVSmtkRi04Wno1ZXdoS1cxZllzWnk3c2F5TnJGYV80eG1lUVdHYW1mVk91R1c?oc=5",
+   "outlet": "mxdwn Music",
+   "via": "Google News",
+   "published": "2026-11-19T20:22:39+00:00",
+   "seen": "2026-11-19T20:31:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Every song in Grand Theft Auto VI is listed, including new music from Lana Del Rey, HEALTH, and Power Trip."
+  },
+  {
    "id": "gta 6 release sparks gta flu as gamers plan days off",
    "title": "GTA 6 release sparks ‘GTA Flu’ as gamers plan days off",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDMtUS1qRzNxcDBLT2ptTXdjM3RBal9HRmpsQkNpTnVucDdDRmxQYTRVckVoMERtQnlTZEY2U0owekRSMm53OVFYTXl3UTBGVHY5TUJZWE9tUkZEeFh5Ymw2dzZJY29DMXlrX21fWENUQUhTRmZlNFZudWRoUUtidTZnOXNtUmFJTTUw?oc=5",
@@ -142,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 release triggering discussions of taking days off for GTA Flu."
+  },
+  {
+   "id": "gta 6 s map size is actually massive but that s not the most impressive part",
+   "title": "GTA 6's Map Size Is Actually Massive, But That's Not The Most Impressive Part",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vdTB2TGFWQmgzaE92dlFBZzUteEpqbVlRUmZJWVdObmlNLWtwakJsWWpDbUJ4OTN2Y195WWlRWUEwNXJXczB5T1M1MmZuQmcxNUhtR19RREhxZnFpbDJDUFZfQQ?oc=5",
+   "outlet": "BGR",
+   "via": "Google News",
+   "published": "2026-11-19T20:17:00+00:00",
+   "seen": "2026-11-19T20:31:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's map size is described as massive and notable for more than that."
   },
   {
    "id": "how many people called out sick to play gta 6",
@@ -272,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Midcoast gamers reportedly played hooky to play GTA VI."
+  },
+  {
+   "id": "how many hours of work to afford grand theft auto vi",
+   "title": "How many hours of work to afford ‘Grand Theft Auto VI’?",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1N4dXhNVEdUNnBVRWh6N1d2d3ozRUJOSFZ3dzcyWS1zU3lIdDJZYnV2U3MzZHRndHhTR0VnWVprUDRrQl84Y01OTjlQRnN2dFYzMHFIZTZ0T04xUlFrWThmczAzTHRKYlJSYXJrSmlrdGNjd2hxWm9lV1h6eFRvY2ZsZ2ZrWGJ3RklEbDY0Y1gxWUt1VWdRYtIBngFBVV95cUxQSzl5MElCZ3ZDRHI5aWp3U0JSU3JtLXlROU5Ib1h1XzlWOElVZXZmZDJKd3hYQzR2TzNndTBaeVNVQTZtUERnX0xIdE5qLUhCa3JMVV9NWUNQdUh4UWxhczVpNXZMZGpRRXhOcG1IdHdpd3NHa1NMVTc5MlN6LUpaRE9FUW5rM2R2RnNVQV9RYkY1U0hjNFpMRE9DNHRWUQ?oc=5",
+   "outlet": "KXAN Austin",
+   "via": "Google News",
+   "published": "2026-11-19T20:01:20+00:00",
+   "seen": "2026-11-19T20:31:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses hours of work required to afford Grand Theft Auto VI."
   },
   {
    "id": "bam adebayo plans immediate gta 6 play after heat win",
@@ -480,6 +545,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 beats The Odyssey at box office with estimated release-day revenue of 1.84 billion, per Mashable India."
+  },
+  {
+   "id": "metro detroit streamer lives grand theft auto vi experience",
+   "title": "Metro Detroit streamer lives Grand Theft Auto VI experience",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nc1l6VzY0TUVzY3BWLUxfQmNHM1hpbmxpcjNBVzU5T3dJUnpzX3BoVDNfQUF1LS1VTk91Q1RvRTd2a3ljTzY2dWttUDdpelIzLXJ5akdMWUVvc3BFZ2VweUdxYjPSAWpBVV95cUxPbUNuSThVWHRDZGpPTzBWMDFSNVBGTnVkaXh2SHYya0dBZEtiZ1pOM3ZHZTVkMUQyTGN4SG1TNTQ0XzRRQUlvc0h6cUNjVTlFcllOSzZXbUxTeUpzeXc2dTNicnk4dGxOWFhR?oc=5",
+   "outlet": "FOX 2 Detroit",
+   "via": "Google News",
+   "published": "2026-11-19T19:46:05+00:00",
+   "seen": "2026-11-19T20:31:15+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "A Metro Detroit streamer experiences Grand Theft Auto VI."
   },
   {
    "id": "gta 6 launch sparks excitement and plans among gamers",
