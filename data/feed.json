@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:37:22+00:00",
- "started": "2026-11-19T23:37:16+00:00",
+ "updated": "2026-11-19T23:42:17+00:00",
+ "started": "2026-11-19T23:42:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T23:37:17+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T23:42:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-19T23:37:17+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T23:42:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T23:37:17+00:00"
+   "checked": "2026-11-19T23:42:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T23:37:17+00:00"
+   "checked": "2026-11-19T23:42:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T23:37:18+00:00"
+   "checked": "2026-11-19T23:42:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T23:37:18+00:00"
+   "checked": "2026-11-19T23:42:13+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-19T23:37:19+00:00"
+   "checked": "2026-11-19T23:42:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T23:37:19+00:00"
+   "checked": "2026-11-19T23:42:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T23:37:19+00:00"
+   "checked": "2026-11-19T23:42:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T23:37:19+00:00"
+   "checked": "2026-11-19T23:42:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T23:37:19+00:00"
+   "checked": "2026-11-19T23:42:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T23:37:19+00:00"
+   "checked": "2026-11-19T23:42:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T23:37:19+00:00"
+   "checked": "2026-11-19T23:42:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T23:37:19+00:00"
+   "checked": "2026-11-19T23:42:15+00:00"
   }
  },
  "items": [
@@ -194,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The GTA 6 Star System reveals more than just your wanted level."
+  },
+  {
+   "id": "what to know about the launch of grand theft auto vi",
+   "title": "What to know about the launch of Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGkxODdUekxwamo4UFp6U21NdUE2SHBsVmZaLUFDQkc2WFlYNVU5Y3dvanFRX2ZydlRnVmUydk90a1VvZEJQcS1GaGlaUmFnUkxJM1o4b0xmY1hPSW5EM0hQNE5aX3dfa0RFcWJmWW9qc3YzeHU0RVRRcUJHQWdOYU5peHBEM3NB?oc=5",
+   "outlet": "WFSB",
+   "via": "Google News",
+   "published": "2026-11-19T23:25:47+00:00",
+   "seen": "2026-11-19T23:42:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story informs readers about what to know regarding the launch of Grand Theft Auto VI."
   },
   {
    "id": "gta vi launch spurs 44 surge in spain paid time off requests how 11 outlets framed it",
@@ -2144,6 +2157,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "KFC Spain is offering a fried chicken disc to replace the missing physical GTA 6 disc as part of a launch celebration."
+  },
+  {
+   "id": "kaspersky records over 27 000 gta 6 related malware detections as game launches on consoles",
+   "title": "Kaspersky Records Over 27,000 GTA 6-Related Malware Detections As Game Launches On Consoles",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPOUZvQ2dJWUhyUVlfY2xaM2JTUXRNWWU4VkllOTZnQXViNFhENVdoTHZGeUYxWTh3LVU3TTZ4VnpPeGpDTnlzTmVtVnNHYWNOY1FyemFsZDNsOUJTTlRqYkZTQzh2WU40MEdFcm9ONzBjbnBOaGE0?oc=5",
+   "outlet": "Pokde.Net",
+   "via": "Google News",
+   "published": "2026-11-19T20:45:27+00:00",
+   "seen": "2026-11-19T23:42:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that over 27,000 GTA 6-related malware detections were recorded as the game launches on consoles."
   },
   {
    "id": "gta vi morgan state psychologist on gaming and gambling",
@@ -10893,6 +10919,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "GTA 6 is described as released and being actively played, with initial impressions presented."
+  },
+  {
+   "id": "how gta 6 became gamings most popular hit and why could be too big for the internet",
+   "title": "How GTA 6 became gamings most popular hit – and why could be too big for the internet",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3dqMVFhRlpjcTNNb1VldVRQN0JBRXVzekN2a0d1NlE4VkdBRTlSUzRMQlpXWWNBM3RwOFUxQUpSbTdLWGR2OVgwQzZSbG5PTjkxT0VPUFFwSXpIUXhnckpicTNzTV91aGhpMC1adml1eTBucENQRk9ld0hPd0xycHprZTlfZ1d5cEE?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-19T11:34:00+00:00",
+   "seen": "2026-11-19T23:42:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses GTA 6 becoming gaming's most popular hit and explores why it could be too big for the internet."
   },
   {
    "id": "will gta 6 really cost the u s economy 1 billion in lost productivity",
