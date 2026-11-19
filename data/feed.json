@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:04:20+00:00",
- "started": "2026-11-19T15:04:12+00:00",
+ "updated": "2026-11-19T15:09:20+00:00",
+ "started": "2026-11-19T15:09:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T15:04:12+00:00"
+   "checked": "2026-11-19T15:09:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T15:04:13+00:00"
+   "checked": "2026-11-19T15:09:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T15:04:13+00:00"
+   "checked": "2026-11-19T15:09:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T15:04:13+00:00"
+   "checked": "2026-11-19T15:09:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T15:04:14+00:00"
+   "checked": "2026-11-19T15:09:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T15:04:14+00:00"
+   "checked": "2026-11-19T15:09:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 35,
-   "checked": "2026-11-19T15:04:14+00:00"
+   "checked": "2026-11-19T15:09:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 11,
-   "checked": "2026-11-19T15:04:15+00:00"
+   "hits": 12,
+   "checked": "2026-11-19T15:09:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T15:04:15+00:00"
+   "checked": "2026-11-19T15:09:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T15:04:16+00:00"
+   "checked": "2026-11-19T15:09:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:04:16+00:00"
+   "checked": "2026-11-19T15:09:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T15:04:16+00:00"
+   "checked": "2026-11-19T15:09:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T15:04:16+00:00"
+   "checked": "2026-11-19T15:09:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T15:04:16+00:00"
+   "checked": "2026-11-19T15:09:16+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar reveals full gta 6 cast list finally ending speculation about who plays jason duval in the game",
+   "title": "Rockstar reveals full GTA 6 cast list, finally ending speculation about who plays Jason Duval in the game",
+   "link": "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-19T15:07:00+00:00",
+   "seen": "2026-11-19T15:09:14+00:00",
+   "summary": "Rockstar has finally announced the full cast list for Grand Theft Auto 6 , having left fans speculating right up to the game's release about which actors play the game's leads. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar reveals the full GTA 6 cast list, ending speculation about the leads."
+  },
+  {
+   "id": "grand theft auto vi mania hits seattle",
+   "title": "‘Grand Theft Auto VI’ mania hits Seattle",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS2VMdHlPcDY4eDlKVE13OWp2TlNUVWN4ODIwSm9BTnZKYWk0UF9iN1ZQUDFqWkFrd0hJUE5tdVNRcUNwZVFxeWFRbGJUWmNDbEJEM1kwQ1RReEhBVUdNTGdRVzdvbkEzbk1QdEZlOGV3SWhvcHZ2SlV6UVlvdEJHSVVsLWJmdXdVbU41bTE0Y1hoemM1ZGc?oc=5",
+   "outlet": "The Seattle Times",
+   "via": "Google News",
+   "published": "2026-11-19T15:06:19+00:00",
+   "seen": "2026-11-19T15:09:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI mania spreads in Seattle."
+  },
+  {
+   "id": "gta 6 players find dexter s apartment serial killer kit and can even steal his boat",
+   "title": "GTA 6 players find Dexter’s apartment, serial killer kit, and can even steal his boat",
+   "link": "https://www.dexerto.com/gta/gta-6-players-find-dexters-apartment-serial-killer-kit-and-can-even-steal-his-boat-3429888/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-19T15:05:20+00:00",
+   "seen": "2026-11-19T15:09:15+00:00",
+   "summary": "GTA 6 players have discovered Dexter Morgan’s apartment in Vice City, complete with a collection of his signature killing tools.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Players discover Dexter Morgan’s apartment and his signature killing tools in Vice City."
+  },
+  {
+   "id": "gta 6 has full playable console games made by a dev team within the dev team",
+   "title": "GTA 6 Has Full Playable Console Games Made By A ‘Dev Team Within The Dev Team’",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFNwTjViY3JlYUJwVGZmOGhRX0p2NDVNYWZGMzhmb201WVZNZWRtVHk1VVctV2RnV3pjcnR2RC1SZm9YMUV3bmJHemJHMzJvblo4QzJHcFEzanljTnN5V0txVXVjaUtCWDYtVU5OTVNLR1BLcjI0ZlE4SmJ1YXhrcXJJT21FUnZUWC1oS2NjTmpRMUh0c29N?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-19T15:00:50+00:00",
+   "seen": "2026-11-19T15:09:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 features a full playable console games developed by a dedicated dev team within the dev team."
+  },
   {
    "id": "grand theft auto vi frenzy highlights digital infrastructure insurance risks",
    "title": "Grand Theft Auto VI Frenzy Highlights Digital Infrastructure Insurance Risks",
@@ -129,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 censors nudity for some gamers as a steamy shower scene goes platinum."
+  },
+  {
+   "id": "the gta 6 dog riding a jet ski is the unlikeliest easter egg",
+   "title": "The ‘GTA 6’ dog riding a jet ski is the unlikeliest Easter egg",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkdsNE0ta3EzanJ4a2lDZEdhWkxBaGpLZWxKeFFwMDRpRF9SSElWMzVHbTFjZjVDc1VJNXdVYlhVMTNCZ3lZSTRpVkgwd0swWkFnRTF5NlgzaVNOMmxKQTdrVF95d0JzejVQVG9TS2phSkdaWGg5ZG1vcXpJWTI3RXBUSFlobENFbnlvVGJaSnA4TnFLaWhqZnFuaGJKd28tUVluaUJqWXlXR1k?oc=5",
+   "outlet": "USA Today",
+   "via": "Google News",
+   "published": "2026-11-19T15:00:00+00:00",
+   "seen": "2026-11-19T15:09:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A dog riding a jet ski is highlighted as an unlikely GTA 6 Easter egg."
   },
   {
    "id": "see y all in leonida jason s actor finally confirms he s in gta 6",
@@ -168,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Power Trip unveils a new song titled Mutual Death Warrant via GTA 6."
+  },
+  {
+   "id": "gta 6 should you kill or spare arnold",
+   "title": "GTA 6: Should You Kill Or Spare Arnold",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUFk1LUtSZDBmUDVia2V0MFBnWjd4bTJqV2ZqQkhEOXFONk9DXzFTUVNIbEc3TUg1V21xVHl3dWVkZzVETkxQSjFwVHdyZlNYei1GR3gybUJQUFlrSzNfTEZrWG9GR2NjTnc?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-19T14:55:57+00:00",
+   "seen": "2026-11-19T15:09:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Discussion on whether to kill or spare Arnold in GTA 6."
   },
   {
    "id": "marketers level up the unignorable power of the gamer economy as gta vi arrives",
@@ -220,6 +298,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story covers a police statement addressing 'Vice City transplants' on GTA 6 release night."
+  },
+  {
+   "id": "grand theft auto vi lucia s main stunt double on blood sweat tears behind game s creation",
+   "title": "'Grand Theft Auto VI': Lucia's Main Stunt Double on 'Blood, Sweat, Tears' Behind Game's Creation",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXdkZklsUWxmdmx0UEZFUkJQYVpqd3VBMkdPWUNrR0E0STdlLTJ5OFB2Nkc2RlhsQ2d4eDM0SnR4eVZZS1pnMjNSRENfdGlPTWotRld5M0VVWlpYa2JQTWlFTU1IYlQ0Y1RrMlRZa1Y5OHpDNXhsV2Rva3NFeGt6R3JuNDdnQ1h1WDRJc0VMd2dFLVM4d1VfRzZR?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-19T14:52:32+00:00",
+   "seen": "2026-11-19T15:09:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Lucia's main stunt double discusses the behind-the-scenes work on the game's creation."
+  },
+  {
+   "id": "gta vi introduces its first latina protagonist lucia caminos played by manni l perez",
+   "title": "‘GTA VI’ introduces its first Latina protagonist, Lucia Caminos, played by Manni L. Perez",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLW92T0tldE1RRXExQ1BmR255UDhSSndwMV9jRVNqSXdLa051cF81RVpJZlZGcFN5aVc1bjRTRjBqWmlGT1E2S2xHMy1SX0VSY1RBN0FPSFA0blUxMnhGbFZESzREUWdvQmxhTl9lVXl2ai1BTUtLTl9IN3ZGdzlQQnFxekdsWFVpQW9VRUFpNlNrRXZTMGhZVEFYcVcxSDZydWNoUlRvTi1HazlIbEM4eVRtRWdCbC1xSGtySXBDSGkwd1ZiMzkyUVVXLXNVT0kxMHNiZdIB6AFBVV95cUxQR2p2Zl82N21scnZETF9ZVzctVmZ3WFp6ZzRqcU9kdFBpREwxUzBoeTMxOFhkY0VWWGk4SkVyTFlQeWNTLUZWUGtfd0tuNmYwcm1VMlVxbVp2ek9ZRk16dmJGS1BtLUMzOTFkMUFKVW9DUFRtUUplS0xLZEJEakpyQ1Jhb2hucTQyMVlLY0hhdFNFYkJfYUdCa05RaEdXcGdIcHRobElfdlloTHM4bC1sa3ZJLUZmdUNaRllmQ3hiWjhCRzVJRWdFSC0zSk9ZbGp4YmFVYWJpaWdzSjZfdlJxSHQ5TTY5SmNW?oc=5",
+   "outlet": "EL PAÍS English",
+   "via": "Google News",
+   "published": "2026-11-19T14:50:41+00:00",
+   "seen": "2026-11-19T15:09:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI introduces its first Latina protagonist, Lucia Caminos, played by Manni L. Perez."
   },
   {
    "id": "why gta 6 doesn t include disney world",
@@ -311,6 +415,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story states that soldiers reenlisted for a chance to play GTA VI on release day."
+  },
+  {
+   "id": "gta 6 s new dangerous driving and doomscrolling feature spawns hilarious memes",
+   "title": "GTA 6’s new dangerous driving and doomscrolling feature spawns hilarious memes",
+   "link": "https://www.dexerto.com/gta/gta-6s-new-dangerous-driving-and-doomscrolling-feature-spawns-hilarious-memes-3429850/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-19T14:43:33+00:00",
+   "seen": "2026-11-19T15:09:15+00:00",
+   "summary": "GTA 6 fans are discovering that driving while checking their in-game phone drastically changes the way their vehicle handles, spawning a wave of viral memes and videos that highlight how dangerous it is.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Driving while checking the in-game phone creates dangerous handling and spawns memes."
   },
   {
    "id": "after a 13 year wait grand theft auto vi has arrived",
@@ -1195,6 +1312,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story notes that GTA 6 players are discovering unexpected, wild details."
+  },
+  {
+   "id": "oh mandy gta 6 fans are obsessed with character who s not lucia",
+   "title": "Oh Mandy! ‘GTA 6’ fans are obsessed with character who's not Lucia",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEhHcUtrQjR4SHhkck5oSlREa1huakU1NWdCcGY4NjlkeDVLR20tLWdJVklPWkllMVRjcDlKZjV1THk5WTFjNUpJWWdWM05aUDQtRlJDWGQ3V3RQNE43eDEyeGo4YWQ0RkMzWl9paXVRbDZRc3VpRkV3bUJsdkx3UHdsZ1ZSRm9zeUhTTm9mbTFXWnZvVUxPX1dKV0g1SjljMC1UWm15SQ?oc=5",
+   "outlet": "USA Today",
+   "via": "Google News",
+   "published": "2026-11-19T13:41:00+00:00",
+   "seen": "2026-11-19T15:09:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Fans are obsessed with a character other than Lucia."
   },
   {
    "id": "we got gta vi before a better health care system health care un covered",
@@ -10542,6 +10672,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 is reportedly big enough to cause Reddit issues before its release."
+  },
+  {
+   "id": "gta 6 release sparks massive boom in xbox and ps5 sales",
+   "title": "GTA 6 release sparks massive boom in Xbox and PS5 sales",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGhhTUhEZkRGSlhTdENBeF96YWw1c2JNYjIxUkZOQll1R0ZVOXBaWVBjMGNWaGFPS2lTblZoREY5Mi1ZYXU3Q2lzZUV3bUliWnN1ZWlPWG9ucGNJdUMtZDRrd01vSEVyLVI0eUNJcE9EMjRDd2IzUGFsS0JCUXQ5VA?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-18T16:07:00+00:00",
+   "seen": "2026-11-19T15:09:14+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 release causes a major rise in Xbox and PS5 sales."
   },
   {
    "id": "gta 6 breaks streaming record with 6 38 million viewers",
