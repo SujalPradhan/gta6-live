@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:55:37+00:00",
- "started": "2026-11-19T18:55:29+00:00",
+ "updated": "2026-11-19T19:00:41+00:00",
+ "started": "2026-11-19T19:00:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:55:30+00:00"
+   "checked": "2026-11-19T19:00:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:55:30+00:00"
+   "checked": "2026-11-19T19:00:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T18:55:31+00:00"
+   "checked": "2026-11-19T19:00:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-19T18:55:31+00:00"
+   "hits": 7,
+   "checked": "2026-11-19T19:00:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T18:55:31+00:00"
+   "checked": "2026-11-19T19:00:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T18:55:31+00:00"
+   "checked": "2026-11-19T19:00:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T18:55:32+00:00"
+   "checked": "2026-11-19T19:00:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T18:55:32+00:00"
+   "checked": "2026-11-19T19:00:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-19T18:55:32+00:00"
+   "hits": 5,
+   "checked": "2026-11-19T19:00:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T18:55:32+00:00"
+   "checked": "2026-11-19T19:00:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T18:55:32+00:00"
+   "checked": "2026-11-19T19:00:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T18:55:32+00:00"
+   "checked": "2026-11-19T19:00:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T18:55:32+00:00"
+   "checked": "2026-11-19T19:00:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T18:55:33+00:00"
+   "checked": "2026-11-19T19:00:38+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi finally arrives",
+   "title": "Grand Theft Auto VI Finally Arrives",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ldE96TW01WE52NnhKMThteG1LOEZZZVBTVnNzeW9WclN5MlVmeUc3THJwbHcyWTFXUWg4U3dhOGFua0hlSThFS3Mxc1MzR3o5WHkxQ3p2QUJUOUsxVEJqN2hMUXphUVpCc3RCTEJn?oc=5",
+   "outlet": "My County Link",
+   "via": "Google News",
+   "published": "2026-11-19T18:52:25+00:00",
+   "seen": "2026-11-19T19:00:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI has finally arrived."
+  },
   {
    "id": "gta 6 is already the most popular game ever on both twitch and kick and it s only been out for a day",
    "title": "GTA 6 Is Already the Most Popular Game Ever on Both Twitch and Kick, and It's Only Been Out for a Day",
@@ -157,6 +170,19 @@
    "ai_summary": "The story claims GTA 6’s soundtrack is central to the game according to the headline."
   },
   {
+   "id": "senator complains gta 6 depicts florida and the internet has a field day",
+   "title": "Senator Complains 'GTA 6' Depicts Florida And The Internet Has A Field Day",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZk9RRDAydDV0UDBhUTV1eXJtX2JuOHIxcmlLU1pwZ3F6RHQ5RmkzYkZTY3VkYWJWaVJ2LS01Nnp0ZVFhalBzUkR1RVJlSHZndUNhOGhpRHRMZWUxLXhYZU8zZkM3c0hndlNRUW42R0lTd0ZHeUhWbE5lckRUV1hNWWdmRkZORGEtcDh3bzVQcE92Ykwtc3c?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-19T18:47:26+00:00",
+   "seen": "2026-11-19T19:00:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A senator criticizes GTA 6 for depicting Florida, sparking online reactions."
+  },
+  {
    "id": "rockstar left extra space in gta 6 s massive map for good reason here s why",
    "title": "Rockstar Left Extra Space In GTA 6's Massive Map For Good Reason - Here's Why",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWFPQjBDamc1NVNKdGZRY2dmemtjUW43ZXJJaEdsOUVoWnliNUd2S1hrX21aMnJOMV9pU2xzVWd6RjVTQ0FuTUdUZVU2MzcxUnR5Q21EOElFTy0zZENRb1dEa2JDZUoyN3pSa29hUGxkUndfbWpEVUtGZ21mVWtiemx4TkpBZ19GUmhOeDY1MnpYR2ZlLWpJYVhn?oc=5",
@@ -194,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story describes exploring GTA 6's national park and mentions public bathrooms."
+  },
+  {
+   "id": "what the sporting world didn t get before gta vi",
+   "title": "What the sporting world DIDN'T get before GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXNHYjdpR0ZFMTRpLWszSlFaZnFuWXctdkVmcnlEVmNHNTZwZTZLcVRWUW5fejE1bDFNelVTdUJlTGpZS05QcHN5TmdMem9fUktnNjktQndwZjFNdUhkbmxuNHYzOUlBVnl2aHo1aVFSWXhHVDdRSlFfWUtOTEJ0TkZR?oc=5",
+   "outlet": "ESPN",
+   "via": "Google News",
+   "published": "2026-11-19T18:45:34+00:00",
+   "seen": "2026-11-19T19:00:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "ESPN notes something the sporting world didn't get before GTA VI."
   },
   {
    "id": "the cat came back roaring kitty tweet sends gamestop stock higher amid gta vi fervor",
@@ -274,6 +313,19 @@
    "ai_summary": "A list of country songs featured in GTA VI includes Hank Williams Jr., Morgan Wallen, and George Strait."
   },
   {
+   "id": "gta 6 reportedly hits 20 million preorders before its official launch",
+   "title": "GTA 6 Reportedly Hits 20 Million Preorders Before Its Official Launch",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMloyT2dyVTEyeGJEZWp3d3dPZ29FRlR5dmJGWHJDVVF3alhybWd0bU9NdmhkYU9LNXhQc0RNM1l2eDJFYXhic0V0RlpRXzRKRUhhR3REbF9YOGhybU5QX2FVRDFEc0NNRmRzNmhlRHVFWDVCOHF4MV8xOHRpbmszR1hZdXdEN1p4UTRScmxkTUNqMWs?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T18:37:22+00:00",
+   "seen": "2026-11-19T19:00:33+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 reportedly reached twenty million preorders before its official launch."
+  },
+  {
    "id": "kyle brandt has strong message for adults taking off work to play gta vi",
    "title": "Kyle Brandt has strong message for adults taking off work to play GTA VI",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXRKUEFHTHJvb09VMW5IcFdITFhXSUNuWkhwRW5lb1plcEZUNk9Od2I0LWRiWjlXUHM4UjhYN2thaERDcnFTOEpBNTZkdFpuSzRFc18xM3BiQlhSUTNqS1dMaV9CRUdPd3dLWU55ejhxa3RwbXJlNk0ySFJ3a0xuUjUxU0ZJQQ?oc=5",
@@ -311,6 +363,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports instructions on how to play GTA VI on PC today using a free app."
+  },
+  {
+   "id": "gamers rejoice as gta 6 releases",
+   "title": "Gamers Rejoice As GTA 6 Releases",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0NhbjRiQnk5QlVpdmt1S241VzNRWW9UcXg2MVFpTmYwSldEY1pwZkJSWHpMdFZqUWkyWTdnUzVOMUFIWmhmMTVYNlV2R3NuLUdYUVFSX3E3Zl90c3dHM1NfTDFnc3VUaHdEbEV0M2tlYjBqcThnSEoxbUFfS1ptY0J5VUVpSl9OdFp4QlBScTY5QWdEcGxDdEM4UG1NQnA4clNxVTVEcWhKZw?oc=5",
+   "outlet": "WBOC TV",
+   "via": "Google News",
+   "published": "2026-11-19T18:31:00+00:00",
+   "seen": "2026-11-19T19:00:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gamer excitement grows as GTA 6 releases."
   },
   {
    "id": "gta 6 bigfoot explained how to find bigfoot in gta 6",
@@ -508,6 +573,19 @@
    "ai_summary": "Heat's Erik Spoelstra joked about a GTA 6 marathon by inviting players over."
   },
   {
+   "id": "nikola jokic reveals favorite video game and it s not gta 6",
+   "title": "Nikola Jokic Reveals Favorite Video Game And It’s Not GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHZkQ0R1OWVrQkk2THI5WjBzX05FQlZDR2twNm10N2JhSmNEWmFhcmR3dlNJUjlZVXV5WDJCVlVHZ1FoaW9ObGVkeU91cy1sT3ZnYUoxdTJtb0RMMUhReDVvWFV4OWN2aTBDNzY2RDFtWVlsS3hJNlFlbFZqcTFaXzhLUUxFcjV2WVlVZQ?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-19T18:09:41+00:00",
+   "seen": "2026-11-19T19:00:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Nikola Jokic names his favorite video game and it is not GTA 6."
+  },
+  {
    "id": "yes that s bobby moynihan in gta vi",
    "title": "Yes, That’s Bobby Moynihan in ‘GTA VI’",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHJTTXRyNnNObEJpY3k1eVJFeTduNDVkblJsa1NjY3M1MUdfYWxSUGZUUFV6UUM1SFgtb0lkNjBlWFhQSGVsbFpNRUpjLWJtaXpudnBNb3dBWVZhQnF2V0k2ZEYwa3JhR3RLU05DaXZqNXhDc002MWtSakhwandRT0Y3QXpTdw?oc=5",
@@ -610,6 +688,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 VP says the DNA remains from Rockstar's original Vice City to modern Leonida, noting changes over the years."
+  },
+  {
+   "id": "an estimated 2 million eager xbox gamers made use of the new zealand trick to play gta 6 early",
+   "title": "An Estimated 2 Million Eager Xbox Gamers Made Use of the 'New Zealand Trick' to Play GTA 6 Early",
+   "link": "https://www.ign.com/articles/2-million-people-new-zealand-gta-6-early",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-19T17:59:46+00:00",
+   "seen": "2026-11-19T19:00:35+00:00",
+   "summary": "Enough people to fill a third of New Zealand’s population changed their console settings to play GTA 6 a day early. Dubbed the “New Zealand trick,” the exploit saw players change their region to appear as if they were in another country where the clock struck midnight earliest.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "An estimated two million Xbox gamers used a 'New Zealand trick' to play GTA 6 early."
   },
   {
    "id": "gta 6 cloud gaming is console only at launch which ps5 or xbox to pair with a quest or ps vr2",
@@ -779,6 +870,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks if you called in sick for GTA VI."
+  },
+  {
+   "id": "downing street hails gta 6 as british success story but uk pm andy burnham is too busy to play",
+   "title": "Downing Street Hails GTA 6 as 'British Success Story' — But UK PM Andy Burnham Is Too Busy to Play",
+   "link": "https://www.ign.com/articles/uk-pm-andy-burnham-too-busy-for-gta-6",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-19T17:50:51+00:00",
+   "seen": "2026-11-19T19:00:35+00:00",
+   "summary": "Downing Street says UK Prime Minister Andy Burnham won't be playing GTA 6 due to a \"very full\" diary, while hailing the game as a British success story.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Downing Street praises GTA 6 as a British success story, while the UK PM is too busy to play."
   },
   {
    "id": "gta 6 has officially broken the internet with a new global data traffic record",
