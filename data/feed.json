@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:42:17+00:00",
- "started": "2026-11-19T23:42:10+00:00",
+ "updated": "2026-11-19T23:47:19+00:00",
+ "started": "2026-11-19T23:47:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T23:42:11+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T23:47:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T23:42:12+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T23:47:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T23:42:12+00:00"
+   "checked": "2026-11-19T23:47:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T23:42:12+00:00"
+   "checked": "2026-11-19T23:47:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T23:42:13+00:00"
+   "checked": "2026-11-19T23:47:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T23:42:13+00:00"
+   "checked": "2026-11-19T23:47:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-19T23:42:13+00:00"
+   "checked": "2026-11-19T23:47:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T23:42:13+00:00"
+   "checked": "2026-11-19T23:47:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T23:42:13+00:00"
+   "checked": "2026-11-19T23:47:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T23:42:14+00:00"
+   "checked": "2026-11-19T23:47:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T23:42:14+00:00"
+   "checked": "2026-11-19T23:47:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T23:42:14+00:00"
+   "checked": "2026-11-19T23:47:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T23:42:14+00:00"
+   "checked": "2026-11-19T23:47:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T23:42:15+00:00"
+   "checked": "2026-11-19T23:47:16+00:00"
   }
  },
  "items": [
@@ -116,6 +116,45 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that actress Lexie Shoaibi stars as Mandy, a character in GTA 6 who attracts social media attention."
+  },
+  {
+   "id": "gta 6 daily driver mission walkthrough",
+   "title": "GTA 6 Daily Driver Mission Walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-daily-driver-mission-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T23:47:06+00:00",
+   "seen": "2026-11-19T23:47:14+00:00",
+   "summary": "Collect a car for Moses in Daily Driver",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a walkthrough for the Daily Driver mission in GTA 6."
+  },
+  {
+   "id": "smu guildhall graduate helped develop grand theft auto vi",
+   "title": "SMU Guildhall graduate helped develop Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmt1ZWV2T2JQb3BXRlVTQkNfempIUUZqUUlJSWo2UnlDZkZwZVM2TzAyZXp2dTRmUDRIU0R0QzllRFk4TWtIR2RIRXVyQV82N0hnWXVwSUJleDBRNFZFeFpWV3JieDZYUGFSOVNjSGlZaEY3eWY3dmp1MWxJV3l2M2dHNFdEajFQd2RhU3hwYkE0QkVjNGRDNWFXbnl5VFVUenZYQXBDQnVwRURp?oc=5",
+   "outlet": "CBS News",
+   "via": "Google News",
+   "published": "2026-11-19T23:42:14+00:00",
+   "seen": "2026-11-19T23:47:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that an SMU Guildhall graduate helped develop Grand Theft Auto VI."
+  },
+  {
+   "id": "abbott elementary s janelle james says she bullied her way to gta 6 i pursued conceptualized pitched scripted voice acted",
+   "title": "'Abbott Elementary's Janelle James Says She \"Bullied\" Her Way To 'GTA 6': \"I Pursued, Conceptualized, Pitched, Scripted & Voice Acted\"",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNE83Qm5xa0FnZjRxRkFqZmpHaVNGU1JqeWZydkNNaVFWUzg4ZmhkLUxUV1hpbUp2Y2EyMmtfVkVnYURoX2d4YkxHcWNWXzVZcEdQUnNJTDdsd3FnRXMwNUJIVU9DSTc2X3FacEVuRmF4YjV4RnpDb1dqdHFpWW9JclQ0TXhuZw?oc=5",
+   "outlet": "Deadline",
+   "via": "Google News",
+   "published": "2026-11-19T23:40:00+00:00",
+   "seen": "2026-11-19T23:47:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Janelle James discussing her involvement in GTA 6 including pursuing, conceptualizing, pitching, scripting, and voicing."
   },
   {
    "id": "gta vi hype brings excitement to bangor area businesses",
@@ -1325,6 +1364,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports how accurate GTA VI's Vice City is, with a lifelong South Florida resident weighing in."
+  },
+  {
+   "id": "just how accurate is grand theft auto vi s vice city a lifelong south florida resident weighs in outkick",
+   "title": "Just how accurate is 'Grand Theft Auto VI's' Vice City? A lifelong South Florida resident weighs in | OutKick",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUczSU8yTEVLR0xoSzlrYkNWanJjalg1MFVCdHVTUVNfTHNuLWR0QUFOSUJKV25MQ3ZMSmtKNEd4UThWdTE2aEpJYTZZdkhfZnA3WjVkZmw4YW5VR2dXMlZZQUlpcTVPX3pJVlI3c21vaWU2M2o4dE9DeWdHaHlWZHhuN2FoSHlYSnRCNFhNTHp0YUFIODRqYS03WU0xZk1Uemg0Y0lxQXlVSGhqdjM3aWZRS0RzcHIzNnNham53?oc=5",
+   "outlet": "Fox News",
+   "via": "Google News",
+   "published": "2026-11-19T21:50:38+00:00",
+   "seen": "2026-11-19T23:47:12+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports evaluating how accurate GTA VI's Vice City is, with input from a lifelong South Florida resident."
   },
   {
    "id": "logitech offers employees a day off to play gta 6 at launch",
