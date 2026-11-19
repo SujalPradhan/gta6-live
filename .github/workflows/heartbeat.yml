@@ -1,0 +1,32 @@
+name: Heartbeat
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  actions: write
+
+concurrency:
+  group: heartbeat
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Start a poll every 5 minutes
+        run: |
+          end=$((SECONDS + 340 * 60))
+          while [ "$SECONDS" -lt "$end" ]; do
+            gh workflow run live.yml --ref main || echo "Could not start a poll."
+            sleep 300
+          done
+      - name: Start the next heartbeat
+        if: ${{ !cancelled() }}
+        run: gh workflow run heartbeat.yml --ref main
