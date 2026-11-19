@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:45:57+00:00",
- "started": "2026-11-19T19:45:49+00:00",
+ "updated": "2026-11-19T19:50:54+00:00",
+ "started": "2026-11-19T19:50:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T19:45:50+00:00"
+   "checked": "2026-11-19T19:50:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T19:45:50+00:00"
+   "checked": "2026-11-19T19:50:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T19:45:51+00:00"
+   "checked": "2026-11-19T19:50:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T19:45:51+00:00"
+   "checked": "2026-11-19T19:50:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-19T19:45:51+00:00"
+   "hits": 6,
+   "checked": "2026-11-19T19:50:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T19:45:51+00:00"
+   "checked": "2026-11-19T19:50:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T19:45:51+00:00"
+   "checked": "2026-11-19T19:50:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T19:45:52+00:00"
+   "checked": "2026-11-19T19:50:51+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T19:45:52+00:00"
+   "checked": "2026-11-19T19:50:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T19:45:52+00:00"
+   "checked": "2026-11-19T19:50:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T19:45:53+00:00"
+   "checked": "2026-11-19T19:50:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T19:45:53+00:00"
+   "checked": "2026-11-19T19:50:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T19:45:53+00:00"
+   "checked": "2026-11-19T19:50:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T19:45:53+00:00"
+   "checked": "2026-11-19T19:50:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "how much did gta 6 cost to make an estimated 1 billion or more and take two won t say",
+   "title": "How much did GTA 6 cost to make? An estimated $1 billion or more, and Take-Two won't say",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0VVLWtHZG1tWEpWaUJkeWMtalBqdzBFSHdTNTdBU3FaWVdBTndxUTFSX2NweHFpYmhGa1B5cmRNUG45SHd6YV9QTVRnaW8wTy1qdDdSTWplWnFQZUh5Rl9YNTlKWUZQMWVock9FU2doTWYtcTFQN3BPZk5yYWxUUy00cndTS3RzUmxjMkhFLTJuSkxuNnk5clRUbjhFOGpjVUplSw?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-19T19:43:19+00:00",
+   "seen": "2026-11-19T19:50:50+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Story reports GTA 6 cost to make is estimated at one billion or more, with Take-Two not providing a figure."
+  },
   {
    "id": "dallasites celebrate grand theft auto vi release after 13 years",
    "title": "Dallasites celebrate Grand Theft Auto VI release after 13 years",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Dallasites celebrate Grand Theft Auto VI release after 13 years."
+  },
+  {
+   "id": "kentucky headhunters featured in grand theft auto vi",
+   "title": "Kentucky Headhunters featured in Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yYk1SZWthX0ZfalpSdVJtbnhjRWNfWVJlcUNzbmZDSkZmTy1QZHhlcFhRQW1aSmRJTV83c3V6T1ozck9VcDd6cVN6d0VNZktKS0RrazJaUWgzS1dhSGh2RmJNLWVaZnFMX1BWcHNIOGxYUC1hZ281ak14OUgtcnM?oc=5",
+   "outlet": "WNKY",
+   "via": "Google News",
+   "published": "2026-11-19T19:41:30+00:00",
+   "seen": "2026-11-19T19:50:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story says Kentucky Headhunters are featured in Grand Theft Auto VI."
   },
   {
    "id": "grand theft auto vi has just hit screens and the los angeles district attorney s office is urging players to keep the theft on screen and of",
@@ -443,6 +469,19 @@
    "ai_summary": "The story claims GTA 6 is the most popular game across Twitch and Kick since its release."
   },
   {
+   "id": "gta 6 features a few cheeky dexter easter eggs",
+   "title": "GTA 6 Features a Few Cheeky Dexter Easter Eggs",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEpjN1JfMXUyNGNBYVVPRXExbWd1YWtmLVNUM0U4RmpZRjFUQkNIbVJxMkV6V1dVUzNKSmVzVU9FcWhDTW5McXNUa3FPUkFfTzZxcko3cV9ja3IxY21ETXJ6ZFZSWGk4RTUwZlllakd0dmdiN2RmLTFKZHNXdE5Rc1k0Wnk3Zjg?oc=5",
+   "outlet": "IGN Southeast Asia",
+   "via": "Google News",
+   "published": "2026-11-19T19:00:28+00:00",
+   "seen": "2026-11-19T19:50:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story notes GTA 6 includes a few cheeky Dexter Easter Eggs."
+  },
+  {
    "id": "gta 6 all strip club locations",
    "title": "GTA 6: All strip club locations",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMUy1yZVhTQzFpcXZHeG1QTGN0R3U2dFU5NTBpZEFJcUgzeUFCNllwYkJUeTJXRV81VEc0Z0dzQ2lManJ6ZTV1YkJES2lEbjcyQkFjSE1JT1NRMVFPQVVVQkZQM3REdWhMT2k0?oc=5",
@@ -480,6 +519,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI has finally arrived."
+  },
+  {
+   "id": "the only gta 6 ps5 console bundle deal we ve seen is selling out fast",
+   "title": "The only GTA 6 PS5 console bundle deal we’ve seen is selling out fast",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaW1QNnhsb01vQlZWTzdMYXM2T1QwdFJMUU1zbzA0bzdfUnpSTVRJcE5EM0dHb2V6VEttbDRsV1Vmd203ekFsV2YyY0hPaUdVdTFRYjdGYW51aXNaY3dDYWVYdDlfRnktdTNsZ0RWWkNsUzVWMF9FUDU1RklBZHJsMGhsWi1JNEdwZkcxcHI3bzNwcWRSTmtqQldtNFJ2ZmV4VHI2bmMxUEMwcTFnMzRn?oc=5",
+   "outlet": "New York Post",
+   "via": "Google News",
+   "published": "2026-11-19T18:52:00+00:00",
+   "seen": "2026-11-19T19:50:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story claims the only GTA 6 PS5 console bundle deal is selling out quickly."
   },
   {
    "id": "gta 6 is already the most popular game ever on both twitch and kick and it s only been out for a day",
@@ -1143,6 +1195,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "An estimated two million Xbox gamers used a 'New Zealand trick' to play GTA 6 early."
+  },
+  {
+   "id": "gta 6 fever grips the gaming world grand theft auto vi shatters pre order streaming records",
+   "title": "GTA 6 fever grips the gaming world! Grand Theft Auto VI shatters pre-order, streaming records",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMktBT0pKYzNnLUwxTDhjVm5iZjJGV1BidjVSM255QllHeGlzSW1FQndQV1g4QTBkb0I2ZFlhTlViVmxFV3N0Y3RINkRfdzVUcnd1ZzJfM1JtZ2pJRFNWMmxyOWNlRGlsR1RLM2RiMjJVRUxyNXBMaDJPZUF1N0lZMkoxdDJtRnd1WE1INmJLV28xemNubFRZV0RGc3dnQjNLaTJtRXVBTVJEUmRKTUl5TkZhNDU3VzRtUnA1NmJxemtfN3p5QVNVbFRMTDZKN2VnaVZ6SVBtUWo3VURET2tNaHBjUC1KOUF1akpwcXdLLWxKNGdqS2tvYWEyTjZadTBCbVcw0gGIAkFVX3lxTFBVQ21uR1pPTmRGdUxweTBIWVAtN1dvZzF6Mk5remhWR3Q4NkhJa0hpRVIzaDlmbXV3aTQ5TVNRcWpMUTI5MV9QVFZxXzBHRTA5TTBKUUxQa2xTTi1ZQXp4alNGWVdsYzRvYVRsaTVGUndmSDVRM3ZydlNHdVF1U2NIaVhGRGlndEF3WFVYczFOVlN1RGo2OElydkJjUVlpcmNMN0pXU2s2dEI3VWRhVFgtTUJfWEtQZERlU2xueUlibmtFazl5VkNQNnpwZl9TVmJibnBQZXBFd1k3aHNhb2xVaHVfZ0pyYUZWSjdsN1JFLWdfVHNwdmRQbGNWTXV5LXk1VFQ1X3YtSQ?oc=5",
+   "outlet": "The Economic Times",
+   "via": "Google News",
+   "published": "2026-11-19T17:59:32+00:00",
+   "seen": "2026-11-19T19:50:49+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "Story states GTA 6 fever as pre-orders and streaming records are shattered."
   },
   {
    "id": "gta 6 cloud gaming is console only at launch which ps5 or xbox to pair with a quest or ps vr2",
