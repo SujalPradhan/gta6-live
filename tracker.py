@@ -31,7 +31,7 @@ POLL_SECONDS = int(os.environ.get("POLL_SECONDS", "60"))
 NOTIFY = os.environ.get("NOTIFY", "1") == "1"   # macOS notification on new record headlines
 AIPIPE_TOKEN = os.environ.get("AIPIPE_TOKEN", "").strip()
 AIPIPE_URL = "https://aipipe.org/openai/v1/chat/completions"
-SUMMARY_MODEL = os.environ.get("SUMMARY_MODEL", "gpt-4.1-nano")
+SUMMARY_MODEL = os.environ.get("SUMMARY_MODEL", "gpt-5-nano")
 SUMMARY_BATCH = 25
 SUMMARY_MAX = int(os.environ.get("SUMMARY_MAX", "100"))   # stories summarised per poll
 SUMMARY_PROMPT = (
@@ -235,7 +235,7 @@ def summarise_batch(batch):
     stories = "\n\n".join(
         f"Story {n}\nHeadline: {it['title']}\nOutlet: {it['outlet']}\nSnippet: {it['summary'] or '(none)'}"
         for n, it in enumerate(batch, 1))
-    body = json.dumps({"model": SUMMARY_MODEL, "temperature": 0.2,
+    body = json.dumps({"model": SUMMARY_MODEL, "reasoning_effort": "minimal",
                        "response_format": {"type": "json_object"},
                        "messages": [{"role": "system", "content": SUMMARY_PROMPT},
                                     {"role": "user", "content": stories}]}).encode()
