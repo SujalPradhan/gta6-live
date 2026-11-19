@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:14:27+00:00",
- "started": "2026-11-19T15:14:16+00:00",
+ "updated": "2026-11-19T15:19:27+00:00",
+ "started": "2026-11-19T15:19:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T15:14:16+00:00"
+   "checked": "2026-11-19T15:19:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T15:14:17+00:00"
+   "checked": "2026-11-19T15:19:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T15:14:17+00:00"
+   "checked": "2026-11-19T15:19:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-19T15:14:17+00:00"
+   "hits": 8,
+   "checked": "2026-11-19T15:19:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-19T15:14:18+00:00"
+   "hits": 8,
+   "checked": "2026-11-19T15:19:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T15:14:22+00:00"
+   "checked": "2026-11-19T15:19:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 35,
-   "checked": "2026-11-19T15:14:22+00:00"
+   "hits": 33,
+   "checked": "2026-11-19T15:19:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:14:22+00:00"
+   "checked": "2026-11-19T15:19:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T15:14:22+00:00"
+   "checked": "2026-11-19T15:19:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T15:14:23+00:00"
+   "checked": "2026-11-19T15:19:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:14:23+00:00"
+   "checked": "2026-11-19T15:19:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T15:14:23+00:00"
+   "checked": "2026-11-19T15:19:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T15:14:23+00:00"
+   "checked": "2026-11-19T15:19:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T15:14:23+00:00"
+   "checked": "2026-11-19T15:19:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "fastly stock pops on successful gta vi rollout",
+   "title": "Fastly Stock Pops on Successful GTA VI Rollout",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3l3LUFLb3pWRzIxMWY2Z1dDUlZLM1Q3ZDZ2ZlJmR2NOeXZNWnNvTTZjdmV0anE1OG9xUU5ZZFIzbUU0Y3FUOGRZc3FtRTFYTWxXZ29OX3hLZW45NXJwWmd2RDU4RVAwSUVBY3R0aDRzVFh2aENKeTVSTFNSWVdZdXFteFJ1NGRoZm5yQTQwTHgwX0p1eXRIQkE0VXJoSG0xeC13bUJ6Tk8?oc=5",
+   "outlet": "Schaeffer's Investment Research",
+   "via": "Google News",
+   "published": "2026-11-19T15:14:51+00:00",
+   "seen": "2026-11-19T15:19:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Stock pops on a successful GTA VI rollout."
+  },
   {
    "id": "podcast special your gta 6 questions answered after 150 hours of gameplay",
    "title": "Podcast special: Your GTA 6 questions answered after 150 hours of gameplay",
@@ -116,6 +129,71 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story answers readers' questions about all things Grand Theft Auto 6 in a podcast special."
+  },
+  {
+   "id": "playstation network suffers major outage hours before gta vi launch",
+   "title": "PlayStation Network suffers major outage hours before ‘GTA VI’ launch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NWFF1b09HeHBwRkZ0YndKZXpFdU5LV0F3TnB2RzFaQ0pUQXpPZExMQ0JObmRwSWR2MEVseGdiLUVJN1pZcmI0OHJfQ2R4RTFaa0NfSlhpZDhkNjZDOTVTemNrd3Y1a0FjaG1FWlZhNA?oc=5",
+   "outlet": "WSVN",
+   "via": "Google News",
+   "published": "2026-11-19T15:13:10+00:00",
+   "seen": "2026-11-19T15:19:18+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "PlayStation Network outage occurs hours before GTA VI launch."
+  },
+  {
+   "id": "gta 6 is finally here but pc players are still waiting for one big answer",
+   "title": "GTA 6 is finally here, but PC players are still waiting for one big answer",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHhOYm1ZVzdvbUFvQkozMFV0Z2Fybm1qWW9fSFJXQUJLTTJCamdUY3hJUDljTzBnekRMZmllaldSZkFtUGtkMEoyNmxCWjJ5anBWRXIxX1JHN0diVDZpQkwwLVhRdmJoZmRMZXBIV1lMcGppVlhUbXFFbUtGYnBVeFJBN2RhQzNhbHlzVEdDUjlCYWg3TENVOHN6WHIwQUxuNnE0YUdOWm9ybUJsdmN6Y1JvWQ?oc=5",
+   "outlet": "MLive.com",
+   "via": "Google News",
+   "published": "2026-11-19T15:13:00+00:00",
+   "seen": "2026-11-19T15:19:18+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 is released, but PC players wait for one big answer."
+  },
+  {
+   "id": "gta 6 finally released worldwide after years of delays controversy",
+   "title": "GTA 6 Finally Released Worldwide After Years of Delays, Controversy",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0NLMTlqVDNnaGpaQ0lIbDEyUW43VGlaWHozbTNXaGZnY3owWkRmb0VwSFFZandSRUFTYzVEM3pHZ0g3WmxyeVRTZlhUVnQzd01keHR1M29WdEtKTmtPWWVuOEU3UDU5MGdHcjZKYmtPNWF6ZUxzci1RWkNhcVBxYzdQVmVzRFFQQm9PRTQ4alhad3Vq?oc=5",
+   "outlet": "TVC News",
+   "via": "Google News",
+   "published": "2026-11-19T15:13:00+00:00",
+   "seen": "2026-11-19T15:19:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 released worldwide after delays and controversy."
+  },
+  {
+   "id": "gta 6 release live updates gamers explore and react to vice city after 13 long years",
+   "title": "'GTA 6' release live updates: Gamers explore and react to Vice City after 13 long years",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSEN5dWQ2YnVacWxQQzUwMzJVN0xsdVRTMXN3NlFYcm5TWjlpdDNzNm5TQWN1Zk02dFJsM3doelU3VFl6Yi1VSHEwdUxBUnp0anVBM1RlaGpJMVp0YUp0Umd5bW0zTUNMUEwxN3BXeF9FNnJ4U3VhTVZVaERHVjFMdjFzX1F0dDhGS0tsa2tvd0dSamhJSFgtSERJSzhDMWphQ1hKdzEtVkVsR3IyRUVvWVFWLXR2WHlJeW83SGRvVlBVYzFZRWNwOXotb1RvcTZMZlpmQVFkY0xnMnNtVThjOHB3?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-19T15:11:33+00:00",
+   "seen": "2026-11-19T15:19:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 release live updates show gamers exploring Vice City after years."
+  },
+  {
+   "id": "gta 6 s prologue has a game changing twist rockstar managed to keep completely secret",
+   "title": "GTA 6's Prologue Has A Game-Changing Twist Rockstar Managed To Keep Completely Secret",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXlNSENtOHRKaG9xdWFRYnl0RjJCVUxiQ3BMcFpLeFhCWWh5Ty1md20zQmhIam0ybDZlZFhwM0R5dFBZbElPXzByNzFSOExwWHY1cDVDVXNjMGZoOThsYlI5THB2TTVxRF9XTGF0NlFRQU41eDVLYkdlY3MtUUNrRQ?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-19T15:11:18+00:00",
+   "seen": "2026-11-19T15:19:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's prologue includes a game-changing twist kept secret."
   },
   {
    "id": "gta 6 is finally here how to buy and play grand theft auto vi",
@@ -142,6 +220,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "The story reports that GTA 6 launch broke internet usage records, with high livestream viewership in the first hours."
+  },
+  {
+   "id": "this was the absolute best upgrade i made for playing gta 6 today",
+   "title": "This was the absolute best upgrade I made for playing GTA 6 today",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3JSVlhUNnEycGdpbjdPX1lmTC1sYWRuX3F3bUpZcUxwQTlUODNfRkNXdlQ4Mk9wV1ZYYTB6a0NKV2lmMWdkSksxSm01TGpqNFZPcEZBbDV3OG96OURRMGdRd3VNWEtHdHRtYkdkaWE2S25DTzRTTjhjeFFmTnNuNVRtSGw2dGVyUmY5My0zTGFqLUdva3ZWNlYwbG4wM19kMjN5azk1ai1fbVV3RDhwY3JkMWZpaEhkanNIY1ROc1EwQTZHdm1TemVjdnZYejJ5VDB3NEN3Rl9GSE1vbWNkaGVn?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-19T15:08:52+00:00",
+   "seen": "2026-11-19T15:19:18+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "An upgrade described as the best for playing GTA 6 today."
   },
   {
    "id": "where can i play gta 6 here s what rockstar s new game is like",
@@ -298,6 +389,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A dog riding a jet ski is highlighted as an unlikely GTA 6 Easter egg."
+  },
+  {
+   "id": "after much secrecy we finally have the gta 6 cast list",
+   "title": "After Much Secrecy, We Finally Have the GTA 6 Cast List",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjVhLTJxRzNoQk5oVUdEcDF6U2d6bEZxc2VrTmMtZnpjaW9RdThHR1ZaM2p1cFI4dFY3WkZNOXF6eDJtOXpiSU5JdnNzckFzWXF0ZzBEWkVKQ2VXMXRwbWdvRUtHM3hSNWNDWVVrMUpsRmdodnROUTl3UHFOS1ZZNGUtdHdXS3J2TjlQSw?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-19T14:58:09+00:00",
+   "seen": "2026-11-19T15:19:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "After secrecy, reveals the GTA 6 cast list."
+  },
+  {
+   "id": "13 years 1 billion and record expectations why gta 6 is such a big deal",
+   "title": "13 years, $1 billion, and record expectations: Why GTA 6 is such a big deal",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON2N1QVBERFpUVmFrdUpsZmFDa1FaaS1pUFBvdEhuWmVZSTJsQ1ZZaDBSNXk3QUpEVndOWlhpS1NCNzgyYjZaemhyaUdGU0dzODhhenVKQk56UFRHU0tNczlWaGloelZ4N2l0a2xuRUQ1eDRGMEdYMmV1dmViVVkwMFd0TWpjRWZpeC1FclAyZFBpeUdCUmFqVGl3MjdKd0V0NWE0U0luZ1JESEY0Sm1DeDFxOFJ6Snk2cjNrRGx0UWhoUkJzTm9GcWtLdUpFeHh3LVJJbUNSdw?oc=5",
+   "outlet": "Business Standard",
+   "via": "Google News",
+   "published": "2026-11-19T14:58:00+00:00",
+   "seen": "2026-11-19T15:19:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Why GTA 6 is a big deal with lengthy development and high expectations."
   },
   {
    "id": "see y all in leonida jason s actor finally confirms he s in gta 6",
@@ -10477,6 +10594,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Most of the 34 fired Rockstar employees are named in the GTA 6 credits."
+  },
+  {
+   "id": "all 34 of the infamously fired rockstar staff appear in gta 6 game credits though some aren t listed as former employees curiously",
+   "title": "All 34 of the infamously fired Rockstar staff appear in GTA 6 game credits, though some aren't listed as \"former employees\", curiously",
+   "link": "https://www.eurogamer.net/fired-rockstar-employees-named-gta-6-credits-tribunal",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-18T17:35:50+00:00",
+   "seen": "2026-11-19T15:19:20+00:00",
+   "summary": "UPDATE 19TH NOVEMBER: All of the 34 fired Rockstar employees appear in the credits for GTA 6 . We were able to confirm the final few names' existence there after Rockstar posted the full credits online - in searchable form. Before this, the process of cross-checking was intensely laborious: it required watching a scrolling list of names for an hour-and-a-half to see if they appeared. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "All 34 fired Rockstar staff appear in GTA 6 credits; some are not listed as former employees."
   },
   {
    "id": "the 13 year wait is over gta 6 has been officially released and is breaking records",
