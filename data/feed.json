@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:20:26+00:00",
- "started": "2026-11-19T18:20:18+00:00",
+ "updated": "2026-11-19T18:25:32+00:00",
+ "started": "2026-11-19T18:25:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:20:19+00:00"
+   "checked": "2026-11-19T18:25:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T18:20:19+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T18:25:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T18:20:20+00:00"
+   "checked": "2026-11-19T18:25:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T18:20:20+00:00"
+   "checked": "2026-11-19T18:25:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T18:20:20+00:00"
+   "checked": "2026-11-19T18:25:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T18:20:20+00:00"
+   "checked": "2026-11-19T18:25:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T18:20:21+00:00"
+   "checked": "2026-11-19T18:25:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T18:20:21+00:00"
+   "checked": "2026-11-19T18:25:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T18:20:21+00:00"
+   "checked": "2026-11-19T18:25:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T18:20:21+00:00"
+   "checked": "2026-11-19T18:25:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T18:20:22+00:00"
+   "checked": "2026-11-19T18:25:29+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T18:20:22+00:00"
+   "checked": "2026-11-19T18:25:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T18:20:22+00:00"
+   "checked": "2026-11-19T18:25:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T18:20:22+00:00"
+   "checked": "2026-11-19T18:25:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "gaming gta vi miami launch",
+   "title": "GAMING-GTA VI/MIAMI-LAUNCH",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HcFpzckhIai1Sa3dxWTlRVlhqS1JkNTZsMXJ1VnQtU0dXUEpCek1DVzFmZ2gwd2dNQzhZalptN0hfRlFCa3IyR0ZySWtDUU0wWmZ5alNqS2JnUUZic20zcGcxR0JKMjVmSEd6djliQkIxcERaQkhz?oc=5",
+   "outlet": "nwitimes.com",
+   "via": "Google News",
+   "published": "2026-11-19T18:23:16+00:00",
+   "seen": "2026-11-19T18:25:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA VI/Miami launch coverage."
+  },
   {
    "id": "nikola jokic makes unusual confession as gta vi fever hits nba",
    "title": "Nikola Jokic Makes Unusual Confession as GTA VI Fever Hits NBA",
@@ -376,6 +389,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports how to use photo mode in GTA 6."
+  },
+  {
+   "id": "gta 6 rockstar removed one of the franchise s hottest activities despite its iconic status in previous games",
+   "title": "GTA 6: Rockstar Removed One of the Franchise’s Hottest Activities Despite Its Iconic Status in Previous Games",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHJBQUVFZ0J4T2dmU0ZlRGxkdC16aFNMWWFDckQxZkktUEd2cXZjRHBtSGJoczRYeDJsOTVrM21iZE9NS3pPQjVmOGViSHBpTTZqZmtpX0I2QkRXYWcyQVhwSGh3aFNZeVdjbk9EeVRUTnpsWW1ncGVUVHlibzcxM24tSVhVUGx5WDlTZ0k1UmZDMHZ1OV83ZEgyTi04WFd6blVRekkzX01uWkdSdW1yaFFnb0hhOE5EV2p1U0duS2JMWkw1ei1xbmJiRFhVcGt4bU5zcEt5QQ?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-19T17:52:02+00:00",
+   "seen": "2026-11-19T18:25:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Rockstar removed one of the franchise's popular activities despite its iconic status in earlier games."
   },
   {
    "id": "did you call in sick for gta vi",
@@ -3587,6 +3613,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Kotaku reports that Rockstar kept one of GTA 6’s biggest early secrets under wraps for years."
+  },
+  {
+   "id": "rockstar kept one of gta 6 s biggest early spoilers under wraps for years",
+   "title": "Rockstar Kept One Of GTA 6’s Biggest Early Spoilers Under Wraps For Years",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1Z6TWpVeVF1RzV3cjZtZUlDeTRYU1R3U0lCU25sd0lzTHNfUVZ0SDRqaXk0Tl9SWUxWR3Y3NWVvMVpsRVVCRXN0bk04Vks3ZHhFX0EyUXNhWHZsNUZoTTlObEVlbGdaeWZXU3N0M20wM2tROFpIb2dmNXgxZEtaWG5FTHRwT0pWSDAtQUZ6WEZUTS1rYUVFVTU3QmFkclU?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-19T14:34:35+00:00",
+   "seen": "2026-11-19T18:25:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports Rockstar kept one of GTA VI's biggest early spoilers hidden for years."
   },
   {
    "id": "gta 6 is here and cleveland s 27 club coffee is celebrating",
