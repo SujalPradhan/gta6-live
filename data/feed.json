@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-19T12:28:50+00:00",
- "started": "2026-11-19T12:28:25+00:00",
+ "updated": "2026-11-19T12:33:32+00:00",
+ "started": "2026-11-19T12:33:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-19T12:28:31+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-19T12:33:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-19T12:28:37+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-19T12:33:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-19T12:28:44+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-19T12:33:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T12:28:45+00:00"
+   "checked": "2026-11-19T12:33:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T12:28:45+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 35,
-   "checked": "2026-11-19T12:28:45+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T12:28:45+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T12:28:46+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T12:28:46+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T12:28:46+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T12:28:47+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T12:28:47+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T12:28:47+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T12:28:47+00:00"
+   "checked": "2026-11-19T12:33:23+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks valorant s record for most viewed video game livestream",
+   "title": "GTA 6 Breaks Valorant’s Record for Most-Viewed Video Game Livestream",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZEFLQWdZVVcxcW9hQTYyUzZwT2JGdXBOaWY1SzZ1SUpCYWRQVi1zWmRQdzZqWllmWVRkYkdQbzdFWnRxWlZTbUVZVVdueWh4ajQ2WlFvblVmQjNlbUhsWEpTcXhURExFS2trQW9BSWxrMUs2WUM2dVVrX1NVcl9iZVczYkhuSXFqX0IwYncwd3dEVFZY?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-19T12:24:27+00:00",
+   "seen": "2026-11-19T12:33:22+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "GTA 6 breaks Valorant’s livestream viewership record, per GamingBolt."
+  },
+  {
+   "id": "youtube marks gta 6 release with dedicated interactive features 24 hour livestream and more ttwo decline",
+   "title": "YouTube Marks GTA 6 Release With Dedicated Interactive Features, 24 Hour Livestream And More—TTWO Decline",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYlp6RkZPdjg5Q1BtSGs1RGl3M0g1MGswamNMU1k0TGlxTGdKVnFxNHRmRjFOMDRpM2tIaU00X2paV0hPWlAzRXBUd0d2c3g2cjdHSzdoNmNDNlNpWWp0TVJ6NFZoMEFNYkRrbzBmOEhvaG5LeFVsS01rRXNGWktNZWItVDYxQnRvM1FKZ2RrZXpMX0RuZG1hLWZUbFhFVWhsTUdmeTc5TVVUSWdyd2pSY3JDVWdLMlh3ODlYZ2FjRkhEMUZzaTdaTjV1bWNmckp4R0JUNGZ1d09TME5QaU5MTDJuR2syZHFnR2F1OU9YVEtYZTRfRng0LVJIUDNZM01jMloxUHN0UTJ3QQ?oc=5",
+   "outlet": "Benzinga",
+   "via": "Google News",
+   "published": "2026-11-19T12:23:47+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "YouTube adds GTA 6 release features and a 24-hour livestream, with TTWO declining comment."
+  },
   {
    "id": "gta 6 chapter 1 walkthrough",
    "title": "GTA 6 Chapter 1 walkthrough",
@@ -118,6 +144,58 @@
    "ai_summary": "The story reports a GTA 6 Chapter 1 walkthrough detailing the first 10 hours of the game."
   },
   {
+   "id": "no ps5 storage for gta 6 these 3 ssds are on offer in black friday sales",
+   "title": "No PS5 storage for GTA 6? These 3 SSDs are on offer in Black Friday sales",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Smt2TEo3c3piY2phZTJqMjltelRvR1Zfemx1V0xNQnI3VlQtMk44UUVLNGNqUjI3aFlGLTFkUXE5NExhZXVNWkVfdlctWmdGT2lTeG41ZGdVM0gwT0I0VFNpOGFtYzZoa1JPOEstajlHZzA?oc=5",
+   "outlet": "www.t3.com",
+   "via": "Google News",
+   "published": "2026-11-19T12:22:56+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Three SSD deals target PS5 storage options for GTA 6 on Black Friday."
+  },
+  {
+   "id": "grand theft auto vi a masterpiece 13 years in the making",
+   "title": "'Grand Theft Auto VI', a 'masterpiece' 13 years in the making",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ28zS0dVMlNkblNRTU9NQnFadlJNVjdZWER4NUZGTkZ3TnlTLTBGZFJzd2J3ZXhVdHJ1MGoxc190MkU4OGdPeDB0N3ZLT29HV2FEbFluS0o5YUw2c2NzaUZyTkVCUzhreGFyY1ZITElZNlB4dy1QSi1vQ24tMVlpWGdoQjBHV0FXeFdZZ3ZCS21rRWg3NWtvQTZzOWNzenNmbFdvazJDOXl4MXJkcFB4TW4wdkQ0Zw?oc=5",
+   "outlet": "France 24",
+   "via": "Google News",
+   "published": "2026-11-19T12:22:53+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "France 24 calls GTA VI a masterpiece years in the making."
+  },
+  {
+   "id": "san antonio gamers count down to grand theft auto vi after 13 year wait",
+   "title": "San Antonio gamers count down to Grand Theft Auto VI after 13-year wait",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQldZb1hNSTB6d2RKdHMxUjBLZHJ0RXJET3h5SDAzcHdqVmw5NDNXMUkwSnQxM0Zuc0FESERKVVdZRXdZbHZLUFM0MkNNY3hGY041OG42WUFRSTNSUENBX1VNcml4bmxheDBRTm5uUnc2RWJWU3UyNXp2aW01bU1PSnVMamNnLTdWWnAzajhlR21MQ0ZERDk2YVBEcmt1WF9kT1c5NV9ibTV2U3hLbWNra25aUUwtYk16Q1N6S3diRmdZcGFPSnZGOUF3WlVmejZiaHZz?oc=5",
+   "outlet": "WOAI",
+   "via": "Google News",
+   "published": "2026-11-19T12:21:10+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "San Antonio gamers countdown to GTA VI after a long wait."
+  },
+  {
+   "id": "warren spector gta 6 should be the last of its kind",
+   "title": "Warren Spector: GTA 6 Should Be the Last of Its Kind",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2VPOWoxNHZCMGxiNk1XcXI1Q1puM2cyX0gtdTRKUjJEbkhXNnZLakVyR3l5NGlMRDNiUXpGdVVaSlBuaDZqSVdwWGtBSHZWWXZkUGdxVFdueElGOW1ISUJLLXBJem43dTlaNFF1SHZkRndIZG9zWFFETE0xU2lzak5IU19kQQ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-19T12:21:09+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Warren Spector suggests GTA 6 should be the last of its kind."
+  },
+  {
    "id": "how to find lucky dog in gta 6 secret jet ski dog location",
    "title": "How to Find Lucky Dog in GTA 6 – Secret Jet Ski Dog Location",
    "link": "https://insider-gaming.com/how-to-find-lucky-dog-in-gta-6-secret-jet-ski-dog-location/",
@@ -129,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story describes a secret GTA 6 event where a jet-ski-riding dog rescues you and explains how to find Lucky Dog."
+  },
+  {
+   "id": "gta 6 has a cheat menu but it will take you days to unlock",
+   "title": "GTA 6 Has A Cheat Menu, But It Will Take You Days To Unlock",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4alF3dWJiRXZKMFZFZmR0dkNPb04wcmVBUkh3enAybF95Si1WVnM3T3Q2cHNyMVU4RVZERlpFa0dIcEdpeUYyVFk5TW9PbHBDZm9LcXdEXzV4TzFxaHFwbXdiN05MQTA2bjFNeUdLWk4xdw?oc=5",
+   "outlet": "BGR",
+   "via": "Google News",
+   "published": "2026-11-19T12:17:00+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 includes a cheat menu that takes days to unlock."
   },
   {
    "id": "could this be the start of gta 6 s version of the mount chiliad mystery",
@@ -155,6 +246,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "Eurogamer reports GTA 6 was shipped after years of work and substantial budget, and is expected to be highly successful."
+  },
+  {
+   "id": "gta 6 could require ryzen 7 9800x3d as leaker thinks most pcs won t hit 60 fps",
+   "title": "GTA 6 could require Ryzen 7 9800X3D as leaker thinks \"most PCs won't hit 60 FPS\"",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUhxOXg2WjRXRU1rRGtlTjhja2EwdllrVGQ1ci1OTm1UNGlfUHhuRGtTa041VWtKdkpnemdJWDhzd3FkRk1vaEpHUEhLb1dKS1RXMTh1Vk1wMkxNNXZNWjRfSkt1azRYYnhkR29ac3hsdDNBZ0NnMHA1RzVTWGNXTEFfNlRhXzFuQVBIdnA2a0I2Y3hUcWFMV3p6d3JwOUJVX3RKR1B1ZGxBcExoeEVMaFIzc18zQkVqVEoxakR0a3I?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-19T12:15:00+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 may require Ryzen 7 9800X3D for 60 FPS, per a leaker."
   },
   {
    "id": "rockstar just spent 13 years on gta vi how founders can channel that patience into bigger payoffs",
@@ -248,6 +352,19 @@
    "ai_summary": "The story lists cheat codes and how to unlock them for GTA 6 on Xbox."
   },
   {
+   "id": "rockstar games announces grand theft auto vi now available news press now",
+   "title": "Rockstar Games Announces Grand Theft Auto VI Now Available - News-Press NOW",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY1FpdTFYMnhud3FTY3l2YjdBUDVXQ1BfV0xzN3U0ci1fSlFVTTBiczc1SldYM1RQUEp4c2duWjJ6TFFxZEhTWDZzTTJJYndOaGhIODNJS0pKMjMzdUw5N3NITF9jbGlxVk1fc3BvUHVoci1vSTN6ZHBFWmtjbGZBekNTeUE4OWlEeFZMZXdkVDZPNl9hWFhmZ2tOSGJkeVkwTGUyNUtSODBGN0hiMWctMGNJWTNaSm40SmJ5aHkxb2d0Q1loMENTWjlQM2dvRUV2cUk0Slg2RHRVRUZVNTliMm5OcDYycnVrQkd3cGI4WndIMTBPbkNzNA?oc=5",
+   "outlet": "News-Press NOW",
+   "via": "Google News",
+   "published": "2026-11-19T12:03:17+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar Games announces GTA VI now available."
+  },
+  {
    "id": "gta vi release spurs surge in pto requests",
    "title": "GTA VI release spurs surge in PTO requests",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kZXFOOGZ3WGhGZUpmUktOa3JORUVSTmVHdFl3ZnJsVkRZOUg0aUgzQmxnaV9IbHJBbHUtTUtTV2tFeGp5bUFpT1o1WkpzZ1FfVWxQTkc1STF3U25JeXdfU0F1aE54VG5XT3BEQjgzUHQzVzJOVXc?oc=5",
@@ -259,6 +376,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The release of GTA VI leads to an increase in paid time off requests."
+  },
+  {
+   "id": "true romance my first six hours with gta 6",
+   "title": "True romance: my first six hours with GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGtDVnhzRHdodjBMc1FWaUliU2Y3ajlEbWpIRE1zM0c2V2hqNGlqQ1B2V2VSTG95OTB5QzNJQk1XWU02N0FFa2lNWVhtZXc5QkVsQWpYYnYwSG9LWjJ1QW1ZYTVmbjVJTXB3TnlKa2JveFJYVDVfc1g0SUtxN2hPdm5GR0hDWEdkQ0t4V0pYWTBoNjdBNkpnTnFNT1c5N0ZM?oc=5",
+   "outlet": "The National",
+   "via": "Google News",
+   "published": "2026-11-19T12:01:22+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A writer’s first six hours with GTA 6 described as true romance."
   },
   {
    "id": "how to pet animals in gta 6",
@@ -404,6 +534,19 @@
    "ai_summary": "Wccftech notes a Rockstar animation programmer calls for unionization and better working conditions as players flock to GTA VI."
   },
   {
+   "id": "gta vi why the 13 year wait could be worth 8 billion",
+   "title": "GTA VI: Why the 13-year wait could be worth $8 billion",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95QVR3V29jUlF6dktjdHpQNGM3TTh0d25mS3U3cm5xdzJNM3NXaWk3X3lKWm0yazlfNjBPN3QwWkFVUHNLeXlFWWNYb2xDRzZMNzNxMEhkejNORmo0X0xTVDlhTnlWZ1JMY05RS0J3TTBCTk0?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T12:00:00+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI’s 13-year wait could be worth eight billion, per Yahoo Finance."
+  },
+  {
    "id": "how to rob businesses in gta 6",
    "title": "How To Rob Businesses In GTA 6",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsMU1yR1IyWFhhRnltdFRya0g3TVFGT3RtWWZsMWNldDVSc0xybDBjQngwSDhQVWZBb1BMZTdYcFB2Z1BQSmIwQkoyTTZHTzhWcXlYR0RINzRDZzVlYkhSNUFySmV2RUMtOTBHYWtmOGRtMTA?oc=5",
@@ -506,6 +649,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story states 43 soldiers will play GTA 6 during an extended weekend as part of a reenlistment deal."
+  },
+  {
+   "id": "how gta 6 mocks liberals and conservatives",
+   "title": "How GTA 6 Mocks Liberals and Conservatives",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZnlmM3lyMUVRcW5SLS1PbzYtOW1aWS05WUwteC1zWmY2VE9GaXJ3STZSN2JVMFktUkMwVEVDXy1wSHg1aDloZE4tbFRUTXQyUVFXa2lpdHcwc09CNkdKSEhSNTNYY0xPMGxTV2tjVUlCOFFtZFExSGtPZnRoOGtHYWx3?oc=5",
+   "outlet": "Newsweek",
+   "via": "Google News",
+   "published": "2026-11-19T11:54:00+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 mocks liberals and conservatives, according to Newsweek."
   },
   {
    "id": "offer of four day pass to play gta 6 convinces dozens of us army personnel to re enlist",
@@ -909,6 +1065,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "A streamer lost 11 hours and a chapter of GTA 6 progress after turning off their PS5, followed by a swatting incident."
+  },
+  {
+   "id": "how many endings does gta 6 have what decides your finale and how the post game works",
+   "title": "How many endings does GTA 6 have? What decides your finale and how the post-game works",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelUxRldpRm1veXlweHNDLXBMbDVfV2FXc0hiOTFxR3ZYSW1aUVhGMzJrd2ZUV2VnMXdzYTFrUl9DVFRBaHdqclJ0UUVHM09fUHJBV2RMamwxLVVrTWlOWEl4c2lvbjhyYmtoQUZOLVpoc2JSckNBdG9jVXdUMkZ1SmJDczlXb21aWi1FRWJLemJmdWNXN3hnX25ta1UyeXgtMFdXbzZfSlFJaHVtbmRCajRYSWx6S2JETUhxeDVpSkR1dlRUa3lhUHRVYmxVbFHSAdQBQVVfeXFMTTBTbkl6ckM2NnJOTUphSnRFVzMtQThWQ2JQemNsNURIeXR0SWlFS3YxTENDQUZiREtYR0RKdVJXZ0VsWGRPNkljNUlzSTQwTUtocmJwRGQyVFI5N2hKMTFWRGZGQ0dZU0k5Vjk3X3B3NUcyM3NvYWU4UHlYRXQwUnBoVklIVzRxdVRQU295ODJ4M25kY3RteHQyVmJ0bU90SzRSVEhfRFNNNEdQbmxpajNyRmM2RnIxeFgyQU04M3E5MEN4RmVyQXJta0w2ak9GS1p0RXI?oc=5",
+   "outlet": "Clarin.com",
+   "via": "Google News",
+   "published": "2026-11-19T11:18:26+00:00",
+   "seen": "2026-11-19T12:33:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 endings, finale decisions, and post-game explained."
   },
   {
    "id": "playstation 5 pro demand jumped 57 in the week before gta 6 launched despite console price hikes",
@@ -4718,6 +4887,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Story reports a Waterloo GTA VI listening party."
+  },
+  {
+   "id": "gta 6 launches worldwide to near perfect reviews critics say it lives up to hype",
+   "title": "GTA 6 launches worldwide to near-perfect reviews; critics say it 'lives up to hype'",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDhadFo1c3Q3UEpDZE05VEJQdWVyTjViVmZ4MVQ2all0aVNBSG1SWlBsZzNPZEdJMkl3VC1xQmNYdnhMUGswVm1GRi13Rk9vQmpDZTc0aGlNOVZfMGp6eDJmQjdyVS1ZTUtYUnhCY0xDcEJ5aGVNTnloUGZxdHpCUEw3cDFSa0xWSm9jOS1pSndYcEphWVFEVFFyS1kxNHp3N2V0X0FfWdIBrwFBVV95cUxPQXRSY2c5NU9sdzBadXlVVUI3NzdlaEo4T1BhYU8xbzFYVFBZOGxDeEZWM3R2NUdmbkp5SFAwNU1QdEdRaUhJM1JGd0pvQ2Zucl95cjRrb2NSaV9zbXdoWEtRYWRJTHdLejlPZEFMMnNiMnAtdHpfRi1FTjlnbWs4akc5Y1JOUVkxUTVPdHdCMWh6ei0wYlpvR3ZBb1BlOVdTNzIxVWZoVW1GT3h3YTlr?oc=5",
+   "outlet": "Khaleej Times",
+   "via": "Google News",
+   "published": "2026-11-19T04:09:39+00:00",
+   "seen": "2026-11-19T12:33:22+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 launches worldwide to near-perfect reviews and hype satisfaction."
   },
   {
    "id": "after a 13 year wait grand theft auto vi arrives with enormous hype and expectations",
