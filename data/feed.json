@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:00:20+00:00",
- "started": "2026-11-19T18:00:12+00:00",
+ "updated": "2026-11-19T18:05:33+00:00",
+ "started": "2026-11-19T18:05:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:00:12+00:00"
+   "checked": "2026-11-19T18:05:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:00:13+00:00"
+   "checked": "2026-11-19T18:05:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T18:00:13+00:00"
+   "hits": 97,
+   "checked": "2026-11-19T18:05:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 11,
-   "checked": "2026-11-19T18:00:13+00:00"
+   "hits": 9,
+   "checked": "2026-11-19T18:05:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T18:00:14+00:00"
+   "checked": "2026-11-19T18:05:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T18:00:14+00:00"
+   "checked": "2026-11-19T18:05:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T18:00:14+00:00"
+   "checked": "2026-11-19T18:05:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T18:00:14+00:00"
+   "checked": "2026-11-19T18:05:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T18:00:14+00:00"
+   "checked": "2026-11-19T18:05:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T18:00:15+00:00"
+   "checked": "2026-11-19T18:05:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 13,
-   "checked": "2026-11-19T18:00:15+00:00"
+   "hits": 14,
+   "checked": "2026-11-19T18:05:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T18:00:16+00:00"
+   "checked": "2026-11-19T18:05:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T18:00:16+00:00"
+   "checked": "2026-11-19T18:05:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T18:00:16+00:00"
+   "checked": "2026-11-19T18:05:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "nyc public schools urges students to attend school after gta vi release",
+   "title": "NYC Public Schools urges students to attend school after GTA VI release",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWm1VbExaWXp6ZmNybmZxc2VleVdpRk5hdWhYV01PWlNxQUxrRV9mUERQczF3M2YwOFFUc0ltNTdFeE5mTURoRzBTaWlFNlBmTE41eHNnQWM5RHdqNExRWXJRTmZMRlpvc21tZFBwakF3RHE1bTM0VkNNWXVubGlnSXE3WU9VUDFi?oc=5",
+   "outlet": "New York Daily News",
+   "via": "Google News",
+   "published": "2026-11-19T18:00:22+00:00",
+   "seen": "2026-11-19T18:05:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "NYC public schools urge students to attend school following the GTA VI release."
+  },
+  {
+   "id": "xbox one players share their first impressions of gta 6 via the cloud",
+   "title": "Xbox One Players Share Their First Impressions Of GTA 6 Via The Cloud",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE0yVl8yV1FKcGQ3WmJ2WXVadzB5OVdEeXZLaDBnd1ZSSHlpS0VEWHdTNVB4TTNubFlOWnRIN1pTSFI0YzVzRVpjZGZCU09XeGI2MUl4amlTLWpkTUFobVQwb0FPMFIzNnl5MUs4TGo3SlZMdF8zdkRyRVF1cVpiSlZMd0dKUmxJUS1CN2E2bm9Yb2JmNHdwU0djWS1QTDVhSFRQZFN6RlFBTjg?oc=5",
+   "outlet": "Pure Xbox",
+   "via": "Google News",
+   "published": "2026-11-19T18:00:00+00:00",
+   "seen": "2026-11-19T18:05:23+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Xbox One players share their first impressions of GTA 6 via the cloud."
+  },
+  {
+   "id": "gta 6 vp 25 years on the dna remains from rockstar s original vice city to modern leonida",
+   "title": "GTA 6 VP: \"25 years on, the DNA remains\" from Rockstar's original Vice City to modern Leonida",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-from-gta-6-vp-25-years-on-the-dna-remains-from-rockstars-original-outing-to-vice-city-all-the-way-to-modern-leonida/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T18:00:00+00:00",
+   "seen": "2026-11-19T18:05:25+00:00",
+   "summary": "Vice City has changed a lot over the years - but maybe less than you think",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 VP says the DNA remains from Rockstar's original Vice City to modern Leonida, noting changes over the years."
+  },
+  {
+   "id": "gta 6 cloud gaming is console only at launch which ps5 or xbox to pair with a quest or ps vr2",
+   "title": "GTA 6 Cloud Gaming Is Console-Only at Launch: Which PS5 or Xbox to Pair With a Quest or PS VR2",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUphRjhLZ2RTaVFkN2ptOUdpQVFpZkVaXzFiSExaVXFVZTd1UDlyOUROT1FVZlNyb2dQY3NOeWZSRWNLQ3hWQ2lzZzJiQzlJVHotUnhZNFA0Z1QtR2UzSjJuNW1KOVA1UGZhcnJWcm1PMktySXFUdnZOQng5VURKS0M3Z0xIbWZZMXBZYnRCN0JGZ19wWm93?oc=5",
+   "outlet": "https://vr.org/",
+   "via": "Google News",
+   "published": "2026-11-19T17:58:42+00:00",
+   "seen": "2026-11-19T18:05:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 cloud gaming is console-only at launch, advising which PS5 or Xbox to pair with a Quest or PS VR2."
+  },
   {
    "id": "gta 6 hype builds as las vegas gamers reflect on franchise s cultural impact",
    "title": "GTA 6 hype builds as Las Vegas gamers reflect on franchise's cultural impact",
@@ -129,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports the sports world celebrating the Grand Theft Auto VI video game release."
+  },
+  {
+   "id": "gta 6 costs up to 100 your credit card rewards could help cover it",
+   "title": "GTA 6 costs up to $100. Your credit card rewards could help cover it",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY09vOTFiMk9xa1NVVjM3U19ZMnQ1M19UQldBODQyWG5OM2JwRk9SSXFfaFk3QWhzbXFRbjV5TFd3ck1VTEUzZ2pFajlmY1F6d3JsdGZFMWdVZndHeXktaG1jMnlhQWJCa1FTNlJxTnN4MHptRV9DNjFmOTRYQTNacHpScmNJUTd4c256V1BlTWo0aFJoMWNWZXdRczczS1l0N2RNbjJSYmEyZXRVVTQwZXFlVWVpYTM4V1kyclFlWVRMbWJxNHR2UUdXclZnYTZmMWoxbm82LXlSc0FneWc?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T17:56:20+00:00",
+   "seen": "2026-11-19T18:05:23+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 costs up to $100 and credit card rewards could help cover it."
   },
   {
    "id": "gta vi 1 84 billion revenue by day of launch can it top avengers endgame",
@@ -170,6 +235,19 @@
    "ai_summary": "The story reports a strange accusation about GTA 6 and an official ruling on cheating."
   },
   {
+   "id": "people are making a strange accusation about gta 6 i have an official ruling",
+   "title": "People Are Making a Strange Accusation About GTA 6. I Have an Official Ruling.",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2FkLVNpSUN1Z3dMTnlwUTJWRGFMdUZqTmZfNlFSNWx1X0Vra3YwWnl6bWlnazNqcDVhTGdDTTVoR0MwOVdJal9FdnhYU2tSQk5kVGMwOF90SDNYZV9Ka2NnOW9JNFlJYVRMZWhrazN2Q204VnFKZjVrcUJrLWJLRUMyb1ZtSG1BSEJLYg?oc=5",
+   "outlet": "Slate",
+   "via": "Google News",
+   "published": "2026-11-19T17:54:00+00:00",
+   "seen": "2026-11-19T18:05:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "People are making a strange accusation about GTA 6, and there is an official ruling."
+  },
+  {
    "id": "how to steal a fighter jet and battle tank in gta 6",
    "title": "How to steal a fighter jet and battle tank in GTA 6",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQzBwNXBuN1dlcHRBVldpdzRCSTZKdW1BWk1HOVlTNThVNmtrRGM1QlA2MktucktOU0J1SlRzYTk1a21IbHpMV2Q0Mmp3TXBmdEtKNHRaR0YwM3ZnZzhlU2cxdXg1MUVsdlhKMGY1OUx1em5Hby1IN01aMURISVhsX05hYzNQSGduaXdvbjhuWGZmQ0Y0R2FGRXNhUzVVS1E?oc=5",
@@ -207,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks if you called in sick for GTA VI."
+  },
+  {
+   "id": "gta 6 has officially broken the internet with a new global data traffic record",
+   "title": "GTA 6 Has Officially Broken the Internet with a New Global Data Traffic Record",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tQkhDN0RrTDdfRHBuN3dyN1hUWVMtTkRmUjhXMjZHcm1TcTdXRjNBUE1ibjFGLXJ5VS1WLVVTcUlzOHNVMFZia2I1cVlnUkxLbGJGc0M3d1M5NkNvbWh2b2ZHNWZDbWU4bXV5ZTN6bFbSAXZBVV95cUxPOWhFU3dnU0JpaTRRTlUwSjVzNnVqeHJacHg0ci1fa3kwN1E5aHdjRXhMOWZCYXdsM0tyT0tBdUJyUVk2WDlRVFZDUGZnZG9HSFBrYzFhTTlKVGlQRVFZdXhHaHloNEZEdXFYSGxLQkVKOUlHM1Fn?oc=5",
+   "outlet": "Beebom",
+   "via": "Google News",
+   "published": "2026-11-19T17:49:20+00:00",
+   "seen": "2026-11-19T18:05:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 has officially broken the internet with a new global data traffic record."
   },
   {
    "id": "jon jones josh hokit continue war of words gta 6 review ufc qatar preview the boys in the back november 19 2026",
@@ -820,6 +911,19 @@
    "ai_summary": "IGN reports GTA 6 is nearly here and Argos has cut the price of a PS5 controller bundle."
   },
   {
+   "id": "save 10 on gta 6 a ps5 dualsense controller in this limited argos bundle",
+   "title": "Save £10 on GTA 6 & a PS5 Dualsense Controller In This Limited Argos Bundle",
+   "link": "https://www.ign.com/articles/gta-6-ps5-dualsense-bundle-deal-argos",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-19T17:08:16+00:00",
+   "seen": "2026-11-19T18:05:25+00:00",
+   "summary": "Argos has launched a limited GTA 6 and PS5 DualSense bundle for £99.98, beating Amazon's combined price by £8.56 — with the offer being available until December 3",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Save £10 on GTA 6 and a PS5 DualSense controller in a limited Argos bundle."
+  },
+  {
    "id": "gamesir s gta 6 inspired xbox controllers look incredible",
    "title": "GameSir’s ‘GTA 6’ Inspired Xbox Controllers Look Incredible",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUh3Zm96Wmc0TXdlcDZhWTNkcVBENEp3VmRVZkFjSUVrM1dkc3lVVkY3T0x0VXY4cEw3REhvOTRfVjFxcngzcmtFNnQ2QWduZW9jWFdIdnUtcV9Jc2djTXJkTElUa19faFZWdndfOHctbDlKUUhDblBYSFoyWGl6bmVWbXRQR0hZcmxmQ2pDMXZpVFNDT19EdHl4NEJwYldZbVYxV1k5ZzlhejIxb0I4?oc=5",
@@ -1000,6 +1104,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Instructions on adjusting GTA 6 aim assist and why it matters."
+  },
+  {
+   "id": "india pm narendra modi shares viral gta 6 vs gta 5 meme",
+   "title": "India PM Narendra Modi Shares Viral GTA 6 vs GTA 5 Meme",
+   "link": "https://www.ign.com/articles/narendra-modi-gta-6-vs-gta-5-meme-india",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-19T16:57:51+00:00",
+   "seen": "2026-11-19T18:05:25+00:00",
+   "summary": "Prime Minister Narendra Modi has joined the GTA 6 launch hype with a viral meme highlighting how far India has levelled up since GTA 5 came out in 2013.",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "India's Prime Minister Narendra Modi shares a viral GTA 6 vs GTA 5 meme."
   },
   {
    "id": "grand theft auto vi has a small deadpool connection",
