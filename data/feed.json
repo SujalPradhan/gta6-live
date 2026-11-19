@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:10:07+00:00",
- "started": "2026-11-19T17:09:55+00:00",
+ "updated": "2026-11-19T17:15:09+00:00",
+ "started": "2026-11-19T17:14:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,192 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T17:09:56+00:00"
+   "checked": "2026-11-19T17:14:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T17:09:57+00:00"
+   "checked": "2026-11-19T17:14:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T17:09:57+00:00"
+   "checked": "2026-11-19T17:14:57+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T17:09:58+00:00"
+   "checked": "2026-11-19T17:14:57+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T17:09:58+00:00"
+   "checked": "2026-11-19T17:14:57+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T17:09:58+00:00"
+   "checked": "2026-11-19T17:14:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T17:09:58+00:00"
+   "checked": "2026-11-19T17:14:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T17:09:58+00:00"
+   "checked": "2026-11-19T17:14:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-19T17:09:58+00:00"
+   "hits": 5,
+   "checked": "2026-11-19T17:14:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T17:09:59+00:00"
+   "checked": "2026-11-19T17:14:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T17:09:59+00:00"
+   "checked": "2026-11-19T17:14:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T17:09:59+00:00"
+   "checked": "2026-11-19T17:14:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T17:09:59+00:00"
+   "checked": "2026-11-19T17:14:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T17:09:59+00:00"
+   "checked": "2026-11-19T17:14:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "gaming gta vi japan",
+   "title": "GAMING-GTA VI/JAPAN",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11T19BTlRoMWJyNDY1YzZYRFpEZE5rcTBZVnZnUkl4NkRsZ0p6YVI2ZS00WUUwNkxwTlpvdXRoalEtR2hsMFJLWkhCb2lXNEJQZXBySE9KazRJS2ZtTGlHNlluQXdHcjZKLXZIRnp2RmNWWkFuclE?oc=5",
+   "outlet": "Roanoke Times",
+   "via": "Google News",
+   "published": "2026-11-19T17:12:52+00:00",
+   "seen": "2026-11-19T17:14:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI coverage is listed under the GTA VI/JAPAN label with no snippet provided."
+  },
+  {
+   "id": "gaming gta vi india",
+   "title": "GAMING-GTA VI/INDIA",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RbWtsUklYYnQySW1qZVFjRGFCc2FZV2xlR2pjYjJNd2pob0pFOXdLOEdKQ1lzSS1CZkducDJBWGRORXNoQ1ZONWttSEZZN01PSmpaaFdpcVRveDRpbm1WbnhwdWttUXNjVHA4N0FyTkNZYkUtamc?oc=5",
+   "outlet": "Roanoke Times",
+   "via": "Google News",
+   "published": "2026-11-19T17:12:48+00:00",
+   "seen": "2026-11-19T17:14:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI coverage is listed under the GTA VI/INDIA label with no snippet provided."
+  },
+  {
+   "id": "complete gta 6 map every location and poi",
+   "title": "Complete GTA 6 Map & Every Location and POI",
+   "link": "https://insider-gaming.com/gta-6-map-location-poi/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-19T17:12:00+00:00",
+   "seen": "2026-11-19T17:14:58+00:00",
+   "summary": "Rockstar has uploaded the entire map of GTA 6 providing players a full list of locations and POIs. Here are more details. The post Complete GTA 6 Map & Every Location and POI appeared first on Insider Gaming .",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Insider Gaming reports that Rockstar uploaded the entire GTA 6 map with a full list of locations and POIs."
+  },
+  {
+   "id": "gta 6 s 80s radio station is hosted by weird al yankovic the parody music legend confirms",
+   "title": "GTA 6's '80s radio station is hosted by \"Weird Al\" Yankovic, the parody music legend confirms",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-80s-radio-station-is-hosted-by-weird-al-yankovic-the-parody-music-legend-confirms-as-a-long-time-fan-of-the-grand-theft-auto-franchise-i-couldnt-be-more-excited/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T17:11:19+00:00",
+   "seen": "2026-11-19T17:14:58+00:00",
+   "summary": "He also wrote some of the in-game ads",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GamesRadar+ notes GTA 6's 80s radio station is hosted by Weird Al Yankovic, who also wrote some in-game ads."
+  },
+  {
+   "id": "grand theft auto vi is packed with the music of justice and a radio station featuring circoloco djs it speaks to the level of detail rocksta",
+   "title": "Grand Theft Auto VI is packed with the music of Justice and a radio station featuring CircoLoco DJs. It speaks to the level of detail Rockstar Games brought to Vice City and demonstrates the extent to which it was influenced by rave culture. https://nytimes.visitlin",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa0tyZTVkVGdYQ04ybEp1aWpmWDVHY2RWY2JTTEZRa1J6MldWS3dlWElEOURPWFpsalc1eGVaZFRyQnBsVWZkV3h5aUNJS0JIeU11bDhwVWJTTlpTOGxGTkxRV1VveXBFckVDNTVSWF9XREIwcE5WZGs3eTc5Z0R3Z05fb0ZDaGhURUxTN2xFSFJibUh2XzdzaTVMbzN1SnlKSVVHVkZ1Sk9jRVdoLVV4QjdOdzQyZUhCcTZkUVJ2b2FhUnVzbE91RFRDT0w3U1Zqd3ZzTw?oc=5",
+   "outlet": "Facebook",
+   "via": "Google News",
+   "published": "2026-11-19T17:10:14+00:00",
+   "seen": "2026-11-19T17:14:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses GTA VI’s music and radio stations reflecting rave culture and Vice City details, referencing Justice and CircoLoco DJs."
+  },
+  {
+   "id": "how to adjust and turn off motion blur in gta 6 if it makes you feel sick",
+   "title": "How To Adjust And Turn Off Motion Blur In GTA 6 If It Makes You Feel Sick",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMDdpdVNOdkdaTzVKQ01BcV9zbTM5cTE2ZlladkJRbGNzRUdRRGw0LWg2elAyRzBXYTQtekpURWpMR0FJNGZ3RVA3S3RlWTVhZW9DQ3IwT2dKM2lKazBIRDdXazExWTJqMWFkVG1BUjl3YVZnUUkzODcwYTltMFE?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-19T17:09:54+00:00",
+   "seen": "2026-11-19T17:14:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Engadget explains how to adjust and turn off motion blur in GTA 6."
+  },
+  {
+   "id": "gta 6 is almost here and argos has already slashed the price of this ps5 controller bundle",
+   "title": "GTA 6 Is Almost Here, and Argos Has Already Slashed the Price of This PS5 Controller Bundle",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94clFacXpmNW5fcmNCN0VDc3NobVdyWWJ5cHJWX2ZQNWFrUkIyZ2NBbVlZbjUwbkliYVo2Tk5rQ2lkckVScTZsUXlyTWFBQTdhTG9lbWs4eUQxWi1IZ3pkLW5lZFJXU0NaRkJmNUpYV09jQ0pO?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-19T17:08:59+00:00",
+   "seen": "2026-11-19T17:14:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "IGN reports GTA 6 is nearly here and Argos has cut the price of a PS5 controller bundle."
+  },
   {
    "id": "gamesir s gta 6 inspired xbox controllers look incredible",
    "title": "GameSir’s ‘GTA 6’ Inspired Xbox Controllers Look Incredible",
@@ -116,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GameSir's GTA 6-inspired Xbox controllers are described as looking incredible."
+  },
+  {
+   "id": "it s like a surreal experience capital region reacts to release of gta vi",
+   "title": "'It’s like a surreal experience': Capital Region reacts to release of GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3RLM0toQ0d5RkNMbXFRQTZCb0JOaW1xQkNncWE5eTU4ZUExcVNRR3hZWGk0T1ZGSHFqNFVFSjdMWEhkM29DajM1Ymx2djRyWndsdU1VekRhSXptV05iTG4xdnVTTFFSMlB3UzVNLWZoV1hxbEpUeVFvUEtjSDg4TkFreVRPMGFzeW9Fa2FwYVpvQXdDbjZ2dWhKamJTMEJ3MjNqYllHaG5IRTd4a3c?oc=5",
+   "outlet": "WAMC",
+   "via": "Google News",
+   "published": "2026-11-19T17:05:00+00:00",
+   "seen": "2026-11-19T17:14:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "WAMC covers regional reactions to the release of GTA VI as a surreal experience."
   },
   {
    "id": "overhated underrated an underrated crime thriller is the perfect double feature with gta vi",
@@ -7138,6 +7242,19 @@
    "ai_summary": "GTA 6 is available to play worldwide and the launch is being covered live as it arrives around the world."
   },
   {
+   "id": "grand theft auto 6 launch day",
+   "title": "Grand Theft Auto 6 launch day - all the news and rection as GTA 6 arrived around the world",
+   "link": "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-19T09:05:00+00:00",
+   "seen": "2026-11-19T17:14:57+00:00",
+   "summary": "The day is finally here: Grand Theft Auto 6 is available to play worldwide. It's destined to become the largest video game release of all time, and probably one of the biggest entertainment releases of all time. So we're doing a launch day live blog to chart its arrival in the world. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Eurogamer covers GTA 6 launch day with a live blog documenting its worldwide availability."
+  },
+  {
    "id": "why xbox has a secret gta vi performance advantage over ps5",
    "title": "Why XBOX Has a Secret GTA VI Performance Advantage Over PS5",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWhOc1ExYzZZNkR3OE0zTFhCbnl6WGsyaUt5S3hIZGxWUlJuQkE3RTdrZDctTHZGLS1zTGx6ejJnMzBOa3pLZnM1eEItOXMzbC1aYk5wTU02UjFfX0NTVXNLQ2VHUndxaXFTVHJXMWF5eGs5aHpOWDNocF8zQnNfa2JHMDdyRlhWaUc1VmZjaw?oc=5",
@@ -11491,6 +11608,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "GTA 6 pre-sales reportedly hit $1.65 billion ahead of launch."
+  },
+  {
+   "id": "grand theft auto vi finally launches pre sales reportedly hit 1 65 billion",
+   "title": "‘Grand Theft Auto VI’ Finally Launches, Pre-Sales Reportedly Hit $1.65 Billion",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeEdQQTJmWnlUeGQwQnFFbjZjOWRxY2Vhd2g4elJHbG1iOEd4T05MV3lMNFJCT201a2hCY1o3SjhuTl9ULUxNbFcwdzUtYThpQUl6UXBaSU16Rk5pdWxhektQNXdQTmJucjZmQnNBejBTcDVsT2NrVC1jX2dPWFFxQXFKRWllRUhlMThNREVTZlVabHhJdFpyYw?oc=5",
+   "outlet": "Road & Track",
+   "via": "Google News",
+   "published": "2026-11-18T20:27:00+00:00",
+   "seen": "2026-11-19T17:14:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Road & Track notes GTA VI launch with pre-sales reportedly reaching a high figure."
   },
   {
    "id": "i finished gta 6 s main story ask me anything except for major spoilers",
