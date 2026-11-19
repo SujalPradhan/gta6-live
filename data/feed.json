@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:42:48+00:00",
- "started": "2026-11-19T10:42:42+00:00",
+ "updated": "2026-11-19T10:47:53+00:00",
+ "started": "2026-11-19T10:47:45+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:42:42+00:00"
+   "checked": "2026-11-19T10:47:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:42:43+00:00"
+   "checked": "2026-11-19T10:47:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T10:42:43+00:00"
+   "checked": "2026-11-19T10:47:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T10:42:44+00:00"
+   "checked": "2026-11-19T10:47:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T10:42:44+00:00"
+   "checked": "2026-11-19T10:47:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T10:42:44+00:00"
+   "checked": "2026-11-19T10:47:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T10:42:44+00:00"
+   "checked": "2026-11-19T10:47:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:42:44+00:00"
+   "checked": "2026-11-19T10:47:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T10:42:44+00:00"
+   "checked": "2026-11-19T10:47:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T10:42:44+00:00"
+   "checked": "2026-11-19T10:47:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:42:45+00:00"
+   "checked": "2026-11-19T10:47:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T10:42:45+00:00"
+   "checked": "2026-11-19T10:47:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T10:42:45+00:00"
+   "checked": "2026-11-19T10:47:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T10:42:45+00:00"
+   "checked": "2026-11-19T10:47:50+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar explains why you can t play darts in gta 6 we don t have unlimited time",
+   "title": "Rockstar explains why you can’t play darts in GTA 6: ‘We don’t have unlimited time’",
+   "link": "https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T10:43:41+00:00",
+   "seen": "2026-11-19T10:47:47+00:00",
+   "summary": "Rockstar North's co-studio head explains why the pub classic is missing",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar explains why the pub darts feature is missing in GTA 6."
+  },
+  {
+   "id": "gta vi surpasses valorant s six year twitch launch record",
+   "title": "GTA VI surpasses VALORANT's six-year Twitch launch record",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWRwdEltd25OUXpub0pieFVKNGx1WXpuX0JURkx4dW9DWkZvYWVtd3Y5WFB3Yk1zZThiT3oyeTFGSl9peDM1dDRVbzg5YmoydEcxbHNrczV6N1FXMGE0T1A0M2hzSXhRc1hvMkJjOU1sdjhSUjlDQ3g0Z3pNcDJwcnNjdmUtalNXd1VSQVk4MlFrc0dJME9rYWV0M0pVaWVTZTJN?oc=5",
+   "outlet": "Sheep Esports",
+   "via": "Google News",
+   "published": "2026-11-19T10:41:37+00:00",
+   "seen": "2026-11-19T10:47:46+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "GTA VI surpasses VALORANT's six-year Twitch launch record."
+  },
+  {
+   "id": "gta 6 how to switch back to gta 5 controls",
+   "title": "GTA 6: How To Switch Back To GTA 5 Controls",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xWE1yUHVlVHZuYUxLSHMtV1pPTWZRV0xLRUFzU3RQdE1KZndjLXdOX0llNGtfVFJoRlh3cl93emJWcmFpa0tHY2hKVm8tdTR1VEx5U3pXSkktVHNNbFd5S2k5WXZsa2pvR3Vtd2g2T1hlSWZNMjZmbDNZaVU?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-19T10:40:16+00:00",
+   "seen": "2026-11-19T10:47:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 offers instructions to switch back to GTA 5 controls."
+  },
+  {
+   "id": "how did gta 6 get 8 nods for the game awards 2026 can it match 9 award record set by clair obscur",
+   "title": "How did 'GTA 6' get 8 nods for The Game Awards 2026? Can it match 9-award record set by 'Clair Obscur'?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXJPZWctbWVpdlJVNXVfOE9BVUUwRFJ1NWNQNzB3QVhGaERZUDZIalNuT3NKQUJHR25rR1c5T0NRNjk1aXBpdmIxWXhxc0p0dGN3a3paZ3NiTk9JdWl1b3ZFWU9VaGtwQVVNS2RXbU9vVm51WUhweVVYM0Q2c25mMkxWMFVFdFplSTBPR21kcS14TTNCYUpkM3U5dWExZ0hpMGfSAacBQVVfeXFMT1QwbFE2T0F3R0h4Uk5kc2ZzbTY3NHMtUXdDaFJNZDU2ck5Yd003ekNoNVp6b1djUGRpa09oWDhER2ZrSGJlZ2c1TGs2NDJ1d0hxQTJOS0dhY21wQ3dOX0c5bW40UzF4RlBCS3RzTlFzWTFWbm9ndE5JMzJka2tKOGFOdXZQald0VE5hdkVTUkN1d2VpOEFEdDFCcVBab1NSLVh1aVVTOVU?oc=5",
+   "outlet": "The Week",
+   "via": "Google News",
+   "published": "2026-11-19T10:39:56+00:00",
+   "seen": "2026-11-19T10:47:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The Week questions how GTA 6 earned eight Game Awards nods and if it can beat a nine-award record."
+  },
   {
    "id": "gta 6 breaks records how the game became a global entertainment phenomenon",
    "title": "GTA 6 Breaks Records: How the Game Became a Global Entertainment Phenomenon",
@@ -181,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains where to find the Truffade Thrax in GTA 6."
+  },
+  {
+   "id": "gta vi drives more social media posts than 2026 world cup",
+   "title": "'GTA VI' drives more social media posts than 2026 World Cup",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR1pPNThUYXRZdnphSlJ2TmctdFlpR1Z1ZEtBZVkxc0xOX2pGOWw0ekZIQ0tFSTdmMWd0ZTlEMVFxX3JEbW5rTnVaYW13bXNtN1dickJKVmZtLTg1X29ReldUb1ExbW4yQ1d5U0hVdjlvWHdhN3B0TkRfcWVjUkFsRDlzVUlJNDZRS1VLaVlFWjFsd3ptVE0xdjdaczdqd0XSAaQBQVVfeXFMTVp1Y1VRRHlBRUZOTmhmeUxOdWdOTHVBX0MxSVN3UXA4VFpSOVpqQ09ZOTZhZ2tyTUhyRjEySGhCQWtKMC03Nk9QZi1DUnhlSEpXWHVVRlhQR2VXWU9pUDgtWjdUR1FiaExGNENuOGIxdWZpTTd6QXF4Q2wyenhzM29SajFLZngzbTg1dHAwMDBIUzBYaHBLM1hSU0l1djNXZGZzVGw?oc=5",
+   "outlet": "A News",
+   "via": "Google News",
+   "published": "2026-11-19T10:31:01+00:00",
+   "seen": "2026-11-19T10:47:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI drives more social media posts than the 2026 World Cup."
   },
   {
    "id": "gta 6 free download codes officially available now",
