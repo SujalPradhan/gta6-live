@@ -240,7 +240,7 @@ def summarise_batch(batch):
                        "messages": [{"role": "system", "content": SUMMARY_PROMPT},
                                     {"role": "user", "content": stories}]}).encode()
     req = urllib.request.Request(AIPIPE_URL, data=body, headers={
-        "Authorization": "Bearer " + AIPIPE_TOKEN, "Content-Type": "application/json"})
+        "Authorization": "Bearer " + AIPIPE_TOKEN, "Content-Type": "application/json", "User-Agent": UA})
     with urllib.request.urlopen(req, timeout=90) as r:
         reply = json.load(r)["choices"][0]["message"]["content"]
     out = {}
