@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:48:35+00:00",
- "started": "2026-11-19T12:48:28+00:00",
+ "updated": "2026-11-19T12:53:30+00:00",
+ "started": "2026-11-19T12:53:22+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T12:48:29+00:00"
+   "hits": 99,
+   "checked": "2026-11-19T12:53:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T12:48:29+00:00"
+   "checked": "2026-11-19T12:53:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T12:48:30+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T12:53:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T12:48:30+00:00"
+   "checked": "2026-11-19T12:53:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T12:48:31+00:00"
+   "checked": "2026-11-19T12:53:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 35,
-   "checked": "2026-11-19T12:48:31+00:00"
+   "checked": "2026-11-19T12:53:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T12:48:31+00:00"
+   "checked": "2026-11-19T12:53:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T12:48:31+00:00"
+   "checked": "2026-11-19T12:53:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T12:48:31+00:00"
+   "checked": "2026-11-19T12:53:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T12:48:31+00:00"
+   "checked": "2026-11-19T12:53:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T12:48:32+00:00"
+   "checked": "2026-11-19T12:53:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T12:48:32+00:00"
+   "checked": "2026-11-19T12:53:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T12:48:32+00:00"
+   "checked": "2026-11-19T12:53:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T12:48:32+00:00"
+   "checked": "2026-11-19T12:53:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 fans are down bad for mandy who might actually be trying to kill them",
+   "title": "GTA 6 fans are down bad for Mandy, who might actually be trying to kill them",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fans-are-down-bad-for-mandy-who-might-actually-be-trying-to-kill-them/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T12:49:21+00:00",
+   "seen": "2026-11-19T12:53:24+00:00",
+   "summary": "Is that a thumb?",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports on fans' reaction to Mandy in GTA 6, suggesting she might be attempting to harm fans."
+  },
+  {
+   "id": "money watch gta vi could be largest entertainment launch in history",
+   "title": "Money Watch: GTA VI could be largest entertainment launch in history",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY0ZpSVhjbDRHd19vUGo0S3lSakF6SGtBSTVqNmw0amxRM2tSbGNwbUktdm5nT3dGMUZyOHZacVJnZk1RWTBocGdTN3dsT3M4Wk5hWHFSZXoxdGJoSUV6T2VrZ1VzMWJHTDhfemdXZlYxQmlMTFBOdlM0bjQxejllU2ZMMzVId2NJX2RqcUxmRDZCQ0JKOGd2QmdLSGE5aVZ4dGt6SVdaSTdJVXZzcnkw?oc=5",
+   "outlet": "FOX Carolina News",
+   "via": "Google News",
+   "published": "2026-11-19T12:44:00+00:00",
+   "seen": "2026-11-19T12:53:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story claims GTA VI could be the largest entertainment launch in history."
+  },
   {
    "id": "gta vi how much lost productivity will new grand theft auto game actually cause",
    "title": "‘GTA VI’: How much lost productivity will new ‘Grand Theft Auto’ game actually cause?",
@@ -155,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece questions whether GTA 6 could cause a sick-day surge in DFW and analyzes the numbers behind the hype."
+  },
+  {
+   "id": "what you need to know as gta vi is finally released",
+   "title": "What you need to know as ‘GTA VI’ is finally released",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVU9SSVBxNHViSXhPSGxzRDVZVm1qcWJ1U3ZfbGdCU05QVFNITjdsaW5NUWR6N1BBNmw4cmh5OW42RGpJaHJyTnMwZmQyd01wdUl1V2l6b0hsblVwVFRBbktoQm5pUmFmQXZOZVU4OUVmMDNaM1pVQkdZbWk1NUhsRVZtT0JXWDVT?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-19T12:38:12+00:00",
+   "seen": "2026-11-19T12:53:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides essential information to know as GTA VI is released."
   },
   {
    "id": "takeaways from the trump xi putin summit and gta vi launches to rave reviews morning rundown",
@@ -272,6 +311,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "An actor says he auditioned for over sixty GTA 6 roles and heard nothing back."
+  },
+  {
+   "id": "daily news links steelers eagles picks mike tomlin pumped for gta 6",
+   "title": "Daily News & Links: Steelers-Eagles Picks; Mike Tomlin Pumped for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWdsVUpWX3puR2tqZEhNR2ViS3BLMzdpNElpcnRtWmNBcVB4VVZPX1BDUkZBRGpvaDdveDlxZEF3bjBkM0lmeXhKeDhQM0Z3d01iSTRJanNuVG5zNS1RcTNHMkNPaDQ3bGU1R3lwRmdRY0M4SmJPSm5ULTlQMFBTT0hXNFhiNWdhcHdFd0tudksxUlk2cThj?oc=5",
+   "outlet": "Steelers Now",
+   "via": "Google News",
+   "published": "2026-11-19T12:29:19+00:00",
+   "seen": "2026-11-19T12:53:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes Mike Tomlin is excited for GTA 6 in a daily news roundup."
   },
   {
    "id": "uk joins in gta 6 frenzy as game becomes available worldwide",
