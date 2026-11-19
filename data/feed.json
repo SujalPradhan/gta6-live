@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:46:23+00:00",
- "started": "2026-11-19T20:46:15+00:00",
+ "updated": "2026-11-19T20:51:25+00:00",
+ "started": "2026-11-19T20:51:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T20:46:16+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T20:51:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T20:46:16+00:00"
+   "checked": "2026-11-19T20:51:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T20:46:17+00:00"
+   "checked": "2026-11-19T20:51:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T20:46:17+00:00"
+   "checked": "2026-11-19T20:51:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T20:46:17+00:00"
+   "checked": "2026-11-19T20:51:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T20:46:17+00:00"
+   "checked": "2026-11-19T20:51:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T20:46:18+00:00"
+   "checked": "2026-11-19T20:51:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T20:46:18+00:00"
+   "checked": "2026-11-19T20:51:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T20:46:18+00:00"
+   "checked": "2026-11-19T20:51:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T20:46:18+00:00"
+   "checked": "2026-11-19T20:51:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T20:46:19+00:00"
+   "checked": "2026-11-19T20:51:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T20:46:19+00:00"
+   "checked": "2026-11-19T20:51:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T20:46:19+00:00"
+   "checked": "2026-11-19T20:51:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T20:46:19+00:00"
+   "checked": "2026-11-19T20:51:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "doja cat is not feeling okayyy about being left off the gta vi tracklist",
+   "title": "Doja Cat is not feeling \"Okayyy\" about being left off the GTA VI tracklist",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CMzhNVkt3cW1lUG1ualpjQkQ0QjdHMmZDWDg5TE1MeUp6c2E3aE9WTkwyT2JIcW55Sl8yTjdXWEVYMU9FeU1QcnBJU2JwcTNVTFdZcnQyRXdNWEp2YXVGb0JZc2RleERTa3c?oc=5",
+   "outlet": "Paste Magazine",
+   "via": "Google News",
+   "published": "2026-11-19T20:47:00+00:00",
+   "seen": "2026-11-19T20:51:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Doja Cat is not feeling okay about being left off the GTA VI tracklist."
+  },
+  {
+   "id": "i tried to behave in grand theft auto vi good luck with that",
+   "title": "I Tried to Behave in ‘Grand Theft Auto VI.’ Good Luck With That.",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFRMZU1mUHlrNy1XTkFnaEY2YjB3SnkwZFNabTE4Q1NlZVlQX25OODFJVWpZZG9kcXNrMTRkVUYxT2xMYlZscGVTal96NEFMU3diWFNjbEl1R0NTMDJvLU54bjlEUi1QMHVRN1c3WmUyN28tUGV6YlJCS3ZGcldaOXVpaTc3Y0NhTFB6RUJSZ2F1UUFheEE?oc=5",
+   "outlet": "GV Wire",
+   "via": "Google News",
+   "published": "2026-11-19T20:46:55+00:00",
+   "seen": "2026-11-19T20:51:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports attempting to behave in Grand Theft Auto VI is difficult."
+  },
+  {
+   "id": "rockstar just explained how gta 6 could fit even more content into vice city",
+   "title": "Rockstar Just Explained How GTA 6 Could Fit Even More Content Into Vice City",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tRC1nSkNLSVEydWZkTl9ieTNqSmNlUWVhbld5ZlVnWGFZSndJb2R1WWNxa283UXozY0tKWXNkVnZTbFRfYnhIdXp1N1BpaGROaTBIc3FPZ3hwVEl1Yl9XZVc3bmQ1WmxKb2tReDVmLUR3RWpHR2lR?oc=5",
+   "outlet": "www.bgr.com",
+   "via": "Google News",
+   "published": "2026-11-19T20:46:51+00:00",
+   "seen": "2026-11-19T20:51:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Rockstar explained how GTA 6 could fit more content into Vice City."
+  },
   {
    "id": "gta vi morgan state psychologist on gaming and gambling",
    "title": "'GTA VI': Morgan State psychologist on gaming and gambling",
@@ -116,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Baltimore Sun reports on a Morgan State psychologist's take on gaming and gambling related to GTA VI."
+  },
+  {
+   "id": "psychologist on gta vi impact and how it can affect your loved ones",
+   "title": "Psychologist on ‘GTA VI’ impact and how it can affect your loved ones",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlU2bmoxZ2pTdGV5NmRNUkNmRUYzOTFHdm5yTGVyYlF1QllDVTYtWDVlVXdCSUZBZENDYlc0SDRNUENtUVl6U2xkZ1JvQmZVMEpnajduaWlJRHJxVVRvUTZEV0l0aU1vVFBqcnpzX1N6OHhSU2pCemgwNjkzc0p4ckJJdDA3bm8?oc=5",
+   "outlet": "Baltimore Sun",
+   "via": "Google News",
+   "published": "2026-11-19T20:45:02+00:00",
+   "seen": "2026-11-19T20:51:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a psychologist discusses GTA VI impact and how it can affect loved ones."
   },
   {
    "id": "gta 6 themed graffiti mansion hit by swatting call as game is released",
@@ -157,6 +209,19 @@
    "ai_summary": "Nacionale reports Take-Two stock slipping on GTA 6 launch day after a jump on reviews the day before."
   },
   {
+   "id": "the far right is the butt of the joke in gta vi they re angry for an entirely different reason",
+   "title": "The Far Right Is The Butt Of The Joke In 'GTA VI.' They’re Angry For An Entirely Different Reason.",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5meGZFLUR4TXA3bTUtTjYwWkZhNDRBaWM1R2VjQU5zS1RLcnlNSm1QOEJ3SU1JVE5HUkxhaGUwY0pCZ3FtdkpPR3NFNlJNcUQtVEMtVEllWFhwaWpYRlNKU2tYS3Rud192bmxHVkZR?oc=5",
+   "outlet": "Yahoo News Singapore",
+   "via": "Google News",
+   "published": "2026-11-19T20:37:53+00:00",
+   "seen": "2026-11-19T20:51:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the far right is the butt of the joke in GTA VI, for reasons related to the game's portrayal."
+  },
+  {
    "id": "gta 6 review 99 on metacritic problems and pc release",
    "title": "GTA 6 Review: 99 on Metacritic, Problems and PC Release",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yWTM0Q1UxZVphWXpPQjFfQ3JMM3FLcmdxV3YzWGxBWWhfQTRVcm1uOTVremhmekY1bVZYR0FYN1dkcXJzT2ZNMmJzMVdobS1pUnI0Y1pVWmdFMTNOZ0hHQTdtWi1UMk96YlplOXh5WEV4ZHdYbTBFNTVyaw?oc=5",
@@ -181,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "First impression notes GTA VI realism pulling gamers into acting roles."
+  },
+  {
+   "id": "video grand theft auto vi arrives after 13 year wait to rave reviews abc news",
+   "title": "Video Grand Theft Auto VI arrives after 13-year wait to rave reviews - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qRER6WE1aTmdvb2pEdzA2MFlGVlpYOGxHNm1McE5MS0JTNWNNaUExSUxFajAxYTVwdDFOODV2T2IwcXgyWUlBS0dsU1A?oc=5",
+   "outlet": "Breaking News, Latest News and Videos",
+   "via": "Google News",
+   "published": "2026-11-19T20:35:40+00:00",
+   "seen": "2026-11-19T20:51:17+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports Grand Theft Auto VI arrives after a 13-year wait to rave reviews."
   },
   {
    "id": "meet the celebrity voices of gta 6 bad bunny lana del rey and more",
