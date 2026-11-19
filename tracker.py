@@ -29,6 +29,17 @@ FEED_FILE = os.path.join(DATA, "feed.json")
 PORT = int(os.environ.get("PORT", "8765"))
 POLL_SECONDS = int(os.environ.get("POLL_SECONDS", "60"))
 NOTIFY = os.environ.get("NOTIFY", "1") == "1"   # macOS notification on new record headlines
+AIPIPE_TOKEN = os.environ.get("AIPIPE_TOKEN", "").strip()
+AIPIPE_URL = "https://aipipe.org/openai/v1/chat/completions"
+SUMMARY_MODEL = os.environ.get("SUMMARY_MODEL", "gpt-4.1-nano")
+SUMMARY_BATCH = 25
+SUMMARY_MAX = int(os.environ.get("SUMMARY_MAX", "100"))   # stories summarised per poll
+SUMMARY_PROMPT = (
+    "You write summaries for a GTA VI news dashboard. For each story, write one plain sentence of at most "
+    "30 words saying what the story reports. Use only facts in its headline and snippet. Never add numbers, "
+    "names, dates or claims that are not in the input. If there is no snippet, restate the headline's claim "
+    "in plain words. Reply with JSON: {\"summaries\": [{\"n\": <story number>, \"summary\": \"...\"}]}."
+)
 
 def gnews(q):
     return "https://news.google.com/rss/search?" + urllib.parse.urlencode(
@@ -220,11 +231,59 @@ def poll_once(first=False):
           f"{ok_count}/{len(SOURCES)} feeds OK · {len(state['items'])} total", flush=True)
 
 
+def summarise_batch(batch):
+    stories = "\n\n".join(
+        f"Story {n}\nHeadline: {it['title']}\nOutlet: {it['outlet']}\nSnippet: {it['summary'] or '(none)'}"
+        for n, it in enumerate(batch, 1))
+    body = json.dumps({"model": SUMMARY_MODEL, "temperature": 0.2,
+                       "response_format": {"type": "json_object"},
+                       "messages": [{"role": "system", "content": SUMMARY_PROMPT},
+                                    {"role": "user", "content": stories}]}).encode()
+    req = urllib.request.Request(AIPIPE_URL, data=body, headers={
+        "Authorization": "Bearer " + AIPIPE_TOKEN, "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=90) as r:
+        reply = json.load(r)["choices"][0]["message"]["content"]
+    out = {}
+    for s in json.loads(reply).get("summaries", []):
+        try:
+            n = int(s.get("n"))
+        except (TypeError, ValueError):
+            continue
+        text_ = str(s.get("summary", "")).strip()
+        if 1 <= n <= len(batch) and text_:
+            out[batch[n - 1]["id"]] = text_[:300]
+    return out
+
+
+def summarise():
+    if not AIPIPE_TOKEN:
+        return
+    with lock:
+        todo = sorted((i for i in state["items"].values() if not i.get("ai_summary")),
+                      key=lambda i: i["published"], reverse=True)[:SUMMARY_MAX]
+    done = 0
+    for k in range(0, len(todo), SUMMARY_BATCH):
+        try:
+            got = summarise_batch(todo[k:k + SUMMARY_BATCH])
+        except Exception as e:
+            print("summary error:", str(e)[:200], flush=True)
+            break
+        with lock:
+            for iid, s in got.items():
+                if iid in state["items"]:
+                    state["items"][iid]["ai_summary"] = s
+                    done += 1
+    if done:
+        save()
+    print(f"summaries: +{done} ({len(todo) - done} still waiting)", flush=True)
+
+
 def poller():
     first = not state["items"]
     while True:
         try:
             poll_once(first=first)
+            summarise()
         except Exception as e:
             print("poll error:", e, flush=True)
         first = False
@@ -258,6 +317,7 @@ def main():
     state["started"] = now_iso()
     if "--once" in sys.argv[1:]:
         poll_once(first=not state["items"])
+        summarise()
         return
     threading.Thread(target=poller, daemon=True).start()
     srv = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)

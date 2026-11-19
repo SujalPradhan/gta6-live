@@ -31,6 +31,7 @@ jobs:
       - name: Poll news feeds
         env:
           POLL_SECONDS: "300"
+          AIPIPE_TOKEN: ${{ secrets.AIPIPE_TOKEN }}
         run: python3 tracker.py --once
       - name: Commit new stories
         run: |
