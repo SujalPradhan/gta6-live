@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:50:37+00:00",
- "started": "2026-11-19T18:50:28+00:00",
+ "updated": "2026-11-19T18:55:37+00:00",
+ "started": "2026-11-19T18:55:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:50:29+00:00"
+   "checked": "2026-11-19T18:55:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T18:50:29+00:00"
+   "checked": "2026-11-19T18:55:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T18:50:30+00:00"
+   "checked": "2026-11-19T18:55:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T18:50:31+00:00"
+   "checked": "2026-11-19T18:55:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T18:50:31+00:00"
+   "checked": "2026-11-19T18:55:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T18:50:31+00:00"
+   "checked": "2026-11-19T18:55:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-19T18:50:32+00:00"
+   "checked": "2026-11-19T18:55:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T18:50:32+00:00"
+   "checked": "2026-11-19T18:55:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T18:50:32+00:00"
+   "checked": "2026-11-19T18:55:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T18:50:33+00:00"
+   "checked": "2026-11-19T18:55:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T18:50:34+00:00"
+   "checked": "2026-11-19T18:55:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T18:50:34+00:00"
+   "checked": "2026-11-19T18:55:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T18:50:34+00:00"
+   "checked": "2026-11-19T18:55:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T18:50:34+00:00"
+   "checked": "2026-11-19T18:55:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is already the most popular game ever on both twitch and kick and it s only been out for a day",
+   "title": "GTA 6 Is Already the Most Popular Game Ever on Both Twitch and Kick, and It's Only Been Out for a Day",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0s3U3Q5cGs2U1JQNnUtVkMtWDd1ZER6M1VQUFFBSmNTZWplMVZKdWplV2VhRVRqQjJ4UzMyZjNUSzF2YnRJUkktMlY0M0U5MWh2QnFKczNrUGFlYjRKMGxHSVNnSjRYNTFnQlhnUGVZZGZqUzFBeGVOdmJGQm5OS3ktTTJnUWlCa2dfOThFbWl2VTZrMGd6UFlHb0xueUt2U0gzYlBMcWlVT2NoZWRtb3F2OWJzREJwcXRz?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-19T18:51:14+00:00",
+   "seen": "2026-11-19T18:55:31+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "GTA 6 is reportedly the most popular game on Twitch and Kick since its release, according to IGN."
+  },
+  {
+   "id": "gta 6 s devotion to life simulation is taking retro gaming sickos back to the dreamcast era",
+   "title": "GTA 6's devotion to life simulation is taking retro gaming sickos back to the Dreamcast era",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-excessive-devotion-to-life-simulation-is-taking-retro-gaming-sickos-back-to-the-dreamcast-era-theyre-calling-it-the-shenmue-of-2026/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T18:49:05+00:00",
+   "seen": "2026-11-19T18:55:32+00:00",
+   "summary": "Do you know of any places where criminal couples hang out?",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's life simulation focus is drawing retro gaming enthusiasts back to the Dreamcast era, per GamesRadar+."
+  },
+  {
+   "id": "reel talk gta vi has millions spending the day exploring leonida",
+   "title": "Reel Talk: GTA VI has millions spending the day exploring Leonida",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGtmNHRnT0k5UDloU3VCQUl6SE5SbFpuNmlmTG9YOVdKUEhrMGE3NFlEQlZOREtTRklfWGFXTklSOGRIRTRsaUlwY1gwY1NfNzNSVGtyWGQwM2tBTXY0aHVmQ190NkFiNWpnTTdCYzVVSkp4SFdYX2l2TDFlQXF3eFlZNmVFMXJMNmNUa3Z4OUx1SHpDX25DeA?oc=5",
+   "outlet": "KOLD",
+   "via": "Google News",
+   "published": "2026-11-19T18:49:00+00:00",
+   "seen": "2026-11-19T18:55:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Reel Talk notes GTA VI has millions spending the day exploring Leonida."
+  },
   {
    "id": "why gta 6 s extraordinary soundtrack makes music the heart of the game",
    "title": "Why GTA 6’s Extraordinary Soundtrack Makes Music The Heart Of The Game",
@@ -116,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims GTA 6’s soundtrack is central to the game according to the headline."
+  },
+  {
+   "id": "rockstar left extra space in gta 6 s massive map for good reason here s why",
+   "title": "Rockstar Left Extra Space In GTA 6's Massive Map For Good Reason - Here's Why",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWFPQjBDamc1NVNKdGZRY2dmemtjUW43ZXJJaEdsOUVoWnliNUd2S1hrX21aMnJOMV9pU2xzVWd6RjVTQ0FuTUdUZVU2MzcxUnR5Q21EOElFTy0zZENRb1dEa2JDZUoyN3pSa29hUGxkUndfbWpEVUtGZ21mVWtiemx4TkpBZ19GUmhOeDY1MnpYR2ZlLWpJYVhn?oc=5",
+   "outlet": "SlashGear",
+   "via": "Google News",
+   "published": "2026-11-19T18:46:46+00:00",
+   "seen": "2026-11-19T18:55:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar left extra space in GTA 6's large map for a stated purpose, per SlashGear."
   },
   {
    "id": "the gta vi leak cost rockstar 5 million for most studios that wouldn t be the biggest loss",
@@ -142,6 +194,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story describes exploring GTA 6's national park and mentions public bathrooms."
+  },
+  {
+   "id": "the cat came back roaring kitty tweet sends gamestop stock higher amid gta vi fervor",
+   "title": "The cat came back: Roaring Kitty tweet sends GameStop stock higher amid GTA VI fervor",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbFFYLXJydXEwQ0xDcnFzMTJSbWJPcS16WmhZVHZsWEIyVThhZWdZU2VHLVRyMlhsWE9Ld1RPY29iZUd3OUg2VWQtbEN4ck56b210YXV0a0t6YXlMRTE4TDlBSHpEODZsMGtCMGRCOEFIRjRwMV9uUWFfQmZhOUNxVWxNSHdiVDJhRDM3Q25pb3dKbldmU2h4aTI5dzZOTUJYS0JOUzNGNThmRXJFekY2aWNzWkZBendPN3kwLWFqLUNmT3JNY3lJQ1p5cUloNGUzX2dHN09DNGtyYk4wZi1oNGtR?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T18:42:20+00:00",
+   "seen": "2026-11-19T18:55:30+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A Roaring Kitty tweet boosts GameStop stock amid GTA VI fervor, reported by Yahoo Finance."
+  },
+  {
+   "id": "gta 6 s jason and lucia actors post first official statement and photos",
+   "title": "GTA 6's Jason And Lucia Actors Post First Official Statement And Photos",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Na0pwbzA4cmJQZmw4LUZEWjhtQV9GVlFmZ1lGeFRyNlpDb2R5OUJKR3p4LU9vRTJUYmRyeG5pbWE4VmRHcUJ5YmlFSFV1bk95T2lRQzQ1REJjQlVPUS1vcW1ucGJpa0hJVEhXSDZOdkRPZ25HdjMxc3JR?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-19T18:42:20+00:00",
+   "seen": "2026-11-19T18:55:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's actors Jason and Lucia posted their first official statements and photos."
   },
   {
    "id": "gta 6 has made an estimated 1 84 billion pre orders included more than double gta 5 s first day",
@@ -183,6 +261,19 @@
    "ai_summary": "The story reports that drone drops copies of Grand Theft Auto VI across Delaware."
   },
   {
+   "id": "from hank williams jr to morgan wallen george strait here s a list of country songs featured in grand theft auto vi",
+   "title": "From Hank Williams Jr. To Morgan Wallen & George Strait: Here’s A List Of Country Songs Featured In ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWndreXJuUDBuVnV1OV9xVVU5TldTWkZJMFRudjZZYlNwa0kzQ2psM0RJZFFIZHZaMld1b0pzeS1kQUp2MTZKcmNEUjl4cXRlM3Blb2xBb1ZSNlVwTWR6OEYyT2E5cHMwc0IwWjQybnNNY2FIYXhhNTJ6S0FVbWJIQko1UFRvUFdVdExCcVhONGhNTTgzMFh2eS1lM3hNSkVoR2tNM2s3NDR5M2poRzlCa0ZCWnFiclk2V3p5RldKOThRaDB5cE5iZlQyUktIOTUzNHpoUVl4R3JpY0tVMnVYRXpiUkJVRHdNdlE?oc=5",
+   "outlet": "Whiskey Riff",
+   "via": "Google News",
+   "published": "2026-11-19T18:37:32+00:00",
+   "seen": "2026-11-19T18:55:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A list of country songs featured in GTA VI includes Hank Williams Jr., Morgan Wallen, and George Strait."
+  },
+  {
    "id": "kyle brandt has strong message for adults taking off work to play gta vi",
    "title": "Kyle Brandt has strong message for adults taking off work to play GTA VI",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXRKUEFHTHJvb09VMW5IcFdITFhXSUNuWkhwRW5lb1plcEZUNk9Od2I0LWRiWjlXUHM4UjhYN2thaERDcnFTOEpBNTZkdFpuSzRFc18xM3BiQlhSUTNqS1dMaV9CRUdPd3dLWU55ejhxa3RwbXJlNk0ySFJ3a0xuUjUxU0ZJQQ?oc=5",
@@ -194,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Kyle Brandt has a strong message for adults taking off work to play GTA VI."
+  },
+  {
+   "id": "cheats in gta 6 are weirdly restrictive and i m counting the minutes until the pc version fixes them",
+   "title": "Cheats in GTA 6 are weirdly restrictive, and I'm counting the minutes until the PC version fixes them",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWE1zVGI1VFpHUEMwYm1XWTQ2T2JBQ2g5RjFmRlZPOF9tR1Z0WmZpaHRoaHhKLW5xUnpIajNVVUR2Y19vWGIwZTk4enFhR21aOGd2blBoaWVxX1hOMHg4djFmWTZCZzlXMTktN1E5eTFfM1FvdG5vUnZPc3dwZVE5RXNHRDg1LV96Smk3ZkZRcVBmcnNXWWlRZk8xeUpxRUxuZ1hOR05Pcm1uRHpKR2lXRl9xdlJfQjVBNEVhSjc2ZlZuMkVnd3JOcXVxTlVHUXNzczFTVg?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-19T18:35:22+00:00",
+   "seen": "2026-11-19T18:55:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 cheats are unusually restrictive, with PC Gamer noting anticipation for a fix."
   },
   {
    "id": "how to play gta vi on your pc today with a free app",
@@ -389,6 +493,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story provides an instant four-hour gameplay review of GTA VI."
+  },
+  {
+   "id": "heat s erik spoelstra asking players to invite him over for gta 6 marathon is hilarious",
+   "title": "Heat’s Erik Spoelstra asking players to invite him over for GTA 6 marathon is hilarious",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzlLdVlzVDNHNERlNEpvbHFrZnQtdlpuUGFZbmxsUHhZcFd0Z2p1MjBhdktxQU5CYXJtQS0xTVdnREJlbVF2MjdKWEpiWUREUG0tRGc4bjJFR2tLcFJuY0RMMHBNWmN6Mnl5OU16V21wQjVEeWVBTjk4SlAzLS1Gb2REU3RoU0xTS0JR?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-19T18:09:41+00:00",
+   "seen": "2026-11-19T18:55:30+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Heat's Erik Spoelstra joked about a GTA 6 marathon by inviting players over."
   },
   {
    "id": "yes that s bobby moynihan in gta vi",
