@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:21:24+00:00",
- "started": "2026-11-19T20:21:15+00:00",
+ "updated": "2026-11-19T20:26:16+00:00",
+ "started": "2026-11-19T20:26:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T20:21:16+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T20:26:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T20:21:16+00:00"
+   "checked": "2026-11-19T20:26:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T20:21:17+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T20:26:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T20:21:17+00:00"
+   "checked": "2026-11-19T20:26:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T20:21:18+00:00"
+   "checked": "2026-11-19T20:26:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-19T20:21:18+00:00"
+   "checked": "2026-11-19T20:26:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-19T20:21:18+00:00"
+   "checked": "2026-11-19T20:26:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T20:21:18+00:00"
+   "checked": "2026-11-19T20:26:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T20:21:19+00:00"
+   "checked": "2026-11-19T20:26:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T20:21:19+00:00"
+   "checked": "2026-11-19T20:26:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-19T20:21:20+00:00"
+   "checked": "2026-11-19T20:26:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T20:21:20+00:00"
+   "checked": "2026-11-19T20:26:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T20:21:20+00:00"
+   "checked": "2026-11-19T20:26:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T20:21:20+00:00"
+   "checked": "2026-11-19T20:26:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "factbox gta vi economy 1 65b in preorders surging console sales and workplace absences",
+   "title": "FACTBOX - GTA VI economy: $1.65B in preorders, surging console sales and workplace absences",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTd4cEtWemRMUjEydEJURlloUEd4SWY3czd2b1JCNkRZZ2RHSExRbEFpdjRPUFdCM0huQm9OanhQdW40V3VwT3lWMTU5QlZxek1GU09xRWdqRWlnMVVia0JZTmV5T0wwcDVJd1l4NVNlMjNsTWZES0NIaFYxZWhDXzhvcExWckdSSDRtMHNHZTRrc0g1YXhnZ1BxUWtZZDFKTGhjVlZtTENId1h6RzBXRk5aYXZLSzczM0dQOWpubE8?oc=5",
+   "outlet": "Anadolu Ajansı",
+   "via": "Google News",
+   "published": "2026-11-19T20:25:18+00:00",
+   "seen": "2026-11-19T20:26:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA VI's economy with preorders and surging sales and workplace absences."
+  },
+  {
+   "id": "i spent gta 6 s launch playing a 5 game that also came out today and i have no regrets",
+   "title": "I Spent GTA 6's Launch Playing A $5 Game That Also Came Out Today, And I Have No Regrets",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdXhjQm1IVG5oQTdNNWpIREFzek12SVM1ZDMwaU1IRl9HYUthcVBNUXZ1Q0ZsYUl3WXNLZm9RNFJsWFk2WUJkNjVidnd1U0VfaHpQc0pSanRxM0tJMDlZR0dtQ1hCbGpKei1kWU9scTlmSjIzV3ZMUmI2MWh0WmlmVENrSDQ1ZFAtZXVvdzZkSGJJWUhjV1QzVkJ1QjA3ekNhZk5VQnZHS1JBT01YMGNzREJBNVoxbGs5c01QZQ?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-19T20:23:11+00:00",
+   "seen": "2026-11-19T20:26:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports trying GTA 6's launch while playing a $5 game released the same day, without regrets."
+  },
+  {
+   "id": "gta 6 release sparks gta flu as gamers plan days off",
+   "title": "GTA 6 release sparks ‘GTA Flu’ as gamers plan days off",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDMtUS1qRzNxcDBLT2ptTXdjM3RBal9HRmpsQkNpTnVucDdDRmxQYTRVckVoMERtQnlTZEY2U0owekRSMm53OVFYTXl3UTBGVHY5TUJZWE9tUkZEeFh5Ymw2dzZJY29DMXlrX21fWENUQUhTRmZlNFZudWRoUUtidTZnOXNtUmFJTTUw?oc=5",
+   "outlet": "The American Bazaar",
+   "via": "Google News",
+   "published": "2026-11-19T20:18:04+00:00",
+   "seen": "2026-11-19T20:26:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 release triggering discussions of taking days off for GTA Flu."
+  },
   {
    "id": "how many people called out sick to play gta 6",
    "title": "How Many People Called Out Sick To Play GTA 6?",
@@ -131,6 +170,19 @@
    "ai_summary": "The story explains how to find the jet-ski-driving dog in GTA 6 and why readers would want to."
   },
   {
+   "id": "102 things that happened before gta vi",
+   "title": "102 Things That Happened Before GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1d3pvWmIyZVppMnlsOW02dGFZZ0YwVm9kVXVUbUpWcDJ1RVhDSW51QVVtMENpNTRBOXpVdUpyWjlvWm8xaHZIZlc1cU5VbTJKNlFsUmdqb185d0lDSGZLMlR3ZGdXQ2ZzRnRBaWdCNG1MR0ZCUkp6ak1WcDFELU0?oc=5",
+   "outlet": "Game Informer",
+   "via": "Google News",
+   "published": "2026-11-19T20:14:00+00:00",
+   "seen": "2026-11-19T20:26:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a list of 102 things that happened before GTA VI."
+  },
+  {
    "id": "gta 6 guides and walkthroughs",
    "title": "GTA 6 guides and walkthroughs",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNRDU5YmszRGhzVW4tMnpOQk5xbzVLX3I1cHVNc3dIeHpaU2tsd2xGNF9fQm1CV0VJblFpZUFRSFdrNEpsX0JtUFl6SUI2MFlaa1RISHNLdHZqZDJiOTRpcXBacXdudw?oc=5",
@@ -142,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story provides GTA 6 guides and walkthroughs."
+  },
+  {
+   "id": "6 female streamers playing gta 6 to watch on twitch",
+   "title": "6 Female Streamers Playing ‘GTA 6’ To Watch On Twitch",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMQ0FnWEFta0lPbnFlRzhzdDZFVG1ZTzFUUHNoamZKYU5Va0o0b3FWVjAyTDRUTDhxLTRzUkd0TTdUNmVpcUFYYkQ2dEZPSF9XUU1TOHlyNGVOZXVHbF9kZzZOTl8tNlhZZVhBQ0JDWFlnUQ?oc=5",
+   "outlet": "Her Campus",
+   "via": "Google News",
+   "published": "2026-11-19T20:11:23+00:00",
+   "seen": "2026-11-19T20:26:11+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports six female streamers playing GTA 6 to watch on Twitch."
   },
   {
    "id": "all gta 6 base jump locations",
