@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:02:59+00:00",
- "started": "2026-11-19T11:02:52+00:00",
+ "updated": "2026-11-19T11:07:55+00:00",
+ "started": "2026-11-19T11:07:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T11:02:53+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T11:07:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:02:53+00:00"
+   "checked": "2026-11-19T11:07:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T11:02:54+00:00"
+   "checked": "2026-11-19T11:07:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T11:02:54+00:00"
+   "checked": "2026-11-19T11:07:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T11:02:54+00:00"
+   "checked": "2026-11-19T11:07:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T11:02:54+00:00"
+   "checked": "2026-11-19T11:07:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 37,
-   "checked": "2026-11-19T11:02:55+00:00"
+   "hits": 36,
+   "checked": "2026-11-19T11:07:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T11:02:55+00:00"
+   "checked": "2026-11-19T11:07:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T11:02:55+00:00"
+   "checked": "2026-11-19T11:07:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T11:02:55+00:00"
+   "checked": "2026-11-19T11:07:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T11:02:56+00:00"
+   "checked": "2026-11-19T11:07:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T11:02:56+00:00"
+   "checked": "2026-11-19T11:07:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T11:02:56+00:00"
+   "checked": "2026-11-19T11:07:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T11:02:56+00:00"
+   "checked": "2026-11-19T11:07:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi is here here s how utah fought games like it",
+   "title": "\"GTA VI\" is here. Here's how Utah fought games like it.",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWUtOVRmVFhXUDF4cTdRN3NFX1hoUXJtNlBTZExLcXhCQ0RzeEFMampoNHY4SnUweWZHZW9Oc0hSWFc1YzRpLTJRZ0xDVVBEOVZDdjFPVHkzYzVaSlNFbnVHY0ZCZ1g1MzJlUmhVMklDaG5EN2ZqYkdZcTIxN0VJVUdUelY1SDA4MzZKY2RYT0VoUEdqejJNX0xYT01IVlBoZERUM2gzVlBfLWFn?oc=5",
+   "outlet": "Axios",
+   "via": "Google News",
+   "published": "2026-11-19T11:04:55+00:00",
+   "seen": "2026-11-19T11:07:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "\"GTA VI\" is here. Here's how Utah fought games like it."
+  },
+  {
+   "id": "gta 6 sparks controversy with anti furry law scene",
+   "title": "GTA 6 Sparks Controversy with 'Anti-Furry Law' Scene",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YMlhfa0QyeUJCVEdSZ3c2WDVxdUNQczUxa0JoU0Z0ZEdNTGxXUTNKNzFSNTVEVm5kbjA0RldiUk8zQUo4eTZ5cmYtMmxjZGVGUnRiN09MVUV5ZlBaQ1RMSGh5MkFUZw?oc=5",
+   "outlet": "PinkNews",
+   "via": "Google News",
+   "published": "2026-11-19T11:03:51+00:00",
+   "seen": "2026-11-19T11:07:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 sparks controversy with 'Anti-Furry Law' scene."
+  },
+  {
+   "id": "how to save in gta 6",
+   "title": "How to save in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SdFRqZW9ZYlc1anp4SV9vbkxrbE02dU1YZ083X2lZRE9vOWlrZ1dBNEpiRTQxOWdOUDcyV0d4ZmZoUnNwQnBrenhxSE1XdVVmYTFyRThhN2M1SkpPVXVJ?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-19T11:01:20+00:00",
+   "seen": "2026-11-19T11:07:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to save in GTA 6."
+  },
   {
    "id": "gta 6 fans in japan disappointed after discovering censored content",
    "title": "GTA 6 fans in Japan disappointed after discovering censored content",
@@ -337,6 +376,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A South African DJ celebrates featuring in GTA 6, described as a dream come true."
+  },
+  {
+   "id": "sorry boss workers are clocking into gta vi instead and taking days off to play the game",
+   "title": "Sorry, boss. Workers are clocking into GTA VI instead — and taking days off to play the game.",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00WGdaSUFnWUxpaG9LLWd4eGJTbXFVczZTZVZybzVmblJGcVB1cGxpQkhPdk5SeE9ib0NiczdPck96UEN3YlpOVHRHTEhwU1c3cjVwNHJ0YmtZWkY3NzV3enpIXzI2dEJYWG8zTXQ1aWNuQlZOUVRWWmstQTc?oc=5",
+   "outlet": "The Boston Globe",
+   "via": "Google News",
+   "published": "2026-11-19T10:31:50+00:00",
+   "seen": "2026-11-19T11:07:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Workers are clocking into GTA VI at work and taking days off to play the game."
   },
   {
    "id": "gta 6 estimated to sell 17 million copies generate 1 65 billion in revenue",
