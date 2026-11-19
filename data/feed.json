@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:00:21+00:00",
- "started": "2026-11-19T06:00:17+00:00",
+ "updated": "2026-11-19T08:41:41+00:00",
+ "started": "2026-11-19T08:41:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,678 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-19T06:00:18+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T08:41:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 85,
-   "checked": "2026-11-19T06:00:18+00:00"
+   "hits": 91,
+   "checked": "2026-11-19T08:41:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T06:00:19+00:00"
+   "checked": "2026-11-19T08:41:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T06:00:19+00:00"
+   "checked": "2026-11-19T08:41:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T06:00:19+00:00"
+   "checked": "2026-11-19T08:41:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-19T06:00:19+00:00"
+   "checked": "2026-11-19T08:41:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T06:00:20+00:00"
+   "checked": "2026-11-19T08:41:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T06:00:20+00:00"
+   "checked": "2026-11-19T08:41:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-19T06:00:20+00:00"
+   "hits": 8,
+   "checked": "2026-11-19T08:41:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T06:00:20+00:00"
+   "checked": "2026-11-19T08:41:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T06:00:21+00:00"
+   "checked": "2026-11-19T08:41:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T06:00:21+00:00"
+   "checked": "2026-11-19T08:41:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T06:00:21+00:00"
+   "checked": "2026-11-19T08:41:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T06:00:21+00:00"
+   "checked": "2026-11-19T08:41:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "it s cinematic gamers get first taste of grand theft auto vi",
+   "title": "'It's cinematic': Gamers get first taste of 'Grand Theft Auto VI'",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUFNNk5mYWIyUllpWjlORk4zX0lKaWJLVEkxczZSc0dTZTZCUFhwOVpSRTU2RV9kWnRtREE1NVk1OFdXU2lrbldxazJIeXRETjRQUDJEVFI4TDllQzE3bEQ0NkRTZGhYX1FNTFZYWDludFd0M1UyMjNXUVdKcVVUQzZYMEs4WXFrcHQ3LUNnNThyOWlPNm12X3BGSEZyWVNxTlBVSFl4cWVMQk8wb2t5TURWWWwyMWZQQldMMS1hUkJhRGZ6T0tlckpLM1Z5NnBPeWtDbXZJM1NRandTZm9femhUZHUtMG8?oc=5",
+   "outlet": "KMVU FOX 26 Medford",
+   "via": "Google News",
+   "published": "2026-11-19T08:34:54+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how long is gta 6 critics finished the story in 50 to 70 hours 100 is estimated at 150 to 200",
+   "title": "How long is GTA 6? Critics finished the story in 50 to 70 hours; 100% is estimated at 150 to 200+",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2hqUkFTbTBBZ01ucVM2ck02Qk9BS0VpUmNmMzl3ZFJjeWtWUFJKUkVsLWNCdlNIZXEtX0U2QkNZcTFZeWxSNDBPRDlCRjJ4bjJlTjNoczc1ZUEwUmFsYzFweGo2Zy16OEs3R3g4SG1PcjhmUE83LVotc25sOVl2Q1pqNndFN29xZm0zNTF3eVUwMW1FLVFwbTZwMEI2UG5BNjJhLUFwUQ?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-19T08:33:50+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "does gta 6 perform differently on an hdr tv",
+   "title": "Does GTA 6 Perform Differently On An HDR TV?",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjBJZFRqd0RZby1LRlhDd2k0VzNwVEpNbVBsX3lkenhKRlBNUFNtb3BBZFVsYWlNZ0wyUlM5SERaXzl3NVhRdnhDYXJ2dm0xYzBDWC1lVi13cnNKUEdUMUlFNGxVc1NBVzlNUnFsbFNwTGloS1VvN1FYcFU3TzhRZGhnR1Q?oc=5",
+   "outlet": "SlashGear",
+   "via": "Google News",
+   "published": "2026-11-19T08:31:57+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 everything you need to know about the biggest video game ever",
+   "title": "GTA 6: Everything you need to know about the biggest video game ever",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZVZ3cEVDUjlhcjJxVFZEWG9hLTVqaUt2LVpjOFVSTDdJUEtUTWxSd2g2eXN3RTlVU0VtX2hvX2hPaS00NWhVTFl6aFJkMm5IclBQbmVZeGpZbUNiMXhBWGV2TXZJSkhQU0hsQjcyeW92ejBnNHZGMXZTZmYzSUlISzVZZXNiaTRLS2tkVmpZZlN2Y0ZiNlphc0FzU2F5MDVBWG9tb0c3Qnhvdw?oc=5",
+   "outlet": "Arabian Business",
+   "via": "Google News",
+   "published": "2026-11-19T08:31:42+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "gta 6 60 fps on ps5 pro rockstar says it s not coming",
+   "title": "GTA 6 60 FPS on PS5 Pro: Rockstar Says It's Not Coming",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQa2hwNDVWS0ZIRm9QV1EwMTE0SUdBbFRJQXpNbEwyZHhMcHplbHB6YW5wODlPbDNVVjFpRDBZYWdfcWZVNFlMbWZWTTFPVi1wS2FGNHBQMVM4UEk?oc=5",
+   "outlet": "ShiftDelete.Net",
+   "via": "Google News",
+   "published": "2026-11-19T08:30:27+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "believe the hype grand theft auto vi debuts to rave reviews",
+   "title": "Believe the hype? Grand Theft Auto VI debuts to rave reviews",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OSnlkNm9kcmEyWHdOYWpsM1c2eGtQOU5uMlVpMGR3WUJwVjRmQ043WjRvVFMxY0tOOEwydzAtNW8wWjBERXVQSk9tb0t2aUUzNjNSUUFnaXhOMTYyZHpCNjF2ZWhMSDA?oc=5",
+   "outlet": "Reuters",
+   "via": "Google News",
+   "published": "2026-11-19T08:28:39+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi is here and i m not taking time off to play it but the game is a masterpiece",
+   "title": "'Grand Theft Auto VI' is Here and I'm Not Taking Time Off to Play It...But the Game is a Masterpiece",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDVDT0NBOTc0VEh6eGZoRXduT3VhU3lNeUxfaTBaaHRHWVlZTTBhREF3ZVh2dGNYekdBYkxqaUpvODlVUXdTYnl3a2REV1hmWVdaVE9yUld0d3I0UlFVLWZFSk1lVkFUWU1MUXZ0N2FXOHU5SEtPcW9QU25JVG1rNWFPd1l4WDU0QUsxQXhnbHVQVjMwWnY1NENYSmxYWXg3aDhrS2oyX3NLaDhwRzl4dUNfTFdoUXJQbERWOEo3cU9idWY2UG9YZk5sWQ?oc=5",
+   "outlet": "Awards Radar",
+   "via": "Google News",
+   "published": "2026-11-19T08:25:33+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 is live how the new zealand trick lets millions play a day early",
+   "title": "GTA 6 is live: how the New Zealand trick lets millions play a day early",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1FpN1lMYWl2MzhHMW9kMnJUaks1a2xkWjNsV3NVM2pJaWNVZUgxQWxDcV9NZFd6clN4YUJkbThROHpBUzExVWdTSlF0VTVSMUtqSVlBSUtCR19Tc2hYdkpURG5UbzJQM3RCNW1mRmFkZXh2cVdmQXFBWnY0TTdxdFlwNA?oc=5",
+   "outlet": "GamesHub",
+   "via": "Google News",
+   "published": "2026-11-19T08:16:15+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 album tracklist every known song sorted by scene",
+   "title": "GTA 6 Album Tracklist: Every Known Song, Sorted by Scene",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZbkJIRHgwUURKNERyM05LMzBscW9kelpJdzQyRlRlVkV2QzFVejg4UE14em1oYXVxOXIzQkdhUWpJSEo0NG4xOGhKV3B0UVJnNG11blVxYk9udGJXWXZKYkdjSGFfRDEzdXZjUXBiTzNYLVk?oc=5",
+   "outlet": "MNEEMO",
+   "via": "Google News",
+   "published": "2026-11-19T08:07:48+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "pro athletes clamor for grand theft auto vi release but they insist their day jobs come first",
+   "title": "Pro athletes clamor for ‘Grand Theft Auto VI’ release, but they insist their day jobs come first",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0UxQkxXQ0RqaEdMcHpBZVRsQ2tFTFZUbk9QOEd1U2sxUmYzNzZMcEY4RXJ4bGF2c1BuMHJINmphWkxyMmY2dGJOdFBiNGdDc0prX0FPckRPZ09QM0cyZmVJUkxuM1pwYmxMY1RPQTFEWEtBYU9OQV96SFdialQ4cUp4LUFPWjFfT1RqVFlncmtPQmJlTm5hODJZYmdlek8yOHlNQk40S1ZSZ3NCaVFyN29FWGFfMWRkQmFYeXlQNkRjVnRpLThQatIBzgFBVV95cUxPcmZEV3dKYTBHamNxc1RwcGs5bmFmYlQyNDdNaThsdkw2Zkt4c1hyN2FOcHRNMUEwUjI3TXdBSHk4VzhaemhEWlh5WWVTZW1WQjYxS1prMmJTWnlTc0lwQ1JBM2VKdkMzeUhISWFpYUtxa01tOTJ6TWdKX0xhWHlna1BFOVJvQTZhRFBlM25JTnNXc1RUdEpDUC0xVFQ5NjRWdEQyRFJOeDVocjVNU0JfTnlqZm9aTHhxb2tKMkw0TjdYMHFzbHU2MFg3NlhJdw?oc=5",
+   "outlet": "WWLP",
+   "via": "Google News",
+   "published": "2026-11-19T08:06:26+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi your cheat sheet for the biggest game launch ever 19 11 2026",
+   "title": "Grand Theft Auto VI: your cheat sheet for the biggest game launch ever, 19/11/2026",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGNodDljUGZmZ2FnNE9mR2hxM05XeGlWRU9BYmxSRmV6azJ3bjYtR0FmUFozVFdad2x0NXZWTWNWaXhZcVEyUXpEY1dabWRrc3ZjR1J2VHVrSnRkMmVBMU5VWHFiYXJtS2loTFlRbUl3ZjVjRUhleE5fZzRHY3pHN1p0WQ?oc=5",
+   "outlet": "Video Games Industry Memo",
+   "via": "Google News",
+   "published": "2026-11-19T08:02:11+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "grand theft auto vi is out and it s the highest rated game ever",
+   "title": "'Grand Theft Auto VI' is out, and it's the highest-rated game ever",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3BJeVZrM0FrYmhPOGR5RElkdDJlMTJVNmY4NlZkUGs2TGx4RFJTSHRXMFpocklOUWk5SVN6S0hObGxmcGxub2lvZl9nbnVJTm1raDEtZ0hkX25ZVnNhYzVULXVERkdzMEFVbmp2clA4VnJNdVRMMDQyam9WQlgxdHBNUnM?oc=5",
+   "outlet": "Morning Brew",
+   "via": "Google News",
+   "published": "2026-11-19T08:01:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "13 years of waiting for gta vi what the hype says about how we consume",
+   "title": "13 years of waiting for GTA VI: what the hype says about how we consume",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVEzMXdkMjdyVXMxTXFKWm1XNHp0SXNuT0pOUnJVdnRnRkZweDkwV2Fnbl9TM0ppSjFJNGZDeXJmdG9uZVNfVTMzWjhOZTdvMC1UcjF1bWgwSlpueXlKNkZFNDNDQ25CUmdNODluQ1hZRHN4Q19yRDRhbHExaGh6Ri1LVXRkS0s2UWVjT252bXRXbzhRcmYxU2hBeW5qeEhKZFk3bzJtTng?oc=5",
+   "outlet": "The Conversation",
+   "via": "Google News",
+   "published": "2026-11-19T08:00:55+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "game on grand theft auto vi",
+   "title": "GAME ON: \"GRAND THEFT AUTO VI\"",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa190eUh2bzZpSlczSnRzYlBEYlQyeXdXNUxZSU85US1zeC00eUw5QlNUSXljenRKUlZDX2pfVjNMLVB3OTV0YjNWQ3ZaMXpNWEEzZzdWaHIwZDVtV3p1MFhBQnIwcnRaM2ttVnBZdGwtNnNhdU9VVHlfTVpJSUtWSno1bUV0MzVtTnBTZGJ1ZU5TQVE1bTZIX0NEejVKdEVnSXRpNGhkbWF3dktudDhJWm04Q2VPNndVblpMYQ?oc=5",
+   "outlet": "Local 3 News",
+   "via": "Google News",
+   "published": "2026-11-19T08:00:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "the specsavers gta vi campaign is hilariously on brand",
+   "title": "The Specsavers GTA VI campaign is hilariously on brand",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTnNZaWF1TUNrR3FyYUc1M1owczhTTk80d0xZU0pqcGU2RUVyN2xtYW1EVDBlN1RiWDZJVEFXRFlVLXhSck9laElFX3FxaXdlV1hYeGRGOUpJNFZQeGxhWVd6QWtKVVduVDBjeHBGRU5fU0lmOVJIREZXa2Z4dkxEWE92WVNJWHJMX3B0WlhEdXU?oc=5",
+   "outlet": "Creative Bloq",
+   "via": "Google News",
+   "published": "2026-11-19T08:00:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "here s why you won t get any websites in gta 6",
+   "title": "Here's Why You Won't Get Any Websites in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblVLc2pmTlhNa0h0WUYxeENFZFU0WVAyMDlwOXBiQ2puQVNubHVGV3hXNWhRbktKZXBEOE9oOFJwVVdta3pnUEV5OVJFeVVRcE1vaUZNWnpxbU1TWlNzbnI1eXd0X0JXN09hVHFoSnh6ZlFmSzdveS1hUE9ZZTdqRExYdzNJeFFDOXRyU0JsRUhTTFRUZk1GVQ?oc=5",
+   "outlet": "autoevolution",
+   "via": "Google News",
+   "published": "2026-11-19T07:56:40+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 watch the first hour of gameplay and the first two chapters",
+   "title": "GTA 6: Watch the First Hour of Gameplay and the First Two Chapters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFBpMlBIWWdCMkZqeXQ0N2JjNHFLdzl0dnJValRzWlNfMGt0MmZKQnVjc1VIX3ZnOGlPY1VscTM2TnpPSjNHbE9POEJfUTVwV2pWWUZzT3hXb1ktR3kxcjNUUmtaQUJmYmhFYzN3cWNheWk3Qnd2RTVWLUlYb3VZaVNITzQ5dVlyTXlsN3BKVFlBX0dLQVVNZkRLNkZlVUZSQ09fdXo5R04tTGVMdXdETEl3?oc=5",
+   "outlet": "autoevolution",
+   "via": "Google News",
+   "published": "2026-11-19T07:54:20+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "the full gta 6 soundtrack reportedly leaked see every artist and track",
+   "title": "The full 'GTA 6' soundtrack reportedly leaked: See every artist and track",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LazFtLVpoQTd1d2hnOUJsdGRGLVZJMExPVzlZREFaUXVFNVBCaUJRTkt1a1A4NHlqel9nUGtFcnNqWGJyeXg0ZTRTWmRfeGRFekFHaURqdUlRYXkybTRv?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T07:44:23+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi launch exposes cyber aggregation gaps in broker books",
+   "title": "GTA VI launch exposes cyber aggregation gaps in broker books",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjdPMVo0aTN1X2NOR0p2akRmR2Y2VFhOdi01MXFxTEtyS1NJRVdnQUJ6SjM4Wks2SzdMRzVDNGpVeVp1WjJQNEF0YnBfc25qSFBuQ0Z0cHBNQ3VVNnJQbG5vaC1MWS04MHh6Tm1CbEl0b01pcXQ2Q3dCdzVhLXlDNFk2M1RxMEluRElUbUZ5dDZsR0JGbW9McTd4UTRaQkhSU3dqd0EzSWN0MWpRVmI1aE02SmkzQ012b0NxWG9vLUxuLUE2WjJNYXU0Yw?oc=5",
+   "outlet": "Insurance Business",
+   "via": "Google News",
+   "published": "2026-11-19T07:42:51+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gme stock in focus gamestop bulls want gta 6 squeeze even as ceo ryan cohen questions digital only games play",
+   "title": "GME Stock In Focus: GameStop Bulls Want ‘GTA 6 Squeeze’ Even As CEO Ryan Cohen Questions Digital-Only Games Play",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWmw3ekFFQmtQaTU0NjZTUG8yNmxDR3Nlam82bEpaU0tFVnhUTl9fSHE3MWhyQk1CT0NILVhZM2JtbXpQNHNVN1pzT3lXbXBfYnRzWUJ0S3dXMzJDVktyVHNIZ3lBRndFM0FVWkx6WWxYSWZKNmxLWEJUSzlGU0dxaHRrLUk1TkpjcVRoTW55a3dXbHUzNl9ia0lwT05TVEFiWTlvZUpaTFVUZlpaWUZqSWF2OGc4WWpjLWRuY2hxOHgzQ2pYV281NXRpT1cyR2pmTWgtN2JJT0hsQ2tSQWJndmpqa2hhLWVoaHN1U01EaU4xRWNqSkk0eWZDV2JHZFk?oc=5",
+   "outlet": "TradingView",
+   "via": "Google News",
+   "published": "2026-11-19T07:34:05+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "when is gta 6 online coming out here s everything we know",
+   "title": "When is GTA 6 online coming out? Here’s everything we know",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObTZObTEtUVVFMGpLV1dURE5xRnB1dU4zUjJMYWpUYmtlSG02dm1zUS1oeXIxbFp2TWRvMFA3ZEd0aUI2ZUtCU3ZWcU5CM1JsUUd2dl9PbkFEVDVOV2lkdEQybHdHUUd6TllSTWkzRER6NkV0V3loaG92TGJpa1hWTGptclA5bnBCWXJscFluR2VNci1keDhQZlFvOXh4UQ?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-19T07:33:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to rob banks in gta 6 unlocks payouts and vaults worth up to 205 000",
+   "title": "How to rob banks in GTA 6: unlocks, payouts and vaults worth up to $205,000",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOclowWlp1NUkwT08tRXdVbkVuUDQ3X1RRZmxRRmlfd3NWdkVOcXVubGlrY0trRGpfN0pVS2E0TXRzMEdRRFNMN3cyWERMVzZ3Q01URm9HWU5lU1dQVGNyRXc5TTdjVTVfYzJ3ZWZJRFdDOS1KTmMxUHBUTGh0ekVmOHBCYXBXbjhFeGdfeks0ZEhDX1AwVFE?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-19T07:31:44+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta vi to supercharge sony but not so much in japan",
+   "title": "'GTA VI' to supercharge Sony — but not so much in Japan",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRUd3ektpRnVRLWY1ZC10QlJLY25QaDBOb3dGbUVGZTZUd2I4enpFMWdMbWlhMUUySlZvOEI1a1VjWWlVSk1oMFNzMzVocFRvcHo3XzRIczE4NEZET3M3dlB6cnhOcU1Samo0c01XMVJteWdmLUFWRDhYOVZyaTE2b3Nfc09DY1BxalN2NmlqcFdfMkI0eG0weFhpZzhENTl2dnVLbTZqSmNPSEVEZjNWNFpLbG5UYW9oTXAxdnZUbHpnNElTSmItbTI5UzUzd0laYkdRUE81Q1ZuZ1RrNVluVkgwajhadw?oc=5",
+   "outlet": "The Lufkin Daily News",
+   "via": "Google News",
+   "published": "2026-11-19T07:30:48+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "is gta 6 good critics give it 99 on metacritic with complaints about 30fps and pacing",
+   "title": "Is GTA 6 good? Critics give it 99 on Metacritic, with complaints about 30fps and pacing",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXZaX1JxNjZMZGxhMFR5X01pWHFyM1JTNmpudGlEaDVFeFM4S2ZuYWFhQnJlUnNmV2RsOFpIeGNxTEh5S254OFhNS1VJY0Zxc3FxWW0tZl9XbU5CLXhDN3F4NUJFVDYtRkljTUY3SlJGeEg3YW9DOVo0V2FWRVg0M3J5UDRKV3lIOGZkVjQ4M1Y5TnhOa1NReVNEOWUxdzRBVkVEenpYbkdKLW5yUWxEYzdPSkw?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-19T07:25:17+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "how to make money fast in gta 6",
+   "title": "How to Make Money Fast in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NZEJkSFpaV3pUN1UxMW1EaVR2cWNnWHJ5UGVsZUdCVVVjd1BNelVoWWprVkd4dkpFaExjZUpIbVB6Vk9haDd4ajZNWDFJaHgybi1JTEZUakdTOU1Tdm9OQjhYZG1BN1g1OG5hWGpR?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-19T07:21:18+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft auto 6 receives near universal acclaim from critics scores 99 on metacritic",
+   "title": "'Grand Theft Auto 6' Receives Near-Universal Acclaim From Critics, Scores 99 on Metacritic",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVWxUakNIUjNtM2dfZ29MNjUxa3FfUm5nSXQyLVRsYzhsV05uMU44Y3ZhMzdneEZvQTZvLWx4U2hNdTFVRm1NcUdUTUNidjYwRmpHaVo3YnJEbnhwSXQ0RFlYa1VreXBtT2hVMWE2SW0yX2l0QlVzTTI2Ql83TnhIYzgydXVXYlQwZGhxMklBMWdoc3U1Q05Pdi1RN1dMS1YxLUZoQUlIQXhvaXItYnpNdWdPT3ltbFlvX1lLcUxKZXk2Tm9xRlljdlFQcGhzV2pJSzNmY296M2d6alnSAegBQVVfeXFMTUU2VGNCX0NVZmQ4b2QxdE1WcE5oRzQzcjZ4dXRFSEJob1dRWFItVTlHS3RneXdXcER3a2VoMWNwMzliOXI0V3RLbGZBdmFHdnJHS0hlMWtfdXNZMWNIOTRaWFZ0Mm9NYlNuNXRqbjVUNjBZOEJjV0t6blFnVGRMQWNtd3J5LUdDTk1iSUtEM2JRdjluNjNqeFJZTHNYd2JvZ2JLWVpCdW1fTFltNFBURnE0bjNtZWt2VFZic1FCNVhMVlkzaHNtU0dBUC14UnBlY21xcFRGOFJsVnFQeDA2cUdSa0tYMWd1Sg?oc=5",
+   "outlet": "The Hollywood Reporter India",
+   "via": "Google News",
+   "published": "2026-11-19T07:20:42+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "travis scott x nike air force 1 low gta 6 black releases",
+   "title": "Travis Scott x Nike Air Force 1 Low GTA 6 \"Black\" Releases",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckJiaEthS0JDZzU4WmdEcVNPTG44bFQ2TTEyaEZ1dnJBN2xZSnJLazNoai05LUhoYWZLbncwMUpGRlpyWlBPRmU0eW5iRlo1SjJNSHQ2VlhBbGRYWVRKalM2TlhVeTdfbUdJdWNMNVczREhBeHktTkVlQU1BNUdnRA?oc=5",
+   "outlet": "Sneaker Files",
+   "via": "Google News",
+   "published": "2026-11-19T07:17:39+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 album travis scott cardi b and tame impala bring vice city to life",
+   "title": "GTA 6 album: Travis Scott, Cardi B and Tame Impala bring Vice City to life",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0tXM0lsWUxwZGFYUEtyTkZ6bzVxdnZjR0JuVXVlRlVmWk1uUXRFYXY0TzhiTklsZmMtR0R0a1NZNVdZTUxwcnlBemNHZE43OF9XUm9xek9nUV90YW1sYTNISEloNFNGU1dnRldKVk5reHdRT3JkeTJvMnMyZU16V0trLUJ6ZkhsMGtfNktENHdrVkh0RTd2VVRHUnhQdG5qRmNJ?oc=5",
+   "outlet": "Mirchi Plus",
+   "via": "Google News",
+   "published": "2026-11-19T07:14:34+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 launch breaks records millions join global gaming frenzy",
+   "title": "GTA 6 launch breaks records, millions join global gaming frenzy",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNHcwdE5WOU5LZU1qQTk5czJGeE13UjZDa1R6WnBMaDRMbE1KOGhaV2tpclVleVRZWTVkWkhzSENaUlcwUVAtdFpRMnI3VzNNVkttYnF3NDlYeWZEYUxZYTV2ejM5b0pXZjZEZjVZRU04b2c2SW9oMUdlbkR5VUtZZnVKRVNURHZDN3RBUXN0QWF5c2Q5enU3R0RGRXJPQQ?oc=5",
+   "outlet": "samaa tv",
+   "via": "Google News",
+   "published": "2026-11-19T07:01:03+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "gta 6 removes major gta v feature making it stand out from previous releases",
+   "title": "'GTA 6' Removes Major 'GTA V' Feature, Making It Stand Out From Previous Releases",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGtfX0NnWHo2NFNMRG4ydXJkWWpHa3B5RlVUODA2emdqcHdRLXhCYmtBTy1sWkxrYU9xSnZoX05ubzFfbzA4T2pXcUZOM28yd3d0dm45WnozQ2VCSmlWOEVWNFRpQ0pYN0QzT2hpNktiQzNkaTFmUFVXaUNzT3pwZXRPMXlYdFc2aWd1dmVuSklDSVo2YkJaMy16WDdpVWJlbEpF?oc=5",
+   "outlet": "Player.One",
+   "via": "Google News",
+   "published": "2026-11-19T07:00:04+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 album leak dua lipa lana del rey and jennie among 34 reported tracks",
+   "title": "GTA 6 Album Leak: Dua Lipa, Lana Del Rey and Jennie among 34 reported tracks",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdElPNEM2UW41a05admRFOGNtZ0VZQnNHT3VzVzhLUVk3cmNEVjgwbWhXbWJVcXE2WmctZlZSang0LV9UUi1IeHpKanFVeDQzamJjaDJTeWxiOXozRTZaaE9GMGptcHI4cjBoMGFvX1hMcDg3WWtJMU9HY3lsMEY3cFFMTVp4UWk1cUJ0ZEJtanVLTC1kSkNtd0R6dGMyc1FvNGRvWWdVY2hXa01sclUtWXJR?oc=5",
+   "outlet": "Soap Central",
+   "via": "Google News",
+   "published": "2026-11-19T06:54:44+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 sales tracker how pre orders units sold and revenue may have shattered all previous records",
+   "title": "GTA 6 sales tracker: How pre-orders, units sold and revenue may have shattered all previous records",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM3Bic1VGSG9mUnhkOUVfRDRfT0Y4OFJNQThNcGRNVGpwb3lYT3ktYjhkOUdlNUJhS0ZQOUtOV0I3OWZDZlpfY0F1WWozOUJlWHp5enlGbXU2S2dFd0xmQWRmZzl6T0VaNXNJOUpOQ0RvNGNiY3NLU2FvVXRuX3ViZXNLN1JsamFjQ0JVLUtHQmdTSG1GZWlJTVdXa0ZCTUttSEFHOXRZeWtkd0t3aXUzaUdZYUhiTkc5bU5rOW5KLVlUWlBnSkJ6TGdNUS16SXNNeFBmVHU4ajlQeGVycUlwN2dYWUoxdW9BMjJ6LXdxeXBDWENvN2hsMmZYTGpRZXVuNHhaR3BWSTNjT1Vz0gGSAkFVX3lxTFBnRVMya295R1ZDelZZWklKYmZUOTVVSzRKbGtMc0Q1djkwSHA2YjQ3RzUwMzNJYk9yY2ZvTTMxSHU3anozMDJkWkJwaTNaTzRtR25oNjdPRGZTX2dCZDBCT1NvNEoybXoxYm9CNmxfWWppR1lNWXJ3eHphZEFqWDJraTh4SDcyaWlYbW9TTEpmXzFlbmQ2dTYxSkJac3plcmdpTU9id0Q3Y1I5cXl3NnhRV21VQzd3N2R4TGFYOTJCeHJvR0hYWkxMMHU4dnBEVGM3UzRBMFdfZnhWU1VIVUQyTGNSdTFxSS1Kdl9VWHlkTEJtWFp0ZUh6S1ZCa1NnRi1xUTZ4UTNna0RGOEEweERqVVE?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-19T06:50:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
+  },
+  {
+   "id": "travis scott x nike air force 1 low gta 6 white releases november 2026",
+   "title": "Travis Scott x Nike Air Force 1 Low GTA 6 \"White\" Releases November 2026",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5NnJucFhnd0tCZDlSYUNzZ2lPMHBXTE50MUdMRExJbUJfWVRiUHZpZ0xxSDZrU2NBY0g2UzA1NWQtLXNxdGJWWDBPaXUwMm1PT0pCeTdjTU5TSDlrTTUwY2xkME1sbjdrcWx3eUpROTg3RzFYaEM2WTRlUQ?oc=5",
+   "outlet": "Sneaker Files",
+   "via": "Google News",
+   "published": "2026-11-19T06:48:55+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "why doesn t gta 6 have real cars here s what rockstar co founder said",
+   "title": "Why Doesn't GTA 6 Have Real Cars? Here's What Rockstar Co-founder Said",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3F1cmpWaVl3blZ6a2c5OVhRVThZSThXVEUwS3BFN2pfNDZsV0FiVXZwdEdZTDNCamNwRFRrWVJaYXBvM1ktdG16VHFCSVZWb1ZmTkhBeGd2TTk0TEpqUXROSzRIV2hiMnBMN3cxU0ExaUZLWjZhTW5tV2VFQUZqLXM0ZTRZUkFHOEdTUnY5TUNVOG43YThheG5NOUpMcUp5ZENqV9IBrAFBVV95cUxQTTVmN0cyeTM1VEVVc0hRd09fQXFwZ3R3VGc0R0N1ZEdJNHg1czBnaDNtbEUwOXhsN2ZxTng5eEV6X2JCQllyX0pzVHpmdDlUS3lIY3JjRnlUZTBZcHlER1QxNUF4ZDNiMFJOUFBCWFhMOXdKZ1prQ1NCNHlvUXhha2E3dWRPZjhaSVY5MFBUakRPVEZwNjRhazRzZmt4NHZSTHpPZGFhbHd1SS12?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-19T06:48:46+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "ap reporter shares first impressions of gta 6 on release",
+   "title": "AP reporter shares first impressions of GTA 6 on release",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS1ZyQ3B3cVNaQXgyVkJJWVhCb1l6c0NBbEVHQXJWMmpGaUVNUWdJR0xoN3ppTk5IeF9OcHg5ZlZvR21rOHg3MXpnSjdHbmQ0SFRYbkgzSXRzUDU4QWUwLWZiUFFRU3hzYmpGb1o1dEc3UFRsdDVtcE5sRW1NV1ZaSEJqanc3aTR2aWZJMVJkSWdTdjg1eTNfYXoyRG90eldaUndpeDAwTmhzbFlQWW84UlZvcEFRdjBsX1djTUItYjRPaWRnUWs4NG1vemxoV0ZxR2psWS1veE1iNEEtTVItQWJB?oc=5",
+   "outlet": "Daily Gate City",
+   "via": "Google News",
+   "published": "2026-11-19T06:45:24+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "6 amazingly mundane things you can do in gta 6",
+   "title": "6 amazingly mundane things you can do in 'GTA 6'",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS1VyVk9sR0hmUU5LRmx0YUwxRE1JWUhJY3A5X3F6dklMM3JCdG9vMVNYQ1pkallyNkdXcGhuMVQwc0Zjbkw0MXlLZmlQSl9GcjNtYWVReTc5R0pIV2dBLTRpWnd4RDAzWXBpUFpQWGxQcHFwN1hKMFZXTWxJZVdqZWNHMXU0aThic2JN?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T06:44:41+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi excitement reaches kutztown record store alvernia campus",
+   "title": "Grand Theft Auto VI excitement reaches Kutztown record store, Alvernia campus",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTGg0SDNBTUFRcXprTzJtV0EtRWZzNVZWRURCRXU1MUhDQ2ZZcmZvdWxfNkVpT3I2VGNpQWo1bVUtMXZRaWZfTWQwYW5ZZFd4R3lROTNpTGField1b2s5U3FnMGpMcS1iR3R5bmR1a2RabG1PX0ZPN3dEZzJtcXU1TWZSRm10QWoxb2x3VzRqRUl6Q0RNY0dnUXpBM1VpeDBscTNSaGEzdWxMLXZfazZyYllVcm16UUw0QlZ6ZU9CTDNFRnB5YnozLTJqRXd6TzBEdFREaHdrNFVOWnUwT25lbWJ0SUNFYkxNTDhwLUpzc0pLZzBnb0E?oc=5",
+   "outlet": "WFMZ.com",
+   "via": "Google News",
+   "published": "2026-11-19T06:30:54+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "2 months after gta 6 prime video drops the closest thing to its live action series",
+   "title": "2 Months After GTA 6, Prime Video Drops The Closest Thing To Its Live-Action Series",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tb2JHa2dKbnNpM2JpbW9OS3JQTnVXUk9vYkNEQnVKS3Z2SG1ibE91SHE3MjU4Y1pPYUF3QXJjT3lZU0loX01GVC1nUDZhYWNJVkw5dzlsS2VVV1hNcExoeE1WZkdvU1BCRDdHZF8yNEtmV3kyRnMwLVl0Szc4QQ?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-19T06:30:18+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to fast travel in gta 6 and unlock the rydeme app",
+   "title": "How to Fast Travel in GTA 6 and Unlock the RydeMe App",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYU1TTURFMHJvNGJ5LVBzdko5RW1jczVNaUFyZnk0Rkh0ZHp2VDVYWFpnRUppRXliWEJVNTBiU2czUnVhaWZKb1lzcEdYYUFUUFNXdWxobF9QWXFSQWYxQVVhWUVaZWlaU3FjMmJBdDFLSFJpbGQ0MmxEYzhWb0lTbzNMN1JQMm9xNmVfR2J5RQ?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-19T06:23:28+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 earns rave reviews for rockstar s best entry yet with record metacritic score",
+   "title": "GTA 6 earns rave reviews for Rockstar's 'best entry' yet with record Metacritic score",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmpZd0FtZVd1T0tVRWo1WGtiRWVLUVlOSVFsZ3VLb3NMY0tZeFpfd216V3k5NGtGOVJyOHVwT2dweHRMVm1FVFpScnNlVTRZNy1LLVdpdEVXdlpoNWx0RXVRYV9tbV92Q0xXVmZVaFBkRWJIQ2xOdVZreV8wS1hRQWhMSHhXSWVobVdTQzd5RW5vUVhHSmxzRlA1NzVnY1ExWXlfcExVVUUzWUdvSlZDOXZIT0xXVVZodG400gHDAUFVX3lxTFA4b3BLUFg5a2hjVGxNclNyMmZpUVBRRXhfS25BdXA3bVBCaGdDamZIU2VCWXF3SWRmUkdJZ1VlRGRSMmV4YWhaWnYzVmxvbWJLTnJNWXRJdDZUVUFOVVNKdGk3Nmg4Y1dJYjlVblBXU3BvYU52VjNqVU9zV203UURiTlhFMWtfblJzT01veF9MTEJyOWk3OEwxUHJoOXNYVlRKbWVOME54czQzQ0ZmYUthRWc3aVpVTVNTS2hmT0pzREhlbw?oc=5",
+   "outlet": "The Express Tribune",
+   "via": "Google News",
+   "published": "2026-11-19T06:22:22+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true
+  },
+  {
+   "id": "what is behind gta 6 s record breaking launch and extraordinary success after 13 years",
+   "title": "What is behind GTA 6's record-breaking launch and extraordinary success after 13 years?",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWJwT0lnWmZPa2xjUlBPTjNMZXBhQm9sNWI1emsxYUNkWmdhSldKSjhZM0V2VGFNSzhRZDBLbjQtQUxRM2hiM2IxYmdCRzkzSXdhMlVkSW9NdlkzRUQzZVlOei16Z0ROYkR0ZXN4T0N5N0s1V0Z1VGUyZ19KV1VmNllKU1hFUHJiRnhRU2hyNExmX3h5cXUtRHZ1anNNWmYyM2lmZkJxUFowZEE?oc=5",
+   "outlet": "Latest news from Azerbaijan",
+   "via": "Google News",
+   "published": "2026-11-19T06:19:36+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "gta 6 records all major records broken by rockstar s biggest game",
+   "title": "GTA 6 Records: All Major Records Broken by Rockstar’s Biggest Game",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHpoSDFCRzNseEhkSmttb1EzbmFwbFpobTN3TkY5dDQ2VFBvcjBnMjZyR3pWWDZlQ2VISzhsc0J0NTBkQ2tvQ0xLaE04YlIwWmhsN2ZsM3EwcUFYT0swaXlzTjg0UEFqUHdsbDlaLUpJNkUwNnlaNVZKRHF2MlpTY1BLMGc5YTF5S3d4RGtXUzhOZU1RdFpHalNXUzNady1zNVA0?oc=5",
+   "outlet": "Sports Tiger",
+   "via": "Google News",
+   "published": "2026-11-19T06:17:41+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "grand theft auto vi launches to rave reviews after 13 year wait",
+   "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOektPZ3lXMkg4dTBVbU84Wjc5dEducXhBMlZINFdFYXE0bmxjVGVIemhHMVZRTnU5Z2lHZ0w5alpfblAxVEVIRTlRZGxmZ1RuUWlaaVVPOThuZXNEeGxPY3RaSVlZLWpIeHdRWmRrYVpvMkd1eFU2dW9XWTRqSnFmaDhTcUN1LUhZUUU0emJ5cGJQcVA0VG8tOEZKNG1BTDBQNXBDMVFtblnSAa4BQVVfeXFMTnctX1Q3NWRIVDVCcU1lNzJxTnEzTWJnOEdJb3Zia3hHTTRxbFNoSDZxZ1oyVkxIdlI5bnZtc2c5Tm5scG5sN2gxMUMzYk5zbF9Lb1ltVU1FdktoTUlNMTlvNmN6cDNVNnpsenRJU2ZKcFhSVUJId0hHWHZNWXhQeDZ6ODMxTnhwNVZPYy0wUmF5SXFPTTRKektVZVE5YWpZSzZWcnVyb0FXQ2YyVHNR?oc=5",
+   "outlet": "Al Jazeera",
+   "via": "Google News",
+   "published": "2026-11-19T06:14:04+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "gta 6 makes history with 1 5 billion in pre orders beats avengers endgame record",
+   "title": "GTA 6 Makes History With $1.5 Billion In Pre-Orders, Beats Avengers: Endgame Record",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSXlyam03dWYzSzlPc3poNEVOeGdNS3JUYWJfbnlmbU9wMVFad1BDalpzYU9LTXEtaW1HX3gtU0NHR290c2xmdDloaDhXN0hWaW4yY3BQSlVkcWJ6dUM1WjJtSndqVjRkanZ5Yzg3N25mYVVHR2RraHlncmVHVTJrR2gzNS13TzJya2dVeG9xM2k2YlRlWkk3N0VSam1POWpHZEk3aDBSR09aamNkV0RCNVZHdGJCRC1iQ2tJV2VHTGZNOUZfR2dnb1F3cVNWbXRNUEI5Qkt3eUJ5YUwzbGQ5Yl9R0gHnAUFVX3lxTE9RM3prOVRUZTFicjF5UnNuNUMtSFRia2FOTHBYRERETFlOdDJheUpJYkxBTl9JeEc3Q2tqY2JkZWJOLVVUUDRJeS1BRzNoSzRrNmZpNjhzUURaOW5LanpKRXhhTUZENTl3MkNGRTFSdFlOUk1Ralg5bXd2Tlhmc3NZUFdFSjFxakNlWmVSX2pfZkV1RGpvc0NnbVp2UXZtZFZ4a0FOeC1LRGtBVU5zQ3BQUFhmTFlnakVLR0ZIOUhkRGlzcTdYRGdOX0FiYS14MVlFM3JLY2J3SUdJWFZWYnJQWS1ZOE52dw?oc=5",
+   "outlet": "Asianet Newsable",
+   "via": "Google News",
+   "published": "2026-11-19T06:11:30+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
+  },
+  {
+   "id": "gta vi how grand theft auto handles issues like homelessness",
+   "title": "GTA VI: How Grand Theft Auto handles issues like homelessness",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1OEN1VlJ6cnlyeVBKMkJYS0VBZDlEaFRkNFdCUHRRSWtrNGRiXzNEeFZETW9TemktcUZvMHNOclVjX29IdG1rWG5TeU1qbUVHRmpMUlE2Y0xXT1pQUElZSU85WFBra2F3Tkx2ZWdoOW00cnBaSGJJdW1YWQ?oc=5",
+   "outlet": "Big Issue",
+   "via": "Google News",
+   "published": "2026-11-19T06:04:27+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 should lead the way for gamers with disabilities says campaigner",
+   "title": "'GTA 6 should lead the way for gamers with disabilities,' says campaigner",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZUHNwN3VWV1p2MVJEdGtLYjBOd0RxWkMxQjROMzJNREd5b1BtWS0zSjU2SVRBYlFPQVh1VE9zc1pUZ2Y0MFNvVk42Vlpac1pQQTlsdmVnbHM1ZHc?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-19T06:02:12+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi didn t break the internet thanks to stupid dns tricks",
+   "title": "GTA VI didn’t break the internet, thanks to ‘stupid DNS tricks’",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzFwOTlMN1R3RUZzUUZERzZXV3ZSbmxxRWVvSllpRWtJVm1Hekc1VEFFZk1lVTBqelMyTTl4UW1jUnZLQ0ZVaHpFaEphQm1BdWFtT1p6NUs3Zlk5TG9MXy1oMVBEc3FaTGpVVklFbDA2T3BkekUtclJQWkNMT2Z0dFZxMDFQX1BXU21pX3NSNndmT0hSUlkxMlRodURwRUpGWG92eEd3OUQyWUdSVnVENzRuUzV2QQ?oc=5",
+   "outlet": "The Register",
+   "via": "Google News",
+   "published": "2026-11-19T05:57:30+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "gta 6 goes live worldwide earns 99 metacritic score and 1 65 billion in early sales",
+   "title": "GTA 6 goes live worldwide, earns 99 Metacritic score and $1.65 billion in early sales",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMExRQU05d2czdnJKVGVfTndVVWptOVBvS05WWnE0Uk16R2JlcUJfUGxvejE0RURsNU91Z2E3eGVSdVM5NHRaN1pVb3ZGa1pfT2NPNVRxcjBMN3laLURmQ0RfZVhEWGdfcnlZVHU2REh3U3J2RUdoNEJfV1ljb2F4aXZiRGc5ZXd1bTFOQWF2ZFp6dmc4aXlnaEFJNGtiTFZQM1hMa0RRRkFFYzhmTi00d2FhZlYtM3Y4ZUZSejRNbWVEbTFmMk5KMkdaZE9EeW5JNHFQUWJiOWZmaGNOMlHSAeMBQVVfeXFMUEhHTmdPaWFDcVZmZ01GVTlzRVhscG1GTXhDWGxzVGtEeF9PdUxXN2pnSzBBN1NfQjJTNHo2R3FFSVZJbVhUZlZITl8wOGVic3hnNFk3TDVxTkNZWVR2d1hlajliRGxBblBTYjVjR3JWelVHcE04OXhndUhxQk5Oei1rRWxVeW8zQ1JYeHBWcG9iZ0tYdXhnZWFfM0xPWGxWYk40RFVfQU94TUI0R1ZhRWs2MTd3RXQ1Z3J4cWhPb3AzRG9jYUh1OWRQVkprZ25IU1ljT21JZk12bndoTEJuejQ2V0E?oc=5",
+   "outlet": "Moneycontrol.com",
+   "via": "Google News",
+   "published": "2026-11-19T05:54:16+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
   {
    "id": "all gta 6 safe codes for chapter 2 in port gellhorn",
    "title": "All GTA 6 Safe Codes for Chapter 2 in Port Gellhorn",
@@ -160,6 +736,18 @@
    "via": "Google News",
    "published": "2026-11-19T05:40:54+00:00",
    "seen": "2026-11-19T05:49:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "smiling friends lived that grand theft auto vi life for 3 seasons",
+   "title": "Smiling Friends Lived That \"Grand Theft Auto VI\" Life for 3 Seasons",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWN4YzJUamVabHdaVzFybFBWbl9pQkFTWHhCdEx5MVVaMzRWUVlza0VxMU5oR1pjR2xkUTNHa05lSmJ2LVctZHd6Ynk1MndvMjMtaGwxQ0JMaVFUX01ER0ZYekIzcFRPU1JORW1kam95dndZRHNhSlBrendMeUpaTDVzU3FmVG51N1ZzOUE1QnJhbUFhN1dSbGln?oc=5",
+   "outlet": "Bleeding Cool News",
+   "via": "Google News",
+   "published": "2026-11-19T05:37:08+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -484,6 +1072,18 @@
    "via": "Google News",
    "published": "2026-11-19T05:00:00+00:00",
    "seen": "2026-11-19T05:31:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 how to get into bank vaults",
+   "title": "GTA 6: How to Get Into Bank Vaults",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZZVV6eXo2WUZKVGcxbUN4VHZhTmRsWHRwVEVBNkZaRmpndF9hQkludWpYZ0NPbnlwY1h5dXhhMnJNVXFPVmtyMGxvTHZiUXRkY2l4UWg1ZEVlckZNM2U4MWppRlZRQTF6RVpqTXRzNDI?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-19T05:00:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -945,6 +1545,30 @@
    "record": false
   },
   {
+   "id": "gta 6 will prevent players from attempting to commit certain hate crimes",
+   "title": "‘GTA 6’ Will Prevent Players From Attempting to Commit Certain Hate Crimes",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZWZzWUhveDM5NE1KNTVkZnFmLTN6ZmdabmNKcUJCX3JGaFM0UEs2SnplVVM4SkoyYkNRMnhHYWFrOFR2UmJ6cDlYSUdXdmJ5YlVGWXRGM2x5eXQxMjRyZF9xeFVJdTU4UlFsUUYwR0I5bTUyOGt2VWl4VXNXLUVxUE9sSmNSNXhvWVFhN1VkcDlmRmlobUU3MnppMFRfU3J4WTh2ZVUzMTBjSUtJdHNzVW41U3A?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-19T03:59:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "gta 6 comes out before raptors can break losing streak vs wizards",
+   "title": "GTA 6 comes out before Raptors can break losing streak vs. Wizards",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZUDkwTDI1VUJBdkNNSEFZdk01SnJFaGxXSVctWkVxeWNzLVJQekgzOTVseGpFRm0tZzN1MkVtZ1ZPVl9YbERxMnRRQklKbHVNQ1VnUXVfV3FqMUVMc3dLcXVfVmVnTGV6Z3BoU0NQTl8wd1JIVGFOelRwVzZkdjg?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-19T03:54:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
    "id": "heat hit big with grand theft auto vi inspired makeover and other teams should pay attention",
    "title": "Heat Hit Big With ‘Grand Theft Auto VI’ Inspired Makeover and Other Teams Should Pay Attention",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWxqOHU2NHNpa1lUa3VkS280UFU4dDlMRVZmeG53U0QyMGhVcmwwWkJzZ1VtSlhNV3BnS3pUMXpjRnhxazFaSk9mRDhYeEY4OUU5X1dZS08xTUZyYmdfcnVpTzFrLVlDcFBjZWV4R2hIQmREU1RZMkhIYXFySlBtaW84VmRGcTR3NDNnX0U0dFNiOHlIazE1WnNpdmZVMlJFVWNUQW9Zb1hqVVZqN1AxbA?oc=5",
@@ -1255,6 +1879,18 @@
    "summary": "",
    "topic": "Sales",
    "record": true
+  },
+  {
+   "id": "want to discuss grand theft auto vi with gaming friends here s a primer as the new version drops news press now",
+   "title": "Want to discuss 'Grand Theft Auto VI' with gaming friends? Here's a primer as the new version drops - News-Press NOW",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNa3MtTlM3aW1FdU9SNFZXYy00TVZ0U2Nlb3JhdWJOYkJpWDE3b3d4RzN1WGZqM0tleXRtb3Ywc0NVTWJZY0J5aXdobXBQSU8xclBiRXZiNV9DZFMzcWlSbDZMa0JtSlg3amtvNkV3QjZpQ1RjNXpRNnpLQnNWVW9zLWVSRm96N1pqVWU1YUVURmprN3EtVWVYaUpsbHk2Z01jMVZIWU43T0k1cHVhRnJoM0FlRFprckpBckRHcjU4SHRoeTFLeVQ5SElkVzFGR0dMY2FOLWlRczlrazhrQ3puV0pvTmlqWTJ3M0VEd3d1WXFVYmdySWFyN2JOVkFTX09lRmFJOE1vWFVKQTU4OGFEeDF3?oc=5",
+   "outlet": "News-Press NOW",
+   "via": "Google News",
+   "published": "2026-11-19T01:46:03+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "want to discuss grand theft auto vi with gaming friends here s a primer as the new version drops",
@@ -1869,6 +2505,18 @@
    "record": false
   },
   {
+   "id": "unprecedented unbelievable unmissable the gta 6 reviews are in here s what they re saying",
+   "title": "'Unprecedented. Unbelievable. Unmissable.' The 'GTA 6' reviews are in — here's what they're saying.",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRUl6VkZ2eDB3ajR6aUY5Y2k5WnhVRUZYdVpXZ2tXM1pGbk1VQTE2aTJPNjJrRm1GVlhuaktTbE9IZWZKNGJZOS1FSkp2TjBySXk0S3VndWRONWN6cUhiUFBXS1pMX3JvQ2Z1cm5IeFVBZUVvUkZOMEhfMWt1bGRNaUotU2c5TlNSSzBrTXpMRUhaT014LWpOYm5peldQMmZ0VnNweWZzZmR6SmFCczgzWV8xNHZXZ0N4Ui00Yk11bkc2UVhTclhodVZWaG5yQjVfeE5sVlAwQW8?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-18T23:26:44+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
    "id": "gta 6 launches after 13 year wait breaking pre order records",
    "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDl4dC1UcXBldWFnR1hQM09PM3hYUnptcS10S3ozS0doUXVFLXlod0p2dkMwdmppUVRQb2ZfcU5PVGF0cmZmVjIxR25vNHQ1S3FtYnpQelZFYUR0cXBxc3hCQ1VKMWl5ZDVZODRGUEtzZ05XY2NmSWN1SEhGLW0yLWp4LW55MjV0S2dOVjgzTTBPejlESENvS2YwMWZlZGd2ODJ1MHVvOUJMMU9fb0phdlNR0gG3AUFVX3lxTE9rajFBSGJONHRBMkdZR0RvMmVVSnFya0dDWDVhRDdlX1pTVjJsWnhuM2Q5cUgzejdhSFhINFU4TGRrVTVYZzhBS1VkQzl1U3FzQ3FLWnVyNFExMDBZNzFXT3ZwdEVTY3JQclQxcE9jSHY1TGl1SEx3RWdicUpROVlTZi1HcFFqSEQzSXRZZ1dNbU5wajNoQzFaUjRPc3hrLXB4REFrenVaM1JPTVNOTU9YWjBrSDlzYw?oc=5",
@@ -1917,6 +2565,18 @@
    "record": true
   },
   {
+   "id": "gta 6 sales predictions will it shatter launch records",
+   "title": "GTA 6 Sales Predictions: Will It Shatter Launch Records?",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ma3AwY2NKRFVIVEVvN2d3OVFEZ25lVzdBdWtpMWx2cW1SaUVwR09pM1E4UkRyLUtmSTF6VXZFRk1uMmFJa3pHdUppN2E4VlA3aDI4bk9RMlpvcTJFM1VmRklBSGhydmdzZVhKeA?oc=5",
+   "outlet": "Covers.com",
+   "via": "Google News",
+   "published": "2026-11-18T23:10:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
+  },
+  {
    "id": "vice city is coming to oak cliff dallas record stores hold gta 6 listening party to celebrate release",
    "title": "'Vice City is coming to Oak Cliff': Dallas record stores hold 'GTA 6' listening party to celebrate release",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZTYtQUVvTWVQSDlURk03ZVNYUGNxNm0yV3h1UW9kM1pXMnZ2WU5icFR3cWdiMkQ0elJuc21GVV9hVDEyM3hZT3Y0YWhrWGVlQ1VqanVxOWlEX3Y1VWZaa0xJVU5sbHVtc2E4X29EUVZIbkI3UEpnblBKODJfY2JNeDlZMVhJOTdDc2FHS21MRThNQUM0Q3VjZWVqY2tfUTlvTlliaGMtYkdoXzlUeUN5M1ljTGprNE1CcEZPM0huUTZ2Y1J0STZ6eG1oRGdjVlA0ZGh1bGFHMWZYajZWYktSRWU0Z0dDMENxR0w4WDluRHVJWkNrdlN2ZE1RX1F1TF8wSTctMlFOLU5SMnJNbnhKb2k5TWlGVjl2ek9sZXZFa0g?oc=5",
@@ -1953,6 +2613,18 @@
    "record": false
   },
   {
+   "id": "6 stocks set to cash in on the grand theft auto vi launch boom",
+   "title": "6 Stocks Set to Cash In on the Grand Theft Auto VI Launch Boom",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzkwNVUtTnRVdUFfNVVReC1kSzJjaXh3TEoySDB5T1ZyaFVPY0tOOFVGY2dsYVZJYXdrZXh5ZU5pUkYtWE42bDlGU2lrck9nUjV2UGNfV2JST0lsX19sTzJWUE9JZVhtNEJDZVJHM25PMUJMVEwyUkFuejJWSE9QVGZuS0ZEX3NqUElaQVpzQmtIdXZSUVJTLVNKMjRldWc3QW8ybGl2R0M?oc=5",
+   "outlet": "The Motley Fool",
+   "via": "Google News",
+   "published": "2026-11-18T23:04:15+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
    "id": "43 army members reenlisted in exchange for paid time off to play gta 6",
    "title": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6",
    "link": "https://www.ign.com/articles/43-army-members-reenlisted-in-exchange-for-paid-time-off-to-play-gta-6",
@@ -1962,6 +2634,18 @@
    "seen": "2026-11-19T05:30:58+00:00",
    "summary": "If you’ve been following the GTA 6 hype train, you’ll probably remember the time that an army battalion went viral for offering service members four days of paid time off to play Rockstar's highly-anticipated game if they reenlisted.",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 finally launches in uk after playstation outage left gamers furious",
+   "title": "GTA 6 finally launches in UK after PlayStation outage left gamers furious",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFN1cXpwdm5MYjJCaDl2LXA4akUzTUkxWGpXeXdTOUhGT0xvQVVvOTd4clI2bzBUcWtZLUdUV18xa3lDU2xuRml4T3I3YjNramV4Vy1ERDdldmxJZE1jQWlUdFdFMThfVHhPRDNXMlFIbk1DWFlWZGh5SnRKQV96TGExSGJIdw?oc=5",
+   "outlet": "The Mirror",
+   "via": "Google News",
+   "published": "2026-11-18T22:58:05+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Outage",
    "record": false
   },
   {
@@ -2094,6 +2778,18 @@
    "seen": "2026-11-19T05:30:57+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "what would you do for gta vi launch these soldiers reenlisted for up to 6 more years",
+   "title": "What would you do for GTA VI launch? These soldiers reenlisted for up to 6 more years",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFNDak51TENjQXhFeUFJN2tKeHAtNi1TSkQ4RG5uQ0JVMWhyYVRFU2gyX1luMmJtb0t2QnF1TjVYR3lTVENDUUc2RmYtbUt2Zzc2TXYwbGNKdWRGRFZ3QWxQaGI3QnAtQnB4THZlank3S1lHVFUwV2o1aHl5V2NHTm5NMFV1N0QtN0FTV2kzMTg1eC1lNEFrV3NIM0YxaFZLOVAtMmRpelh5dFJJSF9lRkZCZURuMWZtNW9RMmJ30gHSAUFVX3lxTE1NMkQ3VUREZVd3WnBIa3g3cHpuME9uYWh6NXZyWFRmNVNSMXktaEVHcF9tYjBoei1aQzg2ck56eGloWjhVYWF3OVVSVU5IZlZYN3N1bzdueXJscUJfd1huRERFR1JNSnVNeGl0RXFNQ1ZwWlR6Q0FwcnlDNEhielIxVk95LXhjd3VkYVhiUHREOGw0VGxkbFJuR0xQQkQ5eTAyWkVaSXREbGZlamwyWWpnVWNUMC1PSmcxUWZXdl9RczhzX3VaX1pCV3BYNGZ1VFI4UQ?oc=5",
+   "outlet": "AL.com",
+   "via": "Google News",
+   "published": "2026-11-18T22:23:00+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
@@ -2299,6 +2995,18 @@
    "summary": "",
    "topic": "Streaming",
    "record": true
+  },
+  {
+   "id": "how long it takes to play gta 6 story playthrough and achievements",
+   "title": "How long it takes to play 'GTA 6': Story playthrough and achievements",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tRDFvWlltR3JGUnFpeWpZSHNCZHp3TXJlTURwbGJheVRobE50Q2JrRy05Z2h6TUR1RUFXMU1XR2hDbmFjUEJwZFFBTVhNTkFqX2dzY0w3Y1duLUxZUWtBc1daemo5Z0NHR3FPMUZJd0s1ZEQ1bHBPX05B?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-18T21:41:41+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "grand theft auto vi draws rave reviews as gamers enter vice city",
@@ -3823,6 +4531,18 @@
    "summary": "Their in-depth tech review. The good folks over at Digital Foundry have been sharing their deep dive analysis on the Xbox Series X|S versions of GTA 6 today, presented in the form of a 23-minute video on YouTube, and a separate article over on their website. <related ids=\"209224\"> Read the full article on purexbox.com",
    "topic": "Streaming",
    "record": false
+  },
+  {
+   "id": "gta 6 ties ocarina of time at 99 on metacritic",
+   "title": "GTA 6 Ties Ocarina of Time at 99 on Metacritic",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODhYS2ctOVh0UnNqeW9mSUtxdEI4b0E4M3g2SkE4NkMyeXdMNGhkbGdzY09DaHFMbUU4SUltR3FXTXl5S1dsbWVrSUhkWm1qeTBTektsY1hNdXd1TkZjWnFHYTc2UEZOUlVyLTdMN0t1TjVhZ196S2o4THBtUFdIT1czTkpVSl92RC1mVzg4Q3c?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-18T15:15:27+00:00",
+   "seen": "2026-11-19T08:41:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true
   },
   {
    "id": "just how detailed is the audio in gta 6 well even convenience store refrigerators all have their own unique sounds says rockstar dev",
