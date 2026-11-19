@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:44:39+00:00",
- "started": "2026-11-19T15:44:29+00:00",
+ "updated": "2026-11-19T15:49:32+00:00",
+ "started": "2026-11-19T15:49:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T15:44:29+00:00"
+   "checked": "2026-11-19T15:49:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T15:44:30+00:00"
+   "checked": "2026-11-19T15:49:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T15:44:30+00:00"
+   "checked": "2026-11-19T15:49:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T15:44:30+00:00"
+   "checked": "2026-11-19T15:49:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-19T15:44:31+00:00"
+   "checked": "2026-11-19T15:49:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T15:44:31+00:00"
+   "checked": "2026-11-19T15:49:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-19T15:44:31+00:00"
+   "checked": "2026-11-19T15:49:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:44:32+00:00"
+   "checked": "2026-11-19T15:49:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T15:44:32+00:00"
+   "checked": "2026-11-19T15:49:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T15:44:32+00:00"
+   "checked": "2026-11-19T15:49:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T15:44:33+00:00"
+   "checked": "2026-11-19T15:49:29+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T15:44:33+00:00"
+   "checked": "2026-11-19T15:49:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T15:44:33+00:00"
+   "checked": "2026-11-19T15:49:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T15:44:33+00:00"
+   "checked": "2026-11-19T15:49:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "how 3 brands bought in on the grand theft auto vi hype",
+   "title": "How 3 Brands Bought in on the “Grand Theft Auto VI” Hype",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjUyX0NJdWFMbjBxV0ZNUThzWktfTVE4aFp5SGIzSzFXUFJTbGtWMFNyMEdVX3BrRWI3QmJvNXpWNHM0Vmg4WllJUktzUUg5c0c1WHpoRmkxa0lMbnNSVHEtU1pRTEQ2QVFzbHY1UlZwRGFNWnotWjM1SEVFR2hXams4LU0?oc=5",
+   "outlet": "Harvard Business Review",
+   "via": "Google News",
+   "published": "2026-11-19T15:45:13+00:00",
+   "seen": "2026-11-19T15:49:26+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports on how three brands bought into the hype around Grand Theft Auto VI."
+  },
   {
    "id": "gta vi beats the odyssey revenue on release day estimate says",
    "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says",
@@ -131,6 +144,19 @@
    "ai_summary": "The piece compares GTA 6 visuals to GTA 5 visuals. How the visuals stack up is discussed."
   },
   {
+   "id": "gta vi launch pushes internet traffic to record highs across global networks",
+   "title": "GTA VI Launch Pushes Internet Traffic to Record Highs Across Global Networks",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXJXakRxWHlCenVLNFlaVTNKUUhIMEFZNjdzNzVZTjFWcko1MHpDMEp0SzZyNmRkNVp5M29BUld1QTBXYllLcnJGVDFhMWtSc3ZOLW56cVl1bTFxOFN1eE9vdzEwNXBxSTlGbnlXN2NEczVQb0lkTENUMlREM3N0eDBvQnprOS1kbVFzeFdhRURxZkdDeC05LUhwUkdqaEhrNHZFbGhB?oc=5",
+   "outlet": "CircleID",
+   "via": "Google News",
+   "published": "2026-11-19T15:42:00+00:00",
+   "seen": "2026-11-19T15:49:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI launch traffic reached record highs across global networks."
+  },
+  {
    "id": "over 2 million xbox players in the uk and us reportedly used the new zealand trick to play gta 6 early",
    "title": "Over 2 million Xbox players in the UK and US reportedly used the 'New Zealand trick' to play GTA 6 early - that's more than a third of the country's population",
    "link": "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
@@ -155,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how GTA VI got its Vice City sound, mentioning Trick Daddy and Trina."
+  },
+  {
+   "id": "grand theft auto vi sees record breaking pre sale numbers nbc 5 dallas fort worth",
+   "title": "‘Grand Theft Auto VI' sees record-breaking pre-sale numbers - NBC 5 Dallas-Fort Worth",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHNtcXVFMjhKd0FVNkxNc1VjNkNSSGRsWWQ4LVNOcVdLd2dkZ2puNzh4MnJMWWZ0WGRGWjE1TjFyckw2UFhjUEJiZE84bWxFWG9Xb0lnTlpJb3VKX0JwejdXLUc0WUFWcTZYVmV2S1IxSkVtVWNvc01xMVliS1JwdE9hanU4YlNuZ2ItZm9mbUptWXh6anFoRG1pd3BzUm9QZmNhUXgwRkhyME84bE4ybnhYa0tIS2NN0gHAAUFVX3lxTE5sX2VBNy01SVBCdC1zSmhhWWlMSkV4U3JBNS01Sk9Xc2hGN1pnZ1FhQ0pZM2dianVBWHRTTjVRaGoxWGRPdlpXSXVibEw5QTR5N1E5QVZ1VEtFZ2JXRURqSzFpMXBZV1V2WGpxV3E2eldGb1RhRGQxTDBGM1FhWXdfTzJicmowNGpOaktRZUs3WnV2UmR5SlRoV2VqaDJIbE9ORUFhVVJJSEZ5UG5kc1pValpsYnlRWW5EbzRLY01pRQ?oc=5",
+   "outlet": "NBC 5 Dallas-Fort Worth",
+   "via": "Google News",
+   "published": "2026-11-19T15:39:55+00:00",
+   "seen": "2026-11-19T15:49:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI has record-breaking pre-sale numbers."
   },
   {
    "id": "gta 6 jason actor finally speaks out as rockstar posts the full cast and credits",
@@ -207,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A hoax letter aimed to steal a school day for GTA VI is addressed by a New Jersey district."
+  },
+  {
+   "id": "gta vi released after record breaking pre sales",
+   "title": "‘GTA VI’ released after record-breaking pre-sales",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVlxYndGbzYwd1hOMkhSaTZ4SERnMnN6LUp3eTNHWGdlc1o3SnkzWlo4MldyMGdkTHlqQmprT2dsR0FsSVJMNmNndkxHTEhrbWp1N05DVncyY3RPNDZ1RnAtU29yV3lDOUV4R3hsWFB1RnV3XzhHeGpVZS0yTHRNQ2g2UDREUl95b3JzcFoycmFOTGFBRkcyeFhDcVN2Q2c?oc=5",
+   "outlet": "NBC News",
+   "via": "Google News",
+   "published": "2026-11-19T15:36:57+00:00",
+   "seen": "2026-11-19T15:49:26+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI was released after record-breaking pre-sales."
   },
   {
    "id": "grand theft auto vi preorders hit 19m before launch with ps5 outselling xbox 3 1",
