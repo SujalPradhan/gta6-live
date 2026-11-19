@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:48:10+00:00",
- "started": "2026-11-19T11:48:03+00:00",
+ "updated": "2026-11-19T11:53:11+00:00",
+ "started": "2026-11-19T11:53:03+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T11:48:04+00:00"
+   "hits": 100,
+   "checked": "2026-11-19T11:53:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:48:04+00:00"
+   "checked": "2026-11-19T11:53:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T11:48:05+00:00"
+   "checked": "2026-11-19T11:53:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T11:48:05+00:00"
+   "checked": "2026-11-19T11:53:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T11:48:05+00:00"
+   "checked": "2026-11-19T11:53:05+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T11:48:05+00:00"
+   "checked": "2026-11-19T11:53:05+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T11:48:05+00:00"
+   "checked": "2026-11-19T11:53:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T11:48:05+00:00"
+   "checked": "2026-11-19T11:53:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T11:48:05+00:00"
+   "checked": "2026-11-19T11:53:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T11:48:06+00:00"
+   "checked": "2026-11-19T11:53:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T11:48:06+00:00"
+   "checked": "2026-11-19T11:53:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T11:48:06+00:00"
+   "checked": "2026-11-19T11:53:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T11:48:06+00:00"
+   "checked": "2026-11-19T11:53:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T11:48:07+00:00"
+   "checked": "2026-11-19T11:53:07+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is finally here so come watch us make terrible decisions in vice city",
+   "title": "GTA 6 Is Finally Here, So Come Watch Us Make Terrible Decisions In Vice City",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFdkTDRwdDdBSDRUMm1rUXNGbmVyV3B1VWw4UkhpeFRhRDdJVWVfT2Q5NG9mV2cyV1J2UGhFeXJlWFcxTlFRY0tqRGdsS0E1Qm0tRWVhcTZoQS1UN01RMXg3Ri0zQ0h0M3pmdkl2eEg4SzBlQ2Y4MGtTTjRQQVVRMjltZHNReG9tU0UzelJZTHg2Y3pNN3lKeUtJeEpSWVNRUjRFbHViWFc0Wk4taDNJ?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-19T11:47:49+00:00",
+   "seen": "2026-11-19T11:53:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 has arrived and invites viewers to watch people make terrible decisions in Vice City."
+  },
   {
    "id": "gta 6 launches in the u s",
    "title": "GTA 6 launches in the U.S.",
@@ -183,6 +196,19 @@
    "ai_summary": "GTA 6 is estimated to have reached 20 million preorders ahead of launch, according to IGN."
   },
   {
+   "id": "gta 6 review grand theft auto vi is staggering in scale but still grounded in reality",
+   "title": "GTA 6 Review: Grand Theft Auto VI is staggering in scale but still grounded in reality",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wWmEybTd0Y2JmdlJpUU53b2x3UmNYVl9jSEZHV29MYlhiVlkwV0tWay1ENXREVzhnN3hFaDl1X3lKcl9xVzhDNk5hbjVXanJBeEI4OVZTYkxHNzk4Ymh2Sk5UVXFhVV83UDVldkY1RQ?oc=5",
+   "outlet": "The Scotsman",
+   "via": "Google News",
+   "published": "2026-11-19T11:39:00+00:00",
+   "seen": "2026-11-19T11:53:04+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 review praising its scale while noting it remains grounded in reality."
+  },
+  {
    "id": "what s in mandy s sink in gta 6",
    "title": "What's in Mandy's sink in GTA 6?",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mandy-sink/",
@@ -220,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Rockstar says GTA 6 does not let you hire prostitutes because it would not support the story's spirit."
+  },
+  {
+   "id": "hamilton will head back early to play gta vi verstappen already downloaded it",
+   "title": "Hamilton Will Head Back Early to Play GTA VI. Verstappen Already Downloaded It",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFg1Ri1hdGI0N2g2ZVJ6OHQwUkQyWXpETnBtRGcyd1phZ3ZTTDBOdVkxWTFsYWxLLTg0SXhWLS15Rmd3VFNpWGZUbGlhVHVMRE51cUxZYlNZS29zNDFGZV9SUkotS3ZLdE4tOU93MXA4ellBZFdQaWdnbHdPRmZhSDJLdEN3V0V2aWJ6djZ1LVJxMWVfd3hWbFRsNmtKeFdXem5wRENYUmpjTmM?oc=5",
+   "outlet": "MotorBiscuit",
+   "via": "Google News",
+   "published": "2026-11-19T11:34:42+00:00",
+   "seen": "2026-11-19T11:53:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Hamilton plans to head back early to play GTA VI and Verstappen has already downloaded it."
   },
   {
    "id": "gta 6 is finally here and we are playing here s our first impressions",
@@ -1481,6 +1520,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A person reflects on playing GTA 3 as a kid and now as a dad sneaks away to play GTA 6."
+  },
+  {
+   "id": "i used to sneak into my brother s room when he played gta 3 decades later i m hiding from my wife and son to play gta 6",
+   "title": "I used to sneak into my brother's room when he played GTA 3. Decades later, I'm hiding from my wife and son to play GTA 6.",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXpoQzQ2THdfVFVnc1hoSDFIN1otWkhraHNRTTloVE1XN0J5clptT0wtVGEwbjFCYWZBZkE3RHlkenZ5NWQtSVhiQm5JZ0xmN3VfTTBkMUtxVHl6U0xtU2FFUWJuUDJhZFJISFE0TXJOa2tuUU11ZUs4d2hBd3JfbE9mbnRONHMxdU9UUVlKUmdIQ1BSX1E?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-19T10:05:00+00:00",
+   "seen": "2026-11-19T11:53:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports someone who used to sneak into a brother's GTA 3 play sessions is now hiding to play GTA 6."
   },
   {
    "id": "take a day off to play gta 6 it might make you better at your job",
