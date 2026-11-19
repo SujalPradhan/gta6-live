@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:02:05+00:00",
- "started": "2026-11-19T23:01:59+00:00",
+ "updated": "2026-11-19T23:07:07+00:00",
+ "started": "2026-11-19T23:06:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T23:02:00+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T23:06:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-19T23:02:00+00:00"
+   "hits": 98,
+   "checked": "2026-11-19T23:07:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T23:02:01+00:00"
+   "checked": "2026-11-19T23:07:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T23:02:01+00:00"
+   "checked": "2026-11-19T23:07:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T23:02:01+00:00"
+   "checked": "2026-11-19T23:07:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-19T23:02:01+00:00"
+   "checked": "2026-11-19T23:07:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-19T23:02:02+00:00"
+   "checked": "2026-11-19T23:07:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-19T23:02:02+00:00"
+   "checked": "2026-11-19T23:07:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T23:02:02+00:00"
+   "checked": "2026-11-19T23:07:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T23:02:02+00:00"
+   "checked": "2026-11-19T23:07:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T23:02:03+00:00"
+   "checked": "2026-11-19T23:07:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T23:02:03+00:00"
+   "checked": "2026-11-19T23:07:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-19T23:02:03+00:00"
+   "checked": "2026-11-19T23:07:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T23:02:03+00:00"
+   "checked": "2026-11-19T23:07:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to make money in gta 6",
+   "title": "How to make money in GTA 6",
+   "link": "https://www.videogameschronicle.com/guide/how-to-make-money-in-gta-6/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-19T23:02:01+00:00",
+   "seen": "2026-11-19T23:07:01+00:00",
+   "summary": "Make money in GTA 6 with these tips",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports tips to make money in GTA 6."
+  },
+  {
+   "id": "if you want gta 6 s analog for a pontiac trans am with the screaming chicken do this",
+   "title": "If You Want GTA 6's Analog For A Pontiac Trans Am With The Screaming Chicken, Do This",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0FpeGVvbjR2SUp2RDM1Y291YmRqTEtobXV4QkdxMHJqRWdIUXFHc19USEV6OUl1eFJTU3c5WExqSWc3STBmbjJyclNtd2M2eTVYZ1RCZkpucXg5OUN0cURtckxWbnhDVjJSTm9SWWNVeGNZYTZkcDVvbmJpQjNPUW1PUFJ5Tkp6R3NHejlpaEFHU2NlWEE?oc=5",
+   "outlet": "Jalopnik",
+   "via": "Google News",
+   "published": "2026-11-19T23:01:30+00:00",
+   "seen": "2026-11-19T23:06:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses how to obtain an Analog for a Pontiac Trans Am with the screaming chicken in GTA 6."
+  },
+  {
+   "id": "gta 6 excitement has some alabama gamers taking time off work",
+   "title": "GTA 6 excitement has some Alabama gamers taking time off work",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWt2elI5U0U2YkRlVFk0SERTdkRWOGxvU0o0TGdFLVp0VTY5VVVRRVpKaHFLXzNTNE5VX01hQk5PSmNKcTliME96eGprNXNXODdmTkNHTGhyT3VOYy15a0pYTVNlTVM5OGRHSWM1emFkZkYwS2JkSFVKLUwtQS1KYkFxWGhhWG1pUXg1QUNhdW9HWm1FcDEzSHpn?oc=5",
+   "outlet": "WBRC 6 News",
+   "via": "Google News",
+   "published": "2026-11-19T23:00:00+00:00",
+   "seen": "2026-11-19T23:06:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes some Alabama gamers are taking time off work due to GTA 6 excitement."
+  },
+  {
+   "id": "massachusetts police warn gamers gta vi chaos isn t real life keep the grand theft virtual",
+   "title": "Massachusetts police warn gamers ‘GTA VI’ chaos isn’t real life: ‘Keep the grand theft virtual’",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTJHX0hvYUZyN2FUaVFaOTBoWlZqOFhtMDJuZGlkNTRaZ2hHLU0wR0Q1alN1SlVubDBJS1ZINHRLWHBkSzhZNnNDY3pZbEN2cUM3UEFwUE50eFJhY082YmJhRnJPTTBNaWdNN2R0V2Z1OHJRSDdWX2JfWGxhRUREd2tFSEY3MnZVRnQteHZia1FwQk45b2tmdzl6ZUlqRG1mRnEySnViMkt4dVJubkJRTTYzWmI1c09vQlhnNEJSdzM1VDkwb0J4RDZn?oc=5",
+   "outlet": "Boston Herald",
+   "via": "Google News",
+   "published": "2026-11-19T22:59:51+00:00",
+   "seen": "2026-11-19T23:06:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Massachusetts police warning that GTA VI chaos is not real life and to keep it virtual."
+  },
   {
    "id": "can t rush greatness gamers local game store react to gta vi release",
    "title": "'Can't rush greatness': Gamers, local game store react to GTA VI release",
@@ -116,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Gamers and a local game store react to the GTA VI release."
+  },
+  {
+   "id": "gta vi causes 20 surge in time off requests",
+   "title": "GTA VI causes 20% surge in time off requests",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbldPeGpTekpyZmVSa3cxMVhrd3dWejNKVFFUT2tiN1A0MTdnTm52V3JJOGQxZnp5UFlxXzhOTU8zbFhwQkwycGY2VkVFQVI2U0h0bXROR2M3NW1uMFhQZ1g1cENRR2pubDlfcTJaLW4xWUhmS0JUWnQ4b0N6THRkYTM0ZkhBRU9ZbVE?oc=5",
+   "outlet": "CBS News",
+   "via": "Google News",
+   "published": "2026-11-19T22:57:00+00:00",
+   "seen": "2026-11-19T23:06:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states GTA VI causes a 20% surge in time off requests."
   },
   {
    "id": "postcards from grand theft auto vi",
@@ -612,6 +677,19 @@
    "ai_summary": "Grand Theft Auto VI reimagines Cedar Key in-game, expressing affection for it."
   },
   {
+   "id": "gamers happily enter enter vice city in grand theft auto vi",
+   "title": "Gamers happily enter enter Vice City in ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDRqRU01OVljYVRiWldjQUc5c2NIRHJyNWdJemx1djlJZDlKN3FwTlV2OWo1aTM1Y21wNVczbFVEbUJJWWR4OXFtZDktXzNsdktzVlFOVUdLSmNVckRDS3JEcUpCd3ZkQ053NUt0azFyRTE4dmRYbFdEbnNYY05EaFFvYkVNMHV2cjBMYXB1SndCWTVrQ0xfVGdONVdtd9IBowFBVV95cUxPVklMMy1hV0Y2bVp6VzRTQkhaSm9KdzdXUjJNcVg1RWx1TlRsUUQ5MGNHcDdKcWNWT3p3c0RaRFRLY3JpcFhVbkR2WGRLb0JsTHdPVVlfNXZ5UUx5aGdyVnFZSExNbHpuU3lGcFVvWW9zYklSQjRzNW1ycWxxQU9ZdXUyMHlOaUVqOEVsT2R6alNiWVBQUzlXdy1zM2Y2TWpLM3pJ?oc=5",
+   "outlet": "WOODTV.com",
+   "via": "Google News",
+   "published": "2026-11-19T22:18:55+00:00",
+   "seen": "2026-11-19T23:06:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story describes gamers entering Vice City in Grand Theft Auto VI."
+  },
+  {
    "id": "grand theft auto vi is putting online streamers in the spotlight",
    "title": "Grand Theft Auto VI is putting online streamers in the spotlight",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDFPekdUZmZudDlaVEVLeTF3WEwySkRVU0kzMmc1VDlLM0ZVNVRWNHFoejJoeXdhOUNUWWdOM3hjMnV5U3RudWhObEZydjc1NHpoTWY1Zm5jdDdBOWE3RFI5a0RyZzQ0ZzEta1lMejhoSFVMX2xQdEdHWE5Dc1o3MVdXUnoySS1VNnkwN0JTOHkwSzhpangxNGZwRlljU3JiMEdZUHB2dHp1X296VjJjZHppSEs4T0NV?oc=5",
@@ -870,6 +948,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports how accurate GTA VI's Vice City is, with a lifelong South Florida resident weighing in."
+  },
+  {
+   "id": "logitech offers employees a day off to play gta 6 at launch",
+   "title": "Logitech offers employees a day off to play 'GTA 6' at launch",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQy1TTDJhRkFGWnlPQUs5OS1rdmJqSUVDV3NRV3NXUVBlMTI3eDdWZTg0NTRhQm5YM0U2aUNOM3Y3SDlUNHpHTkVwTnFidnZjMHZOSVEzaEFzMWs5d3c1TzFtWHhJWnVNMy1ETGlyWkJ1RlVSSEN2RVpPMVEtbmxSbFQxUERMbWt6NHBLSg?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-19T21:49:40+00:00",
+   "seen": "2026-11-19T23:06:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Logitech offering employees a day off to play GTA 6 at launch."
   },
   {
    "id": "gta vi finally reveals the actors voices and familiar names behind vice city seattle post intelligencer",
