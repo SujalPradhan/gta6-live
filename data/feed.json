@@ -1,109 +1,174 @@
 {
- "updated": "2026-11-19T14:40:11+00:00",
- "started": "2026-11-19T14:40:08+00:00",
+ "updated": "2026-11-19T14:44:15+00:00",
+ "started": "2026-11-19T14:44:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-19T14:40:08+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-19T14:44:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T14:40:09+00:00"
+   "checked": "2026-11-19T14:44:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-19T14:40:09+00:00"
+   "checked": "2026-11-19T14:44:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:40:09+00:00"
+   "checked": "2026-11-19T14:44:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T14:40:09+00:00"
+   "checked": "2026-11-19T14:44:08+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-19T14:40:10+00:00"
+   "checked": "2026-11-19T14:44:08+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-19T14:40:10+00:00"
+   "checked": "2026-11-19T14:44:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T14:40:10+00:00"
+   "checked": "2026-11-19T14:44:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T14:40:10+00:00"
+   "checked": "2026-11-19T14:44:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-19T14:40:10+00:00"
+   "checked": "2026-11-19T14:44:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T14:40:11+00:00"
+   "checked": "2026-11-19T14:44:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T14:40:11+00:00"
+   "checked": "2026-11-19T14:44:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-19T14:40:11+00:00"
+   "hits": 4,
+   "checked": "2026-11-19T14:44:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T14:40:11+00:00"
+   "checked": "2026-11-19T14:44:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "does gta 6 have an easy mode not officially but there are two very important settings you can change to make the game less difficult",
+   "title": "Does GTA 6 have an 'easy mode'? Not officially, but there are two very important settings you can change to make the game less difficult",
+   "link": "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-19T14:42:20+00:00",
+   "seen": "2026-11-19T14:44:08+00:00",
+   "summary": "By now, you've probably heard that you cannot use cheats in GTA 6 until you complete the main story . Not only that, but enabling cheat codes also locks story progression and deactivates the ability to save. Basically, you can use cheats to have a quick crime spree and blow off some steam, then it's back to normalcy. Understandably, some gamers are a little put out with this change. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece explains two key settings to make GTA 6 less difficult, noting that cheats can't be used until the main story is completed and cheat usage affects progress and saves."
+  },
+  {
+   "id": "gta 6 is here the policy behind the entertainment event of the year",
+   "title": "GTA 6 Is Here: The Policy Behind the Entertainment Event of the Year",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONHdmM3pDQW5VQVp1R1Q5ZTFqUnZTTk9VZ0QzQTNDSGpKbnY3TDBaTWduNm9xTHhkUjMyNHB1NzZnS182YWk5VGo3UDdHREx1UUJfRGYzZXUzMEJ3NGVqNTZJbzJEVkk1cHFDZnZPZlBvWDMyMkRIR2VYVzhNbVhQOE5hNEQ5dFp1WEdROFFUeXo?oc=5",
+   "outlet": "Duane Morris Government Strategies",
+   "via": "Google News",
+   "published": "2026-11-19T14:40:59+00:00",
+   "seen": "2026-11-19T14:44:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses the policy behind the GTA 6 entertainment event."
+  },
+  {
+   "id": "here is my fake review of gta vi which i ve never played singal minded substack",
+   "title": "Here Is My Fake Review Of GTA VI, Which I’ve Never Played - Singal-Minded | Substack",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ILXNpeXptUVN2bUQ2TGtFejJvTzJyVUVfdjNfVjVhZzNOSFVyWjBsT1lkTjlrMWZLN0pZcXA3Y3cyS3B4alFyTVpuclJMRWVwOVUzb1VDa1ZreUdHM0Q1eWRMTWNqUmUtOC1IY0JXeEVaMkJUY1E?oc=5",
+   "outlet": "Singal-Minded | Substack",
+   "via": "Google News",
+   "published": "2026-11-19T14:38:35+00:00",
+   "seen": "2026-11-19T14:44:06+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The piece presents a fake review of GTA VI that the author claims to have never played."
+  },
+  {
+   "id": "psl police have a gta vi release day warning port st lucie is not vice city",
+   "title": "PSL police have a GTA VI release-day warning: Port St. Lucie is not Vice City",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdWU3VHp6SUdEZWFqSHFfTEExVEdNZlVRS21vUGhsLUJrSHRydlpWSnJjQXlYOWhETlF3eWZLeG9vLUk1RGhnLVUwWEFBYmRhZVZuUnFXMkRvQklwaGxvWENKSjdGX3U0SDVIRzRsM1BkMzJjcEs5V3U5WDNkWlA1QU9lRkVQVjlCY2ZsMllDU3g5c2tqbEdTbk8xNGNveTFKemtxZ0JxdEV4MmdJRk5ReDh5VnpJaEFreFBNNnhMWUFfZ2s5YTU3WVBCNk9LM2Y0N04wQTlPeEhoaUROLXpfQWVlekpYN1BTWmhXVW5iU0JSWUlkZmFzNkdyb28?oc=5",
+   "outlet": "WPEC",
+   "via": "Google News",
+   "published": "2026-11-19T14:38:34+00:00",
+   "seen": "2026-11-19T14:44:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The report states PSL police issued a GTA VI release-day warning that Port St. Lucie is not Vice City."
+  },
+  {
+   "id": "as grand theft auto vi arrives a connecticut professor sees more than violence in the franchise",
+   "title": "As 'Grand Theft Auto VI' arrives, a Connecticut professor sees more than violence in the franchise",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZDNLcC1hcl9pUG9RVXNKMGVzX1hWbzBQWDYtT2NmbVRISERKVGFvNHAtWHVkOXNuVjVDTklpblZVZ1Vuc3hNdmJjNnJmZjdTNXRuQVR6dzJpcEFYM2w1X2FZQ0VZOXM0a1JvTG1qeDd5TFlLbmZOaW5hM1QwUWljTFdaX1pidGZXY24yWm9SZ1hWTkpuNEhYMTB0VEVHMHkxZjVMOUw5TlR4QlhhWndPeDR0U0V6YXBYT0N6ckVBOFdRZlo0ZHhYaFdBQVU1UUt3REE?oc=5",
+   "outlet": "Connecticut Public",
+   "via": "Google News",
+   "published": "2026-11-19T14:37:00+00:00",
+   "seen": "2026-11-19T14:44:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Connecticut professor views more than violence in the GTA VI franchise as the game arrives."
+  },
   {
    "id": "rockstar kept one gta 6 s biggest early secrets under wraps for years",
    "title": "Rockstar Kept One GTA 6’s Biggest Early Secrets Under Wraps For Years",
@@ -131,6 +196,19 @@
    "ai_summary": "The story reports that GTA 6 is here and Cleveland's 27 Club Coffee is celebrating."
   },
   {
+   "id": "gta vi release signals major shift for video game industry",
+   "title": "GTA VI release signals major shift for video game industry",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81aS1qaEZFTEZINk05cnZBUU9Wb1I1UXpkeU1aLXdjcXhMZkk1OUs1X0Y1bFMxaC0yczZCa0dqTWZOT2JGXzBxRzRvYmJzSG51a0w2cDRqMHAxSGlfSGQ1anExbUlYc0c4TllVUGVGT05QWnNkdVNIZ2xwZFI?oc=5",
+   "outlet": "Audacy",
+   "via": "Google News",
+   "published": "2026-11-19T14:34:00+00:00",
+   "seen": "2026-11-19T14:44:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article says GTA VI release signals a major shift for the video game industry."
+  },
+  {
    "id": "gta 6 metacritic review score ties long standing record held by the original ocarina of time",
    "title": "GTA 6 Metacritic review score ties long-standing record held by the original Ocarina of Time",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZnIzREtWS2E1b205ZzBpeGFrM3VOZW1NLThHOUpjRXVtNVhMVTJWNUpLdUkxenV1MlMtTjlxVVpCRFQwR2dJZGxQU25DdjJOTEtGTVl4eWhmZGlCUVBnaHZDMGFWTkM2ZUFXdTl3STVRNHdMM0JmcWt3Q3NuR0R2Z25mOVc2SExSN09KS2VaTUpmdWR5dkxzQUJvaU55MlZDcS1YZFhJcDdSX3dJQUNJRGtCUHRad2tjVVFaTm1KQQ?oc=5",
@@ -142,6 +220,32 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "The story reports that GTA 6 Metacritic review score ties a long-standing record held by the original Ocarina of Time."
+  },
+  {
+   "id": "gta 6 scores 99 as launch fever grips the world",
+   "title": "GTA 6 scores 99 as launch fever grips the world",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMndnQWFLN1FmSU1wMUItYjI4YnRnaE5mLVFQYi1RMDlONm1USGZyN2F4d2ZvVHBDOF9fN3g2cmdsSC1XZGx4LVl3YUltYVhqT3pXNEFZWnp0X1oxNDN0ZnhDaUtxdlFSY1ZFYw?oc=5",
+   "outlet": "Ynetnews",
+   "via": "Google News",
+   "published": "2026-11-19T14:32:09+00:00",
+   "seen": "2026-11-19T14:44:06+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The piece notes GTA 6 scores, with launch fever gripping the world."
+  },
+  {
+   "id": "wizards aj dybantsa makes one last gta 6 joke after losing streak ends",
+   "title": "Wizards' AJ Dybantsa makes one last GTA 6 joke after losing streak ends",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWM3UGx5RHVoUFJZWmc2SXYwSmxWQ1Y0SWMzZzVFZllnUmpMYW1kNU1xbXpJRE84dElhWjFMOUtWMDNpOE04UGJKdUI5OFM3YVhrcUctUVNxSDhxM0VXVVlzSFFRb0l6aDl0OXp5dFhScDRfS2NXSU5nVFpCXzRqMHN3dVg?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-19T14:30:49+00:00",
+   "seen": "2026-11-19T14:44:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Wizards' AJ Dybantsa makes one last GTA 6 joke after a losing streak ends."
   },
   {
    "id": "all gta 6 cheat codes for ps5 and xbox",
@@ -196,6 +300,19 @@
    "ai_summary": "GTA 6 debuts on Metacritic at a high score, tying a legendary game’s all-time record."
   },
   {
+   "id": "ufc s sean strickland calls out youngsters wanting to play gta 6",
+   "title": "UFC’s Sean Strickland calls out youngsters wanting to play GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXQwNjF5LW52QjZOek83U0hIUU5id1hiOTR2UkpfYUwtM1RlSEVydFY4YjN5bGxGQjJQSXlydWNvLXdzbUlZcXVmemFKUjFhemp4bDV0ZWxCZUxCcmdkSlBKM09GNVRKSF9jWjBxeEtaM1diRnlKdFBxU29KUThRSWtrUy1jZ1AzOGtJRlZn?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-19T14:23:26+00:00",
+   "seen": "2026-11-19T14:44:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "UFC’s Sean Strickland calls out youngsters wanting to play GTA 6."
+  },
+  {
    "id": "grand theft auto vi launch fuels work absences fake school closure posts",
    "title": "‘Grand Theft Auto VI’ launch fuels work absences, fake school closure posts",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWVJRXVLNnRlcmtuSlJoQ0JZN3NCU25JRnllWkEtRDFDQ2FOX0Z4VHRSdzFLbkFyUXM1bzUyV1dXcWZtMFN3WDB6bVJlU2luT0xKQzdVaHoydXZfbDh3Z0dBTVRVR1VIdFdsODVIVWl0dnBfd3lQREMxY19xeHhrREZQV2pIcXhpOGtIdHgzWG9kNUM5cHFyc0prOU9xb1A3Z1l2d3lXRF9kU2MtckV4ZU9uTWtfZDA?oc=5",
@@ -207,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Launch of Grand Theft Auto VI leads to work absences and posts about fake school closures."
+  },
+  {
+   "id": "gta 6 launches with near perfect reviews estimated 19 million copies sold",
+   "title": "GTA 6 launches with near-perfect reviews, estimated 19 million copies sold",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWpDeFNXbEJ4aThtT1JWYUtQUDZOT2s2YUNacW9YX2VHdXdLSjFLVk9YSm1la1lDbnBicXBIQW9fcDdFamF5TzF4QVVIQ0VLZG90U2EzcklVWjFUTGpQc2F0YWlLQVhVSF93eXkxdW9ZdG4tT3dVdVh0VEtONEk5clhpWnlYZGRzM1VrcDVHOF9WQVdfSXJxdVZsMHdWUXdBN1h3MWNmVjl1SG1DeW04dHdfTmnSAboBQVVfeXFMTVowM1dZM2trek8wUXhqM0duUXdObUI0Zk1XWTM4a0QxVGpxRU41NEVIMjZHWEN0UUFwWkdwVGNpWVlRQ25qZXlBclNlVGZZXzVmeEhpWFZBUGtqZ3pFalpsZ2oyNWFOamUxR1IzTEZucWNLMDM0N1lpLUNsWmNyLXJZOXE2MjVWZGM0QzM0eE5DOFVnMUFLVEpwRWxkeDl6dGlkMml5WDFOZlVxc3pRdzFfQjlqYUZlbmZR?oc=5",
+   "outlet": "Hromadske",
+   "via": "Google News",
+   "published": "2026-11-19T14:22:00+00:00",
+   "seen": "2026-11-19T14:44:07+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 launches with near-perfect reviews and an estimated 19 million copies sold."
   },
   {
    "id": "how to quickly increase and reduce your wanted and heat levels in gta 6",
