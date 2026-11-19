@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:57:56+00:00",
- "started": "2026-11-19T10:57:48+00:00",
+ "updated": "2026-11-19T11:02:59+00:00",
+ "started": "2026-11-19T11:02:52+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,179 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:57:49+00:00"
+   "checked": "2026-11-19T11:02:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T10:57:50+00:00"
+   "checked": "2026-11-19T11:02:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-19T10:57:50+00:00"
+   "checked": "2026-11-19T11:02:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T10:57:50+00:00"
+   "checked": "2026-11-19T11:02:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-19T10:57:51+00:00"
+   "checked": "2026-11-19T11:02:54+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-19T10:57:51+00:00"
+   "checked": "2026-11-19T11:02:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-19T10:57:51+00:00"
+   "hits": 37,
+   "checked": "2026-11-19T11:02:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 11,
-   "checked": "2026-11-19T10:57:52+00:00"
+   "hits": 12,
+   "checked": "2026-11-19T11:02:55+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-19T10:57:52+00:00"
+   "checked": "2026-11-19T11:02:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-19T10:57:52+00:00"
+   "checked": "2026-11-19T11:02:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T10:57:53+00:00"
+   "checked": "2026-11-19T11:02:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T10:57:53+00:00"
+   "checked": "2026-11-19T11:02:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-19T10:57:53+00:00"
+   "checked": "2026-11-19T11:02:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T10:57:53+00:00"
+   "checked": "2026-11-19T11:02:56+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 fans in japan disappointed after discovering censored content",
+   "title": "GTA 6 fans in Japan disappointed after discovering censored content",
+   "link": "https://www.dexerto.com/gta/gta-6-fans-in-japan-disappointed-after-discovering-censored-content-3429762/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-19T11:00:47+00:00",
+   "seen": "2026-11-19T11:02:55+00:00",
+   "summary": "GTA 6 players in Japan have voiced disappointment over the game’s censored content, which tones down nudity and gore compared with the Western release.",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "GTA 6 players in Japan express disappointment over censored content that tones down nudity and gore compared with the Western release."
+  },
+  {
+   "id": "inter miami and gta 6 the exciting miami connection",
+   "title": "Inter Miami and GTA 6: The Exciting Miami Connection",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15cXlqOWRzYXdZSmZydzFsMTJmWGZoZWRUdTVMS2NJSTJsNWptaWY3YkdKRl90UHdaZ2tLZ09GNGE2SGk1UUhEZk52TkE2WWNVRTFrdTJFaThCb01ZMFUzaEJlZjg4cm1pekk5b0Q1a2xqSkk?oc=5",
+   "outlet": "365Scores",
+   "via": "Google News",
+   "published": "2026-11-19T11:00:22+00:00",
+   "seen": "2026-11-19T11:02:53+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "Inter Miami and GTA 6: The Exciting Miami Connection reports a feature or collaboration linking the two."
+  },
+  {
+   "id": "gta vi is finally out",
+   "title": "‘GTA VI’ Is Finally Out",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYS1HaTVmWjhxcC1NSVp2TU5DcWM4MFhKck1qdUw4NVpmYXBkODRlMEFkeHJTZXV6LUpKNFZ2bnJkR25tTXFHM3RnV2EtZ1RSTXdoYlBRNXdGeEd3OGYwSkFZZXVfREtranRGYzBYVncxWkxFNUFSUnliSnpLQVBuQ2ZwWXNRQVJHcW40R0hHeTFmdTg?oc=5",
+   "outlet": "Rolling Stone",
+   "via": "Google News",
+   "published": "2026-11-19T11:00:00+00:00",
+   "seen": "2026-11-19T11:02:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI is finally out."
+  },
+  {
+   "id": "gta 6 is finally here here s how to play right now",
+   "title": "GTA 6 Is Finally Here! Here’s How to Play Right Now",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16U2hCWjd1MUJjRUs2R25Td1ZXRmd4bDRpd3ltX0NJVXgyV0NMdzNvWGxOZmxOSFotRllOSmRZSTJSbnRpVFFocFlObWJ3QWo5Z1hGVXA4Z1VmOWtNY2VSSDdiVDdsMlU?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-19T11:00:00+00:00",
+   "seen": "2026-11-19T11:02:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is finally here with guidance on how to play right now."
+  },
+  {
+   "id": "gta 6 has banned uwu and furries in what might be its funniest quirk yet",
+   "title": "GTA 6 has banned 'UwU' and furries in what might be its funniest quirk yet",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iSlh2OVl5Y0xhdFh0X2lxdThRUF80XzB0Q21zQ3hqUG5ycTUwRmliVnNpckNMT0JSdjdHcVA5UWd3dTBVMmpucmE0emhMbGdOR2pIQ2RGLV9aal80VThKNF85eHlFSEc3aDU0dWE4UG0xeTA5anE3QWtlX3hrZw?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-19T11:00:00+00:00",
+   "seen": "2026-11-19T11:02:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 bans 'UwU' and furries as a notable quirky policy."
+  },
+  {
+   "id": "i thought 20 years of playing gta had prepared me for gta vi i was wrong",
+   "title": "I thought 20 years of playing GTA had prepared me for GTA VI. I was wrong",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0c0Um5PYUpUSENIeGJQcjR6S1BhZENTbmJ2RENyQ2RlVDQzandpU0JTOU1MY3NYbWR4bkplZGFTeEhENkx4MlV0eGRMdEtEY3lfa1ZJcFRFZ2NidEFHUS1uTWRveUpteUs3YlRab1JtV25YVmpDa2tvNHlZUTMwb2N0N3hZdkJ0Y0Q0eFB4aTZiNE5FaWtPTkh3?oc=5",
+   "outlet": "The Herald",
+   "via": "Google News",
+   "published": "2026-11-19T10:58:31+00:00",
+   "seen": "2026-11-19T11:02:53+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "A long-time GTA player reflects that their expectations were challenged by GTA VI."
+  },
   {
    "id": "police issue statement addressing vice city transplants on gta 6 release night",
    "title": "Police issue statement addressing 'Vice City transplants' on GTA 6 release night",
