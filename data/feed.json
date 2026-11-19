@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:05:07+00:00",
- "started": "2026-11-19T17:04:53+00:00",
+ "updated": "2026-11-19T17:10:07+00:00",
+ "started": "2026-11-19T17:09:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-19T17:04:53+00:00"
+   "hits": 97,
+   "checked": "2026-11-19T17:09:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-19T17:04:54+00:00"
+   "checked": "2026-11-19T17:09:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-19T17:04:54+00:00"
+   "checked": "2026-11-19T17:09:57+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-19T17:04:55+00:00"
+   "checked": "2026-11-19T17:09:58+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-19T17:04:55+00:00"
+   "checked": "2026-11-19T17:09:58+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-19T17:04:57+00:00"
+   "checked": "2026-11-19T17:09:58+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 26,
-   "checked": "2026-11-19T17:04:58+00:00"
+   "hits": 25,
+   "checked": "2026-11-19T17:09:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-19T17:04:58+00:00"
+   "checked": "2026-11-19T17:09:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-19T17:04:58+00:00"
+   "checked": "2026-11-19T17:09:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 20,
-   "checked": "2026-11-19T17:04:58+00:00"
+   "hits": 21,
+   "checked": "2026-11-19T17:09:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-19T17:04:59+00:00"
+   "checked": "2026-11-19T17:09:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-19T17:04:59+00:00"
+   "checked": "2026-11-19T17:09:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-19T17:04:59+00:00"
+   "checked": "2026-11-19T17:09:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-19T17:04:59+00:00"
+   "checked": "2026-11-19T17:09:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "gamesir s gta 6 inspired xbox controllers look incredible",
+   "title": "GameSir’s ‘GTA 6’ Inspired Xbox Controllers Look Incredible",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUh3Zm96Wmc0TXdlcDZhWTNkcVBENEp3VmRVZkFjSUVrM1dkc3lVVkY3T0x0VXY4cEw3REhvOTRfVjFxcngzcmtFNnQ2QWduZW9jWFdIdnUtcV9Jc2djTXJkTElUa19faFZWdndfOHctbDlKUUhDblBYSFoyWGl6bmVWbXRQR0hZcmxmQ2pDMXZpVFNDT19EdHl4NEJwYldZbVYxV1k5ZzlhejIxb0I4?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-19T17:07:41+00:00",
+   "seen": "2026-11-19T17:09:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GameSir's GTA 6-inspired Xbox controllers are described as looking incredible."
+  },
+  {
+   "id": "overhated underrated an underrated crime thriller is the perfect double feature with gta vi",
+   "title": "Overhated & Underrated: An Underrated Crime Thriller is the Perfect Double Feature With GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZcEJrN2JEUng5Zjc4ZGVhZ1c4bk5iMVZjV2NabzdYenR2d2xGYWRVUUNvT0Jqd2tXZ1N1U0ZXaTg2Ri12YjJPSmxDVUQxWUJST3hVUWtfZnJPZFNvSGRmTFZOYWNwNV9y?oc=5",
+   "outlet": "Comic Book Resources",
+   "via": "Google News",
+   "published": "2026-11-19T17:04:42+00:00",
+   "seen": "2026-11-19T17:09:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A list feature argues an underrated crime thriller pairs well with GTA VI."
+  },
   {
    "id": "after years of delays gta 6 is finally here",
    "title": "After years of delays, GTA 6 is finally here",
@@ -170,6 +196,19 @@
    "ai_summary": "The report recounts a launch day PS5 playthrough where one crash nearly bricked the console."
   },
   {
+   "id": "gta 6 doesn t have any sex workers and rockstar has explained why",
+   "title": "GTA 6 Doesn't Have Any Sex Workers, and Rockstar Has Explained Why",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-doesnt-have-any-sex-workers-and-rockstar-has-explained-why",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-19T17:00:00+00:00",
+   "seen": "2026-11-19T17:09:59+00:00",
+   "summary": "First 3D entry to not feature them. A mainstay of the GTA series has been the presence of sex workers, but Rockstar Games has dropped this aspect for the newly released GTA 6 . As reported by Shack News , unlike most other games in the long-running franchise, you cannot hire a sex worker in GTA 6. Read the full article on pushsquare.com",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 does not include sex workers, with Rockstar explaining why."
+  },
+  {
    "id": "how grand theft auto vi is changing gaming and miami",
    "title": "How 'Grand Theft Auto VI' is changing gaming and Miami",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNRTdNNnNDSUJzS1I3VW5TWDFrczlHVHNxeS1FVDh0cENoN1Vhd3NPTFpDLTlsSnJtMkZlVF9Lc3JWQmpFaGRtTXptZGZYVHdYeE13MmR4WllqN2tnTkk3SzAtZFpwUGMtVTVUYVQ3dw?oc=5",
@@ -194,6 +233,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story asks who plays Mandy in GTA 6 and who the real-life actress is."
+  },
+  {
+   "id": "how to adjust aim assist in gta 6 and why you should",
+   "title": "How To Adjust Aim Assist In GTA 6 (And Why You Should)",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QTUo4R0ZqTUtRdmRTT2M1ZHBVMG9ZQklUUGZsc0JwckNfSjBFekNib2FKRUVkd2JBUUd6SVhnUFNHSXN5bGk0MTVSM1VkSnRsTU5OeHg1c0NHcEdSRFYwWWxzdHRKbHNiVVBta0txb2FFRjA?oc=5",
+   "outlet": "BGR",
+   "via": "Google News",
+   "published": "2026-11-19T16:58:07+00:00",
+   "seen": "2026-11-19T17:09:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Instructions on adjusting GTA 6 aim assist and why it matters."
   },
   {
    "id": "grand theft auto vi has a small deadpool connection",
@@ -272,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports who voices Jason and Lucia in GTA 6 and where viewers have seen them before."
+  },
+  {
+   "id": "sensor tower revealed updated sales of gta 6 19 05 million copies worldwide",
+   "title": "Sensor Tower Revealed Updated Sales of GTA 6 - 19.05 Million Copies Worldwide",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckx2WDFueko4SHE3OEl3WWtES2d2VDZaV2pqS19ZTGdfeDZhaUxLSzJuQ211ejhfOTBHa0F1dzRIZVItcHhfMExUdjV3cHdZbWxTWEpZdkZocW00TFVDWDRabS1nTDVnUFFyaUVzaXJEVjNWbGVuelhaRlBVYlowOWxuWGFlVVBVc0REUC1LOUJQdGYyUGlQV3E1TQ?oc=5",
+   "outlet": "EGW.News",
+   "via": "Google News",
+   "published": "2026-11-19T16:43:21+00:00",
+   "seen": "2026-11-19T17:09:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Sensor Tower reports updated worldwide sales of GTA 6 at a notable total."
   },
   {
    "id": "grand theft auto vi released",
@@ -430,6 +495,19 @@
    "ai_summary": "GTA 6's launch set a record for the highest-ever amount of data usage."
   },
   {
+   "id": "gta 6 s launch set a record for the highest ever amount of data usage in the history of the internet",
+   "title": "GTA 6's launch set a record for the highest-ever amount of data usage in the history of the internet",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnRyd2VScEJQZXZNNnlsZWc5TWZVaFc4MkozeWtBSUNJOHJrYVY4c2sxSTRGaFBMWHNCV3ZzNml0LUR5MDZ6aWZLdWVoNV9YVlVrZVNwZUpVbVJBSFNTXzliNnlVT0hMdWRuLURBRTUzYkRmdjZ0MW44RUVUYl85djN2ekhfWUk?oc=5",
+   "outlet": "Destructoid",
+   "via": "Google News",
+   "published": "2026-11-19T16:37:00+00:00",
+   "seen": "2026-11-19T17:09:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 launch set a record for the highest-ever internet data usage."
+  },
+  {
    "id": "take two set to shatter sales records as gta vi launches to massive fanfare",
    "title": "Take-Two set to shatter sales records as 'GTA VI' launches to massive fanfare",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUF6bm1SdVF6MDNJX3VvZXF3d0pzLVVoQXJxUTJEZ1ZqaGszRTNTOWNPaXRrOXhFcEhJeGJfT2V6dkVocUxyQVZaXzlQOXFtOVJZMER1WmxMbTN5VXFqMXJfbkhabFNtd1VTbnJ6dGVVSlJua2EwSGRYUHk5QmhtaXhaWV9NQWFSalhRZU5takkwWkNzeGV1TWpFRVBtWmJvbEFMLUhpZEJDRXl2Y3FveFZn?oc=5",
@@ -545,6 +623,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports the launch of GTA VI in France."
+  },
+  {
+   "id": "anitta bad bunny and rainao lend voices to grand theft auto vi",
+   "title": "Anitta, Bad Bunny and RaiNao lend voices to 'Grand Theft Auto VI'",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblZhOEJMMkdZYTYyTWlmREtuMVk1RXFOZDhLSUxtcVgxeE5DcWxuOFFNUHhzb0xOUGhlcTFNX2lRS2htN3VqVHE1VFVMekMtUTRIR1JrQ1hyM2YyWHNlaXJSX1lWR1ZJNDBBUlRNTnVQTDEwUzFRbGdvQ1BlaWFYYm9valNabDBDM2V1bC1FZWpRa2ZDM2pTOTBCT1V0a2_SAaQBQVVfeXFMT1I4dlZkT3RRSlFuRjFob3dwVUd6VVh0bnFLSlljbDR5X2pYM1U1YnJuRVBnMkl5Vk1iVU5kUi1JZmtuQTk5a2o0MmlsSmwtY2JMX3VUMVR5bkF2ZFlVRkFIMnZCaDBrdjQ2dlNmcGFhM1J4VUlpVVlFS3dsem5QdDhRODMwcjBwU3VvdWNQRG5kN3ZJUUNVcEdkamNUWWUwUTNyYk8?oc=5",
+   "outlet": "upi",
+   "via": "Google News",
+   "published": "2026-11-19T16:26:09+00:00",
+   "seen": "2026-11-19T17:09:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Anitta, Bad Bunny and RaiNao contribute voices to GTA VI."
   },
   {
    "id": "mayhem car chases grand theft auto vi debuts to rave reviews",
@@ -8761,6 +8852,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "A Grand Theft Auto 6 soundtrack listening party was held at an Andersonville record store."
+  },
+  {
+   "id": "andersonville record store holds grand theft auto 6 soundtrack listening party",
+   "title": "Andersonville record store holds Grand Theft Auto 6 soundtrack listening party",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQTFCSHlZd1RuLVRjeFFYUGZvTVJ2NnltTHE2T0hSVUluOVZIN3ZBTmRMLUNlZXZxbE5XZXZsYy1aQWdRVUVCTER0NnFWYmFWRFVCT0RmMDRRNXF5bHFsMzdTRThLeno1YWVVM2xRcXFJYXVZaGZFaEFneUpjakdhU1VrdVpRSjkwRUI2dUYzUnBOTjhMN080RDlhdHJ2ckp5cXRNejh4cDllTEEyQ2VYRERHcVg5RlZU?oc=5",
+   "outlet": "CBS News",
+   "via": "Google News",
+   "published": "2026-11-19T04:55:00+00:00",
+   "seen": "2026-11-19T17:09:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "A record store hosts a Grand Theft Auto 6 soundtrack listening party."
   },
   {
    "id": "gta vi sets a livestream record near 7 9 million viewers as take two closes up 6",
