@@ -1,109 +1,161 @@
 {
- "updated": "2026-11-20T12:31:22+00:00",
- "started": "2026-11-20T12:31:16+00:00",
+ "updated": "2026-11-20T12:36:24+00:00",
+ "started": "2026-11-20T12:36:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T12:31:17+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-20T12:36:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 88,
-   "checked": "2026-11-20T12:31:17+00:00"
+   "hits": 86,
+   "checked": "2026-11-20T12:36:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T12:31:18+00:00"
+   "checked": "2026-11-20T12:36:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T12:31:18+00:00"
+   "checked": "2026-11-20T12:36:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T12:31:18+00:00"
+   "checked": "2026-11-20T12:36:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-20T12:31:18+00:00"
+   "checked": "2026-11-20T12:36:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 23,
-   "checked": "2026-11-20T12:31:19+00:00"
+   "hits": 24,
+   "checked": "2026-11-20T12:36:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:31:19+00:00"
+   "checked": "2026-11-20T12:36:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T12:31:19+00:00"
+   "checked": "2026-11-20T12:36:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T12:31:19+00:00"
+   "checked": "2026-11-20T12:36:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:31:20+00:00"
+   "checked": "2026-11-20T12:36:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T12:31:20+00:00"
+   "checked": "2026-11-20T12:36:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T12:31:20+00:00"
+   "checked": "2026-11-20T12:36:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T12:31:20+00:00"
+   "checked": "2026-11-20T12:36:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 will be the creator economy s next big bonanza",
+   "title": "'GTA 6' Will Be the Creator Economy's Next Big Bonanza",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3lNTGR2R1FTS0hVMUNpMmI2cVFUd2dhSkJQQVVvRHZGUUxBYkNJUmJVN0FNSWNDZ3c1UFduVGQ2dUFNOGFVbFUwRzRDS1B6WGRuNk5saGtnUThzS21Zd3RFWjZhc2FpNnZJaGYtOTBEalg5c3dUY0ZfUXg3OHEzTnNQbTNfZlBGOU9vb3h3?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-20T12:35:00+00:00",
+   "seen": "2026-11-20T12:36:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 will be the next big opportunity for the creator economy."
+  },
+  {
+   "id": "playing gta 6 this weekend here s 16 spoiler free tips for your first playthrough",
+   "title": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
+   "link": "https://www.eurogamer.net/gta-6-spoiler-free-advice",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-20T12:33:10+00:00",
+   "seen": "2026-11-20T12:36:19+00:00",
+   "summary": "It's launch weekend for GTA 6 - in case you hadn't noticed - and since I've played the best part of a hundred hours of this thing, I thought it might be useful to share a few pieces of advice from my time with it. Read more",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story offers spoiler-free tips for a first playthrough during GTA 6's launch weekend."
+  },
+  {
+   "id": "gta 6 too dark here s how to fix it on ps5",
+   "title": "GTA 6 Too Dark? Here's How to Fix It on PS5",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjExVVp3MTdqNndkRk4yeThtZVkxcWVjN21uRW96VVYtSk1MLXEtR21wUVQybWxUbXpvVHBwYXZUNHRUOFZ4ZVZuMHdsdGRGUDRNY1dkekk4emF1UDd5X1pPOFVid1JCR2haNVYtSlpSOEduODZxSUg5U28xWC0xZ0tZSHVwSk4t?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-20T12:30:00+00:00",
+   "seen": "2026-11-20T12:36:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to fix GTA 6 being too dark on PS5."
+  },
+  {
+   "id": "former take two ceo says gta 6 is the last pre ai blockbuster video game of its kind",
+   "title": "Former Take-Two CEO says GTA 6 is \"the last pre-AI blockbuster video game of its kind\"",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/former-take-two-ceo-says-gta-6-is-the-last-pre-ai-blockbuster-video-game-of-its-kind-rockstars-game-represents-the-culmination-of-a-model-of-creativity-that-ai-is-about-to-upend/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T12:29:02+00:00",
+   "seen": "2026-11-20T12:36:19+00:00",
+   "summary": "\"I suspect cultural historians will one day look back on GTA 6 the way art historians look back on the last great realist painters,\" says Ben Feder",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The former Take-Two CEO calls GTA 6 the last pre-AI blockbuster of its kind."
+  },
   {
    "id": "every easter egg in gta 6 locations how to find them",
    "title": "Every Easter Egg In GTA 6—Locations & How To Find Them",
@@ -155,6 +207,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 breaks entertainment records with estimated sales exceeding $2.36 billion."
+  },
+  {
+   "id": "gta 6 fuel guide how refuelling gas stations and fuel gauges work",
+   "title": "GTA 6 fuel guide: how refuelling, gas stations and fuel gauges work",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkY3Wk5NWlhWWjNtUzBBMU9XRlUyM1M3YXdaMnl0R0hLa3NOeHRtWHVMTWpCYTMySlRCSEtIbkxGTkdWdGpYMGdGc2pUTXdyN0x1SU1hQ2VrWFZxaVVvOGo3VGJwRkd2YU5NZFMwZ1VybkVEdUQ4MjRJQUFpbC1WNGRVTFV1bDNVQ3R1dGZn?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-20T12:10:17+00:00",
+   "seen": "2026-11-20T12:36:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains GTA 6's fuel system, refuelling, gas stations, and fuel gauges."
   },
   {
    "id": "9 crime movie couples who could give gta 6 s jason and lucia a run for their money ranked",
@@ -337,6 +402,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece asks whether GTA VI includes an air cargo GSSA."
+  },
+  {
+   "id": "has gta 6 included an air cargo gssa",
+   "title": "Has GTA 6 included an air cargo GSSA?",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLMTlZNF9Bdlk4b0hhODE3ajFiZ2JKWlRIYmFLejh2a1FEQW95RzNMekp4V1pKY09tV0dYSVdaamdxRkktSUZuVTZfOG01cUlnNU9uMlhzSXhtRHF1SmRKZUhvVGtPTlVoRUpTbl9WZw?oc=5",
+   "outlet": "Air Cargo Week",
+   "via": "Google News",
+   "published": "2026-11-20T11:55:09+00:00",
+   "seen": "2026-11-20T12:36:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks whether GTA 6 includes an air cargo GSSA."
   },
   {
    "id": "how to unlock the venturas blvd elegy in gta vi",
