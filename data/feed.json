@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:46:28+00:00",
- "started": "2026-11-20T12:46:22+00:00",
+ "updated": "2026-11-20T12:51:29+00:00",
+ "started": "2026-11-20T12:51:22+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T12:46:22+00:00"
+   "checked": "2026-11-20T12:51:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 87,
-   "checked": "2026-11-20T12:46:23+00:00"
+   "hits": 86,
+   "checked": "2026-11-20T12:51:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T12:46:23+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T12:51:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T12:46:24+00:00"
+   "checked": "2026-11-20T12:51:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T12:46:24+00:00"
+   "checked": "2026-11-20T12:51:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-20T12:46:24+00:00"
+   "checked": "2026-11-20T12:51:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 24,
-   "checked": "2026-11-20T12:46:24+00:00"
+   "hits": 25,
+   "checked": "2026-11-20T12:51:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T12:46:25+00:00"
+   "checked": "2026-11-20T12:51:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T12:46:25+00:00"
+   "checked": "2026-11-20T12:51:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T12:46:25+00:00"
+   "checked": "2026-11-20T12:51:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:46:25+00:00"
+   "checked": "2026-11-20T12:51:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T12:46:26+00:00"
+   "checked": "2026-11-20T12:51:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T12:46:26+00:00"
+   "checked": "2026-11-20T12:51:26+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T12:46:26+00:00"
+   "checked": "2026-11-20T12:51:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 day one sales estimated at 24 58 million copies 2 36b revenue",
+   "title": "GTA 6 Day One Sales Estimated at 24.58 Million Copies & $2.36B Revenue",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iemR5R2pqbHZaeTBwVjhfNm1nbklSRm9iOHRscldNU0dLMkdUQnlheDlHazNFbkVMT0hGNGs0ejN5QkEtNUpXbnF4ZlJMWENoYVY5U0RwV0hvcW5rV0pFWjZqMVBqdFVReDdoNFRJaTVTZw?oc=5",
+   "outlet": "NoobFeed",
+   "via": "Google News",
+   "published": "2026-11-20T12:48:07+00:00",
+   "seen": "2026-11-20T12:51:23+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports day one sales and revenue estimates for GTA 6."
+  },
   {
    "id": "school sends out minibus to catch absent pupils playing gta 6",
    "title": "School sends out minibus to catch absent pupils playing GTA 6",
@@ -116,6 +129,32 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "A UK school dispatched staff in a minibus to bring absent pupils to class during GTA 6’s launch week and offered a prize draw for perfect attendance."
+  },
+  {
+   "id": "gta 6 vice city fm tracklist every song artist and radio host",
+   "title": "GTA 6 Vice City FM tracklist: Every song, artist and radio host",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUJSd2FQTW9SdlJlQnh3WUdpd2ZrdjI5RHdhXzU1Y3NWR3J5OEtLbmhCVnNxZTNTNThKZXRBeEZpMmNLYmYxa0RNU0xIWmtic054bUZkaV9zZmpSMzBvTDdtYlFiTlJpWkVray1nSVBBeDRTQ0xLRkUyRXU1WVZ1WklSMFlIdXNIWjZ6eTQ4OGI0QWZB?oc=5",
+   "outlet": "RouteNote",
+   "via": "Google News",
+   "published": "2026-11-20T12:45:00+00:00",
+   "seen": "2026-11-20T12:51:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the GTA 6 Vice City FM tracklist detailing every song, artist and radio host."
+  },
+  {
+   "id": "gta 6 mandy thirst levels reach heights that even former nintendo boss reggie fils aim can t help but notice",
+   "title": "GTA 6 Mandy thirst levels reach heights that even former Nintendo boss Reggie Fils-Aimé can't help but notice",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mandy-thirst-levels-reach-heights-that-even-former-nintendo-boss-reggie-fils-aime-cant-help-but-notice/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T12:44:49+00:00",
+   "seen": "2026-11-20T12:51:24+00:00",
+   "summary": "Adult Animal Crossing? Yeah, you could say that",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Mandy thirst levels in GTA 6 drawing attention from Reggie Fils-Aimé."
   },
   {
    "id": "24 gta 6 tips and tricks we wish we knew before playing",
@@ -168,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 will be the next big opportunity for the creator economy."
+  },
+  {
+   "id": "why gta 6 will be the creator economy s next bonanza and what brands can learn",
+   "title": "Why 'GTA 6' will be the creator economy’s next bonanza — and what brands can learn",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3lNTGR2R1FTS0hVMUNpMmI2cVFUd2dhSkJQQVVvRHZGUUxBYkNJUmJVN0FNSWNDZ3c1UFduVGQ2dUFNOGFVbFUwRzRDS1B6WGRuNk5saGtnUThzS21Zd3RFWjZhc2FpNnZJaGYtOTBEalg5c3dUY0ZfUXg3OHEzTnNQbTNfZlBGOU9vb3h3?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-20T12:35:00+00:00",
+   "seen": "2026-11-20T12:51:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports why GTA 6 could be the creator economy’s next bonanza and what brands can learn."
   },
   {
    "id": "playing gta 6 this weekend here s 16 spoiler free tips for your first playthrough",
@@ -2716,6 +2768,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports an album for GTA 6 featuring multiple artists across 34 tracks."
+  },
+  {
+   "id": "grand theft auto vi the album arrives 34 tracks feat travis scott dua lipa cardi b lana del rey tame impala",
+   "title": "‘Grand Theft Auto VI: The Album’ Arrives, 34 Tracks Feat. Travis Scott, Dua Lipa, Cardi B, Lana Del Rey, Tame Impala",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBncS1uSkRnREVhMkdodzJYaFhDTFBrQkdHY2hmSi1LekpxT2dva3Nab2lKX1BtVmlteS1LdHVXajdDUXBjM2swUmFNMVFSMk41RmduUHNHeUdwSC05aThxdFdLSGRrTW0yRmlZTE9Yb0F5Z3h5N0JZ?oc=5",
+   "outlet": "MusiCulture",
+   "via": "Google News",
+   "published": "2026-11-20T06:47:16+00:00",
+   "seen": "2026-11-20T12:51:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the album GTA VI: The Album with thirty-four tracks including artists listed."
   },
   {
    "id": "gta 6 passes 2 36 billion in estimated launch day sales",
