@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:47:58+00:00",
- "started": "2026-11-20T16:47:52+00:00",
+ "updated": "2026-11-20T16:52:57+00:00",
+ "started": "2026-11-20T16:52:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T16:47:52+00:00"
+   "checked": "2026-11-20T16:52:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 87,
-   "checked": "2026-11-20T16:47:53+00:00"
+   "checked": "2026-11-20T16:52:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T16:47:53+00:00"
+   "checked": "2026-11-20T16:52:53+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T16:47:53+00:00"
+   "checked": "2026-11-20T16:52:53+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T16:47:54+00:00"
+   "checked": "2026-11-20T16:52:53+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T16:47:54+00:00"
+   "checked": "2026-11-20T16:52:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T16:47:54+00:00"
+   "checked": "2026-11-20T16:52:53+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T16:47:54+00:00"
+   "checked": "2026-11-20T16:52:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-20T16:47:54+00:00"
+   "hits": 6,
+   "checked": "2026-11-20T16:52:54+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T16:47:55+00:00"
+   "checked": "2026-11-20T16:52:54+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T16:47:55+00:00"
+   "checked": "2026-11-20T16:52:54+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T16:47:55+00:00"
+   "checked": "2026-11-20T16:52:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T16:47:56+00:00"
+   "checked": "2026-11-20T16:52:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T16:47:56+00:00"
+   "checked": "2026-11-20T16:52:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 doesn t officially have first person but you can force it to here s how to do it",
+   "title": "GTA 6 Doesn't Officially Have First-Person, but You Can Force It to — Here's How to Do It",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd3R6cXFsMVZKa0x3Ykt2Q3NndkVHN1FTcVpKTjNxWmR0S0luYTRIVjNSUlNXTWt2cGJzU3dYY0pFUkVzWlNpcGl0R2tyQ1RHNXRrUjlPdnZEZTZPZlNUOV9PczI2bWZ4NjhISjdxbk5ZUXV2UF9SZmpNbktKdkZ1RkpoNGJXclc1QjhTLXNNZGlaZkJfMXZFdlRlY1NIdFFSRlFGMktNdkhYSHk4WjJpemdXZTVPemE0Xy1hSEdMaXZHSHBBaHhwWVhfM21BSE0?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-20T16:50:14+00:00",
+   "seen": "2026-11-20T16:52:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 does not officially have first-person, but can be forced to play that way."
+  },
+  {
+   "id": "furry community divided over depiction in gta 6",
+   "title": "Furry Community Divided Over Depiction in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHk2UXpTWEJkS3NKN1FWeWd5eXZDazlQMTZmaVJSa1VpaElmanh5dUlxX3BTNHNvaGliakJ5cmhQeVYzcXp1VE5PdHpNMmRjS3M1bkhNdEVVYmJGUW5KbkN6NVlVcTg1NkJpcnpHRXRPNXpDUXhKeGNDYnI1dXN5X0dYV182NlRD?oc=5",
+   "outlet": "Newsweek",
+   "via": "Google News",
+   "published": "2026-11-20T16:48:00+00:00",
+   "seen": "2026-11-20T16:52:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the furry community is divided over depictions in GTA 6."
+  },
+  {
+   "id": "gta vi could generate 2 36 billion in first day sales",
+   "title": "GTA VI could generate $2.36 billion in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmZMb01YdDkzZUNrWlRleFR5cmFGdjBjUUo0ajFmMXFJV05PSk9pWERJSm5uVWo2eldGTi1zTWMzcElJUGFXeEdRejlQNUZqb3NwNkZYV1lKYjRWdkxPYTY5b2NsOUFZSndCMWFRUWlRWUN2akVMSHR5UTQ2M3dhNm9VLVFJYnhfRWR0V0NRYlBLdlE?oc=5",
+   "outlet": "The Journal Record",
+   "via": "Google News",
+   "published": "2026-11-20T16:47:56+00:00",
+   "seen": "2026-11-20T16:52:52+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA VI could generate a large amount in first-day sales."
+  },
+  {
+   "id": "all my time meant for gta 6 this week is being taken away by a volleyball game",
+   "title": "All My Time Meant For GTA 6 This Week Is Being Taken Away By A Volleyball Game",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakZNbG12ZVpHb2Iwa0lUSmttM2FxRS11MldZa3ZWQnN1ZkpYbmZXamlwNFRJb2lzNGQteWRmeWlRbjh1VDMwZlN5ZXFEamR1bGRfMU9scHBNNHZ3Ny1TRm40SGpadzNhVmQtSGwzcU4tOVlLYzNiejJfS3RNem5qNmdPRGNRUERxOEdOZ2ZDWTJsTjZ4MFNLVWxWTGl3c2FqcnlIVlVHTUlPVTNNOUVFYWFEdw?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-20T16:45:00+00:00",
+   "seen": "2026-11-20T16:52:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports time meant for GTA 6 this week is being taken away by a volleyball game."
+  },
   {
    "id": "grand theft auto 5 protagonists are referenced in a perfect gta 6 easter egg all about the events of los santos",
    "title": "Grand Theft Auto 5 protagonists are referenced in a perfect GTA 6 Easter egg all about the events of Los Santos",
@@ -155,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story describes a Naughty Dog designer reacting to GTA 6 with a comparison to a Bugatti Veyron, via Rockstar."
+  },
+  {
+   "id": "gta 6 leaker returns circulates alleged xbox build of the game",
+   "title": "GTA 6 Leaker Returns, Circulates Alleged Xbox Build of the Game",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM205ZzVpNFVWYlJEaDU1R3RLNXc4VG5yM09oTGNrMG9ZX3lkZmwzQ1d0U19xWXRGbGhjYWpYM3ZIMHAwXzh0Y1lmUF83RUpHRlhGdEhrMDdKbVN4NU9fV1JVZmxIdHlSS0ZUSnpFTndfci1zYU5WLVVjQ0d4cDcwSkJWa0pJSnZmVXJSRHRKMndWTEk?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-20T16:35:45+00:00",
+   "seen": "2026-11-20T16:52:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 leaker has returned and is circulating an alleged Xbox build of the game."
   },
   {
    "id": "how to skip and pass time in gta 6",
