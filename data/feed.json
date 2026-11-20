@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T14:17:04+00:00",
- "started": "2026-11-20T14:16:57+00:00",
+ "updated": "2026-11-20T14:22:05+00:00",
+ "started": "2026-11-20T14:21:57+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T14:16:57+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T14:21:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-20T14:16:58+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T14:21:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T14:16:58+00:00"
+   "checked": "2026-11-20T14:21:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T14:16:58+00:00"
+   "checked": "2026-11-20T14:21:59+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T14:16:59+00:00"
+   "checked": "2026-11-20T14:21:59+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T14:16:59+00:00"
+   "checked": "2026-11-20T14:21:59+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T14:16:59+00:00"
+   "checked": "2026-11-20T14:22:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:16:59+00:00"
+   "checked": "2026-11-20T14:22:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-20T14:17:00+00:00"
+   "checked": "2026-11-20T14:22:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T14:17:00+00:00"
+   "checked": "2026-11-20T14:22:00+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:17:00+00:00"
+   "checked": "2026-11-20T14:22:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T14:17:00+00:00"
+   "checked": "2026-11-20T14:22:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T14:17:00+00:00"
+   "checked": "2026-11-20T14:22:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T14:17:01+00:00"
+   "checked": "2026-11-20T14:22:01+00:00"
   }
  },
  "items": [
@@ -142,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 revealing a soundtrack album with surprise songs and cameos."
+  },
+  {
+   "id": "gta vi unveils soundtrack album game includes surprise songs and cameos",
+   "title": "GTA VI Unveils Soundtrack Album, Game Includes Surprise Songs And Cameos",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVdadjl1bmZNSVMxZDU3MV9qVFJ4ejFtU0FTcDBjSVdwRDg4Ukh2NWJMLVRXZGdJR2x6U21MS3RuYkdjWXdYbkc5MmVJcExMOTV4VXdWQkRHazljNEJzNi1FdmVpb0MwR2ZJSlBIdlRsbkc1Mkpxb2N0UHZDc2R2N2pSb1ppRjhVcDJ5NGNRYWkzLVZYaTRvTFlJTHd6OThyY29yeUJjY1hWUQ?oc=5",
+   "outlet": "Stereogum",
+   "via": "Google News",
+   "published": "2026-11-20T14:12:00+00:00",
+   "seen": "2026-11-20T14:21:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI unveils a soundtrack album with surprise songs and cameos."
   },
   {
    "id": "gta 6 vehicle list which types are confirmed likely or still unverified",
@@ -235,6 +248,19 @@
    "ai_summary": "The story reports that Grand Theft Auto VI earned more than $2.3 billion on its first day after launch."
   },
   {
+   "id": "gta vi makes more than 2 3 billion in first day since launch and ushers in fresh debate over video game violence",
+   "title": "GTA VI makes more than $2.3 billion in first day since launch and ushers in fresh debate over video game violence",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOREhzSU55VExLbjdHdURYTkZFTkpoNGpTQ1QzaEkyaU5ydk5oLXFpZ0M5UkVucE9Cek9tMDJ2Q3hJak9DeXU2M1B5bXBnMUZUWHNFVzNlbEs0b0lyWC1mSHdxVmx0cmRwT0Q3a2xWMWJxc1lhS096d3VJX3dfaXY1MUI4eXRfNmd5LVNHdVprQ0VuM0NQNFRpRkR5NmdfZ3R0V244Xw?oc=5",
+   "outlet": "Washington Examiner",
+   "via": "Google News",
+   "published": "2026-11-20T14:00:08+00:00",
+   "seen": "2026-11-20T14:21:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA VI earning more than 2.3 billion on its first day and stirring debate over video game violence."
+  },
+  {
    "id": "i disgraced myself at the vice city zoo and it s the one thing i ll never do again in gta 6",
    "title": "I Disgraced Myself at the Vice City Zoo, and It’s the One Thing I’ll Never Do Again in GTA 6",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbm1aR0hjeFpFTDZpZ3dTbW1qUlNQMGhCRHFFaE8zQW5HdGZSTXRDcEpuQnRab0hEaTdONDBzUFJUWGVZN3BVbjdZNUtIZlNzSmdKRFYzZEs4TjZPRkg3amNMdThWYW9UZTIwRVVfSU1QQjU2YVg5VWE5N3RBYm82UUZiby0?oc=5",
@@ -326,6 +352,19 @@
    "ai_summary": "GTA 6 is reported to be history’s biggest entertainment launch in The Daily Star."
   },
   {
+   "id": "gta 6 has already beaten the odyssey s ginormous box office run",
+   "title": "GTA 6 Has Already Beaten The Odyssey’s Ginormous Box Office Run",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yR1gweXNSTWNlM2J1RUNPdnVFcUNvdnlTR3QtZi05aUlfS2xHZmduendMMGxsUjFTVVZRcjRYWEJOdFZ2YlJrekU0OElXNk5FTmQzSjZ5VHB1WjFMV01udmpra0l4SWZiVzV4X01Td3paUjBpektHM1hRVVY?oc=5",
+   "outlet": "AOL.com",
+   "via": "Google News",
+   "published": "2026-11-20T13:53:32+00:00",
+   "seen": "2026-11-20T14:21:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 has already beaten The Odyssey’s box office run."
+  },
+  {
    "id": "how many cars can you own at once in gta 6",
    "title": "How many cars can you own at once in GTA 6?",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMHlFMEJwdXNIdHBfbmN3R2lMS1BBTUZTUnEzVGVjajdsZ3JGVTh0R0tjdDFnbUt1UnNJeUhILXBMNFNNNmpCOXNId3B1Uzloa19fYWxmd1ktallaVEVqRk9zRFNpWmdEa2pBQ1g5UURTYjVGZDZoUm5IUDhxQQ?oc=5",
@@ -415,6 +454,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story lists the top three TVs for GTA VI across different budgets."
+  },
+  {
+   "id": "gta vi red flags for when gaming becomes addictive",
+   "title": "GTA VI: Red flags for when gaming becomes addictive",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DQ3VTVVlFdjlHYmFXbnVVOXlWN3VBbFRVUFJlWXVsb01rb3JLbGNNY2d3ODRiQTR6MFBYT1c0bExLRXRLbmh4bTRuWmxUTkxWZWIwS2pXdFhwbTRuaXU2djdXeWEwMGpoV0owWjIzNmVLdw?oc=5",
+   "outlet": "Yahoo News Canada",
+   "via": "Google News",
+   "published": "2026-11-20T13:45:15+00:00",
+   "seen": "2026-11-20T14:21:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports red flags about gaming becoming addictive tied to GTA VI."
   },
   {
    "id": "gta 6 first person glitch lets you play as jason and lucia through their own eyes",
@@ -781,6 +833,19 @@
    "ai_summary": "The story discusses what to do before finishing Chapter 1 in GTA 6."
   },
   {
+   "id": "5 essential things to do before finishing chapter 1 in gta 6",
+   "title": "5 essential things to do before finishing Chapter 1 in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xOUtEOUExeEF4dThaNW91QzF2cHp6QVNwLWZWSmpNVUk4alMybXhnMGxWZC1pRERHWnJFVnNjYWdLa1JEU0U5bEVuVjU1TUJCanU2eFZzODNYX1c2Q2JldWtjRFctdjIxd2xxclF3?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-20T13:17:20+00:00",
+   "seen": "2026-11-20T14:21:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports five essential things to do before finishing Chapter 1 in GTA 6."
+  },
+  {
    "id": "gta 6 launch breaks industry records for the highest ever internet usage",
    "title": "GTA 6 Launch Breaks Industry Records For The Highest Ever Internet Usage",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WWnU5RTBKSXM3NmdPMEhWbGpQZUJIbHdWNEpCX3dneGFnWFhPUzd2Ym1hVVlHclVpZUVLNFZjSnBGOFJIQk01T1FSZ0ZqcGJ1Y0dCbFVJczFRcjNEVVVycnFOdTJwZndNYmNDSkpR?oc=5",
@@ -1091,6 +1156,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "GTA 6: can players continue playing after the ending?"
+  },
+  {
+   "id": "watch gta vi is likely the final masterpiece of the pre generative ai era enjoy it",
+   "title": "Watch GTA VI Is Likely the Final Masterpiece of the Pre-Generative AI Era. Enjoy It",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUNCZlZHUzltb09zaldKR2pzQ3RFU3VkUDNjN01wVzE0dXBWUzBxd21sTk0yN0tUT0R3UkJ3aEpPZjFVUEJKMnhTcnhZNGVIWDdhVWxtTFdoUVZ6OE5FbE9GYUU4dHhqSGlWZkh3VXhUZ0ppZFFwMklSQWRQQlFWN1k4Tk8wdFZoTVpHRnJUVEYtUDdwQlFubU1oY1BfSFJOdkdjR1ZkWF9YanlsbFE0?oc=5",
+   "outlet": "WIRED",
+   "via": "Google News",
+   "published": "2026-11-20T12:48:23+00:00",
+   "seen": "2026-11-20T14:21:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Watch GTA VI as likely the final masterpiece of the pre-generative AI era and to enjoy it."
   },
   {
    "id": "gta 6 day one sales estimated at 24 58 million copies 2 36b revenue",
