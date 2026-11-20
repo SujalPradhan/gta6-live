@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:56:59+00:00",
- "started": "2026-11-20T13:56:50+00:00",
+ "updated": "2026-11-20T14:01:59+00:00",
+ "started": "2026-11-20T14:01:52+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T13:56:51+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T14:01:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-20T13:56:51+00:00"
+   "hits": 94,
+   "checked": "2026-11-20T14:01:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T13:56:52+00:00"
+   "checked": "2026-11-20T14:01:53+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T13:56:52+00:00"
+   "checked": "2026-11-20T14:01:53+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T13:56:53+00:00"
+   "checked": "2026-11-20T14:01:54+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T13:56:53+00:00"
+   "checked": "2026-11-20T14:01:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T13:56:53+00:00"
+   "checked": "2026-11-20T14:01:54+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:56:54+00:00"
+   "checked": "2026-11-20T14:01:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T13:56:54+00:00"
+   "checked": "2026-11-20T14:01:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T13:56:54+00:00"
+   "checked": "2026-11-20T14:01:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:56:55+00:00"
+   "checked": "2026-11-20T14:01:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T13:56:55+00:00"
+   "checked": "2026-11-20T14:01:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T13:56:55+00:00"
+   "checked": "2026-11-20T14:01:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T13:56:55+00:00"
+   "checked": "2026-11-20T14:01:56+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to lose the cops fast in gta 6",
+   "title": "How to Lose the Cops Fast in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1b196SmJCT1M0ZmZBVWhsVEJPUmNZeVpQLVNNWDRYYjc0czJMQ2REQnRIZFpiUy1ZZERtTXRnMkpBbFRnMmxxclB0Q1FaSGFlT0J1bFQxYUJvcjVXTWNmaWw1anAtTHFaQkd1SEc5MGN1UWo3V1E?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-20T13:55:05+00:00",
+   "seen": "2026-11-20T14:01:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports tips on escaping the police quickly in GTA 6."
+  },
+  {
+   "id": "grand theft auto vi is a worldwide sensation bostonians still dream for a local version",
+   "title": "‘Grand Theft Auto VI’ is a worldwide sensation. Bostonians still dream for a local version",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXdhc1V4YWZiT0dkS0gxQTN6bUZ6ZElHdWRrUV9IbGtjZTJXeUZQMHY3MlRlVklPMjVmRmFJRXJSUVBOc1FsTVQ2MVJWb2ZtRGlJNGhVU0FSdWpLb1h4Tl9CM1d2eTJpckV2YkdCODliTWs1al9KaXdEa2V5Q0tEeUJQTWRiV1FhWlNINmZsZnpQZHlCTndjSFVNcVNMcV80bWhtRGdrcXo2V2lkcVUzX3d6b0hrU0w0Y0tVYlo2OA?oc=5",
+   "outlet": "The Boston Globe",
+   "via": "Google News",
+   "published": "2026-11-20T13:54:02+00:00",
+   "seen": "2026-11-20T14:01:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece says GTA VI is a worldwide sensation while Bostonians long for a local version."
+  },
   {
    "id": "gta 6 is estimated to become history s biggest entertainment launch",
    "title": "GTA 6 is estimated to become history’s biggest entertainment launch",
@@ -116,6 +142,32 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 is reported to be history’s biggest entertainment launch in The Daily Star."
+  },
+  {
+   "id": "how many cars can you own at once in gta 6",
+   "title": "How many cars can you own at once in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMHlFMEJwdXNIdHBfbmN3R2lMS1BBTUZTUnEzVGVjajdsZ3JGVTh0R0tjdDFnbUt1UnNJeUhILXBMNFNNNmpCOXNId3B1Uzloa19fYWxmd1ktallaVEVqRk9zRFNpWmdEa2pBQ1g5UURTYjVGZDZoUm5IUDhxQQ?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-20T13:52:50+00:00",
+   "seen": "2026-11-20T14:01:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article asks how many cars a player can own at once in GTA 6."
+  },
+  {
+   "id": "tyreek hill makes surprise gta 6 cameo as vice city manatees star",
+   "title": "Tyreek Hill makes surprise 'GTA 6' cameo as Vice City Manatees star",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzQ5MjFIcEhHZEx4UUpabHRNRW85cWxsWDJsSVV4RFQ2eWlPcGUyS2JKeHZTNVhBMlA2S2RaWWFkc3NlN0FNc1pQRFBXRzJHN19zVk1UdTBQbGxGNkszYnpqRHFBZ01PdldKdlVJdlVFWF9mQ1BKMkhFd1d4UVg0SmVRdUJkRlhwd3JSbkcyRnNUUkl0NVJoYXRENElqY2ZFdno2QkdhcGdIUU8yMG5kSTg0RVZ6b1BGZmtTMW92VQ?oc=5",
+   "outlet": "USA Today",
+   "via": "Google News",
+   "published": "2026-11-20T13:51:00+00:00",
+   "seen": "2026-11-20T14:01:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The report notes Tyreek Hill makes a surprise GTA 6 cameo as a Vice City Manatees star."
   },
   {
    "id": "gta 6 has police departments asking players not to commit crimes in real life",
@@ -924,6 +976,19 @@
    "ai_summary": "The story reports Mandy thirst levels in GTA 6 drawing attention from Reggie Fils-Aimé."
   },
   {
+   "id": "is niko bellic in gta 6",
+   "title": "Is Niko Bellic in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40M2pNM0tDTDZCZHZnVGdtYU5DbGNyU3ZBUWZMSHJaWkxnN2xkUzBfaDZ4bWZMZl9nUjNXdVF1VkdFNllzc3IwYndtRlhqaTlYQ1NxbEZxY29UZlZqRHltM01JbUdvUDFvaUMydENBN1JFbEk?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-20T12:44:35+00:00",
+   "seen": "2026-11-20T14:01:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether Niko Bellic appears in GTA 6."
+  },
+  {
    "id": "24 gta 6 tips and tricks we wish we knew before playing",
    "title": "24 GTA 6 Tips and Tricks We Wish We Knew Before Playing",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtTmR6U1diZHp5U3h2dVZNM2hmdDdFRXhLQWE3V0xOX1l3VTc5Ry1UYkpxMHRkdnU5THhieG90NEZvcmpleW5DaDFMQUtNdWxsSGNkSFRoWHZGWE1RVDlSb2kyQkZmZDQ?oc=5",
@@ -1182,6 +1247,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The report describes an Abbott Elementary Star claiming she wasn’t chosen for a GTA 6 role and felt she was bullied into playing."
+  },
+  {
+   "id": "gta 6 makes nearly 2bn and sells 25 million copies on launch day",
+   "title": "GTA 6 makes nearly £2bn and sells 25 million copies on launch day",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfb0U3YjAtUGpRS09aaklQQzJJS2hpaEp6eDUwUzgxV3MxQTFCUndQeGR4bzJGUUlHSUNjejBIZU1YQ1ExUXRDNERzZGtJLUtjUWp3cW9WVmpYNVU1ZDFJUkI0NEdsUjZzU09kRHJXZXVFX1dNWkRNVQ?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-20T12:09:00+00:00",
+   "seen": "2026-11-20T14:01:53+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The piece states GTA 6 makes nearly £2bn and sells 25 million copies on launch day."
   },
   {
    "id": "9 crime movie couples who could give gta 6 s jason and lucia a run for their money ranked",
