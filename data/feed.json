@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:38:24+00:00",
- "started": "2026-11-20T17:38:18+00:00",
+ "updated": "2026-11-20T17:43:16+00:00",
+ "started": "2026-11-20T17:43:08+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T17:38:19+00:00"
+   "checked": "2026-11-20T17:43:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 88,
-   "checked": "2026-11-20T17:38:19+00:00"
+   "hits": 86,
+   "checked": "2026-11-20T17:43:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T17:38:19+00:00"
+   "checked": "2026-11-20T17:43:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T17:38:20+00:00"
+   "checked": "2026-11-20T17:43:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T17:38:20+00:00"
+   "checked": "2026-11-20T17:43:10+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T17:38:20+00:00"
+   "checked": "2026-11-20T17:43:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T17:38:20+00:00"
+   "checked": "2026-11-20T17:43:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T17:38:20+00:00"
+   "checked": "2026-11-20T17:43:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T17:38:20+00:00"
+   "checked": "2026-11-20T17:43:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T17:38:21+00:00"
+   "checked": "2026-11-20T17:43:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T17:38:21+00:00"
+   "checked": "2026-11-20T17:43:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T17:38:21+00:00"
+   "checked": "2026-11-20T17:43:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T17:38:21+00:00"
+   "checked": "2026-11-20T17:43:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T17:38:21+00:00"
+   "checked": "2026-11-20T17:43:13+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports GTA VI earned an estimated revenue at launch while Take-Two remains silent."
+  },
+  {
+   "id": "nashville rapper s song featured in popular video game grand theft auto vi here s what to know",
+   "title": "Nashville rapper’s song featured in popular video game Grand Theft Auto VI. Here’s what to know",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalhaSlBqN1dqdm1RNWpDLW40LWxWZFJKdmFDcjgyODBWWjdPQ05rdGhlQ0lkcVBqTlhtV3BWNllpLS1kN19ZenlyXy1tU0ViRmxNakk5RTNmd1N5ZmgyeFZnMFRJdGZkWUZ4cGNYVnAtaDJKYnJLZ19mZW1kZzM5cnE1NlBURXR5RF9iQm9YOENOUFk2VUJHc3N1M25aRTFDUDRuZm12MW5La25OOEs3MU5qaXVacmZCTm1Z?oc=5",
+   "outlet": "WSMV",
+   "via": "Google News",
+   "published": "2026-11-20T17:34:00+00:00",
+   "seen": "2026-11-20T17:43:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a Nashville rapper's song is featured in Grand Theft Auto VI."
   },
   {
    "id": "joe nerds out 10 hours in and gta vi has already blown me away",
@@ -142,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks what was in Mandy’s sink in GTA 6."
+  },
+  {
+   "id": "gta 6 players agree that jason s stash needs a major tweak",
+   "title": "GTA 6 Players Agree That Jason's Stash Needs a Major Tweak",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXNtQU5hUG9kVDZCVHdDaU15TFJDSDZFTDNuWWE0WVBlanZOWFhZdXAtNzhhQjZma2h3YXdmeWNoWFl2TFpKZHFqeE9uQ2tRckZ3S0puQ1JqdnZWc3RHTmpiU2Q3M0h5N19LTkxuc0ZvRVBYcmw1MjUzVVlNUkxXNGNoMzFBQVVyaU51ZUdmYnEzUUNZVzh5Y1c1a0hXUVhMM2IxaFRjcXVGdTQ?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-20T17:30:04+00:00",
+   "seen": "2026-11-20T17:43:09+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 players think Jason's stash needs a major tweak."
   },
   {
    "id": "how to auto drive in gta 6 and why you might want to",
@@ -222,6 +248,19 @@
    "ai_summary": "The story discusses whether you should sell to Donnie or Brian in GTA 6."
   },
   {
+   "id": "gta 6 s autosave is ruining the game for fans but not for the reason you think",
+   "title": "GTA 6's autosave is ruining the game for fans, but not for the reason you think",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWhNVW4yazEzV3Mydnk1a1A0SGJkZnc0eTJRaWVkMnZvRGpOUVJObVM1VVM0SV9pX2RDblFRekx3ZlNEZTFIa1BsalV3eFUxUVRza2ltdkhPT2l4dHZJVWJxdmlJYjdRY2YyTC1tYkpORTBvcWJFYUFCQWNhNmlyaXFoZU1jLTBDcXFZeUxsOUk?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-20T17:19:57+00:00",
+   "seen": "2026-11-20T17:43:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's autosave is ruining the game for fans for an unexpected reason."
+  },
+  {
    "id": "these 13 black friday deals will help you upgrade your gta 6 setup",
    "title": "These 13 Black Friday deals will help you upgrade your GTA 6 setup",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/these-13-early-black-friday-deals-will-help-you-upgrade-your-gta-6-setup-from-game-discounts-to-controllers-headsets-and-more/",
@@ -259,6 +298,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that Take-Two's GTA 6 could drive higher player spending and long-term growth, according to Bank of America."
+  },
+  {
+   "id": "you can reveal the full gta 6 map in minutes using this simple plane trick",
+   "title": "You Can Reveal The Full GTA 6 Map In Minutes Using This Simple Plane Trick",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZQ09WOHZNQ1Fva1NydlJaWktWYVlBZTVhQldxM0p0MHZMR0Y2N2ZxX3BobXBGN3AxNVlMc2lmQXc5SlJ6TDRlZjM2R0lsTkw1bTVrTFN1Z01jb1ptVE80UlJ4WWYxSDBDd3FPbU1rVVNYWjBjaHc?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-20T17:13:31+00:00",
+   "seen": "2026-11-20T17:43:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a simple plane trick can reveal the full GTA 6 map in minutes."
   },
   {
    "id": "gta 6 bowling alley safe code how to open the kingpin bowling safe",
