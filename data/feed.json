@@ -1,106 +1,106 @@
 {
- "updated": "2026-11-20T11:41:08+00:00",
- "started": "2026-11-20T11:41:00+00:00",
+ "updated": "2026-11-20T11:46:10+00:00",
+ "started": "2026-11-20T11:46:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T11:41:00+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-20T11:46:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 90,
-   "checked": "2026-11-20T11:41:01+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T11:46:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T11:41:01+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-20T11:46:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T11:41:02+00:00"
+   "checked": "2026-11-20T11:46:04+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:41:02+00:00"
+   "checked": "2026-11-20T11:46:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-20T11:41:03+00:00"
+   "checked": "2026-11-20T11:46:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:41:03+00:00"
+   "checked": "2026-11-20T11:46:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:41:04+00:00"
+   "checked": "2026-11-20T11:46:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T11:41:04+00:00"
+   "checked": "2026-11-20T11:46:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:41:04+00:00"
+   "checked": "2026-11-20T11:46:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:41:05+00:00"
+   "checked": "2026-11-20T11:46:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T11:41:05+00:00"
+   "checked": "2026-11-20T11:46:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:41:05+00:00"
+   "checked": "2026-11-20T11:46:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T11:41:05+00:00"
+   "checked": "2026-11-20T11:46:06+00:00"
   }
  },
  "items": [
@@ -118,6 +118,32 @@
    "ai_summary": "GTA 6 day-one sales estimates suggest about twenty five million copies sold and two and a half billion dollars in sales in one day."
   },
   {
+   "id": "the 8 best things to do first in gta 6",
+   "title": "The 8 best things to do first in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Vi1RQnJwZkx6cEJ3N2RfZGY0ZGJNTlJHVUl3QmtDTXk5S043eGEzTVNjTFBTbUFPLWt5WURjODRCR19WcGExQVpWNUN5Y2lXVFNrRm4yVDNTRGpSZFNLQlZSVjNGSm1vcllz?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-20T11:38:23+00:00",
+   "seen": "2026-11-20T11:46:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A list of the best initial activities to do in GTA 6."
+  },
+  {
+   "id": "gta vi gets one last comparison across platforms",
+   "title": "GTA VI gets one last comparison across platforms",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3FCQmNLcEpMXy0xaGdaRkNnTU5BOVFMZzBZOU5NNTN5Q05RTzNiTkI1SEN4eXgxeXhydVA1cGhpZVBscHpnQ3NOUXI2QW1jUnI1YzdLa0VKdFlCV2dGTWs0bzlWVWQzVzFNQzFFZkd3OGktRTJNSTZyRDVxTTlkSzU0dGlZWEk4ZzB1YnlmbnRyODVqMnFmQXIxaVN6dk0?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-20T11:37:10+00:00",
+   "seen": "2026-11-20T11:46:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI is compared across platforms once more."
+  },
+  {
    "id": "clair obscur expedition 33 writer hopes gta 6 devs are successful in unionizing",
    "title": "Clair Obscur: Expedition 33 writer hopes GTA 6 devs are \"successful in unionizing\"",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/clair-obscur-expedition-33-writer-hopes-gta-6-devs-are-successful-in-unionizing-as-rockstar-layoff-concerns-circulate-despite-massive-sales-and-player-engagement/",
@@ -129,6 +155,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Clair Obscur: Expedition 33 writer hopes GTA 6 developers are successful in unionizing, questioning profit shares from labor."
+  },
+  {
+   "id": "hunger games opening vs gta 6 the odds still favor a big box office weekend",
+   "title": "Hunger Games opening vs. GTA 6? The odds still favor a big box office weekend",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamI2SE9kcnF4VmJ1WTFXbU12al9SaHRiZERxcEVuSTVMVVpyOWY4cHFPeGlQcjVZb01CY3ZKQ1NVeU9YQ3ltRTJOenJHWV8zSnhPSWhzY0xtTFowU01jX3pOZEhzWUxHb2hXWG5oZjhYa280R25zck9FeF93TWhfdkM2TGFRcWFqYmF0UDBBYVNBQy1paWg2eVowTEVBeFI5c2J5bjB6dU8ydHpsS2dtWWVfQ2ZxLXdrakdadUpHM3VUVFgzNTRteXFmMEhQaGtPRmVicA?oc=5",
+   "outlet": "TradingView",
+   "via": "Google News",
+   "published": "2026-11-20T11:30:55+00:00",
+   "seen": "2026-11-20T11:46:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The opening box office odds for Hunger Games and GTA 6 are discussed."
+  },
+  {
+   "id": "gta 6 crypto token looked like a launch day hit who was really buying",
+   "title": "GTA 6 Crypto Token Looked Like a Launch-Day Hit: Who Was Really Buying?",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0hadS1sZHh4RGZFbTk1aWJsYWxqX0JGRmszN19yazlvSlFTQ2hvZ1pROWxFLV9uUFljTE8yS0lJeDNuY0VTVXdhOHh4dF9Db183ZXF0V0JGNEtrVFZJdUgxdWp5amxiWGVmZWdrZFNvak5Uc3ZDUVR1cGVQSjVQcWlMSlBJQkJIZkNla3Y0WnFSTnEx?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-20T11:29:18+00:00",
+   "seen": "2026-11-20T11:46:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 crypto token appeared to be a launch-day hit and questions who bought it."
   },
   {
    "id": "what s up with whatsapp s x page meta leans into gta 6 parodying big tech",
@@ -402,6 +454,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that GTA VI drives fears of dangerous copycat stunts for young players, according to a former cop."
+  },
+  {
+   "id": "gta 6 release was so big it broke internet download records twice in one week",
+   "title": "GTA 6 Release Was So Big It Broke Internet Download Records, Twice In One Week",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLWpXWDFTYkdJczRpX2hKNFM4RWg1SjJCNDgxd3lPdktNdTU1NmNsTFh3NnlRdkY4S3h4T2lDRDU1WHUzQjF4eXA1dkU5UllKYWQ3c1dsaVVvYzdVRHZvX243THdHczZtWE5aX0FLZS1mV0dfTjVadVJ2VkpjMGNLY2FhWDk4U1hwWEo5N1BEenUwYlBOVld4VW5CNWdrMnFuLU9hS0pqSzFQMDQ?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-20T11:00:44+00:00",
+   "seen": "2026-11-20T11:46:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 release reportedly broke internet download records twice in one week."
   },
   {
    "id": "the physical boxed copy of gta 6 is missing something pretty important",
@@ -857,6 +922,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports information about GTA 6: The Album release date, prices and leaked tracklist."
+  },
+  {
+   "id": "gta vi has reportedly sold almost 25 million units",
+   "title": "GTA VI has reportedly sold almost 25 million units",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWdDMDVnZDBGVVJxSUhNUVZIU0Z1di1NRGstRXhJNTB1VC1MejhkNFNPS3V5S21NaDRBeUhDd1ZzZDV5UkhkYXF0TU1pallsSGdfeTFKSW1JZG5FRVBjRFZ5LTJnZUU1eHVUd3RzSEFubTBGNEZsQ3VraEpGWTM0U2JscWlXUEZONUw4ejlRS0FKS0xUbnVvNHNGX3d6WWU1Snc?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-20T10:08:22+00:00",
+   "seen": "2026-11-20T11:46:03+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI has reportedly sold almost 25 million units."
   },
   {
    "id": "ign partners with rockstar to host official strategy guide for gta 6",
@@ -1442,6 +1520,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 earns Rs 22,000 crore and triples GTA 5 opening day haul, breaking entertainment records."
+  },
+  {
+   "id": "every gta 6 song and radio station confirmed so far",
+   "title": "Every GTA 6 song and radio station confirmed so far",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0b2VLMVRJeUFWQW1TMGpuX18zR0xqekpDTjdEa1Y3VmtGNDFGV3c2YlIxTFJJeXlVa1k1TkwxTzVmbVdqeDJISmVwWF96bE1GMFR2Y1M1LWJmdE9pQTBYdFF4TmtnZlJwWVJ6WXpCdWQ2dnM?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-20T08:27:03+00:00",
+   "seen": "2026-11-20T11:46:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "All confirmed GTA 6 songs and radio stations are listed."
   },
   {
    "id": "heinz fills grand theft auto vi s disc void with custom ketchup case",
@@ -2040,6 +2131,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "The story reports GTA 6 launch livestreams reaching nearly eight million viewers, setting internet records."
+  },
+  {
+   "id": "gta 6 sales are shocking the biggest video game launch in history",
+   "title": "GTA 6 Sales Are Shocking: The Biggest Video Game Launch in History!",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcTlPRXZUcEdLdXkyUWsxWlhuV01xemg3aGhZd2ViTmZBS1JjTFNmV3pBb0hOMjJJWnZqT1U3SXN4LW10RmFVTmF4alZXd3NJUmdFTUNqZWlDbEZ6Rmx2WkFQVzdBamFjZVVuWVhoZ0NVQV9jamtLTzVzWDFsd1A0VS1NbGZGU0Q5VHNGS3pBWThIcTNTM3hvcUZLUGdDLTFlNmw5eWVWTS1CQQ?oc=5",
+   "outlet": "Unboxholics",
+   "via": "Google News",
+   "published": "2026-11-20T06:36:00+00:00",
+   "seen": "2026-11-20T11:46:03+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 sales are described as the biggest video game launch in history."
   },
   {
    "id": "gta 6 made rs 22 000 crore on launch here s how insane that number is",
@@ -4185,6 +4289,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A San Antonio boss grants employees a day off to play Grand Theft Auto VI."
+  },
+  {
+   "id": "san antonio boss gives employees day off to play gta vi",
+   "title": "San Antonio boss gives employees day off to play ‘GTA VI’",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFZTWGF0Rkh3UHBzWVRoZXgxOFBWWDNKQVpzVXBuTlpqbzFQdVY1Sy00Q2lKdXV3c2tiYWtyZnRmTzNjRC1CWjEtTndoTTdkb1RLNEp0VWJTVnIybnRzWFo5SEF6Z1Y3X204Mmp1a0RGbnFrYVJaelRXei1Sb3BxRlh1N2d1cEwzaGRaTk9lTVl3TVNoUjRmOXZlUXRZa1hNcEpZenFkRWpxSWNoRVhpYXN6NWlFUUxOazZySVF2YlViR1RxZ2UtTFdJTnJxaDhUUWc?oc=5",
+   "outlet": "KSAT",
+   "via": "Google News",
+   "published": "2026-11-19T23:40:07+00:00",
+   "seen": "2026-11-20T11:46:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A San Antonio boss grants employees a day off to play GTA VI."
   },
   {
    "id": "abbott elementary s janelle james says she bullied her way to gta 6 i pursued conceptualized pitched scripted voice acted",
