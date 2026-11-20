@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:40:26+00:00",
- "started": "2026-11-20T09:40:21+00:00",
+ "updated": "2026-11-20T09:45:32+00:00",
+ "started": "2026-11-20T09:45:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T09:40:22+00:00"
+   "checked": "2026-11-20T09:45:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-20T09:40:22+00:00"
+   "hits": 89,
+   "checked": "2026-11-20T09:45:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T09:40:23+00:00"
+   "checked": "2026-11-20T09:45:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:40:23+00:00"
+   "checked": "2026-11-20T09:45:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-20T09:40:23+00:00"
+   "hits": 7,
+   "checked": "2026-11-20T09:45:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T09:40:23+00:00"
+   "checked": "2026-11-20T09:45:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T09:40:23+00:00"
+   "checked": "2026-11-20T09:45:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T09:40:23+00:00"
+   "checked": "2026-11-20T09:45:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T09:40:23+00:00"
+   "checked": "2026-11-20T09:45:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T09:40:24+00:00"
+   "checked": "2026-11-20T09:45:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T09:40:24+00:00"
+   "checked": "2026-11-20T09:45:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T09:40:24+00:00"
+   "checked": "2026-11-20T09:45:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:40:24+00:00"
+   "checked": "2026-11-20T09:45:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T09:40:24+00:00"
+   "checked": "2026-11-20T09:45:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 sold around 25 million copies and made 2 36 billion in its first day estimates suggest",
+   "title": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest",
+   "link": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-20T09:42:03+00:00",
+   "seen": "2026-11-20T09:45:27+00:00",
+   "summary": "This would easily give it the highest day one sales in entertainment history",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 sold around 25 million copies and made $2.36 billion in its first day, with estimates suggesting it would have the highest day one sales in entertainment history."
+  },
   {
    "id": "manchester united star in trouble with pochettino over his gta 6 addiction",
    "title": "Manchester United star in trouble with Pochettino over his GTA 6 'addiction'",
