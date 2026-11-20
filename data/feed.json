@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:00:24+00:00",
- "started": "2026-11-20T03:00:20+00:00",
+ "updated": "2026-11-20T03:03:21+00:00",
+ "started": "2026-11-20T03:03:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:00:21+00:00"
+   "checked": "2026-11-20T03:03:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:00:21+00:00"
+   "checked": "2026-11-20T03:03:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:00:21+00:00"
+   "checked": "2026-11-20T03:03:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T03:00:22+00:00"
+   "checked": "2026-11-20T03:03:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T03:00:22+00:00"
+   "checked": "2026-11-20T03:03:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T03:00:22+00:00"
+   "checked": "2026-11-20T03:03:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T03:00:22+00:00"
+   "checked": "2026-11-20T03:03:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T03:00:22+00:00"
+   "checked": "2026-11-20T03:03:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T03:00:22+00:00"
+   "checked": "2026-11-20T03:03:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T03:00:23+00:00"
+   "checked": "2026-11-20T03:03:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T03:00:23+00:00"
+   "checked": "2026-11-20T03:03:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T03:00:23+00:00"
+   "checked": "2026-11-20T03:03:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T03:00:23+00:00"
+   "checked": "2026-11-20T03:03:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T03:00:24+00:00"
+   "checked": "2026-11-20T03:03:18+00:00"
   }
  },
  "items": [
@@ -6746,6 +6746,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 has finally been released after delays."
+  },
+  {
+   "id": "considering an upgrade for the eventual gta 6 pc release the black friday sales have you covered",
+   "title": "Considering an upgrade for the (eventual) GTA 6 PC release? The Black Friday sales have you covered",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORXo5LTNnVVh1M1RMYk5zZHNuWjE0X1Zub1JnSmFqVzI4YzQ4UUJpWUdTbV93c2FmcUVBMXpJTml3YzVIMjY4TTFyOTRHM1h1amNHYkltS2U1anlqLWp2QWNCcmtIajNsbFlRLURTTl9JdU4xWm5ZSFMtelZjZzNNVGhRTURqVk9TWGdPLXBCSlZNQnNSMm1UU2tpVDg2SVduZXdlVmlhZDdoeDFvc2x5Ql9va2NLbFh0WjgtRGJMOEJKOW1rUVVoVzRZc2hJb3FNbFJqSzFyTURyUWlDY0V5UUI2TFc4ZWx6SW51NkMtNDFTTVB4TVpRaThEVEE?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-19T17:01:04+00:00",
+   "seen": "2026-11-20T03:03:16+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story discusses potential PC release upgrades for GTA 6 and suggests Black Friday sales as an option."
   },
   {
    "id": "travis scott is hosting a pop up in miami for his gta 6 nike air force 1 collab",
