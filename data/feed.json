@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T11:31:02+00:00",
- "started": "2026-11-20T11:30:56+00:00",
+ "updated": "2026-11-20T11:36:07+00:00",
+ "started": "2026-11-20T11:36:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T11:30:57+00:00"
+   "checked": "2026-11-20T11:36:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 90,
-   "checked": "2026-11-20T11:30:57+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T11:36:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T11:30:58+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-20T11:36:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T11:30:58+00:00"
+   "checked": "2026-11-20T11:36:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:30:58+00:00"
+   "checked": "2026-11-20T11:36:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T11:30:58+00:00"
+   "checked": "2026-11-20T11:36:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:30:58+00:00"
+   "checked": "2026-11-20T11:36:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:30:58+00:00"
+   "checked": "2026-11-20T11:36:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T11:30:58+00:00"
+   "checked": "2026-11-20T11:36:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:30:59+00:00"
+   "checked": "2026-11-20T11:36:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:30:59+00:00"
+   "checked": "2026-11-20T11:36:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T11:30:59+00:00"
+   "checked": "2026-11-20T11:36:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:30:59+00:00"
+   "checked": "2026-11-20T11:36:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T11:30:59+00:00"
+   "checked": "2026-11-20T11:36:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "what s up with whatsapp s x page meta leans into gta 6 parodying big tech",
+   "title": "What's up with WhatsApp's X page? Meta leans into GTA 6 parodying Big Tech",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRHNSZzRUbWNtNVlMQkN6bmFwN1ZtTlJPdndEbFhnWkhIZXlYQXNlOHlUZzhEdml0aFE1TmFUU2ZPTVZKOWQxX0JqUFV0dVUyMDVxdG1HU0hodW55dDBOWFNwbFlTSzQ0OXN6dWlFUkV1YURLMFpfdEh0YXVJNFJ5TEMtQmd3SHplT29V?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-20T11:29:00+00:00",
+   "seen": "2026-11-20T11:36:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Meta leans into GTA 6 parodying Big Tech on WhatsApp's X page."
+  },
+  {
+   "id": "gta 6 s full credits spark returning character rumor are they really in the game",
+   "title": "GTA 6's Full Credits Spark Returning Character Rumor — Are They Really in the Game?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEhuWDdVc2tSckkwNmhwbTB6enJxd1A2NkstbVVVRkx6aTFYeS1pVDYxQ1VMMWJtX3I5c0pIdm1JaExvcjY5WEZuaUNSdURGZHdXbVJvUHF4VHpVbnBVbVk0RWV5Zk5zMUdVWndNQkFfeHp6RkJUTGdCaDJSVEJMTGhvajlYRUtybmFUQU4zcHFfN1VXQVdCSXpmVkZzQ2dlbmpVS2tNZ0Vwa214?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-20T11:27:06+00:00",
+   "seen": "2026-11-20T11:36:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports about GTA 6's full credits sparking a rumor of a returning character."
+  },
   {
    "id": "can you gameshare gta 6 xbox and ps5 explained",
    "title": "Can you gameshare GTA 6? Xbox and PS5 explained",
@@ -170,6 +196,19 @@
    "ai_summary": "The story notes a late-game cameo in GTA 6 that many want to avoid spoilers for."
   },
   {
+   "id": "is niko bellic in gta 6 does the gta 4 protagonist return",
+   "title": "Is Niko Bellic in GTA 6? Does the GTA 4 protagonist return?",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JMDVYb3V5Z0VNMkx3TmpDajlfYXN2YnRSdVJoaW0wNHNZdGRmQ1lLVXlQR1RMMDJuM2JpTlJPYzhMY1lveWlDbzQ4U2xwLWZiVVZoZDE2OHltbno1RXdz?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-20T11:21:40+00:00",
+   "seen": "2026-11-20T11:36:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks whether Niko Bellic from GTA 4 is in GTA 6 or if the GTA 4 protagonist returns."
+  },
+  {
    "id": "gamestop ceo criticizes digital only releases as gta 6 launches",
    "title": "GameStop CEO Criticizes Digital-Only Releases As GTA 6 Launches",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbzhzVGdkVENzMi1fU21XQVNpTFQ2SU5JMG1nNUdkMndIMmtrbVNxMS1RbzZMcnMxQWtNYmNRSzdLakRsd1dndG54TEVLVHZFUWZEVzN4dGFQTzJ2N0RjVnViSFNCZlNYSTZXbDZxZ3VKazN6VklRSFN3OGR2a3VIcTk5OGozTjRMREtB?oc=5",
@@ -181,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GameStop's CEO criticizes digital-only releases as GTA 6 launches."
+  },
+  {
+   "id": "grand theft auto vi crashes are hitting playstation 5 owners with error ce 108255 1 and reinstalling doesn t fix it as liquid metal cooling ",
+   "title": "Grand Theft Auto VI Crashes Are Hitting PlayStation 5 Owners With Error CE-108255-1, and Reinstalling Doesn’t Fix It, As Liquid Metal Cooling Is the Likely Culprit",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUhFY3BlSFJIeS10T3NYZmJuMzdzLUZ3Y1R6LWw4WGNNUWxCWUhUcTVzV25taXVEXzRKbXZHdFV5T08zdkp3X0gyWEZpeXppOVl6aWlmSlcyWVNEZUl6TlNBOWF0dFU3anBqSURQZDd0OWZCbDB3OEpyTjJlU2VJeWVvWWpUbTZIT1daSEthUHZCZkQ4MlptaHk5NG9sV0NNYnRIejBoTzJYQdIBrwFBVV95cUxOWXJMT3FhWW8wVXFqdUZJbTY1REZxemlIQWUyUnAxZ0gzNGh1ME5mX3ZMdnZsa1R1Rkw2VDlpT2FDaHNUNGZnYnFEQ1otSVllX1hpV2dnRXVkamNTdUZGM05saEZZbm5XT3lHQ1N1RkIxVU56eFZGNGszSW1NNW42UEhFWUZ2ZTRmMkJzTTNjZ0FhSEF4SkVNX00zMWVoTFJsZVdjRW1yOWF4ZXpOeWh3?oc=5",
+   "outlet": "Wccftech",
+   "via": "Google News",
+   "published": "2026-11-20T11:20:11+00:00",
+   "seen": "2026-11-20T11:36:00+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI crashes affect PlayStation 5 with a specific error and reinstalling doesn’t fix it, with liquid metal cooling suspected."
   },
   {
    "id": "gta 6 sales eclipse christopher nolan s the odyssey as gaming giant takes over",
@@ -220,6 +272,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Weird Al confirms an official role in GTA 6."
+  },
+  {
+   "id": "you can get your own physical gta 6 map for 1 here s how",
+   "title": "You Can Get Your Own Physical GTA 6 Map For $1 — Here's How",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzaWJ3Q1NxQVJHbDRkaVV5ZXIxNDJ3UF92Z2FtOEJIc1Nmd2tqaTBaZVlPRUtTSlVKLTlLYVJvemUwN0ljeUNmNmJZQk95TTRXODBfRjBBc19WM1F1cWJEQlpzQUJoRi1nX3c?oc=5",
+   "outlet": "BGR",
+   "via": "Google News",
+   "published": "2026-11-20T11:17:00+00:00",
+   "seen": "2026-11-20T11:36:00+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports you can get a physical GTA 6 map for one dollar and explains how."
   },
   {
    "id": "gta 6 sold nearly 25 million copies on day one crushing every launch record in sight",
