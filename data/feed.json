@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:37:33+00:00",
- "started": "2026-11-20T15:37:26+00:00",
+ "updated": "2026-11-20T15:42:34+00:00",
+ "started": "2026-11-20T15:42:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T15:37:26+00:00"
+   "checked": "2026-11-20T15:42:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 93,
-   "checked": "2026-11-20T15:37:27+00:00"
+   "checked": "2026-11-20T15:42:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T15:37:27+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T15:42:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T15:37:28+00:00"
+   "checked": "2026-11-20T15:42:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T15:37:28+00:00"
+   "checked": "2026-11-20T15:42:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T15:37:28+00:00"
+   "checked": "2026-11-20T15:42:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T15:37:28+00:00"
+   "checked": "2026-11-20T15:42:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T15:37:28+00:00"
+   "checked": "2026-11-20T15:42:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T15:37:29+00:00"
+   "checked": "2026-11-20T15:42:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T15:37:29+00:00"
+   "checked": "2026-11-20T15:42:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T15:37:29+00:00"
+   "checked": "2026-11-20T15:42:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T15:37:29+00:00"
+   "checked": "2026-11-20T15:42:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T15:37:29+00:00"
+   "checked": "2026-11-20T15:42:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T15:37:29+00:00"
+   "checked": "2026-11-20T15:42:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "podcast should your teenager play gta 6",
+   "title": "Podcast: Should your teenager play GTA 6?",
+   "link": "https://www.videogameschronicle.com/blog/podcast/podcast-should-your-teenager-play-gta-6/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-20T15:39:06+00:00",
+   "seen": "2026-11-20T15:42:30+00:00",
+   "summary": "Keza MacDonald joins the podcast to chat GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A podcast features Keza MacDonald discussing GTA 6."
+  },
   {
    "id": "gta 6 mandy actor bravely raises her hand if you play the game let me know if you find me",
    "title": "GTA 6 Mandy actor bravely raises her hand: \"If you play the game, let me know if you find me\"",
@@ -118,6 +131,19 @@
    "ai_summary": "The story reports Mandy actor raises her hand and challenges players who play the game to tell if they find her."
   },
   {
+   "id": "fsu professor says gta 6 is major social event",
+   "title": "FSU Professor says GTA 6 is major social event",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQW1URlc2RzdVMU9BWndpOXl0LU12MUhzZzgzcWRtaHFGUjRZbkVva3RqRGVYVGhUYWJVS0x1ZWhZTGRHSWE0M2FHUDBZMDN2Y1dSenFfMmRobzdIbzZkT1g3cWpDS1VabWJnNzV5UnBYSjBDX0p4SUlGUEFvUHExQmdTS2t0NE1Mem92MXZPOVpLNXM?oc=5",
+   "outlet": "AZ Family",
+   "via": "Google News",
+   "published": "2026-11-20T15:34:00+00:00",
+   "seen": "2026-11-20T15:42:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A FSU professor calls GTA 6 a major social event."
+  },
+  {
    "id": "slideshow gta 6 bikini girl screenshots",
    "title": "Slideshow: GTA 6 Bikini Girl Screenshots",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY2lFdk82YTBKY0ZET3lENEM1cGZPa1pIajdXcjRLVWxlZ3NxNXpnemdDMkRpb2J3NHFlbWthaExiay1ZY2oyWFV6RlkwaTJVR1NUNUhZSzZVMzVwZDllY09URmM1RlpLcGdFRk1vamUwWEdLOWtFZ1BGMHhHQ0JEd0tha1dwZw?oc=5",
@@ -129,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a slideshow of GTA 6 bikini girl screenshots."
+  },
+  {
+   "id": "gta vi janelle james from abbott elementary tells fans she bullied my way into game role",
+   "title": "'GTA VI': Janelle James From 'Abbott Elementary' Tells Fans She 'Bullied My Way' Into Game Role",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkF6elQ2T3lIaVNVV1NkN3pnbHZzLU40ajk0eHNNNDFVclJERE1UT29EU2xZYUJ3S0Eza3laYzdrR2FjckZKdDVZcnhmNHJVdjJFVGN1b1pzUzZCNnp6TEdUV2Nkc3ZiNzZsdENSdUItZG85U0gySm5Lc05tOE1aMmg1aE1kMkc3bnVkRU5xRHhRRTJidkUyMkZR?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-20T15:30:33+00:00",
+   "seen": "2026-11-20T15:42:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Janelle James from Abbott Elementary says she bullieved into a GTA VI role."
   },
   {
    "id": "gta 6 romance explained what affects jason and lucia s bond",
@@ -181,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The outlet reports on a GTA VI album that includes 24 unreleased tracks."
+  },
+  {
+   "id": "gta 6 is introducing a new kind of mission being a good partner",
+   "title": "‘GTA 6’ is introducing a new kind of mission: being a good partner",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRUtYcUV3YXJHYWJONlltQnpjUnVPTDgyNWFoRXY1Y3lvRVpaem1EQzRYNVE4WFFvWm0zZ2xtYWE0RVNYOFJTaVNhRExzQUtDb09JdFNJSTRwbUs1NVBva1kzc0FWbDZIcVExM2RzX1c2OW9yZEwyanlvUk8wX3h1V3pn?oc=5",
+   "outlet": "The 19th News",
+   "via": "Google News",
+   "published": "2026-11-20T15:22:30+00:00",
+   "seen": "2026-11-20T15:42:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 introduces a new mission type focused on being a good partner."
   },
   {
    "id": "see the gta 6 voice actors side by side with the characters they play",
@@ -1156,6 +1208,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story claims GTA 6 is the biggest entertainment launch in history."
+  },
+  {
+   "id": "the russian orthodox church called gta 6 evil and urged gamers to repent",
+   "title": "The Russian Orthodox Church called GTA 6 \"evil\" and urged gamers to repent",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYktCRGIwaEJHTzRNaXNsVlkxd2kyWFBqWk9UU1VXRnp4eUlPclF4ODRhR2NyTGwwcE1kVlVpMm5sVlBqWWliVl9TMmFvSTFKRWsyb2prY2ljZlE3d0ZEdWExWlV4UWsxQ21LTGtpSmc1aWdRbjRibWdKMEd1bm5SSlE0Z0JvamZQdEg4?oc=5",
+   "outlet": "UA.NEWS",
+   "via": "Google News",
+   "published": "2026-11-20T13:56:23+00:00",
+   "seen": "2026-11-20T15:42:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Russian Orthodox Church calls GTA 6 evil and urges gamers to repent."
   },
   {
    "id": "gamestop is not a meme stock says analyst sees over 22 upside from collectibles push and gta vi led growth",
@@ -4406,6 +4471,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 joined Zelda as the highest-rated game of all time according to IGN Daily Fix."
+  },
+  {
+   "id": "gta 6 rockstar india developers share their experiences working on the game",
+   "title": "GTA 6: Rockstar India Developers Share Their Experiences Working on the Game",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXVXSExVY21FSVNyYW9FaF9XUEJKdFpLZ0JzSlZqOGhqT1I0bHh2WDVDNkREcTljcDhRaDNGVlJnYnBYSkoyWUZLeDJEV0c1YjlQWE1DR2dpT1R2TGxVUno5OUliTTlGUGtlaHgwY2Jsc0VCbGRkWGNELXpmSlRWelVGOEJQRkN1dXl2SElRUXhJd1dtQmRxMHJRTGtwQ0QxdDgxX29BZEZpNFo2ZDBTd25QUzUycFNleHBzVEN3?oc=5",
+   "outlet": "IGN India",
+   "via": "Google News",
+   "published": "2026-11-20T09:00:13+00:00",
+   "seen": "2026-11-20T15:42:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar India developers share their experiences working on GTA 6."
   },
   {
    "id": "all magazines books and comics in gta 6",
