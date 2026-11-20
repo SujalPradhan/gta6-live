@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:49:49+00:00",
- "started": "2026-11-20T21:49:43+00:00",
+ "updated": "2026-11-20T21:54:47+00:00",
+ "started": "2026-11-20T21:54:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,179 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T21:49:44+00:00"
+   "checked": "2026-11-20T21:54:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T21:49:44+00:00"
+   "checked": "2026-11-20T21:54:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T21:49:44+00:00"
+   "checked": "2026-11-20T21:54:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T21:49:45+00:00"
+   "checked": "2026-11-20T21:54:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T21:49:45+00:00"
+   "checked": "2026-11-20T21:54:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T21:49:45+00:00"
+   "checked": "2026-11-20T21:54:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-20T21:49:45+00:00"
+   "hits": 26,
+   "checked": "2026-11-20T21:54:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T21:49:45+00:00"
+   "checked": "2026-11-20T21:54:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T21:49:45+00:00"
+   "checked": "2026-11-20T21:54:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T21:49:45+00:00"
+   "checked": "2026-11-20T21:54:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T21:49:46+00:00"
+   "checked": "2026-11-20T21:54:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T21:49:46+00:00"
+   "checked": "2026-11-20T21:54:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T21:49:46+00:00"
+   "checked": "2026-11-20T21:54:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T21:49:46+00:00"
+   "checked": "2026-11-20T21:54:44+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 pc port could come from hackers before rockstar if cyberleek makes good on its latest threat",
+   "title": "GTA 6 PC port could come from hackers before Rockstar, if Cyberleek makes good on its latest threat",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-port-could-come-from-hackers-before-rockstar-if-cyberleek-makes-good-on-its-latest-threat-this-community-will-have-it-emulated-inside-a-week/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T21:49:49+00:00",
+   "seen": "2026-11-20T21:54:43+00:00",
+   "summary": "It could be \"running far past 30fps,\" too",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a GTA 6 PC port could come from hackers before Rockstar if Cyberleek's threat is fulfilled and may run far past 30fps."
+  },
+  {
+   "id": "gta vi has sold 32 5 million copies achieving the best launch in entertainment history",
+   "title": "GTA VI has sold 32.5 million copies, achieving the best launch in entertainment history",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbEhhUDVKekVJSVVvY1JhczNkRDM1TUlKb0RFcl95MjBzcWd4NDRZcEo0LUFQYnlmSTRFREpUOGJVMWZuV2ZxbUpFbGhJWXpqRHNyVnpLeHRIV2N5a05HdXVvb0lNWEpBcXF3Q1BDZkQxZ1FETjR0M2N5clpaaGNRUDlLR0Y2amp3NWc2VWZWS1lESDlBRng4a2tjcEhnc2llZnpBVVBxX2U0SlBEdzBXY1U3OU9TNnJzYjVDbndCRWU4V2RETllqUmd3aGVqSVZEZlE?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-20T21:48:15+00:00",
+   "seen": "2026-11-20T21:54:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA VI has sold 32.5 million copies and achieved the best launch in entertainment history."
+  },
+  {
+   "id": "gta 6 breaks sales records with a 3 79 billion first day",
+   "title": "GTA 6 Breaks Sales Records With a $3.79 Billion First Day",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TNmJQS3ZsX1JucmgzXzFjeV9rRDhjLWJhM2N3SjRXQ2pzRno3YndQNGhHYjJIbXZWb3hNNll3a3o2RzI4MldtUUN2LUdHSnhrWkVFSlVzZWxJVHNQSUdDYXRKSmNmaWxVZGRIdWYzNDJLZzZnR3RnWEpXMm8?oc=5",
+   "outlet": "iPhone in Canada",
+   "via": "Google News",
+   "published": "2026-11-20T21:47:10+00:00",
+   "seen": "2026-11-20T21:54:42+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 breaks sales records with a first-day revenue of $3.79 billion."
+  },
+  {
+   "id": "exclusive gta 6 voice actor lifts lid on humongous nda required to keep game secrets under wraps",
+   "title": "Exclusive | GTA 6 voice actor lifts lid on 'humongous' NDA required to keep game secrets under wraps",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZmh1WENETDRJc2NDa3M5MjBiRkk3NmYzNGczUDBRT2l6R3RmT3pQNnQwOEhibS1aWlRHVkhSU2tENEFCWEdHVWJyVDhLcEZGSXpaVS1aTVBXb2I0bFNPVXVEdXJ0ZjU5TlpOUUhUWk9vUnFvbEV2Qm9VeUMzem1JemI0YWJlenZObzBWTlRXMk9sT0luaWVOT2ppOFZIMHNiRUttUTFVU2JoemowXzVuejViNTRZUUxDaU9IalRsbnEwTG5HeGxFNlU5Tkg3QQ?oc=5",
+   "outlet": "Page Six",
+   "via": "Google News",
+   "published": "2026-11-20T21:44:00+00:00",
+   "seen": "2026-11-20T21:54:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports an exclusive on a GTA 6 voice actor discussing the NDA required to keep game secrets under wraps."
+  },
+  {
+   "id": "gta 6 in first person is possible thanks to a glitch and here s how to do it",
+   "title": "GTA 6 in First-Person Is Possible Thanks to a Glitch and Here’s How to Do It",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbW9laHljRXJxVlNDYVlyQzd3U1dkQl9QcUd6N3h0Z1hCb1FUbGpMQmM0Nzh0VHpjQlVmOWtaQXZ1NVVFcWNhajFiSXRGNjY3THVjSkc4MTFOZUN1WHVmdWhLRkl3R1FEYlZjcjBOWk43bVlxakFtemM4UVlxczdXMmxKaFB2eWtnYlMzTU9zSWtfckxnZHJzNzNQa3JvSVk?oc=5",
+   "outlet": "MP1st",
+   "via": "Google News",
+   "published": "2026-11-20T21:39:13+00:00",
+   "seen": "2026-11-20T21:54:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 in first-person is possible thanks to a glitch and explains how to do it."
+  },
+  {
+   "id": "every song across all 24 radio stations in grand theft auto vi",
+   "title": "Every Song Across All 24 Radio Stations in Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFSFpXVUF2STZjYTZqb3BPMlJaQXdSTDJadU5EVVVSLVVCTTNndjExVnlzUHBlaDBkcG1mOWZYbUNiT0dFbUtKdmtJaldVUzRQZEJrdmlWbmNrMVZqemFJTmVSUk9XY3pPMmhYYzh3cFN5dDUwSUphS2Jn?oc=5",
+   "outlet": "Consequence of Sound",
+   "via": "Google News",
+   "published": "2026-11-20T21:39:10+00:00",
+   "seen": "2026-11-20T21:54:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports every song across all 24 radio stations in Grand Theft Auto VI."
+  },
   {
    "id": "gta vi sets new record with nearly 4 billion in sales on launch day",
    "title": "‘GTA VI’ Sets New Record With Nearly $4 Billion in Sales on Launch Day",
@@ -246,6 +324,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA VI sales reportedly exceed three billion dollars on its first day, marking a major entertainment launch."
+  },
+  {
+   "id": "how long is gta 6 hours needed to complete the story and number of main missions",
+   "title": "How long is GTA 6? Hours needed to complete the story and number of main missions",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2tTbDdHUGZodEJZTWVsaHlPaW1OM0lGYk1XdF9EdG0yNURtdXNsaFdiSElEa3p0MHE5TTJFbkF3Nmx1Q3pweGFVUUNXQ1BCSlhGMWNfX0NZQkVVNXZyT3NfVGNQcDZwVXBWMFdJVFJRNkJBRm04Q1VGeXI5eEwyZHN2N2lROHhHTVZLTlplekFtczkzWGZCd1Z5VzRxaURnbjhTM1Vwb1YtSTROWndTZVN4WGhQZmpuQWpERWRldTQ0LUxx0gHYAUFVX3lxTFAyQXl5eEpMSHZrTS1xM3BrYV84UnFjRjRfV1NaSzdiakhsSHNWWmRqSWRwUkN4UU1WbTZ3ejBJTENEVmRmVFZXbU9SMzRXajgtUGpDYXpnZFRXYVE2clFGVHlOb1hzbGtwTHp1djJCb0xBMElaOGhjejdaY1VYSW9HV1ZRazFiOE1zbXdmc3BLY0YtUDFaeldZdTJ6Nk1QeDMzRkVocy1qUGQ0dGF4NmhoY1lFRWVxZDJOUzRQTXhUZENYbFg0Z3VDVWhQT3Bsc0w2RHN4OFNFNQ?oc=5",
+   "outlet": "Diario AS",
+   "via": "Google News",
+   "published": "2026-11-20T21:13:30+00:00",
+   "seen": "2026-11-20T21:54:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how long GTA 6 takes to complete the story and the number of main missions."
   },
   {
    "id": "grand theft auto vi s vice city pays homage to the bass among more art easter eggs",
@@ -1912,6 +2003,19 @@
    "ai_summary": "The story reports that Grand Theft Auto VI is out now and examines its crime focus, satire, and immersive gameplay as a phenomenon."
   },
   {
+   "id": "grand theft auto vi breaks all time entertainment records with 32 5 million copies and 3 79 billion more than quintuple modern warfare ii s ",
+   "title": "Grand Theft Auto VI Breaks All-Time Entertainment Records With 32.5 Million Copies and $3.79 Billion, More Than Quintuple Modern Warfare II’s $709 Million",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0FRME0wVVJqOGhnX1BkMGV6UjlEY1NHUEhOY0JtMUFySXVUQnB0MkVSLUVVZkdVNERQWE9QT1g0aGVUblN4cVdkVDBlRFFtMmtwRjl6UWpzLVZkM2s4dnhkdjNXUU9pVFVYUkloWmdWdVNTMXJsdHc2NlZhT1pNQzVSZV_SAYoBQVVfeXFMT1BrTWxGMW42VzJRZXU3UVlJVFNWSHRBYWExS1FTSFMyb2V1OXBrOEhFT0djZzlvNzQxajZiQXYtZ3lTbTd4WFRYLTBQd0kwV2lTQUFZTFo3TkozNWlLZlZnTy01bm9FUlZfeVpodTZmaTVMMVlUSkhXcXF6cUxaY3N6SEZ1Z1NVWnp3?oc=5",
+   "outlet": "Wccftech",
+   "via": "Google News",
+   "published": "2026-11-20T19:40:00+00:00",
+   "seen": "2026-11-20T21:54:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports Grand Theft Auto VI breaks all-time entertainment records with 32.5 million copies and $3.79 billion, more than quintuple Modern Warfare II’s revenue."
+  },
+  {
    "id": "grand theft auto vi tops 3 79 billion in day one retail sales after 32 5 million pre orders",
    "title": "Grand Theft Auto VI tops $3.79 billion in day one retail sales after 32.5 million pre-orders",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGZHbUN4NmpKanotcng0TnUxNWI4emFfUkJrRWY1RkV4YnZwaVJLVUZlZWE3dFN6X05UTzBNTElGVzU1N2xoeE1lVnBQSWZKc1Rlemdsb0Rza1lZZjY1cm44XzBfZXVBV3dWZEM4bzRqNFBkSXQ4dWZmWURsbUVxY1NfMHIyb3poenRyRWR4Z20xcUN0LW9icjZkZmliaDdZX1Q1UzJOWUtnMXVCRVdIWGx2d3FvSWVxOWdRYmNxT1o?oc=5",
@@ -2222,6 +2326,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Did GTA 6 really ban furries? Here’s how the Wild Side Quest works."
+  },
+  {
+   "id": "gta 6 rakes in estimated us 2 36 billion on launch day",
+   "title": "GTA 6 Rakes in Estimated US$2.36 Billion on Launch Day",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWxPOEQyR0RTNGJ5WU9wMUtiejNXWHh1OThmejJkbUo3dldfTDFSeVJobkUxXzVjODdkN2p5MWg0Q1hpSUZ5bzdVRmRMdTZ6bVluM1h1YmgtdllwMFMwNzlJLXZsaDRBUVk0UmgxMUtaU2hSNXpVWGtVc0JCRXNIc3ZGa3hTU0JISUxScw?oc=5",
+   "outlet": "Greater Belize Media",
+   "via": "Google News",
+   "published": "2026-11-20T19:17:36+00:00",
+   "seen": "2026-11-20T21:54:42+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 rakes in an estimated US$2.36 billion on launch day."
   },
   {
    "id": "the greatest game ever made readers and guardian staff on grand theft auto vi",
