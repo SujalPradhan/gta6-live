@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T08:45:12+00:00",
- "started": "2026-11-20T08:45:06+00:00",
+ "updated": "2026-11-20T08:50:11+00:00",
+ "started": "2026-11-20T08:50:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T08:45:07+00:00"
+   "checked": "2026-11-20T08:50:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-20T08:45:07+00:00"
+   "hits": 96,
+   "checked": "2026-11-20T08:50:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-20T08:45:08+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T08:50:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T08:45:08+00:00"
+   "checked": "2026-11-20T08:50:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T08:45:08+00:00"
+   "checked": "2026-11-20T08:50:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T08:45:08+00:00"
+   "checked": "2026-11-20T08:50:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T08:45:09+00:00"
+   "checked": "2026-11-20T08:50:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T08:45:09+00:00"
+   "checked": "2026-11-20T08:50:08+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T08:45:09+00:00"
+   "checked": "2026-11-20T08:50:08+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T08:45:09+00:00"
+   "checked": "2026-11-20T08:50:08+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T08:45:10+00:00"
+   "checked": "2026-11-20T08:50:08+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T08:45:10+00:00"
+   "checked": "2026-11-20T08:50:08+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T08:45:10+00:00"
+   "checked": "2026-11-20T08:50:09+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T08:45:10+00:00"
+   "checked": "2026-11-20T08:50:09+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks records before it even hits the market earning over 2 3 billion in first time sales",
+   "title": "GTA 6 breaks records before it even hits the market, earning over $2.3 billion in first-time sales",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmVZUU56TnIwM253N1hISGJyckVQeS1NWHJURVFQMk5VQjJUZlpXZ2swb1I4aFR0ejQtSWdHaE1GaWx6bkI4a25BQ3lpWlcwVGdHcmVNUzdZZU1SVERILTVSb1Zrcjk3b0t2dlVxSHgzQkMzbm00NHdLWl9LS05CRXIzQTZlVmtSQ0R4Z2ppSkk2SzR3OF94REo0RWpsM0Zoc2o0c1ZKM0RfbUlma09sTTktT2hqelNEZm0wVy03QzZsd0tUSkFXTg?oc=5",
+   "outlet": "Vox News Albania",
+   "via": "Google News",
+   "published": "2026-11-20T08:46:55+00:00",
+   "seen": "2026-11-20T08:50:06+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 breaks records before release, earning over $2.3 billion in first-time sales."
+  },
   {
    "id": "gta 6 why you shouldn t spend too much time making money early on",
    "title": "GTA 6: Why you shouldn't spend too much time making money early on",
@@ -168,6 +181,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6 generates 2.36 billion dollars in a record launch."
+  },
+  {
+   "id": "watch as gaming fans worldwide dive into long awaited grand theft auto vi",
+   "title": "Watch as gaming fans worldwide dive into long-awaited Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaEdBeGhrV09QYkhCV2pyS19xRWliaS11V1JoWW0tR1hGMFhVaXhlSWcySEgzWnhVNE5VZU5pV01jcEt4R0ZCXzBFTFVGakY1YlJnXzZlU1NRUlVndzNGUzU0emxEbkVlbnlpTURhRHJNWjMyc19EVGFNekhsNFF0Z1ZSUFB2YkNQNVFBX2wxZTB0WFlUZ0VpLTkwUFpSMmhGUS0tQnVUQUZiU0tsVkZUdGpuemhaMzRDd3BwOXppMXIyd3RqbHMxUVZfVQ?oc=5",
+   "outlet": "AP News",
+   "via": "Google News",
+   "published": "2026-11-20T08:22:00+00:00",
+   "seen": "2026-11-20T08:50:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Fans worldwide eagerly watch as Grand Theft Auto VI debuts after long anticipation."
   },
   {
    "id": "where to find the ufo encounter in gta 6 alien abduction event explained",
@@ -402,6 +428,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 gamer craze is reported in Las Vegas by KLAS 8 News Now."
+  },
+  {
+   "id": "gta 6 generates estimated 2 36b in launch revenue sells over 24 5m copies",
+   "title": "GTA 6 generates estimated $2.36B in launch revenue, sells over 24.5M copies",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmFzSUh4aE5FN2x1aUJ4WHZFZ05wXzktM2hBZ2RIV1pXSUVuZmJJV084eGEtMENEeXdULUlDVlVEc25vaDBteURFN1dPZnJfVWlJbzJ1T1VVM1FFamFLdzVtNDlpUEVuckRMbDEyN3dMSkpJQTNYdXZBRXdKWTU0R1J6bTM1a183Y1lmX0tDM0pReDdydTc1clFST05yN3VLaW9ZWFQtc0Z1UQ?oc=5",
+   "outlet": "Anadolu Ajansı",
+   "via": "Google News",
+   "published": "2026-11-20T07:11:54+00:00",
+   "seen": "2026-11-20T08:50:06+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 launch revenue is estimated at $2.36B with over 24.5 million copies sold."
   },
   {
    "id": "estimated gta 6 launch sales reach 2 36 billion",
