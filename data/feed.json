@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:41:27+00:00",
- "started": "2026-11-20T12:41:21+00:00",
+ "updated": "2026-11-20T12:46:28+00:00",
+ "started": "2026-11-20T12:46:22+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T12:41:21+00:00"
+   "checked": "2026-11-20T12:46:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 87,
-   "checked": "2026-11-20T12:41:22+00:00"
+   "checked": "2026-11-20T12:46:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T12:41:22+00:00"
+   "checked": "2026-11-20T12:46:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T12:41:22+00:00"
+   "checked": "2026-11-20T12:46:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T12:41:23+00:00"
+   "checked": "2026-11-20T12:46:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-20T12:41:23+00:00"
+   "checked": "2026-11-20T12:46:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-20T12:41:23+00:00"
+   "checked": "2026-11-20T12:46:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-20T12:41:23+00:00"
+   "hits": 16,
+   "checked": "2026-11-20T12:46:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T12:41:23+00:00"
+   "checked": "2026-11-20T12:46:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T12:41:24+00:00"
+   "checked": "2026-11-20T12:46:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:41:24+00:00"
+   "checked": "2026-11-20T12:46:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T12:41:24+00:00"
+   "checked": "2026-11-20T12:46:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T12:41:24+00:00"
+   "checked": "2026-11-20T12:46:26+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T12:41:25+00:00"
+   "checked": "2026-11-20T12:46:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "school sends out minibus to catch absent pupils playing gta 6",
+   "title": "School sends out minibus to catch absent pupils playing GTA 6",
+   "link": "https://www.dexerto.com/gta/school-sends-out-minibus-to-catch-absent-pupils-playing-gta-6-3430063/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-20T12:45:36+00:00",
+   "seen": "2026-11-20T12:46:25+00:00",
+   "summary": "A school in the UK has sent staff out in a minibus to bring absent pupils to class during GTA 6’s launch week, while also offering a prize draw to students who attend every day.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "A UK school dispatched staff in a minibus to bring absent pupils to class during GTA 6’s launch week and offered a prize draw for perfect attendance."
+  },
+  {
+   "id": "24 gta 6 tips and tricks we wish we knew before playing",
+   "title": "24 GTA 6 Tips and Tricks We Wish We Knew Before Playing",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtTmR6U1diZHp5U3h2dVZNM2hmdDdFRXhLQWE3V0xOX1l3VTc5Ry1UYkpxMHRkdnU5THhieG90NEZvcmpleW5DaDFMQUtNdWxsSGNkSFRoWHZGWE1RVDlSb2kyQkZmZDQ?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-20T12:42:29+00:00",
+   "seen": "2026-11-20T12:46:22+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story lists twenty-four GTA 6 tips and tricks the publication wishes it knew before playing."
+  },
+  {
+   "id": "grand theft attention how global brands are cashing in on gta vi s cultural pull lbb lbb",
+   "title": "Grand Theft Attention: How Global Brands Are Cashing In on GTA VI's Cultural Pull — LBB - LBB",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWF6eWdwN094Rmo4SjlNNW1KMUtScFdfdzBvS0VLRWJSd29vZTdINk9xbjFmNFFyMFB4elhYdHZHZi1FV0NDR1kzdldwX1NSajEtTU5LMkpIT0l4NWtObUJzVjg1ckF0WnAxRWxFbUs4NUpTMlJlSmFZU3dhbUVrbnY2VG5ZVXl1RjRhb1YwRVJrUnc?oc=5",
+   "outlet": "Little Black Book",
+   "via": "Google News",
+   "published": "2026-11-20T12:42:26+00:00",
+   "seen": "2026-11-20T12:46:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses how global brands are monetizing GTA VI's cultural appeal."
+  },
   {
    "id": "tiktok users spark viral craze around gta vi soundtrack track suzuki",
    "title": "TikTok users spark viral craze around GTA VI soundtrack track Suzuki",
