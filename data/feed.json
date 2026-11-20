@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T00:47:47+00:00",
- "started": "2026-11-20T00:47:40+00:00",
+ "updated": "2026-11-20T00:52:40+00:00",
+ "started": "2026-11-20T00:52:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T00:47:40+00:00"
+   "checked": "2026-11-20T00:52:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-20T00:47:41+00:00"
+   "hits": 95,
+   "checked": "2026-11-20T00:52:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T00:47:41+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T00:52:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T00:47:41+00:00"
+   "checked": "2026-11-20T00:52:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T00:47:41+00:00"
+   "checked": "2026-11-20T00:52:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T00:47:42+00:00"
+   "checked": "2026-11-20T00:52:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 22,
-   "checked": "2026-11-20T00:47:43+00:00"
+   "hits": 23,
+   "checked": "2026-11-20T00:52:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T00:47:43+00:00"
+   "checked": "2026-11-20T00:52:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T00:47:43+00:00"
+   "checked": "2026-11-20T00:52:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T00:47:44+00:00"
+   "checked": "2026-11-20T00:52:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T00:47:45+00:00"
+   "checked": "2026-11-20T00:52:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T00:47:45+00:00"
+   "checked": "2026-11-20T00:52:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T00:47:45+00:00"
+   "checked": "2026-11-20T00:52:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T00:47:45+00:00"
+   "checked": "2026-11-20T00:52:37+00:00"
   }
  },
  "items": [
@@ -118,6 +118,19 @@
    "ai_summary": "The story reports a guide detailing all music, radio stations, and artists in GTA 6."
   },
   {
+   "id": "grand theft auto vi s auto drive is basically a beautiful and free version of fast travel",
+   "title": "Grand Theft Auto VI's Auto Drive Is Basically A Beautiful And Free Version Of Fast-Travel",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeUQ2ZUVMRTZMZTRESG9yLWFCbk9fMUVoczNXWFJLOVV5X3NBNjloZmZwOTZBa240a2VMR3EtTXpyOEJaSWhRendobV9FcHV3cmpqUEF1RTBGQzdvNFRFMVJnS00zNmZNQ2tJbDZXQkZQQjBRV0lpRm1aSUkzN1hZeXkycXNjNi0wMGlCMVRtOGdPa29IZkhTOFRJNnRRX011aEZHWWtwTU5NME5paTlidGlpV3dyTnNkRkE4NVpLZw?oc=5",
+   "outlet": "Game Informer",
+   "via": "Google News",
+   "published": "2026-11-20T00:49:00+00:00",
+   "seen": "2026-11-20T00:52:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA VI's Auto Drive is a free, beautiful version of fast-travel."
+  },
+  {
    "id": "tyreek hill featured in gta 6 former dolphins wr teases character in video after game s release",
    "title": "Tyreek Hill Featured in GTA 6, Former Dolphins WR Teases Character in Video After Game's Release",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbHMzQmlfNVVGS2F0QmhjWDlrd2ZnVTgyUFZtRmotQTFTU1FLUDdWMnM5TzdlN2VJRXc1ZV9IQUZtUzlfQzF2eWtYMmlqTWRDb1p5MEJVSFc4VXBnLWFWYVVCRGh0TnlxTTdoN0otR0lPYmdWMHduNXFRZ3J2UmgtVmtCVzlMb3JrZk5nNkx2NjNGWi1UQU5BWFF2Y0dkTDNXRWVueG4tdEJpd0tCdjZ2aDY1emZZWVFLSXJscGYyeHg3UUliMmhqR1JTMFgwdw?oc=5",
@@ -129,6 +142,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Tyreek Hill is featured in GTA 6 and a former Dolphins wide receiver teases a character after the game's release."
+  },
+  {
+   "id": "gta 6 has several variations for story moments based on how you treat the heroes relationship",
+   "title": "GTA 6 has \"several variations\" for story moments based on how you treat the heroes' relationship",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-prepared-several-variations-for-gta-6-story-moments-based-on-how-you-treat-lucia-and-jasons-relationship/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T00:45:25+00:00",
+   "seen": "2026-11-20T00:52:36+00:00",
+   "summary": "The changes \"range from subtle to more significant\"",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 has several variations for story moments depending on how you treat the heroes’ relationship, ranging from subtle to more significant."
+  },
+  {
+   "id": "gta vi makes video game history",
+   "title": "GTA VI makes video game history",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHN0bTlfLTF0WXdHZC1qNkJCVG4wTDQ0N2ljektnaURORFVBQ1BQTEhVeG9VREVsQkNPeWpoVVV0RkNDZWJfTXF4UTNybjdhUnhjVkJ0cVNYaWNuLWR0alYzd0ltQ2ZjZjB1Mkw3alVFMVJ1SEp2LUx3d3NtU19raTB1azlIV21xNmQtc1RJbU13RURDRzhqVzBkTUc4RkF3VHZvaEJsaHlJcVhVc2c?oc=5",
+   "outlet": "news8000.com",
+   "via": "Google News",
+   "published": "2026-11-20T00:44:00+00:00",
+   "seen": "2026-11-20T00:52:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story asserts GTA VI makes video game history."
   },
   {
    "id": "gta 6 launches after 13 year wait as fans plan time off",
@@ -155,6 +194,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Deadline reports that GTA VI sales on launch day surged as the game dominates zeitgeist."
+  },
+  {
+   "id": "gta vi sales surge over 2b on launch day as vice city mania takes over",
+   "title": "‘GTA VI’ Sales Surge Over $2B On Launch Day As Vice City-Mania Takes Over",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT195eW53d1dpOG9kazM5NlM0eERVZlJrMUJzZnFKOHRuaXlhYnFCWDFMNVRISGJxNWlJV1ZkdjgxYktUY2ZnZVNrWnN6NzF4VXVKYy1RT1dUNXNaMUlmazNyeDVJZEU4US1ES1FBQnlhYkJCMTdRcWNEZGlNSDdnX3dUX1d1Zw?oc=5",
+   "outlet": "Deadline",
+   "via": "Google News",
+   "published": "2026-11-20T00:29:00+00:00",
+   "seen": "2026-11-20T00:52:34+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Deadline reports GTA VI sales surpassed two billion on launch day as Vice City mania takes over."
   },
   {
    "id": "gta 6 first person glitch discovered and it works on xbox ps5",
@@ -233,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI phenomenon explained by a psychologist."
+  },
+  {
+   "id": "play the game leave it there police warn gamers as gta 6 releases",
+   "title": "‘Play the game, leave it there’: Police warn gamers as GTA 6 releases",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYnQ1SFJSMWdyYkZIZlZEakJHaWE1WmNrNTVJR3MxU3hvY2xCT2JhQWwtYXh2SUQ2SE9ybHgyRWtRZVF4MWxNZllUdlhYXzc4OUlEMXF3NmpoSGJ0SmRrUGoxckNIbVZ6bFFvZTB2czlUWU1QZ05iVnVUWThudUtMVmI4MkZzTzN3LXFVR1VhN2U5T3FBSWdWMnl3YktKRFlqMTFRVWZOTjZId0c2dmJHYnB2eVlPallFelY5SVowa9IB0wFBVV95cUxOYVU0bl9HNnB1cll1VTdHMVkzc3ZyckdLMFRmSjZaUzgtOV9TVXNaUGI0bzlHTVVEMWlnQmdMVFE0R3EwMnZadVhLZlhPMllJSDBrYXF3VkVfOVJJeC1HZ3k1QzVoaTczenlsN3lCUTJ2T3B1ZWxLSkUxbVVKZjJwMlpLclZOQXNPdm9VZHpjS0U2Y2FfRVpzS0N2ZngzVDBYRThGZ0QxZktKelJ5Q3hJbkVwNVJtdGFhdktab1l2eTJKc09Eb1hmOXk1YlhoR2VzbFNV?oc=5",
+   "outlet": "95.5 WSB",
+   "via": "Google News",
+   "published": "2026-11-20T00:16:00+00:00",
+   "seen": "2026-11-20T00:52:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Police warn gamers after the GTA 6 release with advice to play responsibly and avoid leaving it running."
   },
   {
    "id": "grand theft auto vi release brings gaming excitement to louisville",
@@ -14663,6 +14728,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "GTA VI is reported as the highest rated video game of all time according to Metacritic."
+  },
+  {
+   "id": "sony shares rise as playstation dominates gta vi sales",
+   "title": "Sony shares rise as Playstation dominates GTA VI sales",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZng0NTV0SzNQVGN0clZ0ckxBUUl2REtNVldMM1NTVGxLeFQzc0tzYXVDS2VTU1h2SVZ1TGlUNlh1ell4OVc0N3kyTTUtMU15TUF3NGxub0hVVE5Kby1aWjNyTTRWcVBCand4d3VTSUQ4TTM1SU5pU0JtMVg0dlphclFPMHZKd1VXaGZFcm9pWEVzNWF5R25Hd3cxREtaUjA4UExneEln?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T06:37:00+00:00",
+   "seen": "2026-11-20T00:52:34+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Sony shares rise as PlayStation dominates GTA VI sales."
   },
   {
    "id": "grand theft auto vi excitement reaches kutztown record store alvernia campus",
