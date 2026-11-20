@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T08:25:14+00:00",
- "started": "2026-11-20T08:25:08+00:00",
+ "updated": "2026-11-20T08:30:06+00:00",
+ "started": "2026-11-20T08:30:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T08:25:08+00:00"
+   "checked": "2026-11-20T08:30:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T08:25:09+00:00"
+   "checked": "2026-11-20T08:30:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-20T08:25:09+00:00"
+   "checked": "2026-11-20T08:30:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T08:25:09+00:00"
+   "checked": "2026-11-20T08:30:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T08:25:10+00:00"
+   "checked": "2026-11-20T08:30:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T08:25:10+00:00"
+   "checked": "2026-11-20T08:30:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T08:25:10+00:00"
+   "checked": "2026-11-20T08:30:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T08:25:10+00:00"
+   "checked": "2026-11-20T08:30:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T08:25:10+00:00"
+   "checked": "2026-11-20T08:30:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T08:25:10+00:00"
+   "checked": "2026-11-20T08:30:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T08:25:11+00:00"
+   "checked": "2026-11-20T08:30:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T08:25:11+00:00"
+   "checked": "2026-11-20T08:30:02+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T08:25:11+00:00"
+   "checked": "2026-11-20T08:30:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T08:25:11+00:00"
+   "checked": "2026-11-20T08:30:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "breaking entertainment records as gta 6 earns rs 22 000 crore and triples gta 5 opening day haul",
+   "title": "Breaking entertainment records as GTA 6 earns Rs 22,000 crore and triples GTA 5 opening day haul",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ibTIzbG5jMGF1dktsS180MEQ4NTNqZFF1X0FEcEtwRkZCOHpCMXJmMFhvWkNremx1cDE3dm9EejNVa1RDRzJwRUVpdlBPS3l0cTNyTlRTLVNHV0xzcW56LWhmY0h1THQycTdIZDZJUEJ4OUk?oc=5",
+   "outlet": "prameyanews.com",
+   "via": "Google News",
+   "published": "2026-11-20T08:27:09+00:00",
+   "seen": "2026-11-20T08:30:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 earns Rs 22,000 crore and triples GTA 5 opening day haul, breaking entertainment records."
+  },
+  {
+   "id": "heinz fills grand theft auto vi s disc void with custom ketchup case",
+   "title": "Heinz Fills Grand Theft Auto VI’s Disc Void With Custom Ketchup Case",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM19zMzlVMDJJeWxvMlI1WWp3MDFkQkVvUGI5ZHI4ejF5RVRVNFZ3S2FTQ2diRnlrYlo4RV9kVzVTdmVuaW1oUjlaMUhMbkxfZEJQdmg1bnU2ZHZaT0RPLWFQT0tlMXBHdlZkaHdmRm0zNllTNTMxcnJlR0ZZLWNSQVJ4N0pFUndI?oc=5",
+   "outlet": "Hypebeast",
+   "via": "Google News",
+   "published": "2026-11-20T08:26:23+00:00",
+   "seen": "2026-11-20T08:30:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Heinz fills GTA VI’s disc void with a custom ketchup case."
+  },
+  {
+   "id": "gta 6 generates 2 36 billion dollars in record launch",
+   "title": "GTA 6 Generates 2.36 Billion Dollars in Record Launch",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51WkNiUWZLZ0dvRlQ3NUtDZ3NxLWMxX0JPU29kWWx3cmtGVnJ5dmp6QkhBNEczWnhsVVd3aUhhNjEtb3hIbkVqVk9MSDVaOF95NldjU3ZNQTFfR0VFLUpZ?oc=5",
+   "outlet": "SuaraGarut.ID",
+   "via": "Google News",
+   "published": "2026-11-20T08:22:39+00:00",
+   "seen": "2026-11-20T08:30:01+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 generates 2.36 billion dollars in a record launch."
+  },
   {
    "id": "where to find the ufo encounter in gta 6 alien abduction event explained",
    "title": "Where to Find the UFO Encounter in GTA 6—Alien Abduction Event, Explained",
@@ -116,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to trigger the UFO encounter and alien abduction event in GTA 6."
+  },
+  {
+   "id": "the nintendo switch 2 processor can t handle gta vi s simulation",
+   "title": "The Nintendo Switch 2 processor can't handle GTA VI's simulation.",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTlyWGFXT2dVTXBGWTRkY1pXcGZpMGM2VkxIeUdwci1PdmNmNVAtclpjS211TTlnLVFIcHBxOE5lQ0xKS2JhdFMwUlV1R01SMmpHa1lfb2RhTkJOZjU0MmJDeEhBWFNkUHRLRjFFdk9icXRmUVI3U21nMDNnOEVUVndjcUY3UGYzVlQzYXJkRjlJNGJJcVAxRlNlT3FLZm1UeUdiUQ?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-20T08:15:45+00:00",
+   "seen": "2026-11-20T08:30:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the Nintendo Switch 2 processor can't handle GTA VI's simulation."
   },
   {
    "id": "how to unlock a garage in gta 6 saving and registering cars explained",
@@ -441,6 +493,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports an album inspired by GTA VI that features radio tunes from Playboi Carti to Keith Richards for Vice City."
+  },
+  {
+   "id": "gta vi release triggers global security concerns amid growing online gaming cyber threats",
+   "title": "GTA VI release triggers Global security concerns amid growing Online Gaming Cyber Threats",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVlQ5NE5MX285WmVDTGdGbkxraENvNDNWRWV4cHVlWkZrNmNPQ3JlWDRkV1ctazdzSzJKYnhNaTFib2VMdWJxMVEteTgyTlpDYWVza1dvSDZISC1qdXJhTGdNbGtJMktIc2hMc285T3hFVmdBMzhBTG5mQV92M3AtT3NJeEpCQmI1UG5mQWJ5MnI3MUZsOENoX3NldnJlRHExcFpWaUxEWHZZYUF3VDF4bnU3aDZmSm5ybXJPbmdsVy1RaVJHMThQOA?oc=5",
+   "outlet": "Cybersecurity Insiders",
+   "via": "Google News",
+   "published": "2026-11-20T06:40:09+00:00",
+   "seen": "2026-11-20T08:30:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA VI release triggers global security concerns amid growing online gaming cyber threats."
   },
   {
    "id": "lewis hamilton plans gta vi session after vegas fp2 i m like a big kid",
@@ -11413,6 +11478,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI is now available."
+  },
+  {
+   "id": "why the hotly anticipated gta vi is shaping up to be much more than just a video game",
+   "title": "Why the hotly anticipated 'GTA VI' is shaping up to be much more than just a video game",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjRjSDlsNVEwS3NTM1dlUDNLZXBqZmRnQjNGLXB0aU5ITW5TeHU1VFV2NlRtQ1VPRzcyU0hXUFpYQ2NzeW9xVDlTVDJFcXZBTHVPcDhwTGQwaWZaR29CX3h1OGdubFR3NXhhOWtkWEMxYkZPRkdzWDhkQ3lseHJ1a3MydUhGM0VCODhrWEFn0gGOAUFVX3lxTE9DLVU5alAyWXFDenp0TzUzRWM4cWNiTWJMMzF1d2x2VXNVZzBKMUlobFo3bTZrUDN5b2NPX0tWVUNKVUtvcDNYdVpnYkhFX1E5UzVwZ040eU1NcklaWDFJVnZYU3FBN05oRGlESm12MGFtVGNyaWpLYWhUb1hudXYtWi15bWJYQmd2bGEtYUE?oc=5",
+   "outlet": "DW.com",
+   "via": "Google News",
+   "published": "2026-11-19T14:09:52+00:00",
+   "seen": "2026-11-20T08:30:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA VI is shaping up to be more than just a video game."
   },
   {
    "id": "warren spector lambasts gta 6 s billion dollar development",
