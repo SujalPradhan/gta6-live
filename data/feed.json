@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:23:32+00:00",
- "started": "2026-11-20T18:23:26+00:00",
+ "updated": "2026-11-20T18:28:34+00:00",
+ "started": "2026-11-20T18:28:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T18:23:27+00:00"
+   "checked": "2026-11-20T18:28:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 86,
-   "checked": "2026-11-20T18:23:27+00:00"
+   "checked": "2026-11-20T18:28:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T18:23:27+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T18:28:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-20T18:23:28+00:00"
+   "hits": 8,
+   "checked": "2026-11-20T18:28:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T18:23:28+00:00"
+   "checked": "2026-11-20T18:28:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-20T18:23:28+00:00"
+   "hits": 47,
+   "checked": "2026-11-20T18:28:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T18:23:28+00:00"
+   "checked": "2026-11-20T18:28:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T18:23:28+00:00"
+   "checked": "2026-11-20T18:28:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T18:23:28+00:00"
+   "checked": "2026-11-20T18:28:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T18:23:29+00:00"
+   "checked": "2026-11-20T18:28:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T18:23:29+00:00"
+   "checked": "2026-11-20T18:28:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T18:23:29+00:00"
+   "checked": "2026-11-20T18:28:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T18:23:29+00:00"
+   "checked": "2026-11-20T18:28:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T18:23:29+00:00"
+   "checked": "2026-11-20T18:28:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi has everyone talking including cops furries and cat ladies",
+   "title": "‘GTA VI’ has everyone talking, including cops, furries and cat ladies",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczM4WjZ6REZMdzdpUU9vQkZDUEdIZGNVQ3QtN2w0aEpsVTVXOUpZbEhvbFNGeENfdDNwbE0wOVlZY21fcWhfNTNKZ2FmTzFYbXctR2dhSWkwTlNBcEhQbUNkSFBCNWVnN01qTWo2VGRESUpPNzgzU2xDdTB3ZkE3VS1XZGhmX09xTmxRWkIwUy1ITHpsLWxaMUVPNzVrZFZCY3BfNjJvbEVLS3d2Y2VN?oc=5",
+   "outlet": "The Washington Post",
+   "via": "Google News",
+   "published": "2026-11-20T18:24:59+00:00",
+   "seen": "2026-11-20T18:28:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes that GTA VI is sparking widespread discussion, drawing attention from cops, furries, and cat ladies."
+  },
+  {
+   "id": "gta 6 credits actually include florida joker the viral internet personality who once demanded 10 million from rockstar games",
+   "title": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
+   "link": "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-20T18:23:50+00:00",
+   "seen": "2026-11-20T18:28:29+00:00",
+   "summary": "Lawrence Sullivan, better known to the online world as the 'Florida Joker', is in GTA 6 . After accusing Rockstar Games of using his likeness without consent and then demanding a $10m payout, the two parties have seemingly settled their differences. Read more",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The credits for GTA 6 list an online personality known as the Florida Joker after a dispute with Rockstar Games over likeness and payment."
+  },
+  {
+   "id": "how to do first person glitch in gta 6",
+   "title": "How To Do First-Person Glitch in GTA 6",
+   "link": "https://insider-gaming.com/first-person-glitch-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T18:23:47+00:00",
+   "seen": "2026-11-20T18:28:30+00:00",
+   "summary": "A first-person glitch was found in GTA 6's early days, and you can enjoy the game from a complete first-person perspective. The post How To Do First-Person Glitch in GTA 6 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A first-person glitch in GTA 6 lets players experience the game from a full first-person perspective."
+  },
   {
    "id": "how to get a gta 6 jet easily and cause chaos in the skies",
    "title": "How to get a GTA 6 jet easily and cause chaos in the skies",
@@ -352,6 +391,19 @@
    "ai_summary": "Feature: GTA 6 made me want to be a good guy, abiding by traffic rules, according to Push Square."
   },
   {
+   "id": "99 incredible little details in grand theft auto 6",
+   "title": "99 Incredible Little Details in Grand Theft Auto 6",
+   "link": "https://www.ign.com/articles/99-incredible-little-details-in-grand-theft-auto-6",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T18:00:00+00:00",
+   "seen": "2026-11-20T18:28:28+00:00",
+   "summary": "From gameplay quirks to secrets and Easter eggs, here are 99 incredible little details in Grand Theft Auto 6. Don’t worry, you’ll find no story spoilers here.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article highlights ninety-nine small details in GTA 6, including gameplay quirks, secrets, and Easter eggs, with no spoilers."
+  },
+  {
    "id": "gta 6 these are the real life florida locations that inspired the long awaited game s virtual world",
    "title": "‘GTA 6’: These Are the Real-Life Florida Locations That Inspired the Long-Awaited Game’s Virtual World",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOTJFQkNtbnpPWDdwU1RsZGdNeFRSZVZNVnNtMm5RNHdxSjhFLUlIR2lxbnNxTzlKY3M5RWxldWY5SEN4QWo3UERrR1BPWWY2YVNtVjZkb2RzcXppUnhnYVZUU3dKSGp4ak02eXdGY0p6UFhpalhpdlNra0FFWXpCX0tJVUlOMF8xQ2pHUVZXT2tNTXZPZmdKMmFEa1NKdw?oc=5",
@@ -389,6 +441,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reviews Grand Theft Auto VI: The Album as overstuffed and chaotic, with some gems mentioned."
+  },
+  {
+   "id": "police have a message for gta 6 players real life has no reset button",
+   "title": "Police have a message for GTA 6 players: Real life has no reset button",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUQyRU9ZaThoQU9xeDY5X2RYSldKR3VYS0szTHZZcFQzNENzWk5rTThCSjdsZFNubUpYenE3Q3RZV2xHY3NQMUcwOEVhOUJmSVpoNDUwcHh3NlI0V2JiRVFLSkp4VnRZb1dPb0NET3JDQkdmV0pCWG1CVjJnbzBkUEx4bmZqMFAzM0NaQ04zdzBXT0lCS1E0MGpfVUxVaW5udU50WTZpbVNiak0?oc=5",
+   "outlet": "Police1",
+   "via": "Google News",
+   "published": "2026-11-20T17:52:10+00:00",
+   "seen": "2026-11-20T18:28:27+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The piece conveys a warning from police to GTA 6 players that real life cannot be reset."
   },
   {
    "id": "you can visit pensacola beach s ufo house in gta 6",
@@ -1353,6 +1418,19 @@
    "ai_summary": "Police across the US warn fans not to bring GTA 6 experiences into real life."
   },
   {
+   "id": "gta 6 has me feeling like it is 2002 again my chemical romance s very first song can be heard on the radio",
+   "title": "‘GTA 6’ Has Me Feeling Like It Is 2002 Again: My Chemical Romance’s Very First Song Can Be Heard on the Radio",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejgxel9EaUd4SGVvbzEwSzRnSjlpUWREcTA2YTlLLVBDUHVGYVY3WlNaSkpfLU95QURiaTFEanhHWG5xVU9QbElLbHczaEhMZFJRNUd6RmJJUUh0c3hheFBfa2lEb1ZHVmJrdFlTYU9HREtURjNTN29oR1RZLUxhMFMyV0o4b1N1bWN6cksyZzBhdXVsbHZwdmJ6czc1Ml8tZzZFdVoyRVVpTkhhVnhReDlrTWIySUdjSVJjYmFnYV90SFlNSTRrUHdfWXBBdXhvVEFnOQ?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-20T16:28:39+00:00",
+   "seen": "2026-11-20T18:28:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The feature describes GTA 6 feeling like a throwback to 2002, with My Chemical Romance’s first song playing on the radio."
+  },
+  {
    "id": "fort lauderdale s viral jet skiing dog referenced in gta 6",
    "title": "Fort Lauderdale's viral jet-skiing dog referenced in GTA 6",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXBwUnhIUzJGSXBJM2lHZlJnVDRWeEY0ajFCQ1lOVHREbF94LUZSTDljMm05ZDNQSXlxNklJZ1I1SEFEVTBqeXFST2Nsek1fbzNScmltcE0zeTFCdUlHcGRWaEViWE04SlhDdV9NRlFGZ1dSVzNRa0hRMHV6dktkcWt2VFBpQktNQy1OenI5anhtd1l6QTVveE9FY2wtYnBKLVRmaUk0a3pGQk0xaVJpTmR2VQ?oc=5",
@@ -1377,6 +1455,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The game is described as more than a crime simulator and as a cartoonish sendup of the U.S."
+  },
+  {
+   "id": "gta 6 estimated to have sold 25m copies within days",
+   "title": "GTA 6 estimated to have sold 25M copies within days",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmlOancwSUNZaUhNTS1hM3FiTFp5bWttSDVxZ3lBY1p0R1hXRzR6UE9fd0hzVnZUUVNBc3lYVkpENFR5VXZRbXBqV24xSWJxMGl0Y1lvYlVsRUJZVS0tdnBLR2pneFRIVmU5MnEtRWs3UW1ac2ZWZU5mSHZWQk5XbUhCV3VrRDZPd295VkIwbTBiSldEZm5YYlhQTzY5dk0?oc=5",
+   "outlet": "KitGuru",
+   "via": "Google News",
+   "published": "2026-11-20T16:23:50+00:00",
+   "seen": "2026-11-20T18:28:28+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The report states GTA 6 is estimated to have sold 25 million copies within days of release."
   },
   {
    "id": "gta 6 map size and counties the estimates compared with nothing official yet",
