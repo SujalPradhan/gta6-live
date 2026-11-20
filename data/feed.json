@@ -1,109 +1,174 @@
 {
- "updated": "2026-11-20T13:16:40+00:00",
- "started": "2026-11-20T13:16:35+00:00",
+ "updated": "2026-11-20T13:21:40+00:00",
+ "started": "2026-11-20T13:21:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T13:16:35+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-20T13:21:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 88,
-   "checked": "2026-11-20T13:16:36+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T13:21:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T13:16:36+00:00"
+   "checked": "2026-11-20T13:21:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T13:16:36+00:00"
+   "checked": "2026-11-20T13:21:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T13:16:36+00:00"
+   "checked": "2026-11-20T13:21:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-20T13:16:36+00:00"
+   "hits": 45,
+   "checked": "2026-11-20T13:21:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T13:16:37+00:00"
+   "checked": "2026-11-20T13:21:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:16:37+00:00"
+   "checked": "2026-11-20T13:21:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T13:16:37+00:00"
+   "checked": "2026-11-20T13:21:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T13:16:37+00:00"
+   "checked": "2026-11-20T13:21:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T13:16:37+00:00"
+   "checked": "2026-11-20T13:21:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T13:16:37+00:00"
+   "checked": "2026-11-20T13:21:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T13:16:37+00:00"
+   "checked": "2026-11-20T13:21:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T13:16:37+00:00"
+   "checked": "2026-11-20T13:21:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "i completed gta 6 s indie game darling pastiche tenebrae lux and all i got was this lousy sense of accomplishment",
+   "title": "I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment",
+   "link": "https://www.eurogamer.net/tenebrae-lux-gta-6-now-playing",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-20T13:21:00+00:00",
+   "seen": "2026-11-20T13:21:34+00:00",
+   "summary": "\"We are but Promethean wanderers on the fringes of oblivion, clinging to a semblance of light amidst the vast abyss of our own ignorance. Voyaging uncharted waters may appear foolish to some, yet folly and heroism can often appear the same to the undiscerning eye,\" so says the voice of Johannes Zuch - creator, writer, director, composer, and 'perceptual architect' behind Leonida's latest favourite",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that completing Tenebrae Lux, an indie game homage in GTA 6, leaves a sense of accomplishment."
+  },
+  {
+   "id": "gta vi breaks records as estimated sales top 2 3bn",
+   "title": "GTA VI breaks records as estimated sales top $2.3bn",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTRkM0J1WWNScXNnQzlSdW9iRk82UzRhLTFMZzhkNDE1V3ZtcV9RVzVsTWpFbG9oV2hzajNHRGtGR1dad1kyUW1nR2NURGpxMFpmcVFfZXQ4UWhKZlZCMkVaSmpUQ1ZhV1JsMG55WFZibHNIb1U5d0tSN29JLXY4WXJ6VDVXbzRIU3AwMUFqNzRRdnBRNVZVSHRyMG4?oc=5",
+   "outlet": "Plataforma Media",
+   "via": "Google News",
+   "published": "2026-11-20T13:18:00+00:00",
+   "seen": "2026-11-20T13:21:31+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI sales estimates exceeded two point three billion."
+  },
+  {
+   "id": "email sent about school attendance amid gta 6 release",
+   "title": "Email sent about school attendance amid GTA 6 release",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNclcxb3VfeFlkQXo3RVhoNUlDWGRMalZUSU42ZkVZMDFOYXJaU3lSZE1DaS1rNDZtUUxWZjRPbElKZGthUDJxZ3JQZ0J6OFBfRFZBSG5hbS1hbHhOQlpOY0ZVdWpScFZybFhWaUVFZHNrMnpCaU84SzkyQ2RQWlpnc0NtYkMzc0FxdHFNWG00TUtKd2JR?oc=5",
+   "outlet": "https://www.thecharlotteledger.com/",
+   "via": "Google News",
+   "published": "2026-11-20T13:17:44+00:00",
+   "seen": "2026-11-20T13:21:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that an email was sent about school attendance amid GTA 6's release."
+  },
+  {
+   "id": "gta 6 launch breaks industry records for the highest ever internet usage",
+   "title": "GTA 6 Launch Breaks Industry Records For The Highest Ever Internet Usage",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WWnU5RTBKSXM3NmdPMEhWbGpQZUJIbHdWNEpCX3dneGFnWFhPUzd2Ym1hVVlHclVpZUVLNFZjSnBGOFJIQk01T1FSZ0ZqcGJ1Y0dCbFVJczFRcjNEVVVycnFOdTJwZndNYmNDSkpR?oc=5",
+   "outlet": "Tech4Gamers",
+   "via": "Google News",
+   "published": "2026-11-20T13:17:09+00:00",
+   "seen": "2026-11-20T13:21:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 launch broke industry records for the highest internet usage."
+  },
+  {
+   "id": "gta vi s first day haul nears 2 4 billion closing in on morgan stanley s full quarter sales target",
+   "title": "GTA VI's First-Day Haul Nears $2.4 Billion, Closing In on Morgan Stanley's Full-Quarter Sales Target",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZExnam14UVB6RXFrX2ZtZF9KTTJjU3pIRVpxU3ItWWh4T0Z2OGp5YnZBRFZWSk96ZXdSbDZaMXBRX2lzY0FPQjN5YnhUR2pKX3p1ekV1QnRkMFJfTWJvOWFPcnhZQ2hTN3o1UmJtVHRJMDRFZVE?oc=5",
+   "outlet": "finance.biggo.com",
+   "via": "Google News",
+   "published": "2026-11-20T13:11:06+00:00",
+   "seen": "2026-11-20T13:21:31+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI's first-day haul neared two point four billion, approaching a major quarterly sales target."
+  },
   {
    "id": "gta 6 s international success may not translate to more ps5 sales in japan say analysts",
    "title": "GTA 6’s International Success May Not Translate to More PS5 Sales in Japan, Say Analysts",
@@ -129,6 +194,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The government says GTA 6 is a British success story, but the prime minister won’t be playing it."
+  },
+  {
+   "id": "vice album reviews november 20 grand theft auto vi atlas sound sheherazaad take that and more",
+   "title": "VICE Album Reviews, November 20: Grand Theft Auto VI, Atlas Sound, Sheherazaad, Take That, and More",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkMwcHRLMXNtTC1YSzJNTnVjX0NsVDNBdGVqRkdIcjRFYlV4NlZQY0RXanpNUWV6bU1oVnd0azdWLTJZNkZ3UzNPSllpamJObnF4emliZkZjYzl5Y1QwMzMtQWhQcjdZeFBraFJVTVE1UHBJcjFHVzhiYVhISE9sZE93S0JNU0NXSm81WFBrbDl1N1lScFc4YVVRTGZ0MUFUQzYta0JJZVBYcmVQaUxUdmo2dHlUN0VDN3BKSEZOX1g1c21u?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-20T13:06:07+00:00",
+   "seen": "2026-11-20T13:21:31+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports VICE album reviews including GTA VI among other releases."
   },
   {
    "id": "grand theft auto vi by the ginormous numbers",
@@ -5043,6 +5121,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The Grand Theft Auto VI release brings gaming excitement to Louisville."
+  },
+  {
+   "id": "gta 6 cast cameos who plays the main cast celebrity voices more",
+   "title": "'GTA 6' Cast & Cameos: Who Plays the Main Cast, Celebrity Voices, & More",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03R0k1aDVaRHd1ckk1VUo0eURHZGE2d016ZjJRLXJMWFpfMWtFeC1BMjNiQlFHdEQteU9Fclp3SzRyRXJZVzItYzViMUM4S1E?oc=5",
+   "outlet": "MovieWeb",
+   "via": "Google News",
+   "published": "2026-11-20T00:12:00+00:00",
+   "seen": "2026-11-20T13:21:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA 6's cast and cameos, detailing main cast, celebrity voices, and more."
   },
   {
    "id": "gta 6 already on track to become best selling video game of all time",
