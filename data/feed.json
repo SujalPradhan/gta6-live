@@ -1,109 +1,148 @@
 {
- "updated": "2026-11-20T12:01:10+00:00",
- "started": "2026-11-20T12:01:04+00:00",
+ "updated": "2026-11-20T12:06:15+00:00",
+ "started": "2026-11-20T12:06:08+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T12:01:05+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-20T12:06:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T12:01:05+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 88,
+   "checked": "2026-11-20T12:06:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T12:01:05+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T12:06:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T12:01:06+00:00"
+   "checked": "2026-11-20T12:06:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T12:01:06+00:00"
+   "checked": "2026-11-20T12:06:10+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-20T12:01:06+00:00"
+   "checked": "2026-11-20T12:06:10+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T12:01:06+00:00"
+   "checked": "2026-11-20T12:06:10+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:01:06+00:00"
+   "checked": "2026-11-20T12:06:10+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T12:01:06+00:00"
+   "checked": "2026-11-20T12:06:10+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T12:01:06+00:00"
+   "checked": "2026-11-20T12:06:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:01:07+00:00"
+   "checked": "2026-11-20T12:06:11+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T12:01:07+00:00"
+   "checked": "2026-11-20T12:06:11+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T12:01:07+00:00"
+   "checked": "2026-11-20T12:06:11+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T12:01:07+00:00"
+   "checked": "2026-11-20T12:06:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta6 success is testament to the power of teams sticking together",
+   "title": "GTA6 Success Is Testament to the Power of Teams Sticking Together",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlI0dGVodzVRdEFEcXRpUkRnS0tadkFkT1VwLTNPTFRtR2hUMHVrWUIycVZSSzJHb2IwRXVrMmdBRDZ1M2pnanIxZldKTjV6dkgtdmQ3NGRVczhoVUw4N3BKSVZ6TVRhdmthbFhKak1fNVpzV3dPOUlqYmQyVlVOanpHUFhBRG5KRUNqaU41Vlhmcms1NFczQ0lhSWxVQ3V1VzBVd3dNdjlLVjlqb0Q5UXVqcWQ?oc=5",
+   "outlet": "Bloomberg.com",
+   "via": "Google News",
+   "published": "2026-11-20T12:02:01+00:00",
+   "seen": "2026-11-20T12:06:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA6's success proves the value of teams sticking together."
+  },
+  {
+   "id": "gta 6 crashing not launching and error codes explained for playstation 5 and xbox series x s",
+   "title": "GTA 6 crashing, not launching, and error codes explained for PlayStation 5 and Xbox Series X|S",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JcmF2Y2JUdlJIS3VVczUzb0NZeWotYTQyTzZiNzJ0ZmxZaVRoUktNQVBXUmRzaGRFOW5MU1dKd3pmeFhEYVBGOE9nc0tZZ1hfMDJZMlFsM3FIY19VaXdGcVZYOXpZNjNyTGZCc05lZw?oc=5",
+   "outlet": "PC Guide",
+   "via": "Google News",
+   "published": "2026-11-20T12:02:00+00:00",
+   "seen": "2026-11-20T12:06:08+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The article explains GTA 6 crashing, launching issues, and error codes for PS5 and Xbox Series X|S."
+  },
+  {
+   "id": "what we played well it s bound to be grand theft auto vi right",
+   "title": "What We Played – Well, it’s bound to be Grand Theft Auto VI, right?",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNHQtVGZkblV5c2ZuR25WSGJFd0ZxUWdtWjRCVDJYczRMd3NFMlR2WXRQcExWOURsbUlWbm01NzJIblRCTUREa29HNU91cllNSHZJc1loUlJGZFBSeFZXZ1RxRmxOWEZ1NWZENU9kT1Y0SjFwT3A1b2JOUzczR3Zqa3RzdFNULU45akpVM3dWbFI1cGpHSG1BeTktUHkxaDZJaHNBdA?oc=5",
+   "outlet": "TheSixthAxis",
+   "via": "Google News",
+   "published": "2026-11-20T12:00:37+00:00",
+   "seen": "2026-11-20T12:06:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece suggests playing GTA VI is a likely option for what was played."
+  },
   {
    "id": "how to get paul walker s fast and furious car in gta 6",
    "title": "How to get Paul Walker's Fast and Furious car in GTA 6",
@@ -129,6 +168,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6's first-day revenue was impressive and nearly reached the box office record holder."
+  },
+  {
+   "id": "has gta vi included an air cargo gssa",
+   "title": "Has GTA VI included an air cargo GSSA?",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yd2V0WEozaDlTV1JXYVFDRTBRdjFmOXJNbGFHWlpiRVV5cXhmaWRTSURZOFhMZ0diMzhLZmh6YnJNNVEyMThFLVB3N0tvS3N0SmVhc3hiUXBjNVA5bGNoUF90UGhlLTktNUlDdUxvaTU?oc=5",
+   "outlet": "Air Cargo Week",
+   "via": "Google News",
+   "published": "2026-11-20T11:55:09+00:00",
+   "seen": "2026-11-20T12:06:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece asks whether GTA VI includes an air cargo GSSA."
   },
   {
    "id": "how to unlock the venturas blvd elegy in gta vi",
@@ -859,6 +911,19 @@
    "ai_summary": "The story questions whether GTA 6 is available on Nintendo Switch."
   },
   {
+   "id": "gta 6 daily routine what you should do every day and why it matters",
+   "title": "GTA 6 daily routine: What you should do every day and why it matters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YSHljb0dJRE9fakxIMVJzMnQ0TWw4VHcwQlVkVGlvZEUtZE10dGlhY2NJcnBPRW1FalRqc0VUbDRFdFFObko1c2ctQWlLb2ptQjZmN2l6czhmRk41Y0RqQmJVOGNNcW8?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-20T10:39:26+00:00",
+   "seen": "2026-11-20T12:06:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article describes a GTA 6 daily routine and its importance."
+  },
+  {
    "id": "gta 6 debuts with soundtrack featuring morgan wallen travis scott and more",
    "title": "GTA 6 debuts with soundtrack featuring Morgan Wallen, Travis Scott and more",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfVXcxRzVscUNzRkg5OVZZdW9UbVhsM1JoUHg4a3RhN1NmWmZVaEJNeWxnRmlob2JrZDJUNGVpc3NORF8wVVB5bkV0a0FKREJNdWhBLVhJa05kRTFISU9Tc21meXJmXzFmUUdZWkVZeGVHQlRSek5DLW51bDNDdjjSAX9BVV95cUxQX1V3MUc1bHFDc0ZIOTlWWXVvVG1YbDNSaFB4OGt0YTdTZlpmVWhCTXlsZ0ZpaG9ia2QyVDRlaXNzTkRfMFVQeW5FdGtBSkRCTXVoQS1YSWtOZEUxSElPU3NtZnlyZl8xZlFHWVpFWXhlR0JUUnpOQy1udWwzQ3Y4?oc=5",
@@ -937,6 +1002,19 @@
    "ai_summary": "The story explains how players can steal Peggy's scooter and claim a free car reward in GTA 6."
   },
   {
+   "id": "gta vi features multiple references to red dead redemption",
+   "title": "GTA VI Features Multiple References to Red Dead Redemption",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWl5VGZKeWV1cEpGbmpUMGJnT2lhem16ODJKTU5JQi1HMmFrQXZxWWctNHZNXzJvLUgyejlMUGZBRHZXSmtRLXFYTllMQzA0b1o0UXNhRVlGeE9YUjVSUXhoQ0k1dnFxQkZEcDVKRERvekRMSGowaUlZREVxSktnSGI5ZVJxcjI5aFlURzRB?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-20T10:29:39+00:00",
+   "seen": "2026-11-20T12:06:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The report notes GTA VI features multiple references to Red Dead Redemption."
+  },
+  {
    "id": "how to enable auto drive in gta 6 cinematic view speed options and more",
    "title": "How to Enable Auto-Drive in GTA 6—Cinematic View, Speed Options, and More",
    "link": "https://insider-gaming.com/how-to-enable-auto-drive-in-gta-6-cinematic-view-speed-options-and-more/",
@@ -948,6 +1026,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story provides a guide on how to enable auto-drive in GTA 6, including cinematic view and speed options."
+  },
+  {
+   "id": "ukrainian couple raises 22 000 for the military in just 30 minutes of gta vi launch stream",
+   "title": "Ukrainian Couple Raises $22,000 for the Military in Just 30 Minutes of GTA VI Launch Stream",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVRXWTBpRjJuNkp2ODItTE8wRGg2ZGJLd1Y1cU1QeVQ3NFBmNC1kc3owQS14aVBqNnJ5SS1UMmJLVUVCbFZnb2d1Y2RnMXlwbTZoQ1dwRlpUSHVySkd3ODl1ckxWU0JlQzNLY0xUUGF0YXRsUEtGWXVQME5JTElhUWNOLTAzVTFTVmZRQzBMcUNyUWhFXzdQWXNtaXZOY05xa01FS3JPMk1UN296ZExmOEZnSmk2YUJrS001MV80czhjUnZPRVhXLWdqU2VHeVlnQXc?oc=5",
+   "outlet": "UNITED24 Media",
+   "via": "Google News",
+   "published": "2026-11-20T10:29:09+00:00",
+   "seen": "2026-11-20T12:06:08+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "A Ukrainian couple raised money during a GTA VI launch stream."
   },
   {
    "id": "gta 6 mandy actor officially confirms her identity after character becomes breakout hit",
@@ -1546,6 +1637,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "GTA 6 sales surpass The Odyssey on day one, with Spider-Man following next."
+  },
+  {
+   "id": "gta 6 whatsapp changes its social media profile pictures to the open world titles in game messaging app",
+   "title": "GTA 6: WhatsApp Changes Its Social Media Profile Pictures to the Open-World Titles In-Game Messaging App",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcmNHUWZWY1R4RDVQZmExUm55M2R5NDJfQXdRXzlZM1drTnhhbGJNaVN5VzhKeWkwM0N0SGNvYTc0UUZhMEVUSVlKY1pabVpwNkxyTUFIY0FNSkZ0NDhTaS1SbUZ1NTE2akRvclZwT2otNXNMYXBvOTN2eHVINlhrRnhaNzFxN0g2QTRld0dObUJRS2tHZS0zZjlkdk1jemVLUXpPczI3Tk9hNlRCVTE4Z2NMb2diQ3lKeVB6SDJKVUhRdnBVMGRvNllCcUQyZmdpRFo1bkVKaFM0Yl9LVGc?oc=5",
+   "outlet": "IGN India",
+   "via": "Google News",
+   "published": "2026-11-20T09:05:14+00:00",
+   "seen": "2026-11-20T12:06:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 themed WhatsApp profile pictures appear in the game’s open-world in-game messaging app."
   },
   {
    "id": "all waink landmarks in gta 6",
@@ -2651,6 +2755,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6 breaking records with sales topping $2.3 billion."
+  },
+  {
+   "id": "has anyone finished gta 6 reviewers have and the story runs five chapters and about 91 missions",
+   "title": "Has anyone finished GTA 6? Reviewers have, and the story runs five chapters and about 91 missions",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY0ZUczlQaFF5QUVhb1V5LUF5VDFrRU8ycURKaVVRS0Q5OXozZjctV1hHanAyZ0trYnlWMU10NWVrdWg5SF9qNngyUkRMRlpGaEZYY3VQYUpuYjFMdjlJUno2dWNmYXNwY0pFbVhSVUVKdGVULXViX1d1MW9IWUI5REFtTjVwM3M1UFR3RjF0azBLZnNXenlFT1FIWTc2ZGtWc2tmY1RsSkN0Wko1aTFEUkhn?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-20T05:45:42+00:00",
+   "seen": "2026-11-20T12:06:09+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Reviewers have finished GTA 6; the story spans five chapters and about 91 missions."
   },
   {
    "id": "to run gta 6 at 60 fps on pc you will need a processor of the level ryzen 7 9800x3d",
