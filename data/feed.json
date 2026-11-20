@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T11:00:56+00:00",
- "started": "2026-11-20T11:00:50+00:00",
+ "updated": "2026-11-20T11:05:54+00:00",
+ "started": "2026-11-20T11:05:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,179 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T11:00:50+00:00"
+   "checked": "2026-11-20T11:05:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-20T11:00:51+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T11:05:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T11:00:51+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T11:05:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:00:51+00:00"
+   "checked": "2026-11-20T11:05:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:00:52+00:00"
+   "checked": "2026-11-20T11:05:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T11:00:52+00:00"
+   "checked": "2026-11-20T11:05:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T11:00:52+00:00"
+   "checked": "2026-11-20T11:05:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:00:52+00:00"
+   "checked": "2026-11-20T11:05:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:00:52+00:00"
+   "checked": "2026-11-20T11:05:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:00:53+00:00"
+   "checked": "2026-11-20T11:05:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-20T11:00:53+00:00"
+   "hits": 15,
+   "checked": "2026-11-20T11:05:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T11:00:53+00:00"
+   "checked": "2026-11-20T11:05:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:00:53+00:00"
+   "checked": "2026-11-20T11:05:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T11:00:54+00:00"
+   "checked": "2026-11-20T11:05:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi rakes in 2 3b in record opening day what next for take two stock",
+   "title": "GTA VI rakes in $2.3B in record opening day: what next for Take-Two stock",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWZjQ2JRN05JRWJ6cUh1YU1xdnZnLUdpRjJqbDlFY29HdmhaVm9hV1lJcDlMX1Q2X3NJUE9lTVh5dy1fT3BVemFTNUNIdHF4eG5PakVzNm5vbU9RakZtM1NEM1c1a1JpNjR0NXRKYzBDMk9JSE5FRUxsSGZHUWQzeTZBWFhJODZmYkFRY20zeDEtTHF1X1RmXzZOOUEtcEVmMnVfRE5wU2J0bW9uUXZVUTV5UnJuZw?oc=5",
+   "outlet": "Invezz",
+   "via": "Google News",
+   "published": "2026-11-20T11:04:06+00:00",
+   "seen": "2026-11-20T11:05:49+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI earns a record opening day revenue and discusses what it means for Take-Two stock."
+  },
+  {
+   "id": "grand theft auto vi releases with new album and 22 in game radios",
+   "title": "Grand Theft Auto VI releases with new album and 22 in-game radios",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOGt4ZnFNNFZ4a0NKNmtPRjBYZDBSMy1lN0xaTGVMUHY2NmJ0VkZhcER0QVZYRXFRSjBKU1YyNGJoSHZZb210Wm10QTYyME1zVXZnUnZYa2dfZHRkTjFubHBnUFUzMnRuN0QwTDdMbXh1bWFnUjdtekZpWUJQNnNXTXBxWnpYMm1PSzNUem5MYnFTWkdJaEt3YkYzQQ?oc=5",
+   "outlet": "Headliner Magazine",
+   "via": "Google News",
+   "published": "2026-11-20T11:02:11+00:00",
+   "seen": "2026-11-20T11:05:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI launches with a new album and 22 in-game radios."
+  },
+  {
+   "id": "the physical boxed copy of gta 6 is missing something pretty important",
+   "title": "The physical boxed copy of GTA 6 is missing something pretty important",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOVGlhaDNKeDNYWU5Bb281TGx4NTB0S0hobTZ6eHhzVDJYVm9KX2JreGR4NGRsb29tS1R0M1piVGljMTZ6NUJmWl83WktwNC0xU0kxdFFubmJYNHNzdUh6Z1otcjUtNzFHYWFEZzREX1M0UUU?oc=5",
+   "outlet": "MakeUseOf",
+   "via": "Google News",
+   "published": "2026-11-20T11:00:16+00:00",
+   "seen": "2026-11-20T11:05:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The physical boxed copy of GTA 6 is missing something important."
+  },
+  {
+   "id": "packers news roundup micah parsons roster spot zaire franklin hint gta 6",
+   "title": "Packers news roundup: Micah Parsons roster spot, Zaire Franklin hint, GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaFJiaUZqbFVNcHBFemFFMXcyVXpuZkhtVWxVVHhtOFROdGNuM0YxZjVXM0NDeGNLYzBhbV91X1dIZjl3emN3RV9BTkxLZi1jbXpBZ0ZsdUVDZGFJZlNDODVPblVtcXBkTzRFLVR5STFYOU9xU3l6RFVGUHNld3NlYXpKN3VsMGRaWmxfdGJlLWZERTlhcFVYaVhwb0E?oc=5",
+   "outlet": "Lombardi Ave",
+   "via": "Google News",
+   "published": "2026-11-20T11:00:02+00:00",
+   "seen": "2026-11-20T11:05:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Packers news roundup mentions a GTA 6 reference alongside roster and hint items."
+  },
+  {
+   "id": "gta 6 players warned to turn off auto uploads or risk getting banned on xbox",
+   "title": "GTA 6 Players Warned To Turn Off Auto-Uploads Or Risk Getting Banned On Xbox",
+   "link": "https://www.purexbox.com/news/2026/11/gta-6-players-warned-to-turn-off-auto-uploads-or-risk-getting-banned-on-xbox",
+   "outlet": "Pure Xbox",
+   "via": "Pure Xbox",
+   "published": "2026-11-20T11:00:00+00:00",
+   "seen": "2026-11-20T11:05:51+00:00",
+   "summary": "You could be getting thirst-trapped. Xbox is handing out bans to GTA 6 players for uploading game captures that 'accidentally' breach its family and online safety guidelines. On by default, game captures automatically uploaded to Xbox Live servers are scanned for offensive imagery, including hate speech, drugs misuse, excessive violence, as well as nudity and sexual content. Read the full article ",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "GTA 6 players warned to turn off auto-uploads to avoid Xbox bans for captures breaching guidelines."
+  },
+  {
+   "id": "gta vi why do we love playing the outlaw",
+   "title": "GTA VI: Why do we love playing the outlaw?",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GSHFuZjMzMGFCVzJuVDhjczlaTGlfR0dDejRUbnZZMzR3c3lIUWZVblAzX0VLMWx4VmRQamJwZUhtV2NBT0VVQ21QQVBWcU9aamlWSGNZcVVSdUo0REF2dUpVdy1pZGRRcFUzYldZai1EMVFIcGRnWFhJNmQ?oc=5",
+   "outlet": "Aleteia EN",
+   "via": "Google News",
+   "published": "2026-11-20T10:56:50+00:00",
+   "seen": "2026-11-20T11:05:49+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA VI is discussed in terms of why players love playing the outlaw."
+  },
   {
    "id": "gta 6 is a movie and tv goldmine as players discover fast and furious cars and dexter s apartment",
    "title": "GTA 6 is a movie and TV goldmine, as players discover Fast and Furious cars and Dexter's apartment",
@@ -1988,6 +2066,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The GTA VI release excites gamers around the world, including in Mass."
+  },
+  {
+   "id": "big deal or no big deal panel discuss trump s greenland deal and gta 6 s record debut",
+   "title": "Big Deal or No Big Deal? Panel Discuss Trump’s Greenland Deal and GTA 6’s Record Debut",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSU5RV1hxbkozbUUxNUstNzRTNk5hN2hKdnkyNE1tWkZTS3A5b1VCZTNfallXUjM1ZDF6b1dHY3JRclJHZHkwdXVnWVBiOWFDcDM4QVpCbHN3S2hqZjMya2JtRUgxNF9RNVdyQWxpTkxIaE9VQmVRT0lJREo4d08wR2pkUTdOVmxSU2NVS1dKV3hQSU50eVZOMjllblV6YngwZzdIRExWcWhObGVRMXlJVTZHeV9iQVZ2T21wNjhqWG1JQQ?oc=5",
+   "outlet": "NTD News",
+   "via": "Google News",
+   "published": "2026-11-20T05:02:49+00:00",
+   "seen": "2026-11-20T11:05:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Panel weighs Trump’s Greenland deal against GTA 6’s record debut."
   },
   {
    "id": "grand theft auto vi releases full 34 song soundtrack album",
