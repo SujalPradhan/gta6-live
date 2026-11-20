@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T04:08:43+00:00",
- "started": "2026-11-20T04:08:37+00:00",
+ "updated": "2026-11-20T04:13:44+00:00",
+ "started": "2026-11-20T04:13:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T04:08:37+00:00"
+   "checked": "2026-11-20T04:13:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T04:08:38+00:00"
+   "checked": "2026-11-20T04:13:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T04:08:38+00:00"
+   "checked": "2026-11-20T04:13:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T04:08:38+00:00"
+   "checked": "2026-11-20T04:13:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T04:08:38+00:00"
+   "checked": "2026-11-20T04:13:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T04:08:39+00:00"
+   "checked": "2026-11-20T04:13:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T04:08:40+00:00"
+   "checked": "2026-11-20T04:13:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T04:08:40+00:00"
+   "checked": "2026-11-20T04:13:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T04:08:40+00:00"
+   "checked": "2026-11-20T04:13:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T04:08:40+00:00"
+   "checked": "2026-11-20T04:13:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T04:08:41+00:00"
+   "checked": "2026-11-20T04:13:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T04:08:41+00:00"
+   "checked": "2026-11-20T04:13:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T04:08:41+00:00"
+   "checked": "2026-11-20T04:13:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T04:08:41+00:00"
+   "checked": "2026-11-20T04:13:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "it s game time logitech lets staff play gta vi on launch day",
+   "title": "It's game time: Logitech lets staff play 'GTA VI' on launch day",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93Y1lKR1dBT09oQm1WTTFYV1VMM1dtb2QyM0t5bGdnM1FESnQtNkVsZ3g1MjdXMFZ5T2ROcWg5VFNOVnNJQ1BjT1Z0QjRUeXhHdFdnMmFhV0p0WjF4aGZOZGZIaUp6YXc?oc=5",
+   "outlet": "Reuters",
+   "via": "Google News",
+   "published": "2026-11-20T04:09:10+00:00",
+   "seen": "2026-11-20T04:13:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Logitech allows staff to play GTA VI on launch day."
+  },
+  {
+   "id": "fairport voice actor featured in grand theft auto vi 13wham tv",
+   "title": "Fairport voice actor featured in Grand Theft Auto VI - 13WHAM-TV",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTVhqZjdjVmZDR3hpVTNDTjFzbUdhaHVhcDVjX2VQbnVGLXRWc1o0MzBPams4Zm5qdUljZEhnbHNhU0h6cTgxampRWUFiZGhRSmtPa2d0dzdQME5udDVZUTRVU09xLVRkRFpaajJRTHd3MkRUN19hVjB1YjVkRmg4anlUOUNuX0hPQV9qNXh6TVhEazFBQTgwYUY1M1J5SlU2UVFZNHRWZzFuLUJiMXZEUGxFT3FteVowVHlsTkpRX1VHMmd3YTM4bm1jWXpmQQ?oc=5",
+   "outlet": "13WHAM-TV",
+   "via": "Google News",
+   "published": "2026-11-20T04:08:30+00:00",
+   "seen": "2026-11-20T04:13:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a Fairport voice actor is featured in Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 release de cix records new global data record of 33 03 tbit s",
+   "title": "GTA 6 Release: DE-CIX Records New Global Data Record of 33.03 Tbit/s",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUpxSThCckxEal80YkwwQlA4NExkZ290Zm9SMzMxd2xlLTFtbmlWWWQxRmhlWDdvZ2tsOGpEVURiRTBrYVdhR09GNWFjRGdQM1FFeHdwcHFncl9uYzBsdTFramRjQXZPcGIxai1oY1lDSVBfMVlXcWNDRENYcWU2S1dwUUFyUmJWRzRhZkJBSmVnNjMxbDExYWVoU1E4MkxpWjNV?oc=5",
+   "outlet": "Basic Tutorials",
+   "via": "Google News",
+   "published": "2026-11-20T04:05:25+00:00",
+   "seen": "2026-11-20T04:13:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports DE-CIX records a new global data throughput related to GTA 6 release."
+  },
   {
    "id": "gta 6 became the biggest launch in history it came close to the year s highest grossing film on its first day",
    "title": "GTA 6 became the biggest launch in history: It came close to the year's highest-grossing film on its first day.",
@@ -116,6 +155,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 became the biggest launch in history, approaching the year's highest-grossing film on its first day."
+  },
+  {
+   "id": "biggest entertainment launch ever gta 6 pulls in over 2 billion on day one industry estimate says",
+   "title": "Biggest entertainment launch ever? GTA 6 pulls in over $2 billion on day one, industry estimate says",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb0dROXZfNkxUV1BoQzNraVI0Q3VKZlJJWjJzYlJsNklibVJsRHlScFpwQV9wY0RON09uYTlXUGRfRUxPaWpwTnZUbXBHb0Y4RFIyMzdlTUhWMEx1aUdnUXdHTDhOOEZYdGFyOTJOVW9VX1doSFBrSkpBUkQ3RlpaSFhpbG5vSXRSdTdCUFVFQ0FGOVlORW4tU2ZuVzBiLVdheW1RN1VWb1VNcXhsMWhKVXVaa3ZheGtlWnlRNXlLN05Lel9qd21VUU5mRzJ2S0RDZGV6dnFYNXlXbmo5eXh4UHhRR0VpUHZ0QnpocdIB8gFBVV95cUxOS1V5WWZ0RnBYcW9VZkxSaWpEeTlnRjBSWG5rdDh1RUViVUlYX25KSTVKVXNZNTdUZjhnOFFyaW1maWNMOE5hWDRzbW1tMUhTaFI1OVNZcC1sVzlJeWxxeFptRUVLQlFpa05uMTNSc1EzY1Zhb3FjOGFhV2g2WEhWNG0zQ2dzeElYQlU5bTlyWTFmVUJpNk5TbDNITnNBRUVZbDdKN0t6bWF5XzQ0c2V0UThzZEU1WTgzZFFpN0tVNlNNeUhEWjVlZ2RyczBJYXBGMmU1cHU0a0pDd05sTUZGVWpZNGtnaktqaUd6cmRpM1czQQ?oc=5",
+   "outlet": "The Statesman",
+   "via": "Google News",
+   "published": "2026-11-20T03:58:00+00:00",
+   "seen": "2026-11-20T04:13:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports industry estimates claim GTA 6 could be an enormous entertainment launch with over two billion on day one."
   },
   {
    "id": "does grand theft auto vi live up to the 13 year wait newsapan check the comments section for the full story",
