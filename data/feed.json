@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T14:01:59+00:00",
- "started": "2026-11-20T14:01:52+00:00",
+ "updated": "2026-11-20T14:07:04+00:00",
+ "started": "2026-11-20T14:06:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T14:01:52+00:00"
+   "checked": "2026-11-20T14:06:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-20T14:01:52+00:00"
+   "hits": 93,
+   "checked": "2026-11-20T14:06:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T14:01:53+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T14:07:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T14:01:53+00:00"
+   "checked": "2026-11-20T14:07:00+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T14:01:54+00:00"
+   "checked": "2026-11-20T14:07:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T14:01:54+00:00"
+   "checked": "2026-11-20T14:07:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 22,
-   "checked": "2026-11-20T14:01:54+00:00"
+   "hits": 21,
+   "checked": "2026-11-20T14:07:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:01:54+00:00"
+   "checked": "2026-11-20T14:07:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T14:01:55+00:00"
+   "checked": "2026-11-20T14:07:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 20,
-   "checked": "2026-11-20T14:01:55+00:00"
+   "hits": 21,
+   "checked": "2026-11-20T14:07:00+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:01:56+00:00"
+   "checked": "2026-11-20T14:07:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T14:01:56+00:00"
+   "checked": "2026-11-20T14:07:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T14:01:56+00:00"
+   "checked": "2026-11-20T14:07:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T14:01:56+00:00"
+   "checked": "2026-11-20T14:07:01+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi makes more than 2 3 billion in its first day since launch",
+   "title": "Grand Theft Auto VI makes more than $2.3 billion in its first day since launch",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOREhzSU55VExLbjdHdURYTkZFTkpoNGpTQ1QzaEkyaU5ydk5oLXFpZ0M5UkVucE9Cek9tMDJ2Q3hJak9DeXU2M1B5bXBnMUZUWHNFVzNlbEs0b0lyWC1mSHdxVmx0cmRwT0Q3a2xWMWJxc1lhS096d3VJX3dfaXY1MUI4eXRfNmd5LVNHdVprQ0VuM0NQNFRpRkR5NmdfZ3R0V244Xw?oc=5",
+   "outlet": "Washington Examiner",
+   "via": "Google News",
+   "published": "2026-11-20T14:00:08+00:00",
+   "seen": "2026-11-20T14:06:59+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI earned more than $2.3 billion on its first day after launch."
+  },
+  {
+   "id": "i disgraced myself at the vice city zoo and it s the one thing i ll never do again in gta 6",
+   "title": "I Disgraced Myself at the Vice City Zoo, and It’s the One Thing I’ll Never Do Again in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbm1aR0hjeFpFTDZpZ3dTbW1qUlNQMGhCRHFFaE8zQW5HdGZSTXRDcEpuQnRab0hEaTdONDBzUFJUWGVZN3BVbjdZNUtIZlNzSmdKRFYzZEs4TjZPRkg3amNMdThWYW9UZTIwRVVfSU1QQjU2YVg5VWE5N3RBYm82UUZiby0?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-20T14:00:00+00:00",
+   "seen": "2026-11-20T14:06:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a personal admission of disgrace at the Vice City Zoo in GTA 6."
+  },
+  {
+   "id": "it s unbelievably hard to achieve cyberpunk 2077 boss pours praise on masterpiece gta 6",
+   "title": "'It's Unbelievably Hard to Achieve': Cyberpunk 2077 Boss Pours Praise on 'Masterpiece' GTA 6",
+   "link": "https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-20T14:00:00+00:00",
+   "seen": "2026-11-20T14:07:00+00:00",
+   "summary": "Night City meets Vice City. From Night City to Vice City, the boss of CDPR has nothing but nice things to say about GTA 6 . With the PS5 release of Cyberpunk 2077 , the Polish studio established itself as an open world big boy, having previously released one of the greatest RPGs ever in The Witcher 3 . Read the full article on pushsquare.com",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the Cyberpunk 2077 boss praising GTA 6 as a masterpiece and noting it as unbelievably hard to achieve."
+  },
   {
    "id": "how to lose the cops fast in gta 6",
    "title": "How to Lose the Cops Fast in GTA 6",
@@ -1507,6 +1546,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The article discusses GTA 6’s 30 FPS lock affecting a PC gamer and a TV setting that changed the view."
+  },
+  {
+   "id": "gta 6 s 30 fps lock broke my brain until i turned on the one tv setting i swore i d never touch",
+   "title": "GTA 6’s 30 FPS lock broke my brain — until I turned on the one TV setting I swore I’d never touch",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNjBUZ1JON3E5dTFPRmxVcjJYdmY1Nnp5VmpWNTQwYjc4VER0YUNXTzRSaklyNGRvcVZpODVNNjVtNGFnTzh5TVlIemtJWlI2Rk40dzRsVmdwVzdDUGlFOGl0SDBIa2c1S0ZsZFpIZ0F3WXNpbl9May1ERC1YRFc0Qk5XWUpiNUdtTDFEcC0yQUo?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-20T11:51:30+00:00",
+   "seen": "2026-11-20T14:06:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6’s 30 FPS lock affected the author until they enabled a specific TV setting they previously avoided."
   },
   {
    "id": "after 5 hours with gta 6 i ve already made 3 major mistakes here s how to avoid them",
@@ -11348,6 +11400,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story states Nuggets’ Nikola Jokic will be playing instead of GTA 6."
+  },
+  {
+   "id": "gta vi first day sales 2 36b estimate for take two",
+   "title": "GTA VI First-Day Sales: $2.36B Estimate for Take-Two",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0dVLVVHSENmN0FCaTZuVWNZNVJBWVRnam13cnpJbUNGSFZFSnNYTkxmTUZ2UzBTN3czdzN5NXpEZjctTXNIb3hnOG5pczdTemxDMDRsRHgtT1BPQXR5QjZkV3VCNmFxbDMyeF9aRmJuUjQtMTM0SGxuZlBrYW11YnljcHZJZHZNcGtvMU1sN0Y1QQ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-19T17:28:43+00:00",
+   "seen": "2026-11-20T14:07:00+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports an estimated first-day sales figure of 2.36 billion for GTA VI cited for Take-Two."
   },
   {
    "id": "is gta 6 about to break the internet logitech s gaming boss weighs in",
