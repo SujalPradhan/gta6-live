@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:44:28+00:00",
- "started": "2026-11-20T20:44:21+00:00",
+ "updated": "2026-11-20T20:49:29+00:00",
+ "started": "2026-11-20T20:49:22+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T20:44:21+00:00"
+   "checked": "2026-11-20T20:49:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T20:44:21+00:00"
+   "checked": "2026-11-20T20:49:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T20:44:22+00:00"
+   "checked": "2026-11-20T20:49:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:44:23+00:00"
+   "checked": "2026-11-20T20:49:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:44:23+00:00"
+   "checked": "2026-11-20T20:49:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T20:44:23+00:00"
+   "checked": "2026-11-20T20:49:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T20:44:23+00:00"
+   "checked": "2026-11-20T20:49:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:44:23+00:00"
+   "checked": "2026-11-20T20:49:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T20:44:23+00:00"
+   "checked": "2026-11-20T20:49:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T20:44:24+00:00"
+   "checked": "2026-11-20T20:49:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:44:24+00:00"
+   "checked": "2026-11-20T20:49:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T20:44:24+00:00"
+   "checked": "2026-11-20T20:49:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T20:44:24+00:00"
+   "checked": "2026-11-20T20:49:26+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T20:44:25+00:00"
+   "checked": "2026-11-20T20:49:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 official sales numbers break records with 32 5 million pre release units sold generating 3 79 billion",
+   "title": "GTA 6 Official Sales Numbers Break Records With 32.5 Million Pre-Release Units Sold, Generating $3.79 Billion",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeEIyS1A3d2ViOGs2bV8yel9fY190b0RVbnk1NzcwRzI4Zk1ScF9UbU53UWVmc19fRzVIMVc0VGpqR2lLaWltY05QWlZIYWlhZEdESXJmUEd6bWJpNkI0QWhUdmQwYnBLbDVQb0hXaHFNWUVQMkdQYU1pRExwcDdvSGRnT0NRVFJadzBDOTFVVnFhcTF6dFMwLTdwa2R3YVpSbmxqNHFKb2FoOUU0elBkVndVN1VTN1dDRVVnWHlOVnQ?oc=5",
+   "outlet": "Xbox Achievements",
+   "via": "Google News",
+   "published": "2026-11-20T20:43:46+00:00",
+   "seen": "2026-11-20T20:49:23+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 official pre-release sales numbers set records, reporting 32.5 million units sold and generating $3.79 billion according to the headline."
+  },
+  {
+   "id": "gta 6 has a secret haunted hotel that looks straight out of silent hill here s how to find it",
+   "title": "GTA 6 Has a Secret Haunted Hotel That Looks Straight Out of Silent Hill. Here's How to Find It.",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0xmSWoxTm84dEhWLUFZZUNBVS1iTTZ4UnZjNk9mYmx3dEZyV1dJZENsZkRGT2pSM0FnLXljMkhLUXR0NVJzTHpBTHNNWEtTSVdYcFRMSHYzMWVwVWNUWkFtdFVJTFlYNmpjRjM4MXlmdUVlcVdhQV8tREZfemZISW9iNTJNQzJac3hZeVpWX3hRZ2kxZUhLLWR3T1VzSjBKdmNmQmw3SlB3S0JuVUJfT1NKWnN4cXdfd2lMOWdSeEJYenc?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-20T20:43:44+00:00",
+   "seen": "2026-11-20T20:49:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 reportedly has a secret haunted hotel that resembles Silent Hill and includes guidance on finding it."
+  },
+  {
+   "id": "streaming gta 6 turn this setting on so you don t get copyright strikes",
+   "title": "Streaming GTA 6? Turn this setting on so you don't get copyright strikes.",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhSlMtczVSbUdmbjcxaDRSc05PaFJQTnlkc0ZDNy1LTjNQTHp5Q2VHNERDRTl3UzlqYmluV0NMWl9zZDRWdkF0bmNNN0xCYjBYNTZuWjdnS09aLUZYbEhoRjlBM2hPeTNGNDFJSTdjcGYwcmF3SDVhakJxanM?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-20T20:42:19+00:00",
+   "seen": "2026-11-20T20:49:22+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Streaming GTA 6 recommends turning a setting on to avoid copyright strikes."
+  },
   {
    "id": "take two s grand theft auto vi hits nearly 4 billion in sales on launch day",
    "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
@@ -129,6 +168,45 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Grand Theft Auto VI generates $3.79 billion in day one sales per The Outerhaven."
+  },
+  {
+   "id": "grand theft auto vi pulls in 3 79 billion in one day because of course it did",
+   "title": "Grand Theft Auto VI Pulls In $3.79 Billion in One Day, Because Of Course It Did",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREZydnd1Z2s3ZlAtUzZ2Uklzc19hU2JvSTYxb2diZ05zNVd2UnREYzNYb1B4bHA0dzFSYkVmLW5vR0tuWWIzZFlwNEVzcFNNVjNnbVdVMWNYYTd1WXNubHcteHo1TDJFcUdfQzZhYWV5QzFUNlpERnk3dGhrNFVDUXZOUQ?oc=5",
+   "outlet": "The Outerhaven",
+   "via": "Google News",
+   "published": "2026-11-20T20:40:06+00:00",
+   "seen": "2026-11-20T20:49:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI pulls in $3.79 billion in one day, as suggested by the headline."
+  },
+  {
+   "id": "gta 6 breaks records with 3 79 billion first day sales",
+   "title": "GTA 6 Breaks Records With $3.79 Billion First-Day Sales",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWnBDNlhrcmtyUlkzWnBCNFJWZHZicVBmdHVKNE5ibmhBYXRaWWNDT1htVmtWd3FraGtDamNjN0FINWZrVHlLeDctRHd4UWEwZjVJU3o3amUwSU9OVHNPTXJPMGJ1VWVSU0I1ZEpQMDh6UWdIV29TT0VrbmVnendZTFNwd0NOeEJfMk1tVy11M2xZYlp3Ql9fTjJfVjRDN3Zy?oc=5",
+   "outlet": "700WLW",
+   "via": "Google News",
+   "published": "2026-11-20T20:39:00+00:00",
+   "seen": "2026-11-20T20:49:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 breaks records with first-day sales totaling $3.79 billion according to the headline."
+  },
+  {
+   "id": "every song on grand theft auto 6 the album ranked",
+   "title": "Every song on ‘Grand Theft Auto 6: The Album’ – ranked!",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzlEajNrLXdGN3FLQnlkZEg1RmRmNjZQcGRxdWtEZWczQW5fNVBMeWdfMTlJX2VyN1J2c2tsMHVLVlZDRk1qNWpOa19ERXozS1Y1U2pydkZFZS1VMjRIVW5zZ1Fyb1duQnd1ajZST1F2UF8xNEpCQVljdVZWS3I4Y2RFd1dYWnhzUUNyUF96T0xnWkdBMGF1VDlsNkhXNTZWd1lZbUZGZ1FpVzFscFE?oc=5",
+   "outlet": "NME",
+   "via": "Google News",
+   "published": "2026-11-20T20:37:30+00:00",
+   "seen": "2026-11-20T20:49:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Every song on GTA 6: The Album is ranked in the listing."
   },
   {
    "id": "gta vi breaks entertainment records with historic 3 9 billion launch",
@@ -168,6 +246,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "GTA 6 has taken over; MarketWatch questions if it is too late to buy the developer’s stock."
+  },
+  {
+   "id": "take two says gta 6 made 79 billion on day one a record for entertainment",
+   "title": "Take-Two Says GTA 6 Made .79 Billion on Day One, a Record for Entertainment",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PdTRiQm1UUTIxdmE1YWFiemRZandhb1EyNVdvb3RZSjlXdXZyN3pHLUF5NE51R3RzcGxwV0FNR2pYQzdUWEoxVjRVVHhZZ0ZLZjMwRkx5dWxZWmpmSW11TnhCcy1FTG5ieHotdFhscjNxbnJR?oc=5",
+   "outlet": "Happy Gamer",
+   "via": "Google News",
+   "published": "2026-11-20T20:30:38+00:00",
+   "seen": "2026-11-20T20:49:23+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Take-Two says GTA 6 made .79 billion on day one, described as a record for entertainment."
   },
   {
    "id": "gta 6 how to listen to the radio outside of a vehicle",
@@ -1065,6 +1156,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "GTA VI players spot Sunshine Skyway Bridge and Lakeland's Lake Mirror."
+  },
+  {
+   "id": "grand theft auto vi players divided over disgusting lucia twist",
+   "title": "'Grand Theft Auto VI' Players Divided Over \"Disgusting\" Lucia Twist",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmTm5VSThoXzI3TmZBVWh5TFotNDJ4OVQyMlNpcHdlMnNIcjBqdGI4Y1k0MHZBdDlwRDdiUlN0U2NTUGUxaEtibkp6SWpTWnIxcEdtWGNEXzZHZXFR?oc=5",
+   "outlet": "MovieWeb",
+   "via": "Google News",
+   "published": "2026-11-20T19:41:30+00:00",
+   "seen": "2026-11-20T20:49:22+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA VI players are divided over a 'disgusting' Lucia twist."
   },
   {
    "id": "gta 6 earns 3 79 billion in one day as the biggest entertainment launch in history",
