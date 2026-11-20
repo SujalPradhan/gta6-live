@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T10:30:45+00:00",
- "started": "2026-11-20T10:30:39+00:00",
+ "updated": "2026-11-20T10:35:54+00:00",
+ "started": "2026-11-20T10:35:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T10:30:39+00:00"
+   "checked": "2026-11-20T10:35:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-20T10:30:40+00:00"
+   "hits": 90,
+   "checked": "2026-11-20T10:35:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T10:30:40+00:00"
+   "checked": "2026-11-20T10:35:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:30:40+00:00"
+   "checked": "2026-11-20T10:35:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T10:30:41+00:00"
+   "checked": "2026-11-20T10:35:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T10:30:41+00:00"
+   "checked": "2026-11-20T10:35:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T10:30:41+00:00"
+   "checked": "2026-11-20T10:35:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T10:30:41+00:00"
+   "checked": "2026-11-20T10:35:51+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T10:30:41+00:00"
+   "checked": "2026-11-20T10:35:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T10:30:42+00:00"
+   "checked": "2026-11-20T10:35:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T10:30:42+00:00"
+   "checked": "2026-11-20T10:35:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T10:30:42+00:00"
+   "checked": "2026-11-20T10:35:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:30:42+00:00"
+   "checked": "2026-11-20T10:35:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T10:30:43+00:00"
+   "checked": "2026-11-20T10:35:52+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 recouped its costs on launch day and tripled gta 5 s record",
+   "title": "GTA 6 recouped its costs on launch day and tripled GTA 5’s record",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43d2xJcXY3VUlKVEJOZ21OM0JFUmU3Z2FwcnNJOGlvWE9hUUpqSXh3RTE1MTFnd25qY0d1bEJmWWRDYXpGbmIzdHZHQ2UyZ2xpdzRFZGE2bTVBNFE?oc=5",
+   "outlet": "mobidevices.com",
+   "via": "Google News",
+   "published": "2026-11-20T10:31:03+00:00",
+   "seen": "2026-11-20T10:35:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 recouped its costs on launch day and tripled GTA 5’s record."
+  },
+  {
+   "id": "gta 6 has a hidden first person mode waiting to be unlocked here s how",
+   "title": "GTA 6 has a hidden first-person mode waiting to be unlocked - here's how",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOG0wWGJMbTRUYXpNcHU5MFRmNmtxVTg4V09QbDZtdTVSTE84aXp5a1A0S1o0T3hGWmQ5VVNtbnRwMzd3Q25nZExDbWxzTmV5d05kaElMVGpiSTNtRklsZE9hQVBUZnVxSFBpejUtQUdmV0NUcGtfWDF5S0xlTlI5SGIzYTg0RXdhMUNnUmhmdw?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-20T10:30:00+00:00",
+   "seen": "2026-11-20T10:35:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 has a hidden first-person mode waiting to be unlocked and explains how."
+  },
   {
    "id": "how to steal peggy s scooter in gta 6 free car reward",
    "title": "How to Steal Peggy’s Scooter in GTA 6—Free Car Reward",
@@ -129,6 +155,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story provides a guide on how to enable auto-drive in GTA 6, including cinematic view and speed options."
+  },
+  {
+   "id": "gta 6 mandy actor officially confirms her identity after character becomes breakout hit",
+   "title": "GTA 6 Mandy Actor Officially Confirms Her Identity After Character Becomes Breakout Hit",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pZ1pfQnk2S1QxSEx5UWRLYXU2UERTZzdxOUtTd0c2ck5sMkZYNU9GYTdQWjM2S0hoUFVXWjNaSmlUeVFxZkQzQW53b2NsTHYtUjZkWVBWa2xNNjlMLWdqSA?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-20T10:27:56+00:00",
+   "seen": "2026-11-20T10:35:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states that the Mandy actor officially confirms her identity after the character becomes a breakout hit."
   },
   {
    "id": "beyond astonishing that schools are encouraging children to play gta 6 christian group says",
