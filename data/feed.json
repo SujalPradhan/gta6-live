@@ -1,109 +1,122 @@
 {
- "updated": "2026-11-20T08:40:07+00:00",
- "started": "2026-11-20T08:40:04+00:00",
+ "updated": "2026-11-20T08:45:12+00:00",
+ "started": "2026-11-20T08:45:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T08:40:05+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-20T08:45:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-20T08:40:05+00:00"
+   "hits": 95,
+   "checked": "2026-11-20T08:45:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-20T08:40:06+00:00"
+   "checked": "2026-11-20T08:45:08+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T08:40:06+00:00"
+   "checked": "2026-11-20T08:45:08+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T08:40:06+00:00"
+   "checked": "2026-11-20T08:45:08+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T08:40:06+00:00"
+   "checked": "2026-11-20T08:45:08+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T08:40:07+00:00"
+   "checked": "2026-11-20T08:45:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T08:40:07+00:00"
+   "checked": "2026-11-20T08:45:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T08:40:07+00:00"
+   "checked": "2026-11-20T08:45:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T08:40:07+00:00"
+   "checked": "2026-11-20T08:45:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T08:40:07+00:00"
+   "checked": "2026-11-20T08:45:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T08:40:07+00:00"
+   "checked": "2026-11-20T08:45:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T08:40:07+00:00"
+   "checked": "2026-11-20T08:45:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T08:40:07+00:00"
+   "checked": "2026-11-20T08:45:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 why you shouldn t spend too much time making money early on",
+   "title": "GTA 6: Why you shouldn't spend too much time making money early on",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDdKc0RoTmU4UjlwbnlXcU0zMGdKdVE4b3JWTkVNdjlnYUdhNFZWdVI4ay1TYUpLRWxQX01EcUlhOU4yclNWaEdwWUgyUXhxUHg3TW4zVUtkdjRlQ0NYMTRtVE5PWDdEUll0RWtTMTFHZ0N5TDl3dVJTMk41VGh4NlVBMnZhR19JbXpzVmNWOGU0UU5TYkRTNTcxYzk1b1NNR2cwUmJJN1duQl9uNlRn?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-20T08:32:00+00:00",
+   "seen": "2026-11-20T08:45:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story warns against spending too much time making money early in GTA 6."
+  },
   {
    "id": "breaking entertainment records as gta 6 earns rs 22 000 crore and triples gta 5 opening day haul",
    "title": "Breaking entertainment records as GTA 6 earns Rs 22,000 crore and triples GTA 5 opening day haul",
@@ -285,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A decorated Polish composer is featured in GTA VI's soundtrack."
+  },
+  {
+   "id": "stephen a smith rips miami heat superstars over gta vi comments",
+   "title": "Stephen A. Smith rips Miami Heat superstars over GTA VI comments",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkEzR0hFQ2Z1WDExTFcxdFdYZFFVTjZZUnVVR1UyVGhvZ2hZVmlYNk1IMVdZU3JSOFlqd0JVRVI4aWxVeElqdzltVmw5ZmdYX2lBVXRvWmhSUHFwM25fcWVvd29LU0pJSGtZTWMtN3F6YmpSYkZIRTdYUFlvZG9uVmZ2YU14RnAxM0xhNEtRMUtLR2V5WXo2dk5OQTAyQkxoYlBoczVB?oc=5",
+   "outlet": "BasketNews.com",
+   "via": "Google News",
+   "published": "2026-11-20T07:43:00+00:00",
+   "seen": "2026-11-20T08:45:07+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The piece reports Stephen A. Smith criticizing Miami Heat superstars over GTA VI comments."
   },
   {
    "id": "gta 6 sets estimated launch record with 2 36 billion in sales",
@@ -584,6 +610,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Jimmy Kimmel comparing the Trump administration to a GTA VI crime spree and calling it incredible."
+  },
+  {
+   "id": "i am worried penny hardaway fears gta 6 could become a major distraction for his memphis players",
+   "title": "“I am worried” – Penny Hardaway fears GTA 6 could become a major distraction for his Memphis players",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVltaFN5U25MeV9JNFZWSHhXdlBKNXRzeEkyRlhibGIzWHEwdDZxVGZFTmhPeWJBM0NELVhqNjl0LUJjcms1MC1tbWZ4Z3NXaDBiOUVPUXltVjJjXy1JV21zLVFiOWlQS0V0M2ZLVVE0Ukt6MXZQX3JvcHZxRGRhOWczYXd2TGs?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-20T06:31:25+00:00",
+   "seen": "2026-11-20T08:45:07+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Penny Hardaway expresses worry that GTA 6 could be a major distraction for his Memphis players."
   },
   {
    "id": "gta 6 digital release a write off for shops says trader",
@@ -5082,6 +5121,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Nacionale reports Take-Two stock slipping on GTA 6 launch day after a jump on reviews the day before."
+  },
+  {
+   "id": "take two stock falls 3 7 on gta 6 launch day after a 6 jump on reviews the day before",
+   "title": "Take-Two stock falls 3.7% on GTA 6 launch day after a 6% jump on reviews the day before",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWd6M3hhVktnRHotdVc2NERyaFZrdVI2Mkxuc1VfdjAybFZoUFBERjhvMnU1Y2l0aHNYME94Q0JiWjlyN3VhaEpNRE1GM2lySnVmaThoRUhDXzVVU21rTlpkcnNtQ3lkc2huZVNScVpXOXNCZTFqSGpBc1hvcXJCdjhyYmdxVVZ0bFJObkZzOF9mX3lYLTlqbWJ5OFVfaVB0VDVuUjRtRnpqZw?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-19T20:38:22+00:00",
+   "seen": "2026-11-20T08:45:08+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Take-Two stock changes in response to GTA 6 launch day and reviews movement."
   },
   {
    "id": "the far right is the butt of the joke in gta vi they re angry for an entirely different reason",
