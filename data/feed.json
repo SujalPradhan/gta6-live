@@ -1,109 +1,161 @@
 {
- "updated": "2026-11-20T14:11:59+00:00",
- "started": "2026-11-20T14:11:54+00:00",
+ "updated": "2026-11-20T14:17:04+00:00",
+ "started": "2026-11-20T14:16:57+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T14:11:54+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-20T14:16:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 92,
-   "checked": "2026-11-20T14:11:54+00:00"
+   "hits": 93,
+   "checked": "2026-11-20T14:16:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T14:11:55+00:00"
+   "checked": "2026-11-20T14:16:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T14:11:55+00:00"
+   "checked": "2026-11-20T14:16:58+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T14:11:55+00:00"
+   "checked": "2026-11-20T14:16:59+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T14:11:55+00:00"
+   "checked": "2026-11-20T14:16:59+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T14:11:56+00:00"
+   "checked": "2026-11-20T14:16:59+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:11:56+00:00"
+   "checked": "2026-11-20T14:16:59+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-20T14:11:56+00:00"
+   "checked": "2026-11-20T14:17:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T14:11:56+00:00"
+   "checked": "2026-11-20T14:17:00+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:11:57+00:00"
+   "checked": "2026-11-20T14:17:00+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T14:11:57+00:00"
+   "checked": "2026-11-20T14:17:00+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T14:11:57+00:00"
+   "checked": "2026-11-20T14:17:00+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T14:11:57+00:00"
+   "checked": "2026-11-20T14:17:01+00:00"
   }
  },
  "items": [
+  {
+   "id": "video games like grand theft auto vi may have surprising brain benefits",
+   "title": "Video games like ‘Grand Theft Auto VI’ may have surprising brain benefits",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFJ4SDlEYWhtd0xJcWNCbWtpZUp0MHZ4Q2YyWTgtVEhYSF96LXNWLW8weV9MNkplbVY1dUFnUHB6UjRuNTlkYVBnVmZlWjlqQ1BkcV9wTTVvOTEzZmtyZl9xTV96SFNPOGpjelp2VWJqeUVIZ25VbHhnSXdkdDVCazVvcTU4QUg4N3lWU0VYaEUyWm1WR0R4eVo3dTRTNGRUakJzVko2UFZjUUJvdy1JU0RpaVREcTFRTTUtN2VpR0szdw?oc=5",
+   "outlet": "The Washington Post",
+   "via": "Google News",
+   "published": "2026-11-20T14:13:03+00:00",
+   "seen": "2026-11-20T14:16:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports possible brain benefits from playing video games like Grand Theft Auto VI."
+  },
+  {
+   "id": "gta vi is causing crashes on ps5 possibly due to overheating",
+   "title": "GTA VI is causing crashes on PS5, possibly due to overheating",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmI4WndfdktIblZ2ankzejlEcFA3cjhLRlVtLXMxbWVxckw5WnpIMEdjYmZIWnpiRC1fQ3hzS1lDakMycFZabzR2SnI4OFlUT2d0WWt1RlhBaXExc01wbENOTkZsNnRmdnhBTXFOYUY2S0VYR1NsczJRbkFiM2tzTjFfN1BtblJqTGpDak1WRGctUzV5RW9tWEh3ZkVoUmthSDI1R1NiQzRlZGV2a3Y0?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-20T14:12:33+00:00",
+   "seen": "2026-11-20T14:16:57+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports GTA VI causing PS5 crashes potentially due to overheating."
+  },
+  {
+   "id": "gta 6 unveils soundtrack album game includes surprise songs and cameos",
+   "title": "GTA 6 Unveils Soundtrack Album, Game Includes Surprise Songs And Cameos",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVdadjl1bmZNSVMxZDU3MV9qVFJ4ejFtU0FTcDBjSVdwRDg4Ukh2NWJMLVRXZGdJR2x6U21MS3RuYkdjWXdYbkc5MmVJcExMOTV4VXdWQkRHazljNEJzNi1FdmVpb0MwR2ZJSlBIdlRsbkc1Mkpxb2N0UHZDc2R2N2pSb1ppRjhVcDJ5NGNRYWkzLVZYaTRvTFlJTHd6OThyY29yeUJjY1hWUQ?oc=5",
+   "outlet": "Stereogum",
+   "via": "Google News",
+   "published": "2026-11-20T14:12:00+00:00",
+   "seen": "2026-11-20T14:16:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 revealing a soundtrack album with surprise songs and cameos."
+  },
+  {
+   "id": "gta 6 vehicle list which types are confirmed likely or still unverified",
+   "title": "GTA 6 vehicle list: which types are confirmed, likely or still unverified",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlNzWVREdVhERzFFTnNwc3ZXNWJqYWdxcnE4eS1qXzhDWlBwNDFoOFpFQUhpX1c0OFNKeHBQZGdBVFBCb09YZW9oSFdkckMyQXIwcXlNWTBiWVFpaTUyenkzMi13SGpnaXFZVk9SUG45aUZVWGxxbU5GbHB4alFJbVlmamV3a0NDcnNnLV9Zc3VfbWNUbWc?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-20T14:10:27+00:00",
+   "seen": "2026-11-20T14:16:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports which GTA 6 vehicle types are confirmed, likely, or unverified."
+  },
   {
    "id": "how to complete brooks boatworks in gta 6 safe code location explained",
    "title": "How To Complete Brooks Boatworks in GTA 6—Safe Code Location, Explained",
@@ -129,6 +181,45 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story describes the best way to break into Mile Zero Air Station in GTA 6 and what's inside."
+  },
+  {
+   "id": "a playable gta 6 build could leak but there s a 15 million catch",
+   "title": "A Playable GTA 6 Build Could Leak, But There’s A $15 Million Catch",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTQzUHlYaE5BYjVrTlBScUlIMkZFeS16ZUlHWTB2OXZYc21acVBjb0luS3RQQURoYl9lb3Jkd0d2dG9MYWNUZVJHc0JYRmkzbTBxMkl4VURXTjBwMGJPRUlPckR2bHlJTS1YOXJqcEtZd0tMYXA5X3dhQjZhM0pQYTBienJISzRhRTREN1hXSmRDRE9zZmVtQ0U5MHRkbWM?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-20T14:08:49+00:00",
+   "seen": "2026-11-20T14:16:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports a playable GTA 6 build could leak with a $15 million catch."
+  },
+  {
+   "id": "gta 6 was made by humans but its publisher is all for using ai on admin",
+   "title": "GTA 6 was made by humans, but its publisher is all for using AI on admin",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2JTQi1pMW1qUVE3bzlINkZyTkxic1NQMUhpQmFrOFRHbWRqUnlqeFRXaVZENUdsLTQzVFlPRHZiQVVhNm9ZN08xYkhsY2hybG1SYnBkdnVZNFY5MzRseUNPM3RDaUVsZmdsUkJVZTQ2VHBOZHhnT01zYVZ3NGp0VkkxUU1aUkhPS3lQYXNyQ1FteTMzS25sdmFR?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-20T14:06:00+00:00",
+   "seen": "2026-11-20T14:16:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 was made by humans but its publisher supports using AI on admin tasks."
+  },
+  {
+   "id": "the best early game gta 6 vehicle isn t hidden or expensive",
+   "title": "The Best Early-Game ‘GTA 6’ Vehicle Isn’t Hidden Or Expensive",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0NPQmowSTBRTEFXSWtBRlFOZmVQWU1WbGxCeDc5My1GWXRfRGQ5dHp1OEtISDRpZ1FSSVliVXl3dElMdnNOWTV3REVZblhFNnJ2VDY3cmFqZmdUYkFfeFNvQmZrOTlDNF9BMV9EMVhVaFdYU3dfaDEwaW1JSHpueg?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-20T14:04:34+00:00",
+   "seen": "2026-11-20T14:16:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the best early-game GTA 6 vehicle isn’t hidden or expensive."
   },
   {
    "id": "grand theft auto vi makes more than 2 3 billion in its first day since launch",
@@ -181,6 +272,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story claims GTA 6 is the biggest entertainment launch in history."
+  },
+  {
+   "id": "gamestop is not a meme stock says analyst sees over 22 upside from collectibles push and gta vi led growth",
+   "title": "GameStop Is ‘Not A Meme Stock,’ Says Analyst, Sees Over 22% Upside From Collectibles Push and GTA VI-Led Growth",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbnVVN0duTFZaam1zaWhTRGtHVnl5Rmp0VzZLNHY1alk4b2ZSMV9iMlBiSFN6TFBSZ2JWT1dqVm1JSXkwY1RPOWk0SDN4cGJzakxkVjg4X01tLUlyZWgwbXlvQm5JQ05GQkpYUEwzbE9KU21pb1VJdll5SjRLanIteFZNSUhDUklhdDF6Y1pkN1BldG9rVWxBN1c4WHVVNjFvWHhUUlJFNzY3MmMxMEpWdGNONDluUkZVOUk3YXc0UF9NSm9YNHY2XzBlR0JHWmZHM1lBa2hfeEozZXQwVjlHUUNqTGcxTk9wZm9JTUhDQ28?oc=5",
+   "outlet": "Benzinga",
+   "via": "Google News",
+   "published": "2026-11-20T13:55:21+00:00",
+   "seen": "2026-11-20T14:16:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GameStop is not a meme stock and sees upside from collectibles and GTA VI-led growth."
   },
   {
    "id": "how to lose the cops fast in gta 6",
@@ -753,6 +857,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The government says GTA 6 is a British success story, but the prime minister won’t be playing it."
+  },
+  {
+   "id": "gta 6 drives spike in download demand as estimated sales top 2 3bn",
+   "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-20T13:08:30+00:00",
+   "seen": "2026-11-20T14:16:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 drives a spike in download demand with estimated sales over $2.3 billion."
   },
   {
    "id": "vice album reviews november 20 grand theft auto vi atlas sound sheherazaad take that and more",
