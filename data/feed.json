@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T23:35:20+00:00",
- "started": "2026-11-20T23:35:14+00:00",
+ "updated": "2026-11-20T23:40:23+00:00",
+ "started": "2026-11-20T23:40:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:35:15+00:00"
+   "checked": "2026-11-20T23:40:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:35:15+00:00"
+   "checked": "2026-11-20T23:40:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:35:16+00:00"
+   "checked": "2026-11-20T23:40:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T23:35:16+00:00"
+   "checked": "2026-11-20T23:40:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T23:35:16+00:00"
+   "checked": "2026-11-20T23:40:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T23:35:16+00:00"
+   "checked": "2026-11-20T23:40:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T23:35:17+00:00"
+   "checked": "2026-11-20T23:40:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T23:35:17+00:00"
+   "checked": "2026-11-20T23:40:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T23:35:17+00:00"
+   "checked": "2026-11-20T23:40:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T23:35:17+00:00"
+   "checked": "2026-11-20T23:40:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T23:35:17+00:00"
+   "checked": "2026-11-20T23:40:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T23:35:17+00:00"
+   "checked": "2026-11-20T23:40:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T23:35:17+00:00"
+   "checked": "2026-11-20T23:40:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T23:35:17+00:00"
+   "checked": "2026-11-20T23:40:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi shatters records making 3 79 billion in 24 hours as the biggest entertainment launch ever",
+   "title": "Grand Theft Auto VI Shatters Records, Making $3.79 Billion In 24 Hours As The Biggest Entertainment Launch Ever",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWNvSXAtWV9JOUdoemI1WlV1YkFnVVVYNGJVY05IczNpSEdpeEpGenF1Z3diMWpPNWZkbXJyVGt0TkRLSWxLWmNPQTItWktZTXh3dENyQ2VvRlQ0X004NHpmMmUzZldXb1FBTVB2THdxZlVHNG5xVzlrNG9JU19zRDhEb0ZScjNZUGF6Tjk1SjFDcUZsc1FwdndkMFkyaEZiVERkME5tU1dmYXJRbkVVTkNXWWdzZ2V3c3c?oc=5",
+   "outlet": "Game Informer",
+   "via": "Google News",
+   "published": "2026-11-20T23:34:06+00:00",
+   "seen": "2026-11-20T23:40:17+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI set records by earning $3.79 billion in 24 hours as the biggest entertainment launch."
+  },
+  {
+   "id": "how to solve all main puzzles in gta 6 s tenebrae lux",
+   "title": "How To Solve All Main Puzzles In GTA 6′ s Tenebrae Lux",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmJNV1ppVElFWjJDVzk4NlpHc05KcnZVNzZzTjJ3Wmd6MDZRU3pzUFBuZWZSOWN3dGRVZkVBQlRBSVloZlowUWlZN0ZDZUI5akgxNXlHWl9mYzk0ZUdHbEZyRmxPcHkyZmpVU1dkMWxjdE1vcG5rd0RWa3JMNUhYOU5nQnQ5RFBkcFE?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-20T23:30:19+00:00",
+   "seen": "2026-11-20T23:40:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to solve all main puzzles in GTA 6's Tenebrae Lux."
+  },
+  {
+   "id": "how to get the key cloner in gta 6",
+   "title": "How to Get the Key Cloner in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NDVuRndWRExYWFBLUFlLYi04NUw0VzE5TEpPZE40UHQ3VXM3aFVJMWk5N1pDOFRlVlU0TTJ2VFdwUVJ2b2FuZW1MRndGU0NIbjlMMEtsU3FmVGZuX1E?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-20T23:26:49+00:00",
+   "seen": "2026-11-20T23:40:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story describes how to obtain the Key Cloner in GTA 6."
+  },
   {
    "id": "gta vi s naples look alike sen moody says get away with crime in leonida but not florida",
    "title": "GTA VI’s Naples look-alike? Sen. Moody says get away with crime in Leonida, ‘but not Florida’",
@@ -157,6 +196,19 @@
    "ai_summary": "Vice City, where Grand Theft Auto VI is set, is a stand-in for Miami with a sunny, sexy, gritty and neon glory, influencing its visual and aesthetic in virtually every frame."
   },
   {
+   "id": "gta 6 s record launch surpassed marvel s biggest box office hit in one day",
+   "title": "GTA 6’s Record Launch Surpassed Marvel’s Biggest Box Office Hit In One Day",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VeGFBbFVjRV93TjhRUVRMb0JVT0Z3LS1TVHJ2YzVCQkFHS09pOG1GMi1Oc3htZlo1YjRLTEw3YWtrdXNUTFRnbldYVjZvZjJ6X3F4OHVUMVpURzNOb1JuaWhUNmVxVTJoSnFKcVg0bzlXSDNsOGZGNGRNUVk1UQ?oc=5",
+   "outlet": "AOL.com",
+   "via": "Google News",
+   "published": "2026-11-20T23:10:17+00:00",
+   "seen": "2026-11-20T23:40:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story states GTA 6’s launch earnings surpassed Marvel’s biggest box office hit in one day."
+  },
+  {
    "id": "gta 6 made 3 79 billion on day one ign daily fix",
    "title": "GTA 6 Made $3.79 Billion on Day One - IGN Daily Fix",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZEN4dkVJZjN1bUk3ZWNCNjFTbm5YRWhOU21EUFFnLWtCTm81eFhRdXBPdW0yWnRnclBwMldFZXhQeWpiNG5WSUQ2WkFhZjkxUVB2THp1R0hYR2lPMFVQSkpERmRySXFxVjlzTlBTb2xvZTdVTVpsa3BUZ1RTRzdsTThsbkl2dGItWXVSN3pMSkgwSGlYSEVOUQ?oc=5",
@@ -168,6 +220,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that GTA 6 made $3.79 billion on day one."
+  },
+  {
+   "id": "texas gamers choosing indie video games over new gta 6 release",
+   "title": "Texas gamers choosing indie video games over new GTA 6 release",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONDBWRE56ZmVfRWlqOWJnbDFPekEySVNPb3VhallUSmFuc1l1QnFuVnpNNGlqX1JkakFRcV9GeXo0NDJ3QjdTXzA0OTNkQUVEUnMxV3JSb3F0MWRDUUE3R01Udml3QkR6OTZ6RnJCa1VmTWt1bVhXLUd1dEZQMFhKaDh2cTJFc3B0RDVr?oc=5",
+   "outlet": "Spectrum News",
+   "via": "Google News",
+   "published": "2026-11-20T23:09:00+00:00",
+   "seen": "2026-11-20T23:40:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Texas gamers are choosing indie video games over the new GTA 6 release."
   },
   {
    "id": "15 hidden gta 6 controls and features you should know about",
@@ -545,6 +610,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes a Grammy-winning songwriter brings Philly roots to Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 voice actor reveals his character and behind the scenes secrets behind the curtain",
+   "title": "GTA 6 Voice Actor Reveals His Character and Behind-the-Scenes Secrets | Behind the Curtain",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTzlZN21fR0JIYzkzXzU4U09GS0thZjVMb25LdlEzRXpRaTdESkpTMjhtRnNfb25ubngyWFpRMlFWN1Z5MGhKQl9jY1dqbTF2dS1fcDNpSGUwZFc5czlHZEVCeGZpbVVnZUNjYTdMTmVWZ2FMd3F6d2tIQzVrd0NYSGY1NGNJNW9QbnJZNThTMEE3eTF5cUJRQV9UWWRVMHVkamRYQ09jV1dYUEpjckxLM3hFekUxOVZqMWFkZGpKTlpBS0VxSUVVWEFhODRCQzM5?oc=5",
+   "outlet": "RochesterFirst",
+   "via": "Google News",
+   "published": "2026-11-20T22:21:00+00:00",
+   "seen": "2026-11-20T23:40:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers the GTA 6 voice actor revealing his character and behind-the-scenes secrets."
   },
   {
    "id": "gta 6 players react after exclusive shops greet non ultimate edition buyers with locked doors",
