@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T11:21:01+00:00",
- "started": "2026-11-20T11:20:55+00:00",
+ "updated": "2026-11-20T11:26:01+00:00",
+ "started": "2026-11-20T11:25:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T11:20:55+00:00"
+   "checked": "2026-11-20T11:25:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-20T11:20:56+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T11:25:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T11:20:56+00:00"
+   "checked": "2026-11-20T11:25:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-20T11:20:57+00:00"
+   "hits": 4,
+   "checked": "2026-11-20T11:25:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:20:57+00:00"
+   "checked": "2026-11-20T11:25:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T11:20:57+00:00"
+   "checked": "2026-11-20T11:25:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:20:57+00:00"
+   "checked": "2026-11-20T11:25:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:20:57+00:00"
+   "checked": "2026-11-20T11:25:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:20:58+00:00"
+   "checked": "2026-11-20T11:25:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:20:58+00:00"
+   "checked": "2026-11-20T11:25:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:20:59+00:00"
+   "checked": "2026-11-20T11:25:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T11:20:59+00:00"
+   "checked": "2026-11-20T11:25:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:20:59+00:00"
+   "checked": "2026-11-20T11:25:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T11:20:59+00:00"
+   "checked": "2026-11-20T11:25:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 features a late game cameo that s worth avoiding spoilers for",
+   "title": "GTA 6 features a late-game cameo that's worth avoiding spoilers for",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-features-a-late-game-cameo-thats-worth-avoiding-spoilers-for-years-after-their-actor-said-they-didnt-hate-rockstar-but-didnt-love-their-pay-for-that-very-role/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T11:23:00+00:00",
+   "seen": "2026-11-20T11:25:57+00:00",
+   "summary": "If you've been anywhere near the internet, you probably know who we're talking about",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes a late-game cameo in GTA 6 that many want to avoid spoilers for."
+  },
+  {
+   "id": "gamestop ceo criticizes digital only releases as gta 6 launches",
+   "title": "GameStop CEO Criticizes Digital-Only Releases As GTA 6 Launches",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbzhzVGdkVENzMi1fU21XQVNpTFQ2SU5JMG1nNUdkMndIMmtrbVNxMS1RbzZMcnMxQWtNYmNRSzdLakRsd1dndG54TEVLVHZFUWZEVzN4dGFQTzJ2N0RjVnViSFNCZlNYSTZXbDZxZ3VKazN6VklRSFN3OGR2a3VIcTk5OGozTjRMREtB?oc=5",
+   "outlet": "80 Level",
+   "via": "Google News",
+   "published": "2026-11-20T11:20:30+00:00",
+   "seen": "2026-11-20T11:25:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GameStop's CEO criticizes digital-only releases as GTA 6 launches."
+  },
+  {
+   "id": "gta 6 sales eclipse christopher nolan s the odyssey as gaming giant takes over",
+   "title": "GTA 6 sales eclipse Christopher Nolan’s ‘The Odyssey’ as gaming giant takes over",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ2V1eWUtZ1RGRkhvc28tWXlnQ0hVZGNNZWlKdDVqVVFzQ1h4ZThpdkhHeHdFRTBFR2lWbmFROHdGaGRQTnBCUkx6U0ZPY002LTdsbGNLVEROYWN0NU03TEZ0WkhVV0s3UjBuc25paVRQQ0J6eXk4bG9OWjBxTFV4dzU0VnpfZ19OUmVOQlRtUGgybE0tQXBSTnNheHo3V3J1RGg0TzItazlpRm44c010WVB4d3DSAbwBQVVfeXFMTk9QMUJyQTFkZUhScDEwWVBpajRuOWpLVXlRTkpkUDViZEVtRVd5c0dKZHdwSGNrM1o1N1J5ZkwzVWpxZ2RJSnhISG1IUjF5S0ZoelpmYlVtallKU0hXemJoTlVTeVJoTWJSMW5kX0xvVnVwUlp4U1k1Sk8tRnBQSkhBR0lSYUlIZGV4TC1oX3dtRDI0TUF6Q3JuV3h3cm9XTWxEX29HV29majFGRG80eFNvMkFabmV2eGRCY0c?oc=5",
+   "outlet": "The Express Tribune",
+   "via": "Google News",
+   "published": "2026-11-20T11:20:00+00:00",
+   "seen": "2026-11-20T11:25:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sales are described as eclipsing a major film, with the gaming company taking over."
+  },
   {
    "id": "ubisoft drops after q3 forecast miss as gta vi looms large over holiday season kelo am",
    "title": "Ubisoft drops after Q3 forecast miss as GTA VI looms large over holiday season - KELO-AM",
@@ -116,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Ubisoft drops after forecast miss as GTA VI looms large over the holiday season."
+  },
+  {
+   "id": "weird al confirms official role in gta 6",
+   "title": "Weird Al Confirms Official Role In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkVW9vUjNpdFRIWEpXWnI1d1dhWTl3S3hlLWVUbXhKRDRHekVzbXBxU3c0NUwxT3M4amtXdVo2c1hxOWdtQnpfOU9WYlVPSWhkZFU0Nnpva3UteF9h?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-20T11:18:03+00:00",
+   "seen": "2026-11-20T11:25:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Weird Al confirms an official role in GTA 6."
   },
   {
    "id": "gta 6 sold nearly 25 million copies on day one crushing every launch record in sight",
@@ -142,6 +194,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 reportedly generates $2.3B on launch and breaks records."
+  },
+  {
+   "id": "lacy slams gta 6 storyline after reaching 50 completion says game is too slow",
+   "title": "Lacy Slams GTA 6 Storyline After Reaching 50% Completion, Says Game Is Too Slow",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWlqUGdQS0xMaV9IdVl1d0lmY1E5OGw3VHBxZUhaUFV1MHRSWFE3aVdoQTFyQ3dxdTRQZHJjczU4cElneWZBRmNVVjgwcmhxTHhMb3dieDNEQ3IwWkx2cnJwdlVqanBhQjhib2tXdHlVOE91OFl4MHN2dFlsaFI1OGk2T1NqOHVxcUhSOXR5RzFLN0tKWHB3SGhEWXdGM1lXSUc5RGFNNm9Kc1Bwb3VsUUp2Nkc3OUwxWkw2Uk9WOHBmenFZ?oc=5",
+   "outlet": "NDTV Sports",
+   "via": "Google News",
+   "published": "2026-11-20T11:08:20+00:00",
+   "seen": "2026-11-20T11:25:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Lacy criticizes GTA 6's storyline after reaching half completion, saying the game is too slow."
   },
   {
    "id": "gta 6 how to find cool dog and dog island",
@@ -285,6 +350,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "GTA VI is discussed in terms of why players love playing the outlaw."
+  },
+  {
+   "id": "gta 6 players find red dead redemption lore that strongly suggests both series are set in the same universe",
+   "title": "GTA 6 Players Find Red Dead Redemption Lore That Strongly Suggests Both Series Are Set in the Same Universe",
+   "link": "https://www.ign.com/articles/gta-6-red-dead-redemption-2-same-timeline",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T10:53:55+00:00",
+   "seen": "2026-11-20T11:25:56+00:00",
+   "summary": "Players have found lore in GTA 6 that strongly suggest the game takes place in the same universe as Rockstar’s Red Dead Redemption series, in a move that has excited fans about the prospect of a canon merger of timelines.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Players find Red Dead Redemption lore in GTA 6 that suggests both series share a universe."
   },
   {
    "id": "gta 6 is a movie and tv goldmine as players discover fast and furious cars and dexter s apartment",
@@ -883,6 +961,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports all confirmed GTA 6 radio stations so far, including hosts and preview tracks."
+  },
+  {
+   "id": "how to have sex in gta 6 romance and relationships explained",
+   "title": "How to Have Sex in GTA 6 – Romance and Relationships Explained",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPbmQ5SmVHZXRzVF9PaEhYLUR2SlBaVlBrNm1lWGVzWnJYQWlIdldRNVhwdUpyU0J0dEw4cVJDM0NfTXIteXd2YXp0WHRFVnAwajMwWXlXcDJRMnQ4NGpDOEEwVjdHQTlTeERUQWt6Rk1ldGt5RUE?oc=5",
+   "outlet": "PlayDayOne",
+   "via": "Google News",
+   "published": "2026-11-20T09:30:03+00:00",
+   "seen": "2026-11-20T11:25:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article explains how to have sex in GTA 6, covering romance and relationships."
   },
   {
    "id": "gta 6 sets entertainment launch record with 2 36 billion dollars",
