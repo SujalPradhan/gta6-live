@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T23:45:23+00:00",
- "started": "2026-11-20T23:45:18+00:00",
+ "updated": "2026-11-20T23:50:28+00:00",
+ "started": "2026-11-20T23:50:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:45:18+00:00"
+   "checked": "2026-11-20T23:50:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:45:19+00:00"
+   "checked": "2026-11-20T23:50:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:45:19+00:00"
+   "checked": "2026-11-20T23:50:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T23:45:19+00:00"
+   "checked": "2026-11-20T23:50:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T23:45:20+00:00"
+   "checked": "2026-11-20T23:50:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T23:45:20+00:00"
+   "checked": "2026-11-20T23:50:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-20T23:45:20+00:00"
+   "checked": "2026-11-20T23:50:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T23:45:20+00:00"
+   "checked": "2026-11-20T23:50:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-20T23:45:20+00:00"
+   "hits": 7,
+   "checked": "2026-11-20T23:50:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T23:45:21+00:00"
+   "checked": "2026-11-20T23:50:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T23:45:21+00:00"
+   "checked": "2026-11-20T23:50:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T23:45:21+00:00"
+   "checked": "2026-11-20T23:50:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T23:45:21+00:00"
+   "checked": "2026-11-20T23:50:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T23:45:21+00:00"
+   "checked": "2026-11-20T23:50:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "can you fast travel in gta 6",
+   "title": "Can You Fast Travel in GTA 6?",
+   "link": "https://insider-gaming.com/gta-6-fast-travel/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T23:47:43+00:00",
+   "seen": "2026-11-20T23:50:23+00:00",
+   "summary": "Looking to get around Vice City a little more quickly in GTA 6? There aren't a ton of speedy options, but here's what you can do. The post Can You Fast Travel in GTA 6? appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses potential fast travel options in GTA 6 within Vice City as described in the headline and snippet."
+  },
+  {
+   "id": "gta 6 triggers busiest traffic day in comcast history",
+   "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFRiYTZkU0dtSW1YdF8xMVRJbmNEc3hnbXZkSXNLLVl5c3VBWjVWckxTQkJpb1RnRGRlTWJPa3N5UFZuS09DRmttb1BZWTA0VzVRZTgwV1FDZ2s5MmNpNjZudEVaVmRSZi1SRGdCSHpxSi0yYW5iaTJWRnVTamNoZVhMWDEwNzR6cnlWVnpPQWpwOXVKdFZNc1dWaklWM3Zta282NnUxRmRfWkFraUlUdUxEaw?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-20T23:47:18+00:00",
+   "seen": "2026-11-20T23:50:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 caused the busiest traffic day in Comcast history according to the headline."
+  },
+  {
+   "id": "actor who plays mandy in gta 6 excitedly speaks out after character goes viral",
+   "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSlFLY1M5ampsQXlubEs4el9pRGowbEw4X0c1V1ZrQVhHelc1LTJ2LUZMbzdkT19GYkVybkcxdnJpWVVOSURMUktlZC13bENSWC12Zy00MUY1OVNtaFZBbHExN0ZlYmlmbml2YWpBaWZncUtaT0NUTkFTZWFZTzFQaXVPaFRBVG9aNDhjQVMwejRWXzZoR3RBMG9QdjRjU2ozdHFGc1VDWW0yVm5zcGpmMm44MGJQUlh4c0FadUVZRVJBczZldTlF?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-20T23:46:00+00:00",
+   "seen": "2026-11-20T23:50:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes that the actor who plays Mandy in GTA 6 spoke out excitedly after the character went viral, per the headline."
+  },
+  {
+   "id": "gta 6 makes 6 9b on day one as rockstar hails its biggest ever launch",
+   "title": "GTA 6 makes $6.9b on day one as Rockstar hails its biggest-ever launch",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSG5mQmVKcGl1M3BpNnpxalFNdTMzaXloMVZvZVBJOUN0WEtoUzZIVnZTam5FblVZUHRnWnZIWGlPbGd5Q0VMcFdFNldGNndPb0NPTWJQVElDMFRRTDBqcW1hUnNMQVBwN1RmOUZvS19ROTM5ZDFyQVhqZXdOZldiVW1LOHFWNUlOVDJlLW5wNkFoOFhiSEJNLTVkZUp4eVBuMDFaMlFOWEVKWHR6TDZRamNpSWE1dW5tMjJVd1dkSWRwX3VQZ1NteGpxYlZhYWc?oc=5",
+   "outlet": "NZ Herald",
+   "via": "Google News",
+   "published": "2026-11-20T23:43:47+00:00",
+   "seen": "2026-11-20T23:50:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story states GTA 6 made $6.9b on day one and that Rockstar calls it its biggest-ever launch."
+  },
   {
    "id": "experts have tips for parents to navigate hype around gta vi and its mature content",
    "title": "Experts have tips for parents to navigate hype around 'GTA VI' and its mature content",
@@ -1052,6 +1104,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports an exclusive on a GTA 6 voice actor discussing the NDA required to keep game secrets under wraps."
+  },
+  {
+   "id": "ttwo stock gains as grand theft auto vi retail sales touch 3 8b",
+   "title": "TTWO Stock Gains As Grand Theft Auto VI Retail Sales Touch $3.8B",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXF5VTN2clNyTmpQX3E0SW5qcHMyZU5hVUx5NkN5cUdJbGE3MGlJNjEyTWdQRVdwNUpLWXhkYjN3R1plTnZFMEkzendkdWNDNTZ5dk9VcDNid3VmUzUzbGZ3ZDltWE45dy1qamloRktxUENYSGRubGxRQ1RTeWlybk4wUXpOeDZ1SnBmTWJIMEFhOEJpWTJKN3RPTEFWUGFhWk5aZ1NIME5Md0NDZlRmMm05NmZWMzZsZXgxajhUUnJaQURfSVhv?oc=5",
+   "outlet": "Stocktwits",
+   "via": "Google News",
+   "published": "2026-11-20T21:43:00+00:00",
+   "seen": "2026-11-20T23:50:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that TTWO stock gains as Grand Theft Auto VI retail sales reach $3.8B."
   },
   {
    "id": "gta 6 players have found an absurdly expensive trick to play it at 60 fps",
