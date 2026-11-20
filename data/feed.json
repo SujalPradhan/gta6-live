@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:02:42+00:00",
- "started": "2026-11-20T16:02:35+00:00",
+ "updated": "2026-11-20T16:07:49+00:00",
+ "started": "2026-11-20T16:07:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T16:02:35+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T16:07:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T16:02:36+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 93,
+   "checked": "2026-11-20T16:07:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T16:02:36+00:00"
+   "checked": "2026-11-20T16:07:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T16:02:36+00:00"
+   "checked": "2026-11-20T16:07:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T16:02:37+00:00"
+   "checked": "2026-11-20T16:07:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T16:02:37+00:00"
+   "checked": "2026-11-20T16:07:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T16:02:37+00:00"
+   "checked": "2026-11-20T16:07:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T16:02:37+00:00"
+   "checked": "2026-11-20T16:07:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T16:02:38+00:00"
+   "checked": "2026-11-20T16:07:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T16:02:38+00:00"
+   "checked": "2026-11-20T16:07:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 16,
-   "checked": "2026-11-20T16:02:38+00:00"
+   "hits": 17,
+   "checked": "2026-11-20T16:07:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T16:02:39+00:00"
+   "checked": "2026-11-20T16:07:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T16:02:39+00:00"
+   "checked": "2026-11-20T16:07:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T16:02:39+00:00"
+   "checked": "2026-11-20T16:07:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 vice city sparks global frenzy earning billions",
+   "title": "‘GTA 6: Vice City’ sparks global frenzy earning billions",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUtzNDVSX1lwSkpZdUpfMjNnNEU1ZjlJbzRMX08zMV91Umc4LWZqUXZkaVVyUGJHampSdEdzX2tiMVJlNFMzOHA2NURjVm5iNHFsSVU2V1FqTnROQW1MRUlldEE1ajhzMHdNa0Z1c1A4ZVQ1NmZ0MlhfdW9vTmtiYUdHdGlkcUpSRmh2NHpxellqd2JUOHFzdUlJRkRCYU94MDVfTzN5SQ?oc=5",
+   "outlet": "MS NOW",
+   "via": "Google News",
+   "published": "2026-11-20T16:02:23+00:00",
+   "seen": "2026-11-20T16:07:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6: Vice City sparks global frenzy and earns billions, according to MS NOW."
+  },
   {
    "id": "the gta 6 1m a day tv ad spend",
    "title": "☀️ The ‘GTA 6’ $1M A Day TV Ad Spend",
@@ -131,6 +144,58 @@
    "ai_summary": "The story reports that GTA 6 features a pentagon demon and a Saw-style kidnapper as two scary hidden secrets."
   },
   {
+   "id": "i ve played gta 6 for 110 hours and these are the 7 weirdest strangers i ve met",
+   "title": "I’ve Played GTA 6 for 110 Hours, and These Are the 7 Weirdest Strangers I’ve Met",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMkxscFNnSHN1M3NtZjZLV0hsc0RJYmt0eFdlMDd1bkhRRVQweUtPVTF4U1Jhc3ZacFlNSHlQWWdodkRJQkNSMWQzTEZQb2ljQW1ncVQ0aFlhOEthLVdJMUktTjFzUXJhQlRjcG9JaWIzbWU1b2tvc2doUWhzeVNKNUptTl83elpkT0J0SWRxM3FjT1NVMzRXVExMYWt4dw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-20T16:00:00+00:00",
+   "seen": "2026-11-20T16:07:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An author spends 110 hours with GTA 6 and lists seven weirdest strangers encountered, per IGN."
+  },
+  {
+   "id": "the gross advertising disguised as art campaign for grand theft auto vi l a arts and culture this weekend",
+   "title": "The gross advertising disguised as art campaign for 'Grand Theft Auto VI': L.A. arts and culture this weekend",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzlEYmZDV2lhTU9SOGlrT0tZZlZSaTBFYmVwQlFaOHhibVpVeHdsQVhIbkVKLWZnUzVLYWVCR2Q4eUplR3M5RVNUQnd5dUQ5VmtPcnFKYUU4dExOUmhrcDg5S1BYZ3M5TEhoT2dRSi1tQk8taG9QdGdZYVBrNzhTNWdYSTRGZ3ktY1c1WnBrdUhlZXFLT0pmMFRVZHpndVdaU3R0U1kxZTY3RzFHcHJfal9RcUt4b0RKVnZZNU91LVhDdklVMUNzMQ?oc=5",
+   "outlet": "Los Angeles Times",
+   "via": "Google News",
+   "published": "2026-11-20T16:00:00+00:00",
+   "seen": "2026-11-20T16:07:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A campaign described as art is accused of disguising advertising for Grand Theft Auto VI in LA arts coverage."
+  },
+  {
+   "id": "hdr expert shares their three recommended display settings for gta 6",
+   "title": "HDR Expert Shares Their Three Recommended Display Settings For GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEdKbHQyZWFwR0pkdVZMeHRBS3hYT182OFJWVlV4NGZoLWlKN2c4V3JSeWNCQndhTWpGcFZEb0lFNlkyaURzTHo4UmNHbExSQ0Ezc21OSVlBeFh0N3RyUlpZc05XT0liejV4NHgyYWRMcnd6eVpIc1FNWjNMc1luMjh1cFFHcUJEcDl4bHVCaVJmdzY3ak1BTGkyekpWRnVVRHFEcUtQNEowUQ?oc=5",
+   "outlet": "Pure Xbox",
+   "via": "Google News",
+   "published": "2026-11-20T16:00:00+00:00",
+   "seen": "2026-11-20T16:07:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "HDR expert offers three recommended display settings for GTA 6."
+  },
+  {
+   "id": "grand theft auto vi and how we spend our time",
+   "title": "Grand Theft Auto VI and How We Spend Our Time",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTVnSVE3WlRibTdqRHZENHI1emdTV1FZRXYzcVVyZGlLMkdYSWNCWDkxczE5Q0VsbG1ZMVk0M2RfSFNVU3pQRVBEbHZjQ1kxQVhTand5aGlzTGgyWUpUZUF4STNieHN1WTVVdldya2JlcFJOX2ctRWlwc1JOc3J5Vy1icUR0QkFOTDI5bw?oc=5",
+   "outlet": "National Review",
+   "via": "Google News",
+   "published": "2026-11-20T15:59:43+00:00",
+   "seen": "2026-11-20T16:07:43+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "An article discusses Grand Theft Auto VI and ways people spend their time."
+  },
+  {
    "id": "gta 6 players are already pulling off high flying tricks and other impressive stunts just days after launch",
    "title": "GTA 6 players are already pulling off high-flying tricks and other impressive stunts, just days after launch",
    "link": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
@@ -155,6 +220,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses how to become a backyard wrestler in GTA 6."
+  },
+  {
+   "id": "gamestop ceo criticizes gta 6 s digital launch saying boxed download codes hurt consumers",
+   "title": "GameStop CEO Criticizes GTA 6’s Digital Launch, Saying Boxed Download Codes “Hurt Consumers”",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUU2R2s1R0pNa1lPSUZHcVRVYUxxbXBGM0RlN0k1RUdjcjRrTnp4SXF1Q0ozNUdGRThzaDFZQUp1OUpCSGw5TGg5ai1hT2UtZmlYOHZSZmdfNU5ZZVVJRTZDQmRpMTF0T1BNZzB1TzhGSzhMalQ2U18yR0RpamtXbzNzcTdfcHFkalYtUERsSkdQNC0tMmFkeWVRa1FkQ040cWhnYmtKVXdTRW5oMHZoVHB1bURvZU9jWi1wZV9n?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-20T15:53:15+00:00",
+   "seen": "2026-11-20T16:07:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GameStop CEO criticizes GTA 6’s digital launch, arguing boxed download codes hurt consumers."
+  },
+  {
+   "id": "alabama gamers among those paying the most for grand theft auto vi",
+   "title": "Alabama gamers among those paying the most for Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPellJbFd6c1dETkZjWkdMeElhOVhCbkw3UnA0cVo5V25mX25ZVjdxeW5GaGNMbm1HbUpITi1nVF9Nam0xZFJhRWVZU3B2NlkxVThXc1p1S3Zqb05kVHdsQTJVYzQ4RFJURHMyTmU0djVIUGE3QW5lbXhNMDZnRjFQQW5UU3dzY1hXTXNiNDU2T05GTjMwenNTMHpla3RzSWRKZzh2Zjdn0gG6AUFVX3lxTE9rbTljYV9DTnlmMWduQ2pZeE1VdlM2MjlwZjdkUnB2RlFnT001MDJHaWRobUUyUWZwMzBPLUN6Z0xGOFcyaE9RdjVBekFocDF0RkVSdDJTOS1mbFdOaXVvWFhTZi1RVkpLUENiNmV6dXhOcGRkUnlUUTNfeDhDN0JwOFpjNDRjRUxnYWd0cWc5RnY4OU9ob2ZJbnh5S1NDYWxNMTlOeHZBNzdNcjZURVloWGlvWXBkbmt5Zw?oc=5",
+   "outlet": "AL.com",
+   "via": "Google News",
+   "published": "2026-11-20T15:53:00+00:00",
+   "seen": "2026-11-20T16:07:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Alabama gamers are among those paying the most for Grand Theft Auto VI."
   },
   {
    "id": "the gta 6 cast has been revealed meet the voice actors behind lucia jason and more",
@@ -805,6 +896,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The Hill quotes Burchett saying you’re a bad parent if you let your child play GTA 6."
+  },
+  {
+   "id": "burchett says you re a bad parent if you let your child play grand theft auto vi",
+   "title": "Burchett says you’re a ‘bad parent’ if you let your child play ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fbUgwQUhiaE56YjJXdjBjMVA3YU1pWFp1a25tNmtNdEMzb2l5dURpNUJ2aGtoNDhoLTZ5UUduVWJnNC1URWxMYWduU0FfTS1SQTVWNTRNZDJzdFJEZ3owN2VBNWtUNnNPc3I1MmxObVhiWFplems3ZXZnaw?oc=5",
+   "outlet": "The Hill",
+   "via": "Google News",
+   "published": "2026-11-20T14:48:00+00:00",
+   "seen": "2026-11-20T16:07:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Burchett says you’re a bad parent if you let your child play Grand Theft Auto VI."
   },
   {
    "id": "gta 6 s new heat system makes cops actually remember what you look like",
@@ -3119,6 +3223,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece shares three major mistakes made after five hours with GTA 6 and tips to avoid them."
+  },
+  {
+   "id": "gta 6 tips everything i wish i knew before i started playing",
+   "title": "GTA 6 Tips: Everything I Wish I Knew Before I Started Playing",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0UwcFhMbV9lSmxsSmlIR0VxLTBObVpkajNEdHFYZzczQ2VpYzc4SC0yWWpyTnBoU2hXQlNmc01PWnJHUW5USVZNZTBtRjktQmNPem5ReEpHdjE0OGMzUzRBYUdpVks5RWxNbDdUX1RuZHBiYjVNcnQ2NWdaNGplOGwtd3NUekplMTJyMjVBb0ZBWnNZUG9EcnRYVQ?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-20T11:49:10+00:00",
+   "seen": "2026-11-20T16:07:43+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GameSpot shares tips and things the author wishes they knew before starting GTA 6."
   },
   {
    "id": "grand theft auto vi is out is the franchise still stealing the attention of uk gamers",
