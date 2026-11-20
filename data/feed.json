@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:44:47+00:00",
- "started": "2026-11-20T21:44:41+00:00",
+ "updated": "2026-11-20T21:49:49+00:00",
+ "started": "2026-11-20T21:49:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T21:44:41+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T21:49:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T21:44:42+00:00"
+   "checked": "2026-11-20T21:49:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T21:44:42+00:00"
+   "checked": "2026-11-20T21:49:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T21:44:42+00:00"
+   "checked": "2026-11-20T21:49:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T21:44:43+00:00"
+   "checked": "2026-11-20T21:49:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T21:44:43+00:00"
+   "checked": "2026-11-20T21:49:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T21:44:43+00:00"
+   "checked": "2026-11-20T21:49:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T21:44:43+00:00"
+   "checked": "2026-11-20T21:49:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T21:44:43+00:00"
+   "checked": "2026-11-20T21:49:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T21:44:44+00:00"
+   "checked": "2026-11-20T21:49:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T21:44:44+00:00"
+   "checked": "2026-11-20T21:49:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T21:44:44+00:00"
+   "checked": "2026-11-20T21:49:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T21:44:44+00:00"
+   "checked": "2026-11-20T21:49:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T21:44:45+00:00"
+   "checked": "2026-11-20T21:49:46+00:00"
   }
  },
  "items": [
@@ -716,6 +716,19 @@
    "ai_summary": "GTA VI pulls in $3.79 billion in one day, as suggested by the headline."
   },
   {
+   "id": "report grand theft auto vi sets record with 3 79b in first day retail sales",
+   "title": "Report: 'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzBZU01jcTRFQ2RsMDhSVkw1bk5oUGVNSWJ0WEFIRVpNZF9vUzUzeWhhcFF0NHhNeTZia3UzRjdaV01zUV94ZDhQRmpLZVMxTlJYTC1ia25SMjFIV0diWU9Dc243SDA5VE93bFg5dFRrY1dYckNreGZWNkQxMHFvdk5NMlEyam9leTBvd09uYWI0ZkVWMThHODFYbm9xb1JDUkY4VXlHVUR1MTRwRWFycA?oc=5",
+   "outlet": "KRCG",
+   "via": "Google News",
+   "published": "2026-11-20T20:39:37+00:00",
+   "seen": "2026-11-20T21:49:44+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Report says Grand Theft Auto VI sets a record with $3.79B in first-day retail sales."
+  },
+  {
    "id": "gta 6 breaks records with 3 79 billion first day sales",
    "title": "GTA 6 Breaks Records With $3.79 Billion First-Day Sales",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWnBDNlhrcmtyUlkzWnBCNFJWZHZicVBmdHVKNE5ibmhBYXRaWWNDT1htVmtWd3FraGtDamNjN0FINWZrVHlLeDctRHd4UWEwZjVJU3o3amUwSU9OVHNPTXJPMGJ1VWVSU0I1ZEpQMDh6UWdIV29TT0VrbmVnendZTFNwd0NOeEJfMk1tVy11M2xZYlp3Ql9fTjJfVjRDN3Zy?oc=5",
@@ -753,6 +766,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA VI breaks entertainment records with a historic $3.9 billion launch, per TMZ."
+  },
+  {
+   "id": "gta 6 launch could make gaming history its mature rating should give parents pause",
+   "title": "'GTA 6' launch could make gaming history. Its mature rating should give parents pause.",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd3FiYnV1ZXpwbWxfbnVVaS0xSHUtUUhoYzRYTGpRUVUtY0MtbDUyc3FNN3R4cENibnRoU2MtMUlHVUpuVzg5eWtkdlBFcEFxQ09YZjBsTGlpU2xEaUcwcDd1M05DcGZxWlRIc3ZwX3BNakszSW9QREg3S3I1NFl1R1JjQ3hpSTJXS0RGR2NkTlAxWmwwYndDdldlWXNBMzYyOUlnY0pVVmpiWDRlWGJIbXBDbWFQdGlUdmZ3UnA2dW5uVGRaaGpaa29FUFpvXzBielBKZkhHQmQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-20T20:37:21+00:00",
+   "seen": "2026-11-20T21:49:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 launch could make gaming history, with its mature rating expected to give parents pause."
   },
   {
    "id": "let s put gta 6 s 3 79 billion launch into perspective gta 5 made 800 million at launch",
@@ -1182,6 +1208,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "GTA VI sales near $4 billion in the first day of launch, nearly $4 billion."
+  },
+  {
+   "id": "grand theft auto vi sets record with 3 79b in first day retail sales rockstar games reports yakima herald republic",
+   "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports - Yakima Herald-Republic",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNaHFrWUN0SU5TRjlqRWdQLWtjVFkzUENuRWVoTWVGbXcxOVotTmZwU3FRNldzVW1MSVBxTURqcF9LZEtxQWVtRE9mUmpPTmZZVjMzb2gyWkl1aUhVQW1rMV92T29md3JiY2RodU9UZnEyaUt2aWhzcjV4QXpaQ3dFblBLWnZzTXhtSnFaV0RUUzVQWk9qREJ4SDRwbzdNNWFnVF93SG14MzN0aDJYV0RoRnprVHk1RHlEbnM3bHhYQlZrWnd1b3g1djhvX0xNaW9xNjI5VnViaXdteHBxQkdyQlllNHVZRDk5V2JRRnJFWFhXd3c3X0U2X1ZXVHkzNk9Sdy1yOGktaF81c25KZUdTWVVrZ0ZZZ9IBmwJBVV95cUxNbm1FMVBRQ3d3WXZVVU8zRkZjV1hwYnRMempPZS1lVjM0OXhNaVE5bHI0djR0Z0Qxd0FYYXRtODZ6cThIRkFOQTloTTFrM2VzbkdubzIxbU1DMnphWXFsM2plYmFlUy04RUVRYk4xclR0MzRRdkRuRGFwTjhaNnBNY0d4N3BlbnMzeDlpdWdaVHMyeUEyQXlUZFlBYUc2SldoYVRHemwxbUVUVExaVmt1ZUEwemxPV2kxc3lEQjI1ZElueW1ZZmZfNkxBcm1QSk1Gcm9WWExaRTJBdmF4ZWxEQlFvWDdxT3hfWTVpeHdadG42Rk1mbUktWkdsRDVwXzZQUThLX0xuV0VfZ1FMcDBLUTdzc0VyMHZSODQw?oc=5",
+   "outlet": "Yakima Herald-Republic",
+   "via": "Google News",
+   "published": "2026-11-20T20:08:03+00:00",
+   "seen": "2026-11-20T21:49:44+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI sets a record with $3.79B in first-day retail sales, according to Rockstar Games."
   },
   {
    "id": "gta 6 raked in 3 8 billion sales on first day the largest entertainment launch ever",
@@ -1650,6 +1689,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "Grand Theft Auto VI sets a record with $3.79B in first-day retail sales, per Rockstar Games."
+  },
+  {
+   "id": "sales of grand theft auto vi skyrocket as series makes its return after 13 year absence",
+   "title": "Sales of 'Grand Theft Auto VI' skyrocket as series makes its return after 13-year absence",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWkxNR3RkZW4wZUQtbGJ1V2ZSWlIzM0haN1FXUGpZV1ZhLWlmcDc4VWFwU1ZBeVRFWm5SbGZPVUlEckplWjlDVzE5d2F5NEZIeUdQMHN4Yk4yUmFIcVJFbldpczMybFJtWDlDMDhYN2o2TnRvSnB6LWVqY2xDSkhVTGUxMWZfMEdTal9PcEJ4Z09OOENGUmZkTnU3Z3BuT2VJLU02QndEWlZqN0RkYmpQZjZBeGhZRURnSDRpYnlZazVGTHpQLUI0c2RXTFBpdDZpNkJrdGtoeDNaYmpqbjF2bURGREU?oc=5",
+   "outlet": "WUSA9",
+   "via": "Google News",
+   "published": "2026-11-20T19:48:00+00:00",
+   "seen": "2026-11-20T21:49:44+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Sales of Grand Theft Auto VI soar as the series returns after a 13-year absence."
   },
   {
    "id": "gta 6 sold 32 5 million copies before it was even released elden ring sold 30 million in 3 years",
