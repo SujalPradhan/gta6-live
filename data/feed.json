@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:42:59+00:00",
- "started": "2026-11-20T16:42:50+00:00",
+ "updated": "2026-11-20T16:47:58+00:00",
+ "started": "2026-11-20T16:47:52+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T16:42:50+00:00"
+   "checked": "2026-11-20T16:47:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 87,
-   "checked": "2026-11-20T16:42:51+00:00"
+   "checked": "2026-11-20T16:47:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T16:42:51+00:00"
+   "checked": "2026-11-20T16:47:53+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T16:42:52+00:00"
+   "checked": "2026-11-20T16:47:53+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T16:42:52+00:00"
+   "checked": "2026-11-20T16:47:54+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T16:42:54+00:00"
+   "checked": "2026-11-20T16:47:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 22,
-   "checked": "2026-11-20T16:42:55+00:00"
+   "hits": 21,
+   "checked": "2026-11-20T16:47:54+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T16:42:55+00:00"
+   "checked": "2026-11-20T16:47:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T16:42:55+00:00"
+   "checked": "2026-11-20T16:47:54+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T16:42:55+00:00"
+   "checked": "2026-11-20T16:47:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T16:42:56+00:00"
+   "checked": "2026-11-20T16:47:55+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T16:42:56+00:00"
+   "checked": "2026-11-20T16:47:55+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T16:42:56+00:00"
+   "checked": "2026-11-20T16:47:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T16:42:56+00:00"
+   "checked": "2026-11-20T16:47:56+00:00"
   }
  },
  "items": [
@@ -246,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story points out that GTA 6's smallest details make Jason and Lucia the franchise's most relatable protagonists yet."
+  },
+  {
+   "id": "gta 6 publisher take two set to shatter first day sales records",
+   "title": "GTA 6 publisher Take-Two set to shatter first-day sales records",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWDRGMWJDUWJpQU91LUtLMUhxeUQ3enMxeEpkdkcwX196ejA1SEROOU9oRXN2ZGhhc2RIV2dRclZ5cDFjeHJIOUdjTWluU05RX1cxazZleHpnVnlsNV9GTmNsWHdjNkF0cGNVVmkwSGRLaGpBaGlxU2RIZGw5REt2ZnI2aE5xRzhsbDRJX2EwR1NPb2M0NHloNUZGWEVQYWtGLUUwQTg4RjRyNGQ5a0ZpUU1YYy1sMFJhS1pmUktwa1Bobk9xTGozVmZ4MmVMdlB5aXVsaTlMMlM0UlFOaDhN0gHkAUFVX3lxTE5iMVdZbElOUjhBMm9Ja1EzXzNPNVR0UDdkdDN5ZVFWc3dSb1p0cnlmdkxfWmVMSFZmM0dRc2xmX2o3bDBrSHBiNFhUdmZ4cWRSclV1R0tGVXg0dDg3QWQ2Wm80SkN5b2tYN2pLd1cwQzVfWk9DdkFSNHlMRUpIdlNuNEM0WHhoSjNqd2NYWUQwRE14LThQUFRvN1Zwc2V2VTlrT0lRZmZWM1VZVnNxWGhNOTl3SXNrMVhhMzVEUkxjNFh3TzlzWk04RldFekVTWkNmNzkyR0FmYkYweUlick9TUmpVeg?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-20T16:30:00+00:00",
+   "seen": "2026-11-20T16:47:53+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 publisher Take-Two is set to shatter first-day sales records."
   },
   {
    "id": "what happens in gta 6 stays in gta 6 police across us warn fans about taking the game to their real lives",
@@ -454,6 +467,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a question about whether Bigfoot is really in GTA 6."
+  },
+  {
+   "id": "rockstar games exceeds lofty expectations with grand theft auto vi masterpiece",
+   "title": "Rockstar Games exceeds lofty expectations with ‘Grand Theft Auto VI’ masterpiece",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUpqLWlNQVh2Mk5pQ1ZQbU5pTDNIYUUyU0EtQ0k1bzlHbjNscDVFN1VJQ0taTS1jWjdFZl82cGJwcTlGaG13ME5WQThRSUFOOGcxNmpaOE5XamY3d0hYYk8zX3BvVUx1b2FqOTNMTkozTjdnNUc5WEFaamNuMGZZNmdSVlg5Nl9mbFFQU2pkcW5YNDBTdUQ0dnNnVEM1UU1tN0FhRFpZS3Vpa2tIcWhqczNQd003bnZ1Wm1CdG83UGVwVU9Mb29PMw?oc=5",
+   "outlet": "Greater Milwaukee Today",
+   "via": "Google News",
+   "published": "2026-11-20T16:07:26+00:00",
+   "seen": "2026-11-20T16:47:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Rockstar Games exceeds lofty expectations with Grand Theft Auto VI masterpiece."
   },
   {
    "id": "gta 6 vice city sparks global frenzy earning billions",
