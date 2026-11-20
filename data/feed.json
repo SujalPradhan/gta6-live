@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T22:55:07+00:00",
- "started": "2026-11-20T22:55:01+00:00",
+ "updated": "2026-11-20T23:00:13+00:00",
+ "started": "2026-11-20T23:00:07+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T22:55:02+00:00"
+   "checked": "2026-11-20T23:00:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T22:55:02+00:00"
+   "hits": 97,
+   "checked": "2026-11-20T23:00:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T22:55:02+00:00"
+   "checked": "2026-11-20T23:00:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T22:55:03+00:00"
+   "checked": "2026-11-20T23:00:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T22:55:03+00:00"
+   "checked": "2026-11-20T23:00:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T22:55:03+00:00"
+   "checked": "2026-11-20T23:00:09+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T22:55:04+00:00"
+   "checked": "2026-11-20T23:00:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T22:55:04+00:00"
+   "checked": "2026-11-20T23:00:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T22:55:04+00:00"
+   "checked": "2026-11-20T23:00:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T22:55:04+00:00"
+   "checked": "2026-11-20T23:00:10+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T22:55:05+00:00"
+   "checked": "2026-11-20T23:00:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T22:55:05+00:00"
+   "checked": "2026-11-20T23:00:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T22:55:05+00:00"
+   "checked": "2026-11-20T23:00:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T22:55:05+00:00"
+   "checked": "2026-11-20T23:00:10+00:00"
   }
  },
  "items": [
@@ -168,6 +168,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA VI shattering records with first-day sales reaching $3.8 billion, per The Jerusalem Post."
+  },
+  {
+   "id": "gta vi shatters entertainment records with 3 79 billion in first day sales",
+   "title": "GTA VI shatters entertainment records with $3.79 billion in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94eURGdUhmT3V5OUE2eWJJVEpOVmI1WHA3eGxteWVsZER3eGVEaGFXY1R2enZTUjlLYmhzSmczUklhMUZMcVQ1RDY2NzBFUWd4akRuSDdaNWt3WGNDNVJYNWFKSzY2QzA5blAwSw?oc=5",
+   "outlet": "The Jerusalem Post",
+   "via": "Google News",
+   "published": "2026-11-20T22:40:22+00:00",
+   "seen": "2026-11-20T23:00:08+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA VI setting entertainment records with first-day sales totaling $3.79 billion."
   },
   {
    "id": "i tracked down all 60 birds in gta 6 a birder s guide to vice city s wildlife",
@@ -428,6 +441,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI released 13 years after the previous entry, giving designers time to create an immersive experience with more than meets the eye in a convenience store."
+  },
+  {
+   "id": "grand theft auto 6 is not immune to the anti woke crusade as the review bombing begins",
+   "title": "Grand Theft Auto 6 Is Not Immune To The Anti-Woke Crusade As The Review Bombing Begins",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2JIZk1LbWFXbzdGeE0zUUVTX2RXTi1lN0pvQ3FDd3Blck52LU5mYXkzdmgzUEZiSHJkTG5mTzlLczIxWDlZRF82ZklsSWF2MFpObnpqOEdUbnRpTmQ2dVhSZWVpLUNpTzZrMlpJcm9wTThTTmc2THNGUlpwOERGLTl3N182ZkxmWldEUmxMV19Yenp6MDBrbjZ3?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-20T22:06:08+00:00",
+   "seen": "2026-11-20T23:00:09+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The piece discusses GTA 6 facing anti-woke criticism and review bombing."
   },
   {
    "id": "players are complaining about critical crashes in gta vi on playstation 5",
@@ -2562,6 +2588,19 @@
    "ai_summary": "GTA 6 HDR settings: game ignores PS5 setup, recommendation to max brightness on certain TVs."
   },
   {
+   "id": "gta 6 soundtrack hip hop stations and canadian artists",
+   "title": "GTA 6 Soundtrack: Hip-Hop Stations and Canadian Artists",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pZm1GeWhKbl9uSzdrTkh2cTkxWkV0a0ZMdTZLRnZMSkpvdFhrXzZKWllNcTJmWmVpZE56OXJ0YkItYWJVZlNuMGhVRk4xZWRFdHhmSlBJX2JsMUhaRG51V29HalZxTEhmQzJN?oc=5",
+   "outlet": "HipHopCanada.com",
+   "via": "Google News",
+   "published": "2026-11-20T19:45:42+00:00",
+   "seen": "2026-11-20T23:00:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article covers GTA 6's soundtrack featuring hip-hop stations and Canadian artists."
+  },
+  {
    "id": "gta vi breaks records with 32 5 million copies sold 4 billion on release day",
    "title": "GTA VI Breaks Records With 32.5 Million Copies Sold, $4 Billion On Release Day",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWlTS0c1VG9TcVpLdUR3OGxzamwxS1NkUUFBNlFMcExweEpPMnM0WWoxaHlEWHI1aU1kZDhUVzh5RUd2aXU1QTZQUlR2WFdOQUpQeEdLdUxuQ1JJN2tIcXc5bTNRQzEyODZ1RHR6Z3FmMW5OajVxZzVjU1ZETmlSOVk2UmFRd0w1TkgwNWE3S0t4R19xamQ3NDlQQndvOGZXYzZIV2tn?oc=5",
@@ -2599,6 +2638,32 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA VI books record $3.79B in sales on first day of launch."
+  },
+  {
+   "id": "gta 6 sells 32 5 million copies pre release officially biggest entertainment launch in history",
+   "title": "GTA 6 Sells 32.5 Million Copies Pre-Release, Officially Biggest Entertainment Launch in History",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUdPN3U1UUtsa0FtN0hOd2kwR0E0cTY2TW5qRUFUY2hHR3hvT24tS3A3Q1JnY1c4UHR3UW9zaE9OMkZYVEFOYmJUdmZVSE1KYVBZUEJscHpoRDR1Vkp5YndESWRUTW05UnNjRzBXR2RKZWtuZGFIMUJjZE1rOVhqZmRpWQ?oc=5",
+   "outlet": "PlayDayOne",
+   "via": "Google News",
+   "published": "2026-11-20T19:43:57+00:00",
+   "seen": "2026-11-20T23:00:09+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The report states GTA 6 pre-release sales of 32.5 million copies, marking the biggest entertainment launch in history."
+  },
+  {
+   "id": "rockstar s gta 6 breaks sales and internet records",
+   "title": "Rockstar’s GTA 6 Breaks Sales and Internet Records",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRkF3RGFWTnR3TGtnenFIT0NlanNtWkNPYnRsbWtjSk15aE44RW93X1IyRHRFYzNYbmRKVUh6OEdhTi1NTkVXY2VXcEZhT19aWV8yWlVaUlROZXFBZzlmR2ZfQVBld2dIT09la2x1bHlJNlVtSnR6Xy1PUHhkNjltbVp2R3h6dUYwS3E0bkFfNktWQdIBlwFBVV95cUxNWjhBQVpNR3A2UWFDUzRVTjNEWmpYM1ZoZmdtR1JEcWllRVNTa0hxQTVxZWMwaWtKaC1DRnJLODJpWTNZODZ2ZDA4aDRPOG9LNklTRGVESi1sM1UxcTdOWVh2YzBrRmJZdmIzT1VUOEJPZnEyUjZVYW1nYWhVOGtMMDlkTUdxQ0ZrZ0tEcDlfYS1jbTFfSUxJ?oc=5",
+   "outlet": "Seasoned Gaming",
+   "via": "Google News",
+   "published": "2026-11-20T19:42:03+00:00",
+   "seen": "2026-11-20T23:00:08+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story notes GTA 6 breaking sales and internet records."
   },
   {
    "id": "gta 6 earns 3 79 billion in day one sales",
