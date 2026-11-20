@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:08:07+00:00",
- "started": "2026-11-20T17:07:59+00:00",
+ "updated": "2026-11-20T17:13:04+00:00",
+ "started": "2026-11-20T17:12:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T17:08:00+00:00"
+   "checked": "2026-11-20T17:12:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-20T17:08:00+00:00"
+   "hits": 88,
+   "checked": "2026-11-20T17:12:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T17:08:01+00:00"
+   "checked": "2026-11-20T17:12:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T17:08:01+00:00"
+   "checked": "2026-11-20T17:13:00+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T17:08:01+00:00"
+   "checked": "2026-11-20T17:13:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T17:08:02+00:00"
+   "checked": "2026-11-20T17:13:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T17:08:02+00:00"
+   "checked": "2026-11-20T17:13:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T17:08:02+00:00"
+   "checked": "2026-11-20T17:13:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T17:08:02+00:00"
+   "checked": "2026-11-20T17:13:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T17:08:03+00:00"
+   "checked": "2026-11-20T17:13:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T17:08:03+00:00"
+   "checked": "2026-11-20T17:13:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T17:08:03+00:00"
+   "checked": "2026-11-20T17:13:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T17:08:03+00:00"
+   "checked": "2026-11-20T17:13:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T17:08:03+00:00"
+   "checked": "2026-11-20T17:13:01+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The report claims GTA 6's launch is historic with an estimated revenue of $2.36 billion."
+  },
+  {
+   "id": "corona resident to earn over 100 000 playing grand theft auto vi the press enterprise",
+   "title": "Corona resident to earn over $100,000 playing ‘Grand Theft Auto VI’ - The Press-Enterprise",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEhYVmJkUVRicVh1dkpwM3dLSVJZN1UybVY3UEJ5RjZnMW9xLXZoenJzbzN1dHVTZG41N1BlSFRLbW9Gb1R2REsxRFFWWHh4M0Vmb1JxWnM1SjJ1dlZNRmlYZl9tOUJnS0lXWG9JeVlheXc3Sm9nR1ZLMFVTbk5EVFFXWVdSUE9jaE1TaEs2bFdHajhXQzNJd3NmVHNtUzRaQTNhdDJOZWFqZTA?oc=5",
+   "outlet": "The Press-Enterprise",
+   "via": "Google News",
+   "published": "2026-11-20T17:06:22+00:00",
+   "seen": "2026-11-20T17:12:59+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A Corona resident is reported to earn over $100,000 by playing Grand Theft Auto VI."
   },
   {
    "id": "how creators gave gta vi a record breaking launch",
@@ -755,6 +768,19 @@
    "ai_summary": "GTA 6: Vice City sparks global frenzy and earns billions, according to MS NOW."
   },
   {
+   "id": "students nationwide skipped class to play gta vi some jayhawks joined in",
+   "title": "Students nationwide skipped class to play ‘GTA VI.’ Some Jayhawks joined in",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOREVudFlyRDlYV0hScjMxdnZrV2dPX1ZhWkppU25XZ0xOTER2aWFXdlcyN0tGZGU3LXlXekQ4ejhRZGxsT0tNMDE4eXdyQlpQSDdhWktQRkVmZW4xWURRYmwyMHRHc3ROWGRWbHp2VnhJOHRyMk1RU0RxckZ3TzhKUm0tUFZqVUlvRDVTVUgzOXZLUUxsMjZGb3pwVDQ3eTFjY25NWnNYMy1pOG1Rd3NkOTFrcnltcWh5Z0dyTV9RZEZ0bmZQMXdYVnczdlVPQlZOODZBT1c4dEo2UDFEbDlhdGx5Zl9yZTF0OWRKbE1KbEw4bDZE?oc=5",
+   "outlet": "The University Daily Kansan",
+   "via": "Google News",
+   "published": "2026-11-20T16:02:00+00:00",
+   "seen": "2026-11-20T17:12:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Students nationwide skipped class to play GTA VI, with some Jayhawks joining in."
+  },
+  {
    "id": "6 steam games to wishlist that aren t gta 6",
    "title": "6 Steam Games To Wishlist That Aren't GTA 6",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52THpqNE5VcmtBdmlIWkRzSzdvaGJDV2kzMEwtWGhnalpHbjkwLTJWT1piZ1UtSE1GdWRHbnlFcF9NQWR4MlNSV1FIc0dGemY4YWJrMQ?oc=5",
@@ -1078,6 +1104,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A podcast features Keza MacDonald discussing GTA 6."
+  },
+  {
+   "id": "will long awaited gta 6 distract nba stars how gaming has taken over basketball culture",
+   "title": "Will long-awaited ‘GTA 6’ distract NBA Stars?: How gaming has taken over basketball culture",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLVNfVEZ2NHFFdHV4Z19iS1gtbEdXc29nSXM5SGVTZWk5ZndKTUQ4N21ZMXpMUmRNSVBVamxlSHVGbFpwYmM2aFFCa1dUSGI3cEdtRVRQdU0yZEtRcHFIVlhKM2VBMHN1UlEzNC1ScDBrdGI4MGZWVUw2cXNzMjM4S3ZZcVE1R2xCVlc4dEtyVDk3U1NETUZJTFRYWmtzODdBdVNiLXBDME1GLWhNOFVKTm5UWnBXaUlwNFlXS0tnaTZsTGVo?oc=5",
+   "outlet": "Arab News",
+   "via": "Google News",
+   "published": "2026-11-20T15:38:04+00:00",
+   "seen": "2026-11-20T17:12:59+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story discusses how long-awaited GTA 6 could distract NBA stars as gaming influences basketball culture."
   },
   {
    "id": "cowboys legend jimmy johnson discovers his restaurant in gta 6 and capitalizes on it by immediately launching some merchandise",
