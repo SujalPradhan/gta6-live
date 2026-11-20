@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:22:28+00:00",
- "started": "2026-11-20T15:22:20+00:00",
+ "updated": "2026-11-20T15:27:30+00:00",
+ "started": "2026-11-20T15:27:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T15:22:20+00:00"
+   "checked": "2026-11-20T15:27:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-20T15:22:21+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T15:27:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T15:22:21+00:00"
+   "checked": "2026-11-20T15:27:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-20T15:22:22+00:00"
+   "hits": 9,
+   "checked": "2026-11-20T15:27:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T15:22:22+00:00"
+   "checked": "2026-11-20T15:27:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T15:22:22+00:00"
+   "checked": "2026-11-20T15:27:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T15:22:22+00:00"
+   "checked": "2026-11-20T15:27:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T15:22:23+00:00"
+   "checked": "2026-11-20T15:27:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T15:22:23+00:00"
+   "checked": "2026-11-20T15:27:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T15:22:23+00:00"
+   "checked": "2026-11-20T15:27:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T15:22:24+00:00"
+   "checked": "2026-11-20T15:27:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T15:22:24+00:00"
+   "checked": "2026-11-20T15:27:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T15:22:24+00:00"
+   "checked": "2026-11-20T15:27:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T15:22:24+00:00"
+   "checked": "2026-11-20T15:27:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 difficulty settings how to set up easy mode",
+   "title": "GTA 6 difficulty settings: How to set up 'easy mode'",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlpaWTFBeS03eGJWVndmRHFiOGpGOUtpQXB0dHY5cUE5eVZ1T2laYUxHM1Vxd0lkZUx1RVVCUE53bzMzeEhsMkhEMU5Oa0E2SHlBUEFNQm1CVTc2S1c2Y3pzRzVXRFNLS2dZUy15YWJEcFBac1JnMWpjamVSZFRMMTRtSDlDWXlTQWYw?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-20T15:25:27+00:00",
+   "seen": "2026-11-20T15:27:23+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story explains how to set up the game's easy mode."
+  },
+  {
+   "id": "rockstar games releases gta vi album featuring 24 previously unreleased tracks",
+   "title": "Rockstar Games releases GTA VI album featuring 24 previously unreleased tracks",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWhJcUE2aVdfT0JaeTBMY0ZPenUtbnVJWUZoU2dEdWVwa2ZmVEJYMEhoSlF0UGN0RzR0VW9TUUkyVXJXalJXdms5VUl4YkRkbVJWTEZ6dmVFSUVHZEhzVDh6NEhiWGlraDQ2Q3A3VFFsN2FlMnRQSGZoVnd2TWl2dm9oRndvZG1ITmw2MnUxaHlPdno4QTFQNkRHOVdXNzI2ajFKbXdUVE1kZkpCWEQtMmJwd2dwZw?oc=5",
+   "outlet": "Anadolu Ajansı",
+   "via": "Google News",
+   "published": "2026-11-20T15:24:42+00:00",
+   "seen": "2026-11-20T15:27:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The outlet reports on a GTA VI album that includes 24 unreleased tracks."
+  },
+  {
+   "id": "see the gta 6 voice actors side by side with the characters they play",
+   "title": "See the ‘GTA 6’ Voice Actors Side-by-Side with the Characters They Play",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWhqLUp4M2pkcFNHS1NkX0M1YnhmRFlpT0hoellzd0o5dnoycm1DUlY4b0pWTlVfNnd4dF9iWWcyUllTTURGZ0hRU3JTNnU5Wmo1UDV3Yi1FTm96R016c0I3Q1pWOWZNMzZ4TDlxQ19NMVk3X056MGVuNXdpWHZkMw?oc=5",
+   "outlet": "People.com",
+   "via": "Google News",
+   "published": "2026-11-20T15:21:55+00:00",
+   "seen": "2026-11-20T15:27:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece shows voice actors side-by-side with the characters they portray in GTA 6."
+  },
   {
    "id": "it took me less than an hour to find my first incredibly minor rockstar easter egg in gta 6",
    "title": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida",
@@ -157,6 +196,19 @@
    "ai_summary": "A report states Grand Theft Auto 6 sales have surpassed $2.3 billion after launch."
   },
   {
+   "id": "gta 6 cheats every working code for ps5 and xbox series x s so far",
+   "title": "GTA 6 Cheats: Every Working Code For PS5 And Xbox Series X|S So Far",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKSGJVVmZlNVl2ejQ1UnNxWnIwRF8tLThNa1AwSld2UVdieTJ1VWdSMnJCNzFkcHRQbU5vNG5lMzY3VWNISld5SGdlVTEyMThHRGEwbXpzV0tEZzNJeGhlbHc0UTZjUmw2MGgxbFN4OGVYREE?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-20T15:14:52+00:00",
+   "seen": "2026-11-20T15:27:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article lists working cheat codes for PS5 and Xbox Series X|S in GTA 6."
+  },
+  {
    "id": "memphis rapper kia shine lends his voice to grand theft auto vi",
    "title": "Memphis rapper Kia Shine lends his voice to ‘Grand Theft Auto VI’",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0lpZ3Bzb2ZUU1NtUUFVX3h2aVpqYlRYem9jM2d5NzhoNWJXbDBBbWV1cl90bnJFdWhqNWpXUEtlMGtBblVCb05DeU1lYkstVUxiVXpTZUg5WXNuN0tkTUpRZzFsNFlhclpKa3hqenlRX2pna0hMNWZZdl9nTHdNcmZ5YXJ4Y2RabzVldHNBaUdVRlVBTm5PMEpsTjBJY1NYYkHSAbYBQVVfeXFMTnplQmNsUFpmQ2o5Q0JvOVdhVklmU0h5ZWhTaFVZc085NmZmX1FPamZ1LWZLS0JIU0VhMndDYTBqMWY2djVZN3pmN3Rzek85RE1URGxaZW5vUmVCZ1F1Z3h4VUhMcmFTYW1IUHV4eXJqUnlSc3VfeTk0aTgzeGthOTA5X3BfalZOVUJQYWpZUXBWaTJNSEw4ZlRudURTbW1KQXROeGFQREJfXzVJSW9iSldmNDFsUFE?oc=5",
@@ -181,6 +233,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "YouTube GTA 6 enforcement chaos pushes streamers to Twitch."
+  },
+  {
+   "id": "what console should you buy for gta 6 we break down ps5 vs xbox pricing deals and more",
+   "title": "What Console Should You Buy for GTA 6? We Break Down PS5 vs. Xbox Pricing, Deals, and More",
+   "link": "https://www.ign.com/articles/gta-6-best-console-guide-ps5-xbox",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T15:10:01+00:00",
+   "seen": "2026-11-20T15:27:24+00:00",
+   "summary": "What is the best console to play Grand Theft Auto 6 on? We break down PS5, PS5 Pro, and Xbox Series X pricing, frame rates, and new or upcoming hardware deals, and whether it's worth waiting for a PC release.",
+   "topic": "Outage",
+   "record": true,
+   "ai_summary": "The story compares PS5 and Xbox pricing and deals to help decide which console to buy for GTA 6."
   },
   {
    "id": "gta 6 just sold an estimated 2 36 billion in one day nearly triple gta v take two stock is rising",
@@ -285,6 +350,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI is described as a real, expansive open world with a lot to experience and discuss."
+  },
+  {
+   "id": "10 real life gta 6 vice city locations and experiences in miami florida",
+   "title": "10 Real-Life GTA 6 Vice City Locations And Experiences In Miami, Florida",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEdEUkdlNHBiWFhrMWxPR05uVGFfTVRjSVExd01HQ2p5Rk5iYW82TlBKTmVDeVlhTGYzdWllajRFQ2xCMmliSy1mQkN5WjZGUUJjWmJMbTZZZGhlQWdDbFc5TVZDT0xBTkRzOHNobmE1Y19halZaUy1QRllCUFFjYzgxQVJJZzA5MjlJLWotbjNIdlpxVjJNV0stQlQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-20T15:00:00+00:00",
+   "seen": "2026-11-20T15:27:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The report highlights ten real-life Vice City locations and experiences in Miami related to GTA 6."
   },
   {
    "id": "from dua lipa to keith richards inside the star studded grand theft auto vi soundtrack",
@@ -976,6 +1054,19 @@
    "ai_summary": "Diario AS highlights GTA 6 first 24 hours with top discoveries and features found so far."
   },
   {
+   "id": "this is the one thing i ll never do again in gta 6",
+   "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
+   "link": "https://www.ign.com/articles/this-is-the-one-thing-ill-never-do-again-in-gta-6",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T14:00:00+00:00",
+   "seen": "2026-11-20T15:27:24+00:00",
+   "summary": "I visited the zoo in GTA 6 to commit the worst crime imaginable, and now I feel terrible.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The author describes a negative personal experience in GTA 6 at the zoo and vows not to repeat it."
+  },
+  {
    "id": "gta 6 is estimated to be history s biggest entertainment launch",
    "title": "GTA 6 is estimated to be history’s biggest entertainment launch",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPczY4U05vckxVNzhDSVZQa3BTS2tCSHdaOF9RU2dqQk9EeGQzR0V0MTQyVTdsbmZxRXg4RWx3ZUZvSF9Ob2txRXJfQmNFaVhiZHQ5cmRxcVpvM2tlNHl4V1BQak9Ib3VQZ2xMR0xiQjJSdm1Ec3VFRmo2VWltd0YxNXlCYVBTWG1DY0JjaWFHeFFJcDAzUFRld29rUzM3aVoyRjNnNjNscmVxRmo0SHBtSmwxQlA?oc=5",
@@ -1377,6 +1468,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Take-Two CEO is being asked about GTA 7 despite GTA 6 only being days old."
+  },
+  {
+   "id": "gta 6 players are refusing to make use of an infinite money glitch they say ruins the experience",
+   "title": "GTA 6 Players Are Refusing to Make Use of an Infinite Money Glitch They Say Ruins the Experience",
+   "link": "https://www.ign.com/articles/gta-6-players-multiple-money-glitches",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T13:27:48+00:00",
+   "seen": "2026-11-20T15:27:24+00:00",
+   "summary": "Some GTA 6 players are refusing to make use of an infinite money glitch they say ruins the experience Rockstar set out to provide.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Players refuse an infinite money glitch because it ruins the GTA 6 experience."
   },
   {
    "id": "listen to grand theft auto vi the album featuring arca justice fcukers more",
