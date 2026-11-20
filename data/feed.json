@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:14:40+00:00",
- "started": "2026-11-20T07:14:34+00:00",
+ "updated": "2026-11-20T07:19:39+00:00",
+ "started": "2026-11-20T07:19:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T07:14:34+00:00"
+   "checked": "2026-11-20T07:19:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T07:14:35+00:00"
+   "checked": "2026-11-20T07:19:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T07:14:35+00:00"
+   "checked": "2026-11-20T07:19:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T07:14:36+00:00"
+   "checked": "2026-11-20T07:19:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T07:14:36+00:00"
+   "checked": "2026-11-20T07:19:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T07:14:36+00:00"
+   "checked": "2026-11-20T07:19:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T07:14:36+00:00"
+   "checked": "2026-11-20T07:19:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T07:14:36+00:00"
+   "checked": "2026-11-20T07:19:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T07:14:37+00:00"
+   "checked": "2026-11-20T07:19:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T07:14:37+00:00"
+   "checked": "2026-11-20T07:19:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T07:14:37+00:00"
+   "checked": "2026-11-20T07:19:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T07:14:37+00:00"
+   "checked": "2026-11-20T07:19:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T07:14:37+00:00"
+   "checked": "2026-11-20T07:19:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T07:14:38+00:00"
+   "checked": "2026-11-20T07:19:37+00:00"
   }
  },
  "items": [
@@ -896,6 +896,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The report states GTA VI will generate years of high margin recurring revenue for Take-Two, per Wedbush."
+  },
+  {
+   "id": "gta 6 stars dylan rourke and manni l perez share gratitude and insights after launch",
+   "title": "GTA 6 Stars Dylan Rourke and Manni L. Perez Share Gratitude and Insights After Launch",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2VvUEVSX1NTOGZVOFpGa0NGdlVjcmdYemNheFE5XzNRR1dqM1BSemJGVVJidVM5ZjBfVkFtOW1POG1TZ1pmVG82U0c1YlZPUzQ4Mk1WZHVBdUN1UnNVSUNrRjgwTmJ0WE9xUHR2WU92TGJkeEZRbC1PNE9BbUc1alJYcXE?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-20T03:44:00+00:00",
+   "seen": "2026-11-20T07:19:34+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports gratitude and insights from GTA 6 stars Dylan Rourke and Manni L. Perez after the game's launch."
   },
   {
    "id": "gta 6 sales surpass 24 5 million units worldwide",
