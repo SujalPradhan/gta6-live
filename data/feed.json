@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:54:30+00:00",
- "started": "2026-11-20T06:54:25+00:00",
+ "updated": "2026-11-20T06:59:35+00:00",
+ "started": "2026-11-20T06:59:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T06:54:25+00:00"
+   "checked": "2026-11-20T06:59:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T06:54:26+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T06:59:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T06:54:26+00:00"
+   "checked": "2026-11-20T06:59:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T06:54:26+00:00"
+   "checked": "2026-11-20T06:59:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T06:54:27+00:00"
+   "checked": "2026-11-20T06:59:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T06:54:27+00:00"
+   "checked": "2026-11-20T06:59:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T06:54:27+00:00"
+   "checked": "2026-11-20T06:59:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T06:54:27+00:00"
+   "checked": "2026-11-20T06:59:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T06:54:27+00:00"
+   "checked": "2026-11-20T06:59:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T06:54:27+00:00"
+   "checked": "2026-11-20T06:59:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T06:54:27+00:00"
+   "checked": "2026-11-20T06:59:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T06:54:28+00:00"
+   "checked": "2026-11-20T06:59:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T06:54:28+00:00"
+   "checked": "2026-11-20T06:59:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T06:54:28+00:00"
+   "checked": "2026-11-20T06:59:34+00:00"
   }
  },
  "items": [
@@ -1130,6 +1130,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The headline reports that Xbox Series X|S sales rose in the U.S., driven by GTA 6 and Gears of War: E-Day."
+  },
+  {
+   "id": "gta 6 metacritic score is 99 but will it hold as more reviews roll in",
+   "title": "GTA 6 Metacritic Score Is 99, but Will It Hold As More Reviews Roll In?",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2dyTGVtdkQzQWNhWXdIUnVYTkVlZzhtY2FJYjdxcmdMTUdsNm5NZWlKZXBSU1ZoMTBjMHdPblFHYUl4T2VyczJIMmJoNFlZUVBLSVBQTEZXc25hTFBCcnYzNnhlNzl1SzNrLWEwa3lPNy1HYUJrUTQ3VWpTX2ItWU5LWGtRSHJuNXRTcmZhRm1oQTJCTi01bUhvamppbWozeGJZR0ZNekR6MGUzNnFSdHFkU0dPek1pVzVOS2J30gHLAUFVX3lxTE90SkFqUXRTOWhjYnFaZXRaTFplRDFwTTJ1Tkl4anoyZlJSY21iYzdMT0daalF1dHVOeHRWRW1DSnVCSEtfMXl0YUxTVWdkU1g5em5aaG5zOGlKNjN0LTRlb0RVUTJ5ZUc5b3Y4VS1oRWR1OGpsZUM0cVhWbWpZamotMzlYbk90Z3dpTkZGWGtwamFFYUhsNl9ldmxHZnJmSWhYc3lFNkh0Y0dzZmVQbElBV3MwRlFwN1IzQzQ5RGs2cEFoU1FodFdMSnhZ?oc=5",
+   "outlet": "Esquire India",
+   "via": "Google News",
+   "published": "2026-11-20T02:19:02+00:00",
+   "seen": "2026-11-20T06:59:30+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story notes the Metacritic score for GTA 6 and questions whether it will hold as more reviews come in."
   },
   {
    "id": "gta 6 breaks records as sales top 2bn industry estimate",
