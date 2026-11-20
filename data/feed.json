@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T22:45:05+00:00",
- "started": "2026-11-20T22:44:58+00:00",
+ "updated": "2026-11-20T22:50:06+00:00",
+ "started": "2026-11-20T22:49:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T22:44:58+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T22:50:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T22:44:59+00:00"
+   "checked": "2026-11-20T22:50:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T22:44:59+00:00"
+   "checked": "2026-11-20T22:50:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T22:45:00+00:00"
+   "checked": "2026-11-20T22:50:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T22:45:00+00:00"
+   "checked": "2026-11-20T22:50:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T22:45:00+00:00"
+   "checked": "2026-11-20T22:50:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T22:45:01+00:00"
+   "checked": "2026-11-20T22:50:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T22:45:01+00:00"
+   "checked": "2026-11-20T22:50:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T22:45:01+00:00"
+   "checked": "2026-11-20T22:50:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T22:45:01+00:00"
+   "checked": "2026-11-20T22:50:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T22:45:02+00:00"
+   "checked": "2026-11-20T22:50:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T22:45:02+00:00"
+   "checked": "2026-11-20T22:50:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T22:45:02+00:00"
+   "checked": "2026-11-20T22:50:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T22:45:02+00:00"
+   "checked": "2026-11-20T22:50:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is getting review bombed",
+   "title": "GTA 6 is Getting Review Bombed",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQ04wcDdlRC1aY1pWcUlCaFJYNFdsNGRmUnQwRnE0elJPTkFGTThvQ3FYLVVDWS1jTnBiS2JUcmpLUlExUlVuTDFLVHhvVGFWby1wVzdyMGtRVlk?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-20T22:46:17+00:00",
+   "seen": "2026-11-20T22:50:01+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is getting review bombed."
+  },
   {
    "id": "gta 6 breakfast run walkthrough",
    "title": "GTA 6 Breakfast Run walkthrough",
@@ -207,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI release day affected Tucson businesses."
+  },
+  {
+   "id": "columbus police warn of influence of grand theft auto vi on children nbc4 wcmh tv",
+   "title": "Columbus police warn of influence of Grand Theft Auto VI on children - NBC4 WCMH-TV",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2tlVng0LTBVV3ZPQmx6WS1rTEFCeTF3Z0hPT0E2VG9FQWZqaVZjaGF4Q0ZXLWFJcjFrbUtGT2tRVGgzUDFncHZqUzByU0NvcW5qSUNMUGE3eTJQdElkU0l3d1NFU2U3cXMwYUVEZzZGeG9MMkY3aWdMd2xYeFdmRGdPLXc5OUVDbVpOUW53MmhVcWpQTlQzNHdIZUM3WVBoMDNIcjRKZnYxZ3RUaFhwVjdPOV9FUzTSAbwBQVVfeXFMTjVTWENCNFg2clRVZFB5RFMwb3dlck9FYjBTY05sQUxJbUdURHpGTDBraURCV1dUVlFmZmZzbzV5WjQzNmlYREtrUGNzbkxIM3JXcGpOc3BOUGMxRXcwaW9aOHhtYkV2cXRmY0FvSHZZYWNSTko0U3dKRFRJeWpGc1U5VmdpWktYanJ0bFZwX2c3bWUyakswNmxUXzVuNnczalRmdnljeEtSbnVBYld0cTJ4YjF0ZzJKb0x1Nmc?oc=5",
+   "outlet": "NBC4 WCMH-TV",
+   "via": "Google News",
+   "published": "2026-11-20T22:30:00+00:00",
+   "seen": "2026-11-20T22:50:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Columbus police warn of the influence of Grand Theft Auto VI on children."
   },
   {
    "id": "gta 6 pc release date is grand theft auto 6 coming to pc",
@@ -1275,6 +1301,19 @@
    "ai_summary": "GTA 6 made $3.79 billion on day one, described as the biggest entertainment launch ever by Inven Global."
   },
   {
+   "id": "grand theft auto vi generates record breaking revenue on launch day",
+   "title": "Grand Theft Auto VI generates record-breaking revenue on launch day",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHExZmJ2dmpzYm5LajNyeFFqb2t2TXNJVHZnTFRLWTFZcFlpQ09zRnJqbXU1QkZsLWk3SUhjeElXWGtNNmhFQVAxVVcwaDZwd0NHakhIVGVrM1VfNk9admF2QWhZLUNJZk9XM3Fua1pOd0Y3RFpac01QdDFhYmFGbU96bEtkbEZ6UVNEVUo2Z2RFLVZBV1RfVVdWUm4yN201Z3d2UXNpUHF3UQ?oc=5",
+   "outlet": "Techloy",
+   "via": "Google News",
+   "published": "2026-11-20T20:43:55+00:00",
+   "seen": "2026-11-20T22:50:00+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI generates record-breaking revenue on launch day."
+  },
+  {
    "id": "gta 6 official sales numbers break records with 32 5 million pre release units sold generating 3 79 billion",
    "title": "GTA 6 Official Sales Numbers Break Records With 32.5 Million Pre-Release Units Sold, Generating $3.79 Billion",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeEIyS1A3d2ViOGs2bV8yel9fY190b0RVbnk1NzcwRzI4Zk1ScF9UbU53UWVmc19fRzVIMVc0VGpqR2lLaWltY05QWlZIYWlhZEdESXJmUEd6bWJpNkI0QWhUdmQwYnBLbDVQb0hXaHFNWUVQMkdQYU1pRExwcDdvSGRnT0NRVFJadzBDOTFVVnFhcTF6dFMwLTdwa2R3YVpSbmxqNHFKb2FoOUU0elBkVndVN1VTN1dDRVVnWHlOVnQ?oc=5",
@@ -1533,6 +1572,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that Grand Theft Auto VI generated 3.79 billion dollars in first-day sales and set an entertainment launch record."
+  },
+  {
+   "id": "grand theft auto vi generates 3 79 billion in first day sales",
+   "title": "Grand Theft Auto VI generates $3.79 billion in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Lcmdlb0dRbXVKREl5bjFPSXlMWm13a0VWTVpoQVlTeWYxY1RlN0sySzdmWEhmMDRWdGZTeXVSLUgzMkZVZGpwWGpJY2NESnNsaGNMWk1kdGQ5X1V6ZEloMFMzZG0yN3F5bmd1djlKd9IBdEFVX3lxTE5MbnRESC1adV9uakVGZXBQdUU3eXhUUkp6MGZ1RHZqSGxPNUNrSG84T1h4WWlrVFF4bXFYaDloZGRUVUZLRmFISFM2Q2VLMUw2X19mQm1wRHJRdVlGREhMdFJ4YUNscHhBTktySFYzNEp6WGRI?oc=5",
+   "outlet": "MyStateline",
+   "via": "Google News",
+   "published": "2026-11-20T20:28:07+00:00",
+   "seen": "2026-11-20T22:50:00+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI generates $3.79 billion in first-day sales."
   },
   {
    "id": "gta 6 sets record with 3 79 billion in first day retail sales report",
@@ -3132,6 +3184,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The author shares playtime experience and outlines initial actions to take in GTA 6."
+  },
+  {
+   "id": "have the ps5 and xbox console shortages been exaggerated ahead of the gta 6 launch",
+   "title": "Have the PS5 and Xbox Console Shortages Been Exaggerated Ahead of the GTA 6 Launch?",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXFRRS1MbUtrajRfVnY4NVJEWWMzTEF6VmNBVi1QT0hwa0EzMXEyVjZnZDlfck9JN3p4Zl9kS2NaQUZMdFhocXZZQ1RySG5ETEJFTzY0NndfUUlKS1FzVXVhVGMyZ2FiLVBWWFdsS1JRQ3BxdHZNSEhQTm5YbXRteUxxdHV2RzY3?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-20T19:02:28+00:00",
+   "seen": "2026-11-20T22:50:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on whether PS5 and Xbox console shortages have been exaggerated ahead of the GTA 6 launch."
   },
   {
    "id": "gta vi made an estimated 2 36 billion on day one now 1 600 rockstar workers are voting on a union",
