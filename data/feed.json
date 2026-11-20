@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T10:35:54+00:00",
- "started": "2026-11-20T10:35:48+00:00",
+ "updated": "2026-11-20T10:40:48+00:00",
+ "started": "2026-11-20T10:40:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T10:35:49+00:00"
+   "checked": "2026-11-20T10:40:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 90,
-   "checked": "2026-11-20T10:35:49+00:00"
+   "checked": "2026-11-20T10:40:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T10:35:50+00:00"
+   "checked": "2026-11-20T10:40:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:35:50+00:00"
+   "checked": "2026-11-20T10:40:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T10:35:50+00:00"
+   "checked": "2026-11-20T10:40:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T10:35:50+00:00"
+   "checked": "2026-11-20T10:40:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 22,
-   "checked": "2026-11-20T10:35:51+00:00"
+   "hits": 21,
+   "checked": "2026-11-20T10:40:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T10:35:51+00:00"
+   "checked": "2026-11-20T10:40:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T10:35:51+00:00"
+   "checked": "2026-11-20T10:40:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T10:35:51+00:00"
+   "checked": "2026-11-20T10:40:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T10:35:52+00:00"
+   "checked": "2026-11-20T10:40:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T10:35:52+00:00"
+   "checked": "2026-11-20T10:40:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:35:52+00:00"
+   "checked": "2026-11-20T10:40:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T10:35:52+00:00"
+   "checked": "2026-11-20T10:40:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 generates estimated 2 36 billion dollars in sales",
+   "title": "GTA 6 Generates Estimated 2.36 Billion Dollars in Sales",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hRWJrYWJKTi1UbVFLMk5EeXFSYlp3bjlfZjNWam9teWNnTTdhQ2kyd3oyT2pfYzJ2dW9CM3dLczhvaVJlMElaYWhiWDJnLVVpTFRvalFsT0N5ckJhNnBxT2pB?oc=5",
+   "outlet": "SuaraGarut.ID",
+   "via": "Google News",
+   "published": "2026-11-20T10:35:23+00:00",
+   "seen": "2026-11-20T10:40:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports estimated GTA 6 sales reaching a large dollar amount."
+  },
   {
    "id": "gta 6 recouped its costs on launch day and tripled gta 5 s record",
    "title": "GTA 6 recouped its costs on launch day and tripled GTA 5’s record",
@@ -326,6 +339,19 @@
    "ai_summary": "The story reports that Grand Theft Auto VI has been in development for 30 years."
   },
   {
+   "id": "not in florida u s lawmaker slammed over post about grand theft auto vi",
+   "title": "‘Not in Florida:’ U.S. lawmaker slammed over post about Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3c1NGEzVEF1MnRzSkhQdnUwYmFNRFZERkxyaWpSaG9fa3lIbThsaGxxOU9vemFGbUtOTmJ6TFpZOVJPZHFTdlNWdGZIeXUtM3hMZVctQU1zUUJFZ1lzWUs1a2VNRUhzU01xZGx3dEtKUVdpYm04ZG5GcFdZWVNtanhXbTY5TThwZEVPTms5T0Z3X2RuWEtXWEhMcDRqcFZVdnFRNlgtSDBoS2c3VTB6MFpBaFBZbGZ0bDJHTTNSSlltdw?oc=5",
+   "outlet": "WKMG",
+   "via": "Google News",
+   "published": "2026-11-20T10:00:01+00:00",
+   "seen": "2026-11-20T10:40:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A U.S. lawmaker criticized a post about Grand Theft Auto VI with a 'Not in Florida' remark."
+  },
+  {
    "id": "why grand theft auto vi is one of the biggest entertainment releases ever",
    "title": "Why 'Grand Theft Auto VI' is one of the biggest entertainment releases ever",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkxEeV9OR1oyNTlKU201SDVvVGVuS2trUGVOWFBmVnk0ME14TGh2bkM0VHpFelRVMHBlMEVkdnBaSEdsWU9Kc0tIYVBmNzlDRWxFZ29vbUppeV9BT3FuSktrdEZ5eVk4Z2ZBNUlMZFlfenhSS1pVTXVWRGltdnl1T2ZlaTVKSEZ1NHFMUmZUa2pXSWZ4empYc0lrd1VXSk0?oc=5",
@@ -376,6 +402,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that Doja Cat is upset about not being included among the featured artists in Grand Theft Auto 6."
+  },
+  {
+   "id": "parody is not a free pass a marketer s gta vi launch primer to borrowing from games",
+   "title": "Parody is not a free pass: A marketer’s GTA VI launch primer to borrowing from games",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0NxNW9MVURwQVZSUWgzMGpYTTBTNU9ER0pBZTNxUTY5ZXg2T25yZVl0TFV2TXo2bU1aaGpvRmcwUFdqaGFzaEtkQVVLSmltZ05aSWwwQnJibHpSUjBoOHRHQWJQXzBXUDhHZURWcVFiWHJwT2d5Qk4zdnJBVlh2TS1uSkRfb09ycG1FM2hoMUJ5TDY4R29MMHloUl81V2ItZTVESUxJY2xsdEo1Umo1bHNFbWxWUQ?oc=5",
+   "outlet": "The Drum",
+   "via": "Google News",
+   "published": "2026-11-20T09:57:59+00:00",
+   "seen": "2026-11-20T10:40:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece argues that parody isn’t a free pass, offering a launch primer on borrowing from games."
   },
   {
    "id": "gta 6 endings explained everything that affects story s outcome",
@@ -597,6 +636,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims all WAiNK curiosities are in GTA 6."
+  },
+  {
+   "id": "gta 6 sales overtake the odyssey on day one and spider man is next",
+   "title": "GTA 6 sales overtake The Odyssey on day one — and Spider-Man is next",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3lYeElkdV9Gcm5rQWZINnZWNjVLemE2LVlKWUt6a3FSMUxKSkVyVFlub004ZzhsTkE2N0luMTFRRTh5emMySHJaNm52OF92S1czY0NEdzJKRTBHbUl5UFZsM0RORXRLblZ0R21mVjRQZ3k5bmR4aWllRFNOTTNDXzEySGwyMWR4M1pkOEdtUUZGQQ?oc=5",
+   "outlet": "The Times",
+   "via": "Google News",
+   "published": "2026-11-20T09:05:54+00:00",
+   "seen": "2026-11-20T10:40:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sales surpass The Odyssey on day one, with Spider-Man following next."
   },
   {
    "id": "all waink landmarks in gta 6",
