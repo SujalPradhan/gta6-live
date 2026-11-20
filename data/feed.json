@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T23:15:21+00:00",
- "started": "2026-11-20T23:15:08+00:00",
+ "updated": "2026-11-20T23:20:15+00:00",
+ "started": "2026-11-20T23:20:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:15:09+00:00"
+   "checked": "2026-11-20T23:20:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:15:09+00:00"
+   "checked": "2026-11-20T23:20:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:15:10+00:00"
+   "checked": "2026-11-20T23:20:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-20T23:15:10+00:00"
+   "hits": 5,
+   "checked": "2026-11-20T23:20:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T23:15:10+00:00"
+   "checked": "2026-11-20T23:20:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T23:15:10+00:00"
+   "checked": "2026-11-20T23:20:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T23:15:11+00:00"
+   "checked": "2026-11-20T23:20:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T23:15:11+00:00"
+   "checked": "2026-11-20T23:20:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T23:15:11+00:00"
+   "checked": "2026-11-20T23:20:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T23:15:11+00:00"
+   "checked": "2026-11-20T23:20:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T23:15:12+00:00"
+   "checked": "2026-11-20T23:20:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T23:15:12+00:00"
+   "checked": "2026-11-20T23:20:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T23:15:12+00:00"
+   "checked": "2026-11-20T23:20:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T23:15:12+00:00"
+   "checked": "2026-11-20T23:20:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 metacritic user score opens at 5 2 10 amid review bombing accusations",
+   "title": "GTA 6 Metacritic user score opens at 5.2/10 amid review-bombing accusations",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQazYzX1Jwci1LdFB1Wkl6VHJmcmU4UEJST1Y3cmFvZmRLYkZMZWRmVHd0clplWk0tdVBnRnBCNU5aUi1qM0NYVXI2T1JNWkZlOEs1U09yTzU5MlBWaHlhLVpIVHNuelpEUl90XzZmWlpwSjl6UHpITnJfZmRkS1pJQg?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-20T23:13:58+00:00",
+   "seen": "2026-11-20T23:20:10+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 Metacritic user score opens at 5.2/10 amid review-bombing accusations."
+  },
   {
    "id": "gta 6 coffee break walkthrough",
    "title": "GTA 6 Coffee Break walkthrough",
@@ -144,6 +157,19 @@
    "ai_summary": "15 hidden GTA 6 controls and features you should know about."
   },
   {
+   "id": "how parents can talk to teens about grand theft auto vi",
+   "title": "How parents can talk to teens about Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkZKdXpITU1YMFdGUkpBYzQ5dzFVdlhkVVFXNDJRUUxQeUZXSy1qNXJxLWZlWWxrQVFpQnZMSFpIZnYwNEdGZlRsOEw1MkVWMHdQLWl4MzZRZHJfV0d5RlU3QW1YdFEzZERmb0RaeVI5TGVSanVvdXBsUUx0TFE3VzllWnhZRHpndkctY0dzZmQ?oc=5",
+   "outlet": "WCVB",
+   "via": "Google News",
+   "published": "2026-11-20T23:07:00+00:00",
+   "seen": "2026-11-20T23:20:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Parents can talk to teens about Grand Theft Auto VI."
+  },
+  {
    "id": "gta 6 sales have reportedly generated 2 36 billion in revenue",
    "title": "GTA 6 sales have reportedly generated $2.36 billion in revenue",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWhadGVWLVFfZlNjbG1UR1d0UTM5QkM4MG9TX18zal81dG9HRnBtTC1ucmFmRElyYkJUeS1hMGlLWDFtME9OVEtjcUhOOV9DYnRrczJ4ZEhNMjlkRkRjVEFJQ0d5RFNwUDNYU3Rfc3NqaVFkVjhHd2V0WGFmQmJOc3ItX0lMbFJSLU95VVB5N1VwdzBmSXc?oc=5",
@@ -181,6 +207,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports First Day Sales hit $3.79 billion and notes Rockstar shattered entertainment records, with no copy count provided in snippet."
+  },
+  {
+   "id": "gta 6 could be playable on pc by next week say modders",
+   "title": "GTA 6 could be playable on PC by next week, say modders",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTBPX2VxbmxMbDUxYUdqOWhwa2RLRzRIUlA0dzIxTjVva2ZnNDZuS2dFSWUyWVZQZGdST3dJb1hDOHRkd3F4UzFYQkRVem1wVTJvVHQtcWh4b1kwV0tXM2FDajBNSlA2N2dQekRwN1VFQ3NVNWtfX0NqcjFjcUh5cDZ3T0xqd0NfX0NSYw?oc=5",
+   "outlet": "PC Guide",
+   "via": "Google News",
+   "published": "2026-11-20T23:03:21+00:00",
+   "seen": "2026-11-20T23:20:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 could be playable on PC by next week, according to modders."
   },
   {
    "id": "grand theft auto vi has sold 32 5 million copies and earned 3 8 billion",
@@ -454,6 +493,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes a Grammy-winning songwriter brings Philly roots to Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 players react after exclusive shops greet non ultimate edition buyers with locked doors",
+   "title": "GTA 6 Players React After Exclusive Shops Greet Non-Ultimate Edition Buyers With Locked Doors",
+   "link": "https://www.ign.com/articles/gta-6-players-react-after-exclusive-shops-greet-non-ultimate-edition-buyers-with-locked-doors",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T22:19:52+00:00",
+   "seen": "2026-11-20T23:20:10+00:00",
+   "summary": "GTA 6 players are being locked out of in-game stores because they don't own the Ultimate Edition, and they've got some thoughts about how Rockstar handled it.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Exclusive shops greet non-Ultimate Edition buyers with locked doors, prompting player reactions."
   },
   {
    "id": "how big was gta vi s 3 8 billion launch think national economies",
@@ -3498,6 +3550,19 @@
    "ai_summary": "The story reports a BBC exploration of the real-world inspiration for GTA 6, comparing Miami and Vice City."
   },
   {
+   "id": "miami or vice city tour the real world inspiration for gta 6",
+   "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xaXpGZ0g1YXUxN0todWpKSHhyN3Y4Ry0yTGtCRWF4SG9GUWVpemFsNUZfQnRXUm1GN1FzaFpTS2VOYnRpb2Rlb0k5NVMxNmd2SkVCZWNURWs?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-20T18:48:48+00:00",
+   "seen": "2026-11-20T23:20:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "BBC looks at the real-world inspiration for GTA 6 as Miami or Vice City."
+  },
+  {
    "id": "sweet like candy is camila cabello s c xoxo goodbye in gta vi",
    "title": "“Sweet Like Candy” is Camila Cabello’s ‘C,XOXO’ goodbye in GTA VI",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXo0Vl8tVTVzYTNLaEZONGtwWkVxd0ZjMl9vLXFxNldMOTJmYTltMXZGZGJIMnNBSUVNempjNk8wS1M1bjZ2OWhMTk9nVTNpTndOTVBRdjR0QnZBX1d1dy1KRURhU3hyQ21YTEZ3dlJKN1NhMTJSQjl4QnVTd2p2b0szXzlCMjl1?oc=5",
@@ -3574,6 +3639,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 is described as having Silicon Valley doppelgängers."
+  },
+  {
+   "id": "gta 6 the album is out now to stream or purchase but doja cat is upset her music isn t in the game",
+   "title": "GTA 6: The Album is Out Now to Stream or Purchase, But Doja Cat is Upset Her Music Isn't in the Game",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGV2Q2JJRDFPNUVvTmp3aXZLbXlIb1JOQS1mbE5UYUhTd21VdkpZc192MmJSemJocEZkTVE1ZHNvWXlpenNEcFJrYWtVdVVldERfemNRY1hBRGxEeTQzS05vLTVScW5GOUZlSnFueGJSbXNJWGRFZ25HaVRGMTZodnVtVHJDS3M0VTBnT3JjUVdxRzlfYmJ1bUY5YjR2VG9tTFE?oc=5",
+   "outlet": "Xbox Achievements",
+   "via": "Google News",
+   "published": "2026-11-20T18:39:57+00:00",
+   "seen": "2026-11-20T23:20:10+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "GTA 6: The Album is out, but Doja Cat is upset her music isn't in the game."
   },
   {
    "id": "gta 6 sets new uk internet traffic record",
@@ -5459,6 +5537,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece reveals GTA 6’s official connection to Red Dead Redemption."
+  },
+  {
+   "id": "the staggering amount rockstar made after selling 25 million copies of gta 6",
+   "title": "The staggering amount Rockstar made after selling 25 million copies of GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdk9TYU1XVWRKSlZoRktmQjdia2JsRno0eG8tYTNBbE8yZm5JRnNqNEFNWjFaZHRtcjU2SzZlVVpSaDh4RjdGWGQtUE5ZREFHakhpLXM2TWh6YzRXckZ0U3d1MGdtUWxkdFQ1VDdjcGdYX3BEX3g5RThENGhBX251WEFR?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-20T16:10:00+00:00",
+   "seen": "2026-11-20T23:20:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The Independent reports on the large revenue from selling 25 million copies of GTA 6."
   },
   {
    "id": "is bigfoot really in gta 6",
