@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T04:13:44+00:00",
- "started": "2026-11-20T04:13:37+00:00",
+ "updated": "2026-11-20T04:18:47+00:00",
+ "started": "2026-11-20T04:18:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T04:13:37+00:00"
+   "checked": "2026-11-20T04:18:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T04:13:38+00:00"
+   "checked": "2026-11-20T04:18:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T04:13:38+00:00"
+   "checked": "2026-11-20T04:18:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T04:13:39+00:00"
+   "checked": "2026-11-20T04:18:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T04:13:39+00:00"
+   "checked": "2026-11-20T04:18:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T04:13:39+00:00"
+   "checked": "2026-11-20T04:18:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T04:13:39+00:00"
+   "checked": "2026-11-20T04:18:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T04:13:40+00:00"
+   "checked": "2026-11-20T04:18:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T04:13:40+00:00"
+   "checked": "2026-11-20T04:18:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T04:13:40+00:00"
+   "checked": "2026-11-20T04:18:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T04:13:41+00:00"
+   "checked": "2026-11-20T04:18:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T04:13:41+00:00"
+   "checked": "2026-11-20T04:18:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T04:13:41+00:00"
+   "checked": "2026-11-20T04:18:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T04:13:41+00:00"
+   "checked": "2026-11-20T04:18:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 overtakes zelda as highest rated game",
+   "title": "GTA 6 Overtakes Zelda as Highest Rated Game",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsSFktRG52Z1hacUxIRTM4Rlo5UXJSMVo1SXRabmRaUVRJM0RmTi14NjNHSGdPZEpHN2JKM1ltMWktUU5fbjBiV2REOW15ZTFaQ1BqR0dPU0dZSTk3MFNwRzNLTDB0dUpH?oc=5",
+   "outlet": "cwibc.co.id",
+   "via": "Google News",
+   "published": "2026-11-20T04:10:03+00:00",
+   "seen": "2026-11-20T04:18:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 overtakes Zelda as the highest rated game."
+  },
   {
    "id": "it s game time logitech lets staff play gta vi on launch day",
    "title": "It's game time: Logitech lets staff play 'GTA VI' on launch day",
@@ -157,6 +170,19 @@
    "ai_summary": "GTA 6 became the biggest launch in history, approaching the year's highest-grossing film on its first day."
   },
   {
+   "id": "the video game grand theft auto vi released on thursday has generated 1 8 billion in sales and is on track to be the highest grossing single",
+   "title": "The video game \"Grand Theft Auto VI,\" released on Thursday, has generated $1.8 billion in sales and is on track to be the highest-grossing single entertainment event of all time. What do you think? - The Frederick News-Post",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMkdsbGd3dlhQY3JmdU0zMV95OGl0NGVsLUY5SHNFaVJScmNBZ3lrRklLMnM2X1c3UHN5MkRLSExxR0JXVmd1bW02OF9sb2FnamFEb3lYaG13MkhETjl4cmpZQzBPeDJtamt1emxNR2xVTHVLLWxjUm1fWGJiOEtvMFV5anhkcGFoUENYcDhoNG5HSHpMa0wtT1hNbW96c3Y5aDktZnBIQy1kSFg4djJpMEt6dDNBRkRkTEtHeDd0MGQwSXRsRS1nUlZaMmdKMkVsa3cyOXA3N1ZoNlJteDhKTndpams0b1VHTDQ5LUQ3dTFvWHZ4?oc=5",
+   "outlet": "The Frederick News-Post",
+   "via": "Google News",
+   "published": "2026-11-20T04:00:00+00:00",
+   "seen": "2026-11-20T04:18:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI has generated $1.8 billion in sales and is on track to be the highest-grossing single entertainment event of all time."
+  },
+  {
    "id": "biggest entertainment launch ever gta 6 pulls in over 2 billion on day one industry estimate says",
    "title": "Biggest entertainment launch ever? GTA 6 pulls in over $2 billion on day one, industry estimate says",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb0dROXZfNkxUV1BoQzNraVI0Q3VKZlJJWjJzYlJsNklibVJsRHlScFpwQV9wY0RON09uYTlXUGRfRUxPaWpwTnZUbXBHb0Y4RFIyMzdlTUhWMEx1aUdnUXdHTDhOOEZYdGFyOTJOVW9VX1doSFBrSkpBUkQ3RlpaSFhpbG5vSXRSdTdCUFVFQ0FGOVlORW4tU2ZuVzBiLVdheW1RN1VWb1VNcXhsMWhKVXVaa3ZheGtlWnlRNXlLN05Lel9qd21VUU5mRzJ2S0RDZGV6dnFYNXlXbmo5eXh4UHhRR0VpUHZ0QnpocdIB8gFBVV95cUxOS1V5WWZ0RnBYcW9VZkxSaWpEeTlnRjBSWG5rdDh1RUViVUlYX25KSTVKVXNZNTdUZjhnOFFyaW1maWNMOE5hWDRzbW1tMUhTaFI1OVNZcC1sVzlJeWxxeFptRUVLQlFpa05uMTNSc1EzY1Zhb3FjOGFhV2g2WEhWNG0zQ2dzeElYQlU5bTlyWTFmVUJpNk5TbDNITnNBRUVZbDdKN0t6bWF5XzQ0c2V0UThzZEU1WTgzZFFpN0tVNlNNeUhEWjVlZ2RyczBJYXBGMmU1cHU0a0pDd05sTUZGVWpZNGtnaktqaUd6cmRpM1czQQ?oc=5",
@@ -181,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions whether Grand Theft Auto VI lives up to the 13-year wait."
+  },
+  {
+   "id": "gamers happily enter vice city in grand theft auto vi",
+   "title": "Gamers happily enter Vice City in ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODVjTDJxZnJPMm5hQzhWbjhXM1ZYUDJsd1Biay03SFo3ek8yV0RheHFHV054cW1JQUMtMm5jU2luRlRYUjlxZElRTU40UHFTYVJQTUhRTC16QUgwMU13ZnJGeExrcUw1Qnc5QTdCUV9KTEVxUTdaampyNkNFUk9zTGkzVHE0VjTSAZgBQVVfeXFMUGdyWHZBbEh0VWtDQ0RxSGZ3a21odFUwemJ4VzhjY09UMjhjMXVDaVhtbkhKc3phTHg1OWJ1WFRqOFQ3amN5dGlCc2RSd2swZFg2VVVYU2UyU21FOWN2Y21VUXlCQjFDcXpVakUwUkhtU1puZnpnY3NvZVg0RFU0WVJUOEVEWThnaEU5blJVTWdpQlRsSG9zM3o?oc=5",
+   "outlet": "WLNS 6 News",
+   "via": "Google News",
+   "published": "2026-11-20T03:48:36+00:00",
+   "seen": "2026-11-20T04:18:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gamers happily enter Vice City in Grand Theft Auto VI."
   },
   {
    "id": "gta vi will generate years of high margin recurring revenue for take two wedbush",
