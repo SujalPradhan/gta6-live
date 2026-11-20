@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T00:12:27+00:00",
- "started": "2026-11-20T00:12:19+00:00",
+ "updated": "2026-11-20T00:17:27+00:00",
+ "started": "2026-11-20T00:17:20+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T00:12:20+00:00"
+   "checked": "2026-11-20T00:17:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-20T00:12:20+00:00"
+   "checked": "2026-11-20T00:17:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T00:12:21+00:00"
+   "checked": "2026-11-20T00:17:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T00:12:21+00:00"
+   "checked": "2026-11-20T00:17:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T00:12:21+00:00"
+   "checked": "2026-11-20T00:17:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T00:12:22+00:00"
+   "checked": "2026-11-20T00:17:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T00:12:22+00:00"
+   "checked": "2026-11-20T00:17:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T00:12:23+00:00"
+   "checked": "2026-11-20T00:17:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T00:12:23+00:00"
+   "checked": "2026-11-20T00:17:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T00:12:23+00:00"
+   "checked": "2026-11-20T00:17:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-20T00:12:24+00:00"
+   "checked": "2026-11-20T00:17:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T00:12:24+00:00"
+   "checked": "2026-11-20T00:17:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T00:12:24+00:00"
+   "checked": "2026-11-20T00:17:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T00:12:24+00:00"
+   "checked": "2026-11-20T00:17:24+00:00"
   }
  },
  "items": [
@@ -194,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GameSir’s new controllers bring GTA 6 vibes to Xbox for Vice City fans."
+  },
+  {
+   "id": "gta 6 lives up to its 99 score but take two stock stays stuck",
+   "title": "GTA 6 lives up to its 99 score, but Take-Two stock stays stuck",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUdoMld6cXJYUlJwVDBDTHNHSlE4VENQM29mNURhNDQ0WE9GVzYxQ0tYTmZmWXRjVFBGTVNzdXBqLURBX0JXWGZOcllibWpxODE2dXR5SUw0aEF2QmVoX0RsdGhQdjloUTg3ZEJmOS1GUVdRcEZsWktCVkVZS1lQMVU1OVNFZWhvdDU1ZjZR?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-19T23:57:22+00:00",
+   "seen": "2026-11-20T00:17:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 lives up to its score, but Take-Two stock stays stuck."
   },
   {
    "id": "gta vi earns five stars on launch day",
@@ -1221,6 +1234,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article notes residents of Wichita showing excitement ahead of the Grand Theft Auto VI release."
+  },
+  {
+   "id": "wichitans celebrate long awaited release of grand theft auto vi",
+   "title": "Wichitans celebrate long-awaited release of Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2FwWFFPSjBGbXJkOWFXU0VVd052X0x0TUxwSkpMR2g5eU5JXzFHNjBUNnVvbElFUnFjYXlxd195UW5OLWZ6VkozM3duRDdCQ2tzQl9NZnFZSG4wUkRuLVJEVnVTUHFtLUdDX1RFMlBwZ3hqdUtYSVl4VG1tcmlydnVjbnBZMnNyOXpVQmRPLWZucjJBUHpv0gGrAUFVX3lxTE9kelkzam5UMVJiNDBPTmFjOUlQYUVDYkZpT2tNcUxMc2ZjeDlXRWRXRkdlN1dyYkRWaWpKUFZqT2lEemV4Vlh4eURlVGw4S1RFTEM3TzlQZjROYXVoYU9oaWI3aGY3WVN0VGR5WHlRZGZ4aXpqd09iSjdwYmJrTk54UEh2UThUSWFTUmRrLTRDOXpoZVlkQ1hQbFZtVzRsU1NoVnlQTnRSNFJZVQ?oc=5",
+   "outlet": "KWCH",
+   "via": "Google News",
+   "published": "2026-11-19T22:22:00+00:00",
+   "seen": "2026-11-20T00:17:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Wichitans celebrate long-awaited release of Grand Theft Auto VI."
   },
   {
    "id": "kfc australia and we are social stage fake funeral for gta vi launch day lbb lbb",
