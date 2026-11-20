@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:23:28+00:00",
- "started": "2026-11-20T03:23:22+00:00",
+ "updated": "2026-11-20T03:28:30+00:00",
+ "started": "2026-11-20T03:28:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:23:22+00:00"
+   "checked": "2026-11-20T03:28:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T03:23:23+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T03:28:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T03:23:23+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T03:28:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T03:23:24+00:00"
+   "checked": "2026-11-20T03:28:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T03:23:24+00:00"
+   "checked": "2026-11-20T03:28:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T03:23:24+00:00"
+   "checked": "2026-11-20T03:28:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T03:23:24+00:00"
+   "checked": "2026-11-20T03:28:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T03:23:24+00:00"
+   "checked": "2026-11-20T03:28:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T03:23:24+00:00"
+   "checked": "2026-11-20T03:28:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T03:23:25+00:00"
+   "checked": "2026-11-20T03:28:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T03:23:25+00:00"
+   "checked": "2026-11-20T03:28:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T03:23:25+00:00"
+   "checked": "2026-11-20T03:28:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T03:23:25+00:00"
+   "checked": "2026-11-20T03:28:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T03:23:26+00:00"
+   "checked": "2026-11-20T03:28:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "i m just disappointed is the news of lebron james expressing disappointment in gta 6 true amid his imp",
+   "title": "'I'm just disappointed': Is the news of LeBron James expressing disappointment in GTA 6 true amid his imp",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYmpVdlE0bjJKVDM5T2JhT2RaLXJiZmpWcDEyanpUV3ZLZHY1YTJGMXJFSXdYdFg4M3NrQ2VvV3BzMEJEbTJMQUJyYUttZHdCWlRCcC05SGJRU3p2T0ZJRXJXNFFJRWF3d3Nyc0tZYlJERU9FV2lIREF4MFRRXzlUT2UzUExGeGxDMDJMbGh3N3FQcDRPeW9oVDczdTd2SGlXa3VUcW9KdjNaaU1BNWkybExmZklfQ2I2aWlpUlZ0cnhKdm00QUhuendYV2lIRDNMUVU0VU13RG01UV9IM2hlSmYxaW5lQnFORHZwNy1VTHlvc1JReEdTVURPcVZScnprT1ZCMk1Mei1IZkpRSnBLai1CWVRYb1gyU3F0RjlhQ1ZKZXdhdF9WN0lmNTh5UdIBswJBVV95cUxPR2lhT2pWenhnQVVSV0V2SVUtS3NoME5RU1o2VzVfLWdYckx1emlMZGxJb3U5TGd4NHRXOTFzekhkcWYxM0drTm5pdktWS0tnbm5FTkNqZ0RGczc4eHZLVERlQUNxNkZyRXVnU3k1YVhfYm1vOGpxTURyOXhadWtjYjVqZkRFWkt5R04zYzlJMWlhWWNVQjB4NUlJY0hmYTlsV2F3RUNxZWdYU2JiZjJBUUZvb1JhdEg2SUJ1U0gxTjFDNHRBaFh2aTVLakVlZ0dSbU9RaWt5R0FLQnpLNDcwbnQyLUtQUFAzU09RSnp6blRGYTNkY2Z2M01LOXp2Q2JvY0YtMGFxNkVVU096bGUzSV8zb1R5bnNyb0dfZ2tiWDNEaEdYUVQxS3B4Xy1FZDJ2bVNV?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-20T03:10:00+00:00",
+   "seen": "2026-11-20T03:28:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports LeBron James expressing disappointment in GTA 6, questioning whether the news is true."
+  },
   {
    "id": "gta 6 breaks records with estimated 2 36 billion in sales",
    "title": "GTA 6 breaks records with estimated $2.36 billion in sales",
