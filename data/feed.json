@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:29:45+00:00",
- "started": "2026-11-20T07:29:38+00:00",
+ "updated": "2026-11-20T07:34:51+00:00",
+ "started": "2026-11-20T07:34:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T07:29:39+00:00"
+   "checked": "2026-11-20T07:34:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T07:29:39+00:00"
+   "checked": "2026-11-20T07:34:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T07:29:40+00:00"
+   "checked": "2026-11-20T07:34:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T07:29:40+00:00"
+   "checked": "2026-11-20T07:34:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T07:29:40+00:00"
+   "checked": "2026-11-20T07:34:48+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T07:29:40+00:00"
+   "checked": "2026-11-20T07:34:48+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T07:29:41+00:00"
+   "checked": "2026-11-20T07:34:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T07:29:41+00:00"
+   "checked": "2026-11-20T07:34:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T07:29:41+00:00"
+   "checked": "2026-11-20T07:34:48+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T07:29:42+00:00"
+   "checked": "2026-11-20T07:34:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T07:29:42+00:00"
+   "checked": "2026-11-20T07:34:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T07:29:42+00:00"
+   "checked": "2026-11-20T07:34:49+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T07:29:43+00:00"
+   "checked": "2026-11-20T07:34:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T07:29:43+00:00"
+   "checked": "2026-11-20T07:34:50+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 becomes the biggest entertainment launch crossing 2 billion in sales",
+   "title": "GTA 6 becomes the biggest entertainment launch, crossing $2 billion in sales",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGxEbGFFNElWQm5FR1FNdHFVSnMxRDN2aHdEVjIzcFB5SXYzejFvdjZSamo0RUpNRnZXRk45Y2tRbFNlV3J3c1FDNHJnLXRqdlRGZXBHejN3VE5PZFJ5Sm42U1VQbHRPN2d6OVZxVmllekJjd1IybWUyVm5SRWNXeXRUUDVTS1VPTmFXMmRidmlqdHJfVVRqNVRUZHFUeXFIOEQ5Z9IBqgFBVV95cUxQT0RORDJ6engwSFZhbTYwZXBTWUktYjNCYVBYdzRqOC05OVhPTm9vbUFiUkI5MWJkbWVWODNlaWpJNmVxaE1NNTVNanQ0MkdVMjE4X0Q0T3lZcHVTOVRfZlZIMGxKYjh0V2FTX2djYVBlYW9Fb2RsMjNhQ3l4QS1kNjFpaURNeEk5TFRvYTRHRTY0WE1oZ0pGU3JUQWt6cUpQVEprcks1eGNDZw?oc=5",
+   "outlet": "The Week",
+   "via": "Google News",
+   "published": "2026-11-20T07:23:52+00:00",
+   "seen": "2026-11-20T07:34:47+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 becomes the biggest entertainment launch, selling more than two billion dollars."
+  },
   {
    "id": "china isn t selling gta 6 but gamers can t stop won t stop buying it anyway",
    "title": "China isn't selling GTA 6, but gamers can't stop, won't stop buying it anyway",
@@ -363,6 +376,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI release prompts gamers to share thoughts after the long-awaited launch."
+  },
+  {
+   "id": "former gta vi designer on what makes the game so special cnn business",
+   "title": "Former GTA VI designer on what makes the game so special | CNN Business",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjVjMFpqQS1LbGlKX2NpeGpaS0E2Wl9VVDBjVlJXamhYXzByNEFsc2kxYmFtT293ZEZjWnRta2Qzb3BocWQ5NHBVM1EwTUszalU0dUd6UVJSQXZfLVV2S29mVWcxbW0zbWsxVHk4cWlPLWRBQ3ZxVmdtYndlWUlISzFZckxuVlJRblJITmxXeTc5MkFCTXFaLQ?oc=5",
+   "outlet": "CNN",
+   "via": "Google News",
+   "published": "2026-11-20T06:05:00+00:00",
+   "seen": "2026-11-20T07:34:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Former GTA VI designer discusses what makes the game special."
   },
   {
    "id": "gta 6 costs less to play on ps5 than xbox series x",
