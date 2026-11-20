@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:39:53+00:00",
- "started": "2026-11-20T21:39:46+00:00",
+ "updated": "2026-11-20T21:44:47+00:00",
+ "started": "2026-11-20T21:44:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T21:39:46+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T21:44:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T21:39:47+00:00"
+   "checked": "2026-11-20T21:44:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T21:39:47+00:00"
+   "checked": "2026-11-20T21:44:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T21:39:47+00:00"
+   "checked": "2026-11-20T21:44:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T21:39:48+00:00"
+   "checked": "2026-11-20T21:44:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T21:39:48+00:00"
+   "checked": "2026-11-20T21:44:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T21:39:48+00:00"
+   "checked": "2026-11-20T21:44:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T21:39:49+00:00"
+   "checked": "2026-11-20T21:44:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T21:39:49+00:00"
+   "checked": "2026-11-20T21:44:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T21:39:49+00:00"
+   "checked": "2026-11-20T21:44:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T21:39:50+00:00"
+   "checked": "2026-11-20T21:44:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T21:39:50+00:00"
+   "checked": "2026-11-20T21:44:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T21:39:50+00:00"
+   "checked": "2026-11-20T21:44:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T21:39:50+00:00"
+   "checked": "2026-11-20T21:44:45+00:00"
   }
  },
  "items": [
@@ -3470,6 +3470,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks how many chapters and missions there are in GTA 6."
+  },
+  {
+   "id": "rockstar puts gta vi s launch haul at 3 79 billion with preorders riding shotgun",
+   "title": "Rockstar puts GTA VI’s launch haul at $3.79 billion, with preorders riding shotgun",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5idGd1TURQdElHT1JBcUdyLWl2cnI1SXowN1NfbFY1ZmlhYkRQTjJBVWx3Vk1ReUVGc0Y4bDFzblNER2pr?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-20T17:15:30+00:00",
+   "seen": "2026-11-20T21:44:42+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Rockstar reports GTA VI's launch haul as a large amount, with preorders driving momentum."
   },
   {
    "id": "take two s gta 6 could drive higher player spending and long term growth says bank of america",
