@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:16:14+00:00",
- "started": "2026-11-20T12:16:09+00:00",
+ "updated": "2026-11-20T12:21:18+00:00",
+ "started": "2026-11-20T12:21:11+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T12:16:10+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T12:21:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 88,
-   "checked": "2026-11-20T12:16:10+00:00"
+   "checked": "2026-11-20T12:21:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T12:16:10+00:00"
+   "checked": "2026-11-20T12:21:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T12:16:11+00:00"
+   "checked": "2026-11-20T12:21:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T12:16:11+00:00"
+   "checked": "2026-11-20T12:21:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-20T12:16:11+00:00"
+   "checked": "2026-11-20T12:21:13+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T12:16:11+00:00"
+   "checked": "2026-11-20T12:21:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:16:11+00:00"
+   "checked": "2026-11-20T12:21:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T12:16:11+00:00"
+   "checked": "2026-11-20T12:21:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T12:16:12+00:00"
+   "checked": "2026-11-20T12:21:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:16:12+00:00"
+   "checked": "2026-11-20T12:21:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T12:16:12+00:00"
+   "checked": "2026-11-20T12:21:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T12:16:12+00:00"
+   "checked": "2026-11-20T12:21:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T12:16:12+00:00"
+   "checked": "2026-11-20T12:21:15+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "The story reports on what it's like to review GTA 6 and the ongoing exploration of the game."
+  },
+  {
+   "id": "f1 drivers face unique las vegas dilemma as gta vi arrives who s playing",
+   "title": "F1 drivers face unique Las Vegas dilemma as GTA VI arrives: Who's playing?",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90WkZmaTd6d21ZMlBGWk0xbUFGeWJrb2VkSjJfdjFpNG5rT1EySmt1dlVBNEhUMDJxcTgyUEhSU25YTVBoUFd0RXgzdG9kTy1LeHdsVkk4TlpGQ3FZUlhyY1ZHTG5pemFSalhubHFrU3lCbUtwSmRMTkRUQjhwblk?oc=5",
+   "outlet": "ESPN",
+   "via": "Google News",
+   "published": "2026-11-20T12:04:00+00:00",
+   "seen": "2026-11-20T12:21:12+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "An ESPN report notes a Las Vegas dilemma for F1 drivers as GTA VI arrives and asks who is playing."
   },
   {
    "id": "gta6 success is testament to the power of teams sticking together",
@@ -220,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "HDR calibration issues are discussed, with claims that GTA 6 ignores console settings and a recommendation for brightness limits."
+  },
+  {
+   "id": "gta 6 kingpin bowling alley safe code",
+   "title": "GTA 6: Kingpin Bowling Alley safe code",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObldZcWJ4Y014bFdyei1DUW9fLUJMdHdPT2Z6QXI1Y1g4ZXlfeFNPbDRVc0VIV1FaejFINGtMdEhock5aWXFMQmw1OWpFSy1Tck1TRXRDWkZtLVltN0EwZTFoWFRyNm1mTnZDZmR6MWRDUDVoWWd5azQwd3p4NXRpc3Y3UGZvMW9w?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-20T11:58:46+00:00",
+   "seen": "2026-11-20T12:21:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Yahoo Tech covers a GTA 6 safe code at a bowling alley associated with a kingpin."
   },
   {
    "id": "how to get paul walker s fast and furious car in gta 6",
@@ -443,6 +469,19 @@
    "ai_summary": "Clair Obscur: Expedition 33 writer hopes GTA 6 developers are successful in unionizing, questioning profit shares from labor."
   },
   {
+   "id": "clair obscur expedition 33 writer hopes gta 6 devs are successful in unionizing as rockstar layoff concerns circulate despite massive sales ",
+   "title": "Clair Obscur: Expedition 33 writer hopes GTA 6 devs are \"successful in unionizing\" as Rockstar layoff concerns circulate despite \"massive sales and player engagement\"",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOVGhwYkYwTW1iNkJnaFZKa3AyYlVNUEEtSVhvZUk1NE01d1VEMFBnandTX2haZm9HQnhkZUlIem9ub3ZweUdzeGppT0ROUENScHFLeEROU29MVHhKMnluOGJLRllZc1FvZXRPMkdCcjVrdjlIZmpvOFF3c0E5MUdyNGQxT2MxTXlZa043RE1zQWtZUHNuWHR4d29UZWN2QllRUm8yMzZFT2xMNVNPSThuRVRmbHg3Ul82YjZCNld0RGNGMFZhZ1h2QmZiQTNoLTFJTDNGOFU2QVdhRFA5UHpZTThtTnMyQ3dVdXhMak11V0NKVm1KeVRGbGtWSjNkVHN1XzZLdWtyT1dPNDlQamN4M0JPSzVPMzVyeU5HRUxGQTlGMlNadlRUTlRMTm1MalBQNUVrMGVfdw?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-20T11:34:00+00:00",
+   "seen": "2026-11-20T12:21:13+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GamesRadar+ reports on an expedition writer hoping GTA 6 developers unionize amid layoff concerns despite high sales and engagement."
+  },
+  {
    "id": "hunger games opening vs gta 6 the odds still favor a big box office weekend",
    "title": "Hunger Games opening vs. GTA 6? The odds still favor a big box office weekend",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamI2SE9kcnF4VmJ1WTFXbU12al9SaHRiZERxcEVuSTVMVVpyOWY4cHFPeGlQcjVZb01CY3ZKQ1NVeU9YQ3ltRTJOenJHWV8zSnhPSWhzY0xtTFowU01jX3pOZEhzWUxHb2hXWG5oZjhYa280R25zck9FeF93TWhfdkM2TGFRcWFqYmF0UDBBYVNBQy1paWg2eVowTEVBeFI5c2J5bjB6dU8ydHpsS2dtWWVfQ2ZxLXdrakdadUpHM3VUVFgzNTRteXFmMEhQaGtPRmVicA?oc=5",
@@ -519,6 +558,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims GTA 6 has aliens and provides instructions on how to find them."
+  },
+  {
+   "id": "what parents need to know about gta 6 and kids abc news",
+   "title": "What parents need to know about GTA 6 and kids - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbEN4a1lzaGtSZzFJVjlVYVhYZjUtb0I0UG9mcU40TDdCcEZtbVRURXduVzV5LWVrMjlKV19uM3lmV3Z1SVBienNMTkIzbXBRWFVEQW5uWVktM29wa2ZJbVpkeDhlX2tlZ1FBLURFUkljSzh2V2s40gF8QVVfeXFMUGpZT296SDktUjQtTVRwX1pEVlZnbHppVk9CSGlqZURuanVGUTV0NlRYLUtmWE9wUHZNaU5MYXZsREdzSWpva3lPSjRtczZrRndkNndTMDRQMjRnbE16RVRISVNYUEdZVVo0NmhCc3pKeFdwa2w0eldOTmt6Sg?oc=5",
+   "outlet": "Breaking News, Latest News and Videos",
+   "via": "Google News",
+   "published": "2026-11-20T11:26:51+00:00",
+   "seen": "2026-11-20T12:21:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "ABC News explains what parents should know about GTA 6 and kids."
   },
   {
    "id": "gta 6 money cheat code how to get more money fast in gta 6",
