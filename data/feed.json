@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:47:44+00:00",
- "started": "2026-11-20T15:47:37+00:00",
+ "updated": "2026-11-20T15:52:37+00:00",
+ "started": "2026-11-20T15:52:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T15:47:37+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T15:52:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-20T15:47:38+00:00"
+   "hits": 90,
+   "checked": "2026-11-20T15:52:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T15:47:38+00:00"
+   "checked": "2026-11-20T15:52:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T15:47:39+00:00"
+   "checked": "2026-11-20T15:52:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T15:47:39+00:00"
+   "checked": "2026-11-20T15:52:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T15:47:39+00:00"
+   "checked": "2026-11-20T15:52:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T15:47:39+00:00"
+   "checked": "2026-11-20T15:52:33+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T15:47:39+00:00"
+   "checked": "2026-11-20T15:52:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T15:47:39+00:00"
+   "checked": "2026-11-20T15:52:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T15:47:40+00:00"
+   "checked": "2026-11-20T15:52:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T15:47:40+00:00"
+   "checked": "2026-11-20T15:52:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T15:47:41+00:00"
+   "checked": "2026-11-20T15:52:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T15:47:41+00:00"
+   "checked": "2026-11-20T15:52:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T15:47:41+00:00"
+   "checked": "2026-11-20T15:52:34+00:00"
   }
  },
  "items": [
@@ -118,6 +118,19 @@
    "ai_summary": "Kotaku reports on every non-GTA 6 story it published since launch."
   },
   {
+   "id": "gta vi album lineup brings back dua lipa and rina sawayama",
+   "title": "‘GTA VI’ Album Lineup Brings Back Dua Lipa and Rina Sawayama",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12QVY5WXp4Tlpjbm9nbE9OVHhwY1VtUklvQ1VubVFvTXpQN2x5a1VJSTVOUlhkVGgxc2ZwOTA4aEdiSXlZdXFDMVlWR3ZJaHZRUWQ2QVBjV3M3TXRrUGphb3hmNUNrRExPSDNuTmhJYw?oc=5",
+   "outlet": "Vulture",
+   "via": "Google News",
+   "published": "2026-11-20T15:44:09+00:00",
+   "seen": "2026-11-20T15:52:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI's album lineup brings back Dua Lipa and Rina Sawayama."
+  },
+  {
    "id": "metal band debuts new song exclusively in gta 6 instead of releasing it on streaming platforms",
    "title": "Metal Band Debuts New Song Exclusively in 'GTA 6' Instead of Releasing It on Streaming Platforms",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWR5aHZYaGZKM2FtdUp5STNlTnhjSDFDTl9MQS1nWTJSRUVEMldBOFowTWtkMGlmUzUtQ1IySFlQVDNtc0I1UEpZc2Viak5rTzN2MmppWU8xRXo4S0ZjR3N5UGJxNnI2dGNCUnc4M0JWbk1hS2pxWkhxZnJTZFJURjNpUTFUa2VERGw4QURob0dmcE9nVld6NTdMa29Nb053VjA1d3VDc2h5Nks1YVlMdXh6NmRva0VsbldKRU5VVUxfOTVwM1E?oc=5",
@@ -129,6 +142,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "VICE reports a metal band releasing a new song exclusively in GTA 6 rather than on streaming platforms."
+  },
+  {
+   "id": "lana del rey s crazy for you gets official release for gta vi",
+   "title": "Lana Del Rey’s “Crazy for You” Gets Official Release for GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0xpRjZ6Vkg4dFczY2VJS2RnUlNzS1djRWJvYXNJVmF6TERRWGhYWWRIS0tWUzFHblNRSTRSa2t5RTh0TVhzc3BJYjBFaEpiZUd0ckdweHY0X0J6ODA4VWtHZmNrQnlvVkhESWtBdDVmc2hYUzlTYVRmeDFsWFd5ZjNOaGdFaWF3QnNWSVJTYjJ3cTQ?oc=5",
+   "outlet": "Pitchfork",
+   "via": "Google News",
+   "published": "2026-11-20T15:42:36+00:00",
+   "seen": "2026-11-20T15:52:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Lana Del Rey’s song Crazy for You is officially released for GTA VI."
   },
   {
    "id": "gta vi is so demanding it s failing on some ps5s",
@@ -222,6 +248,19 @@
    "ai_summary": "The story reports a slideshow of GTA 6 bikini girl screenshots."
   },
   {
+   "id": "democrats and republicans are using gta 6 memes to attack each other",
+   "title": "Democrats And Republicans Are Using ‘GTA 6’ Memes To Attack Each Other",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQm9BZzU3MldybmNFU0VLNmJQRFY0UVRoVjE0RUVGbGVXbDFNVXBaLWpqalF3SDUyVkp4T2pXckZ0akRtTXdTQWNlTC1xVjRfQklQVmpDdnpET1p2cU1id3A1MTZER0piRkk1M3lOUDBQOFR4N0haUFJnb3NFS1RBUHhaTTVzcGhtb3hwTVFtQVdxNWdEV2ZvcQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-20T15:30:45+00:00",
+   "seen": "2026-11-20T15:52:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Democrats and Republicans are using GTA 6 memes to attack each other."
+  },
+  {
    "id": "gta vi janelle james from abbott elementary tells fans she bullied my way into game role",
    "title": "'GTA VI': Janelle James From 'Abbott Elementary' Tells Fans She 'Bullied My Way' Into Game Role",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkF6elQ2T3lIaVNVV1NkN3pnbHZzLU40ajk0eHNNNDFVclJERE1UT29EU2xZYUJ3S0Eza3laYzdrR2FjckZKdDVZcnhmNHJVdjJFVGN1b1pzUzZCNnp6TEdUV2Nkc3ZiNzZsdENSdUItZG85U0gySm5Lc05tOE1aMmg1aE1kMkc3bnVkRU5xRHhRRTJidkUyMkZR?oc=5",
@@ -311,6 +350,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece shows voice actors side-by-side with the characters they portray in GTA 6."
+  },
+  {
+   "id": "ampere analysis over 1m uk and us xbox players accessed gta 6 before official launch by switching location to new zealand",
+   "title": "Ampere Analysis: Over 1m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN1VPRHFjRzgxbWVIcjJIalAwVFFqVExvQzFNXzNtRnpYSEZrX3VBU0RZUlBYQkktdkdzQVlTQ2VsOTV0dW0wWTQ2cEtDTHhzQmt6LS1FaXVvNEtFQUJNaGs5cUplZXNXZEZZSVV3M2ljUW01N0Y5TF9zOVA0XzZQbnZWUTVBVFhXYlhlcVR2RnRoWGFYT3ViMC1EbmtlbVlQcU12TkdRMDhWY0czUnVEbXFVT0J6WnV5dkt0U0VYcmVRR1dsUjhvc0p1bnJTUzJRRW1tUDFqc0pGRFU2alFUaUJfZFZjZw?oc=5",
+   "outlet": "GamesIndustry.biz",
+   "via": "Google News",
+   "published": "2026-11-20T15:21:00+00:00",
+   "seen": "2026-11-20T15:52:32+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that over one million UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand."
   },
   {
    "id": "nhl power rankings in honor of grand theft auto vi let s remember some guys",
