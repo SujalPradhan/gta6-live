@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T22:04:52+00:00",
- "started": "2026-11-20T22:04:45+00:00",
+ "updated": "2026-11-20T22:09:54+00:00",
+ "started": "2026-11-20T22:09:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T22:04:46+00:00"
+   "checked": "2026-11-20T22:09:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T22:04:47+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T22:09:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T22:04:47+00:00"
+   "checked": "2026-11-20T22:09:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T22:04:47+00:00"
+   "checked": "2026-11-20T22:09:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T22:04:48+00:00"
+   "checked": "2026-11-20T22:09:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T22:04:48+00:00"
+   "checked": "2026-11-20T22:09:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-20T22:04:48+00:00"
+   "checked": "2026-11-20T22:09:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T22:04:48+00:00"
+   "checked": "2026-11-20T22:09:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T22:04:48+00:00"
+   "checked": "2026-11-20T22:09:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T22:04:49+00:00"
+   "checked": "2026-11-20T22:09:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T22:04:49+00:00"
+   "checked": "2026-11-20T22:09:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T22:04:49+00:00"
+   "checked": "2026-11-20T22:09:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T22:04:49+00:00"
+   "checked": "2026-11-20T22:09:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T22:04:49+00:00"
+   "checked": "2026-11-20T22:09:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 smashes multiple sales records and earns xbox series s praise in first 24 hours",
+   "title": "GTA 6 Smashes Multiple Sales Records And Earns Xbox Series S Praise In First 24 Hours",
+   "link": "https://www.purexbox.com/news/2026/11/gta-6-smashes-multiple-sales-records-and-earns-xbox-series-s-praise-in-first-24-hours",
+   "outlet": "Pure Xbox",
+   "via": "Pure Xbox",
+   "published": "2026-11-20T22:03:00+00:00",
+   "seen": "2026-11-20T22:09:50+00:00",
+   "summary": "Update: \"Grand Theft Auto VI day one retail sales reached $3.79 billion\". Rockstar's Grand Theft Auto 6 has reportedly smashed all sorts of records within 24 hours of launch, and it's off to a great start on Xbox Series consoles. As shared by GTA 6 Countdown , GTA 6 has launched to a near-perfect 99 score on Metacritic (151 reviews), apparently sold 24.5m copies in under 24 hours, and seen 2 milli",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 day one sales and records reaching 3.79 billion dollars, high Xbox Series S praise, and a near-perfect Metacritic score based on a 24-hour launch snapshot."
+  },
   {
    "id": "9 gta 6 easter eggs we ve spotted that you might have missed",
    "title": "9 GTA 6 easter eggs we've spotted that you might have missed",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 easter eggs spotted that you might have missed, according to GAMINGbible."
+  },
+  {
+   "id": "gta 6 earns nearly 4 billion in first day of sales",
+   "title": "GTA 6 earns nearly $4 billion in first day of sales",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnd2OVdUVVRDYWhDdkJic2VDblJRN2dFakQ3RXR1dTVkLTRSQ0hEN29jZV9nbC1qWWwzdEpTTzdxd19mUzZuejdMWHcwVi1laWF0S0lSQzgyY1hybE84dFdSa1J1RVFYaWpjbXBHQ1IzMVdNaldadEtRUWxLNzdmVnE2N3ctNVhpaVZFc01yS2hDQWM0YU9DZWJ3TUZkODhNalFwNzVUelpadV9PZmx3UHZQc21hWGQ3dzNuaklHX0tIdXUyUEtRdEhqY0Q?oc=5",
+   "outlet": "WUSA9",
+   "via": "Google News",
+   "published": "2026-11-20T22:00:00+00:00",
+   "seen": "2026-11-20T22:09:47+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 earning nearly four billion dollars in its first day of sales."
   },
   {
    "id": "gta 6 sells 32 5 million pre order copies makes 3 79 billion on day one",
@@ -389,6 +415,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that GTA 6 sales hit 30 million copies, generating 3.79 billion in revenue."
+  },
+  {
+   "id": "gta 6 made 3 79 billion on day one rockstar says gta v made 815 7 million",
+   "title": "GTA 6 Made $3.79 Billion on Day One, Rockstar Says. GTA V Made $815.7 Million",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1ek9ud002LWl5UExzdHJGeHV6dlR6OWFDajBjenFZZkFXTVlseThrUkZFZWtVTmpDeGRNaC1xRXI1RkYyVExKVVRnVV9pUWdVZGl3bDEwclIxaFVZTDdGcXpmVzZYQmtoY19RQjhlVU9IczgtV0RyelJuTmk1bTg?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-20T21:17:03+00:00",
+   "seen": "2026-11-20T22:09:48+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 making 3.79 billion dollars on day one and GTA V making 815.7 million dollars."
   },
   {
    "id": "what local parents need to know about gta vi",
