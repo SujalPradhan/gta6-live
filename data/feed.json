@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T10:05:38+00:00",
- "started": "2026-11-20T10:05:31+00:00",
+ "updated": "2026-11-20T10:10:40+00:00",
+ "started": "2026-11-20T10:10:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T10:05:31+00:00"
+   "checked": "2026-11-20T10:10:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-20T10:05:32+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T10:10:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T10:05:32+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T10:10:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:05:32+00:00"
+   "checked": "2026-11-20T10:10:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T10:05:33+00:00"
+   "checked": "2026-11-20T10:10:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T10:05:33+00:00"
+   "checked": "2026-11-20T10:10:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T10:05:33+00:00"
+   "checked": "2026-11-20T10:10:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T10:05:34+00:00"
+   "checked": "2026-11-20T10:10:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T10:05:34+00:00"
+   "checked": "2026-11-20T10:10:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T10:05:35+00:00"
+   "checked": "2026-11-20T10:10:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T10:05:35+00:00"
+   "checked": "2026-11-20T10:10:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T10:05:35+00:00"
+   "checked": "2026-11-20T10:10:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:05:35+00:00"
+   "checked": "2026-11-20T10:10:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T10:05:35+00:00"
+   "checked": "2026-11-20T10:10:37+00:00"
   }
  },
  "items": [
@@ -142,6 +142,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "A daily question asks readers if they know someone playing GTA VI."
+  },
+  {
+   "id": "video grand theft auto vi 30 years in the making",
+   "title": "Video: Grand Theft Auto VI: 30 Years in the Making",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkZTVGhFQ1N4WkhBYXN3eGRJRXdHNmFRSzN2UC1RdFNROFZOOE96UEJFU2pfbl8yZkRmdjROSGVWZjJZRVZ0OF9ReUVsSHhlaEEyM1h5MXFTSEJXeWpZMEVPUEpYbnpkbkhzZXFMdjBjTXlVU0lTX1ktOF9MY2VQdXdzcWJ3YXU2SndfcDhZRnlGeW5sa0xrWWZKVWotUUE?oc=5",
+   "outlet": "The New York Times",
+   "via": "Google News",
+   "published": "2026-11-20T10:01:07+00:00",
+   "seen": "2026-11-20T10:10:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI has been in development for 30 years."
   },
   {
    "id": "why grand theft auto vi is one of the biggest entertainment releases ever",
@@ -207,6 +220,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article explains how endings in GTA 6 affect the story’s outcome."
+  },
+  {
+   "id": "gta 6 guide should you accept injection in making gainz",
+   "title": "GTA 6 guide: should you accept injection in Making Gainz?",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVV3S3BWZi1GQXFXck5SWUtxa1FzczlJdURtblpEbE5sb2pmaGlMMkQ0Z1dRdUJuUWNROExNRmpPVkgwUVhMeXlXYjIteVJ3X0gwQ1RaNzA5UVZHdW9zZU9kd2NsUm1abnFiMlJwVmhLZWJ3NUJwck01OTBsX0RRYzQ1MFJKNzF0bUE?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-20T09:53:54+00:00",
+   "seen": "2026-11-20T10:10:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses whether you should accept injection in Making Gainz in GTA 6."
+  },
+  {
+   "id": "7 optional missions in gta 6 you won t want to miss",
+   "title": "7 Optional Missions in GTA 6 You Won't Want to Miss",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUk1Nl9XdU5xbXRPY2hpc3lYVm1DZVI3LWcyNy1XanBSTk8wZWRlcjFWckZFZDBHZ2lwalFCLW9kNnVxNHNPUXY3Mnk5QTE0cjlJUVpNbmRZbkpsVU9hTXBPckYzWE9JQTBUS2p4RnRtb0FVQmhRYTQ1Zmt4V3FyZWI4cU01XzJrVnhSZUZpVnhWZXRiRmxqQktwelo?oc=5",
+   "outlet": "IGN Benelux",
+   "via": "Google News",
+   "published": "2026-11-20T09:51:45+00:00",
+   "seen": "2026-11-20T10:10:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story highlights seven optional GTA 6 missions you won't want to miss."
   },
   {
    "id": "gta 6 players have discovered how to play the game in first person here s how",
@@ -493,6 +532,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 breaks records before release, earning over $2.3 billion in first-time sales."
+  },
+  {
+   "id": "quick take gta 6 tops 2 3 billion in estimated sales seven things to know about its record launch",
+   "title": "QUICK TAKE | GTA 6 Tops $2.3 Billion in Estimated Sales: Seven Things to Know About Its Record Launch",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTkl2QzVYZWdTZ2lhSVFuYjZJd0YtLXl2aXd6YmNqTGwxUTNucWx0U19nRHktbEVHNlNBWHk0ZWd6R2I4aUM1U2p5Y25GdnZCLVJjZE5HNUV3WWx2ckliYU8wRWdqa0VWdXFRR055eGpOWlhKUmphRXhLRnZNMW8yMzBjWklGaWhFVHNJeGoxLWVCNUNpeG5IdG1Vb0xIXzZqS3NyQjZJRjN2ZllzMVJuUXJtbGNPWW9WOFhZRElpLTRsX3RKZ2VscGdKVGI2eWVwVXI4LQ?oc=5",
+   "outlet": "Open Magazine",
+   "via": "Google News",
+   "published": "2026-11-20T08:42:30+00:00",
+   "seen": "2026-11-20T10:10:34+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story notes GTA 6's estimated sales exceed $2.3 billion and lists seven takeaways about its launch."
   },
   {
    "id": "gta 6 why you shouldn t spend too much time making money early on",
