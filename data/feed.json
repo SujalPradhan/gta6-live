@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:36:50+00:00",
- "started": "2026-11-20T13:36:42+00:00",
+ "updated": "2026-11-20T13:41:51+00:00",
+ "started": "2026-11-20T13:41:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T13:36:43+00:00"
+   "checked": "2026-11-20T13:41:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-20T13:36:43+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T13:41:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T13:36:44+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T13:41:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T13:36:44+00:00"
+   "checked": "2026-11-20T13:41:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T13:36:44+00:00"
+   "checked": "2026-11-20T13:41:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T13:36:44+00:00"
+   "checked": "2026-11-20T13:41:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T13:36:45+00:00"
+   "checked": "2026-11-20T13:41:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:36:45+00:00"
+   "checked": "2026-11-20T13:41:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T13:36:45+00:00"
+   "checked": "2026-11-20T13:41:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T13:36:45+00:00"
+   "checked": "2026-11-20T13:41:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T13:36:46+00:00"
+   "checked": "2026-11-20T13:41:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T13:36:46+00:00"
+   "checked": "2026-11-20T13:41:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T13:36:46+00:00"
+   "checked": "2026-11-20T13:41:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T13:36:46+00:00"
+   "checked": "2026-11-20T13:41:47+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi generates estimated 2 3b in preorders day 1 sales",
+   "title": "Grand Theft Auto VI generates estimated $2.3B in preorders, Day 1 sales",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR18zMDZQLWtwY3A0UXNJc2oyYTh0cl9oV3VLV1RSWC0zQkREMk1Jc0RpdXJ5VC04TVVadTFuSzhXS3I4ZFNVQlVybTZOT1FxNXR1Q2xVQ0lxblk1MjU3NkNpVGN3UkFhV3RwM2dETmR4dHFqNHVCXy1ya1RZVGFPc1lHUFZNOThNWTJkaTVZS1JiVFJNVGo4TzI0N2JvcndLRUVjbEsyeU5NWUlfWklCS0dhUjdlR09uNkp2MEVETG4?oc=5",
+   "outlet": "KVUE",
+   "via": "Google News",
+   "published": "2026-11-20T13:38:56+00:00",
+   "seen": "2026-11-20T13:41:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Story reports estimated $2.3B in preorders and Day 1 sales for Grand Theft Auto VI."
+  },
+  {
+   "id": "how to find the nudist resort in gta 6",
+   "title": "How to Find The Nudist Resort in GTA 6",
+   "link": "https://insider-gaming.com/gta-6-nudist-resort-location/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T13:37:49+00:00",
+   "seen": "2026-11-20T13:41:46+00:00",
+   "summary": "Here's a simple guide on how you can find the nudist resort in GTA 6. The post How to Find The Nudist Resort in GTA 6 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story provides a guide on how to find the nudist resort in GTA 6."
+  },
   {
    "id": "grand theft auto vi delivers unexpected surprises and cameos",
    "title": "‘Grand Theft Auto VI’ Delivers Unexpected Surprises and Cameos",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI delivers unexpected surprises and cameos."
+  },
+  {
+   "id": "grand theft auto vi sparks food delivery surge wish tv",
+   "title": "‘Grand Theft Auto VI’ sparks food delivery surge - WISH-TV",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmVidmR0VXZxTVRKeE83R05hM2c0WGNQVGJrTG9pRmpTQVU4V0JjdndRTl9COE95WUhnU0VRODRCSzNVdG1TVkJFV3lOZGY3TnItcWVKUXVZX1RFVVhpQmNPclowb0FiejRUUkEyWURMUFJWd0JaTG9MOE5WY1dndQ?oc=5",
+   "outlet": "WISH-TV",
+   "via": "Google News",
+   "published": "2026-11-20T13:33:00+00:00",
+   "seen": "2026-11-20T13:41:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story notes a food delivery surge linked to Grand Theft Auto VI."
   },
   {
    "id": "doja cat says she is bitter that her music is not in gta 6",
@@ -170,6 +209,19 @@
    "ai_summary": "The story reports a free printable GTA 6 map is available to download."
   },
   {
+   "id": "denver area police try and mostly fail to jump on gta vi trend",
+   "title": "Denver-area police try (and mostly fail) to jump on GTA VI trend",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFlfRUlLZ0owWnFHaFZmQkdiLUhQTXFCbUJ5TktfUElKbUtycFdqakIwMHFqQWd4S3hYNGlIczQ0ZEgwaVMzbnFCcE9NM3gtZTFhMC1PcDNWOXRjRUlOcnBwand4UTBYMi1EMklXY0N1RTRzSk5reFdOLWVwbHBudG9uQm5OVmh2NlJ3?oc=5",
+   "outlet": "Westword",
+   "via": "Google News",
+   "published": "2026-11-20T13:30:00+00:00",
+   "seen": "2026-11-20T13:41:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story describes Denver-area police attempting to jump on the GTA VI trend and largely failing."
+  },
+  {
    "id": "take two ceo is shutting down questions about gta 7 just days after gta 6 s launch",
    "title": "Take-Two CEO is shutting down questions about GTA 7 just days after GTA 6’s launch",
    "link": "https://www.dexerto.com/gta/take-two-ceo-is-shutting-down-questions-about-gta-7-just-days-after-gta-6s-launch-3430074/",
@@ -207,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Playboi Carti, Young Thug and others appear on Grand Theft Auto VI: The Album."
+  },
+  {
+   "id": "playboi carti young thug more appear on grand theft auto vi the album",
+   "title": "Playboi Carti, Young Thug & More Appear On 'Grand Theft Auto VI: The Album'",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFV0LUl0emFQSFFYOGJJaXVIM0NiM0lHREJIcmo1OUJZRVI1a3hBODdVV2RuazV6elVYZkluamlPY2QzcUsyc3RqWGpmUzhNOVhNb3FsQWt4eWVPZzg2enNScTU4YUJhSEJfYTFic1ZNRlNvaXdheHJ4b05VUTdfelg2QmNCLTNJSXRYdy1mX3dKWi1xaVhWeG1HVFRmWDgxazVTWWRsMWpJZ3hVZlpuNzVNb1U?oc=5",
+   "outlet": "JAM'N 95.7",
+   "via": "Google News",
+   "published": "2026-11-20T13:23:00+00:00",
+   "seen": "2026-11-20T13:41:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story states Playboi Carti, Young Thug, and others appear on Grand Theft Auto VI: The Album."
   },
   {
    "id": "grand theft auto vi keith richards and lindsey buckingham appear as in game radio djs",
@@ -259,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story highlights GTA VI's big debut on ABC News."
+  },
+  {
+   "id": "rockstar pledges all gta vi festival ticket proceeds to miami charities",
+   "title": "Rockstar Pledges All GTA VI Festival Ticket Proceeds to Miami Charities",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORmZhY3JLYV9pUHZvb3RBUXVXR09BSm4yb2xCOTc0SHdRcG8yVEtNUktlT3dyN2VnOGNleXViQmxGQkVWeHlaVnk0LXMyR3JxOUgyUWdfQjNzRVVseUp1X1NKb2Vwd3gzMWI0ajdzdFMtR0JuTDdDRGQ4NV9MM1YwbnRxWGpnQWdJR1VnTUpaMXVFeWpYc1BQZXBuXzJkQlVqaXhYSzdxejNRNjdocmFRVmZ4cnNKWnVaRW1FaUJB?oc=5",
+   "outlet": "DancehallMag",
+   "via": "Google News",
+   "published": "2026-11-20T13:18:19+00:00",
+   "seen": "2026-11-20T13:41:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story reports Rockstar pledges all GTA VI festival ticket proceeds to Miami charities."
   },
   {
    "id": "gta vi breaks records as estimated sales top 2 3bn",
@@ -441,6 +519,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece discusses which engine GTA 6 runs on and notes it is older than expected."
+  },
+  {
+   "id": "gta 6 fans can now buy a 15 630 iphone wrapped in pink crocodile skin",
+   "title": "GTA 6 Fans Can Now Buy a $15,630 iPhone Wrapped in Pink Crocodile Skin",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHh6ckZ1UFV0X3JjTUxTZWt2UjkwQ3VVdTU1WURmZk52RVdSaWladGY3eDlwQWs4Q0J6NUx6UFJhWllpX2ExbnNYdHFvSG5EWk9zVVRJSlEtOWZvdXBHTlgtbVhPd3dmbDJHVVVNbzZTOWQ4c184WklFZW9wbVVtZk9WZG5lLTZUdlluQV9wM01hcVllNjllYXd1RFJrZDdCQkh4d1NlWFNnN2FyaUdj?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-20T13:01:00+00:00",
+   "seen": "2026-11-20T13:41:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Story notes GTA 6 fans can buy a $15,630 iPhone wrapped in pink crocodile skin."
   },
   {
    "id": "your kid wants to play grand theft auto vi here s what you need to know",
@@ -1546,6 +1637,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports you can get a physical GTA 6 map for one dollar and explains how."
+  },
+  {
+   "id": "gta 6 breaks records with estimated 2 36 billion launch",
+   "title": "GTA 6 Breaks Records With Estimated $2.36 Billion Launch",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDBfenI4LTQ5T2huLVFkY21zalZucTQtZ1JOay1EalFXYXYyUENqUmpwZFYyYnBqYjlhdEZaSXlHMGlBVllOQ1R2LU9QMzNZM2Z1LUlaaTlZTUw3UTluTFVFQ0ZFVkFPZUhSbVlobW5oMXJHS21tVWxHVDQtYmpQTy1aVlcxUQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-20T11:15:00+00:00",
+   "seen": "2026-11-20T13:41:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Story reports GTA 6 breaks records with an estimated $2.36 billion launch."
   },
   {
    "id": "gta 6 sold nearly 25 million copies on day one crushing every launch record in sight",
@@ -14390,6 +14494,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that nine games are launching on GTA 6 Day, November 19."
+  },
+  {
+   "id": "i made gta 6 feel like 120 fps with tv motion smoothing and it s black magic",
+   "title": "I Made GTA 6 Feel Like 120 FPS With TV Motion Smoothing, and It’s Black Magic",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVkyUG1OZ0hxbW95cEJUUG9sV2VyMGFNRWEwMXRoNWNSbVk3Z3JIbGdSa21FZlU3Q045dVdMaW9zVk0tN1dHWjhNZEVBRVFtS25DTzB2blJVZWpqLVQ5Z3Z5WE5PNkNYWXhlZy1URUxzU0pKa1BJR3dsajgwM1RwcEtVY3BENVJUaC1nWTIxWnNkWldtb3ZuU0VQU0dXVEVTNl9nQjFNN0Z2NEdGV1VFNXh3Xzg2cDBlcFk4Qw?oc=5",
+   "outlet": "KeenGamer",
+   "via": "Google News",
+   "published": "2026-11-19T14:18:26+00:00",
+   "seen": "2026-11-20T13:41:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story describes making GTA 6 feel like 120 FPS using TV motion smoothing, calling it black magic."
   },
   {
    "id": "gta 6 s digital release has gamestop ceo defending physical games for obvious reasons",
