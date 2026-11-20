@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:33:37+00:00",
- "started": "2026-11-20T18:33:27+00:00",
+ "updated": "2026-11-20T18:38:36+00:00",
+ "started": "2026-11-20T18:38:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T18:33:27+00:00"
+   "checked": "2026-11-20T18:38:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 87,
-   "checked": "2026-11-20T18:33:28+00:00"
+   "hits": 88,
+   "checked": "2026-11-20T18:38:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T18:33:28+00:00"
+   "checked": "2026-11-20T18:38:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T18:33:29+00:00"
+   "checked": "2026-11-20T18:38:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T18:33:29+00:00"
+   "checked": "2026-11-20T18:38:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 47,
-   "checked": "2026-11-20T18:33:29+00:00"
+   "checked": "2026-11-20T18:38:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-20T18:33:30+00:00"
+   "checked": "2026-11-20T18:38:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T18:33:30+00:00"
+   "checked": "2026-11-20T18:38:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T18:33:30+00:00"
+   "checked": "2026-11-20T18:38:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T18:33:30+00:00"
+   "checked": "2026-11-20T18:38:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T18:33:31+00:00"
+   "checked": "2026-11-20T18:38:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T18:33:31+00:00"
+   "checked": "2026-11-20T18:38:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T18:33:33+00:00"
+   "checked": "2026-11-20T18:38:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T18:33:33+00:00"
+   "checked": "2026-11-20T18:38:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 draws 7 91 million concurrent viewers and sets a new global internet traffic record",
+   "title": "GTA 6 Draws 7.91 Million Concurrent Viewers and Sets a New Global Internet Traffic Record",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjB2eFk2VEItTkNKMGNzOTMwWnotN3hfQ1J0b3VWV0EzejRSQzgzZm5HZzhHU25QZ01ONE5KRkYyNjVVdXdtcHQ3aGJrY18wUHZhcmUzbjdzLWRkRF9sQXE2MkpmNlBYV01NZGtQT0NNbEtscndpZ2lJNjN2MmdPbHF2RkptSXhSYzBWZWJFbTNvZ2VHZjU0QU54ejN0SzZyX0tPTG5XbDZsMUhGX1lIelN3amlkZzFhemtIN1Fn?oc=5",
+   "outlet": "FanBolt",
+   "via": "Google News",
+   "published": "2026-11-20T18:36:24+00:00",
+   "seen": "2026-11-20T18:38:30+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 drew a large number of concurrent viewers and set a new global internet traffic record."
+  },
   {
    "id": "gta 6 generates estimated 2 36 billion in first day sales nearly triple gta 5 record",
    "title": "GTA 6 Generates Estimated $2.36 billion in First-day Sales, Nearly Triple GTA 5 Record",
@@ -181,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 can be played on an iPhone using a free app."
+  },
+  {
+   "id": "gta 6 ps5 has a record 143k playstation store reviews but trails highest rated game",
+   "title": "GTA 6 PS5 has a record 143K+ PlayStation Store reviews, but trails highest-rated game",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTU9Qd3d5RXVQZ1ctcHYwdXlOSUhyNHdxQTZpVTBmWHpPNUxmMVZqWXZzeXlnekNnRkZjTkVLenZrNHVvX0xtM1FQS1c4OXA5dE5ZQmZOaDc2QzJqakdVTjUxOEVnMlJZRVJyZEZneG9RdVlJNDFfdmtoWHVxSFU3VkNURlBhLThEbDNMcEdKSklERVFXaGh5eEN3bktJSGZzZWxJaFZHVnNFZG16cTNrVDRSRl82U04yelpONkpEdTYxTE5RbG9z?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-20T18:26:00+00:00",
+   "seen": "2026-11-20T18:38:30+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 PS5 has a record number of PlayStation Store reviews, but trails the highest-rated game."
   },
   {
    "id": "gta vi has everyone talking including cops furries and cat ladies",
