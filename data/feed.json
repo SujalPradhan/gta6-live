@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:38:17+00:00",
- "started": "2026-11-20T02:38:10+00:00",
+ "updated": "2026-11-20T02:43:18+00:00",
+ "started": "2026-11-20T02:43:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T02:38:11+00:00"
+   "checked": "2026-11-20T02:43:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-20T02:38:11+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T02:43:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T02:38:12+00:00"
+   "checked": "2026-11-20T02:43:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T02:38:12+00:00"
+   "checked": "2026-11-20T02:43:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T02:38:12+00:00"
+   "checked": "2026-11-20T02:43:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T02:38:12+00:00"
+   "checked": "2026-11-20T02:43:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T02:38:13+00:00"
+   "checked": "2026-11-20T02:43:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T02:38:13+00:00"
+   "checked": "2026-11-20T02:43:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T02:38:13+00:00"
+   "checked": "2026-11-20T02:43:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T02:38:14+00:00"
+   "checked": "2026-11-20T02:43:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T02:38:14+00:00"
+   "checked": "2026-11-20T02:43:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T02:38:14+00:00"
+   "checked": "2026-11-20T02:43:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T02:38:14+00:00"
+   "checked": "2026-11-20T02:43:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T02:38:15+00:00"
+   "checked": "2026-11-20T02:43:16+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 sold an estimated 24 6 million copies on day one sensor tower says",
+   "title": "GTA 6 Sold an Estimated 24.6 Million Copies on Day One, Sensor Tower Says",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kWW9ROGp1MmtoQm13eWN4VXJ5djhjamNlX2NKTlZCM2hWSDIxWVlZMDVEMlc1VVgta2tNaGRsd0Yyc1daOEt1dS1qdS1ySlNSRTIxUl92ZHRROXBkcnJXNng1andWengyUlhoYVJQdV9kdlE3dGF3?oc=5",
+   "outlet": "Happy Gamer",
+   "via": "Google News",
+   "published": "2026-11-20T02:35:18+00:00",
+   "seen": "2026-11-20T02:43:13+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 sold an estimated 24.6 million copies on day one according to Sensor Tower."
+  },
   {
    "id": "gta 6 day one sales estimates break 24 5 million with 2 36 billion earned",
    "title": "GTA 6 day one sales estimates break 24.5 million with $2.36 billion earned",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 has officially outearned one of 2026's biggest movies across its entire global run."
+  },
+  {
+   "id": "gta 6 release midtown cvs parking fines and tipping rules",
+   "title": "GTA 6 release, Midtown CVS parking fines and tipping rules",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vX1pzZEdHaTV3VXcyNVcxWDdaMmJyU3ZvZTlERmFRanRtVUNtd3RnVTRvY3BNMW4wRFBmelIwSXZkX0FVdE43VVBRNzlHRW9IVzBWUGZQT3BZOFdXUkFlNFI3UmzSAWpBVV95cUxOYU5zSU11OEIzTGZ3dG4tbFhacjZWOTBlRnlvWHlhR01JbW5tSnU3aTd1aEs2SEpZNVRjUHlpckRvM1dMT0FXSjFUTEtNRngtOWNLMmtoMy1qcFEtWnMzMjVkdXJsVlNGb0xB?oc=5",
+   "outlet": "FOX 5 Atlanta",
+   "via": "Google News",
+   "published": "2026-11-20T02:29:38+00:00",
+   "seen": "2026-11-20T02:43:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA 6 release, Midtown CVS parking fines and tipping rules."
   },
   {
    "id": "how the release of gta 6 impacts northwest arkansas and economy",
@@ -311,6 +337,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 release causes students and workers to take time off."
+  },
+  {
+   "id": "grand theft auto 6 just broke 3 massive records in 24 hours including one for the whole internet",
+   "title": "Grand Theft Auto 6 Just Broke 3 Massive Records in 24 Hours, Including One For the Whole Internet",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2pSQWxLN2dNVEFOdmV6cWJrOUlKUzVQbmEyLWRyREJGTDkzUnNzby1mQ0FXVTliWHdwdWF0eGNHd2JTVlJRZEk1a0pjbi00dGh5VlJ2V2lFZDhldG9JdE1jVTc2NFhxVnAxZmtYdU00WENIbVVtbU9jX2FmZWlfbUtYcGNVNTRmY2RTMERGcVZONWVQd21wMDdqR1pQUG5lV2dsZFZ0RFpfYlJmbzhlLVNuX1Bvc3h2MGNZdXlSdnJyX1ZLdEpETGxWUQ?oc=5",
+   "outlet": "ComicBook.com",
+   "via": "Google News",
+   "published": "2026-11-20T01:16:44+00:00",
+   "seen": "2026-11-20T02:43:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 broke three massive records in 24 hours, including one for the whole internet."
   },
   {
    "id": "director gil green gives deco inside scoop on special gta vi pregame intro shown at heat bucks",
