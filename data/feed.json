@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:43:18+00:00",
- "started": "2026-11-20T02:43:12+00:00",
+ "updated": "2026-11-20T02:48:19+00:00",
+ "started": "2026-11-20T02:48:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T02:43:12+00:00"
+   "checked": "2026-11-20T02:48:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T02:43:13+00:00"
+   "checked": "2026-11-20T02:48:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T02:43:13+00:00"
+   "checked": "2026-11-20T02:48:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T02:43:14+00:00"
+   "checked": "2026-11-20T02:48:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T02:43:14+00:00"
+   "checked": "2026-11-20T02:48:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T02:43:14+00:00"
+   "checked": "2026-11-20T02:48:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T02:43:14+00:00"
+   "checked": "2026-11-20T02:48:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T02:43:15+00:00"
+   "checked": "2026-11-20T02:48:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T02:43:15+00:00"
+   "checked": "2026-11-20T02:48:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T02:43:15+00:00"
+   "checked": "2026-11-20T02:48:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T02:43:16+00:00"
+   "checked": "2026-11-20T02:48:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T02:43:16+00:00"
+   "checked": "2026-11-20T02:48:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T02:43:16+00:00"
+   "checked": "2026-11-20T02:48:17+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T02:43:16+00:00"
+   "checked": "2026-11-20T02:48:17+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi goes gulf coast from naples to punta gorda popular new game showcases the area",
+   "title": "GTA VI goes Gulf Coast: From Naples to Punta Gorda, popular new game showcases the area",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3pzZjBjV1Vwc0R1cXdNa3BDV3M3R2JuaGVhVTc3cnlwTVZKYk9MMkU2Z3RKbk40YUhnSnZIU1RyMmc3LU1LXzh2cl9mSTVqTWI4X1I5anA2YU9STWtUUmQzYXVnenFzcnZ4LXR2UEp4MzgwUy1HRGQ4RS1fdDhjRDJVcmNzWGJDX2ZjMVAxTWhQYVpVRmtCMXBmMUx2d3g4MFdTSDNR?oc=5",
+   "outlet": "Gulf Coast News and Weather",
+   "via": "Google News",
+   "published": "2026-11-20T02:41:00+00:00",
+   "seen": "2026-11-20T02:48:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI showcases the Gulf Coast area from Naples to Punta Gorda."
+  },
   {
    "id": "gta 6 sold an estimated 24 6 million copies on day one sensor tower says",
    "title": "GTA 6 Sold an Estimated 24.6 Million Copies on Day One, Sensor Tower Says",
@@ -324,6 +337,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "The story discusses the season opener of Grand Theft Auto VI as reported by NBC Los Angeles."
+  },
+  {
+   "id": "erik spoelstra won t let his kids play gta 6 gives take on heat players gaming",
+   "title": "Erik Spoelstra Won't Let His Kids Play GTA 6, Gives Take on Heat Players Gaming",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVm12LWVYN1VyTTQ1UkJ0c1NZVUxKck0zeVpmc0YtVURhbnJaU2xGSTFYOUljcUFmNU1WUGxNZE1vamNGQkdhSF9sa1lGTk9rRjA2QWx1RmJPNE0zMmJFUWlQZkNBdVF5TFFqOXRkWWdicmdFalhESGpSbFZnTEtaOFNhTWVfYUZNR01pZ2pCUHQ5ajltUzR3SjZObWJKQVJtQm9IamJTUjFFaTFTd1Z1cGlHcmxzUlB2dlc0?oc=5",
+   "outlet": "Bleacher Report",
+   "via": "Google News",
+   "published": "2026-11-20T01:31:19+00:00",
+   "seen": "2026-11-20T02:48:13+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that Erik Spoelstra prohibits his kids from playing GTA 6 and shares his views on Heat players gaming."
   },
   {
    "id": "gta 6 release has students and workers taking time off",
