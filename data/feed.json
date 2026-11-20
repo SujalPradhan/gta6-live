@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:55:36+00:00",
- "started": "2026-11-20T09:55:29+00:00",
+ "updated": "2026-11-20T10:00:41+00:00",
+ "started": "2026-11-20T10:00:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T09:55:29+00:00"
+   "checked": "2026-11-20T10:00:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 92,
-   "checked": "2026-11-20T09:55:30+00:00"
+   "hits": 94,
+   "checked": "2026-11-20T10:00:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T09:55:30+00:00"
+   "checked": "2026-11-20T10:00:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:55:30+00:00"
+   "checked": "2026-11-20T10:00:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T09:55:31+00:00"
+   "checked": "2026-11-20T10:00:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 41,
-   "checked": "2026-11-20T09:55:31+00:00"
+   "hits": 42,
+   "checked": "2026-11-20T10:00:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T09:55:31+00:00"
+   "checked": "2026-11-20T10:00:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T09:55:31+00:00"
+   "checked": "2026-11-20T10:00:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T09:55:32+00:00"
+   "checked": "2026-11-20T10:00:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T09:55:32+00:00"
+   "checked": "2026-11-20T10:00:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T09:55:32+00:00"
+   "checked": "2026-11-20T10:00:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T09:55:33+00:00"
+   "checked": "2026-11-20T10:00:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:55:33+00:00"
+   "checked": "2026-11-20T10:00:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T09:55:33+00:00"
+   "checked": "2026-11-20T10:00:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 achieves record breaking launch with 2 36bn in sales",
+   "title": "GTA 6 Achieves Record-Breaking Launch with $2.36bn in Sales",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU21jUmtqdTJUcVA1VmE4el9pbGJGQjRhdXI5cUVDMDY4Q0FWNXJqVElHdXdBWU1NR25DWWM5SkJuQkphdmJDS3Q2WTlGWVViNUR0T3Y5NkNnUEMtdzJENkN5amdLNGhPLVRzdTFYMjRDYXRjZnNWc2NBeVdnX0liU1V6S2k2dE0wSW9RdWhIUVd4ejVobk5qSjFxbw?oc=5",
+   "outlet": "India News Network",
+   "via": "Google News",
+   "published": "2026-11-20T09:59:50+00:00",
+   "seen": "2026-11-20T10:00:30+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 has achieved a record-breaking launch with sales reaching $2.36bn."
+  },
+  {
+   "id": "you broke my heart",
+   "title": "\"You broke my heart\" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6",
+   "link": "https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-20T09:58:10+00:00",
+   "seen": "2026-11-20T10:00:31+00:00",
+   "summary": "As countless people flock to Grand Theft Auto 6 following its launch earlier this week, a common highlight gamers have been highlighting are the many radio stations present in the game. While packed with songs, one artist has expressed her frustration with not being included among the list of featured artists. Read more",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that Doja Cat is upset about not being included among the featured artists in Grand Theft Auto 6."
+  },
   {
    "id": "gta 6 players have discovered how to play the game in first person here s how",
    "title": "‘GTA 6' Players Have Discovered How to Play the Game in First Person—Here’s How",
