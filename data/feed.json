@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:41:51+00:00",
- "started": "2026-11-20T13:41:42+00:00",
+ "updated": "2026-11-20T13:46:52+00:00",
+ "started": "2026-11-20T13:46:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T13:41:43+00:00"
+   "checked": "2026-11-20T13:46:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T13:41:43+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T13:46:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T13:41:44+00:00"
+   "checked": "2026-11-20T13:46:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T13:41:44+00:00"
+   "checked": "2026-11-20T13:46:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T13:41:44+00:00"
+   "checked": "2026-11-20T13:46:48+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T13:41:45+00:00"
+   "checked": "2026-11-20T13:46:48+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T13:41:45+00:00"
+   "checked": "2026-11-20T13:46:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:41:45+00:00"
+   "checked": "2026-11-20T13:46:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T13:41:46+00:00"
+   "checked": "2026-11-20T13:46:48+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T13:41:46+00:00"
+   "checked": "2026-11-20T13:46:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T13:41:47+00:00"
+   "checked": "2026-11-20T13:46:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T13:41:47+00:00"
+   "checked": "2026-11-20T13:46:49+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T13:41:47+00:00"
+   "checked": "2026-11-20T13:46:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T13:41:47+00:00"
+   "checked": "2026-11-20T13:46:49+00:00"
   }
  },
  "items": [
+  {
+   "id": "best tvs for gta vi our top 3 picks for every budget",
+   "title": "Best TVs for GTA VI: Our top 3 picks for every budget",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWcjU3a3Y1dmptTE9BRW1MRGZidDdFcUlQVHFWVEktM2Vrd04zTTVZbEV4Zm1kcGw2alJFMGtJZWhpeGkyMVN0ZFdpb3JFY0I5Y3gzMEg5cmhCaG13eEJoTFlUSQ?oc=5",
+   "outlet": "Techlicious",
+   "via": "Google News",
+   "published": "2026-11-20T13:45:22+00:00",
+   "seen": "2026-11-20T13:46:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story lists the top three TVs for GTA VI across different budgets."
+  },
+  {
+   "id": "gta 6 does autosave but there s something players should know before quitting",
+   "title": "GTA 6 does autosave, but there’s something players should know before quitting",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVHRkX1FmOXhEN0RkMDNZamRXWVljM19tWW0xZ0FCX3AwMFZaLXkwV3ZUNmhzQjFhakNOcXFZYnhjY0xFN3FxRTcydkw1RnRuV3h4NEhpN1ZCMGVfLTh3NGI1cW02T0lRMldSV193WWRYZUk5R29BbGt1LVVIYWZzVkpNTUs4VERGSExwQlp6X01qYi1tby1ib05lTW5aZEFNWnI5NVhYaF9lOFo2cnVaaFhzRTZWc3BpU3JRTU5zZUs?oc=5",
+   "outlet": "LehighValleyLive.com",
+   "via": "Google News",
+   "published": "2026-11-20T13:42:00+00:00",
+   "seen": "2026-11-20T13:46:47+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story notes that GTA 6 autosave exists but warns there is something players should know before quitting."
+  },
+  {
+   "id": "gta 6 cheat codes list for playstation 5 xbox series x s and how to unlock them",
+   "title": "GTA 6 cheat codes list for PlayStation 5 & Xbox Series X|S, and how to unlock them",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemp6Vlk1a1I3NWNBOTNZWURLZ2RzRXJ2ZTdTbTV6NDRxbUlFaUs5SFFDc2tnMU5qOGdsVTdvdklPYUJkT090cEI1dU05Vk5hOHNSSkZDNnZoclB6TDVlNEZiRHhmOTRrNGZabjZTZEdINkVOaDBRcktBcGN5aVRHTGZCRXYwOTZPZmVtdkhBNnVwck5QY0phMFpMUkJ5b0VqUHlJOXlLYUJYblE4?oc=5",
+   "outlet": "PC Guide",
+   "via": "Google News",
+   "published": "2026-11-20T13:41:40+00:00",
+   "seen": "2026-11-20T13:46:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides a cheat codes list for GTA 6 on PlayStation 5 and Xbox Series X|S and explains how to unlock them."
+  },
+  {
+   "id": "gta 6 best settings the options you should change first on ps5 and xbox",
+   "title": "GTA 6 best settings: The options you should change first on PS5 and Xbox",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbjNranJxbWJ1R1RMckI4eEhZVTJBeHFtVW5HWkMtUHJUWkpsazNkOG1wVVpqMmNPVHAtbmdfczhCUXd6MksyUS1VX2x2czU5cWVEbHRnZHB5VzJ3N2l3Vy01OGt2U0RrWXc?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-20T13:39:17+00:00",
+   "seen": "2026-11-20T13:46:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story outlines the best settings and which options to change first on PS5 and Xbox for GTA 6."
+  },
   {
    "id": "grand theft auto vi generates estimated 2 3b in preorders day 1 sales",
    "title": "Grand Theft Auto VI generates estimated $2.3B in preorders, Day 1 sales",
@@ -142,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI delivers unexpected surprises and cameos."
+  },
+  {
+   "id": "rap rising playboi carti young thug more appear on gta vi the album",
+   "title": "Rap Rising: Playboi Carti, Young Thug & More Appear On 'GTA VI: The Album'",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTVGaDBTWDduQk5pYVlabTZoTm0ySWc3UDh1NlVKTGo5eHFjOG9peThIcTRrcG8yb0VQeFB5WlhiRDQ2ZzRacHRrTnVuYnNHZzNCX1NRX194aGxybzhLdUNXRjV3d1Ixd2wtaWlFTjRiOG9PamhEV3RramJ0QjhnX0VCaVlRU0pqLWNJSWlrOHR4UjZkVnRpY1R3b25jdVNhRVZ5bUFWTDcySHByU0ow0gG3AUFVX3lxTFBBeDdZbWtrdlhZSmlPdlZQZEN0WnJOOWFnQTB1VWh1THZncGdGVXdxOE92T016YTZINHRNQkR1bnQ2a1NlZVRXdjBBRDJKd09iMk9hTlE5RXhxZlhoU1hYZG5xREtUN1hrejhDRmxGWFdWWXMwdDRVbThiOVhJQ1RNSFhtZHROX1pLSHBjQTlaUjRDbk1zUm50TENJbWdybWJpX0RmQkVkSXZaWmt4cFNGYXNUN1VDYw?oc=5",
+   "outlet": "iHeart",
+   "via": "Google News",
+   "published": "2026-11-20T13:33:37+00:00",
+   "seen": "2026-11-20T13:46:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers appearances from Playboi Carti, Young Thug and others on GTA VI: The Album."
   },
   {
    "id": "grand theft auto vi sparks food delivery surge wish tv",
@@ -298,6 +363,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to use a first-person mode glitch in Grand Theft Auto 6."
+  },
+  {
+   "id": "barbie ferreira on being in gta vi alongside anitta lemme know if you catch me talking dirty",
+   "title": "Barbie Ferreira on Being in 'GTA VI' Alongside Anitta: 'Lemme Know If You Catch Me Talking Dirty'",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDFvTDZ4eHRUM0tQeWw0VVc2NWVPeW9GNHZSZEZ1SXg1dERacVZkZ052Zm5ZRjBSVm40SVZFUnJRQjIxckdfWFdkLVFidEs3Wk5Vcl8zeTZwdmwyd3pmRXpKeS1qXzh4UFNTYmRDTVM2R2FjMGstRXphY3ZEZXJaaGpTd3NucHJjWEFFQWxfQ2hxZERGTm01R1I4YzRwek0?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-20T13:21:11+00:00",
+   "seen": "2026-11-20T13:46:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses Barbie Ferreira's involvement in GTA VI alongside Anitta and a provocative remark."
   },
   {
    "id": "i completed gta 6 s indie game darling pastiche tenebrae lux and all i got was this lousy sense of accomplishment",
