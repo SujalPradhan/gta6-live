@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T00:22:29+00:00",
- "started": "2026-11-20T00:22:23+00:00",
+ "updated": "2026-11-20T00:27:31+00:00",
+ "started": "2026-11-20T00:27:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T00:22:23+00:00"
+   "checked": "2026-11-20T00:27:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-20T00:22:24+00:00"
+   "hits": 95,
+   "checked": "2026-11-20T00:27:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T00:22:24+00:00"
+   "checked": "2026-11-20T00:27:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T00:22:24+00:00"
+   "checked": "2026-11-20T00:27:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T00:22:25+00:00"
+   "checked": "2026-11-20T00:27:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T00:22:25+00:00"
+   "checked": "2026-11-20T00:27:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T00:22:25+00:00"
+   "checked": "2026-11-20T00:27:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T00:22:26+00:00"
+   "checked": "2026-11-20T00:27:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T00:22:26+00:00"
+   "checked": "2026-11-20T00:27:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T00:22:26+00:00"
+   "checked": "2026-11-20T00:27:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-20T00:22:26+00:00"
+   "checked": "2026-11-20T00:27:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T00:22:26+00:00"
+   "checked": "2026-11-20T00:27:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T00:22:27+00:00"
+   "checked": "2026-11-20T00:27:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T00:22:27+00:00"
+   "checked": "2026-11-20T00:27:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "take two set to shatter sales records as gta 6 launches to massive fanfare",
+   "title": "Take-Two set to shatter sales records as GTA 6 launches to massive fanfare",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3o1Ry1uaHNPNzM0U19fY0kxSmR6RW5xUWlwY0FFTy1ZSzVhWlZ1dWpwSWlOOVVRYlg5Yjcxd3FSQW9BdkNjSjhoa08wd0pxVEJXVjVxYXNybjFyRklXcm9rVlVmaEQ0Rm9GZGFYSTdVbW1HYUQ2elZYdEc1eG1sVDluMVJXWFF5UzhvVldyTWhuMlNRS2tqa2NKeC1HRmVXWUhwSEw2aDZyWXB1NkRfRzFYYnplaVNnWmpUeFVhS1A?oc=5",
+   "outlet": "The Straits Times",
+   "via": "Google News",
+   "published": "2026-11-20T00:20:00+00:00",
+   "seen": "2026-11-20T00:27:25+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Take-Two is expected to set new sales records as GTA 6 launches with strong fanfare."
+  },
   {
    "id": "gta vi release draws anticipation after years of delays",
    "title": "“GTA VI” release draws anticipation after years of delays",
@@ -194,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI arrives with enormous hype and expectations."
+  },
+  {
+   "id": "gta 6 s mandy is a lot of fun says real life actress as ps5 players are smitten",
+   "title": "GTA 6's Mandy 'Is a Lot of Fun' Says Real-Life Actress as PS5 Players Are Smitten",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6s-mandy-is-a-lot-of-fun-says-real-life-actress-as-ps5-players-are-smitten",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-20T00:00:00+00:00",
+   "seen": "2026-11-20T00:27:28+00:00",
+   "summary": "Voice and motion capture confirmed. I knew when I was reviewing GTA 6 that bunny boiler Mandy was going to take social media by storm, and it was quite fun watching the web react to Chapter 1’s ‘ Pipeworks ’ mission as the game launched overnight. Now it’s being played by millions, actress Lexie Shoaibi has revealed she stars as the character, who not-so subtly throws herself at Jason during a ver",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that a real-life actress says Mandy is a lot of fun as PS5 players react to the character during GTA 6's launch."
   },
   {
    "id": "gta 6 chapters and mission list how many chapters in gta 6 spoiler free",
@@ -365,6 +391,19 @@
    "ai_summary": "The story reports Janelle James discussing her involvement in GTA 6 including pursuing, conceptualizing, pitching, scripting, and voicing."
   },
   {
+   "id": "the gta vi launch goes beyond a billion dollars and beyond just gaming",
+   "title": "The 'GTA VI' launch goes beyond a billion dollars, and beyond just gaming",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjFNYnlzdGlRZ0hwOFRiZGI0Z05UQi1aSXJfZlJtNXo1bXVoVzZIRXFTNE9yTEtKRVF4WmhtWDcyOHNESGloZnBnMTNHWW5ob3J4dXE3eU1ld25Hd1VuOTEzYkFLRXZiSEdlQ1ljQ29QZTZQdS1VZ0tlRVZlZXBoazFDTktEa0p5MmpnMlB0N0pVWEhWazVWTFBRaDZBZml4dkhxcm40STNhdw?oc=5",
+   "outlet": "LEX 18 News",
+   "via": "Google News",
+   "published": "2026-11-19T23:39:09+00:00",
+   "seen": "2026-11-20T00:27:25+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI's launch revenue exceeds a billion dollars and extends beyond gaming."
+  },
+  {
    "id": "grand theft auto 6 set to drive massive pre christmas retail spending boom",
    "title": "Grand Theft Auto 6 set to drive massive pre-Christmas retail spending boom",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR05RQXFQZXJyZWs0clVnMzRla3FnT2FRMHFkbmtqb2ItSXZjTlJnRkE1cExDbC1tSmd5UUZlelctdHpLWENlbHJNLXNKc1Q2TGJMMkZnbzF1dTN3VDRUY3dqZDkzQXN2eWE0NnVIc1BNOTEtMTl4NXV5clkyM3lWX0VSQnJBZEd0OE5sOVRRVFlTVzJqNDdFQWI2QUpyMVVpUEtYbHRPeFRRazBlT0JGQkhfZ3hWaFVqLTZBeXZrRkJ5OUV4LXF5M1EwUnNGWWxzZjVEZEMtcVpGeU1XOHcwMFpUdk9TMi1ka3FSbVdwQ0FoVWVRTjdWbnVuOW9KZw?oc=5",
@@ -376,6 +415,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Grand Theft Auto 6 is reported to drive a large pre-Christmas retail spending boom."
+  },
+  {
+   "id": "3 common problems with gta 6 on ps5 and how to fix them",
+   "title": "3 Common Problems With GTA 6 On PS5 (And How To Fix Them)",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00QjFXVndaRWtnY29hZFZ0ZWZ2M1FlNnlscHFjd3JYaEtNal9CMHZEYjJnbFFPUlc0R1V5QWp3TXNSVk5KV21ERU5sU21UZmxyVFN4UE9lUWpqd3A1TGZ0OHZ4WXJKeW9rY1pQS0FnSkpnQQ?oc=5",
+   "outlet": "BGR",
+   "via": "Google News",
+   "published": "2026-11-19T23:34:19+00:00",
+   "seen": "2026-11-20T00:27:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports three common PS5 issues with GTA 6 and how to fix them."
   },
   {
    "id": "gta vi hype brings excitement to bangor area businesses",
