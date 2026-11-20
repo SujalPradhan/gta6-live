@@ -1,109 +1,200 @@
 {
- "updated": "2026-11-20T20:29:39+00:00",
- "started": "2026-11-20T20:29:18+00:00",
+ "updated": "2026-11-20T20:31:28+00:00",
+ "started": "2026-11-20T20:31:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-20T20:29:26+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-20T20:31:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-20T20:29:31+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-20T20:31:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-20T20:29:37+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-20T20:31:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:29:38+00:00"
+   "checked": "2026-11-20T20:31:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:29:38+00:00"
+   "checked": "2026-11-20T20:31:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T20:29:38+00:00"
+   "checked": "2026-11-20T20:31:21+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T20:29:38+00:00"
+   "checked": "2026-11-20T20:31:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:29:38+00:00"
+   "checked": "2026-11-20T20:31:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T20:29:38+00:00"
+   "checked": "2026-11-20T20:31:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T20:29:38+00:00"
+   "checked": "2026-11-20T20:31:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:29:39+00:00"
+   "checked": "2026-11-20T20:31:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T20:29:39+00:00"
+   "checked": "2026-11-20T20:31:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-20T20:29:39+00:00"
+   "hits": 4,
+   "checked": "2026-11-20T20:31:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T20:29:39+00:00"
+   "checked": "2026-11-20T20:31:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 how to listen to the radio outside of a vehicle",
+   "title": "'GTA 6': How to listen to the radio outside of a vehicle",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1kzMzV4LWNId2VrTkZ2Tm9DVzUybzRva0llRFItTzhfNE9PcEV1UnhiVl83Y2FVcUVaeG81bUJjeGpneTQ2eDJyem84dHZpMEtpcnZELWlxNkRNajhZRWRWZVFrU0g2ZXU0cGtMQ3E1WlBxSF9nX1dSOFo3Rkx6WU1fQXZONFky?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-20T20:28:36+00:00",
+   "seen": "2026-11-20T20:31:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to listen to the radio in GTA 6 outside of a vehicle."
+  },
+  {
+   "id": "gta 6 makes 3 79 billion in first day sales breaks entertainment record",
+   "title": "GTA 6 Makes $3.79 Billion In First-Day Sales, Breaks Entertainment Record",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56SjV0NXdhZ2hGX0ZpbHZwSWduMnhfT0VFVVF6a3dJQnY4OTZhVzlVekJFVjFybk15TUliU0x3Nzg3NUpCZmxBdmlfYzRNc2w1ZndPbFlpYXFhUy1mZ1ZkUEViQzZpcEllVTZmc0o4WXprVEk?oc=5",
+   "outlet": "Noisy Pixel",
+   "via": "Google News",
+   "published": "2026-11-20T20:28:21+00:00",
+   "seen": "2026-11-20T20:31:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 made $3.79 billion in first-day sales and set a record for entertainment."
+  },
+  {
+   "id": "gta 6 launch smashes all time revenue record in 24 hours",
+   "title": "GTA 6 launch smashes all-time revenue record in 24 hours",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTdVcC1DaG12TU9jVVZtNWo2RERGUXA0ME5ZTEJaYk05X0JqTVZONXBnWm5FTUZEUHRHZTVCVHlPaHg4R3JzZUJ4Z2hiaGdrZmU1SHVodVQ0emJMSmJZUS02cF9OLXJWOWdRQnBNWWYyT3VSNzh6SzQ0ci1CenB0eENxQXJQcWRV?oc=5",
+   "outlet": "The Big Lead",
+   "via": "Google News",
+   "published": "2026-11-20T20:27:16+00:00",
+   "seen": "2026-11-20T20:31:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story says GTA 6 launch broke an all-time revenue record in the first 24 hours."
+  },
+  {
+   "id": "gta 6 generates 3 79bn in first day sales",
+   "title": "GTA 6 generates $3.79bn in first day sales",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWJEa29NVUpXU1laa0M0WVFpcC02dWotRWVNOVdBV3M5UFlYVG8zcGQycFFOX3lPa1RLWVkxNnpiX2k4RFpJUHFtVEtIQW5ZT0lfb2tXN3VweVJqbUFCb1Flc1pxdG4xM2pRVllxTDZvWkhsSF9xU2FDUjA2eHBCQjlMSmJMeHM?oc=5",
+   "outlet": "Techloy",
+   "via": "Google News",
+   "published": "2026-11-20T20:27:15+00:00",
+   "seen": "2026-11-20T20:31:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story states GTA 6 generates $3.79 billion in first-day sales."
+  },
+  {
+   "id": "when do your buckme limits increase in gta 6 banking app explained",
+   "title": "When Do Your BuckMe Limits Increase in GTA 6? Banking App, Explained",
+   "link": "https://insider-gaming.com/gta-6-buckme-limits-when-increase/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T20:27:06+00:00",
+   "seen": "2026-11-20T20:31:23+00:00",
+   "summary": "You've got your BuckMe account in GTA 6, but when do those pesky limits and restrictions lift? Find out how to get higher limits in BuckMe. The post When Do Your BuckMe Limits Increase in GTA 6? Banking App, Explained appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains when BuckMe limits increase in GTA 6's banking app and how to get higher limits."
+  },
+  {
+   "id": "gta 6 maker take two rakes in nearly 4b shattering first day sales record",
+   "title": "‘GTA 6’ maker Take-Two rakes in nearly $4B, shattering first-day sales record",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOTNibDdZNHF2NHlmV3lCUU9FX281MTE2Z0tOa2xYaHo1cmg0Z2tyZXQ2QnctQ2dMUDF5YzQ1cGRieDN2ZXg0NkpzM3JRc3hIUUc5SUxlTFV2TjY1LXlzekdvbW1tTE91Wk1sSS1sTjZub0Z5Z2dLWEN1YlRhM2hDcjVYS1pWcEYzcVdZS3JtODZLS0M1MXJPdU00M3U3M0o0NFZ3TGdUVlFBQTVSQWZ1MnJueTU2dGFwcE9pbGRNaFkzRG0xNG92b0g4R1hCM1ZBZ3BNYmNqcWM1N2E2a1FRbw?oc=5",
+   "outlet": "New York Post",
+   "via": "Google News",
+   "published": "2026-11-20T20:25:00+00:00",
+   "seen": "2026-11-20T20:31:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports Take-Two raked in nearly $4B and shattered the first-day sales record."
+  },
+  {
+   "id": "the best songs on grand theft auto vi the album reviewed",
+   "title": "The best songs on Grand Theft Auto VI: The Album , reviewed",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kdk0zcEJsMWM2VlFpQkJGcjhaMWloZXdUZExvTmZuSXM5cGF4SHQ5QURpOGdNcG1fQ1Jzc3VjWk9fZWFJcWdtNFRfSFFyWks1SzV0U2xfWVdqeXZ5MHdPNV8tWW1yQmtENXJQWW43Mm95em81cFpwUg?oc=5",
+   "outlet": "The Fader",
+   "via": "Google News",
+   "published": "2026-11-20T20:24:31+00:00",
+   "seen": "2026-11-20T20:31:20+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story covers the best songs on Grand Theft Auto VI: The Album, in a review."
+  },
   {
    "id": "grand theft auto vi tops 3 79 billion in revenue on day one after 32 5 million pre orders",
    "title": "Grand Theft Auto VI Tops $3.79 Billion in Revenue on Day One After 32.5 Million Pre-Orders",
@@ -248,6 +339,19 @@
    "ai_summary": "GTA VI breaks sales records in one day."
   },
   {
+   "id": "gta 6 players are encountering a mysterious game breaking crash",
+   "title": "GTA 6 Players Are Encountering a Mysterious Game Breaking Crash",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUZklPWjdmNElnbDAyVXJQWnkwNTh6VUctUHJocTZaME5JZkJRMTd5dDBLLUV4Y1VRUzQ2ZUhCVVMyMXBsS284anQ3aldmRnZiY0trWk9VUWNfNmtRX3ZlUUUxb3gtS0Q4a2swQkM1dF8?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-20T20:09:34+00:00",
+   "seen": "2026-11-20T20:31:20+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story notes GTA 6 players are encountering a mysterious game-breaking crash."
+  },
+  {
    "id": "take two shatters sales record as gta vi launches to massive fanfare",
    "title": "Take-Two Shatters Sales Record as 'GTA VI' Launches to Massive Fanfare",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUl2cU5QTUdJRUJ0XzBDZWlUZk41RXRicXctVGx3bHNPNWRrZmhwUVRzb0Z1WFFqX2c5NDV5VDRMUUoySlVvVWtQcGsxSDgzcktTUVJwSXlGczl5djdldkFTZmJBWFJJNjFUU2g5T0VIMUZObzFqR2N0dXVsOXlHQkdoZFJKUUxaV2w4Nkp2czQ5emNab2hja2pIX3hFZTY3?oc=5",
@@ -259,6 +363,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "Take-Two shatters sales record as 'GTA VI' launches to massive fanfare."
+  },
+  {
+   "id": "gta 6 first day sales nearing 4 billion",
+   "title": "‘GTA 6’ First-Day Sales Nearing $4 Billion",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lbGZwLThWUloweTItalJmYm42c0ZLQXEzd2ZDWjY4NC1xSGcwb24wWlVnNnhzRWV3dnNub1dDYXVJTG95a2NmbGR2ZENnNUExekxjbXY5bmZybUd0RF9HejNRQ0pnaXQ2eHpEX01zTS1pXzdPLXRQRmFtNA?oc=5",
+   "outlet": "Deadline",
+   "via": "Google News",
+   "published": "2026-11-20T20:09:00+00:00",
+   "seen": "2026-11-20T20:31:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story indicates first-day sales for GTA 6 are nearing $4 billion."
   },
   {
    "id": "gta 6 raked in 3 8 billion sales on first day the largest entertainment launch ever",
@@ -1052,6 +1169,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that Grand Theft Auto VI shatters box office records with day one retail sales totaling $3.79 billion."
+  },
+  {
+   "id": "grand theft auto vi shatters entertainment box office records with 3 79 billion in day one retail sales",
+   "title": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPb2pVeGgtM1N3LXlGOGFWM1NJZThpVDV0eUtmMF9aZ0xDZ2dCZl96Q2liMmZSRXZtWjhDNmFqejdKTFBoOEFRb3FvUmIyRk5nbGd2TGdwYUo2ZnRtWHZNaHNNUlBtT2FRbk43SXNXUDlEOVFSMy0tdUp0eFE0SER5QzRtNmN1YXdEMmlyVV9mM3dpVHVyUC01RnI3aHFpTnE5UDVxamNndUcxUGMta3J6em5VeFFYbUdEa1BPU3NYMVZVNTJqbDRvT1N5WUpJRmFsU3Zab043OWlFNVZVTEFmS2xTNW9pdHZGaWxVeHlrVHlBbWlickE?oc=5",
+   "outlet": "Business Wire",
+   "via": "Google News",
+   "published": "2026-11-20T19:20:00+00:00",
+   "seen": "2026-11-20T20:31:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story claims Grand Theft Auto VI shatters entertainment box office records with $3.79 billion in day-one retail sales."
   },
   {
    "id": "3 forgotten southern rap classics getting a second life in gta 6",
@@ -2521,6 +2651,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims GTA 6 is already threatening relationships, productivity, and weekend plans."
+  },
+  {
+   "id": "gta 6 pulls off a 3 79 billion first day variety reports",
+   "title": "GTA 6 pulls off a $3.79 billion first day, Variety reports",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tTTFEaE1tcXExVVBNVXMyUEw0dG5UYkNNQU0xR1dsOWlLZm50TXowWFdXZi0tQ1AwaS05ZlVOOFhSMWY2dVNTS0NBcEpKT21G?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-20T17:04:57+00:00",
+   "seen": "2026-11-20T20:31:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 pulls off a $3.79 billion first day, per Variety."
   },
   {
    "id": "how creators gave gta vi a record breaking launch",
