@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:06:37+00:00",
- "started": "2026-11-20T13:06:27+00:00",
+ "updated": "2026-11-20T13:11:36+00:00",
+ "started": "2026-11-20T13:11:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T13:06:27+00:00"
+   "checked": "2026-11-20T13:11:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 86,
-   "checked": "2026-11-20T13:06:28+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T13:11:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T13:06:28+00:00"
+   "checked": "2026-11-20T13:11:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T13:06:28+00:00"
+   "checked": "2026-11-20T13:11:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T13:06:29+00:00"
+   "checked": "2026-11-20T13:11:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-20T13:06:31+00:00"
+   "hits": 44,
+   "checked": "2026-11-20T13:11:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T13:06:32+00:00"
+   "checked": "2026-11-20T13:11:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:06:32+00:00"
+   "checked": "2026-11-20T13:11:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T13:06:32+00:00"
+   "checked": "2026-11-20T13:11:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T13:06:32+00:00"
+   "checked": "2026-11-20T13:11:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T13:06:33+00:00"
+   "checked": "2026-11-20T13:11:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T13:06:33+00:00"
+   "checked": "2026-11-20T13:11:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T13:06:33+00:00"
+   "checked": "2026-11-20T13:11:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T13:06:33+00:00"
+   "checked": "2026-11-20T13:11:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "uk prime minister won t be playing gta 6 government says while hailing rockstar games a british success story",
+   "title": "UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a \"British success story\"",
+   "link": "https://www.eurogamer.net/gta-6-uk-prime-minister-andy-burnham",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-20T13:08:30+00:00",
+   "seen": "2026-11-20T13:11:31+00:00",
+   "summary": "Grand Theft Auto 6 's seismic launch has registered on a governmental level. A spokesperson for UK Prime Minister Andy Burnham has hailed the game as a \"British success story\", but confirmed Burnham himself won't be playing it. His diary is apparently \"very full\". Read more",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The government says GTA 6 is a British success story, but the prime minister won’t be playing it."
+  },
+  {
+   "id": "grand theft auto vi by the ginormous numbers",
+   "title": "Grand Theft Auto VI: By The (Ginormous) Numbers",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWlpmMVpCMkVxYVhMZzRlVnJTQk9MajU5Y3VtTDZsNmpqT3RUakVvWGJrdUtUeUlNb2ExSFNrTDJGcTBCQVlnS0diNFQ1UDZzUzdVSjR2Y2ptOEJYSHBoQmRoR19MMmgyM3NuVEs1aUx5T1F4a0VtZUQ4YW1iZHNQa2ZwSjF6dnFISWRETHhuWEpLSWdPOXM3cGdsUnBNbGxFNE1wNE9YZDM?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-20T13:05:20+00:00",
+   "seen": "2026-11-20T13:11:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article title highlights massive numbers for Grand Theft Auto VI, with no snippet provided."
+  },
+  {
+   "id": "was gta 6 worth the wait joanne young s courage ukraine strikes crimea bridge myanmar genocide",
+   "title": "Was GTA 6 worth the wait? | Joanne Young’s courage | Ukraine strikes Crimea bridge | Myanmar genocide",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tbnh1ellRZFg1M1JubHR0UmFkOFUtMEp6T0ozQU8td243X3dtSkt0YXJsSEM3cVAwRnVESmE3UHFXOElGZTdWTDBVQlEyVTYyRGRQWDZZWGlnYTZGcGkzQjRYM2xBTTM3MUpUUUFabGgzZnFPSUprNU5Fblc5aU0?oc=5",
+   "outlet": "Channel 4 News | Substack",
+   "via": "Google News",
+   "published": "2026-11-20T13:04:23+00:00",
+   "seen": "2026-11-20T13:11:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists questions about GTA 6’s worth, along with mentions of Ukraine, Myanmar, and JoAnne Young’s courage."
+  },
   {
    "id": "doja cat feeling bitter after being left off grand theft auto vi soundtrack",
    "title": "Doja Cat feeling 'bitter' after being left off Grand Theft Auto VI soundtrack",
@@ -129,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece discusses being okay with 30 FPS gaming in GTA 6 and urges readers to share the sentiment."
+  },
+  {
+   "id": "what engine does gta 6 run on it s older than you might think",
+   "title": "What Engine Does GTA 6 Run On? It's Older Than You Might Think",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoTjhxUVU4ODd1Z0h4SG9LVkxmczdfUHhERFhLS1UySDNfQTBkQVlVQVFldy1XemViX2w3Mk04RHlidl9kbHlNTm9wNlhfS3Q1eVZxSEprV2FlQVhhd2JmV3hTaEhCb3JTbmI2VHJBWEdCMDhFODFsSjNQOWRKdw?oc=5",
+   "outlet": "BGR",
+   "via": "Google News",
+   "published": "2026-11-20T13:01:30+00:00",
+   "seen": "2026-11-20T13:11:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses which engine GTA 6 runs on and notes it is older than expected."
   },
   {
    "id": "your kid wants to play grand theft auto vi here s what you need to know",
@@ -207,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "How to easily get a tank in GTA 6, including the best method and location."
+  },
+  {
+   "id": "grand theft auto vi review so is it the best game of all time or what",
+   "title": "Grand Theft Auto VI review: so is it the best game of all time or what?",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHJmRHcwRXlXblFYcnV3YnN3ZXRBMlJ4MUp4OWdoOWxPQU84UHpBSDE0emVTanBqUGdDSUpOUGg5Zkp5a21QNWg3N2I2bldOd1EtT3hKQktfbjIyaFNiOFFSdmliTUVlNEJKdkVJcXFZQlBQSmJxaE9QY016eEFPVi1UbDJqTmVva2w2cE40UDVjeGtwQkxkUjZ1WWFZdXNM?oc=5",
+   "outlet": "Top Gear",
+   "via": "Google News",
+   "published": "2026-11-20T12:55:01+00:00",
+   "seen": "2026-11-20T13:11:29+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "The review asks whether GTA VI is the best game of all time."
   },
   {
    "id": "gta 6 can you keep playing after the ending",
@@ -1767,6 +1832,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that the far right is identified as missing the butt of the GTA VI joke."
+  },
+  {
+   "id": "gta 6 24 5 million copies and 2 36bn on day one says tracker",
+   "title": "GTA 6: 24.5 Million Copies and $2.36bn on Day One, Says Tracker",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMmY1MllKdWpQSDd5SXl0dzMyd1JpQUZ5N3NkR0FvTWVTdlZtODJjdnRVdDFCdTZyRndvZXp2VUFTdC1KYWo5UUlhaHNQR3VndmlBZUN4dWVzQ1YtdzlXMkwtTXV3SmVYVU5PM29aNFFxUnFnblpyTXU5UmhsV1JEMVNiM1FkRl9MdjJFRkNkWGw?oc=5",
+   "outlet": "www.krihaa.me",
+   "via": "Google News",
+   "published": "2026-11-20T10:11:27+00:00",
+   "seen": "2026-11-20T13:11:30+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The tracker reports GTA 6 selling 24.5 million copies and earning $2.36 billion on day one."
   },
   {
    "id": "gta 6 leaker returns to allegedly release a near complete xbox build but is holding a crucial file back for now",
