@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:33:14+00:00",
- "started": "2026-11-20T17:33:07+00:00",
+ "updated": "2026-11-20T17:38:24+00:00",
+ "started": "2026-11-20T17:38:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T17:33:08+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T17:38:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 90,
-   "checked": "2026-11-20T17:33:08+00:00"
+   "hits": 88,
+   "checked": "2026-11-20T17:38:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T17:33:09+00:00"
+   "checked": "2026-11-20T17:38:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T17:33:09+00:00"
+   "checked": "2026-11-20T17:38:20+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T17:33:09+00:00"
+   "checked": "2026-11-20T17:38:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T17:33:09+00:00"
+   "checked": "2026-11-20T17:38:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T17:33:10+00:00"
+   "checked": "2026-11-20T17:38:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T17:33:10+00:00"
+   "checked": "2026-11-20T17:38:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T17:33:10+00:00"
+   "checked": "2026-11-20T17:38:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T17:33:10+00:00"
+   "checked": "2026-11-20T17:38:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T17:33:11+00:00"
+   "checked": "2026-11-20T17:38:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T17:33:11+00:00"
+   "checked": "2026-11-20T17:38:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T17:33:11+00:00"
+   "checked": "2026-11-20T17:38:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T17:33:11+00:00"
+   "checked": "2026-11-20T17:38:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi earns an estimated 2 36 billion at launch as take two stays mum",
+   "title": "GTA VI Earns an Estimated $2.36 Billion at Launch as Take-Two Stays Mum",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pWDA0MGpZaTZ2YkJJUS00VWQ1VWw5cldtNnpVTWlUbTJVSGc5WnN2b2ZZd3ZJNkx1RTk4WElMdnhxaldkVEhiY0pVVmgwa1g3SnZCeXo3R1F6TVlpVFVxZGJpU252OG01dUs3S3hB?oc=5",
+   "outlet": "GodisaGeek.com",
+   "via": "Google News",
+   "published": "2026-11-20T17:35:38+00:00",
+   "seen": "2026-11-20T17:38:19+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA VI earned an estimated revenue at launch while Take-Two remains silent."
+  },
   {
    "id": "joe nerds out 10 hours in and gta vi has already blown me away",
    "title": "Joe Nerds Out: 10 Hours In And GTA VI Has Already Blown Me Away",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims GTA VI has impressed the author after extended play."
+  },
+  {
+   "id": "what was in mandy s sink in gta 6",
+   "title": "What Was in Mandy’s Sink in GTA 6?",
+   "link": "https://insider-gaming.com/mandys-sink-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T17:30:12+00:00",
+   "seen": "2026-11-20T17:38:20+00:00",
+   "summary": "Mandy is already one of GTA 6's most famous characters, but what did the slightly crazy individual hide in her sink? The post What Was in Mandy’s Sink in GTA 6? appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks what was in Mandy’s sink in GTA 6."
   },
   {
    "id": "how to auto drive in gta 6 and why you might want to",
@@ -209,6 +235,19 @@
    "ai_summary": "The story reports that Black Friday deals can upgrade a GTA 6 setup and enhance hours of gameplay."
   },
   {
+   "id": "how many chapters and missions are there in gta 6",
+   "title": "How many Chapters and Missions are there in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KZzFrOWR6YXEwcXNpZG5udnVhS2hNVDRiYTVvWGFtVW9MYlJyVTNvUUczQXJySzdsR3BmdGxfRVY4UXhENHlRLUhacFhfUzIxRWFqUlZ5YkFuUW1rekdZbHowM1RvM01EbG1KQkRR?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-20T17:16:40+00:00",
+   "seen": "2026-11-20T17:38:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks how many chapters and missions there are in GTA 6."
+  },
+  {
    "id": "take two s gta 6 could drive higher player spending and long term growth says bank of america",
    "title": "Take-Two's GTA 6 could drive higher player spending and long-term growth, says Bank of America",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOc2RYUUdKQ2xPdzFFd01ma2x2czZURkFDN1IyUjVZQkhQRTJpRmhRZ0I3T3V0U0NTQUpUcVpVYkFVb0IyYXF3NUR6TG9FTENXLVd2MDhhM3hSa19QTERVa2VHT25UTlczQnVVWmhKdXBhcGtEX1g3VUZvUHlIWWNjSVl6Mkp5bnItZ1djUzJ3ZHNONDhQd3FVaThfT0pIbU16Y3hkV0g0RW1KRG40bEJxZm4wdmg1cHBmRnRndHFYTGdnM3lYVEd2bHJZUnJ6SUlsNG5kWGktWFJqTm5BbXhNSHdpdzdyR3EzdlJ5ZW4tcE9BWU9FckF3?oc=5",
@@ -261,6 +300,19 @@
    "ai_summary": "The report claims GTA 6's launch is historic with an estimated revenue of $2.36 billion."
   },
   {
+   "id": "sales of grand theft auto vi hit more than 2 3 billion after long anticipated release",
+   "title": "Sales of 'Grand Theft Auto VI' hit more than $2.3 billion after long-anticipated release",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmloRGhkTEliSm5SQkZ1anc5bGRwanh0Znd0R0dvU05nbkRmQU1wbWZqOV9oOXpBaTc1QTc4ZUoyZVZwbmxYQzRVdmFpZXVrekxYUUVTUWxhWlRPd1J3eDhjVUJPQ2R0RHdzVlkxWE9rc2VYSnh1U1ExQ3R4RGR0Q2VEVnhzQUF2QXh4c2lpUUtIaW5TNWYyNDVyNDhOSnZNOVdxZVFBeXlwRl9SOC1YTW5XNUd4d1kxTnc00gHAAUFVX3lxTFA0V0xCVVpTWjBlcC1qMV9ncWM5Q2N3NVUxUERXQ1k1bDNiaXRSczA2VlAxa09OQi1jWGZyZGpjQUZYSUxNS1h5T3VVRjVPMlBPaUdBREoxbFRjSDdFYTNmMERUVVdqam0xR2N6eTZYV0kwcm1taWRWT3ZCS3ZsakprM25haklwMmtGWUdVMHJwcnZVZXFHaE54eGk5WHdBa0VtZ0k3aFZoR0dubnBCWW1McDBXSWd5NDFyQVVzbTcyUg?oc=5",
+   "outlet": "PBS",
+   "via": "Google News",
+   "published": "2026-11-20T17:06:28+00:00",
+   "seen": "2026-11-20T17:38:19+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story notes sales of Grand Theft Auto VI exceeded $2.3 billion after release."
+  },
+  {
    "id": "corona resident to earn over 100 000 playing grand theft auto vi the press enterprise",
    "title": "Corona resident to earn over $100,000 playing ‘Grand Theft Auto VI’ - The Press-Enterprise",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEhYVmJkUVRicVh1dkpwM3dLSVJZN1UybVY3UEJ5RjZnMW9xLXZoenJzbzN1dHVTZG41N1BlSFRLbW9Gb1R2REsxRFFWWHh4M0Vmb1JxWnM1SjJ1dlZNRmlYZl9tOUJnS0lXWG9JeVlheXc3Sm9nR1ZLMFVTbk5EVFFXWVdSUE9jaE1TaEs2bFdHajhXQzNJd3NmVHNtUzRaQTNhdDJOZWFqZTA?oc=5",
@@ -285,6 +337,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article covers a GTA VI glitch that unlocks first-person view in Vice City."
+  },
+  {
+   "id": "the 6 most fun things to do in the first few hours of gta 6",
+   "title": "The 6 Most Fun Things To Do in the First Few Hours of ‘GTA 6’",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yLXN6VVBna0ZIZlVPZkZERXhnblJCUlBNUzEzcmRTTW1IVGNieWc3UzhTTUxVQXVPZWJoTVJpRkpkaXNJUUFPdHVkU0luT2hucWRiamtFMTNWbkZuYko5RFVnNlp0cGc?oc=5",
+   "outlet": "Collider",
+   "via": "Google News",
+   "published": "2026-11-20T17:06:13+00:00",
+   "seen": "2026-11-20T17:38:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists six enjoyable activities to try in the first hours of GTA 6."
   },
   {
    "id": "gta 6 already threatening relationships productivity and your weekend plans",
