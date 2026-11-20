@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:08:59+00:00",
- "started": "2026-11-20T05:08:53+00:00",
+ "updated": "2026-11-20T05:14:01+00:00",
+ "started": "2026-11-20T05:13:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T05:08:54+00:00"
+   "checked": "2026-11-20T05:13:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T05:08:54+00:00"
+   "checked": "2026-11-20T05:13:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T05:08:55+00:00"
+   "checked": "2026-11-20T05:13:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T05:08:55+00:00"
+   "checked": "2026-11-20T05:13:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T05:08:55+00:00"
+   "checked": "2026-11-20T05:13:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T05:08:55+00:00"
+   "checked": "2026-11-20T05:13:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T05:08:56+00:00"
+   "checked": "2026-11-20T05:13:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T05:08:56+00:00"
+   "checked": "2026-11-20T05:13:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T05:08:56+00:00"
+   "checked": "2026-11-20T05:13:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T05:08:56+00:00"
+   "checked": "2026-11-20T05:13:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T05:08:56+00:00"
+   "checked": "2026-11-20T05:13:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T05:08:56+00:00"
+   "checked": "2026-11-20T05:13:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T05:08:57+00:00"
+   "checked": "2026-11-20T05:13:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T05:08:57+00:00"
+   "checked": "2026-11-20T05:13:59+00:00"
   }
  },
  "items": [
@@ -974,6 +974,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Kyren Williams hopes the GTA VI release distracts other NFL teams."
+  },
+  {
+   "id": "dexter references have been found in gta 6",
+   "title": "'Dexter' References Have Been Found in 'GTA 6'",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZTkyWGdLTHRiWnRfTy11ME54Zm1abGpfOEp3U05aakRTTlhTejRFb3JEeFJSRk1lejNDdXNrSHBpcFI4SmhaQnZXN2xVQUhuVG90X3FxQ3Zid1ZTX25DdDNmRWdWdk1mR0YtR21md2lhQmx6aFNiaWR0VDN4czV2NWdrZWRuZTkzS0ctTWNn?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-20T00:59:00+00:00",
+   "seen": "2026-11-20T05:13:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Dexter references have been found in GTA 6 according to Men's Journal."
   },
   {
    "id": "grand theft auto vi release sparks weeklong celebrations across miami",
