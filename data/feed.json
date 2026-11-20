@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:03:59+00:00",
- "started": "2026-11-20T05:03:52+00:00",
+ "updated": "2026-11-20T05:08:59+00:00",
+ "started": "2026-11-20T05:08:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T05:03:53+00:00"
+   "checked": "2026-11-20T05:08:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T05:03:53+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T05:08:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T05:03:54+00:00"
+   "checked": "2026-11-20T05:08:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T05:03:54+00:00"
+   "checked": "2026-11-20T05:08:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T05:03:54+00:00"
+   "checked": "2026-11-20T05:08:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T05:03:54+00:00"
+   "checked": "2026-11-20T05:08:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T05:03:55+00:00"
+   "checked": "2026-11-20T05:08:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T05:03:55+00:00"
+   "checked": "2026-11-20T05:08:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T05:03:55+00:00"
+   "checked": "2026-11-20T05:08:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T05:03:55+00:00"
+   "checked": "2026-11-20T05:08:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T05:03:56+00:00"
+   "checked": "2026-11-20T05:08:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T05:03:56+00:00"
+   "checked": "2026-11-20T05:08:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T05:03:56+00:00"
+   "checked": "2026-11-20T05:08:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T05:03:56+00:00"
+   "checked": "2026-11-20T05:08:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi releases full 34 song soundtrack album",
+   "title": "Grand Theft Auto VI Releases Full 34-Song Soundtrack Album",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlYWZ6RnhEcS1LN1FiMVp3M0laYmVQWGQtaW9mYklVTWFWODZUbXpYQ3kwQUhFUUdZVm5zeW9ia1pRUVFfeEtFQ0JfdjRYeTE2VGVmZjNXaU5yaW5fRDVvWDE5WExuLTY1X3o2dklQdw?oc=5",
+   "outlet": "Consequence of Sound",
+   "via": "Google News",
+   "published": "2026-11-20T05:00:51+00:00",
+   "seen": "2026-11-20T05:08:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI releases a full soundtrack album containing thirty-four songs."
+  },
   {
    "id": "gta vi album is here stream dua lipa cardi b lana del rey more",
    "title": "'GTA VI' Album Is Here: Stream Dua Lipa, Cardi B, Lana Del Rey & More",
@@ -129,6 +142,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 is reported to have surpassed two billion in estimated sales."
+  },
+  {
+   "id": "sony shares rise as playstation accounts for around 75 of gta 6 sales",
+   "title": "Sony shares rise as PlayStation accounts for around 75% of GTA 6 sales",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3NhbjNRZFVESjhLdFJVYzV6d3NqR2xqWHA4NVZabkJPWkQ4c2dIc3hKQ0I1Ql9BeWlwcjlIMHFsMjhlRUR0bWhHbzRRYmdfaFpmS2ZKVFU1LXNYZmxLdnMxSUFaZEMtSmxMMDVCaXM4WHNDSUtseE0tQldDUE95blRVRmM2SE9ZaFFVY3l4NFg4d3VUSTZNYllxSQ?oc=5",
+   "outlet": "Esports.gg",
+   "via": "Google News",
+   "published": "2026-11-20T04:53:14+00:00",
+   "seen": "2026-11-20T05:08:55+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Sony shares rise as PlayStation accounts for around seventy-five percent of GTA 6 sales."
   },
   {
    "id": "gta 6 controls for ps5 and xbox every reported button mapping",
