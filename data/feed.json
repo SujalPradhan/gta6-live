@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:20:24+00:00",
- "started": "2026-11-20T09:20:17+00:00",
+ "updated": "2026-11-20T09:25:24+00:00",
+ "started": "2026-11-20T09:25:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T09:20:18+00:00"
+   "checked": "2026-11-20T09:25:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-20T09:20:18+00:00"
+   "hits": 92,
+   "checked": "2026-11-20T09:25:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T09:20:19+00:00"
+   "checked": "2026-11-20T09:25:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:20:19+00:00"
+   "checked": "2026-11-20T09:25:20+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T09:20:20+00:00"
+   "checked": "2026-11-20T09:25:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T09:20:20+00:00"
+   "checked": "2026-11-20T09:25:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T09:20:20+00:00"
+   "checked": "2026-11-20T09:25:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T09:20:20+00:00"
+   "checked": "2026-11-20T09:25:21+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T09:20:20+00:00"
+   "checked": "2026-11-20T09:25:21+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T09:20:21+00:00"
+   "checked": "2026-11-20T09:25:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T09:20:21+00:00"
+   "checked": "2026-11-20T09:25:22+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T09:20:22+00:00"
+   "checked": "2026-11-20T09:25:22+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:20:22+00:00"
+   "checked": "2026-11-20T09:25:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T09:20:22+00:00"
+   "checked": "2026-11-20T09:25:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi is back and shattering records",
+   "title": "Grand Theft Auto VI is back and shattering records",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pUkNLWlRmRzZaUTBhTmt3dGdBSFk5bzZCbUR1WC1vdWpjSlo4RS0zYVE1RXlEMXpuM2dOZmMwSWR1Z1RHOHVrVEo2WjN5UG9BNGVRSDBqb3h0b0doX0dZ0gFcQVVfeXFMUE1KUFcyakZ5WXlERTVPbHd0YjJKME9TMmtST24xcGU5U2V0VFdEajRYZ005YWFnU0dPNWN1WERyc0VnWnpjdllEbEJibXh5U0VlUEFacTlLR0E2UkU?oc=5",
+   "outlet": "Modern Ghana",
+   "via": "Google News",
+   "published": "2026-11-20T09:20:00+00:00",
+   "seen": "2026-11-20T09:25:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI is back and shattering records."
+  },
   {
    "id": "gta 6 s 34 track official album is out now",
    "title": "GTA 6's 34-track official album is out now",
@@ -142,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 became a global sensation upon its release."
+  },
+  {
+   "id": "gta 6 fever is real videogame makes 2 36 billion in just 24 hours",
+   "title": "GTA 6 fever is real: Videogame makes $2.36 billion in just 24 hours",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3ZaSnFjTXh6SWJ2OHNpajZhQ1c4bUF4VDNvaXJQOHh2ck1DMC1jTnhQVzh0bkR4R2s0MUtNaTlpdTRwMTJRLV9xaFU1VGtZbTNKOERGWFROT2ZXWXpJTEVuTGlUSTlVdmcwMHNjVUZSak9sLXp1MFZoMm50Ulc1RWp4c3U4ajBENng0SXBEQzNIMTdRXzJXdHZadDNzdHdXbjhtYkVWRUtRS3dxYVZz0gG0AUFVX3lxTE5rOTkxUk91bENjZmNfa1BPcmZYLXdsMkx1OFRXYkgxOGxPeDRkTk1MZmFwNFI3b191b1paNGtnMzRfcGNfc0R6VTFSd1d3MkZDbzA4WU9waFl2WEo1WGRxeWZVN2kwclpoUFpaLUlFV0t6Rzk5S2JpdG85cERmOHNuVWdBNjcxTzVpOUlORnMxMURxdWZsYVVxZ2s1MktlMk1JYnVMNHZHZUxJWW52NXhSc1VoWQ?oc=5",
+   "outlet": "Firstpost",
+   "via": "Google News",
+   "published": "2026-11-20T09:09:57+00:00",
+   "seen": "2026-11-20T09:25:19+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 fever is real and the videogame makes $2.36 billion in just 24 hours."
   },
   {
    "id": "cyberleek claims to have released a full in development version of the gta vi",
