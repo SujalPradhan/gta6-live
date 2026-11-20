@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T00:32:35+00:00",
- "started": "2026-11-20T00:32:27+00:00",
+ "updated": "2026-11-20T00:37:43+00:00",
+ "started": "2026-11-20T00:37:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T00:32:28+00:00"
+   "checked": "2026-11-20T00:37:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 93,
-   "checked": "2026-11-20T00:32:28+00:00"
+   "checked": "2026-11-20T00:37:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T00:32:29+00:00"
+   "checked": "2026-11-20T00:37:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T00:32:29+00:00"
+   "checked": "2026-11-20T00:37:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T00:32:29+00:00"
+   "checked": "2026-11-20T00:37:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T00:32:30+00:00"
+   "checked": "2026-11-20T00:37:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T00:32:30+00:00"
+   "checked": "2026-11-20T00:37:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T00:32:30+00:00"
+   "checked": "2026-11-20T00:37:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T00:32:31+00:00"
+   "checked": "2026-11-20T00:37:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T00:32:31+00:00"
+   "checked": "2026-11-20T00:37:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T00:32:32+00:00"
+   "checked": "2026-11-20T00:37:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T00:32:32+00:00"
+   "checked": "2026-11-20T00:37:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T00:32:32+00:00"
+   "checked": "2026-11-20T00:37:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T00:32:32+00:00"
+   "checked": "2026-11-20T00:37:41+00:00"
   }
  },
  "items": [
@@ -144,6 +144,19 @@
    "ai_summary": "GamesRadar+ states the character resembling Matty Matheson isn’t actually Matty Matheson, as confirmed by The Bear star."
   },
   {
+   "id": "kansas city gaming community weighs in on grand theft auto vi digital only release",
+   "title": "Kansas City gaming community weighs in on ‘Grand Theft Auto VI’ digital-only release",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFROWGRqeS1Jc0tkZ1F0ZFZ2RFUxNFZXZXFnUWtob043Mm5QcF84eThFU3BoV2VKR2ZGZHBYa2RpOHV0dEJabzlDZUpEbHpUdThVQm81a0poMzF0d3h3VlJfYkJHdU5HVUhnX0RwTW84cldnaEdZMXUyUjZtU1lSYkZjVHVCb3JlN0JkcFBNS3BWenczWVl1eDRBRkhWQ1E1OENFUmVGaVNXeWs1ekVR0gHDAUFVX3lxTE9BeWpFSkRiUEU1b2lGZjlGYWtqSlpFajNDT0ZHbXNhY0NQT04tcDF5Vkx1WlY0UzVqZmgyaTROT01RWkd0LTAzc2NWSWp3Ul8yckZIZ0FYNVZIbjJ0RTB0a0hLY09PQkFWc2M2TWZ6TjJzNzNLSDdzeUZRQ3Q1VGlDc2JqeHFPZVZHS1ZsQThOd2JJbUZXbll0WTkwRGVaWWxaV0xIY3JsMEk3X0Z1NXE5VnA2T1pNREk1VGJ1aFNXT1BxOA?oc=5",
+   "outlet": "KCTV",
+   "via": "Google News",
+   "published": "2026-11-20T00:25:00+00:00",
+   "seen": "2026-11-20T00:37:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Kansas City gaming community discusses GTA VI's digital-only release."
+  },
+  {
    "id": "take two set to shatter sales records as gta 6 launches to massive fanfare",
    "title": "Take-Two set to shatter sales records as GTA 6 launches to massive fanfare",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3o1Ry1uaHNPNzM0U19fY0kxSmR6RW5xUWlwY0FFTy1ZSzVhWlZ1dWpwSWlOOVVRYlg5Yjcxd3FSQW9BdkNjSjhoa08wd0pxVEJXVjVxYXNybjFyRklXcm9rVlVmaEQ0Rm9GZGFYSTdVbW1HYUQ2elZYdEc1eG1sVDluMVJXWFF5UzhvVldyTWhuMlNRS2tqa2NKeC1HRmVXWUhwSEw2aDZyWXB1NkRfRzFYYnplaVNnWmpUeFVhS1A?oc=5",
@@ -168,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The GTA VI release draws anticipation after years of delays."
+  },
+  {
+   "id": "gta vi phenomenon explained by psychologist",
+   "title": "GTA VI phenomenon explained by psychologist",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FeDNfRTFQUDhyUDA1VGRmYmgzS1lLbHdET1FEMy1BaGlPM25NU2hKZ2J1X0d0RTFsU1lBTWV0X3BUNmt4cHlWWm9RaE55S1pRZGdxRVZFY1JhV0NTY0VJaG9kU0p4Z9IBa0FVX3lxTE1LbnVKWVhHdVZQU2pXdGVrMWtXQk1RWVlMWFUzQkNYay1URUY2ekZTa1BldktFNmVBNWlGOEZqRnZZYkxoYThYRjllWmI0QjE3allDNWJBN0hCVlNwUjc4VG9HVTY5cF9qdmY4?oc=5",
+   "outlet": "FOX 26 Houston",
+   "via": "Google News",
+   "published": "2026-11-20T00:17:07+00:00",
+   "seen": "2026-11-20T00:37:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI phenomenon explained by a psychologist."
   },
   {
    "id": "grand theft auto vi release brings gaming excitement to louisville",
