@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:28:13+00:00",
- "started": "2026-11-20T02:28:06+00:00",
+ "updated": "2026-11-20T02:33:22+00:00",
+ "started": "2026-11-20T02:33:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T02:28:07+00:00"
+   "checked": "2026-11-20T02:33:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-20T02:28:07+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T02:33:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T02:28:08+00:00"
+   "checked": "2026-11-20T02:33:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T02:28:08+00:00"
+   "checked": "2026-11-20T02:33:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T02:28:08+00:00"
+   "checked": "2026-11-20T02:33:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T02:28:08+00:00"
+   "checked": "2026-11-20T02:33:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T02:28:09+00:00"
+   "checked": "2026-11-20T02:33:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T02:28:09+00:00"
+   "checked": "2026-11-20T02:33:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T02:28:09+00:00"
+   "checked": "2026-11-20T02:33:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T02:28:10+00:00"
+   "checked": "2026-11-20T02:33:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T02:28:10+00:00"
+   "checked": "2026-11-20T02:33:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T02:28:10+00:00"
+   "checked": "2026-11-20T02:33:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T02:28:10+00:00"
+   "checked": "2026-11-20T02:33:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T02:28:10+00:00"
+   "checked": "2026-11-20T02:33:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 has officially outearned one of 2026 s biggest movies entire global run",
+   "title": "'GTA 6' Has Officially Outearned One of 2026's Biggest Movies' Entire Global Run",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HU2JuWTJ1bzlJblcyN01FS21WU1lFaDNNOVEzRkd2UFRqdGdUdFZxZDJ6Nm1Ta0NqZFRJanVwenBSQU5kRzBneGhuMEFaN0NsSVE?oc=5",
+   "outlet": "MovieWeb",
+   "via": "Google News",
+   "published": "2026-11-20T02:30:00+00:00",
+   "seen": "2026-11-20T02:33:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 has officially outearned one of 2026's biggest movies across its entire global run."
+  },
+  {
+   "id": "how the release of gta 6 impacts northwest arkansas and economy",
+   "title": "How the release of GTA 6 impacts Northwest Arkansas and economy",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2RzU094MUhVakxiWlZLQ18xME5UNVU4dUJ3bldTVkJ0TTJIel9zTkhjTG1DZkNtZm1XbmRsUmZDUndRcDRzNVlnS2VPdjVYZ1FDVnU2WHJ0TXF5ZDlfcEN2b0VyUWI1Ym9zZm5wa21TMnlSczh1TTFLMi1sck9HLUttelVKelFzVFlPZ0p2QmlpdGZXbHhMOVhKWGhkWk1ITUdxaG9MbDA1dmxvOEYybDlhLWpJRzg2NGF2alFVV1FQT0xQXzRLTUFyM19BNWs1NjRVMlF6alhhT0Y0V0E?oc=5",
+   "outlet": "5newsonline.com",
+   "via": "Google News",
+   "published": "2026-11-20T02:27:15+00:00",
+   "seen": "2026-11-20T02:33:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how the release of GTA 6 impacts Northwest Arkansas and its economy."
+  },
   {
    "id": "grand theft auto vi launched did connecticut schools get hit by the gta flu",
    "title": "'Grand Theft Auto VI' launched. Did Connecticut schools get hit by the ‘GTA flu’?",
@@ -129,6 +155,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The review says GTA VI introduces a whole new style to the same classic series."
+  },
+  {
+   "id": "gta 6 is here what players can do in its expansive new world",
+   "title": "GTA 6 is here: What players can do in its expansive new world",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFdYNzBvUUR4c21vMmJ3TlJROXp5ZWVKZ0JWQ0RDYVdKNk1oalBUSVRwUGFBWmdwMGs0Tmk4aFozTmt1d1dEV2UzeXAyMWcxWE1KTHpTOEVkOE8tNHFDTUlaZ2pSNDc5Y1BNU0cxN3BNNjNzRGplZ1dWQ0xpU1VYMkJORmNkUlVhekRfUWlYYVZiVkE5TGRiZnRoNms?oc=5",
+   "outlet": "ABC10",
+   "via": "Google News",
+   "published": "2026-11-20T02:25:00+00:00",
+   "seen": "2026-11-20T02:33:16+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports on what players can do in GTA 6's expansive new world."
   },
   {
    "id": "xbox series x s sales reportedly rose 10 in the u s driven by gta 6 and gears of war e day",
@@ -2066,6 +2105,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "An analyst suggests GTA VI could sell a large number of copies by March, possibly by December."
+  },
+  {
+   "id": "everything you missed on gta 6 launch day and the tips worth knowing first",
+   "title": "Everything You Missed on GTA 6 Launch Day (And the Tips Worth Knowing First)",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0t3Z0o0NlBMMVZudU9uc2NFTHVfcURWUTFod1dJaE9BeHRqVjl4ZnlPbnRYZmpaMW9uTjBqLTUtc052S3RYUGltOWFxUDBJZS1veUlpNUhaeU5KWHdmZGtNTXcza1RGbFVZcEpvOWRhNEF3cE9hSVNHOEQwZG93RUhFczZZejVKT1pFcjRHdTFUenlXZERLRzY5ZmRDSEF4TkRGdGNYUko?oc=5",
+   "outlet": "PCMag UK",
+   "via": "Google News",
+   "published": "2026-11-19T22:13:43+00:00",
+   "seen": "2026-11-20T02:33:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports everything missed on GTA 6 launch day and the tips worth knowing first."
   },
   {
    "id": "gta 6 has a radio station hosted by weird al yankovic",
