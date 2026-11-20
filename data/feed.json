@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:18:46+00:00",
- "started": "2026-11-20T18:18:39+00:00",
+ "updated": "2026-11-20T18:23:32+00:00",
+ "started": "2026-11-20T18:23:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T18:18:39+00:00"
+   "checked": "2026-11-20T18:23:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 86,
-   "checked": "2026-11-20T18:18:40+00:00"
+   "checked": "2026-11-20T18:23:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T18:18:40+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T18:23:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T18:18:41+00:00"
+   "checked": "2026-11-20T18:23:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T18:18:41+00:00"
+   "checked": "2026-11-20T18:23:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T18:18:41+00:00"
+   "checked": "2026-11-20T18:23:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 24,
-   "checked": "2026-11-20T18:18:41+00:00"
+   "hits": 23,
+   "checked": "2026-11-20T18:23:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T18:18:41+00:00"
+   "checked": "2026-11-20T18:23:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T18:18:42+00:00"
+   "checked": "2026-11-20T18:23:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T18:18:42+00:00"
+   "checked": "2026-11-20T18:23:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T18:18:43+00:00"
+   "checked": "2026-11-20T18:23:29+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T18:18:43+00:00"
+   "checked": "2026-11-20T18:23:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T18:18:43+00:00"
+   "checked": "2026-11-20T18:23:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T18:18:43+00:00"
+   "checked": "2026-11-20T18:23:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to get a gta 6 jet easily and cause chaos in the skies",
+   "title": "How to get a GTA 6 jet easily and cause chaos in the skies",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/how-to-get-a-jet-in-gta-6-easily-and-cause-chaos-in-the-skies/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T18:19:06+00:00",
+   "seen": "2026-11-20T18:23:28+00:00",
+   "summary": "You can fly a GTA 6 jet right at the start of the game by raiding the nearby military base, and here's how to do it",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to obtain a GTA 6 jet early by raiding a military base and provides steps to do so."
+  },
+  {
+   "id": "warning from us police to gta 6 players there are no cheat codes in real life",
+   "title": "Warning from US police to GTA 6 players: There are no cheat codes in real life",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN2Y1QXdLTFBCNmx3MHBXa1NXeXpKa0NZLUUtS1Q2b2s3T0U4Mm04eks2ZmpHbnZaenZBc28tSDVDZ1F3cWFhb2FKa3pjbVhGZ29JU29SQjBHVi1ZN2FtMFYzVEdsMkFINTJ3Qmkwa3JzcURHUUpRb0RZQ1NWekg4Mi1LN1hOS1dvWlE?oc=5",
+   "outlet": "Haberler.com",
+   "via": "Google News",
+   "published": "2026-11-20T18:18:33+00:00",
+   "seen": "2026-11-20T18:23:27+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports a police warning that there are no cheat codes in real life for GTA 6 players."
+  },
   {
    "id": "gta 6 property guide what you can and can t buy in leonida at launch",
    "title": "GTA 6 property guide: what you can and can’t buy in Leonida at launch",
@@ -4016,6 +4042,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports VICE album reviews including GTA VI among other releases."
+  },
+  {
+   "id": "how to sell cars in gta 6",
+   "title": "How to sell cars in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91T1ByNkI2SDRBUXpkME5XdXpQS0tfbXJ6OGpKcHNRVExsbmFKRnZOWGw4aGJuNUpiUmRZTVlOX2NUOE00RDg4UW8xbm45MFJTYTNr?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-20T13:05:30+00:00",
+   "seen": "2026-11-20T18:23:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers how to sell cars in GTA 6."
   },
   {
    "id": "grand theft auto vi by the ginormous numbers",
