@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:09:32+00:00",
- "started": "2026-11-20T21:09:26+00:00",
+ "updated": "2026-11-20T21:14:32+00:00",
+ "started": "2026-11-20T21:14:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T21:09:27+00:00"
+   "checked": "2026-11-20T21:14:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T21:09:27+00:00"
+   "checked": "2026-11-20T21:14:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T21:09:27+00:00"
+   "checked": "2026-11-20T21:14:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T21:09:28+00:00"
+   "checked": "2026-11-20T21:14:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T21:09:28+00:00"
+   "checked": "2026-11-20T21:14:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T21:09:28+00:00"
+   "checked": "2026-11-20T21:14:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T21:09:28+00:00"
+   "checked": "2026-11-20T21:14:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 16,
-   "checked": "2026-11-20T21:09:28+00:00"
+   "hits": 17,
+   "checked": "2026-11-20T21:14:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T21:09:28+00:00"
+   "checked": "2026-11-20T21:14:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T21:09:29+00:00"
+   "checked": "2026-11-20T21:14:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T21:09:29+00:00"
+   "checked": "2026-11-20T21:14:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T21:09:29+00:00"
+   "checked": "2026-11-20T21:14:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T21:09:29+00:00"
+   "checked": "2026-11-20T21:14:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T21:09:29+00:00"
+   "checked": "2026-11-20T21:14:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi makes 3 79b in a day the biggest media launch ever",
+   "title": "‘Grand Theft Auto VI’ makes $3.79B in a day, the biggest media launch ever",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGpJVV9vQ3REeEVTSmJqQUZtNEh6eG1SdGlnVzFBRy05am9fODVCcjJLZG9RXzF4V3JxazVnNjQ5SnJzR21qNFdQbWdQWnM2YXdzeGNtNXJ6RlJFaWd4dmE2RW1NV3FoalZJTlNXVUR0VWJoWmZ1N0Q3REZmOHowanlESnBDa1YyT25Hb01UZG1vSFV3VlBIaDdjMXA4RXowc0Zhd0F4VjZxbDIycGlkZy1KdW1pNzc5UlJzV19SbkQwd3NZSURoMQ?oc=5",
+   "outlet": "The Washington Post",
+   "via": "Google News",
+   "published": "2026-11-20T21:09:55+00:00",
+   "seen": "2026-11-20T21:14:27+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI earned 3.79 billion dollars in one day and set the biggest media launch record."
+  },
+  {
+   "id": "grand theft auto vi smashes records with 3 8bn in sales",
+   "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFhGWWF4LVY5N212bWtEU3BzRVFqRGpoQXFmRk1vNjNvMFplVG9xbjdPY09pb3hoM0dCUDRRWThZT1d0Si1MUHhGT1JxUjgzQVNsd19WTmlWUGRKcEU3aGRobFh0ZWxTUDRsY0x0aUVHWEVmOVQyWGt0bk5tU1hha3gwVTM?oc=5",
+   "outlet": "Financial Times",
+   "via": "Google News",
+   "published": "2026-11-20T21:05:48+00:00",
+   "seen": "2026-11-20T21:14:27+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI achieved 3.8 billion dollars in sales and smashed records."
+  },
   {
    "id": "klay thompson gives grand theft auto vi review in video says he s been an upstanding citizen",
    "title": "Klay Thompson Gives Grand Theft Auto VI Review in Video, Says He's Been an 'Upstanding Citizen'",
@@ -534,6 +560,19 @@
    "ai_summary": "The story reports GTA 6 made $3.79 billion in first-day sales and set a record for entertainment."
   },
   {
+   "id": "grand theft auto vi generates 3 79 billion in first day sales sets entertainment launch record",
+   "title": "Grand Theft Auto VI Generates $3.79 Billion in First-Day Sales, Sets Entertainment Launch Record",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56SjV0NXdhZ2hGX0ZpbHZwSWduMnhfT0VFVVF6a3dJQnY4OTZhVzlVekJFVjFybk15TUliU0x3Nzg3NUpCZmxBdmlfYzRNc2w1ZndPbFlpYXFhUy1mZ1ZkUEViQzZpcEllVTZmc0o4WXprVEk?oc=5",
+   "outlet": "Noisy Pixel",
+   "via": "Google News",
+   "published": "2026-11-20T20:28:21+00:00",
+   "seen": "2026-11-20T21:14:28+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI generated 3.79 billion dollars in first-day sales and set an entertainment launch record."
+  },
+  {
    "id": "gta 6 sets record with 3 79 billion in first day retail sales report",
    "title": "GTA 6 Sets Record With $3.79 Billion In First-Day Retail Sales: Report",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdFhjX2hoUjRfbWpqNDhaYkVhWHZDbnJsMS03TmhHSjFIMHFkUUxiU0hkaWVJQVVZekJmT0lmTkhJa0NaMTJ6OE04Sk9jVm55eXdWbXNDR3R2NGVidjhjTEo3UHM3SzROQWxQdGZyWUNoTU5GZVM3SDM2bVJ1SFN2dHJwWkFvdFpFdW9hVDBZX0s4S3A4b2d4NWxnVFZNcU5PdkViMnpRVGtKdklZenfSAbYBQVVfeXFMUFQ4ajM2cU5ZNWxPUU52aWJzbTlNTUhHZzJBNGp3Nzcwa2NSR1REcWRZejNkeHBvcF9EUWNZcXVSTXFkU3RWU05sR3hOYjk4SjJ2NDlvd0NlWENuTEV3M3JrUkx1RjBLU1Q2YVlCY2pORlVHS1NpRFp0VThGZEVZRjhrZHhDdGZmc21QVklzeS0tS0FFYW9JQ2F1d3FwdFJyWFNoQmhVb3MyYXJPWjgzajBPWThBQ3c?oc=5",
@@ -636,6 +675,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 sold on its first day and became the biggest entertainment launch in history."
+  },
+  {
+   "id": "gta 6 players are already ditching mandy for goth bartender vicki",
+   "title": "GTA 6 players are already ditching Mandy for goth bartender Vicki",
+   "link": "https://www.dexerto.com/gta/gta-6-players-are-already-ditching-mandy-for-goth-bartender-vicki-3430203/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-20T20:22:38+00:00",
+   "seen": "2026-11-20T21:14:29+00:00",
+   "summary": "GTA 6 fans are ditching Mandy for Vicki, a goth bartender who enlists Jason and Lucia to rob her boss.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 players are choosing the character Vicki, a goth bartender, over Mandy."
   },
   {
    "id": "grand theft auto vi tops 3 79 billion in revenue on day one after 32 5 million pre orders",
