@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T23:10:19+00:00",
- "started": "2026-11-20T23:10:13+00:00",
+ "updated": "2026-11-20T23:15:21+00:00",
+ "started": "2026-11-20T23:15:08+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:10:13+00:00"
+   "checked": "2026-11-20T23:15:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:10:14+00:00"
+   "checked": "2026-11-20T23:15:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:10:14+00:00"
+   "checked": "2026-11-20T23:15:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T23:10:15+00:00"
+   "checked": "2026-11-20T23:15:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T23:10:15+00:00"
+   "checked": "2026-11-20T23:15:10+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T23:10:15+00:00"
+   "checked": "2026-11-20T23:15:10+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T23:10:15+00:00"
+   "checked": "2026-11-20T23:15:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T23:10:15+00:00"
+   "checked": "2026-11-20T23:15:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T23:10:15+00:00"
+   "checked": "2026-11-20T23:15:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T23:10:16+00:00"
+   "checked": "2026-11-20T23:15:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T23:10:16+00:00"
+   "checked": "2026-11-20T23:15:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T23:10:16+00:00"
+   "checked": "2026-11-20T23:15:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T23:10:16+00:00"
+   "checked": "2026-11-20T23:15:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T23:10:16+00:00"
+   "checked": "2026-11-20T23:15:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 coffee break walkthrough",
+   "title": "GTA 6 Coffee Break walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-coffee-break-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-20T23:12:41+00:00",
+   "seen": "2026-11-20T23:15:10+00:00",
+   "summary": "Coffee Break is a relatively straightforward mission, with just a handful of objectives to complete.",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Coffee Break is a straightforward mission with just a handful of objectives to complete."
+  },
+  {
+   "id": "vice city where grand theft auto vi is set is a stand in for miami in all its sunny sexy gritty and neon glory here s how the real life city",
+   "title": "“Vice City,” where Grand Theft Auto VI is set, is a stand-in for Miami in all its sunny, sexy, gritty and neon glory. Here’s how the real-life city’s visual and aesthetic influence on its fictional counterpart is apparent in virtually every frame.",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTWRPdzYzZWZ0NWpiTjd5MjB2bnh5WkIxUF9uSmtXbWhlQnRfaGFzMzYzTGxYRGZpM3NzR0JqNUllR01DQmJuZHl5MHNKY1BIbmF5YnZKUXlPckU4dm1teEM3ZlRIOFNZa3FqTElJVHY0dUVTN2xqeDE2UGY4UmV5eGdaR2RnVnM2YU1qTDF1NXJjUnJacWxmUGlSMWdyLVlKNjZldWtORVV6WjRqTXR1MlhMN0Vwc2NuOGF2Zi1FOWNCUmhHWFVCYXhKSmVqbHkwbXhiTg?oc=5",
+   "outlet": "Facebook",
+   "via": "Google News",
+   "published": "2026-11-20T23:10:50+00:00",
+   "seen": "2026-11-20T23:15:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Vice City, where Grand Theft Auto VI is set, is a stand-in for Miami with a sunny, sexy, gritty and neon glory, influencing its visual and aesthetic in virtually every frame."
+  },
+  {
+   "id": "15 hidden gta 6 controls and features you should know about",
+   "title": "15 hidden GTA 6 controls and features you should know about",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDhuek1YbVNmN0lDMjBtYVJ6eGxaVnFRaDJKUUdVcVY1T0lQTkxZaDk5TjlLSm9ualhKb2dQbzJHZXJIWXptaHBJMnFrNkR0aWJnQ0dfS1hMOHpCUG9nenBIQUp1MFdHdVpnNURZRHllS2NMTWVySkV6aEZHTGtoVGJGMXVWcmtoWkFrYUhCZGVOSm55dGVHbDNrMEhES29KZHU3eG5ETHNRYWM?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-20T23:07:57+00:00",
+   "seen": "2026-11-20T23:15:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "15 hidden GTA 6 controls and features you should know about."
+  },
   {
    "id": "gta 6 sales have reportedly generated 2 36 billion in revenue",
    "title": "GTA 6 sales have reportedly generated $2.36 billion in revenue",
@@ -116,6 +155,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that GTA 6 sales have reportedly generated $2.36 billion in revenue."
+  },
+  {
+   "id": "miami goes full vice city for gta 6",
+   "title": "Miami goes full Vice City for GTA 6!",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzNBTjNObFhZbkotZE1BT3V5dHA0TEJfaDRPeGhTeTBKWk4xSkVBTVFUTVVRRHBQaEVQVUhYaWVoNGYzSS10YnJ5VGx5MXgyeC1TSlFXVUNMMjQ4OU4zMDB0ckRtUFRMN2xGTEtGT2NReFRmLTFsWFNUNFY4dUZOaDJmc3ZMVUN1OXIyS2JxS3BsVjE2SXVFREl0eU9ZbGc4UUtoQlVsS0gyajY20gG0AUFVX3lxTE5TQy1NRExRRzE4UjlORzY5OHpEaHYxNVFYeFpHME84QVdSVmNNUnJQZFJlejljQTJaNFZvR0JKd25faktzS2F1YjZPN1JTM0lMdTBZWVVFcUUxZVN3VTZtVHVDaUROR1NGdWh2NEttYTRRblpyZjBFczdmcE83STRLV3FmcVFsMDF5REFqWkdYd1R3UWdGU21jTHlkQXdoeEJoc0NFRmdzV3puX1hiYi1kaUNvOA?oc=5",
+   "outlet": "NBC 6 South Florida",
+   "via": "Google News",
+   "published": "2026-11-20T23:05:15+00:00",
+   "seen": "2026-11-20T23:15:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Miami goes full Vice City for GTA 6."
   },
   {
    "id": "gta 6 first day sales hit 3 79 billion rockstar shatters entertainment records but how many copies were sold",
