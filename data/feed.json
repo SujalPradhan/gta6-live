@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:21:40+00:00",
- "started": "2026-11-20T13:21:30+00:00",
+ "updated": "2026-11-20T13:26:45+00:00",
+ "started": "2026-11-20T13:26:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T13:21:31+00:00"
+   "checked": "2026-11-20T13:26:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 91,
-   "checked": "2026-11-20T13:21:31+00:00"
+   "checked": "2026-11-20T13:26:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T13:21:32+00:00"
+   "checked": "2026-11-20T13:26:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T13:21:32+00:00"
+   "checked": "2026-11-20T13:26:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-20T13:21:32+00:00"
+   "hits": 7,
+   "checked": "2026-11-20T13:26:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T13:21:34+00:00"
+   "checked": "2026-11-20T13:26:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T13:21:35+00:00"
+   "checked": "2026-11-20T13:26:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:21:35+00:00"
+   "checked": "2026-11-20T13:26:42+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T13:21:35+00:00"
+   "checked": "2026-11-20T13:26:42+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T13:21:36+00:00"
+   "checked": "2026-11-20T13:26:42+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T13:21:36+00:00"
+   "checked": "2026-11-20T13:26:42+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T13:21:36+00:00"
+   "checked": "2026-11-20T13:26:43+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T13:21:36+00:00"
+   "checked": "2026-11-20T13:26:43+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T13:21:36+00:00"
+   "checked": "2026-11-20T13:26:43+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi keith richards and lindsey buckingham appear as in game radio djs",
+   "title": "Grand Theft Auto VI: Keith Richards and Lindsey Buckingham appear as in-game radio DJs",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdG9nc2V4ZWdjaWoxR1FFX2dOc3RidVhhWlFUcUlRNnhyTTFuWHc2ZF85cTgyRlNqMGx6ZDNpeEtuTjBNMFc1MG9TdHBzeF9DYkFSSWhOWUpZVEhXMllMM3lLYUg1VlMzTzdSWW5HdllweGdobDEtbGZVeU9neXc0blZUYk0za2hod18wNUprekxFQ19l?oc=5",
+   "outlet": "Gold Radio",
+   "via": "Google News",
+   "published": "2026-11-20T13:21:46+00:00",
+   "seen": "2026-11-20T13:26:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes Keith Richards and Lindsey Buckingham appear as in-game radio DJs in GTA VI."
+  },
+  {
+   "id": "gta 6 how to use the first person mode glitch in grand theft auto 6",
+   "title": "GTA 6: How to use the first-person mode glitch in Grand Theft Auto 6",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-first-person-mode-glitch-grand-theft-auto/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-20T13:21:39+00:00",
+   "seen": "2026-11-20T13:26:40+00:00",
+   "summary": "How to access a surprisingly playable glitched first-person mode in Grand Theft Auto 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to use a first-person mode glitch in Grand Theft Auto 6."
+  },
   {
    "id": "i completed gta 6 s indie game darling pastiche tenebrae lux and all i got was this lousy sense of accomplishment",
    "title": "I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that completing Tenebrae Lux, an indie game homage in GTA 6, leaves a sense of accomplishment."
+  },
+  {
+   "id": "grand theft auto vi s big debut abc news",
+   "title": "‘Grand Theft Auto VI’s’ big debut - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kTUlkREpjdU1FZUQydzBsSkdZNThBU180eGZMai1rdC0yT2l3enpXY2RBNEUtRlpiN0tndDJzZFc1ZHVOei14R04wX2Y?oc=5",
+   "outlet": "Breaking News, Latest News and Videos",
+   "via": "Google News",
+   "published": "2026-11-20T13:19:54+00:00",
+   "seen": "2026-11-20T13:26:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story highlights GTA VI's big debut on ABC News."
   },
   {
    "id": "gta vi breaks records as estimated sales top 2 3bn",
@@ -144,6 +183,19 @@
    "ai_summary": "The story reports that an email was sent about school attendance amid GTA 6's release."
   },
   {
+   "id": "gta 6 what to do before finishing chapter 1",
+   "title": "GTA 6: What to do before finishing Chapter 1",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xOUtEOUExeEF4dThaNW91QzF2cHp6QVNwLWZWSmpNVUk4alMybXhnMGxWZC1pRERHWnJFVnNjYWdLa1JEU0U5bEVuVjU1TUJCanU2eFZzODNYX1c2Q2JldWtjRFctdjIxd2xxclF3?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-20T13:17:20+00:00",
+   "seen": "2026-11-20T13:26:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses what to do before finishing Chapter 1 in GTA 6."
+  },
+  {
    "id": "gta 6 launch breaks industry records for the highest ever internet usage",
    "title": "GTA 6 Launch Breaks Industry Records For The Highest Ever Internet Usage",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WWnU5RTBKSXM3NmdPMEhWbGpQZUJIbHdWNEpCX3dneGFnWFhPUzd2Ym1hVVlHclVpZUVLNFZjSnBGOFJIQk01T1FSZ0ZqcGJ1Y0dCbFVJczFRcjNEVVVycnFOdTJwZndNYmNDSkpR?oc=5",
@@ -155,6 +207,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 launch broke industry records for the highest internet usage."
+  },
+  {
+   "id": "gta 6 is out launch breaks network records twice not worldwide",
+   "title": "GTA 6 is out: launch breaks network records twice, not worldwide",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMkg2Smw2aDNKWDRiOWxGV1hzNUtuWnJXR2RERFM5R3RJOFIzZkNacjU3OVdvQk9xbFJRVHdZWEZMRDNBYzZESGpyYUZBS0h1cDJteklDNVJJUzBzZFFzOU5kYVkzNDhYSk85RU1zMUlndkp2MDM2SFlGU0Uzb0ZSRVlkSktNazJhOG0tZ0YwT2VHcHZfbGFpREMxRQ?oc=5",
+   "outlet": "Softonic",
+   "via": "Google News",
+   "published": "2026-11-20T13:11:40+00:00",
+   "seen": "2026-11-20T13:26:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 launch breaks network records twice, but not worldwide."
   },
   {
    "id": "gta vi s first day haul nears 2 4 billion closing in on morgan stanley s full quarter sales target",
@@ -363,6 +428,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "The review asks whether GTA VI is the best game of all time."
+  },
+  {
+   "id": "dana white reveals condition for his team to receive time off to gta 6",
+   "title": "Dana White reveals condition for his team to receive time off to GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT0JVQWFLTHhmQndEa0V2em1xYWU1ZGQ3MllxWi1CVkNKRGwzRFhUVzZEV2ktZ2lLSXR2a0YycnEwVG5Eb2VDVkc4QnJoNE5Lb3ZwZXlJc21jOGFpNHdZMENCZG85djdGeHYzN25nYXBWYk4zQ2pyRU94ZERueEFNclhnVXA3RmIzU3c?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-20T12:51:00+00:00",
+   "seen": "2026-11-20T13:26:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers Dana White's condition for his team to receive time off to GTA 6."
   },
   {
    "id": "gta 6 can you keep playing after the ending",
@@ -599,6 +677,19 @@
    "ai_summary": "The story lists Easter Eggs in GTA 6 and explains how to find them."
   },
   {
+   "id": "the actress who plays mandy in gta 6 has revealed herself if you play the game let me know if you find me",
+   "title": "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcThUeTktYmhvd2hUQzdFLTFmandQc245RTVpUWpJanV3aE9EUV84c01Sb0tmU0pvS0ppckl4MXoxc2VGMWxGUTlER09pUnNZc25STk5VeDdrOFlwcWJnMnVqenUyNWVmNTMzTUFCQ0piT3BuX0ljOUFNOHlHbkY3VjZySi1xa04wNlZSNmJMZTJUZDFZRVp0RzlXOFhNRkZuS1N3Z2hEbllZV3NfYkREclhINUlRaW1PVkVLRlowbXB1NEtaY2twMndQUTJsMzlmT1ZfWUR3dDQ4SVJ3QUxjcFpWV2xFRzg3?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-20T12:26:52+00:00",
+   "seen": "2026-11-20T13:26:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story shares the actress who plays Mandy in GTA 6 revealing herself and asking players to let her know if they find her."
+  },
+  {
    "id": "gta 6 leaker cyberleek reportedly threatens to release the xbox build",
    "title": "GTA 6 Leaker ‘Cyberleek’ Reportedly Threatens to Release the XBOX Build",
    "link": "https://insider-gaming.com/gta-6-leaker-cyberleek-reportedly-threatens-to-release-the-xbox-build/",
@@ -636,6 +727,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 breaks entertainment records with estimated sales exceeding $2.36 billion."
+  },
+  {
+   "id": "grand theft auto vi unleashes 34 song soundtrack with playboi carti lana del rey and more",
+   "title": "'Grand Theft Auto VI' Unleashes 34-Song Soundtrack With Playboi Carti, Lana Del Rey And More",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjlNME9UaERMQUxNV2pwOXVoSHdVcGY2N09RTlNaTmlvNjQ0aWVEMjJVVDgwZkE3aFNZNERUNUxnaHVNOFN3bVFxOWI0X0F0ZS1Db1o3Q1p1Z0dXazRyTDlfLWZMcXU0YUZLUXd1WHIzVW9IQmJueXRnUkgwYXhMV0did0VtcG5IaGxEQjkyVjl4N2pWLW55S0FPcnhFX1BKYmxjeUxnRllOOXF5WC1tQkN4enFOMnU2QWRFWTNlbGlaeE1Ta1pXSjFSYw?oc=5",
+   "outlet": "That Eric Alper",
+   "via": "Google News",
+   "published": "2026-11-20T12:15:07+00:00",
+   "seen": "2026-11-20T13:26:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes GTA VI’s soundtrack features 34 songs with Playboi Carti, Lana Del Rey, and others."
   },
   {
    "id": "gta 6 fuel guide how refuelling gas stations and fuel gauges work",
