@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:31:45+00:00",
- "started": "2026-11-20T13:31:40+00:00",
+ "updated": "2026-11-20T13:36:50+00:00",
+ "started": "2026-11-20T13:36:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T13:31:41+00:00"
+   "checked": "2026-11-20T13:36:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-20T13:31:41+00:00"
+   "hits": 89,
+   "checked": "2026-11-20T13:36:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T13:31:42+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-20T13:36:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T13:31:42+00:00"
+   "checked": "2026-11-20T13:36:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T13:31:42+00:00"
+   "checked": "2026-11-20T13:36:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T13:31:42+00:00"
+   "checked": "2026-11-20T13:36:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 23,
-   "checked": "2026-11-20T13:31:42+00:00"
+   "hits": 22,
+   "checked": "2026-11-20T13:36:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:31:42+00:00"
+   "checked": "2026-11-20T13:36:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T13:31:42+00:00"
+   "checked": "2026-11-20T13:36:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T13:31:43+00:00"
+   "checked": "2026-11-20T13:36:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T13:31:43+00:00"
+   "checked": "2026-11-20T13:36:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T13:31:43+00:00"
+   "checked": "2026-11-20T13:36:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T13:31:43+00:00"
+   "checked": "2026-11-20T13:36:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T13:31:43+00:00"
+   "checked": "2026-11-20T13:36:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi delivers unexpected surprises and cameos",
+   "title": "‘Grand Theft Auto VI’ Delivers Unexpected Surprises and Cameos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmhPcVlUMGJaZkYyRk1KdzU2VVdYUFkwcU1hVDFtS3F2QkFKU3d4emRpYmdadDkwbnVtR2NjQ1c4OXFER19PQVRyU3h4Vm1iaTdzUW1IS2ZXYjZaUThHXzNieG1XQnFmN1dVczZleEk4bkF2VUtSTEU4TXR3OGRObG9kVWk2azhuSVZsdmpOM0l1WVU3b0pmVEg0OUN6cjQ0VEJ4Rw?oc=5",
+   "outlet": "TODAY.com",
+   "via": "Google News",
+   "published": "2026-11-20T13:33:38+00:00",
+   "seen": "2026-11-20T13:36:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI delivers unexpected surprises and cameos."
+  },
+  {
+   "id": "doja cat says she is bitter that her music is not in gta 6",
+   "title": "Doja Cat Says She is ‘Bitter’ That Her Music is Not in ‘GTA 6’",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjAyNEcyM0lNdUVaRG5HTEdVVVlZQmh3VUlrRkl0UEtPTUVDeFdfUm1OV091WlJyckpTdkVjMWRXTEczMWZJQ2dXWFgzMXR1Nm5xdS1NWkNWaXV2N1kteEpnbmx1d3E3OUl1bkdhc1UxQzFxLWRzOXJGdEJtM3I1ci1zeTV1LXJ5YzdKU1hjM0dVeFJmTEpj?oc=5",
+   "outlet": "The Source Magazine",
+   "via": "Google News",
+   "published": "2026-11-20T13:31:14+00:00",
+   "seen": "2026-11-20T13:36:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Doja Cat saying she is bitter that her music is not in GTA 6."
+  },
+  {
+   "id": "grand theft auto vi sales are just shy of 25m sensor tower",
+   "title": "Grand Theft Auto VI sales are just shy of 25M | Sensor Tower",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWVUbU1nWUp5UGJaakdLME9xZ1BIRmMwajZ0d19xLUEyS1NXUm0wWldxTDNHb2ZJNjdReXlBSDZ2RE56eFBOcXJoY1lsT3lvbERUYWR1X3VyUUpFTXpHeUpFbTBvaXhhT1pvTHVvOVQ1YzBHb182WktXT1drTFFTZEJBVWRTQ3hF?oc=5",
+   "outlet": "GamesBeat",
+   "via": "Google News",
+   "published": "2026-11-20T13:30:52+00:00",
+   "seen": "2026-11-20T13:36:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports Grand Theft Auto VI sales are just shy of 25 million according to Sensor Tower."
+  },
+  {
+   "id": "gta 6 weapon wheel and gun classes what the pre launch footage shows",
+   "title": "GTA 6 weapon wheel and gun classes: what the pre-launch footage shows",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmZiUFJGZEcwdG94QV9RRl9XaWxWVE5wcWRLbkh2eGlwbWFDOWZpMGNPZnpjM0J3WHc0NHhZMGFDZ2xjaEc0bGZjTEVJZTdpQUNLMzdZc0lZOGFXcTNTcVQ2YU12WHlNalJOVUFzNm9mdHRaTHlXMmphMjI1Vi00YVBCTXlOdmt0Y0prbThLOUppQQ?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-20T13:30:18+00:00",
+   "seen": "2026-11-20T13:36:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports pre-launch footage shows the GTA 6 weapon wheel and gun classes."
+  },
+  {
+   "id": "gta 6 free printable map available now get yours here",
+   "title": "GTA 6 Free Printable Map Available Now, Get Yours Here",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWNXM2VwWnFMNEg2clBXNzNKdVlybzU1N1FCbV93eHZpQUMtdGJUcXk3UUUwSXdZS1g3N09BSzVKOG53d2dObEdaczZISGVRU0NJSzhBNGViNjlDOHNKU1J3SS02VUhJZWJ3ODQ4UU5vZDl2SHA0aW81VktrYkFtY2ZXVdIBiAFBVV95cUxPLUdPaU91a0c5cS1LNkt3d3BqSjE4OWJfQ05PcURWeVM2WVFuNFFweW9VNEJUcWN0UVVVV2EyZ21fTWhWblJTc1pmVVVsbkRHV0NyY3FYVmZBLXNzbHVPWHZWRldxVTVOTzBzTk9MejgxQkI3a29kaHl3T0RnQmtsSzg4Zk9LWUdR?oc=5",
+   "outlet": "PlayStation LifeStyle",
+   "via": "Google News",
+   "published": "2026-11-20T13:30:00+00:00",
+   "seen": "2026-11-20T13:36:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a free printable GTA 6 map is available to download."
+  },
   {
    "id": "take two ceo is shutting down questions about gta 7 just days after gta 6 s launch",
    "title": "Take-Two CEO is shutting down questions about GTA 7 just days after GTA 6’s launch",
@@ -116,6 +181,32 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Take-Two CEO is being asked about GTA 7 despite GTA 6 only being days old."
+  },
+  {
+   "id": "how to get a jet in gta 6 best jet method location",
+   "title": "How to Get A Jet in GTA 6—Best Jet Method & Location",
+   "link": "https://insider-gaming.com/jet-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T13:26:56+00:00",
+   "seen": "2026-11-20T13:36:45+00:00",
+   "summary": "You can fly high if you take control of a Jet in GTA 6, and there happens to be one location in the game just waiting for you to claim one. The post How to Get A Jet in GTA 6—Best Jet Method & Location appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how to get a jet in GTA 6 and describes the best jet method and location."
+  },
+  {
+   "id": "playboi carti young thug more appear on grand theft auto vi the album wgci fm",
+   "title": "Playboi Carti, Young Thug & More Appear On 'Grand Theft Auto VI: The Album' - WGCI-FM",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2lESXFaMzg4Q1dZTzF3cWtGQ3Y2Q3hCTlZ2V3I5Q2ZQOWNwYl9jWTRnajJ6MjZhVFpvajlETkFIYm9DNjhmZi1CZGZFX0JTcXFKdktVSUx4REFtQzZTMmdpeHJLeDZ6V1ZTQjVpSGxNRmtfdk1pd0E0R1g4MXp5YmtJN1JOOUxyWERoWDVkQ0V5anhDc0ZfQk9CNEF6ZVZjbkZpX2hWX3BlbUg5SUt3cw?oc=5",
+   "outlet": "WGCI-FM",
+   "via": "Google News",
+   "published": "2026-11-20T13:23:00+00:00",
+   "seen": "2026-11-20T13:36:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Playboi Carti, Young Thug and others appear on Grand Theft Auto VI: The Album."
   },
   {
    "id": "grand theft auto vi keith richards and lindsey buckingham appear as in game radio djs",
@@ -597,6 +688,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Story reports that TikTok users spark a viral craze around the GTA VI soundtrack track Suzuki."
+  },
+  {
+   "id": "gta 6 player discovers trick for first person mode",
+   "title": "GTA 6 player discovers trick for first-person mode",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYm94bTZ0eFpPdEJyVXNBbGdOR1dSUkFmNEdIM19VRFZFTkdsemwwOWdoVGxld1d3SlJXV0NkWklfVjM2UnNDVXBpWjZWNUJjOUhmZHQzanUxLUNwUjk3R1NKWU80VVRoLU1EN3pDYVc1N1Z0UC1sSXFyZlhqUnR2Nk1EQkN3ejlId0E?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-20T12:35:02+00:00",
+   "seen": "2026-11-20T13:36:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a discovery of a trick for entering first-person mode in GTA 6."
   },
   {
    "id": "gta 6 will be the creator economy s next big bonanza",
