@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:50:32+00:00",
- "started": "2026-11-20T09:50:26+00:00",
+ "updated": "2026-11-20T09:55:36+00:00",
+ "started": "2026-11-20T09:55:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T09:50:27+00:00"
+   "checked": "2026-11-20T09:55:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 90,
-   "checked": "2026-11-20T09:50:27+00:00"
+   "hits": 92,
+   "checked": "2026-11-20T09:55:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T09:50:28+00:00"
+   "checked": "2026-11-20T09:55:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:50:28+00:00"
+   "checked": "2026-11-20T09:55:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T09:50:28+00:00"
+   "checked": "2026-11-20T09:55:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T09:50:29+00:00"
+   "checked": "2026-11-20T09:55:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T09:50:29+00:00"
+   "checked": "2026-11-20T09:55:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T09:50:29+00:00"
+   "checked": "2026-11-20T09:55:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T09:50:29+00:00"
+   "checked": "2026-11-20T09:55:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T09:50:30+00:00"
+   "checked": "2026-11-20T09:55:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T09:50:30+00:00"
+   "checked": "2026-11-20T09:55:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T09:50:30+00:00"
+   "checked": "2026-11-20T09:55:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:50:30+00:00"
+   "checked": "2026-11-20T09:55:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T09:50:31+00:00"
+   "checked": "2026-11-20T09:55:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 players have discovered how to play the game in first person here s how",
+   "title": "‘GTA 6' Players Have Discovered How to Play the Game in First Person—Here’s How",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjFrRzZTSUhrTjdaeUFNclFZNVJnbGZyRlVHUmNON28zcFQ3LWJvT0tFZEVweThsUnhjSnFlMXFuRXlGZV93TGhjQVJaWm9uRGlYRmtEd21lU3BkZDdYbDlmaEtFbDVuX0Z3Y0tmMVVjSXllSDQyai00eFh4Mk1KSnhUbDRnN0ZEMzhfdDNoaG9zaGRNY0tFMTJnNkJkXzMyeTM0SGJ3akN3b21jLUtrdHdRSURaNENPTTJlTVJ3?oc=5",
+   "outlet": "Tech Times",
+   "via": "Google News",
+   "published": "2026-11-20T09:50:04+00:00",
+   "seen": "2026-11-20T09:55:29+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that players have discovered how to play GTA 6 in first person."
+  },
   {
    "id": "gta 6 is on its way to outselling every movie released this year",
    "title": "'GTA 6' is on its way to outselling every movie released this year",
@@ -597,6 +610,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A decorated Polish composer is featured in GTA VI's soundtrack."
+  },
+  {
+   "id": "gta 6 causes record surge in internet traffic as livestreams draw nearly 8 million viewers",
+   "title": "GTA 6 Causes Record Surge in Internet Traffic as Livestreams Draw Nearly 8 Million Viewers",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYy15UW9oRjUxNHhwLVFubGlvcnRraHdsSG5LZm8zTlVFS0FZOEQtMnZoX0MwcElvbXNpVXJtZXhnZlNXbFQ0ei10cGRkTS1qOTNyTldUeER6dzJjZ3RtdnVvbmPSAWpBVV95cUxPamtEWE5tdFF6WU5PMndhbGFRWThBdnNmVEdwSzcwZXU0M0xDT0JSZzNZWUZpR1hxbEwtOTh5NjE1b2pibVdnOFB5OTJlN1ZHS0h4SUxXNk9MRDlNNVNpQTh0VFY0MERrMkNB?oc=5",
+   "outlet": "Mezha",
+   "via": "Google News",
+   "published": "2026-11-20T07:45:00+00:00",
+   "seen": "2026-11-20T09:55:30+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 causes a record surge in internet traffic as livestreams draw nearly 8 million viewers."
   },
   {
    "id": "stephen a smith rips miami heat superstars over gta vi comments",
