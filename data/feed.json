@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:02:43+00:00",
- "started": "2026-11-20T01:02:36+00:00",
+ "updated": "2026-11-20T01:07:43+00:00",
+ "started": "2026-11-20T01:07:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T01:02:36+00:00"
+   "checked": "2026-11-20T01:07:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T01:02:37+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-20T01:07:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T01:02:37+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-20T01:07:36+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T01:02:37+00:00"
+   "checked": "2026-11-20T01:07:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T01:02:38+00:00"
+   "checked": "2026-11-20T01:07:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T01:02:38+00:00"
+   "checked": "2026-11-20T01:07:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T01:02:38+00:00"
+   "checked": "2026-11-20T01:07:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T01:02:39+00:00"
+   "checked": "2026-11-20T01:07:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T01:02:39+00:00"
+   "checked": "2026-11-20T01:07:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T01:02:39+00:00"
+   "checked": "2026-11-20T01:07:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T01:02:40+00:00"
+   "checked": "2026-11-20T01:07:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T01:02:40+00:00"
+   "checked": "2026-11-20T01:07:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T01:02:40+00:00"
+   "checked": "2026-11-20T01:07:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T01:02:40+00:00"
+   "checked": "2026-11-20T01:07:39+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks livestream records as launch traffic surges worldwide",
+   "title": "GTA 6 Breaks Livestream Records as Launch Traffic Surges Worldwide",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2M5MUxyVmM3NXlxU2I2V1ZKNzZ4bXJuMU40VnZiaU9nYjFkbEhMNXJ3WTVvZjZZTERKb25feUNYeXhJRlg0aWlnUFotbHAwS0pFLUhxTmV6T3NkSW9nYkxvemFNM0hBSXVVU3dIaUs3U1NBSWhmZHlWbHFCTjZtZGFoVFpvQnh0NE9vTTZibGRocmc?oc=5",
+   "outlet": "The Hype Magazine",
+   "via": "Google News",
+   "published": "2026-11-20T01:03:03+00:00",
+   "seen": "2026-11-20T01:07:36+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "GTA 6 breaks livestream records as launch traffic surges worldwide."
+  },
+  {
+   "id": "gta 6 inspires doordash ubereats grubhub discount codes",
+   "title": "'GTA 6' inspires DoorDash, UberEats, Grubhub discount codes",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nd3dDR3cyOEpTOGhob2RzV29HOGFaaDNTc0ZDTDlTQmNmSXJGTnpLWHVPd2ZIcEFWVXNYbXJCX3NCY0xvVEJ3NEQ5aDliV1RYRGcwLTFWWjlfeTh3Y09KSGtsXzVUbTFnTmlDa1lwUmVZUGNxZlBvUXo1Tm4?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-20T01:00:47+00:00",
+   "seen": "2026-11-20T01:07:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 inspires discount codes for DoorDash, UberEats, and Grubhub."
+  },
   {
    "id": "guide gta 6 radio songs",
    "title": "Guide: GTA 6: Radio Songs - All Music, Radio Stations, & Artists",
@@ -235,6 +261,19 @@
    "ai_summary": "GTA 6 launches after a long wait, with fans planning time off for the release."
   },
   {
+   "id": "psychologist shares advice of gta 6 release for parents and kids",
+   "title": "Psychologist shares advice of GTA 6 release for parents and kids",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXU5S0xyUmNUS2Y5T3BFaGdrWkFKRU1qTi10c1VySVdTZlhYN0ZrckhXX0x1R3N5WmU0OFVQLVVXZWI5MXlldk1lak9fUl90ZC1oNGVqdTBxYVZHRFdMemQtejJGSVFTbjFtTmZWUFhUQ01lb1lvODV4Y0xpczFZTHlUb21UWXZzSU0tRlJrRlRQcDY5RUFwUFJ6eXlIdXRfTkZ1WnRkSDRIUQ?oc=5",
+   "outlet": "CBS News",
+   "via": "Google News",
+   "published": "2026-11-20T00:37:00+00:00",
+   "seen": "2026-11-20T01:07:36+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A psychologist shares advice about GTA 6 release for parents and kids."
+  },
+  {
    "id": "gta vi sales on launch day surge as video game takes over zeitgeist",
    "title": "‘GTA VI’ Sales On Launch Day Surge As Video Game Takes Over Zeitgeist",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT195eW53d1dpOG9kazM5NlM0eERVZlJrMUJzZnFKOHRuaXlhYnFCWDFMNVRISGJxNWlJV1ZkdjgxYktUY2ZnZVNrWnN6NzF4VXVKYy1RT1dUNXNaMUlmazNyeDVJZEU4US1ES1FBQnlhYkJCMTdRcWNEZGlNSDdnX3dUX1d1Zw?oc=5",
@@ -363,6 +402,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The Grand Theft Auto VI release brings gaming excitement to Louisville."
+  },
+  {
+   "id": "grand theft auto vi mayhem strikes america",
+   "title": "\"Grand Theft Auto VI\" Mayhem Strikes America",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uQ1d5SDFEUTlQNzJpV2VIOTVjdVVyMC1fVjFIYXFxZndnTUNSdDRTcDBMaWY4c1NvOFRtQlYwS2o0dWtBOUtwcndBa2RSS0Z2UVNKUnpsYlFaQzJmX3l6SDIzX3dyeEpJVWh5ZHZubHV3cnl5MjNFOUhiSQ?oc=5",
+   "outlet": "Canyon News Beverly Hills",
+   "via": "Google News",
+   "published": "2026-11-20T00:10:34+00:00",
+   "seen": "2026-11-20T01:07:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "\"Grand Theft Auto VI\" mayhem strikes America."
   },
   {
    "id": "grand theft auto vi finally launches and montana gamers are clearing their schedules",
@@ -4341,6 +4393,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story provides all strip club locations in GTA 6."
+  },
+  {
+   "id": "gta 6 launches worldwide after 13 years of anticipation",
+   "title": "GTA 6 Launches Worldwide After 13 Years of Anticipation",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1diQ0RGQjlhQTZscTNmUTZQS0Y0a3Y2X09jLW0xRXdjN1Vsbk96Qk5oaXpDY0o3Ym4zUzZlYW1GRXJzMzRlS25VTzBYMS1PXy1RaVBXazYyVE1zMGJDcFgzRkNwX2s5Tmcxd19rQmhHeTI5Z0dxWTU0MnlDLU1rVVNqNFhiTmJvQk5Kblo4Q2diZkpTYmpYQjhlWGhGRFR2NUhMOHpUSjFqcFNfX1E?oc=5",
+   "outlet": "HOLR Magazine",
+   "via": "Google News",
+   "published": "2026-11-19T18:56:36+00:00",
+   "seen": "2026-11-20T01:07:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 launches worldwide after years of anticipation."
   },
   {
    "id": "gta 6 credits name jason and lucia actors",
