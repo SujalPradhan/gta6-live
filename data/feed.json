@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:39:48+00:00",
- "started": "2026-11-20T07:39:40+00:00",
+ "updated": "2026-11-20T07:44:58+00:00",
+ "started": "2026-11-20T07:44:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T07:39:41+00:00"
+   "checked": "2026-11-20T07:44:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T07:39:41+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T07:44:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T07:39:42+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T07:44:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T07:39:42+00:00"
+   "checked": "2026-11-20T07:44:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T07:39:42+00:00"
+   "checked": "2026-11-20T07:44:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T07:39:42+00:00"
+   "checked": "2026-11-20T07:44:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T07:39:43+00:00"
+   "checked": "2026-11-20T07:44:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T07:39:43+00:00"
+   "checked": "2026-11-20T07:44:55+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T07:39:43+00:00"
+   "checked": "2026-11-20T07:44:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T07:39:44+00:00"
+   "checked": "2026-11-20T07:44:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T07:39:44+00:00"
+   "checked": "2026-11-20T07:44:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T07:39:44+00:00"
+   "checked": "2026-11-20T07:44:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T07:39:44+00:00"
+   "checked": "2026-11-20T07:44:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T07:39:45+00:00"
+   "checked": "2026-11-20T07:44:56+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 becomes the biggest entertainment launch, selling more than two billion dollars."
+  },
+  {
+   "id": "southern california gamers get their hands on grand theft auto vi",
+   "title": "Southern California gamers get their hands on Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTS1jZXdDa1pzSXZYSTFJNF9kTDgtXzQ5SWUtcEF1OTZyLXRta2FvbjRYaF9QQjBaYmNubU5uRGJXQ21oNFhuVlA0OVo4RFlGdHFsTkI0ZG9aUVNMc3RUbS1oaEZ3cjdwVVFyQ3U4TGxWbFYzeDNwTlVEd19qNG5BQVhOX1Z4TndQOW8tb2JnREM0d1hSb2cwTXp3OWtMWl9wZUpNRVRvYzJ1NzhNQkpwOTU5QUhqMGNpOHh4ck5n0gHGAUFVX3lxTFBfMkZ5Mjh6TUdZYlpCcEZuaEZRdGtiWHhDT2RGWlExRjhXTm1BdHZtRzR4cEhuQl96bzNKdXpUVUFSRlh4cGpfS3pwaTJ2dWdSdEhvWkcyRVVjS3IzLU5SQWRCTWFHdWVrRGEtVEs2UjJJS3ZYanRxeUJjbUdadmR3cndiNTZ1VXM1Y0pmbW9vV0tFUWxrckN0TWE0RVlEeEZVYnZwWDdRZ0dDblZsQXo2MlplbzdOODcySWtWQXoyeEFEUHFxZw?oc=5",
+   "outlet": "NBC Los Angeles",
+   "via": "Google News",
+   "published": "2026-11-20T07:18:04+00:00",
+   "seen": "2026-11-20T07:44:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Southern California gamers can get Grand Theft Auto VI."
   },
   {
    "id": "china isn t selling gta 6 but gamers can t stop won t stop buying it anyway",
@@ -3314,6 +3327,19 @@
    "topic": "Outage",
    "record": true,
    "ai_summary": "There’s no way: Jasontheween breaks down after losing 11 hours of GTA 6 progress."
+  },
+  {
+   "id": "gta flu grand theft auto vi release prompts influx of day off requests",
+   "title": "‘GTA Flu’: Grand Theft Auto VI release prompts influx of day-off requests",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnVSczlRTTU5S3FjRl9EVWFPSjZRU0U4aGZpZW94UWU1LVhmUDJ3NExnbUNOeDJFSDVISjNMd0QwaG1RaTJaLXpnMGRkb2ZIanBfaU5uTFMwMHRzS1FKdExTbEg2eW5ZWGhpRllRclBWbUZLQmRSV0lWYW9wVkdWQ2dscG1CSXRQWlVmZ3d5UHNrZnlnQ21YakFfWXNraTQ?oc=5",
+   "outlet": "TribLIVE.com",
+   "via": "Google News",
+   "published": "2026-11-19T22:25:32+00:00",
+   "seen": "2026-11-20T07:44:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI release prompts an influx of day-off requests described as 'GTA Flu'."
   },
   {
    "id": "unreleased d angelo song kamikazi appears in gta 6",
@@ -7318,6 +7344,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA VI is out after 13 years and asks what Arizona sports teams were doing when GTA V released."
+  },
+  {
+   "id": "gta vi is out after 13 years what were arizona sports teams doing when gta v released",
+   "title": "GTA VI is out after 13 years: What were Arizona sports teams doing when GTA V released?",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN0pZS1dWdjdJT2xSTE50SThad1hYcThaejRMcktlcW9XWDM4OW5Way1vVXA5cjJGMXhCVlpqMXRMcmo4WXdaaHdfb2RGbHlRUkxXWkRfajh0enBOS0pUclpBN3JobXpmV1dKRkZfdzBEUHl5LXg3WjNjRV9YMWJzY3JOMnp5a084ckc0ZFl6Mjh5NEVVS1ZfMXlNYlVpXzQta241alhfZGZuUlhGZHk1OWp6TDRpcnRMZXpHZGlKTTB6by1ndWVPUGtNazk?oc=5",
+   "outlet": "Arizona Sports",
+   "via": "Google News",
+   "published": "2026-11-19T17:47:59+00:00",
+   "seen": "2026-11-20T07:44:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI is out after thirteen years, and contrasts it with what Arizona sports teams were doing when GTA V released."
   },
   {
    "id": "grand theft auto vi first impressions",
