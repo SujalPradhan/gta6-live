@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-20T14:07:04+00:00",
- "started": "2026-11-20T14:06:58+00:00",
+ "updated": "2026-11-20T14:11:59+00:00",
+ "started": "2026-11-20T14:11:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T14:06:59+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-20T14:11:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-20T14:06:59+00:00"
+   "hits": 92,
+   "checked": "2026-11-20T14:11:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T14:07:00+00:00"
+   "checked": "2026-11-20T14:11:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T14:07:00+00:00"
+   "checked": "2026-11-20T14:11:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T14:07:00+00:00"
+   "checked": "2026-11-20T14:11:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T14:07:00+00:00"
+   "checked": "2026-11-20T14:11:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T14:07:00+00:00"
+   "checked": "2026-11-20T14:11:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:07:00+00:00"
+   "checked": "2026-11-20T14:11:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-20T14:07:00+00:00"
+   "hits": 10,
+   "checked": "2026-11-20T14:11:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T14:07:00+00:00"
+   "checked": "2026-11-20T14:11:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:07:01+00:00"
+   "checked": "2026-11-20T14:11:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T14:07:01+00:00"
+   "checked": "2026-11-20T14:11:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T14:07:01+00:00"
+   "checked": "2026-11-20T14:11:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T14:07:01+00:00"
+   "checked": "2026-11-20T14:11:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to complete brooks boatworks in gta 6 safe code location explained",
+   "title": "How To Complete Brooks Boatworks in GTA 6—Safe Code Location, Explained",
+   "link": "https://insider-gaming.com/gta-6-brooks-boatworks-location-and-safe-code/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T14:09:16+00:00",
+   "seen": "2026-11-20T14:11:56+00:00",
+   "summary": "Brooks Boatworks comes along in Chapter Two of GTA 6. What's the code to the safe here, and how can you complete this robbery? The post How To Complete Brooks Boatworks in GTA 6—Safe Code Location, Explained appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to complete Brooks Boatworks and where to find the safe code in GTA 6."
+  },
+  {
+   "id": "how to break into military base in gta 6 mile zero air station location",
+   "title": "How To Break Into Military Base In GTA 6—Mile Zero Air Station Location",
+   "link": "https://insider-gaming.com/military-base-gta-6-mile-zero-air-station/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T14:09:06+00:00",
+   "seen": "2026-11-20T14:11:56+00:00",
+   "summary": "Here's the best way to break into the military base, Mile Zero Air Station, in Grand Theft Auto 6, as well as what's inside. The post How To Break Into Military Base In GTA 6—Mile Zero Air Station Location appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story describes the best way to break into Mile Zero Air Station in GTA 6 and what's inside."
+  },
   {
    "id": "grand theft auto vi makes more than 2 3 billion in its first day since launch",
    "title": "Grand Theft Auto VI makes more than $2.3 billion in its first day since launch",
@@ -142,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports the Cyberpunk 2077 boss praising GTA 6 as a masterpiece and noting it as unbelievably hard to achieve."
+  },
+  {
+   "id": "gta 6 is estimated to be history s biggest entertainment launch",
+   "title": "GTA 6 is estimated to be history’s biggest entertainment launch",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPczY4U05vckxVNzhDSVZQa3BTS2tCSHdaOF9RU2dqQk9EeGQzR0V0MTQyVTdsbmZxRXg4RWx3ZUZvSF9Ob2txRXJfQmNFaVhiZHQ5cmRxcVpvM2tlNHl4V1BQak9Ib3VQZ2xMR0xiQjJSdm1Ec3VFRmo2VWltd0YxNXlCYVBTWG1DY0JjaWFHeFFJcDAzUFRld29rUzM3aVoyRjNnNjNscmVxRmo0SHBtSmwxQlA?oc=5",
+   "outlet": "The Daily Star",
+   "via": "Google News",
+   "published": "2026-11-20T13:57:01+00:00",
+   "seen": "2026-11-20T14:11:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 is the biggest entertainment launch in history."
   },
   {
    "id": "how to lose the cops fast in gta 6",
