@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T19:24:09+00:00",
- "started": "2026-11-20T19:24:01+00:00",
+ "updated": "2026-11-20T19:29:01+00:00",
+ "started": "2026-11-20T19:28:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-20T19:24:02+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T19:28:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 87,
-   "checked": "2026-11-20T19:24:02+00:00"
+   "hits": 96,
+   "checked": "2026-11-20T19:28:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T19:24:04+00:00"
+   "checked": "2026-11-20T19:28:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T19:24:05+00:00"
+   "checked": "2026-11-20T19:28:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T19:24:05+00:00"
+   "checked": "2026-11-20T19:28:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 47,
-   "checked": "2026-11-20T19:24:05+00:00"
+   "checked": "2026-11-20T19:28:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-20T19:24:05+00:00"
+   "checked": "2026-11-20T19:28:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T19:24:06+00:00"
+   "checked": "2026-11-20T19:28:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T19:24:06+00:00"
+   "checked": "2026-11-20T19:28:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T19:24:06+00:00"
+   "checked": "2026-11-20T19:28:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T19:24:06+00:00"
+   "checked": "2026-11-20T19:28:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T19:24:07+00:00"
+   "checked": "2026-11-20T19:28:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T19:24:07+00:00"
+   "checked": "2026-11-20T19:28:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T19:24:07+00:00"
+   "checked": "2026-11-20T19:28:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 hits massive 3 79 billion in first day sales",
+   "title": "‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TUm0xUV9BZ3JHcmZKQXlyWTF3cHcyZ3BHcVlzQVBXVDhkZXhMVUhWakw4SUl2c3ZSR0NOenhPRnF6cDVfRndNWHhjY3RqTU9pN2ZfN0dNVjJZZ0lYYmlVN3dPSngzT1BiSmJvck11T2t6bFBvUmZ6R2RCSkZzZw?oc=5",
+   "outlet": "Variety",
+   "via": "Google News",
+   "published": "2026-11-20T19:24:00+00:00",
+   "seen": "2026-11-20T19:28:54+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 achieving massive first-day sales totaling billions."
+  },
   {
    "id": "3 forgotten southern rap classics getting a second life in gta 6",
    "title": "3 Forgotten Southern Rap Classics Getting a Second Life in GTA 6",
@@ -937,6 +950,19 @@
    "ai_summary": "You can visit Pensacola Beach's UFO house in GTA 6, per Bradenton Herald."
   },
   {
+   "id": "paint homes buy flowers gta 6 side quests turn more popular than main story vantage",
+   "title": "'Paint Homes, Buy Flowers': GTA 6 Side Quests Turn More Popular Than Main Story | Vantage",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzN0b3JGaWU2SXZ2c25pQnMzM2UtZjJnNUsyT1lyMGdzQlppdnplU19xbDNMWjMxTGhsT0ZZN2NHUXByeFlSR0NnUEFiOTEzZkpsRWs1SmpfS1BKZExaY2ZHeFBaWFotVWQtVEFadWdpV3U1VktUeFNpc2tacmRqM1IzSkp5SWtPMUd5UjhhMFhTSUJaZGFYUEFfWkphXzAxUVVZMTZuNEJ0VmMxU1lVbm1pdWpDS00yYm5vb2RLaG12dDlvVldWNXhqZm3SAcwBQVVfeXFMUEMzdG9yRmllNkl2dnNuaUJzMzNlLWYyZzVLMk9ZcjBnc0JaaXZ6ZVNfcWwzTFozMUxobE9GWTdjR1FwcnhZUkdDZ1BBYjkxM2ZKbEVrNUpqX0tQSmRMWmNmR3hQWlhaLVVkLVRBWnVnaVd1NVZLVHhTaXNrWnJkajNSM0pKeUlrTzFHeVI4YTBYU0lCWmRhWFBBX1pKYV8wMVFVWTE2bjRCdFZjMVNZVW5taXVqQ0tNMmJub29kS2htdnQ5b1ZXVjV4amZt?oc=5",
+   "outlet": "Firstpost",
+   "via": "Google News",
+   "published": "2026-11-20T17:51:35+00:00",
+   "seen": "2026-11-20T19:28:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 side quests like paint homes and buy flowers are becoming more popular than the main story."
+  },
+  {
    "id": "worth the wait inside the celebrity packed gta vi party in miami aka vice city",
    "title": "‘Worth the wait’: Inside the celebrity packed GTA VI party in Miami, aka Vice City",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xTDJzWkxkTmZOU2s3RzFuMGc0RHp3WGJCM2Q4R0thazQzVEdGNC1lMWFGYVFpTGFkaGQ3MG1JSWw5eWlUNkZNOWNaMlNYSFcwZlVzZkRzWjB1UXlBMU5LUWxyMHd4UUN2cWxCb0tfdVfSAXBBVV95cUxQb0JzNHNLZllWaldlbkJiOWVWemhZTlVPcXExcVNyb2plaUoyZUNNUUNYTDBES0pCNUFCd240b2RQbWs1TTRDZ0lhOWhraDRoSTFGY19OOXdneE9IZTEtalY5LTBaRlE4WHFGQm05c19B?oc=5",
@@ -1208,6 +1234,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6's autosave is ruining the game for fans for an unexpected reason."
+  },
+  {
+   "id": "a school discourages playing gta vi by offering video game prizes the good bad and ugly of the week",
+   "title": "A school discourages playing GTA VI by offering video game prizes: The Good, Bad, and Ugly of the week",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZU1XUVBnYmxmRWtsMF8tWUt6a1hiMFJ5UzNiTXFfV3JvSVFlR1gxeno1RHVvWDRUVUpKREN1SGtSUjVmVnkwTlBZZGdhQVpYOFpEMnJWandqUmhGUXpwQkYzREF0UmIwZ2QyR0ZzNXpXVjkzejlxSkJLRHdkUkZuUW0zWWVrREJUNXB5RWVzYkl6NkstS2E3NlNuYnctYXdvZkt5cUg4WTFGQTN2WFNLbXdHZnRnc1BBdTRYcXlBTjI0MnJSYnJseTZuWEVJR3dFNF9TZDVBQXRXQzBVOHNiczZOVVlaMHppQWRVNkFjVDlmNzJ1Ynd5aVk5ZzgtbDlYX3RCM3E1bld2SmVERUpaZnVn?oc=5",
+   "outlet": "Houston Public Media",
+   "via": "Google News",
+   "published": "2026-11-20T17:19:07+00:00",
+   "seen": "2026-11-20T19:28:54+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "A school discourages playing GTA VI by offering video game prizes, as highlighted by the week’s Good, Bad, and Ugly segment."
   },
   {
    "id": "how creators made gta vi the biggest launch ever",
@@ -2601,6 +2640,19 @@
    "ai_summary": "Launch sales for GTA 6 are estimated at twenty-four point five eight million copies."
   },
   {
+   "id": "america s most visited national park right now is inside gta vi",
+   "title": "America’s most visited national park right now is inside GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONlNVRmV2Q2FIRjl1Z3pGcFdsVlQ3Q1VLZjV3OHprV0NHOFBEX3JHNVlSRGsxZWpCU052QkRxUEgzNWNLVVo0VF9JUlNFMFNqS2VCZWs5MlFKZXRad1l6OGRaZUZCV2ZLYy1JR1FVc0ZSeFRvak5CaXVVeHF3RWVYV1hyTEY0LWhJbGFDQ3ZB?oc=5",
+   "outlet": "Vox",
+   "via": "Google News",
+   "published": "2026-11-20T15:35:21+00:00",
+   "seen": "2026-11-20T19:28:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "America’s most visited national park right now is inside GTA VI."
+  },
+  {
    "id": "gta 6 mandy actor bravely raises her hand if you play the game let me know if you find me",
    "title": "GTA 6 Mandy actor bravely raises her hand: \"If you play the game, let me know if you find me\"",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mandy-actor-bravely-raises-her-hand-if-you-play-the-game-let-me-know-if-you-find-me/",
@@ -2963,6 +3015,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports GTA 6 sold an estimated amount in one day and stock is rising."
+  },
+  {
+   "id": "gta 6 a record breaking launch for the ages",
+   "title": "GTA 6: A Record-Breaking Launch for the Ages",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRldDZFNPYmZHcnI4Rkk1TGFpNUtxY1RsajBKajRqS2ROcG0zY0ktNFo2Q3JyX0FFMkdEaXJVVElJaDVmZlVLMW12Mm9GeEw1NXBocF9IdFJvNzZRWlZEdGJTUHRKSUFOamxsOXlFY3ZLaEJUZ2VyVG1PSWlGVWFsMg?oc=5",
+   "outlet": "Unboxholics",
+   "via": "Google News",
+   "published": "2026-11-20T15:07:00+00:00",
+   "seen": "2026-11-20T19:28:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 had a record-breaking launch."
   },
   {
    "id": "rockstar delayed gta 6 twice founders should calculate this number before naming a launch date",
@@ -4848,6 +4913,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "How to easily get a tank in GTA 6, including the best method and location."
+  },
+  {
+   "id": "gta 6 sold 24 5 million copies and recorded revenue of 2 36 billion",
+   "title": "GTA 6: Sold 24.5 million copies and recorded revenue of $2.36 billion.",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xakQ3VTBpZnlmQTFSTkhaNk9zOUJPTVZXRVdGX1dpYng5dWtyRVFYSzRPUEZsTTQxRWFsbC1IOUJ3WVo2OHpMSUJQYURqM1lLMTVtaEJmbjZqSjc5WU9fSGtR?oc=5",
+   "outlet": "SecNews.gr",
+   "via": "Google News",
+   "published": "2026-11-20T12:56:10+00:00",
+   "seen": "2026-11-20T19:28:55+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sold 24.5 million copies and recorded revenue of $2.36 billion."
   },
   {
    "id": "grand theft auto vi review so is it the best game of all time or what",
