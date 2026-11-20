@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:38:36+00:00",
- "started": "2026-11-20T18:38:29+00:00",
+ "updated": "2026-11-20T18:43:45+00:00",
+ "started": "2026-11-20T18:43:39+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T18:38:29+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T18:43:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 88,
-   "checked": "2026-11-20T18:38:30+00:00"
+   "hits": 90,
+   "checked": "2026-11-20T18:43:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T18:38:30+00:00"
+   "checked": "2026-11-20T18:43:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T18:38:30+00:00"
+   "checked": "2026-11-20T18:43:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T18:38:31+00:00"
+   "checked": "2026-11-20T18:43:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 47,
-   "checked": "2026-11-20T18:38:31+00:00"
+   "checked": "2026-11-20T18:43:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-20T18:38:31+00:00"
+   "checked": "2026-11-20T18:43:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T18:38:31+00:00"
+   "checked": "2026-11-20T18:43:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T18:38:31+00:00"
+   "checked": "2026-11-20T18:43:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T18:38:32+00:00"
+   "checked": "2026-11-20T18:43:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T18:38:32+00:00"
+   "checked": "2026-11-20T18:43:42+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T18:38:33+00:00"
+   "checked": "2026-11-20T18:43:42+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T18:38:33+00:00"
+   "checked": "2026-11-20T18:43:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T18:38:33+00:00"
+   "checked": "2026-11-20T18:43:42+00:00"
   }
  },
  "items": [
+  {
+   "id": "watch gta vi earns near perfect reviews in record launch",
+   "title": "Watch GTA VI Earns Near-Perfect Reviews in Record Launch",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU1dEbUJ1X3QzcmVJZTZnOHgwVEdheXktVTkybGFkYkRYZFl2a0dMakFnVm1MQkVQbWJ0NnVtXzZmSVBvc2dfVnJjRWlxUnBWSXZ1azhBZHFFcGhVNGVrSFc0UFpXTVBIZ3lJOVYzTGpOX243SVQ3SjBjUWhUUmZCd3FXNEM3Z2ExdGVxYUpqajZWclRJQmtUVDlfVF9qVlZ6R3NzS2w5VVk?oc=5",
+   "outlet": "Bloomberg.com",
+   "via": "Google News",
+   "published": "2026-11-20T18:41:36+00:00",
+   "seen": "2026-11-20T18:43:39+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "Watch GTA VI earns near-perfect reviews in record launch."
+  },
+  {
+   "id": "gta 6 sets new uk internet traffic record",
+   "title": "GTA 6 sets new UK internet traffic record",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jT280WGF4VEVyWWIybE5jcEJCX2pfXzg3cFRVbDQ4emdhN3FYMUZaU0JONk1DVVRHQTVaRWo1LVRkbHBDTUVQMzQzamJKa0c0TjVRdE5VdktDZUwyZ2JncENhS2lfUExsT2o4ajBCVWpqMDdmRGE4cW41bk1RQQ?oc=5",
+   "outlet": "samaa tv",
+   "via": "Google News",
+   "published": "2026-11-20T18:39:20+00:00",
+   "seen": "2026-11-20T18:43:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 sets new UK internet traffic record."
+  },
+  {
+   "id": "gta 6 marine life guide sharks dolphins manatees whales and reef fish",
+   "title": "GTA 6 marine life guide: sharks, dolphins, manatees, whales and reef fish",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGZEZ0FZclNRY0NQTnZRTlF4c3V1aW90Mk5CSnpQNmk4YzZ6d09ZLXN4eUVXSVYyLTQ2QzRlR0kwV1laYnA0RDc5N05NZlZIMTB5TGNuaGFDcE1QdjNTTnl2RFh6dDAxMzE1T1JTTGJ1dGpQci1OaTJBelpRLU1NYlhMM2lReWtVZi1vTGhFcWZBUTg?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-20T18:36:55+00:00",
+   "seen": "2026-11-20T18:43:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 marine life guide covers sharks, dolphins, manatees, whales and reef fish."
+  },
   {
    "id": "gta 6 draws 7 91 million concurrent viewers and sets a new global internet traffic record",
    "title": "GTA 6 Draws 7.91 Million Concurrent Viewers and Sets a New Global Internet Traffic Record",
@@ -116,6 +155,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "The story reports that GTA 6 drew a large number of concurrent viewers and set a new global internet traffic record."
+  },
+  {
+   "id": "how to auto drive in gta 6",
+   "title": "How To Auto-Drive In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mTzNWSk1aSkxkOTFkYVhVeWJuY29TQTdRMUdxX0trRjY1cjlhaWFNN1VYQWU2M0JlYm5vSTVSVFQ4dV9WWlV6cUNhd0MyeVJTMEVOQnRXYjFTNlNtbE1ZS2NXTmJXZw?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-20T18:34:50+00:00",
+   "seen": "2026-11-20T18:43:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How To Auto-Drive in GTA 6."
   },
   {
    "id": "gta 6 generates estimated 2 36 billion in first day sales nearly triple gta 5 record",
