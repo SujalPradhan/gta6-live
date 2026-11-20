@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:14:15+00:00",
- "started": "2026-11-20T20:14:08+00:00",
+ "updated": "2026-11-20T20:19:16+00:00",
+ "started": "2026-11-20T20:19:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T20:14:09+00:00"
+   "hits": 97,
+   "checked": "2026-11-20T20:19:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-20T20:14:09+00:00"
+   "hits": 95,
+   "checked": "2026-11-20T20:19:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T20:14:09+00:00"
+   "checked": "2026-11-20T20:19:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:14:10+00:00"
+   "checked": "2026-11-20T20:19:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:14:10+00:00"
+   "checked": "2026-11-20T20:19:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T20:14:10+00:00"
+   "checked": "2026-11-20T20:19:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T20:14:10+00:00"
+   "checked": "2026-11-20T20:19:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:14:11+00:00"
+   "checked": "2026-11-20T20:19:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T20:14:11+00:00"
+   "checked": "2026-11-20T20:19:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T20:14:11+00:00"
+   "checked": "2026-11-20T20:19:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:14:12+00:00"
+   "checked": "2026-11-20T20:19:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T20:14:12+00:00"
+   "checked": "2026-11-20T20:19:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T20:14:12+00:00"
+   "checked": "2026-11-20T20:19:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T20:14:12+00:00"
+   "checked": "2026-11-20T20:19:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "podcast gta 6 deep ish dive with jeff gerstmann",
+   "title": "Podcast: GTA 6 Deep (ish) Dive with Jeff Gerstmann",
+   "link": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-deep-ish-dive-with-jeff-gerstmann/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-20T20:16:22+00:00",
+   "seen": "2026-11-20T20:19:11+00:00",
+   "summary": "This video contains a spoiler for the game's prologue",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes that the podcast is a deep dive into GTA 6 with Jeff Gerstmann and includes a spoiler for the prologue."
+  },
+  {
+   "id": "can your pc run gta vi the minimum ram gpu and cpu requirements to expect",
+   "title": "Can your PC run GTA VI? The minimum RAM, GPU, and CPU requirements to expect",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3dKeF9hajJ0LURTb3ZReWY2dlNqM1ktZk9LWmdTeDIwT0FOUS1WSDgzYzNZYjlKVEpIRTJTNFJLRWYzOHZDdi15MTBxMnVkZC1tcWRob2pGbzlhNGcwcWRuejdZNElnVjEwQ1dqRkxfZ2NCQjNIWE10OWpOWWlDeHZR?oc=5",
+   "outlet": "ZDNET",
+   "via": "Google News",
+   "published": "2026-11-20T20:15:47+00:00",
+   "seen": "2026-11-20T20:19:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses minimum RAM, GPU, and CPU requirements to run GTA VI on a PC."
+  },
+  {
+   "id": "gta 6 breaks records with 3 79 billion in first day sales",
+   "title": "‘GTA 6’ breaks records with $3.79 billion in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTlrczlKWWZVUVgtQlN3cGJSYjF0cnlrdUtkcV9idUdGQ3FJYmNzS05qU0ZnMEhjS1BMU1hlMnBwYXhweExQaVZ5Skp6VW9oRGFIc0llWlNIaGdJTjQtaGlRUjBDaHZFS2dNQW5sWS1KSGtDaGFJRnZUUV9BSE1mMkw4cC1xQ3M?oc=5",
+   "outlet": "Ticker News",
+   "via": "Google News",
+   "published": "2026-11-20T20:13:51+00:00",
+   "seen": "2026-11-20T20:19:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The report states GTA 6 breaks records with first-day sales totaling $3.79 billion."
+  },
   {
    "id": "gta 6 players think they ve found the real furry behind its viral operation furball side quest",
    "title": "GTA 6 players think they’ve found the real furry behind its viral Operation Furball side quest",
@@ -116,6 +155,45 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "GTA 6 players think they’ve found the real fursuit behind Chase after spotting the same shooting stars on both suits’ knees."
+  },
+  {
+   "id": "grand theft auto vi the album is now available",
+   "title": "Grand Theft Auto VI: The Album Is Now Available",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEs2S2hPTm0tdEcxSkdnWVBCVEVMd0xKYW5DR3BkQk9MWWNYa3dlVkRHTndTajVXdFZWTVRRRDBTd1o0OVBMQ0lyc2RPTmVZUHdFSzdmZDV0OUo1aC1YaXctS185OGRZM3c3SGlHeWNQbVBBQmM1LUc1ZG5xdjR5ZmRiREdsWllvQVE?oc=5",
+   "outlet": "Game Informer",
+   "via": "Google News",
+   "published": "2026-11-20T20:13:00+00:00",
+   "seen": "2026-11-20T20:19:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI: The Album is now available."
+  },
+  {
+   "id": "police warn gta 6 fans to keep crimes in game",
+   "title": "Police warn GTA 6 fans to keep crimes in game",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xbmJsM2VyUXdnRWVIWU15Qy1NeVl2UVJ5OGlhTHlDdDNDQVNkaFgxVnd0SHNzbVREZW92Rm5QRVkyTEQwMk5sUHhoVF93b0ZKSy1DckpoZXJYdF8zaDRMRnVIR1ROZi1aVHpJY2RFYVhRZFEzVXBLbmRnTW80dw?oc=5",
+   "outlet": "Ticker News",
+   "via": "Google News",
+   "published": "2026-11-20T20:12:56+00:00",
+   "seen": "2026-11-20T20:19:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Police warn GTA 6 fans to keep crimes in game."
+  },
+  {
+   "id": "gta 6 made 3 79 billion in a day rockstar says",
+   "title": "GTA 6 made $3.79 billion in a day, Rockstar says",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yLWRiNzIxY0dqUUFfOWx6Zkc1MUN6ckRuQUhyb2lzOVdFVFdISkF6Z2ZDNURialV5NlhDRjRRRll4MW45TzNSSDh2QVhwcnNXeXNVS1pNSlp5d0VpX0lpYWJQc3ZqU3FyNnNyUV93?oc=5",
+   "outlet": "Tbreak UAE",
+   "via": "Google News",
+   "published": "2026-11-20T20:11:00+00:00",
+   "seen": "2026-11-20T20:19:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 made $3.79 billion in a day, according to Rockstar."
   },
   {
    "id": "grand theft auto 6 breaks sales records in one day",
@@ -194,6 +272,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 album arrives with Weird Al and Lana Del Rey hosting the in-game radio."
+  },
+  {
+   "id": "change these settings if you want gta 6 to feel like old gta",
+   "title": "Change These Settings If You Want GTA 6 To Feel Like Old GTA",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWC1hOEZZQ1VYNWdUQjB5am82QUg4eHVyNWNxWWo2cTRPcmszTmhIaFRxV3ppWjVOTkZOU2tWeVh0cnNCcEtKeXVSdkprZlludHlyQkgzRHRkRk1zY1R3M0lGbE0xMXppYnNsc0ZLZDU2VUdENl94dUhxb1RQN2Zkd01wYWFlMTZqU1FvaTVkdHp2S2JzbTUzUHVB?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-20T20:05:36+00:00",
+   "seen": "2026-11-20T20:19:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article suggests changing settings to make GTA 6 feel like the old GTA games."
+  },
+  {
+   "id": "take two shatters sales record as gta vi launches to massive fanfare by reuters",
+   "title": "Take-Two shatters sales record as ’GTA VI’ launches to massive fanfare By Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVBQaUFEYkd2YlFKRk5XcE5Qa2wzV2FCbURKMl90UGdfNVhqSDN3WkJHYmZzYTBKbURKZTBLaFFwZUJfZkZEWXhiNFJPeng4RVNkNXotU0pCa3dEdjFCTmY0YUtYWEI1Rld6S0VJYU9uaEg5eG1kU2VWRlhsdFhnOWFWcnpKVjNoMlFnNFJxWDBvTF81NTd6c0czcndybktVS2h2aE9KNlRXZmVlSU03bThLVE1Ucm9nc2N6Q0hDWTVuUQ?oc=5",
+   "outlet": "Investing.com",
+   "via": "Google News",
+   "published": "2026-11-20T20:05:24+00:00",
+   "seen": "2026-11-20T20:19:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Take-Two shatters sales records as GTA VI launches to massive fanfare, reported by Reuters."
   },
   {
    "id": "gta 6 has reportedly sold a whopping 3 7b in 24 hours",
@@ -493,6 +597,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "Grand Theft Auto VI sets a record with $3.79 billion in first-day sales."
+  },
+  {
+   "id": "grand theft auto vi sets record with 3 79b in first day retail sales rockstar games reports",
+   "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT3BKTXozeHN1QThwcHNZSG0tVTJNM3VhUGJKVEY5aW9zTWFkaVhZVl9tc3NvY3RKRDJJeExhOGxBRnFGWE1nb2pWZWU2TFl1TGJKUWRYa0hacWsyVGtiUWVXSkVUMk9fZzhOb3hGa2huemdBR3ZfalR6YWpzSUhjWTVGeURhMjdnVmVlOUNYcC1vQlFjUFVsbjctaE1mSWMyZUVCTFQ0MG5hWDdVQVhLaWJIZDdoQjZhUjlORTVFQkZyOFdWZ3NubElmYTRYNzNma3VhTlY0X3A2TW5qem5MRWNYdlpwQQ?oc=5",
+   "outlet": "13WMAZ",
+   "via": "Google News",
+   "published": "2026-11-20T19:48:00+00:00",
+   "seen": "2026-11-20T20:19:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI sets a record with $3.79B in first-day retail sales, per Rockstar Games."
   },
   {
    "id": "gta 6 sold 32 5 million copies before it was even released elden ring sold 30 million in 3 years",
