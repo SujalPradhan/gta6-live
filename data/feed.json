@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T08:50:11+00:00",
- "started": "2026-11-20T08:50:06+00:00",
+ "updated": "2026-11-20T08:55:36+00:00",
+ "started": "2026-11-20T08:55:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T08:50:06+00:00"
+   "checked": "2026-11-20T08:55:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-20T08:50:06+00:00"
+   "hits": 95,
+   "checked": "2026-11-20T08:55:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T08:50:07+00:00"
+   "checked": "2026-11-20T08:55:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T08:50:07+00:00"
+   "checked": "2026-11-20T08:55:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T08:50:07+00:00"
+   "checked": "2026-11-20T08:55:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T08:50:07+00:00"
+   "checked": "2026-11-20T08:55:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
-   "ok": true,
-   "error": "",
-   "hits": 23,
-   "checked": "2026-11-20T08:50:08+00:00"
+   "ok": false,
+   "error": "<urlopen error _ssl.c:994: The handshake operation timed out>",
+   "hits": 0,
+   "checked": "2026-11-20T08:55:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T08:50:08+00:00"
+   "checked": "2026-11-20T08:55:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T08:50:08+00:00"
+   "checked": "2026-11-20T08:55:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T08:50:08+00:00"
+   "checked": "2026-11-20T08:55:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T08:50:08+00:00"
+   "checked": "2026-11-20T08:55:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T08:50:08+00:00"
+   "checked": "2026-11-20T08:55:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T08:50:09+00:00"
+   "checked": "2026-11-20T08:55:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T08:50:09+00:00"
+   "checked": "2026-11-20T08:55:34+00:00"
   }
  },
  "items": [
+  {
+   "id": "with gta vi here thanksgiving doesn t stand a chance",
+   "title": "With GTA VI Here, Thanksgiving Doesn’t Stand a Chance",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWVXSjFsN050M1FQQjBFU1cyTndIMU1nRnhsSi1GUlh3ZDdsVTdZbmVUcmxKSGRSMGNCTW0xbEFobDVxY0FwOGQxSDJsTTBqcEUyTzdFZC12cHduS1lWT3hySTlWcVo4eHJqR0tZUXFGcU5wYTBEeV9CQ1Jfb3U1Ti1Gc1J1MEVLa1BMdHY3blEzUWozVEFoaW1KN0NWYmNmOHZ3YUhtZ1JnOFRBWEpFQkVtdURCc2Z0Zm02M1cyS3g?oc=5",
+   "outlet": "Bloomberg.com",
+   "via": "Google News",
+   "published": "2026-11-20T08:50:00+00:00",
+   "seen": "2026-11-20T08:55:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that with GTA VI released, Thanksgiving opportunities are impacted."
+  },
+  {
+   "id": "gta 6 earns 99 metacritic score as gamers praise its debut",
+   "title": "GTA 6 Earns 99 Metacritic Score as Gamers Praise Its Debut",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBaHM3cXluaEs1NEJ1STNwS2RPVk1ZYThkQlFTVXRzQ1JGdkJQNmhWX0dVRDFaclBsQWIxMkVkajVVRHJKQWozSThYRktIOXU4bHFITzdNS2xJYVpyTDEwbm84blVUWDQwekZMblZn?oc=5",
+   "outlet": "Demokratis.co.id",
+   "via": "Google News",
+   "published": "2026-11-20T08:47:07+00:00",
+   "seen": "2026-11-20T08:55:11+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 earns a high Metacritic score and gamers praise its debut."
+  },
   {
    "id": "gta 6 breaks records before it even hits the market earning over 2 3 billion in first time sales",
    "title": "GTA 6 breaks records before it even hits the market, earning over $2.3 billion in first-time sales",
@@ -313,6 +339,19 @@
    "ai_summary": "The article argues that GTA VI is well worth the wait and explains why."
   },
   {
+   "id": "texans jump on gta 6 hype train with epic graphic after running over colts",
+   "title": "Texans jump on GTA 6 hype train with epic graphic after running over Colts",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZYVdCbERBVnFSZVVoTnRIUlhibS11Sjh6b3JzNi05Z1FLVFp0YV9LWkhGODJ3bFBrUEZibktkbkdqN3pHOHBQVXJYS3pLY3dFQ29jcHY0NFpYSkptOWhXc21uWkg1LUxsdkhrT01pYjVlazd6aVZDZms5Zw?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-20T07:52:00+00:00",
+   "seen": "2026-11-20T08:55:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Texans show hype for GTA 6 with a graphic after an incident involving the Colts."
+  },
+  {
    "id": "decorated polish composer featured in gta vi soundtrack",
    "title": "Decorated Polish composer featured in GTA VI soundtrack",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWRsWlVQakFmUDFCR1QtdS1lNGpEcFRGaE8xZjczSlNjXzVCYWh3eFc1aFZaN2xkMUJmdVA2TXVwYzczbm5iVGtoNlNzQTVMY0txTmhXaUdEWkRqR0szWkhUcDZLd0lVVGZ1ZEphbnRCeDEyTFcxT2Z3SmEtQ245WklYYTVadGNFX2VnaXcxbmdBRkdLYlVWTUVR?oc=5",
@@ -428,6 +467,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 gamer craze is reported in Las Vegas by KLAS 8 News Now."
+  },
+  {
+   "id": "kimi antonelli pre orders gta 6 and gets dad to bring the playstation",
+   "title": "Kimi Antonelli Pre-Orders GTA 6 and Gets Dad to Bring the PlayStation",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmdWVjJqWkJRRnMtMk5sbEN3ZFFZbDRRTE5SX0NleFdUSUV1Q3JBdS12RFQzcXItR3l0RTdNZmhRZVZVdl9SUF81VUlkMzE4X0hWUl96ZkgteWRMTmdYRHowU0hCenp1ZXQ2WW1kZVNtY0U3Vmk5WkhSQkZhT0NXR1IxVTg?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-20T07:14:00+00:00",
+   "seen": "2026-11-20T08:55:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports Kimi Antonelli pre-orders GTA 6 and has her dad bring the PlayStation."
   },
   {
    "id": "gta 6 generates estimated 2 36b in launch revenue sells over 24 5m copies",
@@ -714,6 +766,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6 generating $1.84 billion, apparently surpassing a prior earnings record set by The Odyssey."
+  },
+  {
+   "id": "gta vi launch draws nearly 8 million viewers and pushes internet traffic to a record high",
+   "title": "‘GTA VI’ launch draws nearly 8 million viewers and pushes internet traffic to a record high",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWRHRnF5MHpTZDBPYWtjbVVCek14NkxJMGZlZjI1b0VJMS1NdTZmY1YwRnVTOTBYSm1EN0E3MjBxclN6V2RlczMxWm1zWHE0aEU1c0NQMW5hZng1eEVlVmlGSlV2TFFCSTBPUUVMMVExRXRIWkZTMEdORWdkRVlWYlZTejBsSER4SHVXNzR2UFJwWFJkSnJOT1R2X2FRNjA1QVNLbnZ6bW5nMzRzNWdYVUlWNGx6Nnk4LUM3VUxrQnVmaUFaaEVBbHFaS3d2aHE5UlNXMHZvaFjSAd4BQVVfeXFMTUtQaVZNZ1FfZE1ReWpyMGtmcldSSTJMeERYa3FqZGd2V1dpYUkzOWxkak5Jc0dqYUVJU2ZzS3d4bnZQYk9jMDN3V0hlZUYwM3RYMk5vUjhMY3N0TjNBMk15X0xHTXJienNHM3FTdnRiaXc2U2pJWDB4MnVPV1dSLW9zc1M2VFhOMlZzeGpLRF9zM2RPbFBmWHh3aGsydGNqUGFSd1VCaFVRaHR4NFFjQlBiV1JEeXpNUkE2TzlSZGhNRXJ2UzFaQ2VkLTgxWmRQaVpJbTc2djJLdExxMEdR?oc=5",
+   "outlet": "CNBC TV18",
+   "via": "Google News",
+   "published": "2026-11-20T06:21:59+00:00",
+   "seen": "2026-11-20T08:55:11+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story reports GTA VI launch attracts nearly 8 million viewers and highest internet traffic."
   },
   {
    "id": "gta 6 themed drone show in miami",
