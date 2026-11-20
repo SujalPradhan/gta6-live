@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:09:18+00:00",
- "started": "2026-11-20T06:09:13+00:00",
+ "updated": "2026-11-20T06:14:19+00:00",
+ "started": "2026-11-20T06:14:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T06:09:13+00:00"
+   "checked": "2026-11-20T06:14:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T06:09:13+00:00"
+   "checked": "2026-11-20T06:14:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T06:09:14+00:00"
+   "checked": "2026-11-20T06:14:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T06:09:14+00:00"
+   "checked": "2026-11-20T06:14:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T06:09:14+00:00"
+   "checked": "2026-11-20T06:14:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T06:09:14+00:00"
+   "checked": "2026-11-20T06:14:15+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T06:09:15+00:00"
+   "checked": "2026-11-20T06:14:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T06:09:15+00:00"
+   "checked": "2026-11-20T06:14:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T06:09:15+00:00"
+   "checked": "2026-11-20T06:14:16+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T06:09:15+00:00"
+   "checked": "2026-11-20T06:14:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T06:09:15+00:00"
+   "checked": "2026-11-20T06:14:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T06:09:15+00:00"
+   "checked": "2026-11-20T06:14:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T06:09:15+00:00"
+   "checked": "2026-11-20T06:14:17+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T06:09:16+00:00"
+   "checked": "2026-11-20T06:14:17+00:00"
   }
  },
  "items": [
+  {
+   "id": "gamers share thoughts after long awaited gta vi release",
+   "title": "Gamers share thoughts after long-awaited ‘GTA VI' release",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1FCTDFZcW9NX0VtWEhxWkFWbVBKTm9KOEVqdUYxQVFpS2NUTHFoNVdtMXF1a1VxOFRhSC1laS1jUVZvMkp3Yi1tN0xmVHV5NzlEcWRFR0hXdkt3TmRkcU5jQXdlbjVrNHRLS3pYZnhETmRNajVuajU5NG1XZkNlT1RkRXN3anVPaVFMT3ZiSFdLOTdwTVZscXhaTl9RM1NWalNn0gGrAUFVX3lxTE1KT0tSUzJBUS1EWnJCbWxhZXJrNHNmMDZzWXRtTVljSE90X01yUW4tZVlZZUk4YVlteHpPMTQtX25aT0I2cFNFWk1xXzNibXZUWENHenlEWV9QaTRYc0xHT2hhUXg4WWNJNkVNaDNSZkMycGk4VzN4dFJSOVBWazNGLTFTaTZ4aGpzMU4wdU1ndktTOWJRcGxsWTVoeFNGUGdwYWVXeW1BX2JLVQ?oc=5",
+   "outlet": "NBC Boston",
+   "via": "Google News",
+   "published": "2026-11-20T06:06:14+00:00",
+   "seen": "2026-11-20T06:14:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI release prompts gamers to share thoughts after the long-awaited launch."
+  },
   {
    "id": "gta 6 costs less to play on ps5 than xbox series x",
    "title": "GTA 6 costs less to play on PS5 than Xbox Series X",
@@ -118,6 +131,19 @@
    "ai_summary": "The story reports that GTA 6 costs less to play on PS5 than on Xbox Series X."
   },
   {
+   "id": "gta 6 generates record 2 36 billion in sales on launch day",
+   "title": "GTA 6 Generates Record $2.36 Billion in Sales on Launch Day",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlVRY291MGYzYWdpMHc5eWJodGNzUHc2ZFpsQUxFcEl1Y0E0T042Y3A4dkJCdEk1NVlKeEs3am9jOEd5X1RhRUZSdmRNWVlaM21nVENEeW9kWmI5cG5ET0F6UzV5VTZ6S09GdlJzVjVOcUk2djZuNVljZW9KT2FRbTJicGJlcVhqekN2SQ?oc=5",
+   "outlet": "Udaipur Kiran",
+   "via": "Google News",
+   "published": "2026-11-20T06:03:28+00:00",
+   "seen": "2026-11-20T06:14:13+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 generates record sales on launch day."
+  },
+  {
    "id": "gta 6 player shares money tips after about 130 hours",
    "title": "GTA 6 Player Shares Money Tips After About 130 Hours",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13UllaOXdsRjhrWWxHaUJaTzY5T0I0clVVOFV1N2doWjJEVE91SXF4aTRsTnVEbGxPRzhTRjItemNvR3JzUENZTG5hN2FRZndRWWFuNEFMNllTNVo5VXRGLXBuRUJFUnQ1N2l0dll2MlBpd3M?oc=5",
@@ -129,6 +155,32 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports a GTA 6 player shares money tips after about 130 hours of play."
+  },
+  {
+   "id": "i played gta 6 all night the coke runs barely covered my menswear habit",
+   "title": "I played GTA 6 all night. The coke runs barely covered my menswear habit",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WjVGaGxvZ1NLWHhXV0RaNFhFVktXdnBFQnpMakxsbFVKaG5EN0RfV3VXeFRjb2tJU093MkpSbDBZYkZMb3FMcnVhUlhwMm5heVgxZlVTQnlPampZZ0kySS1MaUZUSGxGclh3NA?oc=5",
+   "outlet": "British GQ",
+   "via": "Google News",
+   "published": "2026-11-20T06:00:00+00:00",
+   "seen": "2026-11-20T06:14:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The writer describes playing GTA 6 all night and its impact on their menswear habit."
+  },
+  {
+   "id": "gta 6 has a 25 casio lookalike obviously i bought it",
+   "title": "GTA 6 has a £25 Casio lookalike. Obviously, I bought it",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RbEd3WGxMVjBSMllTMjlVNTdyNFFtZmxRakdySVVWWUNSbFM4SXV2NmxZUTFzV0hYaVB4Nm0xTGxoS3V2dTBaejE3Y1JrdGpENXNHQXZIdGFtTFd4NjAxc3A5VkMwR2ladWJTNnYwc3ZHZw?oc=5",
+   "outlet": "British GQ",
+   "via": "Google News",
+   "published": "2026-11-20T06:00:00+00:00",
+   "seen": "2026-11-20T06:14:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 has a Casio lookalike product that the writer bought."
   },
   {
    "id": "grand theft auto vi the album is here listen",
@@ -272,6 +324,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 is reported to have surpassed two billion in estimated sales."
+  },
+  {
+   "id": "gta vi release reaches far beyond gaming world to mainstream american audience",
+   "title": "GTA VI release reaches far beyond gaming world to mainstream American audience",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTTNIcldLTk9yTmNOLTA5elE2NFBGN21femUyeEx3YU9sT3Q4eXRvWTZscDQ3YjdFOU5qaUhCR0o5Ylpjc1o0SUYtM2JwMXRvSnc3cHo0ejV5UlN6NjZFRHppWTJXWXYzMloycW9CTmtJLWxQbUk2SWRGaDl4dTI3bnZFWDF5VDRsZ0N6ZUdsenFIZE8tVVhOM1FnbTA0N2kyN0RQSjVXQjV6Nm1FcXlIQkpRSDk2cVRFakFFc2gyRDlHZ1lwM0xGNVNuZTBUb3A2elJPZEFtV3dxSl8tSFJhSXlPYU1uaGhPald6d2hqZndLUQ?oc=5",
+   "outlet": "KEZI",
+   "via": "Google News",
+   "published": "2026-11-20T04:53:36+00:00",
+   "seen": "2026-11-20T06:14:13+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "GTA VI release reaches beyond gaming to a mainstream American audience."
   },
   {
    "id": "sony shares rise as playstation accounts for around 75 of gta 6 sales",
@@ -5292,6 +5357,19 @@
    "ai_summary": "The headline reports that a blockbuster GTA VI release shows cultural and economic heft of video games."
   },
   {
+   "id": "gta 6 radio features zero doja cat and she s ready to paint the town red so f in bitter",
+   "title": "GTA 6 radio features zero Doja Cat, and she's ready to paint the town red: \"So f***in bitter\"",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-feature-zero-doja-cat-and-shes-ready-to-paint-the-town-red-so-f-in-bitter/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-19T19:29:12+00:00",
+   "seen": "2026-11-20T06:14:15+00:00",
+   "summary": "Doja Cat has her claws out for Rockstar",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 radio features exclude Doja Cat; she responds publicly."
+  },
+  {
    "id": "want to start lifting effectively gta 6 is a good teacher",
    "title": "Want To Start Lifting Effectively? GTA 6 Is A Good Teacher",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUxvY0kwTEJQSHlxbTM2NzBMWnRrbnNRb2dmclRKay1uQzc0UGVudl9LM1ctWG5OQ2ZaNDlpQ2FLRC1UX0NGTW1MY1FNbGU5MXNXNGZaSGx4QW5DUHF0Z3VKWWpkeEJIc092czlMb0lyRXg5LUtaVTNXR1Z0bjZzQkhUN29iWFBHMVc1MUpodXNkQVUyNDdZ?oc=5",
@@ -7812,6 +7890,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article states that Grand Theft Auto VI has been released."
+  },
+  {
+   "id": "gta 6 soundtrack with all of the songs listed for the radio stations album and trailers",
+   "title": "GTA 6 soundtrack with all of the songs listed for the radio stations, album, and trailers",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GbWV6N05SYVNSbEZ4UlZSZTl1YVExb3BtNTBKREp4OW94VTFyT1JUZGQ2Ri1rWjlmTnRzUG9RbU50bXNMbjQ1eEZGcV81RzAtQUdaN2dMNEJRdWgzQW1VdnJoT2NXd2k0b2ViUmNSNjVwbGxXb2I0SHhpbTIxZw?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-19T16:41:57+00:00",
+   "seen": "2026-11-20T06:14:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 soundtrack lists all songs for radio stations, album, and trailers."
   },
   {
    "id": "i didn t expect gta 6 to be the game that tries to de toxify toxic masculinity",
