@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:17:26+00:00",
- "started": "2026-11-20T15:17:19+00:00",
+ "updated": "2026-11-20T15:22:28+00:00",
+ "started": "2026-11-20T15:22:20+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,179 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T15:17:19+00:00"
+   "checked": "2026-11-20T15:22:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 95,
-   "checked": "2026-11-20T15:17:20+00:00"
+   "checked": "2026-11-20T15:22:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T15:17:20+00:00"
+   "checked": "2026-11-20T15:22:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T15:17:20+00:00"
+   "checked": "2026-11-20T15:22:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T15:17:21+00:00"
+   "checked": "2026-11-20T15:22:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 45,
-   "checked": "2026-11-20T15:17:21+00:00"
+   "hits": 46,
+   "checked": "2026-11-20T15:22:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T15:17:21+00:00"
+   "checked": "2026-11-20T15:22:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T15:17:22+00:00"
+   "checked": "2026-11-20T15:22:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T15:17:22+00:00"
+   "checked": "2026-11-20T15:22:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T15:17:23+00:00"
+   "checked": "2026-11-20T15:22:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T15:17:23+00:00"
+   "checked": "2026-11-20T15:22:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T15:17:24+00:00"
+   "checked": "2026-11-20T15:22:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T15:17:24+00:00"
+   "checked": "2026-11-20T15:22:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T15:17:24+00:00"
+   "checked": "2026-11-20T15:22:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "it took me less than an hour to find my first incredibly minor rockstar easter egg in gta 6",
+   "title": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida",
+   "link": "https://www.eurogamer.net/gta-6-early-game-connection-rockstar-gta-5",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-20T15:19:30+00:00",
+   "seen": "2026-11-20T15:22:22+00:00",
+   "summary": "Are you wondering how connected the worlds of GTA 5 and GTA 6 are? Well, I've got some news for you. Keep on reading below if you'd like some very minor spoilers for the early game of GTA 6, spoilers for GTA 5, as well as some information about how the new game links to GTA 5 and other Rockstar games. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes early GTA 6 links to GTA 5 and other Rockstar games, with minor spoilers hinted in the discussion."
+  },
+  {
+   "id": "laredo actor confirms involvement in grand theft auto vi after release",
+   "title": "Laredo actor confirms involvement in 'Grand Theft Auto VI' after release",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGpraUppMjM5M3ZzQzdBMGZWZjJETE9YcGJoMzFQMUpTR0ZYYlIyQWYwcGczbzB3VVduUzFEY3JEaEpNTTR0VTdqbEhNRms2LXVuWjQ5SC1WYnFDendBSnhjanJaQ29RLUVvV01RemJTSlFaWWtzQ0duS3lVRVZjR1UtazYzeHBxdWxpazRsd3AtbEV3Z1lQZWNqX0VIcGVRaEhV?oc=5",
+   "outlet": "Laredo Morning Times",
+   "via": "Google News",
+   "published": "2026-11-20T15:18:24+00:00",
+   "seen": "2026-11-20T15:22:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An Laredo actor confirms involvement in Grand Theft Auto VI after release."
+  },
+  {
+   "id": "how to find bigfoot or mr mangrove the skunk ape in gta 6",
+   "title": "How to find Bigfoot, or Mr. Mangrove the Skunk Ape, in GTA 6",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bigfoot-skunk-ape-mr-mangrove/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T15:16:03+00:00",
+   "seen": "2026-11-20T15:22:22+00:00",
+   "summary": "Kirk in Grand Theft Auto 6 is out to hunt bigfoot, or the Skunk Ape, or Mr. Mangrove, depending on who's talking about it",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Kirk in GTA 6 hunts bigfoot, also called the Skunk Ape or Mr. Mangrove."
+  },
+  {
+   "id": "report grand theft auto 6 sales pass 2 3 billion after launch",
+   "title": "Report: 'Grand Theft Auto 6' sales pass $2.3 billion after launch",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUFGek1IV0t5blJISnlOUE94V2hJNHFqWVRFWWlCSnNSbzVxWHNlWU0yVDRidzN4ZFUtM3JiMktUaDM2ZGZTWnU4MWtKUVY1SDJ2cGo4WHpFSUducVVyWXFlUzdBZjdNR3JDZDllbHAxTVRWVURmbE1XZ1YwV3lkYkg2YUVMUXpRRnpwWi1sWUYzc2pPUmNIdFVaeU81Z9IBowFBVV95cUxQSExBZl9ta19kZUU2ZExSdTZIanFPdHpmZy1hX3V4NjVLbWRuX1EtcXhWWEo3TFdYd2lDblBURklIcWhHZzJEYlRpV1FhbUp4MXFfZ3FJRTdKY0h0MlBoeFM1YkVtRVdpLVRaWEs5SXkyTEVaV3RxNjc3b0VQSGk1ekdCYWZSalB3VEZnNVMzblhKMGU1bG0xZWlKaTl0VzhyZDk4?oc=5",
+   "outlet": "upi",
+   "via": "Google News",
+   "published": "2026-11-20T15:15:48+00:00",
+   "seen": "2026-11-20T15:22:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A report states Grand Theft Auto 6 sales have surpassed $2.3 billion after launch."
+  },
+  {
+   "id": "memphis rapper kia shine lends his voice to grand theft auto vi",
+   "title": "Memphis rapper Kia Shine lends his voice to ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0lpZ3Bzb2ZUU1NtUUFVX3h2aVpqYlRYem9jM2d5NzhoNWJXbDBBbWV1cl90bnJFdWhqNWpXUEtlMGtBblVCb05DeU1lYkstVUxiVXpTZUg5WXNuN0tkTUpRZzFsNFlhclpKa3hqenlRX2pna0hMNWZZdl9nTHdNcmZ5YXJ4Y2RabzVldHNBaUdVRlVBTm5PMEpsTjBJY1NYYkHSAbYBQVVfeXFMTnplQmNsUFpmQ2o5Q0JvOVdhVklmU0h5ZWhTaFVZc085NmZmX1FPamZ1LWZLS0JIU0VhMndDYTBqMWY2djVZN3pmN3Rzek85RE1URGxaZW5vUmVCZ1F1Z3h4VUhMcmFTYW1IUHV4eXJqUnlSc3VfeTk0aTgzeGthOTA5X3BfalZOVUJQYWpZUXBWaTJNSEw4ZlRudURTbW1KQXROeGFQREJfXzVJSW9iSldmNDFsUFE?oc=5",
+   "outlet": "Action News 5",
+   "via": "Google News",
+   "published": "2026-11-20T15:12:00+00:00",
+   "seen": "2026-11-20T15:22:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Memphis rapper Kia Shine provides his voice for Grand Theft Auto VI."
+  },
+  {
+   "id": "youtube s gta 6 enforcement chaos sends streamers to twitch",
+   "title": "YouTube’s GTA 6 Enforcement Chaos Sends Streamers to Twitch",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeklyZ3B6U1I0ZFViZDNPOUhuOTNYb09fa1E4QlZGcDFoU3lnY1BxXzJEcWxmcS1rYVR2ZEg5YkdTd05IRWgtVUNDSTZ2SmgwWGdnYmlXUGF2Y3Q3d1VxTGQxREpFenhpS2NOQjNReVlJZk13blk2blFrR1JPUDVPUFAtWGtzSjNQMmZlQklEY2E?oc=5",
+   "outlet": "Gadget Review",
+   "via": "Google News",
+   "published": "2026-11-20T15:11:32+00:00",
+   "seen": "2026-11-20T15:22:21+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "YouTube GTA 6 enforcement chaos pushes streamers to Twitch."
+  },
   {
    "id": "gta 6 just sold an estimated 2 36 billion in one day nearly triple gta v take two stock is rising",
    "title": "GTA 6 Just Sold an Estimated $2.36 Billion in One Day, Nearly Triple GTA V. Take-Two Stock Is Rising",
@@ -155,6 +233,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story claims the first billion-dollar GTA 6 could also be the last."
+  },
+  {
+   "id": "you can find the bikini girl from the gta 6 trailer in game with a nod to all the fan theories",
+   "title": "You Can Find the 'Bikini Girl' From the GTA 6 Trailer In-Game, With a Nod to All the Fan Theories",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkc2VktQS1h6TV8ySlJRdmtyOGV2X21JQWZHb05teTdZb0NwT0RtVlRGSEpGcmhCeFA2TTBZV1hGcGVNNk82Z3BBdGt5ZjhzVGY1N0NZVlBic3BFdjZiYjVLemxJdll4VHhoMXMxM0wyM0tWTDh0T3dJd2o3aVBicTd5Zl8wYm02X21kd1VxNko1emVPOXJIdHdtWnhFNlNHSjhaTGNmVlJDRVFRaVpnRzVQMkVrSjZrMUwtZEpEak5fOFlYbVhXRmpKMTBNdzFrdUQwbWJsVTJVUXJ3RXI5N3BxRUJFVEVqMGc?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-20T15:01:44+00:00",
+   "seen": "2026-11-20T15:22:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The 'Bikini Girl' from the GTA 6 trailer can be found in-game, linking to fan theories."
   },
   {
    "id": "gta 6 map guide leonida s best locations to explore once you unlock free roam",
@@ -506,6 +597,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a viral GTA VI clip featuring a female NPC has the internet deeply concerned."
+  },
+  {
+   "id": "gta 6 six star wanted level gameplay",
+   "title": "GTA 6: Six Star Wanted Level Gameplay",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dFBSNTJfUFpzTXdJS3E2enpMVlU1VU5WMUtlZWJ5TzU1Uy04Q0l5N21nSU14NDFtT1dTaEVjQlotbHYzbnl3RUw5M3N3RXZZZDdQS1RxWW1hV1UwRlJSSmNGWWdlVG9sUlpPWEszb2s?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-20T14:30:00+00:00",
+   "seen": "2026-11-20T15:22:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 features six star wanted level gameplay."
   },
   {
    "id": "a gta 6 pc scam kit using a fake pc port as bait is doing the rounds on the dark web",
@@ -3849,6 +3953,19 @@
    "ai_summary": "The story reports that players have discovered how to play GTA 6 in first person."
   },
   {
+   "id": "gta 6 generates 2 36 billion dollars in opening sales",
+   "title": "GTA 6 Generates 2.36 Billion Dollars in Opening Sales",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zaVJaYVlZQVdwNENOeGI4N2U0UXAyX2h0SmFWWmlqcS1waUVJNWhhYlFmX256TW9zUFEycGhhWUg1MEwzSlBsZ1p6dTJzMXRsak9ZRXFaYVFhNUUxT1JR?oc=5",
+   "outlet": "Peradaban.id",
+   "via": "Google News",
+   "published": "2026-11-20T09:46:07+00:00",
+   "seen": "2026-11-20T15:22:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 opening sales reach 2.36 billion dollars."
+  },
+  {
    "id": "gta 6 is on its way to outselling every movie released this year",
    "title": "'GTA 6' is on its way to outselling every movie released this year",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkVqVDdQSkFVQjRoTnB0X3Btdm00M3FNUjV1dmZtSFZsdHZxVUJBZzhmQkV5d01LMVNkTXVfZVYxdnctNDJTcTM0STFLNGpBQXI4amNRbVg2bndScnc3MkNSeVJ1RWpJMVVfaFlvSExuMWJXT3JrYzdKM3NrQUxDNkVHVTZORXlrbGRDMEhidUlkdHg0Uy0wVUFvT1NrTGNIbGVLNUJiTQ?oc=5",
@@ -4419,6 +4536,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports debate over whether GTA 6 is too violent for young minds and discusses kids and gaming."
+  },
+  {
+   "id": "gta 6 topped 2 36 billion on launch day sensor tower estimates",
+   "title": "GTA 6 Topped $2.36 Billion on Launch Day, Sensor Tower Estimates",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03R25ReF92X1RGTnlfLVhiYng2ZFNJSHZ3Y0dMMXFlU3hIcXI0UDdnRkxXVHlrOVNpek53Y04tM2JNd3pXdGpFMnJWdDJUUFJReGhjdFp2Z1F6ZDNSLU1nNkdpQ3podUtwQlVyNEstWQ?oc=5",
+   "outlet": "ShiftDelete.Net",
+   "via": "Google News",
+   "published": "2026-11-20T07:58:28+00:00",
+   "seen": "2026-11-20T15:22:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 launch day sales reach 2.36 billion dollars according to Sensor Tower estimates."
   },
   {
    "id": "gta vi is well worth the wait here s why",
