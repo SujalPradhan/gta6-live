@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:13:06+00:00",
- "started": "2026-11-20T02:13:01+00:00",
+ "updated": "2026-11-20T02:18:10+00:00",
+ "started": "2026-11-20T02:18:03+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T02:13:01+00:00"
+   "checked": "2026-11-20T02:18:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-20T02:13:01+00:00"
+   "hits": 97,
+   "checked": "2026-11-20T02:18:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T02:13:02+00:00"
+   "checked": "2026-11-20T02:18:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T02:13:02+00:00"
+   "checked": "2026-11-20T02:18:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T02:13:02+00:00"
+   "checked": "2026-11-20T02:18:05+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T02:13:02+00:00"
+   "checked": "2026-11-20T02:18:06+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T02:13:03+00:00"
+   "checked": "2026-11-20T02:18:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T02:13:03+00:00"
+   "checked": "2026-11-20T02:18:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T02:13:03+00:00"
+   "checked": "2026-11-20T02:18:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T02:13:03+00:00"
+   "checked": "2026-11-20T02:18:07+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T02:13:03+00:00"
+   "checked": "2026-11-20T02:18:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T02:13:04+00:00"
+   "checked": "2026-11-20T02:18:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T02:13:04+00:00"
+   "checked": "2026-11-20T02:18:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T02:13:04+00:00"
+   "checked": "2026-11-20T02:18:07+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks records as sales top 2bn industry estimate",
+   "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-20T02:13:05+00:00",
+   "seen": "2026-11-20T02:18:04+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 sales top $2bn, according to an industry estimate."
+  },
+  {
+   "id": "xbox hardware sales reportedly surge on gta 6 and gears of war e day but for how long",
+   "title": "Xbox hardware sales reportedly surge on GTA 6 and Gears of War: E-Day — but for how long?",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNclpBNXFiMHAyXzQtWWs0MHJkcG1nMkdnNHpQcGMtNUJybU1id3B5OTROajVzcmVfRUc5VE0zRVh3dXRxQTZEMjFDM3pxUG4wcnpfUVNiQW0yTl82UGFRcDgzbzFjYWNPb3MtOUFGSzN0U0s2Ym9zRGk3elBCT21VZzZiZWszdHRCN0FKTTgxSVJlV3pZdGxHQkRObGxfaHl6MllXZWJFTkJHd3UtY1JuNWwtTHlrTzJPRV8wSUoyUG1MZWRZVXlF?oc=5",
+   "outlet": "Windows Central",
+   "via": "Google News",
+   "published": "2026-11-20T02:12:55+00:00",
+   "seen": "2026-11-20T02:18:05+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that Xbox hardware sales surge on GTA 6 and Gears of War: E-Day, but duration is uncertain."
+  },
   {
    "id": "grand theft auto vi is here and it s already made billions",
    "title": "'Grand Theft Auto VI' is here, and it’s already made billions",
@@ -116,6 +142,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that 'Grand Theft Auto VI' is here and has already made billions."
+  },
+  {
+   "id": "digital only gta 6 raises concerns for gamers in rural east tennessee",
+   "title": "Digital-only GTA 6 raises concerns for gamers in rural East Tennessee",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0IyS2VyWGs5X3o0UTU0OEVKQUppU2Q2VGRkZGlqdzFjbUZOUHJ0c1NJWUhPdWlzYjFua1g1blp4bGJ3WDFpMEwwcnZPWDlXckhoR2RsODVvdTcwOVNtQTRxUzFaTHJ4U2VNMmxFSnpoTkROc2Z4ZnJIQlVvMVNnV2wySFN0Uy1IRVFOTXUydVRNZmNNMk1KVXo3VUtFeUY1VS1VVERsYmZjdjdOcy0wbzdsbktOTjB5eERkRUplajZMNUtrc3dsU2xsNGV5NDBFZEc3UzREZUE?oc=5",
+   "outlet": "WBIR",
+   "via": "Google News",
+   "published": "2026-11-20T01:50:00+00:00",
+   "seen": "2026-11-20T02:18:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that digital-only GTA 6 raises concerns for gamers in rural East Tennessee."
   },
   {
    "id": "what are the psychological impacts of playing video games as gta vi releases today",
@@ -3405,6 +3444,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI could outsell Taylor Swift’s Eras Tour in its first week, per a report."
+  },
+  {
+   "id": "grand theft auto vi could outsell taylor swift s entire eras tour in its first week report says wdam tv",
+   "title": "Grand Theft Auto VI could outsell Taylor Swift’s entire Eras Tour in its first week, report says - WDAM-TV",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWG5NRDdLNnZTNHFwQm15eEFqTlVRMEF4OTVhTkNHSmFRSUdjVVIyYlpzT0h5OC1kVXdNaGw0akhILVhTcVZNZW8tTlBlRWNjT19Qc0Z3RVpGWkZZZ2J3Z0RQVFFaQ25zbk9taW1Pb3BHSUhhWHFXcnNCUmVTQVhxemJ4aGw3d29zWHR6SXJkVU9KR1VzNG5nSTZYS0lGanJhM3hOSnJsaFlnU21VV0pBdmlZNE9zb3lramZTRElfR0hRZ9IB1gFBVV95cUxPRlVqSnpRdDc5MmhUSHhYb1k0dm5LenRJZTJ0NG1QU1VvSGpEV2NKMnY1bWVoS19hNFdYNS1QVUQzd2dIWDJBNU9oeTJldlllMDNiQmprbjdNRld1RWpDSFVqb2xrYm1TaFROY0FfSGxnTVBiUVRQZ1J6QThWNnJTeEZpSV92d1lvLThqYUpYUXpnQ184dWRtQ2U2cm9KYmt2bVNrSTJKWnFQSlBqcE5Sa2MxbHRtWk1vRDZta3h1OUtzeHJUUzBQd190Z2dXZk1kWWpXdVNR?oc=5",
+   "outlet": "WDAM-TV",
+   "via": "Google News",
+   "published": "2026-11-19T20:28:00+00:00",
+   "seen": "2026-11-20T02:18:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI could outsell Taylor Swift’s entire Eras Tour in its first week, per a report."
   },
   {
    "id": "cyberleek claims to release development build of gta 6",
