@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:07:43+00:00",
- "started": "2026-11-20T01:07:35+00:00",
+ "updated": "2026-11-20T01:12:50+00:00",
+ "started": "2026-11-20T01:12:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T01:07:36+00:00"
+   "checked": "2026-11-20T01:12:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-20T01:07:36+00:00"
+   "hits": 96,
+   "checked": "2026-11-20T01:12:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T01:07:36+00:00"
+   "checked": "2026-11-20T01:12:46+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T01:07:37+00:00"
+   "checked": "2026-11-20T01:12:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T01:07:37+00:00"
+   "checked": "2026-11-20T01:12:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T01:07:37+00:00"
+   "checked": "2026-11-20T01:12:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T01:07:38+00:00"
+   "checked": "2026-11-20T01:12:46+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T01:07:38+00:00"
+   "checked": "2026-11-20T01:12:46+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T01:07:38+00:00"
+   "checked": "2026-11-20T01:12:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T01:07:38+00:00"
+   "checked": "2026-11-20T01:12:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T01:07:39+00:00"
+   "checked": "2026-11-20T01:12:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T01:07:39+00:00"
+   "checked": "2026-11-20T01:12:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T01:07:39+00:00"
+   "checked": "2026-11-20T01:12:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T01:07:39+00:00"
+   "checked": "2026-11-20T01:12:47+00:00"
   }
  },
  "items": [
@@ -339,6 +339,19 @@
    "ai_summary": "Kansas City gaming community discusses GTA VI's digital-only release."
   },
   {
+   "id": "gta 6 sales near 2 billion by launch day",
+   "title": "GTA 6 Sales Near $2 Billion by Launch Day",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZGZ2V3BPSWgwMTVQWXJRVHl4TEMxcVBWUzBQdFIzeElaWFo5TE9vN3RRUktuMjZZZ3VwbkZiejYxVnJxMnZ1WnBLN2tlZkhpNUZONkVieFlCSW81WHlEcWRCSE5TYXdRcDdNM1FOWFFkY0FPeG10amh5Rm52TFZ1aE1sbXbSAYoBQVVfeXFMTWc0SENUQU40SUhwNmNlQTNDV2dhSmVkeE1qQUhXeElvQU9wcUt3amxFbURjeVBhU1FHb3ZGTktxdkNKWHAxYXNzZ0lRclEzUmJOREFYeDhnS1RScjlyNkdGNkNBcV81MHBYVzhWNC1sWURZOTZHbTA5dDBVU0g3aFI0ZmdfbHBiTmNn?oc=5",
+   "outlet": "ProPakistani",
+   "via": "Google News",
+   "published": "2026-11-20T00:22:11+00:00",
+   "seen": "2026-11-20T01:12:46+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sales near two billion by launch day."
+  },
+  {
    "id": "take two set to shatter sales records as gta 6 launches to massive fanfare",
    "title": "Take-Two set to shatter sales records as GTA 6 launches to massive fanfare",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3o1Ry1uaHNPNzM0U19fY0kxSmR6RW5xUWlwY0FFTy1ZSzVhWlZ1dWpwSWlOOVVRYlg5Yjcxd3FSQW9BdkNjSjhoa08wd0pxVEJXVjVxYXNybjFyRklXcm9rVlVmaEQ0Rm9GZGFYSTdVbW1HYUQ2elZYdEc1eG1sVDluMVJXWFF5UzhvVldyTWhuMlNRS2tqa2NKeC1HRmVXWUhwSEw2aDZyWXB1NkRfRzFYYnplaVNnWmpUeFVhS1A?oc=5",
@@ -389,6 +402,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Police warn gamers after the GTA 6 release with advice to play responsibly and avoid leaving it running."
+  },
+  {
+   "id": "what makes grand theft auto vi such a big deal woay tv",
+   "title": "What makes Grand Theft Auto VI such a big deal? - WOAY-TV",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3ajJoOC1EaFIzeDk1eXhkRlFLRGdESmdaUnlqWXZEX3JTMmFFWmR3QkIwNW1va3ZpODc0cTNTYWhRUXlCSmJQamJ0azlMcVEza1JXSWJaN3hpUkRpOUV4ZktkNmxMcWRBVUVoWXJBWkF0Z9IBd0FVX3lxTE9oZWdMUW4zc1hxLVd3QjlBMHprMEVkZnRYUWQ2TEV4dGFfNjVtaFAycGhXX3dEQWNibmNPbGcyUmRPTnVUeGxnb2RfeTlIakF6SFM3b3BGcXlUbENRWWNGSmJ1X0EteVYwcFRTMlFYc0FVamVURDdz?oc=5",
+   "outlet": "WOAY-TV",
+   "via": "Google News",
+   "published": "2026-11-20T00:14:02+00:00",
+   "seen": "2026-11-20T01:12:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "What makes Grand Theft Auto VI such a big deal?"
   },
   {
    "id": "grand theft auto vi release brings gaming excitement to louisville",
