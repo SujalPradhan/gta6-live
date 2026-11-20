@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T11:10:56+00:00",
- "started": "2026-11-20T11:10:51+00:00",
+ "updated": "2026-11-20T11:16:12+00:00",
+ "started": "2026-11-20T11:16:04+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T11:10:51+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T11:16:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-20T11:10:51+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T11:16:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T11:10:52+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T11:16:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:10:52+00:00"
+   "checked": "2026-11-20T11:16:06+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:10:52+00:00"
+   "checked": "2026-11-20T11:16:06+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T11:10:52+00:00"
+   "checked": "2026-11-20T11:16:06+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:10:53+00:00"
+   "checked": "2026-11-20T11:16:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:10:53+00:00"
+   "checked": "2026-11-20T11:16:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:10:53+00:00"
+   "checked": "2026-11-20T11:16:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:10:53+00:00"
+   "checked": "2026-11-20T11:16:07+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:10:53+00:00"
+   "checked": "2026-11-20T11:16:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T11:10:54+00:00"
+   "checked": "2026-11-20T11:16:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:10:54+00:00"
+   "checked": "2026-11-20T11:16:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T11:10:54+00:00"
+   "checked": "2026-11-20T11:16:08+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 reportedly generates 2 3b on launch breaking records",
+   "title": "GTA 6 reportedly generates $2.3B on launch, breaking records",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGE0bWRLZlJGZEIxZWFrWXl0TktVWkxMNjFlY2o2S044cUhqTi10RVc0RWNkUXBRRm0wdUVoYUhQSVJRWDFzWm9XbThWTW8xMGViaTdXaEtlcUtNZUdtZGdlbmtNVlM4ekZLY1VyNFlraWR5Z1hYUV9OakJ5RE9pZFk3QVFXQmlqRnkyMTVDR0o0RlJ6UnIwWFNGUl82R1dGMi1FdTJRT2FZdw?oc=5",
+   "outlet": "NewsBytes",
+   "via": "Google News",
+   "published": "2026-11-20T11:10:57+00:00",
+   "seen": "2026-11-20T11:16:05+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 reportedly generates $2.3B on launch and breaks records."
+  },
   {
    "id": "gta vi rakes in 2 3b in record opening day what next for take two stock",
    "title": "GTA VI rakes in $2.3B in record opening day: what next for Take-Two stock",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI launches with a new album and 22 in-game radios."
+  },
+  {
+   "id": "popular video game gta vi drives fears of dangerous copycat stunts for young players former cop warns",
+   "title": "Popular video game GTA VI drives fears of dangerous copycat stunts for young players, former cop warns",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYVI0anVUeTZUOHlVcjFwQU1YeFpYREZaOXhnYzNIOFJubzUyQjRtSUYtdS1fMnJGZFlQLUpocFI5U3RaQzRrOC0wWHNGSzlSVTdianpwMkNwNkg5c0dHc0ZmRGhXWE9udnZFZ29UX1JDdmxGa3I5akpiQ29TblllM3h6SUVKV3N3NHlrVmJMZ0UyYlhWOGR6T1RDUTRRRU9ZN1VBeVlnY1d1S25jSWMtamRnTXhxTWdROWlFclpB0gHDAUFVX3lxTE95SUlsOU1ZQXhJUVFzOG9UQ2piY3p4ZzJVaC05c1ZYazZaa1JmZENfN3paMW0tRjFvTnV1WWttMFVXRFhmMlJmdmYyaU9ya25fbWt3VFNLTW9nRHFPb1RGb0NsQ3h1a1dqWlNSZEYyQlpMY1oxX2hqTkw2dWNJVlRvVVhPRjZNYnRqWGdiRDIwRDd3TVhVTWZ2WXdUWlhENko0ODlkYXREa25QYW5ZNUZSSTBIY3hPSVBtYWRvOVBOSG9Uaw?oc=5",
+   "outlet": "Fox News",
+   "via": "Google News",
+   "published": "2026-11-20T11:00:58+00:00",
+   "seen": "2026-11-20T11:16:04+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI drives fears of dangerous copycat stunts for young players, according to a former cop."
   },
   {
    "id": "the physical boxed copy of gta 6 is missing something pretty important",
@@ -313,6 +339,19 @@
    "ai_summary": "The story discusses talking with a teen about GTA 6 before banning it, as suggested by a child psychologist."
   },
   {
+   "id": "gta vi pre orders break 1b",
+   "title": "GTA VI Pre-Orders Break $1B",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEFOcTNFZkQ1a3dnQmNEX0daT2dIenFzZXgwYXFzTTJyd3Y0YlAtVklNeWVfWGEwdURYVnpINGtFbmFpeWtCcHNxUjF1dnkyQ2pRVm5nS2dpWHBqY1l1c2tIX0JfNTZDQ01oY1piekJSRGkzVjJvd190MzNjLTRLSU4wMVlYbHAwOUR4UXppd0lZNi1XYmlIVHZKeXFFUzA?oc=5",
+   "outlet": "Sensor Tower",
+   "via": "Google News",
+   "published": "2026-11-20T10:40:59+00:00",
+   "seen": "2026-11-20T11:16:05+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI pre-orders break $1B."
+  },
+  {
    "id": "grand theft auto vi is a worldwide sensation bostonians still dream for a local version of the game",
    "title": "‘Grand Theft Auto VI’ is a worldwide sensation. Bostonians still dream for a local version of the game.",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcG5QV09vcHRkekR4eGNhTTZlYWQwd3ZLb0RLUnZFVUxselRZWF9TeGJRQnVFRGJTemd4dEh4dzFtTmt2R2N2N1JnRFNXd2hjNWZZSHh6UFRfbllfRUxONXlZZmRKenhvLUoteFpER09NN1Y3STVKeHdyOFU1WDhUMw?oc=5",
@@ -443,6 +482,19 @@
    "ai_summary": "Cyberleek returns for GTA 6 launch to reportedly release a near-complete Xbox build, threatens to release the game's executable in days."
   },
   {
+   "id": "just embarrassing jd vance s gta 6 ai slop post slammed online",
+   "title": "‘Just embarrassing’: JD Vance’s GTA 6 AI slop post slammed online",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WNGlzaC1qU29IY09sMDJ5dldpVlNlbmFiRWVqMjdoS2o2b0ZwQWlXeGJwSUJZY1lwRWE1V2RGZlpxRGxzczdTZ2RiZGNPOE85MS1ZQmpwVm5ubWpJblllMUp3bEdXTEtjaHc?oc=5",
+   "outlet": "Indy100",
+   "via": "Google News",
+   "published": "2026-11-20T10:21:49+00:00",
+   "seen": "2026-11-20T11:16:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that JD Vance’s GTA 6 AI post is slammed online as embarrassing."
+  },
+  {
    "id": "here s how to unlock the full map in gta 6",
    "title": "Here's How To Unlock The Full Map In GTA 6",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pQnByeUZtMXVZYm9DUm91X2F6aDNqSDlNM1o3T2p4M294WUo3T1ItMjlKQXkwRU1yYnhoQWVwcUFOcnRhTTA5aEhEb0x5dk5zZktFc200anUzbFlXRFQzQ25ZSWRnTi1ocUl0bFcwcnM?oc=5",
@@ -506,6 +558,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a GTA 6 leaker returning to release a near-complete Xbox build but withholding a crucial file for now."
+  },
+  {
+   "id": "gta 6 the album release date prices and leaked tracklist",
+   "title": "GTA 6: The Album release date, prices and leaked tracklist",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRG9nZUxtNWFGd2pyd0ttX1N3QnRTbGxENnlnYVc0dFhaTnpoRWZ5aU9FM0J0emhycmd6eFdWRkpxVlRrT2FFdk41aUpDS0dtU2xTYkZfSWJoVi12cFJZSGVDbWhjRXd5NlBYeGdoU0tkaElKcTk4bmxvNDd6YTVyR3Z3?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-20T10:10:18+00:00",
+   "seen": "2026-11-20T11:16:05+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports information about GTA 6: The Album release date, prices and leaked tracklist."
   },
   {
    "id": "ign partners with rockstar to host official strategy guide for gta 6",
@@ -1119,6 +1184,19 @@
    "ai_summary": "The story reports GTA 6 generates 2.36 billion dollars in a record launch."
   },
   {
+   "id": "gta 6 smashes records with 2 3bn launch politis",
+   "title": "GTA 6 Smashes Records With $2.3bn Launch - POLITIS",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDN5dHVsWERRZmo2bU9DTHRWUmNDX01Fc1AyYXdYZURrUTlIaVp6bVpzN3pWOUYtSnpJUV9EbVdRY2JtU29KVmVRLVNwUUtkRTZzSUJQdXFaeW9Wc1hwNzVBdkNvZTl4SmlmalNlVmh4SkduZUIybTR5eXhCeU94ckE2MVJuWXNzWVE?oc=5",
+   "outlet": "To the point",
+   "via": "Google News",
+   "published": "2026-11-20T08:22:12+00:00",
+   "seen": "2026-11-20T11:16:05+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 Smashes Records With $2.3bn Launch."
+  },
+  {
    "id": "watch as gaming fans worldwide dive into long awaited grand theft auto vi",
    "title": "Watch as gaming fans worldwide dive into long-awaited Grand Theft Auto VI",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaEdBeGhrV09QYkhCV2pyS19xRWliaS11V1JoWW0tR1hGMFhVaXhlSWcySEgzWnhVNE5VZU5pV01jcEt4R0ZCXzBFTFVGakY1YlJnXzZlU1NRUlVndzNGUzU0emxEbkVlbnlpTURhRHJNWjMyc19EVGFNekhsNFF0Z1ZSUFB2YkNQNVFBX2wxZTB0WFlUZ0VpLTkwUFpSMmhGUS0tQnVUQUZiU0tsVkZUdGpuemhaMzRDd3BwOXppMXIyd3RqbHMxUVZfVQ?oc=5",
@@ -1260,6 +1338,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article argues that GTA VI is well worth the wait and explains why."
+  },
+  {
+   "id": "gta 6 breaks internet streaming records peak viewership nears 8m",
+   "title": "GTA 6 breaks internet, streaming records: Peak viewership nears 8M",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGMwYzdJNkdITHY3S0QtNXhYX056N2hweEY0eEtnZTg1ejZlaGhCajk4TEdsbXdDTDFnNzkyRzRnem1CdGViOEYxY0Q2MVl5UUVrRTBVaXFvc0RlMGFFR21CbFhxcVV5WEJmZ1hiMlVWTng4cC05SmhPMk5xSVZEbFB3a2xUNW9uZm5jUEdjcUZEMHR0X0lldk9TdUVjdlpQSFBJRV9hdjhHQQ?oc=5",
+   "outlet": "NewsBytes",
+   "via": "Google News",
+   "published": "2026-11-20T07:54:42+00:00",
+   "seen": "2026-11-20T11:16:05+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 breaks the internet with streaming records and peak viewership near 8M."
   },
   {
    "id": "texans jump on gta 6 hype train with epic graphic after running over colts",
@@ -1910,6 +2001,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports notable GTA 6 brand reactions including Mercedes Benz and Huggies."
+  },
+  {
+   "id": "gta 6 breaks records sales volume exceeds 2 3 billion news of kyrgyzstan bishkek and osh latest events today",
+   "title": "GTA 6 Breaks Records, Sales Volume Exceeds $2.3 Billion » News of Kyrgyzstan, Bishkek and Osh - latest events today",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM1ByMXBOQ05ya0YyUnU1alhIYnBIYVNSTXhsb2VxNlRaQWhodk92Q0tZSUdGb2J0dXB2WklJUHNEZWwtTUJ0ZUVVZm1ldU83N0FTUmNlbVE2VzA4U3lhRVNJTU5YT1RncHo4cnBtQ1hYZl81N05GNlBRNUpOWmd4UXRsUWd2bmpOWDd3UXNUWV9ieXZDLU01YUxOZmUtWlhFVWNDSXdsY1g?oc=5",
+   "outlet": "open.kg",
+   "via": "Google News",
+   "published": "2026-11-20T05:56:53+00:00",
+   "seen": "2026-11-20T11:16:05+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 breaks records and sales volume exceeds $2.3 billion with coverage from News of Kyrgyzstan, Bishkek and Osh."
   },
   {
    "id": "grand theft auto vi the album is here listen",
