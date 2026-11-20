@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:10:19+00:00",
- "started": "2026-11-20T09:10:13+00:00",
+ "updated": "2026-11-20T09:15:21+00:00",
+ "started": "2026-11-20T09:15:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T09:10:13+00:00"
+   "checked": "2026-11-20T09:15:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-20T09:10:14+00:00"
+   "hits": 94,
+   "checked": "2026-11-20T09:15:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T09:10:14+00:00"
+   "hits": 100,
+   "checked": "2026-11-20T09:15:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:10:14+00:00"
+   "checked": "2026-11-20T09:15:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T09:10:14+00:00"
+   "checked": "2026-11-20T09:15:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T09:10:15+00:00"
+   "checked": "2026-11-20T09:15:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T09:10:15+00:00"
+   "checked": "2026-11-20T09:15:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T09:10:15+00:00"
+   "checked": "2026-11-20T09:15:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T09:10:15+00:00"
+   "checked": "2026-11-20T09:15:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T09:10:16+00:00"
+   "checked": "2026-11-20T09:15:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T09:10:16+00:00"
+   "checked": "2026-11-20T09:15:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T09:10:16+00:00"
+   "checked": "2026-11-20T09:15:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:10:16+00:00"
+   "checked": "2026-11-20T09:15:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T09:10:16+00:00"
+   "checked": "2026-11-20T09:15:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar s grand theft auto vi just out earned christopher nolan s summer blockbuster before launch day even ended",
+   "title": "Rockstar’s ‘Grand Theft Auto VI’ Just Out-Earned Christopher Nolan’s Summer Blockbuster Before Launch Day Even Ended",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2ZGRCU3BPUWRJQ2NBQXhvNzRtQ3ZIaVc2V3FvNjNnZXBYV00tZFl0amNFeUJEMzZRRGJQSWM5NFdvY3FPMFo5clVpYUFOYkZNNWREcmRjN0FEbnR1dVBZdF9NbzhXV1FtWEVZ?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-20T09:13:49+00:00",
+   "seen": "2026-11-20T09:15:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI has already earned more than Christopher Nolan's summer blockbuster before launch day ended."
+  },
+  {
+   "id": "cyberleek claims to have released a full in development version of the gta vi",
+   "title": "Cyberleek claims to have released a full in-development version of the GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2FPT2x2dER5NWhsWkY3TDh1ZU1lamRpQ0JIRENmM0ludlhYeC1sdjVUR1V6OWRGanl4dXhGVThka2lFU2RkX0NTQXJQZG9oTURwTDI0R2RIdkc1LTB5WWdSTEotV1BXbkNjUUtSb3h3SDVvMDVodXZEdGk4Qy1rQ191MExwS3hDZ01oOEZEdm9NU3JpOGVRZUdBalBvb0ZpUTEtZ1NvVG9qQUVXVmZNdWp0WHYyVlNGSHJLVzdIWGlaM0oyMXc?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-20T09:09:06+00:00",
+   "seen": "2026-11-20T09:15:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Cyberleek claims to have released a full in-development version of GTA VI."
+  },
   {
    "id": "all waink curiosities in gta 6",
    "title": "All WAiNK Curiosities In GTA 6",
