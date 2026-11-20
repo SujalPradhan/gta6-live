@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T10:46:00+00:00",
- "started": "2026-11-20T10:45:53+00:00",
+ "updated": "2026-11-20T10:50:51+00:00",
+ "started": "2026-11-20T10:50:45+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T10:45:54+00:00"
+   "checked": "2026-11-20T10:50:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 90,
-   "checked": "2026-11-20T10:45:54+00:00"
+   "checked": "2026-11-20T10:50:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T10:45:55+00:00"
+   "checked": "2026-11-20T10:50:46+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:45:55+00:00"
+   "checked": "2026-11-20T10:50:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T10:45:55+00:00"
+   "checked": "2026-11-20T10:50:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T10:45:55+00:00"
+   "checked": "2026-11-20T10:50:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T10:45:56+00:00"
+   "checked": "2026-11-20T10:50:47+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T10:45:56+00:00"
+   "checked": "2026-11-20T10:50:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T10:45:56+00:00"
+   "checked": "2026-11-20T10:50:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T10:45:56+00:00"
+   "checked": "2026-11-20T10:50:48+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T10:45:57+00:00"
+   "checked": "2026-11-20T10:50:48+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T10:45:57+00:00"
+   "checked": "2026-11-20T10:50:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:45:57+00:00"
+   "checked": "2026-11-20T10:50:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T10:45:57+00:00"
+   "checked": "2026-11-20T10:50:48+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi hijacks america",
+   "title": "GTA VI hijacks America",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uMmpYSW1TZXhsV283QXdBaXVJM0tYSjhTbTVMWEZGeWlmRzBwaEI0ZHZ5VHcwdWYwRmhZWkUzNWlCYnFUMVlsYjlwSUROd1ZFb29MRUlDOGtRVFd2T2dPeHlsMHJWd0FDeUxxYTRwZ2hCQQ?oc=5",
+   "outlet": "Axios",
+   "via": "Google News",
+   "published": "2026-11-20T10:48:52+00:00",
+   "seen": "2026-11-20T10:50:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA VI hijacking America."
+  },
+  {
+   "id": "ubisoft drops after q3 forecast miss as gta vi looms large over holiday season",
+   "title": "Ubisoft drops after Q3 forecast miss as GTA VI looms large over holiday season",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEVqdDBsYmRtRkxlSWRWeDczNnhGOTNTZUFzbXZIVFF0dGxCdmlCUmk3REJ4WHZ0TllvcTdlYy13SzR1QUNUMUVjMmc2cW1CNXpvVEhpeXo5dXpDUlVhVlEzdmtIQXZlRllBNlVxdFJwUjRibUtuVnV1N1lGMGR0NlBxS1ZNTlZiTEpJcVhzUm50M1drX0hfZnZNYWdKYjZxUThWU3lxSklOZ09aZG9RNGJBME1XVC1FT0pUdloyeURpRmxIX3NoeUZR?oc=5",
+   "outlet": "StreetInsider",
+   "via": "Google News",
+   "published": "2026-11-20T10:47:15+00:00",
+   "seen": "2026-11-20T10:50:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Ubisoft's forecast miss, with GTA VI looming large over the holiday season."
+  },
   {
    "id": "your teen wants to play gta 6 a child psychologist says to have this conversation before banning it",
    "title": "Your teen wants to play GTA 6. A child psychologist says to have this conversation before banning it.",
@@ -272,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 revives a Cantopop classic by George Lam on its in-game radio station."
+  },
+  {
+   "id": "gta vi is a perfect game rushing through it would be a mistake",
+   "title": "‘GTA VI’ Is a Perfect Game. Rushing Through It Would Be a Mistake",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tc203LVpMVUhudjFnWnhNUXF5SUotY0oxSVBjUTV4WlhCSV8zUXNnZnRQSmw0RlFxWWxFa2g4dkdubVpXT25JcW5LSmd3MGlFMGJuTVp5MnRDTExfWmU4N2pNbnBlM29TQS1VMEtUXzM?oc=5",
+   "outlet": "WIRED",
+   "via": "Google News",
+   "published": "2026-11-20T10:15:00+00:00",
+   "seen": "2026-11-20T10:50:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA VI being a perfect game and warns rushing through it would be a mistake."
   },
   {
    "id": "press review the far right is missing the butt of the gta vi joke it s them",
