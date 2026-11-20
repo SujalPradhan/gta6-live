@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:17:44+00:00",
- "started": "2026-11-20T16:17:39+00:00",
+ "updated": "2026-11-20T16:22:48+00:00",
+ "started": "2026-11-20T16:22:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T16:17:39+00:00"
+   "checked": "2026-11-20T16:22:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-20T16:17:39+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T16:22:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T16:17:40+00:00"
+   "checked": "2026-11-20T16:22:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T16:17:40+00:00"
+   "checked": "2026-11-20T16:22:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T16:17:40+00:00"
+   "checked": "2026-11-20T16:22:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T16:17:40+00:00"
+   "checked": "2026-11-20T16:22:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T16:17:40+00:00"
+   "checked": "2026-11-20T16:22:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T16:17:41+00:00"
+   "checked": "2026-11-20T16:22:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T16:17:41+00:00"
+   "checked": "2026-11-20T16:22:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T16:17:41+00:00"
+   "checked": "2026-11-20T16:22:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T16:17:41+00:00"
+   "checked": "2026-11-20T16:22:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T16:17:41+00:00"
+   "checked": "2026-11-20T16:22:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T16:17:41+00:00"
+   "checked": "2026-11-20T16:22:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T16:17:41+00:00"
+   "checked": "2026-11-20T16:22:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi made a massive debut selling 19 million copies in just 24 hours and generating billions of dollars before its release pr",
+   "title": "Grand Theft Auto VI made a massive debut, selling 19 million copies in just 24 hours and generating billions of dollars. Before its release, preorders had already surpassed $1.5 billion. The standard edition costs $79.99, while other versions reach $100. #GTA",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX21Va3g0WmsxSVNJWi1fbkdQV2JzNEFYbGd3d0xId3NvTE43b1pUamRvWm9SaUZ3TlQ4MklhRVBJak1PUFRUb2VpcmQzWkFId0c1cDVKcV9CQ0h5MHN0QmhwTDZpMklrZUFKZ0FIUW93VUlzaVRTeHo1TlZZWjc1NnFCMHdReUNiS0xMNFJSTTNTRU9JODd3d3hteFRyeldsdlZrTTlQRmF2em9mR25GazJ3QXFfUzdzWGJfZlNEb21Wb1lDNnYzS3lHMFVwMURWUUFoTjhOcjRIblBjdG0w?oc=5",
+   "outlet": "Facebook",
+   "via": "Google News",
+   "published": "2026-11-20T16:20:38+00:00",
+   "seen": "2026-11-20T16:22:42+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA VI's massive debut with high sales and predefined preorder figures, plus price points for editions."
+  },
+  {
+   "id": "gta 6 is finally here and you can get both editions cheaper with this xbox deal",
+   "title": "GTA 6 Is Finally Here, And You Can Get Both Editions Cheaper With This Xbox Deal",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3VfUFM0a0NrTmVZdzRxRzlVLW5xVHA4X0x2VFNsR0VsLUx0aWZsSHBaSGQ0MlFWa2Mtbl85djl5VDkxa3NVazZfbXE1RjI3d3B1WkZxU3g3WHY1RkxoeDVNSGxuNXZ2bTVPNC1BeGVma2ZxbF9hUVlRaUg5VTFoSmx1X2x2Y2hQNUdFeE1ZLUl2SnVNblo1LTNVWWVNdE5pelNBTUlQRWs2SlRHQ2R4YTBsVXg?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-20T16:20:31+00:00",
+   "seen": "2026-11-20T16:22:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says GTA 6 is available and mentions a cheaper option for both editions via an Xbox deal."
+  },
+  {
+   "id": "british pm burnham won t be playing gta 6 despite it being a british success story",
+   "title": "British PM Burnham ‘Won’t Be Playing’ GTA 6 Despite It Being ‘a British Success Story’",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckh3aTM0VFkzT0RNdlQ5T0Iza1Y0MkFucjQ4UW5BaV91X1RXenB3RDZfYmJrUm9PdlBUa2tKc0l2aUJ0YXIxT2hBNEFWRlZiV1RvcXBRNzFmSjhJMUl0bTBHSVI2bURZV0V6Q0Fqc2I1V00yVlhzN1Z1cWg3R1RrS2x5bkp2dVR6N25wRUltZDJ0SkxWaUVqN2hYYkFGYzdhMjF2ZEJiWUFPaW02YUl3a1R3?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-20T16:16:34+00:00",
+   "seen": "2026-11-20T16:22:42+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story notes the British PM Burnham will not be playing GTA 6, despite calling it a British success story."
+  },
   {
    "id": "i ve played gta 6 for 110 hours here are the weirdest things i ve seen",
    "title": "I’ve Played GTA 6 for 110 Hours, Here Are the Weirdest Things I’ve Seen",
@@ -391,6 +430,19 @@
    "ai_summary": "The story reports that GTA VI's album lineup brings back Dua Lipa and Rina Sawayama."
   },
   {
+   "id": "commanders jayden daniels presser featured hot topics such as gta 6 the bachelor",
+   "title": "Commanders’ Jayden Daniels’ presser featured hot topics such as GTA 6, The Bachelor",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHNNaWhqbzZTYkJ0a1NabkE3WDNYZmJyNGhoMmtFdFZIUHNJVFEyd1l0dE1yUFJPM0F3QlNyZU1PcVhIMUt6anlMYkdLWTlTd2ZTQzRzZ1JQNWhvNHM0TTVqNThVT0F4NExYLWhTMkpIRkxaWVNod2VBdTA4dGZtLUVJNU5FclpYOE01TV9fUTVkSC1zUnc?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-20T15:44:07+00:00",
+   "seen": "2026-11-20T16:22:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers Jayden Daniels’ presser where GTA 6 and The Bachelor were discussed among topics."
+  },
+  {
    "id": "metal band debuts new song exclusively in gta 6 instead of releasing it on streaming platforms",
    "title": "Metal Band Debuts New Song Exclusively in 'GTA 6' Instead of Releasing It on Streaming Platforms",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWR5aHZYaGZKM2FtdUp5STNlTnhjSDFDTl9MQS1nWTJSRUVEMldBOFowTWtkMGlmUzUtQ1IySFlQVDNtc0I1UEpZc2Viak5rTzN2MmppWU8xRXo4S0ZjR3N5UGJxNnI2dGNCUnc4M0JWbk1hS2pxWkhxZnJTZFJURjNpUTFUa2VERGw4QURob0dmcE9nVld6NTdMa29Nb053VjA1d3VDc2h5Nks1YVlMdXh6NmRva0VsbldKRU5VVUxfOTVwM1E?oc=5",
@@ -545,6 +597,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports an explanation of GTA 6 romance and factors affecting Jason and Lucia’s bond."
+  },
+  {
+   "id": "gta vi draws split in congress rep burchett says 100 linked to crime rep frost says chill out",
+   "title": "GTA VI draws split in Congress: Rep. Burchett says ‘100%’ linked to crime, Rep. Frost says ‘Chill out’",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXRCZVc1S2VoeHAwRUZkUnAxeGNVMW9nTmN3ZkdlR1JKS3RmYnpyQjdyNVhsRmRqM0I0STB2WkhkckYtejlibUJaV0xVVDBJdWUyb2c4VGltOGtZVnp2c1hqNU50bnJzaEtuWHlEMnYyOGJfZ0VSNWthaW9nRkV1Yjl5dV9sY0x4bGhRaWNCMXM?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-20T15:30:11+00:00",
+   "seen": "2026-11-20T16:22:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a split congressional reaction to GTA VI, with one representative linking it to crime and another urging to chill out."
   },
   {
    "id": "830 gta vi sales soar as anthropic shares tumble post ipo",
