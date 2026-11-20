@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T08:00:05+00:00",
- "started": "2026-11-20T07:59:59+00:00",
+ "updated": "2026-11-20T08:04:59+00:00",
+ "started": "2026-11-20T08:04:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T07:59:59+00:00"
+   "checked": "2026-11-20T08:04:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T08:00:00+00:00"
+   "checked": "2026-11-20T08:04:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-20T08:00:00+00:00"
+   "checked": "2026-11-20T08:04:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T08:00:00+00:00"
+   "checked": "2026-11-20T08:04:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T08:00:01+00:00"
+   "checked": "2026-11-20T08:04:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T08:00:01+00:00"
+   "checked": "2026-11-20T08:04:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T08:00:01+00:00"
+   "checked": "2026-11-20T08:04:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T08:00:01+00:00"
+   "checked": "2026-11-20T08:04:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T08:00:02+00:00"
+   "checked": "2026-11-20T08:04:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T08:00:02+00:00"
+   "checked": "2026-11-20T08:04:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T08:00:02+00:00"
+   "checked": "2026-11-20T08:04:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T08:00:02+00:00"
+   "checked": "2026-11-20T08:04:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T08:00:02+00:00"
+   "checked": "2026-11-20T08:04:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T08:00:03+00:00"
+   "checked": "2026-11-20T08:04:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks records with 2 36bn in sales report",
+   "title": "GTA 6 Breaks Records With $2.36bn In Sales: Report",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFhfNERrS3lMZUlaQllyRWlLOXlYUEk2RmM4S1FFU3NSTGw2eEl6blhQWktnRFlQNEdJSExCSDBrZTY0UHZtMXNXQ2s0OXJXd01pWUF6UVdlSmlRNXNkLUR6VDdaTXdvN1N5YWZtV2dSUmxWODdlckM3SjJPZFBORmt5TW9TNXVyazhDNUpGYkh6SFpfeUVNODVXQVAxdUtWNTh5SFp3dk50eW13OXRSV2lTUlg4aWhzdG55NtIBwgFBVV95cUxNZE04aXhOS0F5RUdsa0twbEFiYlRkeEowRGJiX0xGZUFWRjhYdDhTbjNlaXZyZEtUcU93dkZEMEJ1WmVGTkRJLUhhWEFiR0d4M0hrbldWbXJyUXJ5X3VJOWp0SVlRM2FoaURCMVQ3Rzg4NVZfYWgyZEhNbFVyMmQ3Yk5jSUlhbnVRQkZCN3RPbmZMUy1wY1ZQSmlhS0F3aE43M1EyWU92bkw0VFVKSC1Fd2ZHSlJaZ2lua2VjeFBZdGtoZw?oc=5",
+   "outlet": "ETV Bharat",
+   "via": "Google News",
+   "published": "2026-11-20T08:00:36+00:00",
+   "seen": "2026-11-20T08:04:55+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The report claims GTA 6 breaks records with sales totaling $2.36 billion."
+  },
+  {
+   "id": "gta 6 players discover secret cutscene hidden behind ridiculous seven minute climb",
+   "title": "GTA 6 players discover secret cutscene hidden behind ridiculous seven-minute climb",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTJPRHN4cTJnSmMzb1RndURJOVk3OGtKT0FkWW9ubkVfWG05eUZuUXBSc3E0b3hUeGtObW1mZ25GXzBuWDNYRjduY013SzBscWtlTWpRNGtkMkF1X19iQVExMHFmOFYyTWVzSFFkNWJzVEhVYmFJRjFiWmdlNklVRVc1a1pfN2JyczN2RjVCQVl2eVQxT3JfdHBsSk1ULXVCS3c?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-20T08:00:00+00:00",
+   "seen": "2026-11-20T08:04:54+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players find a secret cutscene behind a seven-minute climb."
+  },
   {
    "id": "decorated polish composer featured in gta vi soundtrack",
    "title": "Decorated Polish composer featured in GTA VI soundtrack",
@@ -181,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Southern California gamers can get Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 gamer craze hits las vegas klas",
+   "title": "GTA 6 gamer craze hits Las Vegas – KLAS",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jdVdaQ3Y3N2xqQ1pMbmVBbW5lUTEyNkFCYlRtN1BBX05FV200NnZOU1pTV2toQXFkbWEtVEZJVklxUmRLS3ZHdC1SejlSeEY5STNGQlpRYV9icEtQc3M2WXI2dURVSWV5WHZDYUV0cU95UUpqNVhnN1lkYnZWZw?oc=5",
+   "outlet": "KLAS 8 News Now",
+   "via": "Google News",
+   "published": "2026-11-20T07:17:53+00:00",
+   "seen": "2026-11-20T08:04:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 gamer craze is reported in Las Vegas by KLAS 8 News Now."
   },
   {
    "id": "china isn t selling gta 6 but gamers can t stop won t stop buying it anyway",
