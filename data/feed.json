@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T23:20:15+00:00",
- "started": "2026-11-20T23:20:09+00:00",
+ "updated": "2026-11-20T23:25:19+00:00",
+ "started": "2026-11-20T23:25:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:20:09+00:00"
+   "checked": "2026-11-20T23:25:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:20:10+00:00"
+   "checked": "2026-11-20T23:25:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T23:20:10+00:00"
+   "checked": "2026-11-20T23:25:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T23:20:10+00:00"
+   "checked": "2026-11-20T23:25:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T23:20:11+00:00"
+   "checked": "2026-11-20T23:25:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T23:20:11+00:00"
+   "checked": "2026-11-20T23:25:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T23:20:11+00:00"
+   "checked": "2026-11-20T23:25:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T23:20:11+00:00"
+   "checked": "2026-11-20T23:25:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T23:20:12+00:00"
+   "checked": "2026-11-20T23:25:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T23:20:12+00:00"
+   "checked": "2026-11-20T23:25:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T23:20:12+00:00"
+   "checked": "2026-11-20T23:25:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T23:20:12+00:00"
+   "checked": "2026-11-20T23:25:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T23:20:12+00:00"
+   "checked": "2026-11-20T23:25:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T23:20:13+00:00"
+   "checked": "2026-11-20T23:25:16+00:00"
   }
  },
  "items": [
@@ -274,6 +274,19 @@
    "ai_summary": "The story reports that GTA 6 made a record $3,79 billion in one day."
   },
   {
+   "id": "from the screen to the streets gta 6 puts miami in the spotlight",
+   "title": "From the screen to the streets: GTA 6 puts Miami in the spotlight!",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2lhdnVjZWowMlpGOVFHdWpKay1FaEFfaGZGT1pjRmdIbmd2dXJLSjhmQTF3Tlk5NFAtUzNMSG83SGhMbzZVZEZOeHlONXV2VFUtVXAxQlg0YzFiVFhPVXJpRGZSWnJVQ1RwSmN5aUMxZ3ZhajFtT290a3NsT0QzNTNZbzRXb3lGLTRhRHNJYkpxRjJSdm1NdXBrbzhaQkpKa2RHSERmYVBfRjBWaFNvbEN1bTZOdnczeHVfSkpBMFlHRmZjWm53M29ldU53by1GZVdN0gHbAUFVX3lxTFBfTTN2U254dzA3WlRpeFN2cEswSmNHX2dSd3FQZldaYng4RnkzX2ROLXRycFQxQ1ZKMzNmcTBMc3VPYWd0T3F5U25nTXdLSHQ5V0tQbmVfZnNTc0xMODJ1T1F6Tjd0dnQ2Wi1Oc2xSNkp6T1pIN0xBX2RyV1d2YkVzQ1RXTHZRMEtVcnFiZTVFY1RMM3BHMUpnUFJXYXJhR2JzQ0s1WFJLc1ZDalBFdW1ueTc2M2FLODh4c2lRR2xHdFJDSnRZN3ZvUlRZUFFCN21zRUtmMDIwbEc1RQ?oc=5",
+   "outlet": "NBC 6 South Florida",
+   "via": "Google News",
+   "published": "2026-11-20T22:50:21+00:00",
+   "seen": "2026-11-20T23:25:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 highlights Miami on screen and on the streets."
+  },
+  {
    "id": "gta 6 is getting review bombed",
    "title": "GTA 6 is Getting Review Bombed",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQ04wcDdlRC1aY1pWcUlCaFJYNFdsNGRmUnQwRnE0elJPTkFGTThvQ3FYLVVDWS1jTnBiS2JUcmpLUlExUlVuTDFLVHhvVGFWby1wVzdyMGtRVlk?oc=5",
@@ -389,6 +402,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6's map is huge but can be flown across in about four minutes and eighteen seconds in a plane."
+  },
+  {
+   "id": "despite gta 6 s huge map it only takes about 4 minutes to fly across it in a plane",
+   "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVlhPeFVqOU5pWnYxeG9fZUd1VHQ4M05aV2l6OTFDZUZRbVJ4Q294SXJZZW1fTlNpRllva2JMZ3dKWHdzd3BEOEhyUVBrWmZTMVdmUXd0SExPUURfVjd2ZE8tZkV4QkdZc0tZcWVZaEQ2VjA2cGppeDhxRldBMkZsb3ZZdmt5a0k?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-20T22:34:25+00:00",
+   "seen": "2026-11-20T23:25:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's map is huge yet can be flown across in about four minutes in a plane."
   },
   {
    "id": "despite being the highest rated game of all time gta 6 leaves fans harshly divided",
@@ -12791,6 +12817,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6 breaking records with estimated sales over $2.3 billion."
+  },
+  {
+   "id": "gta 6 sales hit 3 8bn in a single day the biggest entertainment launch in history",
+   "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxcU4zcmpVbmN0dFdhX2VwUXM2aUkzUlRad1ZvWXpsQUlPdXVqdlRjWERIdDU1Z3NEcG5ranhNc3J2MUR5akx1QzJCQ21hbFlwSzF2Q0Nma0ZPT2FEbWc?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-20T02:13:05+00:00",
+   "seen": "2026-11-20T23:25:13+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 sales reached 3.8 billion in a single day, the biggest entertainment launch in history."
   },
   {
    "id": "xbox hardware sales reportedly surge on gta 6 and gears of war e day but for how long",
