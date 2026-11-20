@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:19:16+00:00",
- "started": "2026-11-20T20:19:09+00:00",
+ "updated": "2026-11-20T20:24:28+00:00",
+ "started": "2026-11-20T20:24:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-20T20:19:10+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T20:24:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-20T20:19:10+00:00"
+   "hits": 93,
+   "checked": "2026-11-20T20:24:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T20:19:10+00:00"
+   "checked": "2026-11-20T20:24:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:19:11+00:00"
+   "checked": "2026-11-20T20:24:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:19:11+00:00"
+   "checked": "2026-11-20T20:24:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T20:19:11+00:00"
+   "checked": "2026-11-20T20:24:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T20:19:11+00:00"
+   "checked": "2026-11-20T20:24:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:19:11+00:00"
+   "checked": "2026-11-20T20:24:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T20:19:11+00:00"
+   "checked": "2026-11-20T20:24:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T20:19:12+00:00"
+   "checked": "2026-11-20T20:24:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:19:12+00:00"
+   "checked": "2026-11-20T20:24:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T20:19:12+00:00"
+   "checked": "2026-11-20T20:24:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T20:19:12+00:00"
+   "checked": "2026-11-20T20:24:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T20:19:12+00:00"
+   "checked": "2026-11-20T20:24:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi tops 3 79 billion in revenue on day one after 32 5 million pre orders",
+   "title": "Grand Theft Auto VI Tops $3.79 Billion in Revenue on Day One After 32.5 Million Pre-Orders",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd1MwQXBmSmdPRzRfc0ZqWVIwVmlHaTBJV3pCX0ZhaW14dHd2UklfRHhkOVhMMUgyS3hqNk44SXlmVU5wcnVMbEo0R0tHWlhERGNZcE43OURrMmlwempLUEhVeEZwU3gwTFF2dV9kUW94aGZnbXlmQTZwbnBiUzBuc0dUaWs3aVVJcFZvWWVlYm1GUkpCeEZsN3FQM2lNUUpCeHZrQk0xOU5INHU3N18yMTlKRlo?oc=5",
+   "outlet": "VGChartz",
+   "via": "Google News",
+   "published": "2026-11-20T20:21:50+00:00",
+   "seen": "2026-11-20T20:24:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA VI earning a large revenue on day one and reaching many pre-orders."
+  },
+  {
+   "id": "gta 6 publisher claims the biggest entertainment launch in history",
+   "title": "GTA 6 Publisher Claims the Biggest Entertainment Launch in History",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGdNNnFITGNhT1JxYV9UcjZGTWZ1MlJkRTdpMDJuT1JxNGhrdV93UVdHbWZCVWk0OW8wV21NSW9ZMWlpNTFqLUl1aVBaSXZ6clM3alRHV011VzNhSzg3U3FhMUx2NGZqZXcxN08yNjRDSUxtSXVKM0Y2TzhtTmtLbWJFQmxtdXZpbEpsaUtBc3M4eXpRZ01wZHln?oc=5",
+   "outlet": "GTA BOOM",
+   "via": "Google News",
+   "published": "2026-11-20T20:20:08+00:00",
+   "seen": "2026-11-20T20:24:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The publisher claims GTA VI is the biggest entertainment launch in history."
+  },
   {
    "id": "podcast gta 6 deep ish dive with jeff gerstmann",
    "title": "Podcast: GTA 6 Deep (ish) Dive with Jeff Gerstmann",
@@ -181,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Police warn GTA 6 fans to keep crimes in game."
+  },
+  {
+   "id": "police urge fans to leave gta 6 crimes in the game",
+   "title": "Police urge fans to leave GTA 6 crimes in the game",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xbmJsM2VyUXdnRWVIWU15Qy1NeVl2UVJ5OGlhTHlDdDNDQVNkaFgxVnd0SHNzbVREZW92Rm5QRVkyTEQwMk5sUHhoVF93b0ZKSy1DckpoZXJYdF8zaDRMRnVIR1ROZi1aVHpJY2RFYVhRZFEzVXBLbmRnTW80dw?oc=5",
+   "outlet": "Ticker News",
+   "via": "Google News",
+   "published": "2026-11-20T20:12:56+00:00",
+   "seen": "2026-11-20T20:24:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Authorities urge fans to keep GTA VI crimes within the game."
   },
   {
    "id": "gta 6 made 3 79 billion in a day rockstar says",
@@ -586,6 +625,19 @@
    "ai_summary": "GTA 6 is the biggest entertainment launch of all time with $3.79B on day one."
   },
   {
+   "id": "grand theft auto vi releases today featuring the bellamy brothers no 1 hit let your love flow",
+   "title": "GRAND THEFT AUTO VI RELEASES TODAY FEATURING THE BELLAMY BROTHERS NO. 1 HIT “LET YOUR LOVE FLOW”",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdHJ4U1kxb1R1ajE2NGllNVFkRTZESC1nSTVSdzBiOWQ0cWVwS0I1ZFdkc1Y3aFRzOE5lcjFkRm1DRGc3eEQ0NXdkR2hfS1FOdnN3QnlvUGJHbjVWY0tPVFcxMlZKQkNkLVVHbnlYR2ZKak0xMTJoX1dISllKTzZZeWhQRWNMWElFTC1IaTFBMVhaQ0x5NzdHNGpTcG1fMjlDb1ZHQWpKQkR4eFphNWZLZHZQZVlxenBud3VZZEtR?oc=5",
+   "outlet": "Hollywood Times",
+   "via": "Google News",
+   "published": "2026-11-20T19:51:30+00:00",
+   "seen": "2026-11-20T20:24:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The release day features the Bellamy Brothers hit Let Your Love Flow in GTA VI."
+  },
+  {
    "id": "grand theft auto vi sets record with 3 79 billion in 1st day sales",
    "title": "Grand Theft Auto VI sets record with $3.79 billion in 1st-day sales",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMS13TDQwRWs1TUdkNXRlZXZCMk9xTTRkelh0WmRkd3poc3NLRy1qV0NUcHdraEg5QnBIbDNzRVhJSzhGVDdIR0VtREN3YWtSVHJ4Mk1ENEs5YTdUM0g1VlJ1aUpWaE5vVFFGbldzcFBvVlExSlRGTzRpOTVLTEJsMnoyYm9GQ3dXd1NuNDRsMTRTaFlyRDUtTnNDVlI2b002V2FTWHVIWUpId9IBrwFBVV95cUxNVUJvd1N6bWxpNW5lMlpwakV1QkJWenpIbm5ZMFhxZDFlMlRKNkk0eWxDOElpSUI2R3NsXzRkX3dCUURfcHd2ZmMzaWYyMHV2WHpPc2phTGpoSUlzOHdYbWVTYWk4N0tpb2hodkY3aDVyQ2E2RkJ4bTdvY0Y4RzJOVS1Bb0hKMjFobzA3dDcxazI0VzQ0ek1Ca1F3b0VXdEJETDMzWnAzcWpiY3B2bEpJ?oc=5",
@@ -675,6 +727,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 HDR settings: game ignores PS5 setup, recommendation to max brightness on certain TVs."
+  },
+  {
+   "id": "gta vi breaks records with 32 5 million copies sold 4 billion on release day",
+   "title": "GTA VI Breaks Records With 32.5 Million Copies Sold, $4 Billion On Release Day",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWlTS0c1VG9TcVpLdUR3OGxzamwxS1NkUUFBNlFMcExweEpPMnM0WWoxaHlEWHI1aU1kZDhUVzh5RUd2aXU1QTZQUlR2WFdOQUpQeEdLdUxuQ1JJN2tIcXc5bTNRQzEyODZ1RHR6Z3FmMW5OajVxZzVjU1ZETmlSOVk2UmFRd0w1TkgwNWE3S0t4R19xamQ3NDlQQndvOGZXYzZIV2tn?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-20T19:45:38+00:00",
+   "seen": "2026-11-20T20:24:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI breaks records with a large number of copies sold and high revenue on release day."
   },
   {
    "id": "the real miami museums and artists behind gta vi s vice city",
