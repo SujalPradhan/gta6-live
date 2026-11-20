@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:35:34+00:00",
- "started": "2026-11-20T09:35:29+00:00",
+ "updated": "2026-11-20T09:40:26+00:00",
+ "started": "2026-11-20T09:40:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T09:35:29+00:00"
+   "checked": "2026-11-20T09:40:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 91,
-   "checked": "2026-11-20T09:35:30+00:00"
+   "checked": "2026-11-20T09:40:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T09:35:30+00:00"
+   "checked": "2026-11-20T09:40:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T09:35:31+00:00"
+   "checked": "2026-11-20T09:40:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "manchester united star in trouble with pochettino over his gta 6 addiction",
+   "title": "Manchester United star in trouble with Pochettino over his GTA 6 'addiction'",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd09aZzhWd29Ub2ZicnI3ejBYSWVlVVh0MGFfVUhqN214U3VxX29PWHpGaWlRcmxXOGhaODcwd0VFYnZoQmI1T0MtSl93SEVibHI5eUZoRDQ5S1h3R1ZDQmxSWE1ZUjVHQ2dkdDlSdy13RFRqaXdSWXFhT3loMzNjT1R5UFZPWVdTS3dqaE4zQm9GNEloVjdvRWE1YjB4S0pabnk2UE9sUkFLVE5DR0NnSndUanptanp3dE02c1dZQzgtSlRvaXg5YVV5MWpOUdIBzgFBVV95cUxPZ2NrRGlWOXhVM05RSUtBbGtQcTFKUjlNN3BpRHg4Sy1ReUY0SGZSalBOa3d6akk5SDlNUEdfR0dKRFhVWjlkNERqUnY4MzlRbURZMFJPQW9UTzJsUl9uZnZKMm9Zc2xjdmtVNU1uZ2Fyb2lwaEpWcVVuQmt3WlpnRXdDdGhJQVdTYUo3YzlaX3NyMTlkMkYzbnEzdmViaVNtYUE1SWljODR3RkFPUDZyNmxkb3c5ZmNNZWNfQjVBT2o0aEpBN3NncFJORmJTdw?oc=5",
+   "outlet": "MARCA",
+   "via": "Google News",
+   "published": "2026-11-20T09:35:01+00:00",
+   "seen": "2026-11-20T09:40:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Manchester United star is in trouble with Pochettino over his GTA 6 addiction."
+  },
   {
    "id": "every confirmed gta 6 radio station so far with hosts and preview tracks",
    "title": "Every confirmed GTA 6 radio station so far, with hosts and preview tracks",
@@ -272,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports developers are worried about possible layoffs after the game ships."
+  },
+  {
+   "id": "gta 6 launch sales estimate points to the biggest entertainment debut ever",
+   "title": "GTA 6 Launch Sales Estimate Points to the Biggest Entertainment Debut Ever",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTkw0YXM4blM4VTRNeXNwQ1B3Q0pQRXlqY0ItT0FGS1FjcHdsT1IxTldDamt0N2dfSkVCdXlKaGQ5Zm9ZeFN0bkU0LXBDQkJMemRPUTJYUTM0SndvQlVGZGFITzZKTDN4OHJ5cFJJUkxGRW9TRzBvQVhGY0pqcEREWGl5dWJWSkljRkxORERZUEgzTEwxUm5CczA0aVpackRqSURkRTRTRThCZmg3VkxXZlg2TEdKb00w?oc=5",
+   "outlet": "Around Prague",
+   "via": "Google News",
+   "published": "2026-11-20T08:53:29+00:00",
+   "seen": "2026-11-20T09:40:23+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 launch sales estimate points to the biggest entertainment debut ever."
   },
   {
    "id": "with gta vi here thanksgiving doesn t stand a chance",
