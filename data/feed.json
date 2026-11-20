@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:03:21+00:00",
- "started": "2026-11-20T03:03:15+00:00",
+ "updated": "2026-11-20T03:08:22+00:00",
+ "started": "2026-11-20T03:08:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:03:15+00:00"
+   "checked": "2026-11-20T03:08:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:03:16+00:00"
+   "checked": "2026-11-20T03:08:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:03:16+00:00"
+   "checked": "2026-11-20T03:08:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T03:03:17+00:00"
+   "checked": "2026-11-20T03:08:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T03:03:17+00:00"
+   "checked": "2026-11-20T03:08:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T03:03:17+00:00"
+   "checked": "2026-11-20T03:08:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T03:03:17+00:00"
+   "checked": "2026-11-20T03:08:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T03:03:17+00:00"
+   "checked": "2026-11-20T03:08:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T03:03:17+00:00"
+   "checked": "2026-11-20T03:08:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T03:03:18+00:00"
+   "checked": "2026-11-20T03:08:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T03:03:18+00:00"
+   "checked": "2026-11-20T03:08:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T03:03:18+00:00"
+   "checked": "2026-11-20T03:08:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T03:03:18+00:00"
+   "checked": "2026-11-20T03:08:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T03:03:18+00:00"
+   "checked": "2026-11-20T03:08:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks records with estimated 2 36 billion in sales",
+   "title": "GTA 6 breaks records with estimated $2.36 billion in sales",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUxlOFQzblpYLW9OM2R0TU1iaXZmZmVHWl93ZmJzSllGNUdSZEVyTW4wbFNZRFNveW9wS1FLcHJkNmpkUzFkQ1g1VHFBNWVNa0sxOUtvalFmTzczMWxDN2dralJ1Q3VfOHY0NWJmaDBxWWpGRWJQMlFZUG5hNHZhNUQ0aw?oc=5",
+   "outlet": "Latest news from Azerbaijan",
+   "via": "Google News",
+   "published": "2026-11-20T03:05:52+00:00",
+   "seen": "2026-11-20T03:08:17+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 breaks records with estimated sales reaching $2.36 billion."
+  },
+  {
+   "id": "game streaming can bring grand theft auto vi to your iphone ipad or apple vision pro",
+   "title": "Game streaming can bring 'Grand Theft Auto VI' to your iPhone, iPad, or Apple Vision Pro",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXRsd2xjcmEzS3FvRml5TThETTVSTUcwTUNfc05XeTRQZ3g2cld0VGNZbV9QYWhsbFkzNW5yX0RYLXZvaVViMndKVXVvWXlCd1J4UDVzUHRXbmhYUmtDY256ajBfVC1EeVlkUC1ObFFMUll4LTdReEp5N0xCUkR6WV8wTEl1TnRVc0E2QjlMMXBkR3l5Zk9lamF1djU4b2ZXa1ZzOVFNNVpxZDRMRHRwS3dqNXJNVFRZdExjZDdGb0l5NGdER3c?oc=5",
+   "outlet": "AppleInsider",
+   "via": "Google News",
+   "published": "2026-11-20T03:02:49+00:00",
+   "seen": "2026-11-20T03:08:17+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports that game streaming can bring Grand Theft Auto VI to an iPhone, iPad, or Apple Vision Pro."
+  },
+  {
+   "id": "cyberleek gta 6 xbox build 209 gb no executable",
+   "title": "Cyberleek GTA 6 Xbox Build: 209 GB, No Executable",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjc1MWVCd1AtNlA0SElYOGl5dm9VSUVQWnM3M1I5TDVBNFVTVDViOTAwSHhxVVpXSFh3aXJnYUx2cGpFWnh4LXk2ZTRJWnJOUVFSeTk3aXhITlNjT0xSbjVpazlKakNfTnN6T0dReXhZRkI1QXRfSGVLdy1oWlVfOUxGSQ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-20T03:01:42+00:00",
+   "seen": "2026-11-20T03:08:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports about a GTA 6 Xbox build that is 209 GB with no executable."
+  },
   {
    "id": "gta 6 has a surprising late game cameo that knocked me on my ass",
    "title": "GTA 6 Has A Surprising Late Game Cameo That Knocked Me On My Ass",
