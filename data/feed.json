@@ -1,109 +1,161 @@
 {
- "updated": "2026-11-20T14:57:39+00:00",
- "started": "2026-11-20T14:57:16+00:00",
+ "updated": "2026-11-20T15:02:29+00:00",
+ "started": "2026-11-20T15:02:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-20T14:57:24+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-20T15:02:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-20T14:57:32+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 95,
+   "checked": "2026-11-20T15:02:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-20T14:57:38+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-20T15:02:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T14:57:38+00:00"
+   "checked": "2026-11-20T15:02:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T14:57:38+00:00"
+   "checked": "2026-11-20T15:02:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T14:57:38+00:00"
+   "checked": "2026-11-20T15:02:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T14:57:38+00:00"
+   "checked": "2026-11-20T15:02:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T14:57:38+00:00"
+   "checked": "2026-11-20T15:02:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T14:57:38+00:00"
+   "checked": "2026-11-20T15:02:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T14:57:38+00:00"
+   "checked": "2026-11-20T15:02:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:57:39+00:00"
+   "checked": "2026-11-20T15:02:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T14:57:39+00:00"
+   "checked": "2026-11-20T15:02:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T14:57:39+00:00"
+   "checked": "2026-11-20T15:02:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T14:57:39+00:00"
+   "checked": "2026-11-20T15:02:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 map guide leonida s best locations to explore once you unlock free roam",
+   "title": "GTA 6 map guide: Leonida's best locations to explore once you unlock free-roam",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHVGY05YYmcxY3BGaDFVb3UtY253dnlFSVNSYkI0TWRmZ3NSTHRDRXIwaDVmVTFkX2lVS3V0VVRsbW9sa1JBZEZkbzVjYW1wWGhwQml0QjJ0YlpqamNrdlJITWlvaHcwczZVVnJUdHdaZDc0RUZkNXBRYmNRcmVRVQ?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-20T15:00:00+00:00",
+   "seen": "2026-11-20T15:02:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 map guide highlights best locations to explore once you unlock free-roam."
+  },
+  {
+   "id": "from dua lipa to keith richards inside the star studded grand theft auto vi soundtrack",
+   "title": "From Dua Lipa To Keith Richards: Inside The Star-Studded ‘Grand Theft Auto VI’ Soundtrack",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1Rib1NEVEp3OTdQRm1UTTVkSk42RVlFVkdzS09WZF9WZ0xrU1NTdGVjaC14S1R5TDZZMzZ0bTAtQ3VIV00wZ3NpSnNNN1I3Vkd1aDZZZ0JYLXZELUFkTW5WY3ZQZnhXTS1UR292Tmh1NjdaaTFLd2lmWFdkMTRobGJjWU8zelBMdERzeWRwR3ZBUDNwOWxzNFZlV3MxN2RUMjc2QXBWOWZJV29YLVJLWjh4WEhIdHNod3VXaHZ1bVRDanJQTHR5YmRpOUU2VXBhU2hzUQ?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-20T14:56:53+00:00",
+   "seen": "2026-11-20T15:02:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers a star-studded Grand Theft Auto VI soundtrack featuring prominent artists."
+  },
+  {
+   "id": "gta 6 is finally here and lives up to the hype first reactions and discoveries adv",
+   "title": "GTA 6 Is Finally Here and Lives Up to the Hype: First Reactions and Discoveries - ADV",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOHZXNEo1MWVTYno1RVBucmtkYVdCcmRJUUxUcVlWZk1SZFRDT0pVRVZKWkNsVWZ6WGl4dGtHLVFGMk9KWnBfZXo2LS1VM016THFneEQyWGNLNVlGdkxKZlR2M0xDel94NnNPRWNsYmU4TG5zcGRaUnl3NlBYbFNUX0R1VnUwdFdUUnFaYVIyclB3N2ZJZ3BFTVRUeTlwd1JuMGp5X2dBNTV0UVBtdDl2ZndvVjByQWN3YWlUbjRoMXM3dXFqVFVaVWVibEY?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-20T14:51:43+00:00",
+   "seen": "2026-11-20T15:02:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is released and meets high expectations with early reactions and discoveries."
+  },
+  {
+   "id": "gta 6 s new heat system makes cops actually remember what you look like",
+   "title": "GTA 6's New 'Heat' System Makes Cops Actually Remember What You Look Like",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wcEZzY01mRWZtWllSXzlyYXgySktVQlZic095YWRLSFNHd0lFNHJRNEFMQ2l4bUVQejB3eHBnZFZHUTFGWmZicGhsWjA2QzlFek8zQWlhRF9yc0tzcFZxekxfNGdqdGZXamcxdGJSeEt3eTY2MVJZR3ZhRQ?oc=5",
+   "outlet": "BGR",
+   "via": "Google News",
+   "published": "2026-11-20T14:47:00+00:00",
+   "seen": "2026-11-20T15:02:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 introduces a new heat system where cops remember players' appearance."
+  },
   {
    "id": "fcukers share only one from grand theft auto vi",
    "title": "Fcukers share ‘Only One’ from Grand Theft Auto VI",
@@ -1067,6 +1119,19 @@
    "ai_summary": "The story reports how to get a jet in GTA 6 and describes the best jet method and location."
   },
   {
+   "id": "ubisoft stock drops 11 as gta vi competition dims its holiday forecast",
+   "title": "Ubisoft stock drops 11% as GTA VI competition dims its holiday forecast",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CMHVxV1hMR3M5aGMwVF9oNVdUZFVuLUdKdm9CWnVTZUFnN1lGMUZPVEdkc3ltQ0dxb2NYUThMdkpSdXBRLTYyS0ZvaHhyOUNsNFlkc0Y2dzlJRE1YNXFMY0x1UkVhVDh0X1FB?oc=5",
+   "outlet": "Quartz",
+   "via": "Google News",
+   "published": "2026-11-20T13:24:44+00:00",
+   "seen": "2026-11-20T15:02:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Ubisoft stock drops as GTA VI competition dulls its holiday outlook."
+  },
+  {
    "id": "playboi carti young thug more appear on grand theft auto vi the album wgci fm",
    "title": "Playboi Carti, Young Thug & More Appear On 'Grand Theft Auto VI: The Album' - WGCI-FM",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2lESXFaMzg4Q1dZTzF3cWtGQ3Y2Q3hCTlZ2V3I5Q2ZQOWNwYl9jWTRnajJ6MjZhVFpvajlETkFIYm9DNjhmZi1CZGZFX0JTcXFKdktVSUx4REFtQzZTMmdpeHJLeDZ6V1ZTQjVpSGxNRmtfdk1pd0E0R1g4MXp5YmtJN1JOOUxyWERoWDVkQ0V5anhDc0ZfQk9CNEF6ZVZjbkZpX2hWX3BlbUg5SUt3cw?oc=5",
@@ -1091,6 +1156,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Story states Playboi Carti, Young Thug, and others appear on Grand Theft Auto VI: The Album."
+  },
+  {
+   "id": "playboi carti young thug more appear on grand theft auto vi the album new york s power 105 1 fm",
+   "title": "Playboi Carti, Young Thug & More Appear On 'Grand Theft Auto VI: The Album' | New York's Power 105.1 FM",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjdyRVF2TGc5VUpWd0I1MHFUQzdnR0ZTV19WM0YyLVkxckQzUnB6d3lTSHZ6R3pGWjRYLVF1NS1PZWdoclZnUnlTeWVYZDZXVzJyUGl2T1JpbXJRSXJUV0RuMGpuYlM2WUFBVXg0UHVTU0Eta0J2XzRxcUEwZVoxNEc3UC1mSDhGNDdkUkYtMzdiQTZhem16ZDBDZmI3bEdIekQ0S2JVcE90MVdCeE5kc3hpVUtYeGs?oc=5",
+   "outlet": "New York's Power 105.1 FM",
+   "via": "Google News",
+   "published": "2026-11-20T13:23:00+00:00",
+   "seen": "2026-11-20T15:02:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Playboi Carti, Young Thug and more appear on Grand Theft Auto VI: The Album on Power 105.1 FM."
   },
   {
    "id": "grand theft auto vi keith richards and lindsey buckingham appear as in game radio djs",
@@ -1325,6 +1403,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6 drives a spike in download demand with estimated sales over $2.3 billion."
+  },
+  {
+   "id": "gta 6 reviews what the 99 metascore tells you",
+   "title": "GTA 6 reviews: What the 99 Metascore tells you",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MbFpiczVfbkRTLWRyZTV0NkdNQ0xTMEhuaHEybHlaUXN2TzJrWE9qNC1HNWJsbmQtdTYzS0ttc01QZldkRFQxOFVFMWxPRHdXMW5fSTRLSHZydERlaTR3cDJqb2NPb25iX0dQaXRzdEVLZ3gtc1V2NW5BMA?oc=5",
+   "outlet": "NeoTeo",
+   "via": "Google News",
+   "published": "2026-11-20T13:08:12+00:00",
+   "seen": "2026-11-20T15:02:23+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 reviews and what the Metascore indicates."
   },
   {
    "id": "gta 6 convinced me i m ok with 30 fps gaming",
@@ -1819,6 +1910,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to fix GTA 6 being too dark on PS5."
+  },
+  {
+   "id": "grand theft auto vi on track to shatter records as game launches to rave reviews",
+   "title": "\"Grand Theft Auto VI\" on track to shatter records as game launches to rave reviews",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNczkzeVZTcHpfWkQ2a3NqUjltS3VKQk1LMzB2a2pvb2NzNkpRdGtjWk1yWnU4dGRlNzZ5QURoN3psV3FTRm5aY1dZcGp1MDBrN2ljcTJMX0s2TEtZZ3N2bmxqSEtUcDNkb1drWHh4OWNhNGh5M3F0bnpRd2xTUnJYVWFGRHd0T0J0UFNWUWNoLVotUDZCLTdwaTFjZ3RYWHROUjM3dFlrRGxpTE9LbFl3QQ?oc=5",
+   "outlet": "CBS News",
+   "via": "Google News",
+   "published": "2026-11-20T12:30:00+00:00",
+   "seen": "2026-11-20T15:02:22+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI is on track to shatter records as the game launches to rave reviews."
   },
   {
    "id": "former take two ceo says gta 6 is the last pre ai blockbuster video game of its kind",
