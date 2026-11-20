@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T14:47:17+00:00",
- "started": "2026-11-20T14:47:10+00:00",
+ "updated": "2026-11-20T14:52:18+00:00",
+ "started": "2026-11-20T14:52:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T14:47:10+00:00"
+   "checked": "2026-11-20T14:52:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T14:47:11+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T14:52:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T14:47:11+00:00"
+   "checked": "2026-11-20T14:52:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T14:47:11+00:00"
+   "checked": "2026-11-20T14:52:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T14:47:12+00:00"
+   "checked": "2026-11-20T14:52:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T14:47:12+00:00"
+   "checked": "2026-11-20T14:52:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T14:47:12+00:00"
+   "checked": "2026-11-20T14:52:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T14:47:13+00:00"
+   "checked": "2026-11-20T14:52:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-20T14:47:13+00:00"
+   "checked": "2026-11-20T14:52:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T14:47:13+00:00"
+   "checked": "2026-11-20T14:52:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T14:47:13+00:00"
+   "checked": "2026-11-20T14:52:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T14:47:14+00:00"
+   "checked": "2026-11-20T14:52:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T14:47:14+00:00"
+   "checked": "2026-11-20T14:52:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T14:47:14+00:00"
+   "checked": "2026-11-20T14:52:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "fcukers share only one from grand theft auto vi",
+   "title": "Fcukers share ‘Only One’ from Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRFdZMVdPaWpMVHhwbDg4elRVMV9fZHNnQ082QUJqdXdkYURfd1JDQUwyd3JWWUZaeDVBc0RNVFc0ZzNxdlZYY0NycGRsRDdPMUIzZ2lUcE03ajVvWWQ1TjBiVFZoQ29VQkhjekdqUXBDdFRuQU1OWnhBNDZEMWdnMThkTQ?oc=5",
+   "outlet": "The Music Universe",
+   "via": "Google News",
+   "published": "2026-11-20T14:46:24+00:00",
+   "seen": "2026-11-20T14:52:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Music Universe reports Fcukers share ‘Only One’ from Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 has an easy to miss reference to trailer 1 that proves bikini girl was never lucia",
+   "title": "GTA 6 Has an Easy to Miss Reference to Trailer 1 That Proves Bikini Girl Was Never Lucia",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqbVJja0NaSW5FOE5lV2NlSlNNc1dnOVp1YVZVRnpiQ01qanBuaDNJeDVxSlp3Vmx3dUVfeFVTTm0ybzNONUNkQVRRc2JUV3hkeDRiY2RFY1dFTFVFaFU2SmZINmZrdV9HT25IbEwzZlFRX2s?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-20T14:44:55+00:00",
+   "seen": "2026-11-20T14:52:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "IGN notes GTA 6 has an easy to miss reference to Trailer 1 that proves Bikini Girl was never Lucia."
+  },
+  {
+   "id": "gta 6 release sets new internet traffic record",
+   "title": "GTA 6 release sets new internet traffic record",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWpJQ0c4ZE1PSDdyWjFJUi1tYTQwQlVjRXI2d0ZyaTViTURGVjRIY2ppOVJfSFpLWlAyd1ZCaVNVQTc5ZFhaM0hPeDhNUmMzTEhpQjdhOFk4ODBDeTJfZC1QNEEyN2RQTUtCZHFlX2I0VzkxQXJCbmNud3o0QV8zenA3ZUFEelhDc3BlQUFFM1RhZlo2?oc=5",
+   "outlet": "Daily Pakistan",
+   "via": "Google News",
+   "published": "2026-11-20T14:44:19+00:00",
+   "seen": "2026-11-20T14:52:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Daily Pakistan reports GTA 6 release setting a new internet traffic record."
+  },
+  {
+   "id": "cyberleek gta 6 leak 1 file held back until nov 23",
+   "title": "Cyberleek GTA 6 Leak: 1 File Held Back Until Nov. 23",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUgwZFI4ZjRQOG1tNHJNRlVMM0F4elNONjVIZGEwNmtCQWEzdE9JbTBhdEVjeUF6WHJFTGItaF9rVzVvU3V0Q3FTQkpYdV8xcGZmSEZtTWJhX01yaV95VDA0Y0xxSzRHOWZhZFREQ3E2eXVSMW5TbFUwa1RiaWFpMnlEUHU?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-20T14:42:36+00:00",
+   "seen": "2026-11-20T14:52:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "shattered.io reports a GTA 6 leak with one file held back until Nov. 23."
+  },
   {
    "id": "3 locations in gta 6 you can actually visit in real life not just the game",
    "title": "3 Locations in GTA 6 You Can Actually Visit in Real Life, Not Just the Game",
@@ -168,6 +220,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story notes that GTA VI is the biggest-ever entertainment release and the biggest headline."
+  },
+  {
+   "id": "gta vi when the biggest ever entertainment release becomes the biggest headline scoop",
+   "title": "'GTA VI': When the biggest-ever entertainment release becomes the biggest headline - Scoop",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOS1TTm5oVmFRSlVRcGltczlvX2hEMXN3ZU1lclUxVTRnS1YtWW54T1o1UWZLUG9aX1cxaG1ReHp1YktYNEJFV1pod2ZwSUlSUFZRWkFYcC1Zcmh5bTRRNVVoT1QyeUxSVWdlN1Q0MkZ4cWp6SFFZZGtIdlFBRkhRUTlZSDdySVRmMHNZUmxEQXQ2QUhLRUo0ZXgzOFhBaFp1X2d3NXo5UkpYMk1uZGtGcDNRWDVCWV9HTHZ3alc0NjFIcER2VWR4MUcxSQ?oc=5",
+   "outlet": "France 24",
+   "via": "Google News",
+   "published": "2026-11-20T14:35:29+00:00",
+   "seen": "2026-11-20T14:52:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "France 24 discusses GTA VI as a major entertainment release becoming a major headline."
   },
   {
    "id": "gta 6 radio station has a previously unreleased metal song",
@@ -259,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Greensboro police respond to GTA 6 buzz with a tongue-in-cheek business plan invite."
+  },
+  {
+   "id": "durban s dj lag celebrates place on gta vi soundtrack",
+   "title": "Durban's DJ Lag celebrates place on GTA VI soundtrack",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPckYtVC1DbzVqbUVaZlUydWZSTlNKV1ZoZVY4UGhQRlpRNVVGMEVwbTM5TElpZktySWdxNmRXcElsOGNRak5qRUt4eUJlZUNKM1Q4SHhwY0FYR1BGa3k2Wk93eVZLZjhkTVR2NHpFREV5UUUxejRmclhXLVFMZDlkMzRpcG1vS3VkVzFUb013UGFrdDZ1T3FITUh0YXdjQQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-20T14:27:39+00:00",
+   "seen": "2026-11-20T14:52:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Yahoo notes Durban's DJ Lag celebrates a place on the GTA VI soundtrack."
   },
   {
    "id": "when is gta 6 coming to pc online release date explained",
@@ -443,6 +521,19 @@
    "ai_summary": "The story reports Sensor Tower estimates GTA 6 generated two point three six billion dollars in pre-order and launch-day sales."
   },
   {
+   "id": "every song on the grand theft auto 6 radio playlist and soundtrack",
+   "title": "Every song on the ‘Grand Theft Auto 6’ radio playlist and soundtrack",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON01rOE1wa09Pa251Tk5HUzBkN2VFN1ozV3oybGxsNW53WUZKTDN5cFZ1cDU0ekprTnR3ZzBCd2ZNX2lESlEzam1YTEFBejRqOW5hMms4YnZxSDVHTHlYbF8td0hhV3BhUmR4TDdhcUZUUk1RQ3BGcEVtUHlKWHhOdjZMV3JfMi1qZWlZa216YnVWZUg2NjhmM0xFX0VPNlM0RC1wVHNSN19vdVpuRHNYX2JsQQ?oc=5",
+   "outlet": "NME",
+   "via": "Google News",
+   "published": "2026-11-20T14:07:18+00:00",
+   "seen": "2026-11-20T14:52:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "NME lists every song on the Grand Theft Auto 6 radio playlist and soundtrack."
+  },
+  {
    "id": "gta 6 was made by humans but its publisher is all for using ai on admin",
    "title": "GTA 6 was made by humans, but its publisher is all for using AI on admin",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2JTQi1pMW1qUVE3bzlINkZyTkxic1NQMUhpQmFrOFRHbWRqUnlqeFRXaVZENUdsLTQzVFlPRHZiQVVhNm9ZN08xYkhsY2hybG1SYnBkdnVZNFY5MzRseUNPM3RDaUVsZmdsUkJVZTQ2VHBOZHhnT01zYVZ3NGp0VkkxUU1aUkhPS3lQYXNyQ1FteTMzS25sdmFR?oc=5",
@@ -532,6 +623,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports the Cyberpunk 2077 boss praising GTA 6 as a masterpiece and noting it as unbelievably hard to achieve."
+  },
+  {
+   "id": "gta 6 first 24 hours best player discoveries viral details and hidden features found so far",
+   "title": "GTA 6 first 24 hours: Best player discoveries, viral details, and hidden features found so far",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGU0c1FkUEFrYmcwd2ZjblNoU3gxNEFBMlJOYk1Kdnh2REFVT09ob2IzTzVRMGJqVWZobWZGbVhSRVBMdnNJRE4xLUxvUDlVWVFCS2FiSU9LVlBzS2FsUUZHeWRNd2k1b0txWHBJLVREaW9RV2kweUFzRmp3N3lNTDg1YTJISUJTUmZEQXJoX3hnejRHcGx6VG9DU3ZhWktMRTc0S3NrQU9lYTJvN1IxMGNmNDNRTDhXQ0ZCQk9oOHBBNDJYZDdSQUVid0pxTkxtdEhN0gHnAUFVX3lxTFBvRlFEaWR6WkdmTVA1SloxTzN6eFZwdmN1ME4tZDZHcG8wNHFQMm43Rldzejh3U0I2UFhLSFhlMWI0TXhNUTVBZko4NGVMZDh0VW1GQy00ZmYxR0RRLVc2d1gzcHRNS2lMVDVpbWZBSktfa1RkQi1QTDEyOVhCRWR1QzNvLW9uSlFkUXNIQXdRWUN5TWUtQ2dBeTg3clJQMFk1N012VGdQS3lCajF3UnpEeUpWbGFfam15NEtTVy1ZT2pRUm44V21yUU5iYy1zVlFmUmluMlVyRElyOW5TRTViYzZXYlNZSQ?oc=5",
+   "outlet": "Diario AS",
+   "via": "Google News",
+   "published": "2026-11-20T14:00:00+00:00",
+   "seen": "2026-11-20T14:52:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Diario AS highlights GTA 6 first 24 hours with top discoveries and features found so far."
   },
   {
    "id": "gta 6 is estimated to be history s biggest entertainment launch",
@@ -727,6 +831,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A first-person glitch lets players experience GTA 6 through Jason and Lucia's perspectives."
+  },
+  {
+   "id": "gta 6 just made gaming history with a staggering 1 8 billion launch",
+   "title": "GTA 6 just made gaming history with a staggering £1.8 billion launch!",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnVuWnhlVWRqa3Vzc2syRDZwcXBpYU9BQkJ2UThWLUE3TW1lUEtPaTR6LVE1cWRKTnFzeXoxUmtzVFlKZURWcHdhS3gyTV94dlFZaEhhRzRBcm5oeTZidzdBTWZqaXU0VU5WYXUwRnotSjF5Ml9wdGNVdFA4RS1tMkJ3UXZWdw?oc=5",
+   "outlet": "EasternEye",
+   "via": "Google News",
+   "published": "2026-11-20T13:43:31+00:00",
+   "seen": "2026-11-20T14:52:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "EasternEye reports GTA 6 made gaming history with a £1.8 billion launch."
   },
   {
    "id": "gta 6 does autosave but there s something players should know before quitting",
@@ -1247,6 +1364,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article title highlights massive numbers for Grand Theft Auto VI, with no snippet provided."
+  },
+  {
+   "id": "dua lipa lana del rey and zara larsson release new music on gta 6 album",
+   "title": "Dua Lipa, Lana Del Rey and Zara Larsson release new music on GTA 6 album",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUU1SSzd6OW04WjJEYll5V0RhUGhiMGk0c2tjc3RxOGhpNXItNUZmTkwxNk12MXItSC1nS3A3Q2ZLSVNOZ2I2SmlZU0EwTTBQN3hYYV9INGkybEVrT2E0c1ViSG5pT2lmYUtDcGl3MTF4UlhPS0pvRDFvTVZwWXVETVc2V3NDd3JCbGNrazNaM0tScld2emZ4cg?oc=5",
+   "outlet": "attitude.co.uk",
+   "via": "Google News",
+   "published": "2026-11-20T13:04:57+00:00",
+   "seen": "2026-11-20T14:52:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "attitude.co.uk notes Dua Lipa, Lana Del Rey and Zara Larsson release new music on the GTA 6 album."
   },
   {
    "id": "was gta 6 worth the wait joanne young s courage ukraine strikes crimea bridge myanmar genocide",
