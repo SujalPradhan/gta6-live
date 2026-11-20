@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T11:46:10+00:00",
- "started": "2026-11-20T11:46:02+00:00",
+ "updated": "2026-11-20T11:51:09+00:00",
+ "started": "2026-11-20T11:51:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T11:46:03+00:00"
+   "checked": "2026-11-20T11:51:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T11:46:03+00:00"
+   "hits": 90,
+   "checked": "2026-11-20T11:51:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T11:46:04+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-20T11:51:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T11:46:04+00:00"
+   "checked": "2026-11-20T11:51:04+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:46:04+00:00"
+   "checked": "2026-11-20T11:51:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-20T11:46:04+00:00"
+   "checked": "2026-11-20T11:51:05+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 20,
-   "checked": "2026-11-20T11:46:05+00:00"
+   "hits": 22,
+   "checked": "2026-11-20T11:51:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:46:05+00:00"
+   "checked": "2026-11-20T11:51:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T11:46:05+00:00"
+   "checked": "2026-11-20T11:51:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:46:05+00:00"
+   "checked": "2026-11-20T11:51:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:46:06+00:00"
+   "checked": "2026-11-20T11:51:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T11:46:06+00:00"
+   "checked": "2026-11-20T11:51:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:46:06+00:00"
+   "checked": "2026-11-20T11:51:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T11:46:06+00:00"
+   "checked": "2026-11-20T11:51:07+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi is out is the franchise still stealing the attention of uk gamers",
+   "title": "Grand Theft Auto VI is out. Is the franchise still stealing the attention of UK gamers?",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUk4V0p5bmNCWldxTVdDekZwdmJZWEdrdnhrckR3cjhkVElhcWtzVnlIUXpxVVYxMkFBamtEWktqYVNLUTRCTGN2X0dXTnlFeFV0Z0R4ZGVxR1NIbDFISkxhYUJYc2ZYZndNblFSbVVTZVF5bU5KbjdCNHplbXJrem1iSmh6SmdTVG95eW8wb3psbGxRREtqRjQ1U0R0czZGYmJUV0lTWW4tZTY1a0w0TnQ3bFhORzViR091anNyb1l4ZjQ?oc=5",
+   "outlet": "YouGov",
+   "via": "Google News",
+   "published": "2026-11-20T11:48:26+00:00",
+   "seen": "2026-11-20T11:51:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether the Grand Theft Auto VI franchise still captures UK gamers' attention."
+  },
+  {
+   "id": "how to complete the exotic animals front illegal operation in gta 6",
+   "title": "How to complete the Exotic Animals Front illegal operation in GTA 6",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/exotic-animals-front-illegal-operation-gta-6/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T11:47:00+00:00",
+   "seen": "2026-11-20T11:51:05+00:00",
+   "summary": "Get some quick cash by following the strange noises coming from the back of the Three Sheets Liquor Store.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece explains how to complete the Exotic Animals Front illegal operation in GTA 6."
+  },
+  {
+   "id": "release of grand theft auto vi sends delivery orders soaring up 30 in miami",
+   "title": "Release of Grand Theft Auto VI Sends Delivery Orders Soaring: Up 30% in Miami",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSk9fbjAwc0hsckVtbTNhMjB4SURvTS1PeTZmVDdTVlZoOU9PZUlOYnJ1RXR5TFdQV2VxSVhUTFV0N3hheTdvYld3TTlpRVNSOEZVWUxxZE9zUDZ4My1DLV9hQXJyYXYyejY2V1N1V241VFhWbWxNMFRYd01tejhid2JubnZwVnpZVVlQaXZBQnQ0WmI0TEdsTWlxSmxlemhvellreFZZQTVUaGZUNUhYM2dKbGFYY1A5am1QS01vUzduY3NIakdhdnRiaDM?oc=5",
+   "outlet": "La Voce di New York",
+   "via": "Google News",
+   "published": "2026-11-20T11:46:23+00:00",
+   "seen": "2026-11-20T11:51:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The release of Grand Theft Auto VI reportedly increases delivery orders in Miami by 30 percent."
+  },
+  {
+   "id": "gta 6 sales are almost at 25 million as rockstar earns 2 36 billion in revenue analysts estimate",
+   "title": "GTA 6 sales are almost at 25 million as Rockstar earns $2.36 billion in revenue, analysts estimate",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-are-almost-at-25-million-as-rockstar-earns-usd2-36-billion-in-revenue-analysts-estimate/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T11:43:21+00:00",
+   "seen": "2026-11-20T11:51:05+00:00",
+   "summary": "Most of them are on PS5, too",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sales approach twenty five million as Rockstar earns estimated revenue, with most sales on PS5."
+  },
   {
    "id": "gta 6 day one sales are enormous estimates suggest making previous 2 billion opening weekend predictions seem conservative",
    "title": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
@@ -142,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI is compared across platforms once more."
+  },
+  {
+   "id": "every future driving game needs to steal this gta 6 feature",
+   "title": "Every Future Driving Game Needs to Steal This GTA 6 Feature",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ndFJTSW1HV0g0eGtYY2VXSmdQMHRFdUJtRi1EM3BsOGJGQ3B6cWxieTROTGpHSFYxUmRndXhjdjZPSVgwQzVFblhURUdBRTJjODBtek9UUnFQZjhsc0pFeHNjYXBtN0hzMXNYXzd3?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-20T11:34:01+00:00",
+   "seen": "2026-11-20T11:51:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article argues that every future driving game should adopt a feature from GTA 6."
   },
   {
    "id": "clair obscur expedition 33 writer hopes gta 6 devs are successful in unionizing",
@@ -987,6 +1052,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "A daily question asks readers if they know someone playing GTA VI."
+  },
+  {
+   "id": "best gta vi settings you need to change",
+   "title": "Best GTA VI Settings You Need To Change",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZYXR4UU5xdGRnOG1iTUN6OXlLQUQ1RUdZNG02bjZrcjV4dFZOcGxLQ2h0Rm51T3RQd3hoN2x0MmtXRU8xRUJlYmZ5X21uZV92cUFRYUtnWmQ3X00wMTRBOGUwLURPeTFfeUlRNDM4YmNnLUo2?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-20T10:01:55+00:00",
+   "seen": "2026-11-20T11:51:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece lists GTA VI settings users should change."
   },
   {
    "id": "video grand theft auto vi 30 years in the making",
