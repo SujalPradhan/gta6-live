@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:29:24+00:00",
- "started": "2026-11-20T06:29:18+00:00",
+ "updated": "2026-11-20T06:34:24+00:00",
+ "started": "2026-11-20T06:34:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T06:29:19+00:00"
+   "checked": "2026-11-20T06:34:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T06:29:19+00:00"
+   "checked": "2026-11-20T06:34:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T06:29:19+00:00"
+   "checked": "2026-11-20T06:34:20+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T06:29:20+00:00"
+   "checked": "2026-11-20T06:34:20+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T06:29:20+00:00"
+   "checked": "2026-11-20T06:34:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T06:29:20+00:00"
+   "checked": "2026-11-20T06:34:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T06:29:21+00:00"
+   "checked": "2026-11-20T06:34:21+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T06:29:21+00:00"
+   "checked": "2026-11-20T06:34:21+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T06:29:21+00:00"
+   "checked": "2026-11-20T06:34:21+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T06:29:21+00:00"
+   "checked": "2026-11-20T06:34:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T06:29:22+00:00"
+   "checked": "2026-11-20T06:34:22+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T06:29:22+00:00"
+   "checked": "2026-11-20T06:34:22+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T06:29:22+00:00"
+   "checked": "2026-11-20T06:34:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T06:29:22+00:00"
+   "checked": "2026-11-20T06:34:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 digital release a write off for shops says trader",
+   "title": "GTA 6 digital release a 'write-off' for shops, says trader",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiNlozU0syMWZrMDhYN2hwMkxxTEpQS3BSdlQ0ZW1kZFNxLVAwUTdXaUE5Z09PYXlNVTRjZXFIclJCYzJrMTcxRVF5NUkzQU1VSG1jWG91SE9YUE4w?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-20T06:30:24+00:00",
+   "seen": "2026-11-20T06:34:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a trader says Gta 6 digital release is a write-off for shops."
+  },
+  {
+   "id": "gta 6 generates rs 22 000 crore in sales in less than 24 hours after launch",
+   "title": "GTA 6 Generates Rs 22,000 Crore In Sales In Less Than 24 Hours After Launch",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNkdaZnhpOHFJQk82bDB1T3J1c2U0VUpnODR4MWt5V3A4eTlCODFRVHFobFQ3SlRydllVYlZDbjlpdHpHUnhDNzJSc1ZNUkxBelAzZTQtdGhqYmVJTzJ0YUJwQ1NybkJ5NlhoS2Q3eENCNkZTLU1aX1JaS2hsTm9ESXRaWnhGdEpZVlRwV1NVVUNOa3NhM0hROGNzaWI1b2tHTHZKamEzWdIBrwFBVV95cUxPUGxGRDBMeklFNkdzSDYtQWxqbXg3OE9RUW9yQTE5RXdIMWpsUE5lLURBcFI4OFVKX0dNRnpZcUZXc2VMdGRSUDZkNzI2TDhHY2tCX1pUd2hVMFNLd05sN0plMmU0SnpVU014Q09pemtXYkh2eXdaejQ3TVhKNmF2dW9ZWjNSRG9CVDAtTmFJbUNxdnozN21DeVJBRVk5enF2YzNJSWV1NzNoMkVEZ1k0?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-20T06:28:29+00:00",
+   "seen": "2026-11-20T06:34:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 generates 22,000 crore in sales in less than 24 hours after launch."
+  },
   {
    "id": "gta 6 themed drone show in miami",
    "title": "GTA 6-themed drone show in Miami",
@@ -233,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on the GTA VI soundtrack and new music features from artists including Gracie Abrams, LISA, and Tomorrow x Together in a New Music Friday guide."
+  },
+  {
+   "id": "gta 6 sales reach 2 36 billion industry estimate says",
+   "title": "GTA 6 sales reach $2.36 billion, industry estimate says",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YdzJEWlRFS3lRM1c0OTJXSmEydVhmRDIyd2tzZGpJYU9zcldBTmxvckhVWU0zeXBxUkFEOFl2eGxxZGJPNmtRbWs3cElzLWpHU3A0Z2ZzckdnNkxiYU1kMngwdzFNb2RNVk5YZDlJV1pCdDhvMXQzMmhvMGk?oc=5",
+   "outlet": "JournalArta",
+   "via": "Google News",
+   "published": "2026-11-20T05:32:20+00:00",
+   "seen": "2026-11-20T06:34:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 sales reach 2.36 billion, according to an industry estimate."
   },
   {
    "id": "gta 6 mission count chapters missables and why guides disagree",
