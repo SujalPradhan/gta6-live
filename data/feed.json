@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T22:25:02+00:00",
- "started": "2026-11-20T22:24:55+00:00",
+ "updated": "2026-11-20T22:30:00+00:00",
+ "started": "2026-11-20T22:29:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T22:24:55+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T22:29:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T22:24:56+00:00"
+   "checked": "2026-11-20T22:29:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T22:24:57+00:00"
+   "checked": "2026-11-20T22:29:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T22:24:58+00:00"
+   "checked": "2026-11-20T22:29:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-20T22:24:58+00:00"
+   "hits": 9,
+   "checked": "2026-11-20T22:29:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T22:24:58+00:00"
+   "checked": "2026-11-20T22:29:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T22:24:58+00:00"
+   "checked": "2026-11-20T22:29:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T22:24:58+00:00"
+   "checked": "2026-11-20T22:29:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T22:24:58+00:00"
+   "checked": "2026-11-20T22:29:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T22:24:59+00:00"
+   "checked": "2026-11-20T22:29:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T22:24:59+00:00"
+   "checked": "2026-11-20T22:29:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T22:24:59+00:00"
+   "checked": "2026-11-20T22:29:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T22:25:00+00:00"
+   "checked": "2026-11-20T22:29:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T22:25:00+00:00"
+   "checked": "2026-11-20T22:29:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 pc release date is grand theft auto 6 coming to pc",
+   "title": "GTA 6 PC release date: Is Grand Theft Auto 6 coming to PC?",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-pc-version/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-20T22:27:36+00:00",
+   "seen": "2026-11-20T22:29:56+00:00",
+   "summary": "Everything we know so far about the PC version of GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on the PC version of GTA 6 and questions the PC release date."
+  },
+  {
+   "id": "where is mandy s house in gta 6 location and what happens after chapter 1",
+   "title": "Where Is Mandy’s House in GTA 6? Location and What Happens After Chapter 1",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YbE5Sb2dhOTFMY1FXSzdJeW8wMGJzWUlHbUkzMzBLb3laczdwb2dNdV85Nno4ekQ2V2JrZjdmdVpGMm9ldVFrblhKMVl0d2JodjJhOHB6ODdnYXpfTmY2SnhXLVZMRGk5dFpqdllmNnY?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-20T22:25:21+00:00",
+   "seen": "2026-11-20T22:29:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks where Mandy’s house is in GTA 6 and what happens after Chapter 1."
+  },
+  {
+   "id": "grammy winning songwriter derrick milano brings philly roots to grand theft auto vi",
+   "title": "Grammy-winning songwriter Derrick Milano brings Philly roots to 'Grand Theft Auto VI'",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckQzWS1objJhNzB5bEFuR3F3SUI2Sk5Oa1lDdDN2SDdoOUlac2lKU0lEQWs0bGYzaGR6RUxwWEtfcTI0LUh0RnI3c0UzS0pOa1pqVE9OTkYxaElhR0hrZ0dMblpmbmUzNTJva0RFeENvcHFCVkxEb01fQURmVVA4RmR6eG1KTjItbWxQMHVLeThTWERyOUpFQVdxNlJjR1hJVWlYbG9TcWozMlRQcU5MajZB0gG3AUFVX3lxTE4yNThJVkVrdUJZMW1tWmJmMlh0TkVub0plZjJvazJNZFRNTXFyTzMtbEhlN2IyTnZING9HNFVZQ19Pd3B4cVRVM1ByS3dENHR4RWZiVlBzOUstRWFWRW9sSmYxVEdEblc5enB1MGFaN2pxOGhMQzlNSnBKUkgxNlBTOVhtZDdULXQ0RGVSUjI3elVxSXhmMHpveGROVE41dmFUeTlhNmw2Rlp1aDNGRFdjWWh4cUd0VQ?oc=5",
+   "outlet": "6abc Philadelphia",
+   "via": "Google News",
+   "published": "2026-11-20T22:21:10+00:00",
+   "seen": "2026-11-20T22:29:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes a Grammy-winning songwriter brings Philly roots to Grand Theft Auto VI."
+  },
   {
    "id": "how big was gta vi s 3 8 billion launch think national economies",
    "title": "How Big Was GTA VI’s $3.8 Billion Launch? Think National Economies.",
@@ -142,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a Best New Music Poll featuring Lisa of BLACKPINK and Gracie Abrams for GTA VI."
+  },
+  {
+   "id": "from lisa of blackpink gracie abrams to the gta vi album which music release is your favorite this week vote",
+   "title": "From LISA of BLACKPINK & Gracie Abrams to the ‘GTA VI’ Album, Which Music Release Is Your Favorite This Week? Vote!",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmVlWTFndW83TlVSSXItSlZySEs3dm1MYm01VEFBMnJuZ1lSQWNNR1oySVgwQV9FZVZnQ3c3Y1BueEM5V3otaGhEQmY5MzRHS3Z0OUhrVlBwNnM3M2Y2UXd2WUhhV2pHbVdWZEpPbWFxZHhKSU9KbkpKOUdQVWI2d2UzRmkzNkE0YWxXT1dvVnJrcnB1WUIyMDU5RjU1X0FGMlhWa3N6b0ROR1NFZHc?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-20T22:12:24+00:00",
+   "seen": "2026-11-20T22:29:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story compares music releases from LISA of BLACKPINK, Gracie Abrams, and the GTA VI album and asks readers to choose a favorite."
   },
   {
    "id": "best graphics settings to use in gta 6",
