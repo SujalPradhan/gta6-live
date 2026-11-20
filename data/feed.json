@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T00:02:22+00:00",
- "started": "2026-11-20T00:02:15+00:00",
+ "updated": "2026-11-20T00:07:28+00:00",
+ "started": "2026-11-20T00:07:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T00:02:16+00:00"
+   "checked": "2026-11-20T00:07:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 95,
-   "checked": "2026-11-20T00:02:16+00:00"
+   "checked": "2026-11-20T00:07:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T00:02:17+00:00"
+   "checked": "2026-11-20T00:07:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T00:02:17+00:00"
+   "checked": "2026-11-20T00:07:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T00:02:17+00:00"
+   "checked": "2026-11-20T00:07:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T00:02:17+00:00"
+   "checked": "2026-11-20T00:07:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T00:02:18+00:00"
+   "checked": "2026-11-20T00:07:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T00:02:18+00:00"
+   "checked": "2026-11-20T00:07:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T00:02:18+00:00"
+   "checked": "2026-11-20T00:07:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T00:02:19+00:00"
+   "checked": "2026-11-20T00:07:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-20T00:02:19+00:00"
+   "checked": "2026-11-20T00:07:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T00:02:19+00:00"
+   "checked": "2026-11-20T00:07:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T00:02:19+00:00"
+   "checked": "2026-11-20T00:07:26+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T00:02:19+00:00"
+   "checked": "2026-11-20T00:07:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "here s what people are playing that s not gta 6",
+   "title": "Here’s What People Are Playing That’s Not GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcm1HTzZkX0dKMjh6Qk9JeHBKN3ViaHJTb2dYb0RZMDVOUExtUmtGNFBqajRBY2lENExQWC05N05aM0J6aXJuM1ljdE9aN0tCaEl3YUk4eGVvRElCamdURy1leEp2Mm9WVV9yb2hsdWF2elVQT0NCQnFiNEFFU0hXcQ?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-20T00:00:35+00:00",
+   "seen": "2026-11-20T00:07:24+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports on what people are playing that isn’t GTA 6."
+  },
   {
    "id": "she s a lot of fun gta 6 s mandy has ps5 players smitten",
    "title": "'She's a Lot of Fun': GTA 6's Mandy Has PS5 Players Smitten",
@@ -118,6 +131,19 @@
    "ai_summary": "The story reports that actress Lexie Shoaibi stars as Mandy, a character in GTA 6 who attracts social media attention."
   },
   {
+   "id": "grand theft auto vi arrives with enormous hype and expectations",
+   "title": "‘Grand Theft Auto VI’ arrives with enormous hype and expectations",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXFXeW8xWFpNZ0xlZFhrRFZfNGhRQmx0MU5oczVqR0IwQWs0MG0tRHRuNjVhaFNYQTM4WEVleVZJMHBvTk1nQVFQbFJpMjNMS0JEaDJ6dVV6UWhmT1FpbjBRUjBOa1Vkcm5xS09ER0lTZUVWa3F2Vkh0VGVHeXFtWVAxWXRqeE1Ud3hTdUY1bVlodjVGYVl0Yzd1M0NVN21pUnJXOFhYeDg2VEtLekFsR2RR?oc=5",
+   "outlet": "LimaOhio.com",
+   "via": "Google News",
+   "published": "2026-11-20T00:00:00+00:00",
+   "seen": "2026-11-20T00:07:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI arrives with enormous hype and expectations."
+  },
+  {
    "id": "gta 6 chapters and mission list how many chapters in gta 6 spoiler free",
    "title": "GTA 6 Chapters and Mission List: How many chapters in GTA 6? (Spoiler-Free)",
    "link": "https://www.videogameschronicle.com/guide/gta-6-chapters-and-mission-list-how-many-chapters-in-gta-6-spoiler-free/",
@@ -129,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a spoiler-free list of all missions and chapters in GTA 6."
+  },
+  {
+   "id": "can t get enough of vice city gamesir s new controllers bring gta 6 vibes to xbox",
+   "title": "Can’t get enough of Vice City? GameSir’s new controllers bring ‘GTA 6’ vibes to Xbox",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzZrZWdxTkpnMlo4bGFBUXp3cnJKUXA5blZ5bWtoN1dUMEtXb0hMV3hrNlFGeDFJV29udGtFVFgzRGJnTExDQWV0UG9LMEVHYmM5NTRtLXlXdEtrZ1JoZ2JtbGtIV2JFMnpELWxrTDRiamNfejA0SXFDWXhuRHB1REVfVlVRdEY0SzBwN1J6VEM4aThJYkRLcFkzXzNiRU16UHQyVjJOWUlWcFdVcGpPdHFKWi1EQmstVjNIQWZwanc0UzRyR3g1QjVBWC16WTTSAeMBQVVfeXFMT0xnS2pWeW5xSW1CTlRzNkNfV3pIaVlXWVM1QjhQd25FME81VXpjVEJ1NnpndVpCSHlyQUZyU3FtY01rZ21HTTA4WWNwa3RxX0dxeGhUWXJhNWpybk83cElmOWpLT3BKV1I1T0NUTzhVZFhyelkyRGZTNGYtLUZDLXZyd3hSSHFjMFVBQTY5SFIwVmhZS2lnQ3hBMlVTUWJ6RTRxdnljUGpTWGhLNnhCWDR6dkFtd1haTW5DR2x1ZWl0d3FoYkwwLW4xNW04ZEhpOVMzWWNMTk02dlRSQ2I2WnlFaVU?oc=5",
+   "outlet": "OregonLive.com",
+   "via": "Google News",
+   "published": "2026-11-19T23:58:00+00:00",
+   "seen": "2026-11-20T00:07:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GameSir’s new controllers bring GTA 6 vibes to Xbox for Vice City fans."
   },
   {
    "id": "gta vi earns five stars on launch day",
