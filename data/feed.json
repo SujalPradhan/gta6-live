@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:27:59+00:00",
- "started": "2026-11-20T16:27:52+00:00",
+ "updated": "2026-11-20T16:33:00+00:00",
+ "started": "2026-11-20T16:32:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T16:27:52+00:00"
+   "checked": "2026-11-20T16:32:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-20T16:27:53+00:00"
+   "hits": 90,
+   "checked": "2026-11-20T16:32:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T16:27:53+00:00"
+   "checked": "2026-11-20T16:32:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T16:27:53+00:00"
+   "checked": "2026-11-20T16:32:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T16:27:53+00:00"
+   "checked": "2026-11-20T16:32:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T16:27:53+00:00"
+   "checked": "2026-11-20T16:32:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 22,
-   "checked": "2026-11-20T16:27:54+00:00"
+   "hits": 21,
+   "checked": "2026-11-20T16:32:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 17,
-   "checked": "2026-11-20T16:27:54+00:00"
+   "hits": 16,
+   "checked": "2026-11-20T16:32:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-20T16:27:54+00:00"
+   "hits": 8,
+   "checked": "2026-11-20T16:32:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T16:27:55+00:00"
+   "checked": "2026-11-20T16:32:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T16:27:55+00:00"
+   "checked": "2026-11-20T16:32:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T16:27:55+00:00"
+   "checked": "2026-11-20T16:32:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T16:27:55+00:00"
+   "checked": "2026-11-20T16:32:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T16:27:56+00:00"
+   "checked": "2026-11-20T16:32:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "what happens in gta 6 stays in gta 6 police across us warn fans about taking the game to their real lives",
+   "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Jbjd5NENGb3VaaEpQRTNuNHgyWHFPR2Z3Mm1xU1BOemlpOVNFXzFwbzdCS0liMERjdGVoTXkyc1ZJNElxbjZnWHN0YmxEanRHZmVzUzFWUEdOa28?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-20T16:29:18+00:00",
+   "seen": "2026-11-20T16:32:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Police across the US warn fans not to bring GTA 6 experiences into real life."
+  },
+  {
+   "id": "grand theft auto vi the franchise s first entry in 13 years is more than just a crime simulator it s a cartoonish sendup of the u s",
+   "title": "Grand Theft Auto VI, the franchise’s first entry in 13 years, is more than just a crime simulator. It’s a cartoonish sendup of the U.S.",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUEg2QmVselZNN0dERWp6TEd5d2cycklrMHcwV0ZIcUh4bmhzMUs1NnZTYXI5emMwOGhoRVlHdzJDbHpQQm5FOHZXc01kQXF3OEw0SktVN0c3Snp0QWxzcTRqSnZLeFd2SXpFQlUyS2ZxbmpYQXpLT0V6aEo2bU9VenRvVXlFRjMxa0lTY0R0SW1oT3ZLNDQ4UG9Xb0hHTTBnQmtNbm1scVRndFdkdU45dDZmanZ5c1pQVlZ1Nk5vaEdUalJLUW5XdW81UFJtQ1Jod3gzYQ?oc=5",
+   "outlet": "Facebook",
+   "via": "Google News",
+   "published": "2026-11-20T16:25:12+00:00",
+   "seen": "2026-11-20T16:32:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The game is described as more than a crime simulator and as a cartoonish sendup of the U.S."
+  },
   {
    "id": "gta 6 map size and counties the estimates compared with nothing official yet",
    "title": "GTA 6 map size and counties: the estimates compared, with nothing official yet",
@@ -207,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A reporter shares unusual things observed during extended GTA 6 playing time."
+  },
+  {
+   "id": "gta 6 s no nonsense cops are scaring players into actually following the law",
+   "title": "GTA 6's No-Nonsense Cops Are Scaring Players Into Actually Following the Law",
+   "link": "https://www.ign.com/articles/gta-6-new-wanted-system-difficulty",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T16:14:14+00:00",
+   "seen": "2026-11-20T16:32:55+00:00",
+   "summary": "GTA 6's cops are meaner and easier to provoke than ever before, leading many players to obey the law and keep their head down early doors.",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The game's cops are harsher and more provocative, which has players choosing to follow the law more carefully."
   },
   {
    "id": "gta vi crosses record breaking 2 billion mark in pre sale revenue",
