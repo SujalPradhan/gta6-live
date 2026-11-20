@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T11:16:12+00:00",
- "started": "2026-11-20T11:16:04+00:00",
+ "updated": "2026-11-20T11:21:01+00:00",
+ "started": "2026-11-20T11:20:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T11:16:04+00:00"
+   "checked": "2026-11-20T11:20:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T11:16:05+00:00"
+   "hits": 93,
+   "checked": "2026-11-20T11:20:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T11:16:05+00:00"
+   "checked": "2026-11-20T11:20:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:16:06+00:00"
+   "checked": "2026-11-20T11:20:57+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:16:06+00:00"
+   "checked": "2026-11-20T11:20:57+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T11:16:06+00:00"
+   "checked": "2026-11-20T11:20:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:16:06+00:00"
+   "checked": "2026-11-20T11:20:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:16:06+00:00"
+   "checked": "2026-11-20T11:20:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:16:06+00:00"
+   "checked": "2026-11-20T11:20:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:16:07+00:00"
+   "checked": "2026-11-20T11:20:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:16:07+00:00"
+   "checked": "2026-11-20T11:20:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T11:16:07+00:00"
+   "checked": "2026-11-20T11:20:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:16:07+00:00"
+   "checked": "2026-11-20T11:20:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T11:16:08+00:00"
+   "checked": "2026-11-20T11:20:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "ubisoft drops after q3 forecast miss as gta vi looms large over holiday season kelo am",
+   "title": "Ubisoft drops after Q3 forecast miss as GTA VI looms large over holiday season - KELO-AM",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFJab3hNWUk2QktKbVBsczFmOXhXMEo4Mm9ibHIyd0FIemR3NFlIOVhfbmswZWNJQnpQSUhNdmhyNUYzUEh2VlVCSnpzSUNOTmc3U0xXU2xxeFV6SFJ5N3RiYloxczdUdWJvVnBUV19xLTRFTWM2WHZFNjQ4UG00UF93UUFFOWVSRHVkNjVaS1RhNVAta3NyaHloazYteHAwUlRiRnRoNXhEb0E?oc=5",
+   "outlet": "KELO-AM",
+   "via": "Google News",
+   "published": "2026-11-20T11:18:56+00:00",
+   "seen": "2026-11-20T11:20:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Ubisoft drops after forecast miss as GTA VI looms large over the holiday season."
+  },
+  {
+   "id": "gta 6 sold nearly 25 million copies on day one crushing every launch record in sight",
+   "title": "GTA 6 sold nearly 25 million copies on day one, crushing every launch record in sight",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVpoeVk1OVFCVFl3eWtZMUp6MWhmM2laVzVFeWNpdmphUVFVMUtadWdldVI5M3dmQTBoMUZmbmF2S1hNLWVLUXJXSFhHREtGUmtpd0xOVG0tellJSjdQa19DUkNvaUUwcDBzb2hYTm82UG5WTk1sdVRHYVBEck81TnljNGM5RGdZUHJBVTBmTlN3V0dGTTVTQjNMZTQ1R1ZVUEVGbm1uN0Z6MHhjSFBnSFMzMllmcjdyUElNTGo3SU14YTYtb0lOdg?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-20T11:13:18+00:00",
+   "seen": "2026-11-20T11:20:55+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 sold nearly 25 million copies on day one, breaking launch records."
+  },
   {
    "id": "gta 6 reportedly generates 2 3b on launch breaking records",
    "title": "GTA 6 reportedly generates $2.3B on launch, breaking records",
@@ -116,6 +142,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 reportedly generates $2.3B on launch and breaks records."
+  },
+  {
+   "id": "gta 6 how to find cool dog and dog island",
+   "title": "GTA 6: How to find Cool Dog and Dog Island",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPbERvQjlQWFp2VzA1NmJCSkMxbUwzTmhTOU9ReVFpTHlKUXVBMWRPZXJUVmpRRHF1SkIxbVpWV0drXzFOMnB3dWJZTlAyRk82Qi1PRWVpZi14d1FvMmVKMmV0YVdUTnpZc0E?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-20T11:06:40+00:00",
+   "seen": "2026-11-20T11:20:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6: How to find Cool Dog and Dog Island."
   },
   {
    "id": "gta vi rakes in 2 3b in record opening day what next for take two stock",
