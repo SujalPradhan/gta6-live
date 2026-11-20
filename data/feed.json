@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:52:53+00:00",
- "started": "2026-11-20T01:52:49+00:00",
+ "updated": "2026-11-20T01:57:58+00:00",
+ "started": "2026-11-20T01:57:52+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T01:52:50+00:00"
+   "checked": "2026-11-20T01:57:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-20T01:52:51+00:00"
+   "checked": "2026-11-20T01:57:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T01:52:51+00:00"
+   "checked": "2026-11-20T01:57:53+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T01:52:51+00:00"
+   "checked": "2026-11-20T01:57:53+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T01:52:52+00:00"
+   "checked": "2026-11-20T01:57:53+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T01:52:52+00:00"
+   "checked": "2026-11-20T01:57:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T01:52:52+00:00"
+   "checked": "2026-11-20T01:57:54+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T01:52:52+00:00"
+   "checked": "2026-11-20T01:57:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T01:52:52+00:00"
+   "checked": "2026-11-20T01:57:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T01:52:53+00:00"
+   "checked": "2026-11-20T01:57:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T01:52:53+00:00"
+   "checked": "2026-11-20T01:57:55+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T01:52:53+00:00"
+   "checked": "2026-11-20T01:57:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T01:52:53+00:00"
+   "checked": "2026-11-20T01:57:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T01:52:53+00:00"
+   "checked": "2026-11-20T01:57:56+00:00"
   }
  },
  "items": [
@@ -467,6 +467,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "GTA 6 sales near two billion by launch day."
+  },
+  {
+   "id": "gta 6 is finally out but a jacksonville game store won t sell it because it s digital only",
+   "title": "GTA 6 is finally out, but a Jacksonville game store won’t sell it because it’s digital only",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNXzU5dUs3dW1Kc21BRGdFUG9FWGVTaWRmVVlUQThBcDB2YXI5WmQxdnp3b0hhWFJGY0pmODB0OURzOFgxcy1WNGtiUE53VFNucGFTQ1hCWUQ1TjVSQklZSEJLWlFCbmIwSGpCTVJMTC1qSVhIOTZycmdFcXVsTm5RTzd4aVJSckFoS2s2UjF4aDI3Vk1McjdoT2I4cTEzSl9JXzFZa0tPNjNwaUdTWHQxcWk5ajFQM09ncVJCemx0d0tld09aSXd1ajI2Ni1QZ0dXcXcyZ0dJVF93RG8yOTlIR0pmWmY1d9IB-gFBVV95cUxOSzJOWE5DSGtMUWVvYVBqYkNQaElad09CRDN5ZUx1SENGYmdDWjloVml5eUdVUTloVGxEWGl6NE5USEVmVFdlSHkySXlKSktoeURSdU93NTFPSGdxYmx2Zk0tLUxxS0NBRGdUZTByZFpKcUdINDZzNG4zMU83c2hLRXhKZTZuMDVEMC1sakZyNGc1MW95WG5tSnRIREV1emhuOXRsZU42TzBrLWg2ajFERkxldW1jT0pZZTloS1NBUVoxQ21nWmh3MlFnZktacWxyRWhsUDhPNXVJMEFIb0NNLXBQckhJM18zVWllVUxucnlWZTE1S1l3SG5B?oc=5",
+   "outlet": "Action News Jax",
+   "via": "Google News",
+   "published": "2026-11-20T00:21:00+00:00",
+   "seen": "2026-11-20T01:57:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is released but a Jacksonville game store will not sell it due to it being digital only."
   },
   {
    "id": "take two set to shatter sales records as gta 6 launches to massive fanfare",
@@ -1702,6 +1715,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI release day coverage recalls where pirates were when GTA V launched."
+  },
+  {
+   "id": "gta 6 sales top 1 84 billion surpassing the odyssey s global box office total",
+   "title": "GTA 6 Sales Top $1.84 Billion, Surpassing The Odyssey’s Global Box Office Total",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWVdrMWhVYk9lbkI0NXhOWFRtZE1HVFdjNXZqWTNONE0zMVNlaGFKWDhDaEtsYU1PVWwwZlFRZXlFUDZ3VWVJLVdFY2k2SG1wQ2Zma0F4T2hhbVpGUkJzaW1LWFliZjJzSmdtdEhRTnFIQ2VSVktpaWViNm00ZVlTb2xJcm03YmVRWFVza1dfR2dSNTZ0ZWIzMEppS3MwR3gwZDB2U3FR?oc=5",
+   "outlet": "SSBCrack",
+   "via": "Google News",
+   "published": "2026-11-19T22:27:13+00:00",
+   "seen": "2026-11-20T01:57:53+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 sales exceeding a global box office total of 1.84 billion dollars."
   },
   {
    "id": "grand theft auto vi sales set to top more than 3 billion in first week",
