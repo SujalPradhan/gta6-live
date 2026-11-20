@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:04:16+00:00",
- "started": "2026-11-20T06:04:11+00:00",
+ "updated": "2026-11-20T06:09:18+00:00",
+ "started": "2026-11-20T06:09:13+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T06:04:12+00:00"
+   "checked": "2026-11-20T06:09:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T06:04:12+00:00"
+   "checked": "2026-11-20T06:09:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T06:04:13+00:00"
+   "checked": "2026-11-20T06:09:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T06:04:13+00:00"
+   "checked": "2026-11-20T06:09:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T06:04:13+00:00"
+   "checked": "2026-11-20T06:09:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T06:04:13+00:00"
+   "checked": "2026-11-20T06:09:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T06:04:14+00:00"
+   "checked": "2026-11-20T06:09:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T06:04:14+00:00"
+   "checked": "2026-11-20T06:09:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T06:04:14+00:00"
+   "checked": "2026-11-20T06:09:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T06:04:15+00:00"
+   "checked": "2026-11-20T06:09:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T06:04:15+00:00"
+   "checked": "2026-11-20T06:09:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T06:04:16+00:00"
+   "checked": "2026-11-20T06:09:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T06:04:16+00:00"
+   "checked": "2026-11-20T06:09:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T06:04:16+00:00"
+   "checked": "2026-11-20T06:09:16+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 costs less to play on ps5 than xbox series x",
+   "title": "GTA 6 costs less to play on PS5 than Xbox Series X",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ0xCTzE5RWViSm1JSnEzZXB4NWN0ZVJXSWhNTjY1MTFWWGxrWW5zQklHZHcyNnBYcGVVWTMtYkgza2pua0ZtV3NTdmkyYThOTjJQQmtrZ082VmxsYmxQT2RYcmFOekE0eFNpQWtNNTN1R1JUaFFhUnZJWHdwMVdvZg?oc=5",
+   "outlet": "JournalArta",
+   "via": "Google News",
+   "published": "2026-11-20T06:03:35+00:00",
+   "seen": "2026-11-20T06:09:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 costs less to play on PS5 than on Xbox Series X."
+  },
+  {
+   "id": "gta 6 player shares money tips after about 130 hours",
+   "title": "GTA 6 Player Shares Money Tips After About 130 Hours",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13UllaOXdsRjhrWWxHaUJaTzY5T0I0clVVOFV1N2doWjJEVE91SXF4aTRsTnVEbGxPRzhTRjItemNvR3JzUENZTG5hN2FRZndRWWFuNEFMNllTNVo5VXRGLXBuRUJFUnQ1N2l0dll2MlBpd3M?oc=5",
+   "outlet": "JournalArta",
+   "via": "Google News",
+   "published": "2026-11-20T06:03:03+00:00",
+   "seen": "2026-11-20T06:09:14+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 player shares money tips after about 130 hours of play."
+  },
   {
    "id": "grand theft auto vi the album is here listen",
    "title": "'Grand Theft Auto VI: The Album' Is Here: Listen",
@@ -311,6 +337,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 rakes in $2.36 billion on launch day, nearly 3X GTA 5 record: Sensor Tower"
+  },
+  {
+   "id": "travis scott joins gta 6 s official album as rockstar confirms 34 original tracks ahead of release",
+   "title": "Travis Scott joins GTA 6’s official album as Rockstar confirms 34 original tracks ahead of release",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1N0dDZhNlJfdVJRWG9RUE91S1hKWGJPOG5OYTZmc29CRHNFNnhFbld6TExuSFBUQWt5OVFXcGVFMGhrQTRvczkyWEFObnR5M1FnNDNCWXpzMS1ySHRMSXNPLWRiNkI5QWw3S1Z6V0VpVnBNZHVHV3ZvS0JXUkFGTjNfVFNhNHBMWWpsNExXS1ptbzJ3QTVDWURubTQtN0xBb1FlU3dYWHBKMGFzcTVaeEdlTmNja3VTcmtWNTlxZGhqNXo1bW5zc2QzWkVIRlE?oc=5",
+   "outlet": "primetimer.com",
+   "via": "Google News",
+   "published": "2026-11-20T04:31:00+00:00",
+   "seen": "2026-11-20T06:09:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Travis Scott joins GTA 6’s official album as Rockstar confirms 34 original tracks ahead of release."
   },
   {
    "id": "gta 6 sets metacritic record and revives three classic characters",
