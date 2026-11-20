@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:29:06+00:00",
- "started": "2026-11-20T05:29:00+00:00",
+ "updated": "2026-11-20T05:34:06+00:00",
+ "started": "2026-11-20T05:34:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T05:29:00+00:00"
+   "checked": "2026-11-20T05:34:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T05:29:01+00:00"
+   "checked": "2026-11-20T05:34:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T05:29:01+00:00"
+   "checked": "2026-11-20T05:34:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T05:29:02+00:00"
+   "checked": "2026-11-20T05:34:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T05:29:02+00:00"
+   "checked": "2026-11-20T05:34:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T05:29:02+00:00"
+   "checked": "2026-11-20T05:34:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T05:29:02+00:00"
+   "checked": "2026-11-20T05:34:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T05:29:03+00:00"
+   "checked": "2026-11-20T05:34:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T05:29:03+00:00"
+   "checked": "2026-11-20T05:34:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T05:29:03+00:00"
+   "checked": "2026-11-20T05:34:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T05:29:04+00:00"
+   "checked": "2026-11-20T05:34:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T05:29:04+00:00"
+   "checked": "2026-11-20T05:34:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T05:29:04+00:00"
+   "checked": "2026-11-20T05:34:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T05:29:04+00:00"
+   "checked": "2026-11-20T05:34:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 mission count chapters missables and why guides disagree",
+   "title": "GTA 6 mission count: chapters, missables and why guides disagree",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTG5hZDFBN09mZkNBemdfUW85anJESE9YRGY4dGNDdW05OFd5bHJ6R2hWY2tfNG9rTkIyd1RXOEJCak5xOWFHSkRUWWs1NzBpWXlZOGxObG4wckFYZmxzSF96c0xJMFNFaE9hZ3NLV1h3MFU1QTBJS3d1Tk9OZGJreFV3ak43NEFTaFE?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-20T05:30:16+00:00",
+   "seen": "2026-11-20T05:34:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses GTA 6 mission count and how chapters, missables, and guides disagree."
+  },
   {
    "id": "atlantic drops hefty 34 track grand theft auto vi the album",
    "title": "Atlantic Drops Hefty, 34-Track 'Grand Theft Auto VI: The Album'",
@@ -1039,6 +1052,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI release sparks weeklong celebrations across Miami."
+  },
+  {
+   "id": "michigan gamers react to release of grand theft auto vi after 13 years of development",
+   "title": "Michigan gamers react to release of Grand Theft Auto VI after 13 years of development",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVRfZUNfUXFaZ1Z1QUZnY3F0S0cwRDB5N09qR1Q4WjFCRGNCMnE1SmZaN01IcVRxRUVBNk1Bdm85aUZoQzlGZnVsNkwtb1JHbW9wZTVWeDNjQW1RZXh0N1lNdTZqMEVSbTdmSUpuNVdXUTFEdVA4LTA5SDlxcXVrN1NvZTFqOWJMQmtTNndZa3FyMkJZZFFYckw5REQ1djAyaWdSZkFWRnE3OXFWMmfSAcIBQVVfeXFMUFQxRW80Z2dxN1hWMG9KODZNTzBUNzIySW16TzBmbC16bmdxaXVSTlUxVUYzN2VoWDRsS211dm1LUmk2R3dKLVFqNlBiZ3lqRlNPM0d2ajBEbVU4d3Y5R0F1WDRJbm9fMVdZRm5WWFZvYW5BMW5ZTXFGWnozYWtpV0JBZ0xHc1NTVWhTOWpnNlNXNi1CNFE1RWpxWVR2RlUwRGVTRVNZeTAwMVdPREFYMWpwdldOYnZ0OVcxdVhya3NzbEE?oc=5",
+   "outlet": "WILX",
+   "via": "Google News",
+   "published": "2026-11-20T00:53:00+00:00",
+   "seen": "2026-11-20T05:34:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Michigan gamers reacting to the release of Grand Theft Auto VI after years of development."
   },
   {
    "id": "grand theft auto vi s auto drive is basically a beautiful and free version of fast travel",
