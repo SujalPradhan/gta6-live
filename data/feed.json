@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:51:53+00:00",
- "started": "2026-11-20T13:51:47+00:00",
+ "updated": "2026-11-20T13:56:59+00:00",
+ "started": "2026-11-20T13:56:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T13:51:48+00:00"
+   "checked": "2026-11-20T13:56:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 90,
-   "checked": "2026-11-20T13:51:48+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T13:56:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T13:51:49+00:00"
+   "checked": "2026-11-20T13:56:52+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-20T13:51:49+00:00"
+   "hits": 6,
+   "checked": "2026-11-20T13:56:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T13:51:49+00:00"
+   "checked": "2026-11-20T13:56:53+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T13:51:49+00:00"
+   "checked": "2026-11-20T13:56:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T13:51:50+00:00"
+   "checked": "2026-11-20T13:56:53+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:51:50+00:00"
+   "checked": "2026-11-20T13:56:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T13:51:50+00:00"
+   "checked": "2026-11-20T13:56:54+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T13:51:50+00:00"
+   "checked": "2026-11-20T13:56:54+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T13:51:50+00:00"
+   "checked": "2026-11-20T13:56:55+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T13:51:50+00:00"
+   "checked": "2026-11-20T13:56:55+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T13:51:51+00:00"
+   "checked": "2026-11-20T13:56:55+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T13:51:51+00:00"
+   "checked": "2026-11-20T13:56:55+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is estimated to become history s biggest entertainment launch",
+   "title": "GTA 6 is estimated to become history’s biggest entertainment launch",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejJGbW1sNEFndDQtYW1PZHc5THdaNUl4Qm5TeGtzNlNOb1NnWEU0WDloRW1BT2R1UUVFaW1mY2tPVTVZR0tTZEQ1ME5GbDBwRzZBV0xDd1hMb3FseWY5SnI3WkVlODBJREJaUXZ3OWdCNjlMaEMzQWFXZDdBTXhWV01TTE5Bd2ZGMjRIQm5XQ1N1NzZHWl9LNkpOWGl0cTBPMFNyUWlLZDRoR0NGVG53MkdxQTZ0Yk9n?oc=5",
+   "outlet": "The Daily Star",
+   "via": "Google News",
+   "published": "2026-11-20T13:53:45+00:00",
+   "seen": "2026-11-20T13:56:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 is reported to be history’s biggest entertainment launch in The Daily Star."
+  },
+  {
+   "id": "gta 6 has police departments asking players not to commit crimes in real life",
+   "title": "GTA 6 Has Police Departments Asking Players Not To Commit Crimes in Real Life",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0FKSDByUlFOQU9STjRzOG94MXBmNU9QRVJKVWR4anlsMVBnSFJMZU42ekd0ZFRONzI5Z3hDU2NId1UzTi1CN01kaWFncW9KMlUweHpla1lUMW53amFvNTZfWWdPMkFXQ2hjMzUwRTVUdGVtendrcmxEMGhhcHZtOHBwM2NxU2pTRmdxYnhzYTVxaDg1aG9xem05X2tDOHNYY1M2U3RHallEbnRyLWMtRmZGMGxERlRNUVk0?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-20T13:50:20+00:00",
+   "seen": "2026-11-20T13:56:51+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players are reportedly receiving requests from police departments not to commit crimes in real life."
+  },
+  {
+   "id": "gta 6 devs reveal movie inspirations for jason and lucia",
+   "title": "GTA 6 Devs Reveal Movie Inspirations for Jason and Lucia",
+   "link": "https://insider-gaming.com/gta-6-devs-reveal-movie-inspirations-for-jason-and-lucia/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T13:49:54+00:00",
+   "seen": "2026-11-20T13:56:54+00:00",
+   "summary": "Rockstar has revealed what movies they watched as inspiration for Jason and Lucia's dynamic in GTA 6. Here are more details. The post GTA 6 Devs Reveal Movie Inspirations for Jason and Lucia appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Devs reveal what movies inspired Jason and Lucia's dynamic in GTA 6."
+  },
   {
    "id": "where to find a rocket launcher in gta 6",
    "title": "Where to Find a Rocket Launcher in GTA 6",
@@ -142,6 +181,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story lists the top three TVs for GTA VI across different budgets."
+  },
+  {
+   "id": "gta 6 first person glitch lets you play as jason and lucia through their own eyes",
+   "title": "GTA 6 first-person glitch lets you play as Jason and Lucia through their own eyes",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53bDNTWjNoTDhjLW14NEtEX0syRGZwLXRwUGk5dl9nTXdtZ1JSVVdjY014My1kbUt1LWdPaXR2QmZkLXlfQm9mZ3hSNzlTNmphcjJsdm9EeG1KUjZtRnM0M3dwbHRqMVBoUUE?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-20T13:44:12+00:00",
+   "seen": "2026-11-20T13:56:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A first-person glitch lets players experience GTA 6 through Jason and Lucia's perspectives."
   },
   {
    "id": "gta 6 does autosave but there s something players should know before quitting",
@@ -508,6 +560,19 @@
    "ai_summary": "The story reports that GTA 6 launch broke industry records for the highest internet usage."
   },
   {
+   "id": "some gta 6 players think max weight jason and lucia aren t big enough",
+   "title": "Some GTA 6 Players Think Max Weight Jason and Lucia Aren't Big Enough",
+   "link": "https://www.ign.com/articles/some-gta-6-players-think-max-weight-jason-and-lucia-arent-big-enough",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T13:13:39+00:00",
+   "seen": "2026-11-20T13:56:52+00:00",
+   "summary": "Some GTA 6 players really want Jason and Lucia to be able to get as fat as CJ from GTA: San Andreas.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Some players want Jason and Lucia to have more body fat in GTA 6."
+  },
+  {
    "id": "gta 6 is out launch breaks network records twice not worldwide",
    "title": "GTA 6 is out: launch breaks network records twice, not worldwide",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMkg2Smw2aDNKWDRiOWxGV1hzNUtuWnJXR2RERFM5R3RJOFIzZkNacjU3OVdvQk9xbFJRVHdZWEZMRDNBYzZESGpyYUZBS0h1cDJteklDNVJJUzBzZFFzOU5kYVkzNDhYSk85RU1zMUlndkp2MDM2SFlGU0Uzb0ZSRVlkSktNazJhOG0tZ0YwT2VHcHZfbGFpREMxRQ?oc=5",
@@ -740,6 +805,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "The review asks whether GTA VI is the best game of all time."
+  },
+  {
+   "id": "can jason and lucia get naked in gta 6",
+   "title": "Can Jason and Lucia Get Naked in GTA 6?",
+   "link": "https://www.ign.com/articles/can-jason-and-lucia-get-naked-in-gta-6",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T12:53:10+00:00",
+   "seen": "2026-11-20T13:56:52+00:00",
+   "summary": "Let’s settle this once and for all. Can Jason and Lucia get naked in GTA 6?",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Questions persist on whether Jason and Lucia can get naked in GTA 6."
   },
   {
    "id": "dana white reveals condition for his team to receive time off to gta 6",
@@ -987,6 +1065,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "Story reports GTA 6 sets a revenue record with 2.36 billion within 24 hours of release."
+  },
+  {
+   "id": "surprise ps5 console black friday deals means you can buy a gta 6 ready console for less than 430",
+   "title": "Surprise PS5 Console Black Friday Deals Means You Can Buy a GTA 6-Ready Console for Less Than £430",
+   "link": "https://www.ign.com/articles/ps5-console-black-friday-discounts-playstation-store",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-20T12:28:49+00:00",
+   "seen": "2026-11-20T13:56:52+00:00",
+   "summary": "PlayStation has unexpectedly cut PS5 console prices for Black Friday, with refurbished models from £427.49 and up to £30.50 off brand-new consoles",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "PS5 Black Friday deals include GTA 6-ready consoles priced under £430 in refurbished and discounted new options."
   },
   {
    "id": "every easter egg in gta 6 locations how to find them",
@@ -5407,6 +5498,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that GTA VI sales surged past $2 billion on launch day as Vice City mania takes over."
+  },
+  {
+   "id": "gta vi launch day sales pass 2 billion as game takes over zeitgeist",
+   "title": "‘GTA VI’ Launch Day Sales Pass $2 Billion As Game Takes Over Zeitgeist",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT195eW53d1dpOG9kazM5NlM0eERVZlJrMUJzZnFKOHRuaXlhYnFCWDFMNVRISGJxNWlJV1ZkdjgxYktUY2ZnZVNrWnN6NzF4VXVKYy1RT1dUNXNaMUlmazNyeDVJZEU4US1ES1FBQnlhYkJCMTdRcWNEZGlNSDdnX3dUX1d1Zw?oc=5",
+   "outlet": "Deadline",
+   "via": "Google News",
+   "published": "2026-11-20T00:29:00+00:00",
+   "seen": "2026-11-20T13:56:51+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI launch day sales surpass $2 billion as the game dominates the zeitgeist."
   },
   {
    "id": "gta 6 first person glitch discovered and it works on xbox ps5",
