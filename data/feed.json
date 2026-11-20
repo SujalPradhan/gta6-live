@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:54:47+00:00",
- "started": "2026-11-20T21:54:41+00:00",
+ "updated": "2026-11-20T21:59:48+00:00",
+ "started": "2026-11-20T21:59:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T21:54:41+00:00"
+   "checked": "2026-11-20T21:59:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T21:54:42+00:00"
+   "checked": "2026-11-20T21:59:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T21:54:42+00:00"
+   "checked": "2026-11-20T21:59:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T21:54:42+00:00"
+   "checked": "2026-11-20T21:59:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T21:54:43+00:00"
+   "checked": "2026-11-20T21:59:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T21:54:43+00:00"
+   "checked": "2026-11-20T21:59:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-20T21:54:43+00:00"
+   "checked": "2026-11-20T21:59:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T21:54:43+00:00"
+   "checked": "2026-11-20T21:59:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T21:54:43+00:00"
+   "checked": "2026-11-20T21:59:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T21:54:44+00:00"
+   "checked": "2026-11-20T21:59:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T21:54:44+00:00"
+   "checked": "2026-11-20T21:59:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T21:54:44+00:00"
+   "checked": "2026-11-20T21:59:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T21:54:44+00:00"
+   "checked": "2026-11-20T21:59:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T21:54:44+00:00"
+   "checked": "2026-11-20T21:59:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 sells 32 5 million pre order copies makes 3 79 billion on day one",
+   "title": "GTA 6 Sells 32.5 Million Pre-Order Copies, Makes $3.79 Billion on Day One",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUZELWdLaTVnd0pkempfSG1HeVFCX1N6T0FhRm9vaVJMdFZ1ODYySVVGZlJ4cU52dl9ncFFaT0F6TE8zaTUtZWZqaGRmU25IbnRUWlIwdF9wTVpnclhzR2ItX3JNTXhZSEwtZDRHNDRMN2ZRVmJLNktWTVhiQWNYOWl5a3BodjFwRmdkUGtxZGgyTll6d3N0emNJQS1DTk9CSGVrWW5KdXVQZjJIUWZEVGJn?oc=5",
+   "outlet": "KeenGamer",
+   "via": "Google News",
+   "published": "2026-11-20T21:57:52+00:00",
+   "seen": "2026-11-20T21:59:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 selling 32.5 million pre-order copies and making $3.79 billion on day one."
+  },
+  {
+   "id": "try this gta 6 movement speed setting to make jason and lucia walk faster",
+   "title": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb3BGQzhReHR0b3o5d0FpbjN6UWc0MC12ekI4VUxzZnZGZk5UR1M4NEUtaVVfSFRIVWJtNHE3Y2VmT2t0b2FLY1JFcmh6cnFYUEhCVHNndGtBUWFmLXoyVVB1WEs4Mk1id0dMbVRQa0lVWGRaTmRxaFV0UXd6dGpPZTBWVHYzSjdUTjI2WmphaFJQUQ?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-20T21:52:04+00:00",
+   "seen": "2026-11-20T21:59:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 movement speed setting to make Jason and Lucia walk faster."
+  },
+  {
+   "id": "grand theft auto vi is the biggest video game launch of all time",
+   "title": "Grand Theft Auto VI is the biggest video game launch of all time",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdU5pWlZ2VlUxMUlaVWJsQVM0VWhFc0x0ZHlZX01oV2JJVDRTVURNektsbklLTTVLUmw0R0x5SS1IT2ZvWGNjUWRDbENsWkNCVUM2TWUyZnJpU2t1Mkw1UFZ0YkpBYTFZeGZaUld4cXpuVjllbHVycFlRVWFkSF9Udi1sckUzYkxPTEpYdFRCYzRBLUgzOEpUZUVadGpLY2t4a3J2VExQS2NtVEE?oc=5",
+   "outlet": "Game Developer",
+   "via": "Google News",
+   "published": "2026-11-20T21:51:42+00:00",
+   "seen": "2026-11-20T21:59:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports Grand Theft Auto VI as the biggest video game launch of all time."
+  },
+  {
+   "id": "the best music moments and surprise cameos from gta vi",
+   "title": "The Best Music Moments and Surprise Cameos From ‘GTA VI’",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaE1zakUzUmJxdVZHaE41M2JCOW85QjZMamZRQjA4cURDTGtnSUdsWkxMSDRsSy1JQWtfRTh5T2M3NHdrVURnMFJaYlU5M3BRZ0gxSUdILVJwdzd6Y0Fnd1JVSDlTMTRUZ3FMV3l4NC1Wbko4UXBSZUwxR1VTQmhVTUVn?oc=5",
+   "outlet": "Rolling Stone",
+   "via": "Google News",
+   "published": "2026-11-20T21:51:33+00:00",
+   "seen": "2026-11-20T21:59:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the best music moments and surprise cameos from GTA VI."
+  },
   {
    "id": "gta 6 pc port could come from hackers before rockstar if cyberleek makes good on its latest threat",
    "title": "GTA 6 PC port could come from hackers before Rockstar, if Cyberleek makes good on its latest threat",
