@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:07:28+00:00",
- "started": "2026-11-20T15:07:22+00:00",
+ "updated": "2026-11-20T15:12:22+00:00",
+ "started": "2026-11-20T15:12:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T15:07:22+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T15:12:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 97,
-   "checked": "2026-11-20T15:07:23+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-20T15:12:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T15:07:23+00:00"
+   "checked": "2026-11-20T15:12:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T15:07:23+00:00"
+   "checked": "2026-11-20T15:12:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T15:07:23+00:00"
+   "checked": "2026-11-20T15:12:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-20T15:07:23+00:00"
+   "checked": "2026-11-20T15:12:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T15:07:24+00:00"
+   "checked": "2026-11-20T15:12:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T15:07:24+00:00"
+   "checked": "2026-11-20T15:12:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T15:07:24+00:00"
+   "checked": "2026-11-20T15:12:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T15:07:24+00:00"
+   "checked": "2026-11-20T15:12:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T15:07:24+00:00"
+   "checked": "2026-11-20T15:12:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T15:07:24+00:00"
+   "checked": "2026-11-20T15:12:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-20T15:07:24+00:00"
+   "hits": 3,
+   "checked": "2026-11-20T15:12:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T15:07:24+00:00"
+   "checked": "2026-11-20T15:12:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 just sold an estimated 2 36 billion in one day nearly triple gta v take two stock is rising",
+   "title": "GTA 6 Just Sold an Estimated $2.36 Billion in One Day, Nearly Triple GTA V. Take-Two Stock Is Rising",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcExDSFpzcDJmcGczNVdNdVp1MGM4dXRKZ0RSSklWX2x0cVEyaVFXNEpra3M2cVBpaVdrdFFuT3F2bGxDQnZSTzZhV0FTcVpDUm5XZTBmU2JmZDBpR2N1MzlJcV9WelNBQlpfelFoNkpOSnpNMnZZYnRDanNhYzcycXBydmFGQzItOFN4czU5QVdWRGZxUkdhb2g1NmhlcnZILWFpWXhBNEd6OVJValBjQVkxVzZNU0stcG1OR2VOUFFjVGF6THRfblA4WXpyYmdubWRWcjNPRGg?oc=5",
+   "outlet": "24/7 Wall St.",
+   "via": "Google News",
+   "published": "2026-11-20T15:07:00+00:00",
+   "seen": "2026-11-20T15:12:16+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 sold an estimated amount in one day and stock is rising."
+  },
+  {
+   "id": "rockstar delayed gta 6 twice founders should calculate this number before naming a launch date",
+   "title": "Rockstar Delayed GTA 6 Twice. Founders Should Calculate This Number Before Naming a Launch Date",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1pyZUxnQW94NXpZV0hLbUV0NHRDSENmM0NjRVE2T2NQYVR4ang3aXJjSzhjNmRYY0FDbWdpbTFzZjVRQjBfUzhvMUNNNi1Fanc2RmFMMklwSDhYLWdKWU1Zb2J6OWhWckxSTU54V1hhX0hUMkRrVS1DWDNlY2dsbzBrSkZVUllRZXdOMmlRdi1Lam1mYmZUc1lORW1HZw?oc=5",
+   "outlet": "Inc.com",
+   "via": "Google News",
+   "published": "2026-11-20T15:05:51+00:00",
+   "seen": "2026-11-20T15:12:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes GTA 6 was delayed twice and suggests founders should calculate a number before naming a launch date."
+  },
   {
    "id": "how to workout in gta 6 to build strength and cardio quickly",
    "title": "How to workout in GTA 6 to build Strength and Cardio quickly",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains workout minigames in GTA 6 like Kettlebell Swing and how to improve gains."
+  },
+  {
+   "id": "gta 6 the first billion dollar game may also be the last",
+   "title": "GTA 6: the first billion-dollar game may also be the last",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenVBR1QxcDFkbGtSc2pTeEFURXRfemwtNDZ0MGdKUlN0LUx6WjJCSnlILS1QLW10MnI4a2xCZmc0SHA0aXc1dEttVXpxQmpmXy01dGNkQlRnWnFWSDh6R003c2UtVWlyUEhyYy1RMVI4dFljbFdRd2hyZzJJZk5DSC15b0xhR0lhMUlneTVSbw?oc=5",
+   "outlet": "GamesIndustry.biz",
+   "via": "Google News",
+   "published": "2026-11-20T15:02:20+00:00",
+   "seen": "2026-11-20T15:12:16+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story claims the first billion-dollar GTA 6 could also be the last."
   },
   {
    "id": "gta 6 map guide leonida s best locations to explore once you unlock free roam",
@@ -168,6 +207,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story covers a star-studded Grand Theft Auto VI soundtrack featuring prominent artists."
+  },
+  {
+   "id": "grand theft auto vi features rob mcclure derek klena carolee carmello more",
+   "title": "Grand Theft Auto VI Features Rob McClure, Derek Klena, Carolee Carmello & More",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0FKaXJ2dnQyVks4NGszZkM5eTM2VUZhM3lOSHptQnE4elZBdm5kZl9ETEgyZkFSdE1IVjJZWWwxclZTS1VxT3Q4V0xTRlY0NEU1RE1GbWdXSWZVMC1pRGlTV0VxcFZtajM4NmhqaFhDbmhuUzhpSzEtY0lXZjhBSWdTa0F1WF92V2RSbEZFczhwSFhxMEhaZlRfdEJweVdwekdpUXhDNDZQR2ExSm5OOFM3QmVaNWhHVVdoWHRB?oc=5",
+   "outlet": "BroadwayWorld",
+   "via": "Google News",
+   "published": "2026-11-20T14:56:44+00:00",
+   "seen": "2026-11-20T15:12:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists Rob McClure, Derek Klena, Carolee Carmello and others as features of Grand Theft Auto VI."
+  },
+  {
+   "id": "how to increase or decrease jason and lucia s relationship status in gta 6",
+   "title": "How To Increase Or Decrease Jason And Lucia’s Relationship Status In ‘GTA 6’",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFNFcEVZRnY0TDk5RFhyV05udElpZGhaT244UUp1X1BmTzAtZ3otSlBfWUNaWkZpX2dEeS0tWWxxaDQzdUFGakdVZmtUNmdXcEhJU0c4amd4S1NkYTk4VkEwcWoxSm1IbGM5aEFGandUOFhWVjNNUmEwQ2FNZVlOckUtNlZoRXZFSHBGZWFXQzV5S2dpVzYxWFRQNG5FeW52c09FTmNOZUZ2UFZCdWwyN2JjcHdQRDZRS05Ka3NKdHQ4QQ?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-20T14:52:56+00:00",
+   "seen": "2026-11-20T15:12:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to change Jason and Lucia’s relationship status in GTA 6."
   },
   {
    "id": "gta 6 is finally here and lives up to the hype first reactions and discoveries adv",
@@ -378,6 +443,19 @@
    "ai_summary": "The story reports Power Trip releasing a new song that is only available in Grand Theft Auto 6."
   },
   {
+   "id": "what the gta 6 wanted level stars and red icons mean",
+   "title": "What The ‘GTA 6’ Wanted Level Stars And Red Icons Mean",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmJyUVhRRl96OUp1aEI2QnEwTVYteDhhNEVtMzhzY1FvLW5NZ2l5QkNWX1FnSDdKRHNDYjBfWmdOY0JXNXQ2aWlodzdrMEQ3RnNNT0RrNjAxcC1EYVdfU2o5Wnoyb05RYVQ4NmY4X2RNc3YxazBhTU9URXFZRndBTUJqVDgyc19JOE0yczl0MDNuSHRleldWX1NvdWNWVjBCODExZEh3?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-20T14:33:37+00:00",
+   "seen": "2026-11-20T15:12:16+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story explains what the GTA 6 wanted level stars and red icons mean."
+  },
+  {
    "id": "gta vi blows past 2b in sales since launch inside one of 2026 s biggest cultural moments",
    "title": "'GTA VI' blows past $2B in sales since launch: Inside one of 2026's biggest cultural moments",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazNBNlF1SmhyejlUX3k2T1NCLWpwODRGeFVadHh1bWJ1TFNJeWptUHZrV05aMUdxZENlVXdUS2VQWFNiRGFQa0hubU0xenVPU1QtdHMtN25UNlZXakd5cmJZM28tdlFIdkVYRXM4ajk5QndWYzJ2aC1GamZsUXZSaHFjZnFta2pLM1BlTmFibV9GajRLa1QzT293VERZWDBJeU14NDhjUllqYUlYUUVUOS1rSEhObWhVOHpaaG9kdE1yYkxIVU91LXJpMlM3Y1E?oc=5",
@@ -417,6 +495,19 @@
    "ai_summary": "The story reports a viral GTA VI clip featuring a female NPC has the internet deeply concerned."
   },
   {
+   "id": "a gta 6 pc scam kit using a fake pc port as bait is doing the rounds on the dark web",
+   "title": "A 'GTA 6 PC scam kit' using a fake PC port as bait is doing the rounds on the dark web",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVFNSY3lVREVqTzMzWlVhRXhkSmdnQWJocHpqejBVQTZydmNfb0JVeWVUWkRVTkw1bGNEai1KRUJ0Ync2elp4dDUyTURkSjk3TDl1RUlydEJsaWZhWjl1MHJXVzVaZ1QwWmZhYkxWRXMwb0ZVdHE4YWpGNWNxcFJTaFBtLTZyWWFrZVlCcUp6OWEzRnVOQ2c3MVNRbWh1UDM1Z1kzNVY2Y2huSlR1QUVDbGhQV2VaLWZKb2QzVjhVQlBMRVBhUXJMTE1rR1cweUpwV05LaVVJWVVodWxDWFlVVWgwMkctOXpsVUpibDkwd1JES3daMlF6eGE4VVlvSGIyM1RF?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-20T14:29:35+00:00",
+   "seen": "2026-11-20T15:12:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story warns of a GTA 6 PC scam kit using a fake PC port on the dark web."
+  },
+  {
    "id": "state of the art gta vi is selling the joke",
    "title": "State of the Art: GTA VI Is Selling the Joke",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ01xVE40QWZySFYyR19kWElKR0VPUHJZTjJUV0tCX21GdTRJdV9DdmlIMnNONGRMU2ptQ2hvTUwwTXFwYjVadjBoSHBrNXpWUERIa2FuQjItaVE3NlIzeTA0UHpydHBFT2Zkb3NLbEwxNzBhNm1uWjZPM2NvS3JQUkhyLWpYSGlFZnVrc0k5RjNxVG1GM042X1I1Yzk3WHQ2b1ZxaXpn?oc=5",
@@ -454,6 +545,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Yahoo notes Durban's DJ Lag celebrates a place on the GTA VI soundtrack."
+  },
+  {
+   "id": "what s one real car you wish you could drive in gta 6",
+   "title": "What's One Real Car You Wish You Could Drive In GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNamItdWJacld5ekhYZmktOFpMTVNNdEFEQnA1YmZVTXJUZDcxaUo5QU5Bcjc0NkNoUmVySnlZZnE2SEhmaUR2aWpVSXV0akJoWHU1TmFEeEw5TFNwbExoOEI4ZzMwbW9Udk5YMmtmajRReWFvV1lTS1NqcXZURVhpeTlUY0dzSlRraktabVN6Vktsa0NnNVlKQg?oc=5",
+   "outlet": "Jalopnik",
+   "via": "Google News",
+   "published": "2026-11-20T14:25:00+00:00",
+   "seen": "2026-11-20T15:12:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks which real car one would like to drive in GTA 6."
   },
   {
    "id": "when is gta 6 coming to pc online release date explained",
@@ -10971,6 +11075,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "GTA 6 is reportedly the most popular game on Twitch and Kick since its release, according to IGN."
+  },
+  {
+   "id": "people think gta 6 might accidentally be teaching men how to be better boyfriends",
+   "title": "People Think \"GTA 6\" Might Accidentally Be Teaching Men How To Be Better Boyfriends",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXVnZVNFR3RCa21HeFlwazU3aG9hU2NybG5nNm5fUHkxUDJNZkVwX1ZWalNxbnB0RmdHWDFRQko3dTYta0F3aVd6MVRqUlhqMFJRc2lUeVlPZjQwbExvZHhoQzlxY0ZjdWxuRTJpYlh4UDhreVRVUjM4TlZxd29IVm9tVWs?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-19T18:51:14+00:00",
+   "seen": "2026-11-20T15:12:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story suggests people think GTA 6 might teach men how to be better boyfriends."
   },
   {
    "id": "gta 6 soundtrack radio stations full tracklist score and celebrity hosts",
