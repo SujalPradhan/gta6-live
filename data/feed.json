@@ -1,109 +1,122 @@
 {
- "updated": "2026-11-20T12:26:22+00:00",
- "started": "2026-11-20T12:26:15+00:00",
+ "updated": "2026-11-20T12:31:22+00:00",
+ "started": "2026-11-20T12:31:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T12:26:16+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-20T12:31:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 87,
-   "checked": "2026-11-20T12:26:16+00:00"
+   "hits": 88,
+   "checked": "2026-11-20T12:31:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T12:26:17+00:00"
+   "checked": "2026-11-20T12:31:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T12:26:17+00:00"
+   "checked": "2026-11-20T12:31:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T12:26:17+00:00"
+   "checked": "2026-11-20T12:31:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-20T12:26:17+00:00"
+   "checked": "2026-11-20T12:31:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T12:26:17+00:00"
+   "checked": "2026-11-20T12:31:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:26:18+00:00"
+   "checked": "2026-11-20T12:31:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T12:26:18+00:00"
+   "checked": "2026-11-20T12:31:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T12:26:19+00:00"
+   "checked": "2026-11-20T12:31:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T12:26:19+00:00"
+   "checked": "2026-11-20T12:31:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T12:26:19+00:00"
+   "checked": "2026-11-20T12:31:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T12:26:19+00:00"
+   "checked": "2026-11-20T12:31:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T12:26:20+00:00"
+   "checked": "2026-11-20T12:31:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "every easter egg in gta 6 locations how to find them",
+   "title": "Every Easter Egg In GTA 6—Locations & How To Find Them",
+   "link": "https://insider-gaming.com/every-easter-egg-gta-6-locations/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-20T12:27:54+00:00",
+   "seen": "2026-11-20T12:31:19+00:00",
+   "summary": "Here's every Easter Egg that we've discovered so far in Grand Theft Auto 6, with more to follow as we find even more. The post Every Easter Egg In GTA 6—Locations & How To Find Them appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists Easter Eggs in GTA 6 and explains how to find them."
+  },
   {
    "id": "gta 6 leaker cyberleek reportedly threatens to release the xbox build",
    "title": "GTA 6 Leaker ‘Cyberleek’ Reportedly Threatens to Release the XBOX Build",
@@ -558,6 +571,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Meta leans into GTA 6 parodying Big Tech on WhatsApp's X page."
+  },
+  {
+   "id": "gta 6 sales numbers gta estimated sales and pre orders break records",
+   "title": "GTA 6 sales numbers: GTA estimated sales and pre-orders break records",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pcndQeDJ0MHI1czl0NnJ2NkRhS0NtWHlDSWF4bDNVaDUyOW5tQUpSQ0Z0UUJodDhaNXcyNDBUa0lLTjJGTDBkQVdHOV9vaGxnQ2JPNVplazJ1T3pVTGZkV3NUbXAwV0s0VkxKWFFtRlZDTWs?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-20T11:28:29+00:00",
+   "seen": "2026-11-20T12:31:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 sales numbers and pre-orders breaking records."
   },
   {
    "id": "gta 6 s full credits spark returning character rumor are they really in the game",
@@ -2287,6 +2313,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "GTA VI could generate $5B in first week, reviving franchise model."
+  },
+  {
+   "id": "gta 6 achieves rs 22 000 crore in sales on launch day",
+   "title": "GTA 6 Achieves Rs 22,000 Crore in Sales on Launch Day",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPeHBwajdQV3NUSnk5bnNsVXV4eks4dkhCd29NQjUxZG1nQzlGeFItMWlrbXc4ekRvcWU4a1lMVVZaWHpYMHF3bkRrUXBhODRCMklWblNfNkszVDZINmt5VG9rMjNIVVJTZmJPZzd1ellXYUtBYmZfUzBRTUxhVDNXRFhDWXhxajJqNDJheHRNQmhGMUZZTGYwbmZra2RJUEQwVFlPVE1zZW9fY0hhSDFrdlJrM0kwc3drT2FPUml5dXUxRWNkbGVDQ3o5bldpaTZDeWpSRTNqTmxiQXBQNDRLMkJLcW9RUjhFV3ZobkljNDNFcl9yN09VUE9Ed1I2WUxYMGN6N0ZRZUFPYnVJRzZrZG05UVgyQWpmcHJEU1NsY2piVVhyekFUNFZyTEdSdzdq?oc=5",
+   "outlet": "The CSR Journal",
+   "via": "Google News",
+   "published": "2026-11-20T07:30:13+00:00",
+   "seen": "2026-11-20T12:31:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story states GTA 6 achieved significant sales on launch day."
   },
   {
    "id": "gta 6 s billion dollar budget splits deus ex baldur s gate 3 and alan wake 2 veterans after its record tying 99 metascore",
