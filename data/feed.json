@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T10:00:41+00:00",
- "started": "2026-11-20T10:00:29+00:00",
+ "updated": "2026-11-20T10:05:38+00:00",
+ "started": "2026-11-20T10:05:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,167 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T10:00:30+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T10:05:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-20T10:00:30+00:00"
+   "hits": 95,
+   "checked": "2026-11-20T10:05:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T10:00:31+00:00"
+   "checked": "2026-11-20T10:05:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:00:31+00:00"
+   "checked": "2026-11-20T10:05:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T10:00:31+00:00"
+   "checked": "2026-11-20T10:05:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-20T10:00:31+00:00"
+   "checked": "2026-11-20T10:05:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T10:00:31+00:00"
+   "checked": "2026-11-20T10:05:33+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T10:00:31+00:00"
+   "checked": "2026-11-20T10:05:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T10:00:32+00:00"
+   "checked": "2026-11-20T10:05:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T10:00:32+00:00"
+   "checked": "2026-11-20T10:05:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T10:00:32+00:00"
+   "checked": "2026-11-20T10:05:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T10:00:32+00:00"
+   "checked": "2026-11-20T10:05:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T10:00:32+00:00"
+   "checked": "2026-11-20T10:05:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T10:00:32+00:00"
+   "checked": "2026-11-20T10:05:35+00:00"
   }
  },
  "items": [
+  {
+   "id": "a visual tour of grand theft auto vi s stunningly realized miami",
+   "title": "A visual tour of ‘Grand Theft Auto VI’s’ stunningly realized Miami",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGhKV0xIVE1UajJRRnVTSjdsSS1Od0M1UU9DSWc1VzJ6OTFDWWlfZDkxRWtUTkU3eTBIWW5yWTJnaDFKQUw0NHZDa3RoRlluZXJibXBhVDR3U1N6YUY3RFJPMVZBb0JvZkx0ZDBqT0JORG9EQVh5cnF1ZUluS2tkc0w0eTJXd1ktdm84OHFTS1cyMTJzYTlNTlh3SVhzeFV6T0VvTGNXMDE4WmQ0Y2JZUE5kQWRzTG5zTkNB?oc=5",
+   "outlet": "The Washington Post",
+   "via": "Google News",
+   "published": "2026-11-20T10:03:22+00:00",
+   "seen": "2026-11-20T10:05:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story presents a visual tour of Grand Theft Auto VI’s Miami setting described as stunningly realized."
+  },
+  {
+   "id": "gta 6 players can now claim a free gift as rockstar celebrates monumental launch",
+   "title": "GTA 6 players can now claim a free gift as Rockstar celebrates monumental launch",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdGRYMHBxRHZ0YkRpVTQtZXA2OVVQektTcUFENldpdXM1MkpSbXpka1FSRGlyUXdtb1hkSXdiSlZ1TFMwLVI5Uno2ZlZCUmpDVlQ3NjFES1dLM1pVazh2V1lFUl9uVXZPajFzNjNwWTBxT3JBdHd2ZlZ5X3BNZWJyZEFGWkdRRVdfcy1TS0wyM0pxM01IcTBDZzFWWEVkZw?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-20T10:03:03+00:00",
+   "seen": "2026-11-20T10:05:31+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players can claim a free gift as Rockstar marks the game’s launch."
+  },
+  {
+   "id": "question of the day do you know someone who is playing gta vi",
+   "title": "QUESTION OF THE DAY: Do you know someone who is playing GTA VI?",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFNJbFNscGt0QWtVLUpZeG0yU1pGcmtsbVVuYXpwYkoxT3I4dXlJZWI1Wkh2LXNlRmhsWTA2QWljNXhNQkFwb2trbnM5WjB5Y3NKYlBzUnQwbUJHaXRUazk4aWlUMkFGbHlPVE9UNk9acDIzV1BwTnM4YW8tRU00MWJuWWJqVVFGMVItUS1JZklNUFZwQm1IeUFhUjlRc2ozZ1VNby1kVHNGNFpkclVDOXN3?oc=5",
+   "outlet": "ABC17NEWS",
+   "via": "Google News",
+   "published": "2026-11-20T10:02:11+00:00",
+   "seen": "2026-11-20T10:05:31+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "A daily question asks readers if they know someone playing GTA VI."
+  },
+  {
+   "id": "why grand theft auto vi is one of the biggest entertainment releases ever",
+   "title": "Why 'Grand Theft Auto VI' is one of the biggest entertainment releases ever",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkxEeV9OR1oyNTlKU201SDVvVGVuS2trUGVOWFBmVnk0ME14TGh2bkM0VHpFelRVMHBlMEVkdnBaSEdsWU9Kc0tIYVBmNzlDRWxFZ29vbUppeV9BT3FuSktrdEZ5eVk4Z2ZBNUlMZFlfenhSS1pVTXVWRGltdnl1T2ZlaTVKSEZ1NHFMUmZUa2pXSWZ4empYc0lrd1VXSk0?oc=5",
+   "outlet": "MPR News",
+   "via": "Google News",
+   "published": "2026-11-20T10:00:00+00:00",
+   "seen": "2026-11-20T10:05:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The piece argues that Grand Theft Auto VI is one of the biggest entertainment releases ever."
+  },
+  {
+   "id": "gta 6 players are spending their precious pto doing virtual blue collar jobs",
+   "title": "'GTA 6' players are spending their precious PTO doing virtual blue-collar jobs",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVRwTWpMaVdSYTZvV0V4NWRoajI2eDZEUlFwQ0kxXzdMZFBYM0c2cmRHRDdpWHE4NGlQZmpEWFJIcG51SHVpLWxGVExROGZGcGpHMVNyZXhtYVJIdjBsWGdFUWJ2V2tRV2lWR2tzcU1Sdmdxa2lSTzFJUGY3YUpjV0FRd216MV9jZnY1QkFvaEM?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-20T10:00:00+00:00",
+   "seen": "2026-11-20T10:05:31+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players are spending their PTO on virtual blue-collar jobs."
+  },
   {
    "id": "gta 6 achieves record breaking launch with 2 36bn in sales",
    "title": "GTA 6 Achieves Record-Breaking Launch with $2.36bn in Sales",
@@ -129,6 +194,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that Doja Cat is upset about not being included among the featured artists in Grand Theft Auto 6."
+  },
+  {
+   "id": "gta 6 endings explained everything that affects story s outcome",
+   "title": "GTA 6 endings explained: Everything that affects story’s outcome",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEbm4yM0NyZkhvbjVQb3h4VF8wVFBDdlpjclpHMEFxU29BUTkwU0JKUGFzT1dhV0VmS2pyTzlSR21QdEFLdDFMQUp2ZUd4SV9SQkU3ZmdlanNORkp2YlhEaA?oc=5",
+   "outlet": "The Big Lead",
+   "via": "Google News",
+   "published": "2026-11-20T09:55:20+00:00",
+   "seen": "2026-11-20T10:05:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article explains how endings in GTA 6 affect the story’s outcome."
   },
   {
    "id": "gta 6 players have discovered how to play the game in first person here s how",
@@ -207,6 +285,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6 setting an entertainment launch record with two point three six billion dollars."
+  },
+  {
+   "id": "gta 6 should you spare or kill arnold",
+   "title": "GTA 6: Should you spare or kill Arnold?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObDE3ZUtBVHphUWt4cFpaWkpMTU5IQUxxanU2Yk9aVFlCYmwyVFBFdTJaMzFUaFA0RWg4UjlWN2VRUHBLdG9NM2NaUk10TFpsQXkwaXhESHRHelE4eXVXdkRmekkzUFV2SzNqTDJLS2lNRGp1d2tUUkZZTmNxSEwtc0NhSQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-20T09:20:17+00:00",
+   "seen": "2026-11-20T10:05:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether you should spare or kill Arnold in GTA 6."
   },
   {
    "id": "grand theft auto vi is back and shattering records",
