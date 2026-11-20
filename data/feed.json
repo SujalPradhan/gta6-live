@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:49:29+00:00",
- "started": "2026-11-20T06:49:23+00:00",
+ "updated": "2026-11-20T06:54:30+00:00",
+ "started": "2026-11-20T06:54:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T06:49:23+00:00"
+   "checked": "2026-11-20T06:54:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T06:49:24+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T06:54:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T06:49:24+00:00"
+   "checked": "2026-11-20T06:54:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T06:49:25+00:00"
+   "checked": "2026-11-20T06:54:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T06:49:25+00:00"
+   "checked": "2026-11-20T06:54:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T06:49:25+00:00"
+   "checked": "2026-11-20T06:54:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T06:49:25+00:00"
+   "checked": "2026-11-20T06:54:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T06:49:25+00:00"
+   "checked": "2026-11-20T06:54:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T06:49:26+00:00"
+   "checked": "2026-11-20T06:54:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T06:49:26+00:00"
+   "checked": "2026-11-20T06:54:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T06:49:26+00:00"
+   "checked": "2026-11-20T06:54:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T06:49:26+00:00"
+   "checked": "2026-11-20T06:54:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T06:49:26+00:00"
+   "checked": "2026-11-20T06:54:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T06:49:26+00:00"
+   "checked": "2026-11-20T06:54:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "your boyfriend is dating gta 6 s lucia here are 5 fictional men you can spend your time with instead",
+   "title": "Your boyfriend is dating \"GTA 6's\" Lucia. Here are 5 fictional men you can spend your time with instead.",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2syNmNRbEpVc2tQQ1VzYWlWbWN1R3E1WXRnZlJ3YXlJbDd2SFFZdTZxR3NvLWU3cURHUXBJT0hhTEdfeDUzdXN3SnlYRmhCLXd2WVFLckZSYlZrbm1EQk9xazhma2dhZi1TRnNCYUtnTEUtZEZ0RWswdkotN1hVa0N6S3RnVC1sNzBn?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-20T06:50:00+00:00",
+   "seen": "2026-11-20T06:54:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims your boyfriend is dating Lucia from GTA 6 and suggests five fictional alternatives to spend time with."
+  },
   {
    "id": "gta 6 passes 2 36 billion in estimated launch day sales",
    "title": "GTA 6 passes $2.36 billion in estimated launch-day sales",
@@ -142,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Hamilton plans a GTA VI session after Vegas FP2, describing himself as like a big kid."
+  },
+  {
+   "id": "more than just a game how gta vi s blockbuster launch fuels a booming content economy",
+   "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZzFJbndQa2dnZGVuWWZTYVhHTjZSTG5KZnlkNHpodEtUS2VOcVNLelN6LVFINEhrcXdmdmlUQVNGU3hUbGVOTGY4OFhrcmFkeDY0WG1aSjlnc3gzU0ZKYTZJcklydDQ4dVBZczlTWVhYclZhenRCRDFZUi1QUFd1a0N30gGHAUFVX3lxTE5nd1RuS192eTJvRTVYMVB0OWVrWFhWWkdrdDRSV2pyT3JiaHptWThHbHBWbEdHOHcxdVpkc0Y1aGp5Sy1ITG5Eb2Fpd193dmVTY2NuYXNRaUM2dzdkWHEtRE5DRnFRXzAtSE5EalRhRU9ZR284YkJaLWMxSzlMRHpEdFVBQ0JLVQ?oc=5",
+   "outlet": "CNBC",
+   "via": "Google News",
+   "published": "2026-11-20T06:36:32+00:00",
+   "seen": "2026-11-20T06:54:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses GTA VI’s launch boosting a booming content economy beyond being just a game."
   },
   {
    "id": "gta 6 launch breaks internet records as livestream reaches nearly 8 million viewers",
@@ -623,6 +649,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "The story reports that GTA 6 sets a Metacritic record and revives three classic characters."
+  },
+  {
+   "id": "blackpink s jennie joins star studded gta 6 soundtrack as only korean artist",
+   "title": "Blackpink's Jennie joins star-studded GTA 6 soundtrack as only Korean artist",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1UEJqOWRDVGQwOEVEa2dPaTNmQ1hOaURtckJjNXE2QmZDVDhoTUxJZElYZXQ1MGU3dmdsUFMzN2cxN0MzMjQtaTVUWkNkUjVocS1NZ2QwUQ?oc=5",
+   "outlet": "The Korea Herald",
+   "via": "Google News",
+   "published": "2026-11-20T04:24:17+00:00",
+   "seen": "2026-11-20T06:54:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Blackpink's Jennie joins GTA 6 soundtrack as the only Korean artist."
   },
   {
    "id": "dog riding personal watercraft on gta vi may have been inspired by this viral south florida pup",
