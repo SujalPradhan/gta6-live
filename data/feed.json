@@ -1,109 +1,174 @@
 {
- "updated": "2026-11-20T20:54:55+00:00",
- "started": "2026-11-20T20:54:27+00:00",
+ "updated": "2026-11-20T20:59:30+00:00",
+ "started": "2026-11-20T20:59:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-20T20:54:35+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-20T20:59:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-20T20:54:44+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-20T20:59:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-20T20:54:51+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-20T20:59:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:54:51+00:00"
+   "checked": "2026-11-20T20:59:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:54:52+00:00"
+   "checked": "2026-11-20T20:59:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T20:54:52+00:00"
+   "checked": "2026-11-20T20:59:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T20:54:52+00:00"
+   "checked": "2026-11-20T20:59:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:54:52+00:00"
+   "checked": "2026-11-20T20:59:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T20:54:52+00:00"
+   "checked": "2026-11-20T20:59:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T20:54:52+00:00"
+   "checked": "2026-11-20T20:59:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:54:52+00:00"
+   "checked": "2026-11-20T20:59:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T20:54:53+00:00"
+   "checked": "2026-11-20T20:59:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T20:54:53+00:00"
+   "checked": "2026-11-20T20:59:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T20:54:53+00:00"
+   "checked": "2026-11-20T20:59:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 amasses 3 79 billion in 24 hours making it the biggest entertainment release of all time",
+   "title": "GTA 6 Amasses $3.79 Billion in 24 Hours Making It the Biggest Entertainment Release of All Time",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmFrZW5MNDd5bGNFMF9lNk1xMDQ0U01jVUdCcF9xUkY5M3U5OU8tWkp5cGdQOFRwMkdDbllPcXJsaTRSYVpRcUZVSGNLbVRQUEhjempYejVwdHhCdWNuZ2pvczltNjQ1eGh0ZXBXY1d2bVk2NWRVSEZfNmxKZnk4d2N4TnRTOUlLM25XTEhoZVhHNXZ3VktSQXdDMERMSHdNUkRIWUlB?oc=5",
+   "outlet": "MP1st",
+   "via": "Google News",
+   "published": "2026-11-20T20:54:13+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 reportedly earned $3.79 billion in its first 24 hours, making it the biggest entertainment release according to MP1st."
+  },
+  {
+   "id": "rockstar first day grand theft auto vi unit sales top record 3 79 billion",
+   "title": "Rockstar: First-Day ‘Grand Theft Auto VI’ Unit Sales Top Record $3.79 Billion",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN0g3djg0RHdtNURraFlHVkQ4bG96Y0hmOEdpRk9YTkdmYUIyOWR4OERyYzJHS0hvQVAxdUFZcG9OOWY4WF9lRXBKMXlvR2hYbm5KeHFVemxtR09odFY5bW1OSE5pMmxLOXZya3dqZmpwaGc5YTlXVmJsMVpCRE9qTWxzUFRoMDdyaGdPQnFqbEZkeV9VcUlSQW5MMENGdFBuQkxOdjF3NA?oc=5",
+   "outlet": "Media Play News",
+   "via": "Google News",
+   "published": "2026-11-20T20:53:05+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "First-day unit sales for Grand Theft Auto VI reportedly topped $3.79 billion, per Media Play News."
+  },
+  {
+   "id": "gta 6 has dexter references and now dexter himself has reacted",
+   "title": "GTA 6 Has Dexter References, And Now Dexter Himself Has Reacted",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUk1vdHZzMk92bm5EcWN4aERLVnRFaFdHZ2c4OFAzR2Z3RjNSNzl1U2tNcmhLYXdyQ0FLSXJCck5EbEhxeGlkX194Um4xVlB0V3pNNnozN2FuRWpGZGk4MHI4OWVaVlFVb3ZEZDN4MXBzTTZuRG9vYkx6OFdBNTEyeHRhUlp0d0NqTjFoNUhBYkJRbVB2WmpYREQtQTYxQQ?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-20T20:52:39+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 has Dexter references and Dexter has reacted to them, according to GameSpot."
+  },
+  {
+   "id": "grand theft auto vi s record changing opening day gross revealed",
+   "title": "Grand Theft Auto VI's Record-Changing Opening Day Gross Revealed",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBVVRiWHZ6TlhVc3QybVRad2hfQ2JWRWo4NUwtMVh1UzN5amxQa2F5VG8tdkk0NVlGd0tvOG1CUlhrWkh6TEhTMl9yQXo0d3VzOU1CNVA2VmQ2T0E?oc=5",
+   "outlet": "MovieWeb",
+   "via": "Google News",
+   "published": "2026-11-20T20:52:25+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI's opening day gross is described as record-changing, per MovieWeb."
+  },
+  {
+   "id": "gta 6 sells 32 5 million copies and makes 3 79 billion in a single day",
+   "title": "GTA 6 sells 32.5 million copies and makes $3.79 billion in a single day",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWktURy1rZ19TYXY2ZU5xWjZ1aURXNkNTOVMwVzVURFE5c3NMSXp2RHhwRFhJY05POUp2X2k1aTNBSjNBN191WE1GaUJDYWVVN2JObDFHYnFoRFp5OEoxR3pUdzRreHZOLWlxQmNvMWdTdlRtS3pYZWczcGVJMnNjMmVuWHpGZVpoM1c3OWxLd2x2amlxRVo3cGxoSWMtYVRvbnlsejZoOEtqMzhkR19BaA?oc=5",
+   "outlet": "TheSixthAxis",
+   "via": "Google News",
+   "published": "2026-11-20T20:52:18+00:00",
+   "seen": "2026-11-20T20:59:25+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sold 32.5 million copies and generated $3.79 billion in a single day, per TheSixthAxis."
+  },
   {
    "id": "how to open the gta 6 kingpin bowling alley safe",
    "title": "How to open the GTA 6 Kingpin Bowling Alley safe",
@@ -116,6 +181,58 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Open the Kingpin Bowling Alley safe with this guide."
+  },
+  {
+   "id": "grand theft auto vi is a hit everywhere but the senate",
+   "title": "‘Grand Theft Auto VI’ is a hit — everywhere but the Senate",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEZOUDJZdlBGUGlkNEl6VTJ0V2pXNmtqOVBzN3V0SnJNRV9hOTcwY1lfUG92X29IVVdxaTJJQ05KNFNXdWdUVnhkWm5Ka3ZNSl9GNlBnaWNVTllCR3RHTU96Smg3T1dPdGpkWTJBVFpEWVpJdDJZXy1JRDRSTTh5R1lPSVlpTGZjTlA1YVNRVjBrVllWdGlsT1didnp0UTZJTWE5SzdBdGo0elpGWTh4YVhlYw?oc=5",
+   "outlet": "NBC News",
+   "via": "Google News",
+   "published": "2026-11-20T20:52:13+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI is a hit everywhere except the Senate, per NBC News."
+  },
+  {
+   "id": "gta vi is finally here and filled with celebrity appearances here are some notable ones",
+   "title": "GTA VI is finally here and filled with celebrity appearances. Here are some notable ones",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXpFWnY4WUFCamtmRkVlekJubWlPeWJDQXJTcHU1bC1SZ05XdzQ2MTc3eHYzZlEyX0owT01HWElyM2taeEwxNmgxUkNIQ2d1eGxpQ29KS21DWFhJZHNkbjJwSGFwTV83em84UzRPYkI1Z3JzR1RKUm43Y1l1WWdZQ1FUNEp3eFBHTTJGNXd3aDFsRl9wbXp0SklDN3VqWXRqNE9CcEN6SVp3QnExNTRRWW1Pak9lYXRrcXFr?oc=5",
+   "outlet": "TheGrio",
+   "via": "Google News",
+   "published": "2026-11-20T20:51:45+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI is out and features celebrity appearances, with notable ones highlighted by TheGrio."
+  },
+  {
+   "id": "gta 6 has a blockbuster launch already sold at least 32 5 million copies",
+   "title": "GTA 6 Has a Blockbuster Launch, Already Sold At Least 32.5 Million Copies",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPalZ6U3VIWXg0TEwwT1dOQ3AxTzVfLVRQRko5andIdG0teXU2UG5DR1c1c19DcVRYZGM4ZG05WDUzUDFvT3AxbXJIQ1hvRjNocHQ1MEpjaGNFVFNpcEVhR09rOURrc3ZQajRUU1R5T292Qml6N01vMkZBajRtRUJWOHE1NWU1WWdoY3ZpRG5SZk9ZQjI2aGNTVEhCcXZfazN2ZTZYQVhSdm4?oc=5",
+   "outlet": "PCMag Australia",
+   "via": "Google News",
+   "published": "2026-11-20T20:48:43+00:00",
+   "seen": "2026-11-20T20:59:25+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 has a blockbuster launch and has sold at least 32.5 million copies, per PCMag Australia."
+  },
+  {
+   "id": "gta 6 makes 3 79bn on day one the biggest entertainment launch ever",
+   "title": "GTA 6 makes $3.79bn on day one, the biggest entertainment launch ever",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2pJQVBXVWp5ODFpTDdQMjdwaGdwRzJFNnJUYWhfODlrd1pvU2NSMk00bUlxRVFZVkw2MHpnZXFNZ0VCMFZXajZ0M2FKSkFXQnk5eG0zTjM5ODhzY3VLQm5tS3FJRGtVYTJOZi1rTkhQSTdtOUtPejg4d2hWWHo1OG1sVUp5bE0ycGRSRlNKdy1rcXV3OS1vX3ZVc3VZemI4NXFZYUo2aXkzVG5Dc2c?oc=5",
+   "outlet": "Inven Global",
+   "via": "Google News",
+   "published": "2026-11-20T20:44:50+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 made $3.79 billion on day one, described as the biggest entertainment launch ever by Inven Global."
   },
   {
    "id": "gta 6 official sales numbers break records with 32 5 million pre release units sold generating 3 79 billion",
@@ -363,6 +480,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports Take-Two raked in nearly $4B and shattered the first-day sales record."
+  },
+  {
+   "id": "hardaway shares concerns for tigers players over gta vi release",
+   "title": "Hardaway shares concerns for Tigers players over GTA VI release",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNUNTRm03VFpQal82RE9MaHp0MXhhZ3VValNITnl3dC1WaEVIMnVDWnZuTlhERlltZjVlQzczSXd1UWNYLWIyVUNhZjNhNHo4ZVlkREloTlUwWVA0T3QwSWpkcDNXSHZCRmVjLWdMckQyWTdLS0UtQTUwbmg0cUQxRDVWZGhDMGZmNEk5Y0NhZ0VtV05DYk9xMW9kWUpUeEQ5cTdEeWN0aWJOYUFNSFdXV0RCOWlUV0RMczlXSmcxS0dlMFpMWGJ5RHdZc3dScVFRZE5hWXdCVFVFSHNnRHBVMw?oc=5",
+   "outlet": "FOX13 Memphis",
+   "via": "Google News",
+   "published": "2026-11-20T20:25:00+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Hardaway expresses concerns for Tigers players over the GTA VI release, per FOX13 Memphis."
   },
   {
    "id": "the best songs on grand theft auto vi the album reviewed",
@@ -911,6 +1041,19 @@
    "ai_summary": "GTA 6 makes $3.79 billion with 32.5 million copies sold."
   },
   {
+   "id": "gta 6 is officially the biggest entertainment launch of all time",
+   "title": "GTA 6 Is Officially The \"Biggest Entertainment Launch Of All Time\"",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90cTctZ0dpV0t4Y2dLU29YbVVxSm5DSF9Ndkt1cTlpUXdZUHdsWmtJODFBeGp0NE9MeU04cXAwQXZ1bWlqWHQ3X21mQ2JJSlk2d2hrZWJNcnNBUDB1VGVMb2pKQlh3ZDhaVmhHOVF1bmNnamN3MlNQWg?oc=5",
+   "outlet": "TheGamer",
+   "via": "Google News",
+   "published": "2026-11-20T19:55:37+00:00",
+   "seen": "2026-11-20T20:59:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 is officially called the biggest entertainment launch of all time by TheGamer."
+  },
+  {
    "id": "gta 6 sets even more records",
    "title": "GTA 6 Sets Even More Records",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MbmJuY3JsaUwzUllTeS0wNGxoZ2NjNzlQNzZEamt6NXZCSWtCOVlnNm1DQ3dZZ1NfdG9peGJpNlJubTU5RHhFdUpmSDF1eDlPYnkwREo4S3d0WF9BdFYwV0RHTG1fNnU2c2toODUyeXY?oc=5",
@@ -961,6 +1104,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "The story reports a music breakdown for GTA 6 with more than 700 songs and 90 years of music across 20 radio stations."
+  },
+  {
+   "id": "grand theft auto vi debuts with 3 79b in sales setting entertainment record",
+   "title": "Grand Theft Auto VI debuts with $3.79B in sales, setting entertainment record",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTFNac2xLamNVa0UyTFZ1TTY2dW5rbjhBcjFDZjhDX3JqaWg3cXdURzlCdVplMWlXYW1DY0h1cTQ4TlhhTlFxbm5qcEd4VDRybWVvODB4QVJiSlpGT3VjOXl6NWwxMW9Gd3dVWHJIeERUSTZyUXFZYVhtUGpueTZfdGUyLUFpY1NUaWZKbkZKYWE4VnB1MjJ1VTl6VU9HOUFKNVlMMXNMRXNVU3BSdk8tdzBjbnplYVUzbkhYS1Y2TDQ3NkZzdWg5am5FMA?oc=5",
+   "outlet": "Investing.com",
+   "via": "Google News",
+   "published": "2026-11-20T19:52:30+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI debuts with $3.79B in sales, setting an entertainment record, per Investing.com."
   },
   {
    "id": "grand theft auto vi shatters entertainment records with 3 79b sales at retail on 1st day",
@@ -1442,6 +1598,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Martha Stewart talks holidays with family and an exclusive GTA 6 Christmas gift for her grandson."
+  },
+  {
+   "id": "why gta 6 is a global phenomenon gaming can t ignore",
+   "title": "Why GTA 6 Is a Global Phenomenon Gaming Can’t Ignore",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IODBjR0lidWhwRmFGdWdRVVVhVGdva21xSU5kUjYwRUdOVEllSUNYX2pHRVlBcWNjTUZLUFd3TUx0SlhKS0tXY2lBVVZYaXpiWFZVdXdGa3JtakhPcWc?oc=5",
+   "outlet": "HipHopCanada.com",
+   "via": "Google News",
+   "published": "2026-11-20T19:24:38+00:00",
+   "seen": "2026-11-20T20:59:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is described as a global phenomenon that gaming can’t ignore, per HipHopCanada.com."
   },
   {
    "id": "gta 6 hits massive 3 79 billion in first day sales",
@@ -3756,6 +3925,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Students nationwide skipped class to play GTA VI, with some Jayhawks joining in."
+  },
+  {
+   "id": "biggest takeaways from grand theft auto vi the album hip hop wired",
+   "title": "Biggest Takeaways From ‘Grand Theft Auto VI: The Album’ - Hip-Hop Wired",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUhtdEdhQ29INTFtOHJCekNaSVlueWxuUW1VcXdHbnNKZWVzYUdMLXdXMkN6QVhEYTFjekxjeWwxZkZqVkVMT19HUGJrZlR6RGl4Sl9tWGppbXMzemZTM3BkZm8zNjR5S0F0VFlRRUhNMVdMZnFpbk9hcS1jeUpBNnV4NmJ4anNCeU1mdW1R?oc=5",
+   "outlet": "Hip-Hop Wired",
+   "via": "Google News",
+   "published": "2026-11-20T16:00:36+00:00",
+   "seen": "2026-11-20T20:59:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Key takeaways from Grand Theft Auto VI: The Album are highlighted by Hip-Hop Wired."
   },
   {
    "id": "6 steam games to wishlist that aren t gta 6",
