@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:34:51+00:00",
- "started": "2026-11-20T07:34:46+00:00",
+ "updated": "2026-11-20T07:39:48+00:00",
+ "started": "2026-11-20T07:39:40+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T07:34:46+00:00"
+   "checked": "2026-11-20T07:39:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T07:34:47+00:00"
+   "checked": "2026-11-20T07:39:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T07:34:47+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T07:39:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T07:34:47+00:00"
+   "checked": "2026-11-20T07:39:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T07:34:48+00:00"
+   "checked": "2026-11-20T07:39:42+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T07:34:48+00:00"
+   "checked": "2026-11-20T07:39:42+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T07:34:48+00:00"
+   "checked": "2026-11-20T07:39:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T07:34:48+00:00"
+   "checked": "2026-11-20T07:39:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T07:34:48+00:00"
+   "checked": "2026-11-20T07:39:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T07:34:49+00:00"
+   "checked": "2026-11-20T07:39:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T07:34:49+00:00"
+   "checked": "2026-11-20T07:39:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T07:34:49+00:00"
+   "checked": "2026-11-20T07:39:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T07:34:49+00:00"
+   "checked": "2026-11-20T07:39:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T07:34:50+00:00"
+   "checked": "2026-11-20T07:39:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 s billion dollar budget splits deus ex baldur s gate 3 and alan wake 2 veterans after its record tying 99 metascore",
+   "title": "GTA 6's billion-dollar budget splits Deus Ex, Baldur's Gate 3, and Alan Wake 2 veterans after its record-tying 99 Metascore",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZTlPbHluNVROOEtlUVRXUzBRb3pGWVdKS3VZc2Y0R1RmYzR5UFlNMEtDbHM2dGF0Y1ZvWTVDTVZZYU1UWEgzZ09wSm51aXEwVE93ZzNvWTVxRkNIMHluM19UeGZ2QmFWUzMwTW9GcDJMUGNLSkpQbmNJanc1am5XazZkaVhtWU1HWlhHVXRzVm9oYnk2NnkxMmQwaG4zMG9RbFd3TWdMSWtTQTJtaG51endOUUpCZmQ5THZrc1BJb1hCbktZNHVzR2wwbkN0Y3lOZGZJMXUzNUdVQ3hNLWQxdGllNjJPZHdFYjNqaWVad2c1QW5vaXZQcGpn?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-20T07:29:00+00:00",
+   "seen": "2026-11-20T07:39:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6's budget splits veterans from Deus Ex, Baldur's Gate 3, and Alan Wake 2 after its record-tying Metascore."
+  },
   {
    "id": "gta 6 becomes the biggest entertainment launch crossing 2 billion in sales",
    "title": "GTA 6 becomes the biggest entertainment launch, crossing $2 billion in sales",
@@ -482,6 +495,19 @@
    "ai_summary": "Grand Theft Auto VI: The Album is here: listen."
   },
   {
+   "id": "gta 6 generates estimated 2 36 billion in first day sales",
+   "title": "GTA 6 generates estimated $2.36 billion in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWEVzc2F4Y2VTaWxPZ0RRbVloRlR3ZGYzVGUxODZyaUExMFRfWE42YnBfM3RZVE42eGRWcVZvbC02WVp1UVBQQXRjZ1dVdkwtUHJ2b0F0LURkUTJwNlg0RDI3akdwQjRJR1Nrdllycm9Tbmd2R1Y2emlhTmtsTEc3OFYzNUc2NU44VEtzYVlR0gGOAUFVX3lxTE5YRXNzYXhjZVNpbE9nRFFtWWhGVHdkZjNUZTE4NnJpQTEwVF9YTjZicF8zdFlUTjZ4ZFZxVm9sLTZZWnVRUFBBdGNnV1V2TC1QcnZvQXQtRGRRMnA2WDREMjdqR3BCNElHU2t2WXJyb1NuZ3ZHVjZ6aWFOa2xMRzc4VjM1RzY1TjhUS3NhWVE?oc=5",
+   "outlet": "Chosunbiz",
+   "via": "Google News",
+   "published": "2026-11-20T05:53:00+00:00",
+   "seen": "2026-11-20T07:39:42+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 generates estimated first-day sales of 2.36 billion dollars."
+  },
+  {
    "id": "gta 6 generates estimated 2 36 billion from pre orders and first day sales sensor tower says",
    "title": "GTA 6 generates estimated $2.36 billion from pre-orders and first-day sales, Sensor Tower says",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXhZR1ZGR1NxLVRqbGxRY2xLOW9EUGVXeFVENk1fTVRLTnN6ZGZtZ2d5WnI4SUhPaTlUMkxxZDNEaE9QbU5jM1prRGZlWDhDMnRadGdwWUZVOEt3QmhLZnBGa1Z3QWxqbTJZZmdCTjR5NUdEX0NzU3JXU0NOLUpYRERrcTN5TjZiRkduUW0zWjB5M2NuSnFJUFZSUklmb1lDbklqVjcwZ2NQX28tQ2RDV2ZvSkUwSmJXWmhtT1dVMVlURnlF?oc=5",
@@ -506,6 +532,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6 breaking records with sales topping $2.3 billion."
+  },
+  {
+   "id": "to run gta 6 at 60 fps on pc you will need a processor of the level ryzen 7 9800x3d",
+   "title": "To run GTA 6 at 60 FPS on PC you will need a processor of the level Ryzen 7 9800X3D",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXNkNGF6Z2c2VmNDaTFqX0NiNG5oMWt5MHJrUzVtRW1mbDBScEZXQTc2b1pFLTA2eGpWWEpfR1d6VXRFaE1VcHBFSjR0bFlxSHM2S3RXOGI4Q2Nmai14X3NkOXVEZXVNRnZGUzNfcnJxMFNRSmo4ZFRQX3JJYmdZT3JKVGdrZnpLR1pXWklZZmtEcUlFMGtya2VGLVRCZWI4dFVSdC1XZDI2aldJZUxyakdtaGxkUzg?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-20T05:42:11+00:00",
+   "seen": "2026-11-20T07:39:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that running GTA 6 at 60 FPS on PC requires a processor comparable to Ryzen 7 9800X3D."
   },
   {
    "id": "grand theft auto vi soundtrack gracie abrams lisa tomorrow x together more new music friday guide",
