@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-20T11:36:07+00:00",
- "started": "2026-11-20T11:36:00+00:00",
+ "updated": "2026-11-20T11:41:08+00:00",
+ "started": "2026-11-20T11:41:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T11:36:00+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-20T11:41:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-20T11:36:01+00:00"
+   "hits": 90,
+   "checked": "2026-11-20T11:41:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-20T11:36:01+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-20T11:41:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T11:36:02+00:00"
+   "checked": "2026-11-20T11:41:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T11:36:02+00:00"
+   "checked": "2026-11-20T11:41:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-20T11:36:02+00:00"
+   "hits": 43,
+   "checked": "2026-11-20T11:41:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:36:02+00:00"
+   "checked": "2026-11-20T11:41:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:36:02+00:00"
+   "checked": "2026-11-20T11:41:04+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T11:36:02+00:00"
+   "checked": "2026-11-20T11:41:04+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T11:36:03+00:00"
+   "checked": "2026-11-20T11:41:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T11:36:03+00:00"
+   "checked": "2026-11-20T11:41:05+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T11:36:03+00:00"
+   "checked": "2026-11-20T11:41:05+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-20T11:36:03+00:00"
+   "checked": "2026-11-20T11:41:05+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T11:36:03+00:00"
+   "checked": "2026-11-20T11:41:05+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 day one sales are enormous estimates suggest making previous 2 billion opening weekend predictions seem conservative",
+   "title": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
+   "link": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-20T11:40:30+00:00",
+   "seen": "2026-11-20T11:41:03+00:00",
+   "summary": "Grand Theft Auto 6 is estimated to have sold nearly 25 million copies in one day, generating approximately $2.5bn in sales revenue - a staggering result that's beyond even what even observers were predicting . Read more",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 day-one sales estimates suggest about twenty five million copies sold and two and a half billion dollars in sales in one day."
+  },
+  {
+   "id": "clair obscur expedition 33 writer hopes gta 6 devs are successful in unionizing",
+   "title": "Clair Obscur: Expedition 33 writer hopes GTA 6 devs are \"successful in unionizing\"",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/clair-obscur-expedition-33-writer-hopes-gta-6-devs-are-successful-in-unionizing-as-rockstar-layoff-concerns-circulate-despite-massive-sales-and-player-engagement/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T11:34:00+00:00",
+   "seen": "2026-11-20T11:41:03+00:00",
+   "summary": "\"Who receives the lion's share of the profits from their labor?\"",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Clair Obscur: Expedition 33 writer hopes GTA 6 developers are successful in unionizing, questioning profit shares from labor."
+  },
   {
    "id": "what s up with whatsapp s x page meta leans into gta 6 parodying big tech",
    "title": "What's up with WhatsApp's X page? Meta leans into GTA 6 parodying Big Tech",
@@ -597,6 +623,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions whether GTA 6 is available on Nintendo Switch."
+  },
+  {
+   "id": "gta 6 debuts with soundtrack featuring morgan wallen travis scott and more",
+   "title": "GTA 6 debuts with soundtrack featuring Morgan Wallen, Travis Scott and more",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfVXcxRzVscUNzRkg5OVZZdW9UbVhsM1JoUHg4a3RhN1NmWmZVaEJNeWxnRmlob2JrZDJUNGVpc3NORF8wVVB5bkV0a0FKREJNdWhBLVhJa05kRTFISU9Tc21meXJmXzFmUUdZWkVZeGVHQlRSek5DLW51bDNDdjjSAX9BVV95cUxQX1V3MUc1bHFDc0ZIOTlWWXVvVG1YbDNSaFB4OGt0YTdTZlpmVWhCTXlsZ0ZpaG9ia2QyVDRlaXNzTkRfMFVQeW5FdGtBSkRCTXVoQS1YSWtOZEUxSElPU3NtZnlyZl8xZlFHWVpFWXhlR0JUUnpOQy1udWwzQ3Y4?oc=5",
+   "outlet": "Good Morning America",
+   "via": "Google News",
+   "published": "2026-11-20T10:36:48+00:00",
+   "seen": "2026-11-20T11:41:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 debuts with a soundtrack featuring Morgan Wallen, Travis Scott and more."
   },
   {
    "id": "grand theft auto vi is a worldwide sensation bostonians still dream for a local version of the game",
