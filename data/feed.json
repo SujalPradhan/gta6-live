@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T19:13:56+00:00",
- "started": "2026-11-20T19:13:49+00:00",
+ "updated": "2026-11-20T19:18:54+00:00",
+ "started": "2026-11-20T19:18:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-20T19:13:49+00:00"
+   "hits": 97,
+   "checked": "2026-11-20T19:18:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 87,
-   "checked": "2026-11-20T19:13:50+00:00"
+   "hits": 85,
+   "checked": "2026-11-20T19:18:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T19:13:51+00:00"
+   "checked": "2026-11-20T19:18:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-20T19:13:51+00:00"
+   "checked": "2026-11-20T19:18:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T19:13:51+00:00"
+   "checked": "2026-11-20T19:18:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 47,
-   "checked": "2026-11-20T19:13:51+00:00"
+   "checked": "2026-11-20T19:18:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-20T19:13:52+00:00"
+   "checked": "2026-11-20T19:18:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 16,
-   "checked": "2026-11-20T19:13:52+00:00"
+   "hits": 15,
+   "checked": "2026-11-20T19:18:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T19:13:52+00:00"
+   "checked": "2026-11-20T19:18:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T19:13:52+00:00"
+   "checked": "2026-11-20T19:18:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T19:13:53+00:00"
+   "checked": "2026-11-20T19:18:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T19:13:53+00:00"
+   "checked": "2026-11-20T19:18:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T19:13:53+00:00"
+   "checked": "2026-11-20T19:18:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T19:13:53+00:00"
+   "checked": "2026-11-20T19:18:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi excitement steals its way into b n",
+   "title": "'Grand Theft Auto VI' excitement steals its way into B-N",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUi1HSEd5R21jU3lfMjNtQnVZbDdENUs5YmZvLXFFZHBydGNsRlJCVS1obVpQQ0phMGduem5QQVAyMm9rQ0czM3Z0YTVLTFR3and5UDJ3SXlaNFZ3Q0dSZzVUZ3F6bVNFRmZLTXJKNTNSVFNUSFAwcnd5YjV1ZFZtNW15OFJpMmtOUWc4anBwemZHN3BSRDdPY0ZWU3ZzUQ?oc=5",
+   "outlet": "WGLT",
+   "via": "Google News",
+   "published": "2026-11-20T19:16:33+00:00",
+   "seen": "2026-11-20T19:18:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports excitement for Grand Theft Auto VI entering B-N location."
+  },
+  {
+   "id": "gamestop boss calls for return of physical discs as gta 6 digital sales explode",
+   "title": "GameStop Boss Calls for Return of Physical Discs as GTA 6 Digital Sales Explode",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXYwSVZacGgtNjNPMWJNZVZuYXdDZkI4QXdwTHpBQWNZNGkyUnQ3Ymx2SzljUW4wM1A4QUttU1ppUEFHeEJlYi16Y05TUnp2UnNDR3lYWmxfS2F6ZTFXMGdsSjNvUmt3azV5OUFXUDN2ZHZ1SFptMmczaEFJSEZ3T29SVzExbWtZTE4zbmhaSWgzdTJTbkxUZjNfODcyM3REUFJhVzhvQ283SmJx?oc=5",
+   "outlet": "Gadget Review",
+   "via": "Google News",
+   "published": "2026-11-20T19:12:06+00:00",
+   "seen": "2026-11-20T19:18:49+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports the GameStop chief advocating for physical discs as GTA 6 digital sales rise."
+  },
+  {
+   "id": "grand theft auto vi proves pop culture still needs monocultural moments",
+   "title": "Grand Theft Auto VI Proves Pop Culture Still Needs Monocultural Moments",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51eGhObHVaWURqemJ4MXpMOVlSVDc1UV81bTZFNG1YTzZwV3lnXzM3SHZyUE40enlCNWE4NWVqVjRxTWtnUWxrbS1FOVk5VXlVczFXTUxobHllRVI5V2JHZTREZllqQzROSF9NbQ?oc=5",
+   "outlet": "Man of Many",
+   "via": "Google News",
+   "published": "2026-11-20T19:11:24+00:00",
+   "seen": "2026-11-20T19:18:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story argues Grand Theft Auto VI shows how pop culture still needs monocultural moments."
+  },
+  {
+   "id": "the launch of grand theft auto vi is creating a major marketing moment beyond the gaming industry brands are using the game s aesthetic refe",
+   "title": "The launch of \"Grand Theft Auto VI\" is creating a major marketing moment beyond the gaming industry. Brands are using the game's aesthetic, references, and cultural reach to connect with audiences, but those efforts come with risks. Chief correspondent Lara",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2d0ZlJKRDRiVHFhd0piNFUyUUxRN1VyOE14WXk0ekg5VFRLdkFWZDNOaUNSSDZwRWIzZGNMOWNGQXZ1TnBnNTg4MHV3bTlIYU5TcFJLa3F3WTU4NHdTSmtKNjRLbkozelhaUGY1SnloTTczQzZjTjVORTNGWl8xbE5MZEZvWVdmSjRzODRlZlRZMEZ5VlZ0LVMyWWZrRExfREJoQmNRdlRoZVc1emdyeTRLbWlFVkxtM3RHRndFLUs5Yy1Y?oc=5",
+   "outlet": "LinkedIn",
+   "via": "Google News",
+   "published": "2026-11-20T19:10:49+00:00",
+   "seen": "2026-11-20T19:18:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses GTA VI as a major marketing moment with brands using its aesthetic and risks involved."
+  },
   {
    "id": "gta vi just proved the 1 thing hollywood doesn t want to admit",
    "title": "GTA VI Just Proved The 1 Thing Hollywood Doesn’t Want to Admit",
@@ -168,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The author shares playtime experience and outlines initial actions to take in GTA 6."
+  },
+  {
+   "id": "gta vi made an estimated 2 36 billion on day one now 1 600 rockstar workers are voting on a union",
+   "title": "GTA VI made an estimated $2.36 billion on day one. Now 1,600 Rockstar workers are voting on a union",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OV3YyMDdNZDAzTWJYek9Qekp2VUF6d01pX0F5ZlFodFVSa3dqTDVNOE0xVDM3QmFfVmozaUpuYVdGVVVmVER6S2tLWkZhWWxsRjNxdHJsOFJ4MlVYa3FqdzFYSjZ1bm5LYS0wRElLMy1YUQ?oc=5",
+   "outlet": "Fortune",
+   "via": "Google News",
+   "published": "2026-11-20T19:02:00+00:00",
+   "seen": "2026-11-20T19:18:48+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story notes GTA VI day-one earnings and that Rockstar workers are voting on a union."
   },
   {
    "id": "everyone in gta 6 sucks at driving except for me",
