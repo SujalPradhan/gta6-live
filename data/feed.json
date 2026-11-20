@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:39:22+00:00",
- "started": "2026-11-20T20:39:16+00:00",
+ "updated": "2026-11-20T20:44:28+00:00",
+ "started": "2026-11-20T20:44:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T20:39:17+00:00"
+   "checked": "2026-11-20T20:44:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T20:39:17+00:00"
+   "checked": "2026-11-20T20:44:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T20:39:18+00:00"
+   "checked": "2026-11-20T20:44:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:39:18+00:00"
+   "checked": "2026-11-20T20:44:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T20:39:18+00:00"
+   "checked": "2026-11-20T20:44:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T20:39:18+00:00"
+   "checked": "2026-11-20T20:44:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T20:39:19+00:00"
+   "checked": "2026-11-20T20:44:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:39:19+00:00"
+   "checked": "2026-11-20T20:44:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T20:39:19+00:00"
+   "checked": "2026-11-20T20:44:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T20:39:20+00:00"
+   "checked": "2026-11-20T20:44:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T20:39:20+00:00"
+   "checked": "2026-11-20T20:44:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T20:39:20+00:00"
+   "checked": "2026-11-20T20:44:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T20:39:20+00:00"
+   "checked": "2026-11-20T20:44:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T20:39:20+00:00"
+   "checked": "2026-11-20T20:44:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "take two s grand theft auto vi hits nearly 4 billion in sales on launch day",
+   "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ21QbUU2aE9uVUNabDBiZk5IbnZxeGhTTnhaV0duNU8wWmxEVmlHbU9iN0I1TVdMX3R6OERSazRXY05xT1V3bTRXaHFhM0puRjZYVUZseHZpVzg3UUlnODhpSGM4QTB4eG9NWno0WmZIMFVEMWdrN0VuQWxtb1VzYTRoa25DTFFZTm9DQ1JXLWxGZFFLaHdONU8yazhXbmtzUV85MzBDei1nNFdnNlMwWXZuWUNFbVNiaEE?oc=5",
+   "outlet": "WSJ",
+   "via": "Google News",
+   "published": "2026-11-20T20:41:47+00:00",
+   "seen": "2026-11-20T20:44:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The launch day sales for Grand Theft Auto VI reach nearly $4 billion, according to WSJ."
+  },
+  {
+   "id": "grand theft auto vi makes 3 79 billion in day one sales",
+   "title": "Grand Theft Auto VI Makes $3.79 Billion in Day One Sales",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREZydnd1Z2s3ZlAtUzZ2Uklzc19hU2JvSTYxb2diZ05zNVd2UnREYzNYb1B4bHA0dzFSYkVmLW5vR0tuWWIzZFlwNEVzcFNNVjNnbVdVMWNYYTd1WXNubHcteHo1TDJFcUdfQzZhYWV5QzFUNlpERnk3dGhrNFVDUXZOUQ?oc=5",
+   "outlet": "The Outerhaven",
+   "via": "Google News",
+   "published": "2026-11-20T20:40:06+00:00",
+   "seen": "2026-11-20T20:44:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI generates $3.79 billion in day one sales per The Outerhaven."
+  },
+  {
+   "id": "gta vi breaks entertainment records with historic 3 9 billion launch",
+   "title": "'GTA VI' Breaks Entertainment Records With Historic $3.9 Billion Launch",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15YjcwRTRmT0pFYzBOeWx6WmZ6d3lOMUhXMmVtRGZVVHZtR1cxV1NMVEZPdm5qWC1JTGpESVFwZU9xUF9TcHJ6VHVqNXdxY3VCdkVWSjFCUjNDRjdPVmxQZDFCSWx1d3lWQ3hvaw?oc=5",
+   "outlet": "TMZ",
+   "via": "Google News",
+   "published": "2026-11-20T20:37:21+00:00",
+   "seen": "2026-11-20T20:44:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI breaks entertainment records with a historic $3.9 billion launch, per TMZ."
+  },
   {
    "id": "let s put gta 6 s 3 79 billion launch into perspective gta 5 made 800 million at launch",
    "title": "Let's put GTA 6's $3.79 billion launch into perspective: GTA 5 made $800 million at launch",
@@ -116,6 +155,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story compares GTA 6's launch to GTA 5's, noting GTA 6's launch is viewed in perspective against prior performance."
+  },
+  {
+   "id": "gta 6 has taken over is it too late to buy the developer s stock",
+   "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHFtck00SDJuRkFLWDFndU4yaHFNb1RkQ2d2QWJjRXRQT1dnaEdUT1lrcVZ0c0pPQ1FWN093VXBSMzhkemVCa2JaUDNxcHl6RmdUemVwSnJaZ1VHNlYxWHZQdzRuWVNTYkhkbzdOSGZ1QTFWcEptZGdJMWZuRU9aclJqc0dqQ1BNZWJ5dWtlZUZyZ0d1LWNIb01ZRTFyUFN5V3hldS1xMy02UQ?oc=5",
+   "outlet": "MarketWatch",
+   "via": "Google News",
+   "published": "2026-11-20T20:32:00+00:00",
+   "seen": "2026-11-20T20:44:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 has taken over; MarketWatch questions if it is too late to buy the developer’s stock."
   },
   {
    "id": "gta 6 how to listen to the radio outside of a vehicle",
@@ -428,6 +480,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story indicates first-day sales for GTA 6 are nearing $4 billion."
+  },
+  {
+   "id": "gta vi sales near 4b in first day of launch yes you read that correctly nearly 4b",
+   "title": "‘GTA VI’ Sales Near $4B In First Day Of Launch; Yes, You Read That Correctly, Nearly $4B",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lbGZwLThWUloweTItalJmYm42c0ZLQXEzd2ZDWjY4NC1xSGcwb24wWlVnNnhzRWV3dnNub1dDYXVJTG95a2NmbGR2ZENnNUExekxjbXY5bmZybUd0RF9HejNRQ0pnaXQ2eHpEX01zTS1pXzdPLXRQRmFtNA?oc=5",
+   "outlet": "Deadline",
+   "via": "Google News",
+   "published": "2026-11-20T20:09:00+00:00",
+   "seen": "2026-11-20T20:44:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI sales near $4 billion in the first day of launch, nearly $4 billion."
   },
   {
    "id": "gta 6 raked in 3 8 billion sales on first day the largest entertainment launch ever",
@@ -1156,6 +1221,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 sold 32.5 million copies pre-release, touted as the biggest entertainment launch in history."
+  },
+  {
+   "id": "gta 6 sells 32 5 million copies before launch and beats avengers endgame s lifetime box office by nearly 1 billion in just 24 hours",
+   "title": "GTA 6 Sells 32.5 Million Copies Before Launch And Beats Avengers: Endgame's Lifetime Box Office By Nearly $1 Billion In Just 24 Hours",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSmZ5UUFLZU9ZTlY3WmR2eUtabndUblAzM2FMWVROVnZqeHNpcU52ekgzQzdhR3JkWldmNWVBQmlQeFZZZkE3d0JWbXdkQWhISVBoSmM4Rmp3Zy14dVJZdE5LV1pQYU1WbkRmd05EWC1zSjk5T1hSeDhvbTR6bVNoLXZQaFY0MmdqWUpMcHlMa1NNVENya0hTZk9Xa0hsRENWSGYxaEd5dFBKb0g4YVc3RkVCczd5QjVjRGVxb2hfS2huektzREJ2UlVxWWM4UlBNZkM0X203ZUQ?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-20T19:30:40+00:00",
+   "seen": "2026-11-20T20:44:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 sells 32.5 million copies before launch and beats Avengers: Endgame's lifetime box office in 24 hours, per Kotaku."
   },
   {
    "id": "gta vi upgrades on ps5 pro versus ps5 and xbox series x",
@@ -7463,6 +7541,19 @@
    "ai_summary": "GTA 6 sold nearly 25 million copies on day one, breaking launch records."
   },
   {
+   "id": "gta vi first day sales estimated at 2 36 billion nearly triple gta v s record",
+   "title": "GTA VI First-Day Sales Estimated at $2.36 Billion, Nearly Triple GTA V’s Record",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVWllLTZUSW9rdDJaT2dONGdHeENnY1VLdTJfQnJMOVM0YUhQUzdGLWdZSzR3NnhqOGwxak9rRGI2QWVYUHBCQ0pfXzVSdFI0dm11bUZYN0l6cGhYSml0SGhMSjctWkJwbVlCSm9QUFNYSEpTMmJVNndZUmpzZy1BLXJxSFd3dmlzbHM0NUtpaS1fT2RaVWt0aXlCVUw?oc=5",
+   "outlet": "Technology Org",
+   "via": "Google News",
+   "published": "2026-11-20T11:11:00+00:00",
+   "seen": "2026-11-20T20:44:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI first-day sales estimated at $2.36 billion, nearly triple GTA V’s record, per Technology Org."
+  },
+  {
    "id": "gta 6 reportedly generates 2 3b on launch breaking records",
    "title": "GTA 6 reportedly generates $2.3B on launch, breaking records",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGE0bWRLZlJGZEIxZWFrWXl0TktVWkxMNjFlY2o2S044cUhqTi10RVc0RWNkUXBRRm0wdUVoYUhQSVJRWDFzWm9XbThWTW8xMGViaTdXaEtlcUtNZUdtZGdlbmtNVlM4ekZLY1VyNFlraWR5Z1hYUV9OakJ5RE9pZFk3QVFXQmlqRnkyMTVDR0o0RlJ6UnIwWFNGUl82R1dGMi1FdTJRT2FZdw?oc=5",
@@ -10763,6 +10854,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Grand Theft Auto 6 marks 24 hours as a historic moment with three record-breaking achievements."
+  },
+  {
+   "id": "gta 6 sold an estimated 24 6 million copies worth about 2 36 billion on its first day sensor tower says nearly three times gta 5 s roughly 8",
+   "title": "GTA 6 sold an estimated 24.6 million copies worth about $2.36 billion on its first day, Sensor Tower says, nearly three times GTA 5's roughly $800 million in 2013, and about three in four were on PS5",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbUdZdTREbjJpdDBLNkswcjVyWkYwNURzeE9aNmEyZmNNNnhDT3ZVTjlNUTl0TlNJbG4xMDNLTENDNWROaTJwM3RKaEliZTlVS0NJUFpFdkI5Q2pEa2xwQ0tTeG0ySDl5dnc?oc=5",
+   "outlet": "Make Tech Easier",
+   "via": "Google News",
+   "published": "2026-11-20T01:52:02+00:00",
+   "seen": "2026-11-20T20:44:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sold 24.6 million copies worth about $2.36 billion on its first day, Sensor Tower says, with about three in four on PS5."
   },
   {
    "id": "digital only gta 6 raises concerns for gamers in rural east tennessee",
