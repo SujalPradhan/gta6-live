@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:42:34+00:00",
- "started": "2026-11-20T15:42:27+00:00",
+ "updated": "2026-11-20T15:47:44+00:00",
+ "started": "2026-11-20T15:47:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T15:42:28+00:00"
+   "checked": "2026-11-20T15:47:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-20T15:42:29+00:00"
+   "hits": 91,
+   "checked": "2026-11-20T15:47:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-20T15:42:29+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T15:47:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T15:42:29+00:00"
+   "checked": "2026-11-20T15:47:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T15:42:30+00:00"
+   "checked": "2026-11-20T15:47:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T15:42:30+00:00"
+   "checked": "2026-11-20T15:47:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T15:42:30+00:00"
+   "checked": "2026-11-20T15:47:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T15:42:30+00:00"
+   "checked": "2026-11-20T15:47:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T15:42:30+00:00"
+   "checked": "2026-11-20T15:47:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-20T15:42:31+00:00"
+   "checked": "2026-11-20T15:47:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T15:42:31+00:00"
+   "checked": "2026-11-20T15:47:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T15:42:31+00:00"
+   "checked": "2026-11-20T15:47:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T15:42:31+00:00"
+   "checked": "2026-11-20T15:47:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T15:42:31+00:00"
+   "checked": "2026-11-20T15:47:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "every non gta 6 story kotaku published since launch",
+   "title": "Every Non -GTA 6 Story Kotaku Published Since Launch",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObjYtUW16QlZjcTlmTlltXzltM3cxRkgyak9UTU80TFlqajE4SmFXRGp1Zzg1Q3N5ZlJSMFpiSXJJbnNheVBsQXNZMW94YjBYb19xTVhNS1VjWVAwTDlieTVjVk9hc1N3TlZIVGc5YmZoeU9BcGdDSGRGUWE5VUlEVUlCb2l4Xzd3?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-20T15:44:26+00:00",
+   "seen": "2026-11-20T15:47:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Kotaku reports on every non-GTA 6 story it published since launch."
+  },
+  {
+   "id": "metal band debuts new song exclusively in gta 6 instead of releasing it on streaming platforms",
+   "title": "Metal Band Debuts New Song Exclusively in 'GTA 6' Instead of Releasing It on Streaming Platforms",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWR5aHZYaGZKM2FtdUp5STNlTnhjSDFDTl9MQS1nWTJSRUVEMldBOFowTWtkMGlmUzUtQ1IySFlQVDNtc0I1UEpZc2Viak5rTzN2MmppWU8xRXo4S0ZjR3N5UGJxNnI2dGNCUnc4M0JWbk1hS2pxWkhxZnJTZFJURjNpUTFUa2VERGw4QURob0dmcE9nVld6NTdMa29Nb053VjA1d3VDc2h5Nks1YVlMdXh6NmRva0VsbldKRU5VVUxfOTVwM1E?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-20T15:43:50+00:00",
+   "seen": "2026-11-20T15:47:37+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "VICE reports a metal band releasing a new song exclusively in GTA 6 rather than on streaming platforms."
+  },
+  {
+   "id": "gta vi is so demanding it s failing on some ps5s",
+   "title": "‘GTA VI’ Is So Demanding, It’s Failing on Some PS5s",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ROHNJU3RueGNPOEVwSkVaNFZOZ0NCQkRMZ3RKTER0eUxUN3VwdjFKSVJvSWIwZ3hhbVJCc0RlUzdYckpnc2lEaFF5VDFGUU1MS01qMl80V1d6NGM?oc=5",
+   "outlet": "Gizmodo",
+   "via": "Google News",
+   "published": "2026-11-20T15:40:33+00:00",
+   "seen": "2026-11-20T15:47:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gizmodo notes that GTA VI is so demanding it’s failing on some PS5s."
+  },
+  {
+   "id": "how to change radio stations in gta 6",
+   "title": "How to change radio stations in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcnJHTU1Wb3V6X2xBZm9nNHJ2RVlUbzVBQnlYSWdIZEdEVGh6cFpvMG0zVDh1ZmNpMnZQVjJ1QUNabVJDZkVwZkxHSGFsMVRacHFVQmZ6aTd6NlRNQ0VhcVFMaE94UTVsdHc?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-20T15:39:13+00:00",
+   "seen": "2026-11-20T15:47:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Polygon.com explains how to change radio stations in GTA 6."
+  },
   {
    "id": "podcast should your teenager play gta 6",
    "title": "Podcast: Should your teenager play GTA 6?",
@@ -116,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A podcast features Keza MacDonald discussing GTA 6."
+  },
+  {
+   "id": "cowboys legend jimmy johnson discovers his restaurant in gta 6 and capitalizes on it by immediately launching some merchandise",
+   "title": "Cowboys legend Jimmy Johnson discovers his restaurant in GTA 6 and capitalizes on it by immediately launching some merchandise",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbmVpQkFBaTNKYTZhUjFPWHFKZU1XNExOSnZRZzJLNVFZMG5IV2gzb0lneVcxajItX0phUURZMWcyZjFQbXhfQ0laMGp2OWlwYjhrdERodjFKbEh4X3ZlZG9uVS0tQmU5Q0pldXlpVWM0U0tJa0JkRGFsb3FEZHQ1WGszSmdJYzFpM2FQcVdwOFhPQUxQejFIWjZyWUFxUElmMFcwRnBQdlNLZmxMeU04X2lMRmU5YTcyUVBlMFhsLXlXS2xnbFhXbE1fUVlwTVNYd3lTUmlTS193Zmp0dFRYQUZlb2M5NjliY1BGYlZSWlZwLXVDNVMzNFluQ0IwS0hfNW8yOGE2bEF4bXpMS0FFblF1SEjSAZQCQVVfeXFMTmFVT0pHclBvR0hLNTA5SURrbHlRcHpkd2NSZFU4LXo3NFpUbE1tY2hYYldsLXNGcTY2X2UyWTZ0U1RLRl9rOTNRN2sxM0V3SGdFbmpwX2tPZTRZMHVQd1J4bWhIS19NR24zMXRYVFpKaVI3ckhDdWhPdUhWb1ZFLVZMLVh4WU9BcFpISE9ReEZJT29IT0NfSW9sWEM3aV9uMVpwZ0RpUm92Z3BURDc4V3pQR0QySkFncTVNYmJsUlJZWVRva2MtaW9ZNmJsNWFaQjdGRGNRbVBuRkNHZVVSTjBOZ3J5TGhMa0tDR1FzME1nUm5mWUw5d1FNVHcwZjc5M0xSQmVOSTRUOG5Relp2Y2NpeEly?oc=5",
+   "outlet": "MARCA",
+   "via": "Google News",
+   "published": "2026-11-20T15:37:14+00:00",
+   "seen": "2026-11-20T15:47:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "MARCA reports Cowboys legend Jimmy Johnson discovers his restaurant in GTA 6 and launches merchandise."
   },
   {
    "id": "gta 6 mandy actor bravely raises her hand if you play the game let me know if you find me",
