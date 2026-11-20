@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T22:40:00+00:00",
- "started": "2026-11-20T22:39:55+00:00",
+ "updated": "2026-11-20T22:45:05+00:00",
+ "started": "2026-11-20T22:44:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-20T22:39:56+00:00"
+   "checked": "2026-11-20T22:44:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T22:39:56+00:00"
+   "checked": "2026-11-20T22:44:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T22:39:56+00:00"
+   "checked": "2026-11-20T22:44:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T22:39:57+00:00"
+   "checked": "2026-11-20T22:45:00+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T22:39:57+00:00"
+   "checked": "2026-11-20T22:45:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-20T22:39:57+00:00"
+   "checked": "2026-11-20T22:45:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-20T22:39:57+00:00"
+   "checked": "2026-11-20T22:45:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T22:39:58+00:00"
+   "checked": "2026-11-20T22:45:01+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T22:39:58+00:00"
+   "checked": "2026-11-20T22:45:01+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T22:39:58+00:00"
+   "checked": "2026-11-20T22:45:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T22:39:58+00:00"
+   "checked": "2026-11-20T22:45:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T22:39:58+00:00"
+   "checked": "2026-11-20T22:45:02+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T22:39:58+00:00"
+   "checked": "2026-11-20T22:45:02+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T22:39:58+00:00"
+   "checked": "2026-11-20T22:45:02+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breakfast run walkthrough",
+   "title": "GTA 6 Breakfast Run walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-breakfast-run-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-20T22:44:33+00:00",
+   "seen": "2026-11-20T22:45:00+00:00",
+   "summary": "It's time for Breakfast Run. Jason is back!",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 breakfast run walkthrough featuring the return of Jason."
+  },
+  {
+   "id": "grand theft auto vi makes entertainment history with 3 8b haul",
+   "title": "Grand Theft Auto VI makes entertainment history with $3.8B haul",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iamtSQzhNbkJDOEE2RmNjemNmaGNTbE15RmUxTzh4cDdZVWE3eTVXb3R3Vm9helREOVlRaklrMGN3ZEsxOHUxNFJMVW1QamlFNDFsVUFmY0N0NDRjQ2trdDNTQjJmR1dNdVdyOVk1NFRIQ1JXRVgw?oc=5",
+   "outlet": "Axios",
+   "via": "Google News",
+   "published": "2026-11-20T22:41:30+00:00",
+   "seen": "2026-11-20T22:44:58+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI makes entertainment history with a large haul, per Axios."
+  },
+  {
+   "id": "gta vi shatters records with 3 8 billion in first day sales",
+   "title": "GTA VI shatters records with $3.8 billion in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94eURGdUhmT3V5OUE2eWJJVEpOVmI1WHA3eGxteWVsZER3eGVEaGFXY1R2enZTUjlLYmhzSmczUklhMUZMcVQ1RDY2NzBFUWd4akRuSDdaNWt3WGNDNVJYNWFKSzY2QzA5blAwSw?oc=5",
+   "outlet": "The Jerusalem Post",
+   "via": "Google News",
+   "published": "2026-11-20T22:40:22+00:00",
+   "seen": "2026-11-20T22:44:58+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA VI shattering records with first-day sales reaching $3.8 billion, per The Jerusalem Post."
+  },
   {
    "id": "i tracked down all 60 birds in gta 6 a birder s guide to vice city s wildlife",
    "title": "I Tracked Down All 60 Birds in GTA 6: A Birder’s Guide to Vice City’s Wildlife",
@@ -118,6 +157,19 @@
    "ai_summary": "The story reports a birder claims to have tracked down all 60 birds in GTA 6 and offers a guide to Vice City’s wildlife."
   },
   {
+   "id": "in gta 6 you can flip cars with your bare hands",
+   "title": "In GTA 6, You Can Flip Cars With Your Bare Hands",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92b1A4TmpyYVhkMFBBLVQyQW85Z0pzTVNsNFc4dDR4eXZEdmI5Uzh5TnFHdFVVeDVDTGJ6QlNqUnMxN2hUbjEzQWNobVN5bkRUd1E2RG9CSmI?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-20T22:35:16+00:00",
+   "seen": "2026-11-20T22:44:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that in GTA 6, players can flip cars with their bare hands."
+  },
+  {
    "id": "despite gta 6 s huge map it only takes about 4 minutes and 18 seconds to fly across it in a plane",
    "title": "Despite GTA 6's huge map, it only takes about 4 minutes and 18 seconds to fly across it in a plane",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVlhPeFVqOU5pWnYxeG9fZUd1VHQ4M05aV2l6OTFDZUZRbVJ4Q294SXJZZW1fTlNpRllva2JMZ3dKWHdzd3BEOEhyUVBrWmZTMVdmUXd0SExPUURfVjd2ZE8tZkV4QkdZc0tZcWVZaEQ2VjA2cGppeDhxRldBMkZsb3ZZdmt5a0k?oc=5",
@@ -129,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6's map is huge but can be flown across in about four minutes and eighteen seconds in a plane."
+  },
+  {
+   "id": "despite being the highest rated game of all time gta 6 leaves fans harshly divided",
+   "title": "Despite Being the Highest Rated Game of All Time, ‘GTA 6’ Leaves Fans Harshly Divided",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjlFdkNkSDZUMWVjQjBMN1BRNGt3c2NhOUpuTHJ6SzM0cHFOTk5JcU5yOWRwajR2RC1lRnBHaGxZa292dGRqV040aW1SbzhhaHQyYkdBV2Fzb0JuLVNRTGRPc3VWSWw4U3ZKQTBkRzUxS1ZDb0EwRVhMXzdSNDVTQmJHbVhMNy1INVdLQTBVb29IeXJlQ0RrRXZXT3V0ZFdOSWFueXM5anAyOW91em5tRjNtUUhPZE5XcHZBVmtiQzRMQQ?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-20T22:31:41+00:00",
+   "seen": "2026-11-20T22:44:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 is the highest rated game of all time but fans are deeply divided."
   },
   {
    "id": "how grand theft auto vi release day impacted tucson businesses",
@@ -545,6 +610,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports a Lucia Caminos lookalike contest at a Miami record shop for GTA VI."
+  },
+  {
+   "id": "gamers on launch grand theft auto vi",
+   "title": "Gamers on Launch | ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlZWxUcWMwNVdVZ2ZaT3VMN0lLWWpqUWV6UXYzV1ZELTA5em52ek0za3Axc3NWZmRSZy1BWF9WaU5VUmw2Vk5CT2VKWF9WZGsweW9neFNvNzAzV3ItcFdpRG9lOXFESVR1RlJwNnhRbXBFaVFlTUhMMWd4MUg?oc=5",
+   "outlet": "WNDU",
+   "via": "Google News",
+   "published": "2026-11-20T21:48:00+00:00",
+   "seen": "2026-11-20T22:44:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports about gamers on launch for Grand Theft Auto VI."
   },
   {
    "id": "gta 6 breaks sales records with a 3 79 billion first day",
