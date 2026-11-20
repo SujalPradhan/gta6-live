@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:58:02+00:00",
- "started": "2026-11-20T16:57:55+00:00",
+ "updated": "2026-11-20T17:03:06+00:00",
+ "started": "2026-11-20T17:02:57+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T16:57:55+00:00"
+   "checked": "2026-11-20T17:02:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 86,
-   "checked": "2026-11-20T16:57:56+00:00"
+   "hits": 90,
+   "checked": "2026-11-20T17:02:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-20T16:57:56+00:00"
+   "checked": "2026-11-20T17:02:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-20T16:57:56+00:00"
+   "checked": "2026-11-20T17:02:59+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-20T16:57:57+00:00"
+   "checked": "2026-11-20T17:02:59+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-20T16:57:57+00:00"
+   "checked": "2026-11-20T17:02:59+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 21,
-   "checked": "2026-11-20T16:57:57+00:00"
+   "hits": 22,
+   "checked": "2026-11-20T17:03:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-20T16:57:57+00:00"
+   "checked": "2026-11-20T17:03:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T16:57:58+00:00"
+   "checked": "2026-11-20T17:03:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-20T16:57:58+00:00"
+   "checked": "2026-11-20T17:03:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-20T16:57:58+00:00"
+   "checked": "2026-11-20T17:03:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T16:57:59+00:00"
+   "checked": "2026-11-20T17:03:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T16:57:59+00:00"
+   "checked": "2026-11-20T17:03:02+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T16:57:59+00:00"
+   "checked": "2026-11-20T17:03:02+00:00"
   }
  },
  "items": [
+  {
+   "id": "can you prevent donnie s death in gta 6",
+   "title": "Can you prevent Donnie's death in GTA 6?",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-save-donnie/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T16:56:18+00:00",
+   "seen": "2026-11-20T17:03:00+00:00",
+   "summary": "Donnie's fate is sealed, regardless of what you do in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Donnie's fate is sealed, regardless of what you do in GTA 6."
+  },
+  {
+   "id": "gta 6 bowling alley safe code",
+   "title": "GTA 6 Bowling Alley safe code",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-20T16:55:36+00:00",
+   "seen": "2026-11-20T17:03:00+00:00",
+   "summary": "Finding the GTA 6 bowling alley safe code is the easiest way to access this safe, though there is another",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Finding the GTA 6 bowling alley safe code is the easiest way to access this safe, though there is another."
+  },
+  {
+   "id": "forget gta vi this affordable swiss watch celebrates a true arcade classic",
+   "title": "Forget ‘GTA VI,’ This Affordable Swiss Watch Celebrates a True Arcade Classic",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlFWYTR0LThZaWNudW1IcEZuTkJMcDhzVGdhd19tRm8yMnZ5eE84VXJvWE9WR29MUnhIMm1pSUtoOGMzSDdFWGxORV9QRW1HYm5jREZDU0VEODNfZGdxcHI2cl9KNkx0UG5qZW83M2Y0X3RWQlkwdGk2emdyQ3NfeGp3?oc=5",
+   "outlet": "Gear Patrol",
+   "via": "Google News",
+   "published": "2026-11-20T16:55:09+00:00",
+   "seen": "2026-11-20T17:02:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gear Patrol discusses an affordable Swiss watch that celebrates a true arcade classic, in place of GTA VI."
+  },
+  {
+   "id": "gta 6 players find controller workaround to force first person view with caveats",
+   "title": "GTA 6 Players Find Controller Workaround to Force First-Person View, With Caveats",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uNkU4eWFGVlRvTDdGMmEtSHJxaHFjNDAyd0J0NWN3UXpTWngwN1hzaDdYbDZTbzlzdGxoUExiVFQ3WG53S1FPMzlhRngtMWk1WTJVQjRQMnMyUXVsaTlUS3dvQmhyZHkyNDJ3N1VPb01oNjQtbFE?oc=5",
+   "outlet": "BigGo Finance",
+   "via": "Google News",
+   "published": "2026-11-20T16:55:00+00:00",
+   "seen": "2026-11-20T17:02:57+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Players have found a controller workaround to enable first-person view in GTA 6, with caveats."
+  },
   {
    "id": "baltimore comic stavros halkias featured in gta vi",
    "title": "Baltimore comic Stavros Halkias featured in ‘GTA VI’",
@@ -961,6 +1013,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "MARCA reports Cowboys legend Jimmy Johnson discovers his restaurant in GTA 6 and launches merchandise."
+  },
+  {
+   "id": "gta 6 launch sales estimated at 24 58 million copies",
+   "title": "GTA 6 Launch Sales Estimated at 24.58 Million Copies",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemEzY1k1aXFFUG1fM0tfZXBveERwLUJoQ05pWHRPa0NhLUUyTC1zbkczV2NQaURpSnN1Q3pwd0o2Q0xMTUZrUW1CWGN5Z204aHczTTBna1dhdjVaQWVtZTB4Q3hRczdCMkx0SlhQcm1XNFZkOUVZTGhCYnNKUG9fdF9ERTV5SkRiVHBvdkpSRnZRNm9Pdko0MlAtZkpmZ2tyUDZxT3ZxMDlaRHlvNmhtbi1yZTBhX0J2RFVqREhtY3ZNZG1MT3FF?oc=5",
+   "outlet": "Game News Plus",
+   "via": "Google News",
+   "published": "2026-11-20T15:36:46+00:00",
+   "seen": "2026-11-20T17:02:58+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Launch sales for GTA 6 are estimated at twenty-four point five eight million copies."
   },
   {
    "id": "gta 6 mandy actor bravely raises her hand if you play the game let me know if you find me",
@@ -2755,6 +2820,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Story reports Rockstar pledges all GTA VI festival ticket proceeds to Miami charities."
+  },
+  {
+   "id": "gta 6 shatters records and unites a fractured internet",
+   "title": "GTA 6 Shatters Records and Unites a Fractured Internet",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjhtYWVkeW82WG1JVWlCcFZOeE95RjU0cWtaTU5xNnVWYXRGZEU2NlBJR29Sai1UZEVBVkM0RGpMbnd0YmxpVVNBWkpCWVQ3em04WG83Qk1LTlNGWUFHMVdnZHZReDNyRUQtTDc5XzQyUnBhSWIxSnd4Vk9PdlBQTkFaZFNSckdDeFVwOTlzRWR2YWNITWRR?oc=5",
+   "outlet": "Political Wire",
+   "via": "Google News",
+   "published": "2026-11-20T13:18:06+00:00",
+   "seen": "2026-11-20T17:02:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 shatters records and unites a fractured internet."
   },
   {
    "id": "gta vi breaks records as estimated sales top 2 3bn",
