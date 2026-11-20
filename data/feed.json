@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:53:39+00:00",
- "started": "2026-11-20T03:53:32+00:00",
+ "updated": "2026-11-20T03:58:43+00:00",
+ "started": "2026-11-20T03:58:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:53:32+00:00"
+   "checked": "2026-11-20T03:58:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:53:33+00:00"
+   "checked": "2026-11-20T03:58:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-20T03:53:33+00:00"
+   "hits": 99,
+   "checked": "2026-11-20T03:58:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T03:53:33+00:00"
+   "checked": "2026-11-20T03:58:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T03:53:34+00:00"
+   "checked": "2026-11-20T03:58:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T03:53:34+00:00"
+   "checked": "2026-11-20T03:58:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T03:53:35+00:00"
+   "checked": "2026-11-20T03:58:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T03:53:35+00:00"
+   "checked": "2026-11-20T03:58:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T03:53:35+00:00"
+   "checked": "2026-11-20T03:58:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T03:53:35+00:00"
+   "checked": "2026-11-20T03:58:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T03:53:36+00:00"
+   "checked": "2026-11-20T03:58:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T03:53:36+00:00"
+   "checked": "2026-11-20T03:58:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-20T03:53:36+00:00"
+   "hits": 3,
+   "checked": "2026-11-20T03:58:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T03:53:36+00:00"
+   "checked": "2026-11-20T03:58:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "does grand theft auto vi live up to the 13 year wait newsapan check the comments section for the full story",
+   "title": "Does \"Grand Theft Auto VI\" live up to the 13-year wait? #Newsapan Check the comments section for the full story.",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeF9lRGhzVDlMSndXaFExWjJTdnZTZmpsVEFBY1VtYUxpMkM0M0RJaGQxanhCbzRtWXBaaVVfNkZMZHkweXZwdUtiQnNTRm5SemJha0E4bjlYR1lzUXRsRzN6RjdPTzFLZzJ2SVBfdnFMRmEzMVg1LTRkZnJhczZ1Q0IzcHpDMXlqeGtJZ1BfRUIzZFV6Y05QR25JOGNzMXVJWmVHUG0ydFo5OXdTcU1DcVV1YVg4WmxqaFNPdmQ5TVloTHNGVk9HaUhFRmNLQzNORDY1UDFjQQ?oc=5",
+   "outlet": "Facebook",
+   "via": "Google News",
+   "published": "2026-11-20T03:50:02+00:00",
+   "seen": "2026-11-20T03:58:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether Grand Theft Auto VI lives up to the 13-year wait."
+  },
+  {
+   "id": "gta vi will generate years of high margin recurring revenue for take two wedbush",
+   "title": "GTA VI will generate years of high margin recurring revenue for Take-Two: Wedbush",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ2NQeTZRWjFhRmU0a1d5YjVaQjh5QzVvSl81SmVKS2hvR096cHNvWDYtMXpJY1RiYS04b3Q0NFNTdkVHUl9NblEzYWh6eWE3dlNOQWVJR1BQZWJKb0FDNWswQklzbEE4bjl4azJaWUpNb2xmOTA4ZVowZjFEc01vbkNBUkE5d0NRS0tFQ0lZSWM5SGNIdm5UR2VBMDh5MjBWRGVxZ2RmUQ?oc=5",
+   "outlet": "CNBC",
+   "via": "Google News",
+   "published": "2026-11-20T03:44:57+00:00",
+   "seen": "2026-11-20T03:58:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The report states GTA VI will generate years of high margin recurring revenue for Take-Two, per Wedbush."
+  },
   {
    "id": "gta 6 sales surpass 24 5 million units worldwide",
    "title": "GTA 6 Sales Surpass 24.5 Million Units Worldwide",
@@ -415,6 +441,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that 'Grand Theft Auto VI' is here and has already made billions."
+  },
+  {
+   "id": "grand theft auto 6 turns 24 hours into a historic moment with 3 record breaking achievements",
+   "title": "Grand Theft Auto 6 turns 24 hours into a historic moment with 3 record-breaking achievements",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSk1qSE5SWmFPSkJVYlJOZlhMQkhUWFRUTVU0QlhZemtXbzMzdGFwS3R6NDliYmdDcy12eDJxZi00MFhpTjU5ZTlhQl9UZ2dIdURwQUx3TTd2a1lZN3hkTjhPcTc4UHZ5M2dSU19pWEZIdmxKRERIejhndmZRVll2Z2ZXSzlkT1FaNkE0YldMbWo4dDdxTExnRU90ZlhKLVNyY3NxTDJraHRJQ2gxNVhjQm5vaV9zYWlxbU1HR2sza0k1NmhGRG1NOXdnb1VkNUZoS3RUNlFJOTY4b3ZteUtjUkdWeW5hYUlyV01tY2xUMHk3My03dHFFSXpkVGNZbFdCTThYYUxkYnLSAYgCQVVfeXFMUEpNakhOUlphT0pCVWJSTmZYTEJIVFhUVE1VNEJYWXprV28zM3RhcEt0ejQ5YmJnQ3MtdngycWYtNDBYaU41OWU5YUJfVGdnSHVEcEFMd003dmtZWTd4ZE44T3E3OFB2eTNnUlNfaVhGSHZsSkRESHo4Z3ZmUVZZdmdmV0s5ZE9RWjZBNGJXTG1qOHQ3cUxMZ0VPdGZYSi1TcmNzcUwya2h0SUNoMTVYY0Jub2lfc2FpcW1NR0drM2tJNTZoRkRtTTl3Z29VZDVGaEt0VDZRSTk2OG92bXlLY1JHVnluYWFJcldNbWNsVDB5NzMtN3RxRUl6ZFRjWWxXQk04WGFMZGJy?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-20T02:01:00+00:00",
+   "seen": "2026-11-20T03:58:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Grand Theft Auto 6 marks 24 hours as a historic moment with three record-breaking achievements."
   },
   {
    "id": "digital only gta 6 raises concerns for gamers in rural east tennessee",
