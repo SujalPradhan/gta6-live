@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:48:37+00:00",
- "started": "2026-11-20T03:48:29+00:00",
+ "updated": "2026-11-20T03:53:39+00:00",
+ "started": "2026-11-20T03:53:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:48:30+00:00"
+   "checked": "2026-11-20T03:53:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-20T03:48:30+00:00"
+   "checked": "2026-11-20T03:53:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-20T03:48:31+00:00"
+   "hits": 98,
+   "checked": "2026-11-20T03:53:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-20T03:48:31+00:00"
+   "checked": "2026-11-20T03:53:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-20T03:48:31+00:00"
+   "checked": "2026-11-20T03:53:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-20T03:48:32+00:00"
+   "checked": "2026-11-20T03:53:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-20T03:48:32+00:00"
+   "checked": "2026-11-20T03:53:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-20T03:48:32+00:00"
+   "checked": "2026-11-20T03:53:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-20T03:48:32+00:00"
+   "checked": "2026-11-20T03:53:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-20T03:48:33+00:00"
+   "checked": "2026-11-20T03:53:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-20T03:48:33+00:00"
+   "checked": "2026-11-20T03:53:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-20T03:48:33+00:00"
+   "checked": "2026-11-20T03:53:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-20T03:48:33+00:00"
+   "hits": 4,
+   "checked": "2026-11-20T03:53:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-20T03:48:34+00:00"
+   "checked": "2026-11-20T03:53:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 sales surpass 24 5 million units worldwide",
+   "title": "GTA 6 Sales Surpass 24.5 Million Units Worldwide",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53Xy1FTFhUamFrdlFneWhaVWVTX3puZjgxN256WHNjTEliUjg2ckJqVjc4eWR0dkF3TzNaS2xaZFhYcHFLdnQ1ZlRxMEZTRFZ1am52cXJCTXozbVJkbjJoTWRPUQ?oc=5",
+   "outlet": "Demokratis.co.id",
+   "via": "Google News",
+   "published": "2026-11-20T03:42:36+00:00",
+   "seen": "2026-11-20T03:53:33+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 sales have surpassed 24.5 million units worldwide."
+  },
   {
    "id": "grand theft auto vi players take pto across the country",
    "title": "'Grand Theft Auto VI' players take PTO across the country",
@@ -116,6 +129,45 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that players of Grand Theft Auto VI take PTO across the country."
+  },
+  {
+   "id": "photos grand theft auto vi release day",
+   "title": "Photos: Grand Theft Auto VI release day",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeVdULWd0WDNicEFjYUx1UHRCRnh6eDlLcExTNFFDdllVZk92d24yQllXVHJWV0ptcF9xZ2EyZElGV3dsREdHZTcyM3pMMTdHMVl0MFJhSkRRVVBudXdwbk90dF9uVGpFRW1hLVNBbGVqVEVrUENyQnVmLTZ5bzV1aVlfdTh2eU8ydWFsTFhRcklTbkpVTFkzRF9ER1JpWEYxQldvYmRVV213RkRHUWNPSk83TnZYZjdsbi1oUE0xS2NYSHZWWXBSM2N6RmtpMXpaTDZR?oc=5",
+   "outlet": "Mankato Free Press",
+   "via": "Google News",
+   "published": "2026-11-20T03:36:00+00:00",
+   "seen": "2026-11-20T03:53:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Photos show Grand Theft Auto VI release day."
+  },
+  {
+   "id": "gta 6 excitement brings vice city to life on miami beach",
+   "title": "GTA 6 excitement brings Vice City to life on Miami Beach",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVdLWU4zdUNRNTZzUWpVbzFTUXkyY0gtS3B3b2w1WEFLeXdubUljVHBYMmgzX2VvMHVGWlNNTkVfUHhUb1IxRkFPWWdVaGZHcnEyenRiNE1BSU50bFQtM19IZHFRSV90M3lweXF0VzFvaU9HVHJ3M2M0bFNxZkZSYWZhSkMtUnJqcjU5Zy1KSnBmOV9ZS1IwQ1kxNjJfeDgzSzJGWmt3?oc=5",
+   "outlet": "WPLG Local 10",
+   "via": "Google News",
+   "published": "2026-11-20T03:35:15+00:00",
+   "seen": "2026-11-20T03:53:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 excitement brings Vice City to life on Miami Beach."
+  },
+  {
+   "id": "how to enter thomas j henry s gta vi giveaway",
+   "title": "How to enter Thomas J. Henry's GTA VI giveaway",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaHBDb29vazlBQU90TmdTWnRxdG1pNVlDMVA0b0Y1Zm81UzNXTHRqRkhaRlFQbEZDRUZ1clZTRUtFOXFRN05TUGpyQldpUUFSb0YtZFd3VEF3aEJoUTEydmRIM0h4UG9lWEh2MFVnQTRXeFloc01mbFFZWWNaZFlDTWhNaGktLTlZSW1BV0ZNaUhXM2tEb1NmR05BWnBTT2F4c2x1bk9LalJVWFNmdGFaV2Nhc0RRZTZQcEwxTUJKcWFlakNkOUhZRkxNX3BoeVJLSmo5Ykl2bjItU2NhVGF0MQ?oc=5",
+   "outlet": "kiiitv.com",
+   "via": "Google News",
+   "published": "2026-11-20T03:33:13+00:00",
+   "seen": "2026-11-20T03:53:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Instructions on entering Thomas J. Henry's GTA VI giveaway."
   },
   {
    "id": "i m just disappointed is the news of lebron james expressing disappointment in gta 6 true amid his imp",
@@ -9853,6 +9905,19 @@
    "topic": "Players",
    "record": true,
    "ai_summary": "The story reports estimates of up to nineteen million players for GTA 6, with no official count yet."
+  },
+  {
+   "id": "how many people are playing gta 6 right now there s no official count yet but estimates top 24 million",
+   "title": "How many people are playing GTA 6 right now? There's no official count yet, but estimates top 24 million",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnN3YjlVamNxUEZjWTJFLTlkZ1Y4bS1ZOHBuOEJQc2tJLTRmZGZSNzhOUV9Iblg0UVpINUNXelFhQ193Q2RtTHZmZVdJdFk0WEhVM2h1aWFNYWRJTGsyNXdUcVpBV0d1ZUhhQy1fMmh3T0JmZ2toVjJINDVDcUx5R3F2TXc3ZmxjR3RDa0ZBV29Xa1psZDVyMXNNeFdmRGw2RDRpX0hUaWQ3UEVW?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-19T14:16:11+00:00",
+   "seen": "2026-11-20T03:53:33+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "There is no official count of GTA 6 players yet; estimates top 24 million."
   },
   {
    "id": "gta 6 fan says he rented a hotel for a week his wife had questions",
