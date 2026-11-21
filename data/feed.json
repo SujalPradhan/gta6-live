@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:20:43+00:00",
- "started": "2026-11-21T16:20:39+00:00",
+ "updated": "2026-11-21T16:25:49+00:00",
+ "started": "2026-11-21T16:25:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T16:20:39+00:00"
+   "checked": "2026-11-21T16:25:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T16:20:40+00:00"
+   "checked": "2026-11-21T16:25:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T16:20:40+00:00"
+   "checked": "2026-11-21T16:25:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T16:20:40+00:00"
+   "checked": "2026-11-21T16:25:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T16:20:41+00:00"
+   "checked": "2026-11-21T16:25:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-21T16:20:42+00:00"
+   "checked": "2026-11-21T16:25:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 27,
-   "checked": "2026-11-21T16:20:42+00:00"
+   "hits": 28,
+   "checked": "2026-11-21T16:25:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T16:20:42+00:00"
+   "checked": "2026-11-21T16:25:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-21T16:20:42+00:00"
+   "hits": 8,
+   "checked": "2026-11-21T16:25:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T16:20:42+00:00"
+   "checked": "2026-11-21T16:25:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T16:20:43+00:00"
+   "checked": "2026-11-21T16:25:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T16:20:43+00:00"
+   "checked": "2026-11-21T16:25:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T16:20:43+00:00"
+   "checked": "2026-11-21T16:25:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T16:20:43+00:00"
+   "checked": "2026-11-21T16:25:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "electric cars are finally mainstream in gta 6 and vice city is full of them",
+   "title": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlJCTzczUlZsdXU1Z0pzOHB0SElBcW1LMG9sM2g1YWFvbU5neUwzM3lrLVpYd3BJZ3ZYY3Y5LVNnQXJPNEJZbWRPNTRQcmZZR2x2eFhPT1RnUG56S01FbG1CZGMyTlJVRjFfT0IyanQ4OVJBcFdQVzN6Rmd1cGpFcXNR?oc=5",
+   "outlet": "Electrek",
+   "via": "Google News",
+   "published": "2026-11-21T16:21:00+00:00",
+   "seen": "2026-11-21T16:25:42+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story claims electric cars are now mainstream in GTA 6, with Vice City filled with them."
+  },
+  {
+   "id": "how to get a snap gun in gta 6 to quietly lockpick doors",
+   "title": "How to get a Snap Gun in GTA 6 to quietly lockpick doors",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-snap-gun-how-to-get-use/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-21T16:20:00+00:00",
+   "seen": "2026-11-21T16:25:44+00:00",
+   "summary": "The GTA 6 Snap Tool is an essential item which lets you get into locked doors without setting off alarms",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to obtain a Snap Gun in GTA 6 to quietly lockpick doors."
+  },
+  {
+   "id": "the most unforgivable crime in gta 6 is that tv placement",
+   "title": "The most unforgivable crime in GTA 6 is that TV placement",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1ZjTUVBZGFtNjdwSmdfRzFzN004cFNaQ2lYVzJ4VE91YW9pMzN5T3VtaEp6cDN2djY1clZjWndNbTN2QmZqQURkYm1MRjVRQk43cU9LZVYzR3llc3k2WlJHa09rNGxsNGs5QXBvMjVkWXdwaEh2aF9GeXhNakxDNFdNWU1nYkpzMHdPZUtxUnowYk1xZjNCdi1sU01yNGRtN296RzZ1UlFrWVZv?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-21T16:16:37+00:00",
+   "seen": "2026-11-21T16:25:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asserts that the most unforgivable crime in GTA 6 is TV placement."
+  },
+  {
+   "id": "gta 6 user score reaches 5 3 despite 99 critic rating",
+   "title": "GTA 6 User Score Reaches 5.3 Despite 99 Critic Rating",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14YTYzd3NkWTJnTHc3eGNweVFJcWVKZDVXSmRPQnl3eEpacjZ2VjZJTkh2WUc2eFpRNTktZy11VlpfX2poczNWdGFmMk5wVTNFQjFIS1FVaVVpSUtWRWc?oc=5",
+   "outlet": "bsinews.id",
+   "via": "Google News",
+   "published": "2026-11-21T16:12:41+00:00",
+   "seen": "2026-11-21T16:25:43+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story notes a user score of 5.3 for GTA 6 despite a high critic rating."
+  },
   {
    "id": "gta 6 s download stampede coincided with two reported de cix traffic records",
    "title": "GTA 6’s download stampede coincided with two reported DE-CIX traffic records",
@@ -129,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains where to find the bowling alley safe code in GTA 6."
+  },
+  {
+   "id": "retirement home residents as old as 86 have been loving gta 6",
+   "title": "Retirement home residents as old as 86 have been loving GTA 6",
+   "link": "https://www.dexerto.com/gaming/retirement-home-residents-as-old-as-86-have-been-loving-gta-6-3430310/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-21T16:05:47+00:00",
+   "seen": "2026-11-21T16:25:44+00:00",
+   "summary": "A group of elderly residents at a retirement home in France have discovered GTA 6, with some already hoping to get their hands on the game for Christmas.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports retirement home residents in France have discovered GTA 6 and want it for Christmas."
   },
   {
    "id": "gta 6 s impact on steam and roblox after record breaking launch revealed",
@@ -181,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a method to obtain the GTA 6 pawn shop safe code, noting you won't find it by looking around."
+  },
+  {
+   "id": "gta 6 makes it easy to steal a car but hard to text and drive",
+   "title": "GTA 6 Makes It Easy to Steal a Car, But Hard To Text and Drive",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSU5jWVRxLTlvQUw1TVJ2d3FiQUprTkZuMFJBREpGcVFDQXpON2N6WTVnSU5ZNHc5TXV0eFF3U0tyOXJONGZsLUwxbGZTZWNBZDRhVnN3WndpYWdFNHlKRjdkYkJ1b3dDem1xaFJYUnl2TU1YM1cwemtWZHI3YkVZb2NR?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-21T15:58:23+00:00",
+   "seen": "2026-11-21T16:25:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says GTA 6 makes it easy to steal a car but hard to text and drive."
   },
   {
    "id": "gta 6 how to fix the missing jacket bug",
@@ -259,6 +337,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports every cheat in GTA 6 to get infinite money, weapons, and vehicles."
+  },
+  {
+   "id": "bill maher roasts gta 6 with brutal joke about ice",
+   "title": "Bill Maher roasts GTA 6 with brutal joke about ICE",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzF6QXdzdGZsQWdHYVNZY3VnbXZjaHQ1Z1RHcWhMT0c5UFNHY2V5YWR3VF9WaVMzTGdEX3BDMFZLZE9qSWN3b25xbGtHbndfbElEVjV3cVRkTFp3aDVUVlRUY3l3ZE5aRVhKeWxsQmZZbG1RaXV4UGFXYjZyVXR6SVJPQXRfbDlUZGptRmowUzZHTHY0bzJEdzExU3o?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-21T15:34:00+00:00",
+   "seen": "2026-11-21T16:25:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story mentions Bill Maher roasting GTA 6 with a brutal joke about ICE."
   },
   {
    "id": "the gta vi effect pwc predicts ripple effects across gaming media and private equity",
