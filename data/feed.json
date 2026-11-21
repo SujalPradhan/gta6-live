@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:38:52+00:00",
- "started": "2026-11-21T10:38:48+00:00",
+ "updated": "2026-11-21T10:43:57+00:00",
+ "started": "2026-11-21T10:43:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T10:38:48+00:00"
+   "checked": "2026-11-21T10:43:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T10:38:49+00:00"
+   "checked": "2026-11-21T10:43:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T10:38:49+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T10:43:52+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T10:38:50+00:00"
+   "checked": "2026-11-21T10:43:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T10:38:50+00:00"
+   "checked": "2026-11-21T10:43:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T10:38:50+00:00"
+   "checked": "2026-11-21T10:43:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T10:38:50+00:00"
+   "checked": "2026-11-21T10:43:53+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T10:38:51+00:00"
+   "checked": "2026-11-21T10:43:53+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T10:38:51+00:00"
+   "checked": "2026-11-21T10:43:53+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T10:38:51+00:00"
+   "checked": "2026-11-21T10:43:54+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T10:38:52+00:00"
+   "checked": "2026-11-21T10:43:55+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T10:38:52+00:00"
+   "checked": "2026-11-21T10:43:55+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T10:38:52+00:00"
+   "checked": "2026-11-21T10:43:55+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T10:38:52+00:00"
+   "checked": "2026-11-21T10:43:55+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 hacker pleads guilty yes the one with the fire stick",
+   "title": "GTA 6 hacker pleads guilty. Yes, the one with the Fire Stick",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE12MmNmVlNWYzJCaUlKUUpabkZpX1MycHk2VnhDaUJnQ1U3LTlFRE5ZeG42U3dKNnEtQmJOYldQZlpIaGR1TTlj?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-21T10:42:23+00:00",
+   "seen": "2026-11-21T10:43:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a GTA 6 hacker pleads guilty."
+  },
   {
    "id": "gta 6 fever sparks surge in searches for flights to miami",
    "title": "'GTA 6' Fever Sparks Surge in Searches for Flights to Miami",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims that 'GTA 6' fever sparks a surge in searches for flights to Miami."
+  },
+  {
+   "id": "get ready for gta 6 innocn unveils black friday gaming monitor deals with qd oled and ultrawide displays",
+   "title": "Get Ready for GTA 6: INNOCN Unveils Black Friday Gaming Monitor Deals with QD-OLED and Ultrawide Displays",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPazRzUFczX0ZSWGpyMldtaEFSTG1rWkNCcHdHTThfTVFBRWVEcmd6NjUtdGxXc05uZmxVZHNJYVdJMjR4MGhfaFhxZkRtaGc1QUhVb2dHb19DVGdJQ2RBM2dWR2hJTWhRZ0VldE5FS3oyQ2RJQ1JMN0FwcmY1NlNfLW51cUZ4MlNnbFNiRGxNcXlIcVZOQ3ZmN0dQZnRBRWVzTDBaS3h5djN4SndCUmNZTG1zVzdNUEl5clVRUkJDZTdHd3J1S2E0R2Z2ZHF1dFExYmo5RGZjOWZrdE5laWVHdVBud3Qwdw?oc=5",
+   "outlet": "EIN Presswire",
+   "via": "Google News",
+   "published": "2026-11-21T10:30:00+00:00",
+   "seen": "2026-11-21T10:43:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Black Friday gaming monitor deals for GTA 6 from INNOCN featuring QD-OLED and ultrawide displays."
   },
   {
    "id": "veyra 2 2 0 expands gta 6 launch capabilities on pc via playstation 5",
