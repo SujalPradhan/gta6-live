@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:07:03+00:00",
- "started": "2026-11-21T20:06:57+00:00",
+ "updated": "2026-11-21T20:11:54+00:00",
+ "started": "2026-11-21T20:11:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T20:06:57+00:00"
+   "checked": "2026-11-21T20:11:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T20:06:58+00:00"
+   "checked": "2026-11-21T20:11:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T20:06:58+00:00"
+   "hits": 100,
+   "checked": "2026-11-21T20:11:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T20:06:58+00:00"
+   "checked": "2026-11-21T20:11:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T20:06:59+00:00"
+   "checked": "2026-11-21T20:11:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T20:06:59+00:00"
+   "checked": "2026-11-21T20:11:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T20:06:59+00:00"
+   "checked": "2026-11-21T20:11:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T20:06:59+00:00"
+   "checked": "2026-11-21T20:11:51+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T20:06:59+00:00"
+   "checked": "2026-11-21T20:11:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T20:07:00+00:00"
+   "checked": "2026-11-21T20:11:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T20:07:00+00:00"
+   "checked": "2026-11-21T20:11:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T20:07:00+00:00"
+   "checked": "2026-11-21T20:11:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T20:07:00+00:00"
+   "checked": "2026-11-21T20:11:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T20:07:00+00:00"
+   "checked": "2026-11-21T20:11:52+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 dealer s choice walkthrough should you choose cut or pure",
+   "title": "GTA 6 Dealer’s Choice walkthrough: Should you choose Cut or Pure?",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-dealers-choice-walkthrough-should-you-choose-cut-or-pure/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-21T20:10:07+00:00",
+   "seen": "2026-11-21T20:11:51+00:00",
+   "summary": "How to complete Dealer's Choice in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how to complete Dealer's Choice in GTA 6."
+  },
   {
    "id": "klay thompson plays gta 6 in surprising way",
    "title": "Klay Thompson plays GTA 6 in surprising way",
@@ -404,6 +417,19 @@
    "ai_summary": "The piece announces that the site has obtained Grand Theft Auto VI after thirteen years."
   },
   {
+   "id": "where to buy the travis scott x nike air force 1 gta 6",
+   "title": "Where To Buy The Travis Scott x Nike Air Force 1 “GTA 6”",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2lrMktvWVFxazNmSXBSOG0zY1Y1ZE1fSUNzUy1fU3ZVc0QyWmZEWGpwSEk3YW50LTltcFpENVhzVnNicVdvUklZOHlhdUtvNFpoWWRXdXhZLVd1U3V5OFBWdWV2cTFDMmZ6REpBVm04SWJ2eUpMOXI1c3ZGWENvRkVSelVBMmFQYTYyN2EzSTNDd9IBkgFBVV95cUxNM2lrMktvWVFxazNmSXBSOG0zY1Y1ZE1fSUNzUy1fU3ZVc0QyWmZEWGpwSEk3YW50LTltcFpENVhzVnNicVdvUklZOHlhdUtvNFpoWWRXdXhZLVd1U3V5OFBWdWV2cTFDMmZ6REpBVm04SWJ2eUpMOXI1c3ZGWENvRkVSelVBMmFQYTYyN2EzSTNDdw?oc=5",
+   "outlet": "Sneaker News",
+   "via": "Google News",
+   "published": "2026-11-21T18:56:15+00:00",
+   "seen": "2026-11-21T20:11:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers where to buy the Travis Scott x Nike Air Force 1 “GTA 6.”"
+  },
+  {
    "id": "neuralink participant showcases what it s like to play gta 6 with his mind",
    "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemxUX1hTeE9tTk1oV28yUjU1ZGVDcVozRHEyd0lFVXFNRThKMV9jblFDeVBnRjRXaFhvZUcxeU1oVng2dHdib29PZ3V0TUhsYnVkUEVlWGxoMW02YnZJVVNyZzF0aUtxYW9sTVpVbDNRalVldWJMV2RWNDJqUUtSVnl2VHd3NXNOczlLcEhrTERVX2FpZDRNOWp5bVJQZm93T194NA?oc=5",
@@ -623,6 +649,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA VI earning a massive revenue on day one, described as the biggest entertainment launch ever by gHacks."
+  },
+  {
+   "id": "gta 6 s 80 price hides a surprise for american families",
+   "title": "GTA 6's $80 price hides a surprise for American families",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFRob0JkVmJENDkySWlGM01Va3hZQkpHR2RWYXRvWVd2WVp2aWc2Y1hmTGk1dXVxM1FWQWU4eWJNQ0h5cnMxYzhhekhSM0JpbkI5b2kzXzU1cmFsWkxZbmhoSllWYlBTa0VSMzRUZjJoTmtGbjJqVkFDdDJBeko1enBlTEY1dUZvanFGZl81dllOVW8?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-21T18:07:00+00:00",
+   "seen": "2026-11-21T20:11:49+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story claims GTA 6's eighty-dollar price hides a surprise for American families."
   },
   {
    "id": "as gta vi arrives mcafee warns of new malware as a service targeting gamers and its own customers alike",
@@ -3277,6 +3316,19 @@
    "ai_summary": "The story claims GTA 6 launch cost the US around a billion dollars in productivity."
   },
   {
+   "id": "gta 6 launch surpasses expectations as rockstar delivers record breaking gaming experience",
+   "title": "GTA 6 Launch Surpasses Expectations as Rockstar Delivers Record-Breaking Gaming Experience",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGtsWjI2UTJGUjhvTnBVaUJ2cHFuanZwTkxKYmI2bkpoRWpWN1JMOEJHMGs4WW1ldThpbXhFaUsyM2lFNnlsNzkzMW5FLWhRa0gway1QeUpxdTFKUWNWbTdfYlNyVWFvbUNERzZ2cHFRbEVGb3FpV1pralJsTUpaamVCMHNFMEdULTVqRk5CM21Fdm1pY1FsX0xtV3VRdExTS0J4ZVpfZHF3SEtHYjFONlZQN29Wa28?oc=5",
+   "outlet": "https://newsalert.com.pk/",
+   "via": "Google News",
+   "published": "2026-11-21T12:19:19+00:00",
+   "seen": "2026-11-21T20:11:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story states GTA 6 launch surpasses expectations with a record-breaking gaming experience."
+  },
+  {
    "id": "grand theft auto vi rakes in billions",
    "title": "Grand Theft Auto VI rakes in billions",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmVMQWU2Uy1ka1pYWFYtTmdlM1JzZWpsczJjY0FqendFZnF4WDRONWRNOXB4U2VKbWJvd2lLTURfRnN6WEZESURZRWpvUFFtczhjV2lYMGhjVzVDeXVYUjhFU05zZ2VKZFdIUHdZT20wRzhveU5HTk13NXFpam8wMUpIMzNFQjJPaTB5MzdJb2RLT2U0NlQ4SHIxbDZtaXJfazZRTVJrMENpckJoVkE?oc=5",
@@ -5888,6 +5940,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "Grand Theft Auto VI sets record with first-day retail sales according to Rockstar Games."
+  },
+  {
+   "id": "gta 6 breaks comcast s historic traffic record",
+   "title": "GTA 6 breaks Comcast’s historic traffic record",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZY1B1WER5X3RTSmJuOEhmNUxYc1lpRW5zZmZCR3EtVFBPSERjdkpHVk1ESWNLS01tSmlFUndSdjljWEdhLXQyXzdzTHd1aHM5NVo3UFpXVUNrOEk1UmU5M2NySnU3VmNrVmNHaWw2NGQ?oc=5",
+   "outlet": "Anmo Sugoi",
+   "via": "Google News",
+   "published": "2026-11-21T03:11:51+00:00",
+   "seen": "2026-11-21T20:11:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 breaks Comcast’s historic traffic record."
   },
   {
    "id": "grand theft auto vi 2026",
