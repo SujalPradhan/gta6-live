@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T08:03:03+00:00",
- "started": "2026-11-21T08:03:00+00:00",
+ "updated": "2026-11-21T08:08:10+00:00",
+ "started": "2026-11-21T08:08:04+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T08:03:00+00:00"
+   "checked": "2026-11-21T08:08:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T08:03:01+00:00"
+   "checked": "2026-11-21T08:08:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T08:03:01+00:00"
+   "checked": "2026-11-21T08:08:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T08:03:01+00:00"
+   "checked": "2026-11-21T08:08:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T08:03:02+00:00"
+   "checked": "2026-11-21T08:08:06+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T08:03:02+00:00"
+   "checked": "2026-11-21T08:08:06+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T08:03:02+00:00"
+   "checked": "2026-11-21T08:08:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T08:03:02+00:00"
+   "checked": "2026-11-21T08:08:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T08:03:02+00:00"
+   "checked": "2026-11-21T08:08:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T08:03:02+00:00"
+   "checked": "2026-11-21T08:08:07+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T08:03:03+00:00"
+   "checked": "2026-11-21T08:08:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T08:03:03+00:00"
+   "checked": "2026-11-21T08:08:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T08:03:03+00:00"
+   "checked": "2026-11-21T08:08:08+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T08:03:03+00:00"
+   "checked": "2026-11-21T08:08:08+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi how indian americans who help run video game business ration it for their own children",
+   "title": "Grand Theft Auto VI: How Indian Americans Who Help Run Video Game Business Ration It for Their Own Children",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2RkMkJ0ckJBNlZMOWxwWXdDdWFLbWp6TEVMZ0RQdnVIM2trSW03dUZjMFdvNld2VG5GN2twWkZESnVwQi15bTdzampieFZMWGNNX1JESW52MUdfN0hjU3d3MTFhYkx3ZXE5Q1BuTXZKNXBEb0l1VjdwbFZiMHhWVjQ0R2IxWEp6MDg0MUhiSE5VMlowMVRGUlE5dW9ZN3VJUmU1c3hXWWhWVHBieU1DZGRkdzhGRG1xc3hTTlBBcUgxcXFObl83T2lSODRUVDh6U25qekF5MVgtOUE?oc=5",
+   "outlet": "American Kahani",
+   "via": "Google News",
+   "published": "2026-11-21T08:04:47+00:00",
+   "seen": "2026-11-21T08:08:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on how Indian Americans who help run the video game business ration it for their own children."
+  },
   {
    "id": "florida joker says he landed a gta 6 voice role after years of public appeals",
    "title": "“Florida Joker” says he landed a GTA 6 voice role after years of public appeals",
@@ -164,6 +177,19 @@
    "via": "Google News",
    "published": "2026-11-21T07:32:00+00:00",
    "seen": "2026-11-21T07:48:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Logitech allows employees to play GTA 6."
+  },
+  {
+   "id": "logitech allows employees to play gta 6 national news 2news com",
+   "title": "Logitech allows employees to play GTA 6 | National News | 2news.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdnZadHFhcVpnX05Vck9TQTVVXzYwRkVoVzZ6WnZnTjJSYTNpVjBzSUZ5Q3paRjJHZkdUZU1SYWplVHZEc2QydVVhakZ3OGZ6N2lvUEZweFJ5cU5xdTQwOTZTVVV0bTNoRW81WG0zSVZEUmVaT2liSWhtT3gySzRqd3RLSHJYNlZWZkIyd3ZHZFlKN3J6a0JTYnpFNnhfMWJJeHVXZzQ0VmhKdW1Ca2FMYlNmM3ItSno2SUVmMHRjVW8?oc=5",
+   "outlet": "KTVN",
+   "via": "Google News",
+   "published": "2026-11-21T07:32:00+00:00",
+   "seen": "2026-11-21T08:08:04+00:00",
    "summary": "",
    "topic": "News",
    "record": false,
