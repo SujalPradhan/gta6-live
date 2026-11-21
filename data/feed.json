@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:57:07+00:00",
- "started": "2026-11-21T20:57:02+00:00",
+ "updated": "2026-11-21T21:02:14+00:00",
+ "started": "2026-11-21T21:02:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T20:57:02+00:00"
+   "checked": "2026-11-21T21:02:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-21T20:57:03+00:00"
+   "hits": 100,
+   "checked": "2026-11-21T21:02:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T20:57:03+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-21T21:02:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T20:57:03+00:00"
+   "checked": "2026-11-21T21:02:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T20:57:03+00:00"
+   "checked": "2026-11-21T21:02:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T20:57:04+00:00"
+   "checked": "2026-11-21T21:02:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T20:57:04+00:00"
+   "checked": "2026-11-21T21:02:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 19,
-   "checked": "2026-11-21T20:57:04+00:00"
+   "hits": 20,
+   "checked": "2026-11-21T21:02:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T20:57:04+00:00"
+   "checked": "2026-11-21T21:02:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T20:57:04+00:00"
+   "checked": "2026-11-21T21:02:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T20:57:05+00:00"
+   "checked": "2026-11-21T21:02:11+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T20:57:05+00:00"
+   "checked": "2026-11-21T21:02:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T20:57:05+00:00"
+   "checked": "2026-11-21T21:02:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
-   "error": "HTTP Error 404: Not Found",
+   "error": "HTTP Error 429: Too Many Requests",
    "hits": 0,
-   "checked": "2026-11-21T20:57:05+00:00"
+   "checked": "2026-11-21T21:02:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to switch characters in gta 6 when jason and lucia switching unlocks",
+   "title": "How to Switch Characters in GTA 6 – When Jason and Lucia Switching Unlocks",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLbFFTQ3M0Z0FUQTI5RjBlSTdMQ1hfRWFaenBaTFpGX2JETE5LLWZQY0t2UEFmZlRmY1F1dlJsX2xjY3Qwejhuc2FjOUo3Nl9aUlRpUUFsZHJ4dkEydTk1amRSZUJWZ1RPak9TeXpGTm43dEpQ?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-21T20:58:46+00:00",
+   "seen": "2026-11-21T21:02:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how switching characters in GTA 6, including switching between Jason and Lucia, unlocks features."
+  },
+  {
+   "id": "gta 6 cited by trump s education department in transgender sports debate",
+   "title": "‘GTA 6’ Cited by Trump’s Education Department in Transgender Sports Debate",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUElsLUk3VE9BZ3FSQzIwenlrYmp2eFZ5ZkNQa0pPWVk1ZHJfRzc1R19Ob0hDcVp2bS00Sjl0MzREdkdVODYwS21mTHhySXBMWTY4d1lNUXhWVi10QWdhS0Izc3J2b19tSDhwbWlrT0ttNzFUZTJEeUdBZlp2bE9Ta1JHVXpVcTIwczYtZmQzeERuR1RfYkJldkduVWhPT2xqa2Z5bjB4U2o?oc=5",
+   "outlet": "Newsweek",
+   "via": "Google News",
+   "published": "2026-11-21T20:57:00+00:00",
+   "seen": "2026-11-21T21:02:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes GTA 6 is cited by the Education Department in a transgender sports debate."
+  },
+  {
+   "id": "grand theft auto vi mania could endanger marriages as relationship coach exposes red flag",
+   "title": "Grand Theft Auto VI mania could endanger marriages as relationship coach exposes red flag",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcS1yc0ozcW9YVjBHWVN1Rk5QSFZXbUp3RGpoS19GVEV6d0ZPdFM4RENvc011U1B1Y2Q3OTVuSFFVdjMyWWd4NFdtYXQ0VlhFNEFGYVNBVzAxVGhMVllXWGo5X2thQ3p5N25OUkhGS1BqclFDWnJlbXVGdkhiTzJtZHl4c2Q0aTR6N3RVakFpelZDdUdGMGtEY2VaQ1NSbEhaZHhyRnN4cXRnc0cyZ0Fiag?oc=5",
+   "outlet": "Fox News",
+   "via": "Google News",
+   "published": "2026-11-21T20:53:49+00:00",
+   "seen": "2026-11-21T21:02:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A relationship coach warns that GTA VI mania could endanger marriages by flagging red flags."
+  },
+  {
+   "id": "gta 6 faces review bombing despite record breaking launch",
+   "title": "GTA 6 Faces Review Bombing Despite Record-Breaking Launch",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwZmxnVUMxallfOUJHYjMwYVcyN3hBanpfMnVtQjNZUVc3el91TDZscW0wdklKMWNqbGktM1FaR29UNklUUnM1eExUSzM5b2JLMS11SU1Wc0hfMkxGaWNxWERpTlU3RnM?oc=5",
+   "outlet": "SuaraGarut.ID",
+   "via": "Google News",
+   "published": "2026-11-21T20:53:00+00:00",
+   "seen": "2026-11-21T21:02:10+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 faces review bombing despite a record-breaking launch."
+  },
   {
    "id": "avengers endgame officially reclaims 1 global streaming spot after gta 6 massacre",
    "title": "Avengers: Endgame Officially Reclaims #1 Global Streaming Spot After GTA 6 Massacre",
@@ -246,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports how to complete Dealer's Choice in GTA 6."
+  },
+  {
+   "id": "gta 6 developer pays touching tribute to late mother by immortalizing her in game",
+   "title": "GTA 6 developer pays touching tribute to late mother by immortalizing her in game",
+   "link": "https://www.dexerto.com/gta/gta-6-developer-pays-touching-tribute-to-late-mother-by-immortalizing-her-in-game-3430350/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-21T20:07:59+00:00",
+   "seen": "2026-11-21T21:02:11+00:00",
+   "summary": "A GTA 6 developer has paid tribute to his late mother by including a memorial to her in the finished game.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 developer memorializes his late mother in the game as a tribute."
   },
   {
    "id": "klay thompson plays gta 6 in surprising way",
@@ -1119,6 +1184,19 @@
    "ai_summary": "The story reports GTA 6 features a parody of Call Of Duty with a joke about unionizing."
   },
   {
+   "id": "gta 6 makes fun of call of duty with a joke about unions while rockstar devs are voting to unionize",
+   "title": "GTA 6 Makes Fun Of Call Of Duty With A Joke About Unions While Rockstar Devs Are Voting To Unionize",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ21jZHMtaFU0MTJZUHF3emFkbDRCZGFOVUwtb3NjcWhxclo4aTNtN01QQTljZ2hiVzktaGdOMDhORDNFYktTZ2E1T3FwYTYwMld2SUFMbHFhdjRORDVnZHQ0el9pbjI1Wjd0T0xtMWx4TUo3cHZ6Sm5rSWRMNjBqcndNc2hYNFZMSjJud3dGNDYtYzRmclBiekxQOE05SnRWdHdDSm1OaF8?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-21T17:22:00+00:00",
+   "seen": "2026-11-21T21:02:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 makes fun of Call Of Duty with a joke about unions while Rockstar devs vote to unionize."
+  },
+  {
    "id": "gta 6 rejected hollywood red dead redemption is in play for 100m",
    "title": "‘GTA 6’ Rejected Hollywood. ‘Red Dead Redemption’ Is in Play — for $100M+",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMkh6Wjl1OWJnNVlES24wSjVKS2Q2cEtJSm03RGpQQ1EwTk9wYkR3WVdqSDd4N04yc0xxSTJmRGNKZUtLN0N4YTdBWnFRZDdEN2tMZFlYTkxPczk4MTkzd1JMZ3pWVnhMRV9PV1JZRUtwbjYwS1Zld091VW9RUnNFS3RLWG9oX0tkSGYtNl9rZGo?oc=5",
@@ -1169,6 +1247,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6 set an entertainment record with a 3.79 billion dollar launch."
+  },
+  {
+   "id": "gta 6 player hit with 30 day psn ban after sharing nude in game photos with friend",
+   "title": "GTA 6 player hit with 30-day PSN ban after sharing nude in-game photos with friend",
+   "link": "https://www.dexerto.com/gaming/gta-6-player-hit-with-30-day-psn-ban-after-sharing-nude-in-game-photos-with-friend-3430333/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-21T17:11:39+00:00",
+   "seen": "2026-11-21T21:02:11+00:00",
+   "summary": "A GTA 6 player claims they have been banned from using PlayStation Network’s social features after sending a friend an in-game photograph of nude characters.",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "A GTA 6 player says they were banned from PSN social features after sharing nude in-game photos."
   },
   {
    "id": "gta 6 launch coincides with de cix traffic record as livestreams reach 7 9 million viewers",
@@ -3106,6 +3197,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "World of Dypians opens a GTA VI inspired zone featuring a logo hunt on BNB Chain."
+  },
+  {
+   "id": "gta 6 makes 3 79 billion in one day beats lifetime box office collections of avengers endgame avatar and spider man brand new day",
+   "title": "GTA 6 Makes $3.79 Billion In One Day, Beats Lifetime Box Office Collections Of Avengers: Endgame, Avatar And Spider-Man: Brand New Day",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd0NQMmxFZlVDVlJQS2tKTU45dkJyQzdlRFBtdTE5N1RrVGFzaGdFQ0RyRENUU2JwaHBUNW9OYTA2T0RQbEhUMEg4SXJaamQ2RERQeEw4OVJXV1ZkUXhQeFJDOExWVUtxbmhDd2t5X0dWVElwcjNnU0s5aTNxRG5qZkFNLU5hSXNDbW9sT090MU9GaWZuS1R3YUY1bThUSDVVejYxSTVnUDdOVDlQUVl0Sy1BZG5ZU0N1OUZsTXBHcW5XQXdvT0FwcnV3TmxCNnBLY0h5Mg?oc=5",
+   "outlet": "myKhel",
+   "via": "Google News",
+   "published": "2026-11-21T13:13:22+00:00",
+   "seen": "2026-11-21T21:02:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story states GTA 6 made a large amount of money in one day, surpassing major film franchises."
   },
   {
    "id": "how many copies has gta 6 sold money made so far november 2026",
@@ -5875,6 +5979,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The article states GTA 6's Metacritic user rating is not as high as expected."
+  },
+  {
+   "id": "gta 6 sets record as biggest entertainment launch in history ever",
+   "title": "GTA 6 Sets Record as Biggest Entertainment Launch in History Ever",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOODZPYS1KbXJUVndNdzFMekNqTlNlaGJWbnU2Uzc5QTgxc1llY0dkWWozamxZbHFRZzUtR0JTM2VhRTJHWl9JSjRienBsY2Q1T21WS2tHQWJHQUFiWmwxcUl5TWxpd21VaS1HUVAtajYxZlNwTHU4VWRuMUZPOFhIc01DUVl6SF9LLWxRMFVkcHlpemk3TjB0eXg0MnJkdkZZdjJsQzVCOG5tSVY3eWsxcUYzb0xyUTNwbnd1RjJLRi1XQ0E2M1g1SUxoMWzSAdIBQVVfeXFMTnkwWENuNURsdmhSNE95M3YyNW9PX0NFa3hEa1E5TnJkeC1fTzZMRUhZZ0lFR0c4M3VHek9vVnF2YVl1RFdkQ3JqSWhuamJLcE1lTFJUc2JwN3p0YzQ3OXQwZmY2SHotSHAwVEtGOWtEajhNaUJOcWJUZENIY2E4aGJYSnV1M1BDV0ZHelY0T0FhRS1JRDZ3X0k0dXlTcnJ0aFlLZGtyTWIxSDlSdWlINWtzN2N5OHBpMFdmRmhBbEZ5MFVUVVZ2Q01HTE8xTTJ5MFRB?oc=5",
+   "outlet": "Asianet Newsable",
+   "via": "Google News",
+   "published": "2026-11-21T05:00:03+00:00",
+   "seen": "2026-11-21T21:02:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story proclaims GTA 6 as the biggest entertainment launch in history."
   },
   {
    "id": "gta 6 s final screenshot batch is here discussingfilm reports",
