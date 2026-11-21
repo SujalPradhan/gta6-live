@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:53:04+00:00",
- "started": "2026-11-21T07:52:58+00:00",
+ "updated": "2026-11-21T07:58:04+00:00",
+ "started": "2026-11-21T07:57:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:52:58+00:00"
+   "checked": "2026-11-21T07:57:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:52:59+00:00"
+   "checked": "2026-11-21T07:57:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:52:59+00:00"
+   "checked": "2026-11-21T07:58:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T07:53:00+00:00"
+   "checked": "2026-11-21T07:58:00+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T07:53:00+00:00"
+   "checked": "2026-11-21T07:58:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T07:53:00+00:00"
+   "checked": "2026-11-21T07:58:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T07:53:00+00:00"
+   "checked": "2026-11-21T07:58:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T07:53:01+00:00"
+   "checked": "2026-11-21T07:58:01+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T07:53:01+00:00"
+   "checked": "2026-11-21T07:58:01+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T07:53:01+00:00"
+   "checked": "2026-11-21T07:58:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T07:53:02+00:00"
+   "checked": "2026-11-21T07:58:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T07:53:02+00:00"
+   "checked": "2026-11-21T07:58:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T07:53:02+00:00"
+   "checked": "2026-11-21T07:58:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T07:53:02+00:00"
+   "checked": "2026-11-21T07:58:02+00:00"
   }
  },
  "items": [
@@ -116,6 +116,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a person calling themselves a 'Florida Joker' says they landed a GTA 6 voice role after years of public appeals."
+  },
+  {
+   "id": "gta 6 has a four decade old bengali disco song aaj shanibar from rupa biswas album",
+   "title": "GTA 6 has a four-decade-old Bengali disco song 'Aaj Shanibar' from Rupa Biswas' album",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT1k5XzhlVXhJbnVMZ0lkYkpjTXkzRW5Pc0h1N3JtRUtqcnQ1eGY0RzhsSHdIemNQcE5UN01ySUp1Zm9ENkR4Yzd2aDQyY25teE4wdlNiRWNkblNrSGZENEZEQ2VzTzhZaFRhVTJUYThucFp1alZNUFRsQzJQRjBPVVdHOVRXUGEtUUF5ZjRLNVhaRFlPdzJoRHZCTWtBLVpzLU90dUpNYjZJTmlqcElhdUlTZWxrRzZRV1ZPOGtXNU9sMmdQQ1VsUFJiSEdUNnM2SVF6aEloWTBNQzJDNG9IeEFpRHNfQ0pX0gHuAUFVX3lxTE1qOEE0X1JmYlFyN3dDRHFlcGdoWGNzZTVsZ3VkbHljTWJfNlZnNmJEbWZnaEpSb2FMMUtGWENFdmlURHE0TXdrY3F4N2pobUQ4TWF0X1RlLVZmVmpNaTZPVnR0ZUhxZnRCWDItNEFrOXU4alR3dXBKeTBIWENMNXZodXMzTGNUUHZyY19HUU5ENkpyeFpITVlNY0ttSVZBWWVyWTMyMUFuMVZnaXRoRWZHNktlc3RLT1R0dUE3ZTNnckZoOGZhRFluRlQ2aUJuTFJqTm5rdmFydy1QOXVGczZZTnhwcnpqdVlTTFhWaWc?oc=5",
+   "outlet": "The Economic Times",
+   "via": "Google News",
+   "published": "2026-11-21T07:47:41+00:00",
+   "seen": "2026-11-21T07:57:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports that GTA 6 includes a Bengali disco song from Rupa Biswas' album."
+  },
+  {
+   "id": "gta 6 earns rs 35 000 crore in 24 hours leaving hollywood blockbusters behind",
+   "title": "GTA 6 Earns Rs 35,000 crore In 24 Hours, Leaving Hollywood Blockbusters Behind",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWW5pR1V4bkI0UkplNzhRVk1rdWE5enhEVnVZMTRMX1dkZUJBTmY3RDBjaHdBYXNPanFoTFNiVFIyVklVcERMYzlHSkJnb245ZU04dlQxN0ktbDV2Z0ZGVFZmcUdkbVZMWHFIdnI5bG9EVmpSaVBvcUE1ZkxGZmZOZzBKaFVRTWFVRWluRlc4UFp4aFpiTGNUNXZpNk5uclFRV0l1c0taV28wbFduN2hyWDZHb2pHQdIBvgFBVV95cUxPcWRWQlA1RUkwRkJXUndjNGx3dk4tWHZZT3pCYjJkQmhRdGw5T2lyMmNuUUV3ZHNUWkdLQzdrSEJOTXRKRmRYUHJfbUF4ZWlzZUdybUpGU1RiYXZPRDZ6WWEteWp0MDl1RTlCZ013UDFRZHFnUjRBTVhNbUdlaExXZ3EwVVpoUVFyMGlJSDdsUlBMV2VQdFRQN094blo0NndLYlNtdDlpS0hWTENLWlFiUHFPbXd1V0p1WWdQTlNB?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-21T07:46:08+00:00",
+   "seen": "2026-11-21T07:58:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports that GTA 6 earned a large amount in one day, surpassing Hollywood blockbusters."
   },
   {
    "id": "i spent all night playing gta 6 and these 3 ps5 settings made it look and sound incredible",
@@ -662,6 +688,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports Waka Flocka Flame calling older GTA VI players 'pathetic' and saying they aren't getting money."
+  },
+  {
+   "id": "sexyy red pays tribute to tay keith after their song pound town appears in gta vi",
+   "title": "Sexyy Red Pays Tribute to Tay Keith After Their Song “Pound Town” Appears in 'GTA VI'",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXBVUzQ1QTluSE90SUZKTDhjLUlZUzlHS2xJamVlTkRuc1J1SGU1WHZxZFY4cE01VkFrTmlTekwwZzVxN3ZTVzhPVmZEQWg0blpMalBONEhkNzBEZ253RmlYUVpsaWxvaDdKSGw1Y09aSHJ2LWlCdldCM3NLOGRsY1dXUWk?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-21T05:17:39+00:00",
+   "seen": "2026-11-21T07:57:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports that a song appears in GTA VI and a tribute is paid to the artist by Sexyy Red after its appearance."
   },
   {
    "id": "grand theft auto vi a look at the game s success and impact on pop culture",
