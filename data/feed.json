@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:04:27+00:00",
- "started": "2026-11-21T12:04:22+00:00",
+ "updated": "2026-11-21T12:09:20+00:00",
+ "started": "2026-11-21T12:09:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T12:04:22+00:00"
+   "checked": "2026-11-21T12:09:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T12:04:22+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T12:09:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T12:04:23+00:00"
+   "checked": "2026-11-21T12:09:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T12:04:23+00:00"
+   "checked": "2026-11-21T12:09:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T12:04:23+00:00"
+   "checked": "2026-11-21T12:09:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T12:04:23+00:00"
+   "checked": "2026-11-21T12:09:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-21T12:04:24+00:00"
+   "checked": "2026-11-21T12:09:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T12:04:24+00:00"
+   "checked": "2026-11-21T12:09:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T12:04:24+00:00"
+   "checked": "2026-11-21T12:09:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T12:04:24+00:00"
+   "checked": "2026-11-21T12:09:17+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 16,
-   "checked": "2026-11-21T12:04:25+00:00"
+   "hits": 15,
+   "checked": "2026-11-21T12:09:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T12:04:25+00:00"
+   "checked": "2026-11-21T12:09:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T12:04:25+00:00"
+   "checked": "2026-11-21T12:09:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T12:04:25+00:00"
+   "checked": "2026-11-21T12:09:18+00:00"
   }
  },
  "items": [
+  {
+   "id": "why is gta vi so expensive to play",
+   "title": "Why is GTA VI so expensive to play?",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzNsbWxkVF9pNkh5UHVndWlhUzNxN0w2V0NjWVU0dE9MQU5NcUZQSE5ieUl3VjFybDJvM2ZLbFRMS2FiVGdCNkVvU2xiMjczVWozMC1RTU95ZjdWczYxVjMyX1V3WnJyaHpFMldtM1lVWE1nNXJpdFh5MEprRnFCeElLN3RSd3pMZ3d4YXo1UzVOdjFOMmZETVN30gGfAUFVX3lxTFBCNllwQmNlbmNEdmtOQzFYZ21ONEN0dkU2R2xuN1dybUtlR3B6Z3lCMmdtUFVZbFpCcVMtbjZsREFWSnhaZFRLVGFFczB0c0JFanNQRU1kX01uQ2ZjQ3FON3BQNE9zSV9IRUsxakdjTEZnUTQxbElaOE9CSUJ1Y0xkWVZ2enl1R0VLeHIyb1dDMzZBT0hBaVlzYTd5cnlucw?oc=5",
+   "outlet": "Al Jazeera",
+   "via": "Google News",
+   "published": "2026-11-21T12:07:19+00:00",
+   "seen": "2026-11-21T12:09:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions why GTA VI costs so much to play."
+  },
   {
    "id": "gta 6 review bombed on metacritic and it s sadly exactly why you think",
    "title": "GTA 6 review bombed on MetaCritic - and it's sadly exactly why you think",
@@ -560,6 +573,19 @@
    "ai_summary": "The story discusses how to change default hats and sunglasses in GTA 6."
   },
   {
+   "id": "why didn t rockstar use fsr 4 on series x for gta 6 microsoft s stats have the answer",
+   "title": "Why Didn't Rockstar Use FSR 4 on Series X for GTA 6? Microsoft's Stats Have the Answer",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmp0T2hNVHAzOE9IbWZGTXljdkZoQ2RjZ3U0b0o5aExsbFh5YkhJbkFiMmdacTQ0OG9rTTdnenpKM1huM3ZEa2lrYTVjWHdmRUxvU0dKVFZuMm1pNV9PYjMzRG4zM1gzSURmaEFsdkk1T1Y1d19aZGVKYkJRdEJtYmhsR3dXZWtxQnV5cXFZWGRtMVc2R05PRGtQWmVtS2ZRYV90aXQ4STBWM2hoOVJLbkNwZU1Wb3FoWUVvbE5sZkk?oc=5",
+   "outlet": "Digital Foundry",
+   "via": "Google News",
+   "published": "2026-11-21T10:12:17+00:00",
+   "seen": "2026-11-21T12:09:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks why Rockstar didn't use FSR 4 on Series X for GTA 6 and says Microsoft's stats provide an answer."
+  },
+  {
    "id": "gta 6 is scooter bros premium worth the money",
    "title": "GTA 6: Is Scooter Bros Premium Worth the Money?",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX0lMdDhYSXpib1pOUWVoT0U1OEFsYzBQRjNHNDBVYkRmbk5lRTNuVlhPU2Zwa1FZTVZnQnF1NG5GQWwzckEyUjdxOGZjbXBNcnNjOWVhLUFiS3JweVJ3ZC0zT0xVR1dwcXJDSFFOZVVra016TlVGbVNRYU9RUkdvTA?oc=5",
@@ -623,6 +649,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "GTA 6 sets a historic console launch record with a multi-billion figure reported by streamlinefeed.co.ke."
+  },
+  {
+   "id": "grand theft auto vi generated 3 79 billion in sales on its first day rockstar games said the studio called it the biggest entertainment laun",
+   "title": "“Grand Theft Auto VI” generated $3.79 billion in sales on its first day, Rockstar Games said. The studio called it the biggest entertainment launch in history, a record that spans film, music and games. Rockstar said it sold 32.5 million copies in preorders.",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMUExTHR3TU5rUmduUUlWZW1RRFgtOXN0ajEwdGFKS0pmWEczMWpZTy05UzhkMkpKTXE2cGlXZWN3R3BKN1FrV1hGdDRpSzNGMEhuLTlFVjhzcXNmWTdwQThrSElIcDRBbmdZbGwxTWhQWUpyMFNkT0lhUGdpNWVzNF8yLUhzel8tanlxaTU4VTVsWWdYNlpmQjh5eWRmMzBGMTVPZmlhU3BSX3F0eGl6Y2c0dGNhNzE3V3NmMzdmclJ1QnNUbHlLYnFwazkzTjFmX0IxZW16ZDRZOHot?oc=5",
+   "outlet": "Facebook",
+   "via": "Google News",
+   "published": "2026-11-21T10:02:30+00:00",
+   "seen": "2026-11-21T12:09:15+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI generated a large first-day sales figure and preorders, calling it the biggest entertainment launch in history."
   },
   {
    "id": "gta 6 s little sam looks a lot like sam houser and rockstar is enjoying the mystery",
