@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:00:36+00:00",
- "started": "2026-11-21T16:00:30+00:00",
+ "updated": "2026-11-21T16:05:37+00:00",
+ "started": "2026-11-21T16:05:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T16:00:30+00:00"
+   "checked": "2026-11-21T16:05:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T16:00:31+00:00"
+   "checked": "2026-11-21T16:05:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T16:00:31+00:00"
+   "checked": "2026-11-21T16:05:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T16:00:31+00:00"
+   "checked": "2026-11-21T16:05:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T16:00:32+00:00"
+   "checked": "2026-11-21T16:05:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-21T16:00:32+00:00"
+   "checked": "2026-11-21T16:05:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 27,
-   "checked": "2026-11-21T16:00:32+00:00"
+   "checked": "2026-11-21T16:05:33+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-21T16:00:32+00:00"
+   "checked": "2026-11-21T16:05:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-21T16:00:32+00:00"
+   "checked": "2026-11-21T16:05:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T16:00:33+00:00"
+   "checked": "2026-11-21T16:05:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T16:00:33+00:00"
+   "checked": "2026-11-21T16:05:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T16:00:33+00:00"
+   "checked": "2026-11-21T16:05:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T16:00:34+00:00"
+   "checked": "2026-11-21T16:05:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T16:00:34+00:00"
+   "checked": "2026-11-21T16:05:34+00:00"
   }
  },
  "items": [
+  {
+   "id": "poll so what do you think of gta 6",
+   "title": "Poll: So, What Do You Think Of GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TYW1sU1FORzRzOUhXOFhfWE10Y3FKR3NYa01lcWZpZEJ6RC1iUzY3ZUlpeEpRbGRVX2Zic2EtZEV1RTMzV0JIYmU2UVRlUWwyNkRyUnA0WVpxOFlTS3pRUjRwMDhlbVNUVDl5Y1ZxNTZ4cGFyUVZ3?oc=5",
+   "outlet": "Pure Xbox",
+   "via": "Google News",
+   "published": "2026-11-21T16:00:00+00:00",
+   "seen": "2026-11-21T16:05:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks readers for opinions on GTA 6."
+  },
   {
    "id": "gta 6 pawn shop safe code",
    "title": "GTA 6 Pawn Shop safe code",
@@ -116,6 +129,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a method to obtain the GTA 6 pawn shop safe code, noting you won't find it by looking around."
+  },
+  {
+   "id": "gta 6 how to fix the missing jacket bug",
+   "title": "GTA 6: How To Fix The Missing Jacket Bug",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRHlfUkFfbThHMWNBT2M5NFdCQm1udlhBYm5ZUnFoZS1NRUszSzRoeFhxSVRGTVBmN1NNZUNOOVZxLVF5X0tvZG1jVzdyLXFld1YyRHd1XzZpUWJ6by1oTnJROGFVYXFZUDdPMEZ6U3hiVWZjMElwNQ?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-21T15:57:53+00:00",
+   "seen": "2026-11-21T16:05:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses how to fix a missing jacket bug in GTA 6."
+  },
+  {
+   "id": "gta 6 online release has players worried for one big reason",
+   "title": "GTA 6 Online Release Has Players Worried For One Big Reason",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHc5WDllMlBpWWd5bTFLZkN0Wk5UUFYzU3FhdUp5WFYtZ0VfZF9td0o2eUdqRFZCdHZ6YVUwM09xcnNhVDU0VS1fTXlTLTJMMDBYclozR1U0MFdTcEtsLU93NjFyMDM4dHl6QUZLaXRCTUJHZ2FFLVFMcDFqNVlZS1NrTFZ6cUNETzNoY2JLMXZpTWE1THJpZQ?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-21T15:54:57+00:00",
+   "seen": "2026-11-21T16:05:31+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 Online release has players worried for a major reason."
   },
   {
    "id": "gta 6 officially includes unreleased song from music legend d angelo",
@@ -2703,6 +2742,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI reaches 60 FPS and above on Xbox Series X via a quick resume glitch, though gameplay reportedly runs at double speed."
+  },
+  {
+   "id": "gta 6 shatters all time records with 3 79 billion day one launch",
+   "title": "GTA 6 shatters all-time records with $3.79 billion day-one launch",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2pVSnhYT0lhREVXNmhjTmV1MmNKNUFZS3BKcU5GVVFVZy1tRkEwMV9aMlg1SVo4LVY4Nmo2RnVyQTlaMnMySTZzd2Ntdy1QOXNEYU9qRGlnSDJUVWRzSWtzOFN2TjEweTc4bEJuN09TbUxsVXpwcjMtQ3BEeFo5M2piRktqUGJHb2FNM0pEUk1FNndWMjZtYkRvUmF1UQ?oc=5",
+   "outlet": "Jang",
+   "via": "Google News",
+   "published": "2026-11-21T09:20:25+00:00",
+   "seen": "2026-11-21T16:05:32+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 day-one launch shatters all-time records with a $3.79 billion figure."
   },
   {
    "id": "gta 6 s adaptive speed limiter turns the ps5 dualsense trigger into cruise control as xbox players miss out",
