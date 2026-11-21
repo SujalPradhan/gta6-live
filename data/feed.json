@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:19:06+00:00",
- "started": "2026-11-21T11:19:00+00:00",
+ "updated": "2026-11-21T11:24:12+00:00",
+ "started": "2026-11-21T11:24:07+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T11:19:00+00:00"
+   "checked": "2026-11-21T11:24:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T11:19:01+00:00"
+   "checked": "2026-11-21T11:24:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T11:19:01+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T11:24:08+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T11:19:01+00:00"
+   "checked": "2026-11-21T11:24:08+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T11:19:02+00:00"
+   "checked": "2026-11-21T11:24:08+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T11:19:02+00:00"
+   "checked": "2026-11-21T11:24:08+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T11:19:02+00:00"
+   "checked": "2026-11-21T11:24:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T11:19:03+00:00"
+   "checked": "2026-11-21T11:24:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T11:19:03+00:00"
+   "checked": "2026-11-21T11:24:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T11:19:03+00:00"
+   "checked": "2026-11-21T11:24:10+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T11:19:03+00:00"
+   "checked": "2026-11-21T11:24:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T11:19:04+00:00"
+   "checked": "2026-11-21T11:24:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T11:19:04+00:00"
+   "checked": "2026-11-21T11:24:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T11:19:04+00:00"
+   "checked": "2026-11-21T11:24:10+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "College GameDay joins GTA 6 coverage ahead of a GTA Vice City mania and a Miami-Virginia Tech matchup."
+  },
+  {
+   "id": "what is vice city why grand theft auto 6 has co opted college gameday",
+   "title": "What is Vice City? Why 'Grand Theft Auto 6' has co-opted 'College GameDay'",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTlNsdjRma0JIc2dnUzhDVGVIYzAxdDB2MjNOaHBPcFBENXBMZDhNQ0FOU2JHVGVDX1p5SjdEOGEtMUZfLUUxSTQxaUx1NjJ0enRwZFlmbHd1c0xZZEtkem1vc1BTblVBbm9DOUxONVNWVk1XRXRGZlNiNWduYV9yTGFiNmR6UUxGOEFkaWpLZUJzYlh4ejY0NFh1eGZ4dzNJQUVEaHpLbkFfSE5NUGc4dkN0UDIyS0hacEZPOUVGS20?oc=5",
+   "outlet": "USA Today",
+   "via": "Google News",
+   "published": "2026-11-21T11:06:00+00:00",
+   "seen": "2026-11-21T11:24:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Vice City is featured in discussions about why Grand Theft Auto 6 has attracted attention from College GameDay."
   },
   {
    "id": "gta 6 sales smash records with 3 79 billion on day one and 32 5 million copies sold before launch day",
@@ -4328,6 +4341,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses why Rockstar Games took a massive swing with Grand Theft Auto VI after a long development period, as explored on the Hard Fork podcast."
+  },
+  {
+   "id": "gta vi sets new entertainment sales record on launch day",
+   "title": "GTA VI sets new entertainment sales record on launch day",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSW5zRGhYRnZwVWdQXzMxUWIxcGc3TXRid0JGTUROVUgyM19YT1lZUEY3anYyWFNyTVotRldsM21xX0xUcFJSOEtjWkJ6MWtEU01hamZzNTJCcEw4MEFqSEZrZEZIQTRUNk1aakQ5dzNCVkhock9hNk40bnpvdURFV21pSk9iTUx6b19ZdFRMWmhaUm1qd3Faa3M0WQ?oc=5",
+   "outlet": "Techloy",
+   "via": "Google News",
+   "published": "2026-11-20T21:19:44+00:00",
+   "seen": "2026-11-21T11:24:07+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI sets a new entertainment sales record on its launch day."
   },
   {
    "id": "gta 6 sales number hits a staggering 30 million copies generating 3 79 billion in revenue",
