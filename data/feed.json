@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:07:51+00:00",
- "started": "2026-11-21T07:07:44+00:00",
+ "updated": "2026-11-21T07:12:51+00:00",
+ "started": "2026-11-21T07:12:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:07:44+00:00"
+   "checked": "2026-11-21T07:12:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:07:45+00:00"
+   "checked": "2026-11-21T07:12:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:07:45+00:00"
+   "checked": "2026-11-21T07:12:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T07:07:46+00:00"
+   "checked": "2026-11-21T07:12:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T07:07:46+00:00"
+   "checked": "2026-11-21T07:12:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T07:07:46+00:00"
+   "checked": "2026-11-21T07:12:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T07:07:47+00:00"
+   "checked": "2026-11-21T07:12:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T07:07:47+00:00"
+   "checked": "2026-11-21T07:12:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T07:07:47+00:00"
+   "checked": "2026-11-21T07:12:48+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T07:07:47+00:00"
+   "checked": "2026-11-21T07:12:48+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T07:07:48+00:00"
+   "checked": "2026-11-21T07:12:48+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T07:07:48+00:00"
+   "checked": "2026-11-21T07:12:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-21T07:07:48+00:00"
+   "hits": 5,
+   "checked": "2026-11-21T07:12:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T07:07:48+00:00"
+   "checked": "2026-11-21T07:12:49+00:00"
   }
  },
  "items": [
@@ -168,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 release sparks excitement at Bradley and highlights the rising world of esports."
+  },
+  {
+   "id": "gta vi eclipses avengers endgame s lifetime box office collection makes a staggering 3 79 billion in just 24 hours hollywood",
+   "title": "GTA VI eclipses Avengers Endgame's lifetime box office collection, makes a staggering $3.79 billion in just 24 hours | Hollywood",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPTi1PVVZyVW5GXzN6RFlNNVZLa2dSN29oYldJVE1jMlk5QkFLQjhyUDJRLXpoVG16OWJnRGhvRUVXRFJQSkU1VFR0R19Pc20yNzJZWVVBaExSOUVLWjhKcG1IN2Y2NDB5dThCNkFOM0VjaHAzeTRiUG5NVFlqT2x0SEhLeGprdVE2ODJYV2dvMUkxVmJHSWNOamxCVjNGalJsUnNXajRNOHVMbmNaMVlpb1Zzc1RDOHJjbUQ2THZqYXY4QTZnZlhyRTNUczliVDBIQ19kRHRrcUpoY2hQT0Y5ejNSQWxlNmk4QWR4RFVIM2NvRjZBbzFtTUtFN2U4elJlU2s2UW1uTVA2M3A0bk9MQmpGVm1FVGVNcEljd2JndFBNRGtyVEVIOTFueVllSlRmbVY0blJiQ2xMSmhmUS1vU3hsVTnSAcoCQVVfeXFMUEs3aEFWekJrTjEzcDE3b3RRUHdXLVhkRmZPcU9SYUxBbHdnak85MWowcnVyMDJJT2xWY0FPV1FYRU4xWldTWWt5czNua01TWmpJaFJJb0I4ZlgxcEVFcFRjSC1FOHZCX2pNOWFIRkdRbXlKTkpwdXgyXzEtNF9TN2VaSUZMdkFJdVdHa0dDUUpUdTJ1Y190b08wb3FaYkYzMWpob0p3WWFaODBfRnlHZzIwUjFmLXRDRUw0N25RODFKNU5HX2d4VFNLY2xwUFlJc2F5V1VVaEpJUE81Mm40YUhzUnphRG53TW5RUkxFQXJBcUZ3N0xTa19TQk5rTWQzLWVjVWwxdFZSZlF4azNLSzRoSjZfXy1DdFNKb0ZNYlQtbFU2eGxGdG84WGJwZHdtbzltV2JsVFk0SmRSa1FBVEdEOFh6OEVpMnFR?oc=5",
+   "outlet": "Hindustan Times",
+   "via": "Google News",
+   "published": "2026-11-21T06:39:57+00:00",
+   "seen": "2026-11-21T07:12:46+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI eclipses Avengers Endgame's lifetime box office collection and makes a staggering $3.79 billion in just 24 hours."
   },
   {
    "id": "grand theft auto vi release sparks excitement at bradley university spotlights growing world of esports",
