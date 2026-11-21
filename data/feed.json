@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T00:25:36+00:00",
- "started": "2026-11-21T00:25:30+00:00",
+ "updated": "2026-11-21T00:30:40+00:00",
+ "started": "2026-11-21T00:30:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:25:30+00:00"
+   "checked": "2026-11-21T00:30:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:25:31+00:00"
+   "checked": "2026-11-21T00:30:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:25:31+00:00"
+   "checked": "2026-11-21T00:30:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-21T00:25:31+00:00"
+   "checked": "2026-11-21T00:30:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-21T00:25:32+00:00"
+   "checked": "2026-11-21T00:30:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T00:25:32+00:00"
+   "checked": "2026-11-21T00:30:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T00:25:32+00:00"
+   "checked": "2026-11-21T00:30:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T00:25:32+00:00"
+   "checked": "2026-11-21T00:30:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T00:25:32+00:00"
+   "checked": "2026-11-21T00:30:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-21T00:25:33+00:00"
+   "checked": "2026-11-21T00:30:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T00:25:33+00:00"
+   "checked": "2026-11-21T00:30:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T00:25:33+00:00"
+   "checked": "2026-11-21T00:30:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T00:25:33+00:00"
+   "checked": "2026-11-21T00:30:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T00:25:33+00:00"
+   "checked": "2026-11-21T00:30:37+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI brings in first-day retail sales of $3.79B."
+  },
+  {
+   "id": "grand theft auto vi is packed with bay area music",
+   "title": "‘Grand Theft Auto VI’ is packed with Bay Area music",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVI2Tk5NS2YwNUpQbXlmaHc4eHdGaWlGc2N6VDE3dElKT0hXTEdBOW1aeTdoa05fb0k4SHVwUDJ6cUxzdGh0Sm9od0tmdF84eHduR3VxTVFsOUozUzh2Q19sblZ6ck9Lb3hRdnRPU3pNeEpDTlBOM2R1eDVLNWMxeWlCWEEwdWVOVWdWTVJocmZ3Q1FiMFE?oc=5",
+   "outlet": "San Francisco Chronicle",
+   "via": "Google News",
+   "published": "2026-11-21T00:02:15+00:00",
+   "seen": "2026-11-21T00:30:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI is packed with Bay Area music."
   },
   {
    "id": "who plays cal hampton in gta 6",
@@ -1392,6 +1405,19 @@
    "ai_summary": "GTA 6 players are spending an absolutely bonkers amount of time with the game."
   },
   {
+   "id": "gta vi generates record breaking 3 79bn on launch day",
+   "title": "GTA VI generates record-breaking $3.79bn on launch day",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGpWQmZXX2V3VXpGUDB1eUZxcVhDYU9HU3Q3MTZ0aFphemM3MTdrbmhSaDNkV08xRFB3TmRfMEx4VkE1M2hDeVF0SmJNNFFCSkdHTFFaM2ZFTXBsN0E5bktCUktZOHZuWlY1ZTh1UnlIZ2FseVNfSTFZdWh5b3drU1pLZDdvVDdZZ3lmWVh6RzRtU1VKLXVJ?oc=5",
+   "outlet": "Techloy",
+   "via": "Google News",
+   "published": "2026-11-20T21:28:37+00:00",
+   "seen": "2026-11-21T00:30:34+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI generates a record-breaking $3.79bn on launch day."
+  },
+  {
    "id": "grand theft auto vi and miami as america s id",
    "title": "\"Grand Theft Auto VI\" and Miami as America’s Id",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HeWcyRC16WDVXWk45REU1bWlMNGZ6dVhzaWJlWEJnSmJaQUdvZ2RHVlp0bVF1Z1g0UmdRS1E2M3k2WkE4cHVXenY4WExxbzh6R09jX19saVNEeEJfQkxKdWhzNUxQeHo5V2hWZFdZdTNMb0t2Zl9ObHFoT0dvdw?oc=5",
@@ -1442,6 +1468,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI made $3.79 billion in a single day."
+  },
+  {
+   "id": "gta 6 s returning motorcycles and what s changed since gta 5",
+   "title": "GTA 6’s Returning Motorcycles And What’s Changed Since GTA 5",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnowaUhtVENkaGp5U2xyNGY3MmNGSm1IVk1sbkJKZk45Y29oQmRPOUFsanNfSERZZDd4SXYxcUV1dW5HWFBSREJlMXFfUkRZbVJIQUQySTFJR0hrbmYwY3lKSy1jNy1weDlWbHZfVzRscURMbGJoelBzc19ZbDlHaDR2OUg3SzFXemVB?oc=5",
+   "outlet": "HotCars",
+   "via": "Google News",
+   "published": "2026-11-20T21:21:17+00:00",
+   "seen": "2026-11-21T00:30:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA 6’s returning motorcycles and what’s changed since GTA 5."
   },
   {
    "id": "gta 6 sales number hits a staggering 30 million copies generating 3 79 billion in revenue",
