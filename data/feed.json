@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:25:30+00:00",
- "started": "2026-11-21T15:25:26+00:00",
+ "updated": "2026-11-21T15:30:27+00:00",
+ "started": "2026-11-21T15:30:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T15:25:26+00:00"
+   "checked": "2026-11-21T15:30:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T15:25:27+00:00"
+   "checked": "2026-11-21T15:30:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T15:25:27+00:00"
+   "checked": "2026-11-21T15:30:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-21T15:25:27+00:00"
+   "hits": 8,
+   "checked": "2026-11-21T15:30:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T15:25:27+00:00"
+   "checked": "2026-11-21T15:30:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-21T15:25:28+00:00"
+   "checked": "2026-11-21T15:30:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-21T15:25:28+00:00"
+   "checked": "2026-11-21T15:30:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-21T15:25:28+00:00"
+   "checked": "2026-11-21T15:30:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T15:25:28+00:00"
+   "checked": "2026-11-21T15:30:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T15:25:28+00:00"
+   "checked": "2026-11-21T15:30:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T15:25:28+00:00"
+   "checked": "2026-11-21T15:30:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T15:25:28+00:00"
+   "checked": "2026-11-21T15:30:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T15:25:28+00:00"
+   "checked": "2026-11-21T15:30:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T15:25:28+00:00"
+   "checked": "2026-11-21T15:30:25+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "GTA 6 is reportedly being review bombed on Metacritic as users post bogus scores, while the game remains highly rated in other contexts."
+  },
+  {
+   "id": "will gta 6 run at 60fps when it releases on pc",
+   "title": "Will GTA 6 run at 60fps when it releases on PC?",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JNGtkTWZnNlItS0tUdHduU2xDTFd5SmFmT1JuSHpOMndVdUJSOEllZy1UWEc5OVFGeWwyVkhQaWg2VVIyNGcxMjctd3BCZXFYdjJ1M0xfWHR5WHFmRVZn?oc=5",
+   "outlet": "Indy100",
+   "via": "Google News",
+   "published": "2026-11-21T15:25:20+00:00",
+   "seen": "2026-11-21T15:30:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks whether GTA 6 will run at 60fps on PC when released."
   },
   {
    "id": "gta 6 xbox psa how to stop automatic clip uploads and avoid bans",
@@ -144,6 +157,71 @@
    "ai_summary": "Rockstar announces GTA 6 sold 32.5M units and generated $3.79 billion in 24 hours, breaking entertainment launch records, per XiaomiToday."
   },
   {
+   "id": "journalist plays gta 6 can t find a church calls game electronic poison",
+   "title": "Journalist Plays GTA 6, Can’t Find a Church, Calls Game ‘Electronic Poison’",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUFBXzJfT0l1U3ZHeHF4emFPOXd1Njh1NmtZaUlPakQyQzVsNzVhZXNZczZ3UWNkQ3FlR1gxTmNUMWhIY2wxTW5sdmctTFdGQ1NlUS1WMW10QXptTmJmWmNlSTdkVEwtLXJkOVVjR01JeldQTjFXQ0VQVURzSFdlQmpPczB3eWs3elJGZWhTeFBOWGtoNFlRTEM1OEt6TERidXJCekJISWZTc1J5T2RkdTB3?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-21T15:24:00+00:00",
+   "seen": "2026-11-21T15:30:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A journalist plays GTA 6, complains of lack of a church, and calls the game electronic poison."
+  },
+  {
+   "id": "gta 6 how to find the manhunt mission",
+   "title": "GTA 6: How To Find the Manhunt Mission",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94U25YcGxnbXloTHM1OHZWQmFRdWpuY3pMc2l1Nk13NkxsTXhOXzl6MW1nNEZIbEJHdGxTOWtrdVlSZnhacElMZEt2WWdZVllaRjE4TnJLa1dsYXZ0dmhnYlpTbkpxalRQQzUtT1JlUVVqUzdGZWc?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-21T15:23:23+00:00",
+   "seen": "2026-11-21T15:30:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 guide explains how to find the Manhunt mission."
+  },
+  {
+   "id": "get ready for the gta 6 launch discover release times preload details and if you can play early",
+   "title": "Get ready for the GTA 6 launch. Discover release times, preload details, and if you can play early.",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeXVqXzhqQVJQWk5hZDVHWU9yTXBBbkZaYmlJVUFaWFE5OFQ1ZkpXaUh4c1lUVWJZQUtpWHZaX2ZTLVdER18wbGRTVkZ3MjE4UnlvNlR3VzlXSVQyb254ZU9OREdtMEMwRU5ZYXpyZWlJSXBFRlN2LUJNOUU4dkVKSHpyUjRHUVNYZ0ZxbHdhenl5Qk1xU3FXRnQ0czVSUTRneFcxSlpfLTZHTmJfTXk1ZkIzVERnd3NxbHBFSVBVSVg2WHczTFBUd25HdVVNVWtXNzZHR01lRU5mUGM?oc=5",
+   "outlet": "Facebook",
+   "via": "Google News",
+   "published": "2026-11-21T15:22:11+00:00",
+   "seen": "2026-11-21T15:30:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece previews the GTA 6 launch, including release times, preload details, and early playability."
+  },
+  {
+   "id": "ben feder s 5 quotes gta vi as the last pre ai epic",
+   "title": "Ben Feder’s 5 Quotes: GTA VI as the Last Pre-AI Epic",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSW8wdnh4MWNEUHlaa2N1M1ZzYkFOYVhLdDZTSmJqU2R3ZWstVl9HRllzVVdscGRXU3JXN0tzWWpvZHBETlIxVVNwdlV2TXRjNzVCVUxPSS1TNW9PLTdQMWljTThfbmZYSTdub2NUMG9pZnJnZk1NVkI4dWhfUjUySlJPVFdtVlUyOWI0VlVB?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-21T15:21:43+00:00",
+   "seen": "2026-11-21T15:30:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Ben Feder’s five quotes describe GTA VI as the last pre-AI epic."
+  },
+  {
+   "id": "gta 6 user ratings trail critics on metacritic",
+   "title": "GTA 6 User Ratings Trail Critics on Metacritic",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44eTFMR3VXSXktb185WDBrZnNVazRxQXBqR09JOEo0WnlhUVRDS2c4U0tjN1ZpQTJDOENyMnJHdklnUlRwV1JReTlQRG5qY1NYMzc0S085TEVoaUc3X0FOU0NpbTFodnNW?oc=5",
+   "outlet": "Demokratis.co.id",
+   "via": "Google News",
+   "published": "2026-11-21T15:21:18+00:00",
+   "seen": "2026-11-21T15:30:23+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 user ratings are reported to trail critics on Metacritic."
+  },
+  {
    "id": "neuralink shares gta vi brain implant demo with the control setup still unclear",
    "title": "Neuralink shares GTA VI brain-implant demo, with the control setup still unclear",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzloanZyZXJvYU5SaHNCSHVpZlBFUnB3eFVTeFVCLW1MV21RdUtmRVk3RVNuNzJHaVRDbHpyRTRBR2hGMTYtMG5iTnJRc2tDZnhfenFCNUR2b0JOOUNXMnM4OUowd0hua1lnUnlFM1plenROMFRWVWNEdTk0LWVUY05rVW84VGw0b0IxcHp0YWlkQ2ducm8ycnV5SDhTR0xSTm9VNWdiTE1halpUX21VZWVtOA?oc=5",
@@ -168,6 +246,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports tips or methods related to making Lucia naked in GTA 6, as discussed by Insider Gaming."
+  },
+  {
+   "id": "how to make lucia nude in gta 6",
+   "title": "How to Make Lucia Nude in GTA 6",
+   "link": "https://insider-gaming.com/lucia-naked-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-21T15:19:59+00:00",
+   "seen": "2026-11-21T15:30:24+00:00",
+   "summary": "Lucia has been one of the biggest aspects of GTA 6's marketing in the build-up to the game, and, to an extent, she can be naked. The post How to Make Lucia Nude in GTA 6 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Instructions are given on how to make Lucia nude in GTA 6."
+  },
+  {
+   "id": "twitch streamer s ps5 catches fire after they pause gta 6 for a bathroom break",
+   "title": "Twitch streamer’s PS5 catches fire after they pause GTA 6 for a bathroom break",
+   "link": "https://www.dexerto.com/gaming/twitch-streamers-ps5-catches-fire-after-they-pause-gta-6-for-a-bathroom-break-3430292/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-21T15:18:39+00:00",
+   "seen": "2026-11-21T15:30:24+00:00",
+   "summary": "A streamer’s PS5 began smoking while they were away for a toilet break mid-way through their play through of GTA 6.",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "A Twitch streamer's PS5 catches fire after pausing GTA 6 for a bathroom break."
   },
   {
    "id": "how long is chapter 1 in gta 6 final mission and missable content",
@@ -872,6 +976,19 @@
    "ai_summary": "Sensor Tower reports GTA 6 pre-orders and revenue ahead of launch, according to eGamers.io."
   },
   {
+   "id": "gta 6 launch how gaming shapes us tech policy",
+   "title": "GTA 6 Launch: How Gaming Shapes US Tech Policy",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWE8wS1N4NWNrbTd0NDVFRHEwLWlscmt0UU1GSmQ2dmRNYVlxcHpRVkJSVjBYU05yczVBUl8xMVV6LTlyT1pMLXUxMUJTb2tiTmhtUkJfdlhYbjJ3U2UzWHQ0QWs2V3ZNOXRmYWFzTHpqS1Z2dGZTWnlQQ000Q19Lc01jeFJtRktaMUJaQ3FUcFNReGFqVVJxdERtaVJrOW1RdHdieWtOOVFORVBKNTdPcWJSdURBUQ?oc=5",
+   "outlet": "New Wave Magazine",
+   "via": "Google News",
+   "published": "2026-11-21T13:29:44+00:00",
+   "seen": "2026-11-21T15:30:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 launch is examined in terms of how gaming shapes US tech policy."
+  },
+  {
    "id": "gta 6 restricts access to four stores for the ultimate edition for an extra 20",
    "title": "GTA 6 restricts access to four stores for the Ultimate Edition for an extra $20",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjlmQVhUNTd4a3MwNFRQd3pwVnkzQ0d5UWNvVXR3Z2JWbGJ2RFgtOWlMbTFFUzlmNXo0cEV2N2ZqNElmYTVZVDdwX3BXVGNHWlNfSERFNngyeGxMeDRHY0tfSW5GczhDdWxQWDZNOXpzekZvYUxmM2V5UVhtMmJRTlI3TGF0eF9BN2VyVWd4N0VzQ3RLNlhtcFZ3VEp0cHFXQ1Q2VkMzZkhxV2RPdHZlRGFhYWtRYUxscVFfWkdOVURRUlRC?oc=5",
@@ -1143,6 +1260,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a guide for electronic locks in Grand Theft Auto VI that has appeared online."
+  },
+  {
+   "id": "gta 6 generates 3 79 billion in 1st sales sets entertainment record",
+   "title": "GTA 6 Generates $3.79 Billion in 1st Sales, Sets Entertainment Record",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3N5MkxuWlozQ0paMTNFUnF5VUx3cEE4Ym1jVy1oOWFLZDRyOGNYQkFiTnZvWlRtdXM1RDl0VWpyRnIyVGVrV0t1T2hpejFMYkJybmZsdW5GakdwQkdybW1WdTFXMXRfYk01YkNmMjF2QkZ3bWZieEc3cFFka0I1UjU5aV96VkNrWVNJ?oc=5",
+   "outlet": "Sada Elbalad English",
+   "via": "Google News",
+   "published": "2026-11-21T12:37:14+00:00",
+   "seen": "2026-11-21T15:30:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 first sales generate billions and set an entertainment record."
   },
   {
    "id": "ishowspeed breaks down in tears after finishing gta 6 in 52 hours without sleeping",
