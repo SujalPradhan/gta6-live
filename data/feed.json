@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:20:06+00:00",
- "started": "2026-11-21T14:19:59+00:00",
+ "updated": "2026-11-21T14:25:06+00:00",
+ "started": "2026-11-21T14:25:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T14:20:00+00:00"
+   "checked": "2026-11-21T14:25:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T14:20:00+00:00"
+   "checked": "2026-11-21T14:25:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T14:20:01+00:00"
+   "checked": "2026-11-21T14:25:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-21T14:20:01+00:00"
+   "hits": 7,
+   "checked": "2026-11-21T14:25:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T14:20:01+00:00"
+   "checked": "2026-11-21T14:25:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T14:20:01+00:00"
+   "checked": "2026-11-21T14:25:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-21T14:20:02+00:00"
+   "checked": "2026-11-21T14:25:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T14:20:02+00:00"
+   "checked": "2026-11-21T14:25:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T14:20:02+00:00"
+   "checked": "2026-11-21T14:25:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T14:20:03+00:00"
+   "checked": "2026-11-21T14:25:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T14:20:03+00:00"
+   "checked": "2026-11-21T14:25:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T14:20:03+00:00"
+   "checked": "2026-11-21T14:25:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T14:20:03+00:00"
+   "checked": "2026-11-21T14:25:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T14:20:03+00:00"
+   "checked": "2026-11-21T14:25:04+00:00"
   }
  },
  "items": [
@@ -118,6 +118,19 @@
    "ai_summary": "The story reports that GTA 6 has a high critic Metacritic score but a negative perception from players via review bombing, according to Eurogamer."
   },
   {
+   "id": "gta 6 is metacritic s best reviewed game ever but its user score has crashed",
+   "title": "GTA 6 is Metacritic's best-reviewed game ever, but its user score has crashed",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1WDU0WEhFVW9DSHIyRi00ZHlydktIcXRRUldvZkhTX3phQ3R3TkpDcERYVWFxeUc5WXAwdkItTUE0SldBTDZDWWFYNHdmSXFBVFdrSG1WQkw2YmktNmgxVENGVUhLRUM2TWg2MVp6WnFaY2FubWc?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-21T14:19:40+00:00",
+   "seen": "2026-11-21T14:25:02+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "GTA 6 is described as Metacritic's best-reviewed game ever, though its user score has crashed."
+  },
+  {
    "id": "gta vi fsr 4 1 on xbox series x delay unconfirmed",
    "title": "GTA VI FSR 4.1 on Xbox Series X: Delay Unconfirmed",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlhmdF9qS0p2dlFZQ0NwZnJRX3pBUW9LX1RwUHhwUlMwbFRNamdVQ0JQcVdEUFlURVdFR2xSUzZQcThUcTFDTmE1cVNQbXZRaWtKY0hKRld0d20tZEZRWmJ0M0hMMW9Tb3JiVmVaR2t5VUhObWFBaFRwNXppTnZRb0xKYWVYUHRDWDh3?oc=5",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA VI FSR 4.1 on Xbox Series X delay is unconfirmed, according to shattered.io."
+  },
+  {
+   "id": "gta vi hype takes over as creative sign steals the show at espn s college gameday",
+   "title": "GTA VI Hype Takes Over as Creative Sign Steals the Show at ESPN’s ‘College GameDay’",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjhNVnB3QkpRWjM2MThGWGhhN0NnUzZQM1lPMUwyRFpobUl2RHRieHFFTWJXVmQ4VWNQM3lSNTltS1B1a0VjNTlrVnRHbEFUSk9LQ0dxblVDY0pKUTA0cXlVcUExa0FGTHk1X0k4eXgwSF8xTDBPdl9fa20xZ1paR2tHclRmeWd1ZDZhNlFIUjFfMnV4a3dhME94cUF3OU8yS3ZXMEg0eFQ1bzg0QmxTX2RDNkdtdUtoeEhTLV9UN2JCQQ?oc=5",
+   "outlet": "Sports Illustrated",
+   "via": "Google News",
+   "published": "2026-11-21T14:14:39+00:00",
+   "seen": "2026-11-21T14:25:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Hype around GTA VI rises as a creative sign steals the spotlight at ESPN’s College GameDay."
   },
   {
    "id": "gta vi sets a first day sales record as critics praise its vast world",
