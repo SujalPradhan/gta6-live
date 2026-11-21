@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:41:05+00:00",
- "started": "2026-11-21T17:40:59+00:00",
+ "updated": "2026-11-21T17:46:09+00:00",
+ "started": "2026-11-21T17:46:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T17:40:59+00:00"
+   "hits": 97,
+   "checked": "2026-11-21T17:46:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T17:41:00+00:00"
+   "checked": "2026-11-21T17:46:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T17:41:00+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T17:46:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:41:01+00:00"
+   "checked": "2026-11-21T17:46:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T17:41:01+00:00"
+   "checked": "2026-11-21T17:46:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T17:41:01+00:00"
+   "checked": "2026-11-21T17:46:05+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T17:41:01+00:00"
+   "checked": "2026-11-21T17:46:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T17:41:01+00:00"
+   "checked": "2026-11-21T17:46:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:41:01+00:00"
+   "checked": "2026-11-21T17:46:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T17:41:02+00:00"
+   "checked": "2026-11-21T17:46:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T17:41:02+00:00"
+   "checked": "2026-11-21T17:46:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T17:41:02+00:00"
+   "checked": "2026-11-21T17:46:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T17:41:02+00:00"
+   "checked": "2026-11-21T17:46:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T17:41:02+00:00"
+   "checked": "2026-11-21T17:46:07+00:00"
   }
  },
  "items": [
@@ -324,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to use auto drive in GTA 6."
+  },
+  {
+   "id": "burger king creates new burger for gta vi but you can t have it",
+   "title": "Burger King Creates New Burger for GTA VI…But You Can’t Have It",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNE9NaFJvS0ZoYjNLeHMxZVBtY2JROWVNMmRvSmZXMVF6a0p4cXlCSV9RVk5pODhlc0diOS1RaU42X2lCbVBIV2doN0ZfYzFrMGVhM2stWWhRTHdUNEllM29RV2xrbk9mZldTaWpYc3lhRF8xVTVWdk9Jc29VeHhnNmtKd3R0MzB4R0xmZ2NpQQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-21T16:44:22+00:00",
+   "seen": "2026-11-21T17:46:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Burger King creates a new burger for GTA VI, but it cannot be obtained."
   },
   {
    "id": "bill maher says gta 6 has caused more workplace absences than ice",
@@ -1429,6 +1442,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to obtain GTA 6 safe codes to speed up a heist."
+  },
+  {
+   "id": "grand theft auto vi smashes records with 6 9b in first day sales",
+   "title": "Grand Theft Auto VI smashes records with $6.9b in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdXhWcEMzU3NSZUV2WkJ1dVJpS3hxOXM1WGRRa0FvTlJDeEpsTVFhaXVuUERIeC1ENUh2T29XMGdSSDJzT0JCdEx0VERxcVFVdHdsTC1MM1hVdG9iN0o2SEhlWHVxU0VtUTJlaWJCYUdXclFqTmhMS1U1WVFjSHlZeFg4OS1rMUJ2TmxXS01JQXdGNl9Dakc1Vi1icmk5Q29BNWpZ?oc=5",
+   "outlet": "1News",
+   "via": "Google News",
+   "published": "2026-11-21T14:26:05+00:00",
+   "seen": "2026-11-21T17:46:02+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI achieves first-day sales totaling six point nine billion dollars, smashing records."
   },
   {
    "id": "men are spending thousands on ai girlfriends inspired by gta 6 s lucia yes seriously",
