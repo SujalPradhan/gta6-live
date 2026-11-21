@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:28:31+00:00",
- "started": "2026-11-21T09:28:26+00:00",
+ "updated": "2026-11-21T09:33:36+00:00",
+ "started": "2026-11-21T09:33:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T09:28:27+00:00"
+   "checked": "2026-11-21T09:33:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T09:28:27+00:00"
+   "checked": "2026-11-21T09:33:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T09:28:27+00:00"
+   "checked": "2026-11-21T09:33:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T09:28:27+00:00"
+   "checked": "2026-11-21T09:33:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T09:28:28+00:00"
+   "checked": "2026-11-21T09:33:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T09:28:28+00:00"
+   "checked": "2026-11-21T09:33:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T09:28:28+00:00"
+   "checked": "2026-11-21T09:33:33+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T09:28:28+00:00"
+   "checked": "2026-11-21T09:33:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T09:28:28+00:00"
+   "checked": "2026-11-21T09:33:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T09:28:28+00:00"
+   "checked": "2026-11-21T09:33:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T09:28:29+00:00"
+   "checked": "2026-11-21T09:33:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T09:28:29+00:00"
+   "checked": "2026-11-21T09:33:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T09:28:29+00:00"
+   "checked": "2026-11-21T09:33:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T09:28:29+00:00"
+   "checked": "2026-11-21T09:33:34+00:00"
   }
  },
  "items": [
@@ -142,6 +142,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "GTA VI statistics include figures on player count, sales, and revenue as reported by DemandSage."
+  },
+  {
+   "id": "fake gta vi streaming client installs data stealing malware on windows pcs",
+   "title": "Fake GTA VI Streaming Client Installs Data-Stealing Malware on Windows PCs",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRdXVmQTY5WUpzODRldEJTaVVDeFcxTW5SYUVLME9aYXVIc0w3bzZiY09hb2IwUW5pZDRGYkxFVkJPWU40UmJfaFp2NW1zVV9YNmFRdk8wVy1PUDFCOHRsc3FhTS1WT2Z1ai10V2FoSElxajllZzRNMA?oc=5",
+   "outlet": "Hackread",
+   "via": "Google News",
+   "published": "2026-11-21T09:01:06+00:00",
+   "seen": "2026-11-21T09:33:32+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports that a fake GTA VI streaming client installs data-stealing malware on Windows PCs."
   },
   {
    "id": "gta vi becomes biggest entertainment launch with 3 79 billion in first day sales",
@@ -857,6 +870,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports a GTA 6 PC port leak with a 209 GB Xbox dump and no emulator."
+  },
+  {
+   "id": "gta 6 xbox dump 209 gb no emulator to run it",
+   "title": "GTA 6 Xbox Dump: 209 GB, No Emulator to Run It",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlZBemIzRUpSVjJxSDVyZEJ6VkdLaEV5QnJaWnpBWlgzdXBjNklQX0xrRDZ0UEFCajV0bDhybDl3UEF2RlAxaHUyejhTV3JBWWloSldDVXhVMzVnWXpGb05WT2Rfalg1VmhPdVJHTUZoU2pTRjNCWXJaNzJiZlBSZlV5MS15R1Jz?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-21T05:44:21+00:00",
+   "seen": "2026-11-21T09:33:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that an Xbox dump of GTA 6 is 209 GB with no emulator to run it."
   },
   {
    "id": "ishowspeed finishes gta vi after 52 hour marathon with no sleep",
