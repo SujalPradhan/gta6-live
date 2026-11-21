@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:08:26+00:00",
- "started": "2026-11-21T09:08:20+00:00",
+ "updated": "2026-11-21T09:13:31+00:00",
+ "started": "2026-11-21T09:13:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T09:08:21+00:00"
+   "checked": "2026-11-21T09:13:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T09:08:21+00:00"
+   "checked": "2026-11-21T09:13:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T09:08:22+00:00"
+   "checked": "2026-11-21T09:13:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T09:08:22+00:00"
+   "checked": "2026-11-21T09:13:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T09:08:22+00:00"
+   "checked": "2026-11-21T09:13:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T09:08:22+00:00"
+   "checked": "2026-11-21T09:13:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T09:08:22+00:00"
+   "checked": "2026-11-21T09:13:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T09:08:22+00:00"
+   "checked": "2026-11-21T09:13:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T09:08:23+00:00"
+   "checked": "2026-11-21T09:13:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T09:08:23+00:00"
+   "checked": "2026-11-21T09:13:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T09:08:23+00:00"
+   "checked": "2026-11-21T09:13:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T09:08:23+00:00"
+   "checked": "2026-11-21T09:13:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T09:08:23+00:00"
+   "checked": "2026-11-21T09:13:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T09:08:23+00:00"
+   "checked": "2026-11-21T09:13:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi statistics 2026 player count sales revenue",
+   "title": "GTA VI Statistics (2026) – Player Count, Sales, & Revenue",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UaFM0ejhMcnpvb1Q5STVicEVvNmJISWJtTURRSW1NTnZwdm10U3pQaEdWQ2daVzFleTkxTEdWSHI0OUY5RkRXRlBoMlBfVm80YzZVcHM1OGo?oc=5",
+   "outlet": "DemandSage",
+   "via": "Google News",
+   "published": "2026-11-21T09:11:26+00:00",
+   "seen": "2026-11-21T09:13:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI statistics include figures on player count, sales, and revenue as reported by DemandSage."
+  },
   {
    "id": "gta vi becomes biggest entertainment launch with 3 79 billion in first day sales",
    "title": "GTA VI becomes biggest entertainment launch with $3.79 billion in first-day sales",
@@ -623,6 +636,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "US police departments urge players to keep GTA 6 crimes inside video game."
+  },
+  {
+   "id": "99 points from critics and 5 5 from players gta vi subjected to massive review bombing",
+   "title": "99 points from critics and 5.5 from players. GTA VI subjected to massive review bombing",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWlQNGRQRzZOVFJxNk5DbEpRckNpaDBYYml6bUpseU1NZUV2dEpCUmQ4OEpBaFBSNFBTWFZqbjJuRlBGUWkzVUg3c3hlNm1XUldTNnNQemxHaERGRU1jYkc4amVvM1plOFNubkxYOGliNmlUZUhmMkNIWEZCMktubWZFd1RHZmYzOG5oMTI4aHVSWVJNV29IRHowb2VoV1N5WTRqVE15dnhwc2drYTlJRXZ3YnFKbjhWZ21yZlZoREnSAcYBQVVfeXFMTUhRSTltakt5d0ZVYVByTS0tNWNnaTZmSm80NGRKRktQdV9IWFNIRXpHYXg0ZW9uX05QZnE3bE5WU2VfTEh6eFowMkREdmNDcEk4MTVvVjE0R3p2T09rbnpjN2dtZTZIR3RsbDlkNWpxWmFma0Z5R1lxNnZPWXlxU3U4S0dGSmNtVXY2TG1PckR3emZCRFlKSEdOb1hObWhNZWZDSHNyeHpaTjRlYjV4T1F0U2VQOV9KYk5xMkdmdnRJeVZnYmZB?oc=5",
+   "outlet": "iXBT.games",
+   "via": "Google News",
+   "published": "2026-11-21T06:21:00+00:00",
+   "seen": "2026-11-21T09:13:24+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA VI received very high critic scores but lower player scores, with reports of significant review bombing."
   },
   {
    "id": "i m playing gta 6 like a law abiding citizen and having more fun than i ever did causing criminal chaos",
@@ -13324,6 +13350,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A Manchester United star is in trouble with Pochettino over his GTA 6 addiction."
+  },
+  {
+   "id": "gta 6 breaks records as estimated sales top 2 3bn daily mirror",
+   "title": "GTA 6 breaks records as estimated sales top $2.3bn - Daily Mirror",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMm9sMVQzRHZaNmx4MDFWdEh2N1lwTm93aGplTWRGX0Q0MWlOd3piN3R3YmozdnpOdXpGaGprUm1IRnppVUF3U05fRUF1R0pFTkd0ZkVKYlVZZ3VjaGZ3V21sTGc5VXlBV0lpeWRpS29OREVIbkRmcGt2VUFDa1l0QmZ0aEZOZzNxVUxkX0FJdDIwbkxHMlJuWGZmZWZOLUh3NXJF?oc=5",
+   "outlet": "Sri Lanka",
+   "via": "Google News",
+   "published": "2026-11-20T09:32:00+00:00",
+   "seen": "2026-11-21T09:13:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 reportedly breaks records with estimated sales reaching a large total, according to Daily Mirror."
   },
   {
    "id": "every confirmed gta 6 radio station so far with hosts and preview tracks",
