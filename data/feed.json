@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:22:29+00:00",
- "started": "2026-11-21T06:22:23+00:00",
+ "updated": "2026-11-21T06:27:33+00:00",
+ "started": "2026-11-21T06:27:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:22:23+00:00"
+   "checked": "2026-11-21T06:27:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:22:24+00:00"
+   "checked": "2026-11-21T06:27:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:22:24+00:00"
+   "checked": "2026-11-21T06:27:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T06:22:24+00:00"
+   "checked": "2026-11-21T06:27:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T06:22:24+00:00"
+   "checked": "2026-11-21T06:27:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T06:22:24+00:00"
+   "checked": "2026-11-21T06:27:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T06:22:25+00:00"
+   "checked": "2026-11-21T06:27:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T06:22:25+00:00"
+   "checked": "2026-11-21T06:27:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T06:22:25+00:00"
+   "checked": "2026-11-21T06:27:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T06:22:25+00:00"
+   "checked": "2026-11-21T06:27:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T06:22:25+00:00"
+   "checked": "2026-11-21T06:27:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T06:22:25+00:00"
+   "checked": "2026-11-21T06:27:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T06:22:25+00:00"
+   "checked": "2026-11-21T06:27:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T06:22:25+00:00"
+   "checked": "2026-11-21T06:27:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "us police departments urge players to keep gta 6 crimes inside video game",
+   "title": "US police departments urge players to keep GTA 6 crimes inside video game",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkZscGg2Wm4tRlFoV3p1YkU4TURiZEltR20yY0hkSEY2bzJRUjdpbktNTGo0c2U1eXNLcVloeEt5aHNIVl9yMmpWamhESFhfZncyNmVGOEZySWF3UUVCMl8xRmg3dmp6N0o0bDVzNF9leGU2ZzJaOWY2Y2dfY0I1NS16OWhEbWtGWWZRUXc0WmNlcWVhUXZ3LV9IWDlTSVBCT1NCRTlHNTlBT0cwc3NkS3dn?oc=5",
+   "outlet": "Anadolu Ajansı",
+   "via": "Google News",
+   "published": "2026-11-21T06:26:04+00:00",
+   "seen": "2026-11-21T06:27:27+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "US police departments urge players to keep GTA 6 crimes inside video game."
+  },
   {
    "id": "i m playing gta 6 like a law abiding citizen and having more fun than i ever did causing criminal chaos",
    "title": "I’m playing GTA 6 like a law-abiding citizen — and having more fun than I ever did causing criminal chaos",
@@ -649,6 +662,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to listen to music outside of your car in GTA 6."
+  },
+  {
+   "id": "grand theft auto vi sets record with 3 79 billion in first day retail sales rockstar games reports",
+   "title": "‘Grand Theft Auto VI’ sets record with $3.79 billion in first-day retail sales, Rockstar Games reports",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdXk5a29Gd1hFNWFaTHFvU01pZ0p0VUFITHhnNEwyU2NnMC1JcTlXT1VIUXItUTBzS3JaM0wyNW9KdU1MVW1lekdyOXR0UE5PMlF6cXZTS0Q5UGZyRmdIUjRvdkRfSVVmWXNOdmRtenQ2cTkyeGFSMFV1ck9iQnBSSFFON0thM1A0MWZHRVIzWTRFVUJidERlbXFGeXRiaFVEMEJWRmlkbnZ3OExPLWYwTnF2MU5veDBPSGIyY0duUmhUTFJ1a1BtTG5NZDhlbU1ucEZvWnZJS2J4dTJtRFVHNllR0gH0AUFVX3lxTFAtM2Nwc09uSWxJcE4xeXF0M2JoTG5aeUE3Wkc3WlVqVm5ZSWV3a215QWFmY0E0Yk51ZExxdXVEUlVYOHRhejhjV2VyOE1LWVNrN0pFRXF3aHdWdXJpUEQ0RU5NQ1dHUVNMbV9uOURCZEVTUWNhMXlXazZoOWl4TldJTWQ1eVlWRXlYQ25GLTl6Qlk5QWZoemg3cUt6emI3TkF0b3R0R2VSYjFZZkVfdlF0aVp5Qmxmb0o0UzZWUk9HR19FLThFb2NSLXNGZmllYUZkOExnbmM1SkRMTlhndmVJQ0JVdndNMUt4ako1U1pibC1fa0s?oc=5",
+   "outlet": "Gulf News",
+   "via": "Google News",
+   "published": "2026-11-21T03:23:01+00:00",
+   "seen": "2026-11-21T06:27:28+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI sets record with first-day retail sales according to Rockstar Games."
   },
   {
    "id": "grand theft auto vi 2026",
