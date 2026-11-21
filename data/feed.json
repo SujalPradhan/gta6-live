@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:22:53+00:00",
- "started": "2026-11-21T07:22:48+00:00",
+ "updated": "2026-11-21T07:27:57+00:00",
+ "started": "2026-11-21T07:27:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:22:48+00:00"
+   "checked": "2026-11-21T07:27:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:22:49+00:00"
+   "checked": "2026-11-21T07:27:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:22:49+00:00"
+   "checked": "2026-11-21T07:27:52+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T07:22:49+00:00"
+   "checked": "2026-11-21T07:27:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T07:22:50+00:00"
+   "checked": "2026-11-21T07:27:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T07:22:50+00:00"
+   "checked": "2026-11-21T07:27:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T07:22:50+00:00"
+   "checked": "2026-11-21T07:27:53+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T07:22:50+00:00"
+   "checked": "2026-11-21T07:27:53+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T07:22:50+00:00"
+   "checked": "2026-11-21T07:27:53+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T07:22:50+00:00"
+   "checked": "2026-11-21T07:27:54+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T07:22:51+00:00"
+   "checked": "2026-11-21T07:27:54+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T07:22:51+00:00"
+   "checked": "2026-11-21T07:27:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T07:22:51+00:00"
+   "checked": "2026-11-21T07:27:55+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T07:22:51+00:00"
+   "checked": "2026-11-21T07:27:55+00:00"
   }
  },
  "items": [
+  {
+   "id": "xbox series x loads grand theft auto vi 17 faster than playstation 5 pro",
+   "title": "Xbox Series X loads Grand Theft Auto VI 17% faster than PlayStation 5 Pro",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFdqMUI5eWpzbDd0TFBNaExsRnFpNGNvZzJCM1FBVEtlX1RTNEgyQ0dDS3hkS1dzM0hDb3QtVFU5azlKRlpySGVYMVhEMThqc1p2SGptWVhUZHRGODlxNDhNcTcwWkVJcERHMDhEZHFTU3RjaWIzc1FQVk5SN3NGT2ZzQVpYcDVZcXNPUFVZY2dGbGhkM19USXpraWtzLXdTVGZETWVwMEVvWmVPRHc?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-21T07:21:51+00:00",
+   "seen": "2026-11-21T07:27:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Xbox Series X loads Grand Theft Auto VI faster than PlayStation 5 Pro."
+  },
+  {
+   "id": "gta 6 shatters global sales records",
+   "title": "GTA 6 Shatters Global Sales Records",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXRHMDFuM2ZfY2xXVjdDejdIRnNOZlZINU5ONmMxOUo2VndlZVBwOGdWeFh3LXlXVk1XekdPWS1fNnV0YkhCOFgzY0NHVHJza3J0Y19BMDVQaVNBN21UcFp6cGNxdXFpWVJLd2FGNHNXUWRocmpoNXlSY3J3SXJaTG9OMA?oc=5",
+   "outlet": "jeevanutsahnews.in",
+   "via": "Google News",
+   "published": "2026-11-21T07:18:45+00:00",
+   "seen": "2026-11-21T07:27:51+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 has global sales records."
+  },
   {
    "id": "gta 6 sets record with 3 79 b in first day retail sales",
    "title": "GTA 6 sets record with $3.79 B in first-day retail sales",
@@ -170,6 +196,19 @@
    "ai_summary": "The story reports that The Guardian asks if Grand Theft Auto VI is really the cultural event of the decade."
   },
   {
+   "id": "music release showdown lisa the star studded gta vi album and heavyweight drops take over the week",
+   "title": "Music Release Showdown: LISA, the Star-Studded ‘GTA VI’ Album, and Heavyweight Drops Take Over the Week",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzdCUTY4aWtPMDFtRVJFTGU3bElGa0lxTVN0dG5RSXZTZHVjbVdYeUQ2NW9KUHJ0UERvYUhoZVdjNUdYazkwZC1QbFAxeHo2SG5IcUowak9zeEhpMjNBa1c4ZWg0aXVYSDFuWWpmX0pHOUJheGNMWlczLVRzcF9BWG1lLVBOc01telEwNEFRQ2lYOUFXdkEyQjFn?oc=5",
+   "outlet": "The Hype Magazine",
+   "via": "Google News",
+   "published": "2026-11-21T06:58:18+00:00",
+   "seen": "2026-11-21T07:27:51+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports a music release showdown involving LISA’s GTA VI album and other releases this week."
+  },
+  {
    "id": "grand theft auto vi is now playable on a hacked playstation 4 console",
    "title": "Grand Theft Auto VI is now playable on a hacked PlayStation 4 console.",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmVfMWxGNnN0a3NqZm9GMnlrR2d6MnJjQnRPZ1NIbDUyYnR1VVpiS0lvZGlud0ZUZEg3QzRuN0MtVVNNR05pTGRtTDJNTnlVWUN6bjBVRlQ4QkxaMnE2cjA4enVoNXZyR0VrTWdydDBKSVpuemRQT3pNY2UwNElGX2xSeC1ZQWFlcTI5WVpCelhTOXR6LVZvWkZYMkNCSzl3MkZfMnh6cjV2aXg4SGc?oc=5",
@@ -194,6 +233,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 sells a large amount on day one and shatters records, according to Seoul Economic Daily."
+  },
+  {
+   "id": "gta 6 lets you make jason and lucia walk faster here s where to find the setting",
+   "title": "GTA 6 lets you make Jason and Lucia walk faster: here’s where to find the setting",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUE4S0dOUEllZndFbWFaNlN1Zm13Nk91eG5ySnFFMF9reklITTdreVkyOVFoOGU0cHluOXJtdEFtcVlianBOXzM0LUhiLW5SMy1BZXhhV0pMcXRxSDZLaHNqWVJLU1EzTkJIM3N2bEVrMVhXY1B2SjZ0ZFFKeE5YMVdhZWdFUQ?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-21T06:53:21+00:00",
+   "seen": "2026-11-21T07:27:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 allows making Jason and Lucia walk faster and indicates where to find the setting."
   },
   {
    "id": "gta 6 release sparks excitement at bradley spotlights growing world of esports",
