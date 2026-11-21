@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:17:31+00:00",
- "started": "2026-11-21T06:17:24+00:00",
+ "updated": "2026-11-21T06:22:29+00:00",
+ "started": "2026-11-21T06:22:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:17:24+00:00"
+   "checked": "2026-11-21T06:22:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:17:25+00:00"
+   "checked": "2026-11-21T06:22:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:17:25+00:00"
+   "checked": "2026-11-21T06:22:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T06:17:25+00:00"
+   "checked": "2026-11-21T06:22:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T06:17:26+00:00"
+   "checked": "2026-11-21T06:22:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T06:17:26+00:00"
+   "checked": "2026-11-21T06:22:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T06:17:26+00:00"
+   "checked": "2026-11-21T06:22:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T06:17:27+00:00"
+   "checked": "2026-11-21T06:22:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T06:17:27+00:00"
+   "checked": "2026-11-21T06:22:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T06:17:27+00:00"
+   "checked": "2026-11-21T06:22:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T06:17:28+00:00"
+   "checked": "2026-11-21T06:22:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T06:17:28+00:00"
+   "checked": "2026-11-21T06:22:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T06:17:28+00:00"
+   "checked": "2026-11-21T06:22:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T06:17:28+00:00"
+   "checked": "2026-11-21T06:22:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "i m playing gta 6 like a law abiding citizen and having more fun than i ever did causing criminal chaos",
+   "title": "I’m playing GTA 6 like a law-abiding citizen — and having more fun than I ever did causing criminal chaos",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTDRyYUNsZFEybTVndzBySW13N0ZPSV9wdjhydk43TE1hU216OTF4UTU0Rml0Ulhkejh5TmtNWnpJMWR6WXRscUVOU2tSV0Q3UW85QnAyMGp4ZTI2MURQM1lKQTRRWGlUaVZvMzA3UnFndTFGbkpOMjRpMm5uUjdPTHVESTRwdXdJNnBxRnNmNXI5ZTY3Y2VDTHVYbnMyYWF5bGRmdGJGN2FDempvRUg2MGRfYzduZGVKaEJNdGJySHRUTS1OdTFraVhKcTA4Y0V0?oc=5",
+   "outlet": "Tom's Guide",
+   "via": "Google News",
+   "published": "2026-11-21T06:20:38+00:00",
+   "seen": "2026-11-21T06:22:23+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story says playing GTA 6 lawfully can be more fun than causing chaos."
+  },
+  {
+   "id": "lana del rey sports custom vice city birkin to gta 6 launch with husband jeremy dufrene",
+   "title": "Lana Del Rey Sports Custom Vice City Birkin to 'GTA 6' Launch With Husband Jeremy Dufrene",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1R4ajk2a2Vab21yRWd3LWFCbUEtamJJb0RobUl6UnBSdVVBbFdvWldBNFRmZVRTeEp4cjJsV0dnRUFxa0xDMXVjSl93eGFDc0tWZ1pRUy1mSWQ2eVlQNzctdnB4VjkxSnEyS29CNjI1bDlUeW1yejRnM1Y2R0praHFkdlN5amtid3ZONQ?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-21T06:20:14+00:00",
+   "seen": "2026-11-21T06:22:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Lana Del Rey wears a custom Vice City Birkin with her husband for the GTA 6 launch."
+  },
+  {
+   "id": "how a 6 beer in gta 6 sent me into a spiral of crime and anxiety",
+   "title": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUElfdkR2YnVFQXNLVno0RXhWbEQ0V3dESTQxUE9CV2FLblAwRjRlTi1DZmdRQ0tGVHI0bHJvTEJXR2pSaXVKRUpPWTdfMlFSYWhqTmUyVHB6cVB2RnB2VkJzZFJDdHV1Yl9xanJ6eEwtRGtMcWo2S2tqd051cW9NT1VQNUpQblpVQXE5SlZwWnVwMHFMQm1qUWdORmVqMndxdHNOcUdfV0lIR0tabVc0cExFTEJlYlJrUWFSemZ0WGNiUQ?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-21T06:15:17+00:00",
+   "seen": "2026-11-21T06:22:23+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story describes spending six dollars on a beer in GTA 6 leading to crime and anxiety."
+  },
   {
    "id": "gta 6 sales hit 3 79 billion on day one breaking records",
    "title": "GTA 6 Sales Hit $3.79 Billion on Day One, Breaking Records",
@@ -116,6 +155,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 sales broke records on day one, reaching an amount reported as three point seven nine billion dollars."
+  },
+  {
+   "id": "grand theft auto vi shatters first day sales records",
+   "title": "'Grand Theft Auto VI' shatters first-day sales records",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41bEpfLWpZQmdWX0lzaDdvaFNiYkp0SVY2Wms1QTVuVEtIOExuWFYxSUNvb2lKakduS2xtR1htMVozSkhzTG9nb1NoRlFDdnZ0UUNBMkVHYUl1ZkczcFQ2RVJ6NNIBaEFVX3lxTE80alFfUkxyMzgwRHlyelh4N1dFWlQxQnR4NmtNMnpIYnpCWUJiRGgzbnNIZXlKLTRHSndEdkc2MDhuSFEyVjhNZUU3U21HTHNkb0dhMW9OVWpGeWZ6MjVwX29KcV9ydWF4?oc=5",
+   "outlet": "LiveNOW from FOX",
+   "via": "Google News",
+   "published": "2026-11-21T06:08:35+00:00",
+   "seen": "2026-11-21T06:22:23+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story notes Grand Theft Auto VI sets first-day sales records."
   },
   {
    "id": "i tried being a law abiding boyfriend in gta 6 until a 6 beer forced me into a life of crime",
