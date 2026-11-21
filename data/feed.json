@@ -1,106 +1,106 @@
 {
- "updated": "2026-11-21T17:56:17+00:00",
- "started": "2026-11-21T17:56:11+00:00",
+ "updated": "2026-11-21T18:01:16+00:00",
+ "started": "2026-11-21T18:01:11+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T17:56:11+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-21T18:01:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T17:56:12+00:00"
+   "checked": "2026-11-21T18:01:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T17:56:12+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T18:01:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:56:13+00:00"
+   "checked": "2026-11-21T18:01:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T17:56:13+00:00"
+   "checked": "2026-11-21T18:01:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T17:56:13+00:00"
+   "checked": "2026-11-21T18:01:13+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T17:56:13+00:00"
+   "checked": "2026-11-21T18:01:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T17:56:14+00:00"
+   "checked": "2026-11-21T18:01:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:56:14+00:00"
+   "checked": "2026-11-21T18:01:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T17:56:14+00:00"
+   "checked": "2026-11-21T18:01:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T17:56:15+00:00"
+   "checked": "2026-11-21T18:01:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T17:56:15+00:00"
+   "checked": "2026-11-21T18:01:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T17:56:15+00:00"
+   "checked": "2026-11-21T18:01:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T17:56:15+00:00"
+   "checked": "2026-11-21T18:01:14+00:00"
   }
  },
  "items": [
@@ -662,6 +662,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6's download rush coincided with two traffic records at DE-CIX."
+  },
+  {
+   "id": "gta 6 metacritic user score trails its 99 metascore",
+   "title": "GTA 6 Metacritic User Score Trails Its 99 Metascore",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjdRWW1QM2VqcGZGOWtLT1FqYnV0U2J2SDlBd09OMG1TOU40UEpUMWNvMXhYSnZPZWxpcXhnWlVPME9JVk5fMkM4T2NIMVcteWNqTGtmQ0h0cWdTazg2RS1BUG85ZGxYbklYODNqalM3bzYySzAtVFpiVjNtQmhqVDZCOHNITUdiWEJmejdNWnIyX0FLZ0lEQ1BkTmpVeGJSaVc0ckp1aG8?oc=5",
+   "outlet": "Game News Plus",
+   "via": "Google News",
+   "published": "2026-11-21T16:08:36+00:00",
+   "seen": "2026-11-21T18:01:12+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that the GTA 6 Metacritic user score trails its Metacritic score."
   },
   {
    "id": "where to find the bowling alley safe code in gta 6",
