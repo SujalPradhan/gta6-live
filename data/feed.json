@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:35:46+00:00",
- "started": "2026-11-21T16:35:39+00:00",
+ "updated": "2026-11-21T16:40:52+00:00",
+ "started": "2026-11-21T16:40:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T16:35:40+00:00"
+   "checked": "2026-11-21T16:40:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T16:35:40+00:00"
+   "checked": "2026-11-21T16:40:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T16:35:41+00:00"
+   "checked": "2026-11-21T16:40:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T16:35:41+00:00"
+   "checked": "2026-11-21T16:40:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T16:35:41+00:00"
+   "checked": "2026-11-21T16:40:48+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-21T16:35:42+00:00"
+   "checked": "2026-11-21T16:40:48+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 30,
-   "checked": "2026-11-21T16:35:42+00:00"
+   "hits": 31,
+   "checked": "2026-11-21T16:40:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T16:35:42+00:00"
+   "checked": "2026-11-21T16:40:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T16:35:43+00:00"
+   "checked": "2026-11-21T16:40:48+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T16:35:43+00:00"
+   "checked": "2026-11-21T16:40:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T16:35:44+00:00"
+   "checked": "2026-11-21T16:40:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T16:35:44+00:00"
+   "checked": "2026-11-21T16:40:49+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T16:35:44+00:00"
+   "checked": "2026-11-21T16:40:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T16:35:44+00:00"
+   "checked": "2026-11-21T16:40:49+00:00"
   }
  },
  "items": [
+  {
+   "id": "should you shake mattia s hand in gta 6",
+   "title": "Should you shake Mattia's hand in GTA 6?",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mattia/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-21T16:38:21+00:00",
+   "seen": "2026-11-21T16:40:48+00:00",
+   "summary": "Shaking Mattia's hand seems like quite an important moment in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Shaking Mattia's hand is described as an important moment in GTA 6."
+  },
+  {
+   "id": "grand theft auto vi debuts to record 7 91m concurrent livestream viewers",
+   "title": "Grand Theft Auto VI Debuts to Record 7.91M Concurrent Livestream Viewers",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR21abHo3Qm9fNVY3a3FZYk5PcUpqZk5wWEFLa3VyT3JVdzNYaFRLMWFnbGotRWp2NHRmVUpjcFRVaWNWc1VQWkpoNE00YjVvRG50UFdSblJaWmJKdFZKTjI2Uko3S084SERMUEFxS2hUVGx6bTlKUDBFUVY3aEhEazh4T3VEMy1yQU14LTBCNVFvOVBvX3BhSUJ6Q1lGQQ?oc=5",
+   "outlet": "A 90s Kid",
+   "via": "Google News",
+   "published": "2026-11-21T16:37:42+00:00",
+   "seen": "2026-11-21T16:40:48+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The game reportedly debuted to a record number of concurrent livestream viewers."
+  },
+  {
+   "id": "gta 6 brooks boatworks safe code and location how to find and open the safe",
+   "title": "GTA 6 Brooks Boatworks safe code and location: How to find and open the safe",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-brooks-boatworks-safe-code-and-location-how-to-find-and-open-the-safe/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-21T16:36:11+00:00",
+   "seen": "2026-11-21T16:40:48+00:00",
+   "summary": "Here's the code for the safe in Brooks Boatworks",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The safe code and location for Brooks Boatworks are provided."
+  },
+  {
+   "id": "learn how to get a mask in gta 6 to stay anonymous when committing a crime",
+   "title": "Learn how to get a mask in GTA 6 to stay anonymous when committing a crime",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-masks-how-to-get-equip/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-21T16:35:00+00:00",
+   "seen": "2026-11-21T16:40:48+00:00",
+   "summary": "Learning how to buy, manage, and equip a mask in GTA 6 is vital for losing some of your Appearance Heat",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to buy, manage, and equip a mask in GTA 6 is explained to stay anonymous during crimes."
+  },
+  {
+   "id": "how to find the avery pawn shop safe code in gta 6",
+   "title": "How to find the Avery Pawn Shop safe code in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVpPTU1XYURocXVrNWZTZld3ZUZXSUFjbkg3OEZ6R29VOWN1VTlqS29OV3UxcG41eUx1R3FMdlJMc3g1d1k2a0tXVlBMMFJoYjZ2dFdtQXJVY2tPMUgyUzZRZEZJV0l6bVdxckVWQVFMbEtWUU5hVVVLbW1Tcnl4em1R?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-21T16:30:40+00:00",
+   "seen": "2026-11-21T16:40:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Instructions or information about the Avery Pawn Shop safe code are provided."
+  },
   {
    "id": "gta 6 how to make an easy 25 000 in act 4",
    "title": "GTA 6: How To Make An Easy $25,000 In Act 4",
@@ -285,6 +350,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks readers for opinions on GTA 6."
+  },
+  {
+   "id": "being a good boyfriend in gta 6 feels so good",
+   "title": "Being a good boyfriend in GTA 6 feels so good",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVGRsWVlPQ0xaeWxZc0dTT2EtcFcwZ1pXQ3V4bmNmdHAtM0c3UGRUTkhpNE4ySmY3c3o4eGRBOHVUSG5Rek1KYWpOMS04dXFxU1VEMUNwelQxekNMaGp0NFducVNtME5PZWRNNE5QLS1jRVJCOTd3Y1p1bw?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-21T16:00:00+00:00",
+   "seen": "2026-11-21T16:40:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Being a good boyfriend in GTA 6 is discussed as a positive experience."
   },
   {
    "id": "gta 6 pawn shop safe code",
