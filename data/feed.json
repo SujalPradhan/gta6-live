@@ -1,106 +1,106 @@
 {
- "updated": "2026-11-21T18:56:29+00:00",
- "started": "2026-11-21T18:56:26+00:00",
+ "updated": "2026-11-21T19:01:36+00:00",
+ "started": "2026-11-21T19:01:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T18:56:27+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-21T19:01:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T18:56:27+00:00"
+   "checked": "2026-11-21T19:01:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T18:56:28+00:00"
+   "checked": "2026-11-21T19:01:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T18:56:28+00:00"
+   "checked": "2026-11-21T19:01:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T18:56:28+00:00"
+   "checked": "2026-11-21T19:01:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T18:56:28+00:00"
+   "checked": "2026-11-21T19:01:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T18:56:29+00:00"
+   "checked": "2026-11-21T19:01:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T18:56:29+00:00"
+   "checked": "2026-11-21T19:01:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-21T18:56:29+00:00"
+   "hits": 6,
+   "checked": "2026-11-21T19:01:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T18:56:29+00:00"
+   "checked": "2026-11-21T19:01:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T18:56:29+00:00"
+   "checked": "2026-11-21T19:01:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T18:56:29+00:00"
+   "checked": "2026-11-21T19:01:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T18:56:29+00:00"
+   "checked": "2026-11-21T19:01:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T18:56:29+00:00"
+   "checked": "2026-11-21T19:01:34+00:00"
   }
  },
  "items": [
@@ -2365,6 +2365,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that Buddy Guy and Keith Richards are featured in Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 launch sales hit record 3 79 billion in 24 hours smashing all time entertainment benchmarks",
+   "title": "GTA 6 launch sales hit record $3.79 billion in 24 hours, smashing all-time entertainment benchmarks",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWEpTdGdQQUprS3dyRFNUY3NUNWFQNlJBaVJYd0pkSFRqcFk4WWlFMGtLOUJjQXI5cmJlNXVKalR4M1JXdWR5MWVBS0tMYWpzcThWZlhuQXQzZzVxcVc4UkZDUHQ2TzdRUEZpTVkyNDNGT1RwSzZZajJSWHUtcWkwX3BrWEhqU0RTbko2MUxLMmhOOHVyTWw2N3JRNEJQWTNmck9ucTl3T3RfbUN5SnVOZElseFhrU2xRUFY3UHRnZjFaMWVUYWJmeU0yOFpmckJvQmc4d9IB0AFBVV95cUxOVExqX0FSUU5YZklTN2I1aWNFcktDU3pzbUQxMnRlVWh5Z0ZSaWVvTV9oZ1F3RU5ibnlxeDdpbkNVWGNsYzJWZ2hLVU8wYlJnbEYyLUhFdzNWQWFxdVl3aHRkYml0bDNuSUxnZjNMYVlSamF3ajl6SG8xc28zWkc3VUx3R1Rmc0wySHJqLUtkSXVQN2otSFZvV0RrLVpEWDZueGNmcERMcTk2bGltSjdmTUsxUjBLeE1OYzdQaTkwS1lHajE0NkpOTUVGMmRlWHBo?oc=5",
+   "outlet": "The News International",
+   "via": "Google News",
+   "published": "2026-11-21T13:19:00+00:00",
+   "seen": "2026-11-21T19:01:31+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 launch sales hit a record figure and surpassed all-time entertainment benchmarks in the first day."
   },
   {
    "id": "world of dypians opens a gta vi inspired zone with a 150 000 point logo hunt on bnb chain",
