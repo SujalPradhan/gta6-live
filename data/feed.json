@@ -1,109 +1,161 @@
 {
- "updated": "2026-11-21T17:16:19+00:00",
- "started": "2026-11-21T17:15:53+00:00",
+ "updated": "2026-11-21T17:20:59+00:00",
+ "started": "2026-11-21T17:20:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-21T17:16:00+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-21T17:20:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-21T17:16:10+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-21T17:20:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-21T17:16:16+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-21T17:20:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:16:16+00:00"
+   "checked": "2026-11-21T17:20:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T17:16:16+00:00"
+   "checked": "2026-11-21T17:20:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-21T17:16:18+00:00"
+   "hits": 49,
+   "checked": "2026-11-21T17:20:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T17:16:18+00:00"
+   "checked": "2026-11-21T17:20:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 17,
-   "checked": "2026-11-21T17:16:18+00:00"
+   "hits": 19,
+   "checked": "2026-11-21T17:20:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:16:18+00:00"
+   "checked": "2026-11-21T17:20:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T17:16:18+00:00"
+   "checked": "2026-11-21T17:20:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T17:16:18+00:00"
+   "checked": "2026-11-21T17:20:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T17:16:18+00:00"
+   "checked": "2026-11-21T17:20:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T17:16:19+00:00"
+   "checked": "2026-11-21T17:20:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T17:16:19+00:00"
+   "checked": "2026-11-21T17:20:56+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi is doing fine on xbox that s the problem",
+   "title": "GTA VI Is doing fine on Xbox – that’s the problem",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11cXJ3Vk52VkJPUTRmT2UteUw0dnZhVjFUSXlLal80WE1QdzdrZE1yZm0yR2huRFRpVENjNER0REZ6bl9qemtDMUJCTFFNQkxSRGUwTDVqcUY2RWoxZ1ZsU2hOa3BiWXlsZ3VqNXRvNnBXdjd2ZFFwRg?oc=5",
+   "outlet": "GamesBeat",
+   "via": "Google News",
+   "published": "2026-11-21T17:13:21+00:00",
+   "seen": "2026-11-21T17:20:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI is performing well on Xbox, which is presented as the problem."
+  },
+  {
+   "id": "gta 6 sets entertainment launch record with 3 79 billion dollars",
+   "title": "GTA 6 Sets Entertainment Launch Record With 3.79 Billion Dollars",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmTWh6cDZPME0yck9zRnBiZUl1QUt4alg0S0xLTThSRHBabDU5TEtKZ19CSVpScUg4Z2FaLVU5aGIyd3hkb1pzY2VaUE5mWF9McW11MkNKbHN6VGlST2c?oc=5",
+   "outlet": "bsinews.id",
+   "via": "Google News",
+   "published": "2026-11-21T17:13:00+00:00",
+   "seen": "2026-11-21T17:20:54+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 reportedly sets an entertainment launch record with a reported $3.79 billion."
+  },
+  {
+   "id": "gta 6 reportedly played using neuralink brain chip in new video",
+   "title": "GTA 6 reportedly played using Neuralink brain chip in new video",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZMjRGc2kwUlN5Wm1xYzZlczItSkFubUhiY2h4VEVoX2NiR2xvNnBuUFBkZFQ3eklYM2c4TVFWWV9EUGh0blZEd2MxV0V6VTlGd3VZ?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-21T17:08:27+00:00",
+   "seen": "2026-11-21T17:20:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is reportedly played using a Neuralink brain chip in a new video."
+  },
+  {
+   "id": "gta 6 sets 3 79 billion launch sales record",
+   "title": "GTA 6 Sets $3.79 Billion Launch Sales Record",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQ2htZmlPaXdwcnVoalh6aTRpZFQ3bUlzY2dremNPVnZnYzFUS3dUa3NrakhsTG1PaFJxSFpLVXdHcU9ncVNJa0NKMk5FOU1sUXNYNVp4LUFSaUVtNkduWg?oc=5",
+   "outlet": "Peradaban.id",
+   "via": "Google News",
+   "published": "2026-11-21T17:08:00+00:00",
+   "seen": "2026-11-21T17:20:54+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 sets a launch sales record of $3.79 billion."
+  },
   {
    "id": "miami fan s gta 6 sign about lucia goes viral in trending photo from espn college gameday",
    "title": "Miami Fan's GTA 6 Sign About Lucia Goes Viral in Trending Photo from ESPN College GameDay",
@@ -207,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to use auto drive in GTA 6."
+  },
+  {
+   "id": "bill maher says gta 6 has caused more workplace absences than ice",
+   "title": "Bill Maher Says GTA 6 Has ‘Caused More Workplace Absences Than ICE’",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UZHlOcGZYN3hEa0ZZWkx4WEZadTRpTGFEUFB5cXk4b3dWVkVQUDZldGlackFub0hCeTRhV18tRllURVEtY2N1eTdiWUxjcXFVVXpoQU84bTZvMjE1NU5mZ3RnMmZiWldCMUFIbENzUjNpX00?oc=5",
+   "outlet": "AOL.com",
+   "via": "Google News",
+   "published": "2026-11-21T16:42:36+00:00",
+   "seen": "2026-11-21T17:20:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Bill Maher claims GTA 6 has caused more workplace absences than ICE."
   },
   {
    "id": "gta 6 features never before heard song from late r b legend d angelo",
@@ -365,6 +430,19 @@
    "ai_summary": "The story explains how to unlock the Dye-Pack Jammer in GTA 6 to steal Marked Bills."
   },
   {
+   "id": "rockstar accused of tracing furry artwork for gta 6 s custom smg",
+   "title": "Rockstar accused of tracing furry artwork for GTA 6’s custom SMG",
+   "link": "https://www.dexerto.com/gta/rockstar-accused-of-tracing-furry-artwork-for-gta-6s-custom-smg-3430332/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-21T16:23:35+00:00",
+   "seen": "2026-11-21T17:20:56+00:00",
+   "summary": "A custom SMG from GTA 6’s furry rescue encounter has drawn tracing accusations after fans compared its decal with a 2021 illustration by GabyT.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar is accused of tracing furry artwork for GTA 6’s custom SMG, with fans noting a decal similarity to a 2021 illustration."
+  },
+  {
    "id": "electric cars are finally mainstream in gta 6 and vice city is full of them",
    "title": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlJCTzczUlZsdXU1Z0pzOHB0SElBcW1LMG9sM2g1YWFvbU5neUwzM3lrLVpYd3BJZ3ZYY3Y5LVNnQXJPNEJZbWRPNTRQcmZZR2x2eFhPT1RnUG56S01FbG1CZGMyTlJVRjFfT0IyanQ4OVJBcFdQVzN6Rmd1cGpFcXNR?oc=5",
@@ -441,6 +519,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains where to find the bowling alley safe code in GTA 6."
+  },
+  {
+   "id": "binding of isaac fans review bomb dlc after discovering gta 6 mode songs are ai",
+   "title": "Binding of Isaac fans review bomb DLC after discovering GTA 6 mode songs are AI",
+   "link": "https://www.dexerto.com/gaming/binding-of-isaac-fans-review-bomb-dlc-after-discovering-gta-6-mode-songs-are-ai-3430318/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-21T16:06:02+00:00",
+   "seen": "2026-11-21T17:20:56+00:00",
+   "summary": "The secret run shipped alongside Repentance+’s console launch on GTA 6 release day.",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "Binding of Isaac fans review bomb DLC after discovering GTA 6 mode songs are AI, linked to Repentance+ console launch."
   },
   {
    "id": "retirement home residents as old as 86 have been loving gta 6",
