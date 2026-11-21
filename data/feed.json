@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:26:44+00:00",
- "started": "2026-11-21T19:26:37+00:00",
+ "updated": "2026-11-21T19:31:42+00:00",
+ "started": "2026-11-21T19:31:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T19:26:37+00:00"
+   "checked": "2026-11-21T19:31:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T19:26:38+00:00"
+   "checked": "2026-11-21T19:31:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T19:26:38+00:00"
+   "hits": 100,
+   "checked": "2026-11-21T19:31:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T19:26:38+00:00"
+   "checked": "2026-11-21T19:31:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T19:26:39+00:00"
+   "checked": "2026-11-21T19:31:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T19:26:39+00:00"
+   "checked": "2026-11-21T19:31:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T19:26:39+00:00"
+   "checked": "2026-11-21T19:31:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T19:26:40+00:00"
+   "checked": "2026-11-21T19:31:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T19:26:40+00:00"
+   "checked": "2026-11-21T19:31:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T19:26:41+00:00"
+   "checked": "2026-11-21T19:31:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T19:26:41+00:00"
+   "checked": "2026-11-21T19:31:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T19:26:41+00:00"
+   "checked": "2026-11-21T19:31:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T19:26:41+00:00"
+   "checked": "2026-11-21T19:31:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T19:26:41+00:00"
+   "checked": "2026-11-21T19:31:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "the anonymous hacker cyberleek releases an xbox build of gta vi",
+   "title": "The anonymous hacker Cyberleek releases an Xbox build of 'GTA VI'",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EdnlPdjFWY1IzUko2anpqMHV3V1ZZQnZMLVM1WlNteWxSVThrd3BPWm0xdnZld1NtemRHS2hUZ21iTHNkY25YTFNibllBVTcwQkJGQ29HZDA2M08tWVlHTktUUjZnWXBPUi12eGdRMGN0cVZhU0JSVloyZw?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-21T19:28:28+00:00",
+   "seen": "2026-11-21T19:31:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An anonymous hacker releases an Xbox build of GTA VI."
+  },
   {
    "id": "dua lipa drops major hints at new record after gta 6 song",
    "title": "Dua Lipa drops major 'hints' at new record after GTA 6 song",
@@ -454,6 +467,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports McAfee warning of new malware-as-a-service targeting gamers and its own customers as GTA VI arrives, per TechRadar."
+  },
+  {
+   "id": "gta 6 is being review bombed receiving terrible user reviews criticizing its woke propaganda and bugs",
+   "title": "GTA 6 Is Being Review-Bombed, Receiving Terrible User Reviews Criticizing Its “Woke Propaganda” and Bugs",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa045YzRHY2N5R1FTcUVlQldJNFZWc0Jpekg5Qk54MWYwUTdNclFyUFhpNHB5T0cyRG5xR3o4dlBUVXRoa1BDS2VNSm1uUkg3dks3VEdhRVVySDI2RW5nQ0Zlczk1a0ZVZ0xSTU1CdjlLclNEOWVGanZKM2hVZGlTQS01MXZTSXFBd3ljTVRNSURVUFJRaFljTzBwU1duRFVKd3BaYnhZNm9xZzcza3NMeThCc3pReWtJMUxaRUF0a002M0kwc3FxbmlDOUVfazA?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-21T18:05:00+00:00",
+   "seen": "2026-11-21T19:31:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 is being review-bombed with negative user reviews citing bugs and alleged propaganda."
   },
   {
    "id": "gta 6 here s the secret entrance to mile zero air station",
@@ -1819,6 +1845,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "GTA 6 on PS5 is crashing for some players with error CE-108255-1, and the issue can block story progression according to Eurogamer."
+  },
+  {
+   "id": "gta 6 breaks records with 3 79 billion in launch day sales",
+   "title": "GTA 6 Breaks Records With $3.79 Billion in Launch-Day Sales",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHdjajdRdGxpYWlESk9MSllpLTFwelZFcUN3OVJodWRvemF6aW1ia1JBekNfQWt3MHRoZ1dtWi1JYW1EMmxFUTBZWFJnQmV1ampYUnUyN1o4SGd4cmEtMEFRV0xrYWQ0NnN4Wmt5VU1DbU5HOXpQOUlYZklYYlljSml2anpocFNoUEtfbkN3?oc=5",
+   "outlet": "Bloom Pakistan",
+   "via": "Google News",
+   "published": "2026-11-21T15:02:15+00:00",
+   "seen": "2026-11-21T19:31:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 breaks launch-day sales records with billions in revenue."
   },
   {
    "id": "gta 6 release price where to buy grand theft auto vi",
@@ -6330,6 +6369,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to complete GTA 6 Afternoon Delight and how Jason's choice affects the mission."
+  },
+  {
+   "id": "gta 6 players report ps5 and xbox crashes with a sink blocking one player s story",
+   "title": "GTA 6 players report PS5 and Xbox crashes, with a sink blocking one player’s story",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xTnFwQk04c2VnQ1FSQjRaQXY0QmdmRkh5dWZpLXloVm5fb3BTZ0xwVW9VUEVfMy1YMlNuSUxlWFRxTDZJQmg4?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-21T00:04:58+00:00",
+   "seen": "2026-11-21T19:31:38+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "Players report PS5 and Xbox crashes affecting gameplay."
   },
   {
    "id": "gta 6 stole launch day with 61 of active us ps5 players per charlieintel",
