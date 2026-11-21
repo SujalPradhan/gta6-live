@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:14:49+00:00",
- "started": "2026-11-21T13:14:43+00:00",
+ "updated": "2026-11-21T13:19:51+00:00",
+ "started": "2026-11-21T13:19:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T13:14:44+00:00"
+   "checked": "2026-11-21T13:19:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T13:14:44+00:00"
+   "checked": "2026-11-21T13:19:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T13:14:44+00:00"
+   "checked": "2026-11-21T13:19:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T13:14:45+00:00"
+   "checked": "2026-11-21T13:19:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T13:14:45+00:00"
+   "checked": "2026-11-21T13:19:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T13:14:45+00:00"
+   "checked": "2026-11-21T13:19:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-21T13:14:45+00:00"
+   "checked": "2026-11-21T13:19:46+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T13:14:46+00:00"
+   "checked": "2026-11-21T13:19:46+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T13:14:46+00:00"
+   "checked": "2026-11-21T13:19:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T13:14:46+00:00"
+   "checked": "2026-11-21T13:19:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T13:14:46+00:00"
+   "checked": "2026-11-21T13:19:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T13:14:47+00:00"
+   "checked": "2026-11-21T13:19:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T13:14:47+00:00"
+   "checked": "2026-11-21T13:19:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T13:14:47+00:00"
+   "checked": "2026-11-21T13:19:48+00:00"
   }
  },
  "items": [
+  {
+   "id": "world of dypians opens a gta vi inspired zone with a 150 000 point logo hunt on bnb chain",
+   "title": "World of Dypians Opens a GTA VI Inspired Zone With a 150,000 Point Logo Hunt on BNB Chain",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1p0dzhuXzRmVXV3MGNidnBLU2xYeFFjd1RZOUZJTjNYUkhzem55akl3cUMwT2U5WmRqWFd0NHdVcHRTZ19Sd1VMMEFIVWV6Snl3Q1lhV0ExVmZfeko5LWtGU20yYTRIUnlzTm1NeE1YVlhrbDJKRGJrRWtSb0dmcGxfazQxckl6S2hiYmM0LVZrdmVmM2pGTWwxcGhObDVpX0Z4djBQQUVROHcy?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-21T13:14:07+00:00",
+   "seen": "2026-11-21T13:19:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "World of Dypians opens a GTA VI inspired zone featuring a logo hunt on BNB Chain."
+  },
+  {
+   "id": "how many copies has gta 6 sold money made so far november 2026",
+   "title": "How Many Copies Has GTA 6 Sold? Money Made So Far (November 2026)",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GZ2R4MWxJMUpUOFNRaFdtVXByVnNGdEdrMEh0b0I5LTJ1ODhleGVfVHBXQmFxOVNhWHhYMkhRaHN5RXFvS0RabFlZVUNVRTRTWHNDU3JNZzljQQ?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-21T13:12:49+00:00",
+   "seen": "2026-11-21T13:19:44+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Insider Gaming reports on GTA 6 sales and revenue to date, as of November 2026."
+  },
+  {
+   "id": "consumer tech nov 16 20 anthropic makes a smashing debut gta 6 releases more",
+   "title": "Consumer Tech (Nov 16-20): Anthropic Makes A Smashing Debut, GTA 6 Releases & More",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEMzZkxKdDFfREhlYXg5bEUtZXBSSTMwOW1pdVM1TlphWHk1MEg4Umx6MmJkSm10eHVrd0NZeWVIRU5vRlBsb09HcHZIcTF2Y0dub2Z0TVZFVEtCVFlKbDE4U3JFeHRpN3JuNzkyemVUekk3djBfeHVMU3I3TF84U2tvbzRqbjhFb3N3NXRRT3VVX08yZVN3dTQ4U0ZhS28zLTRWblNmMWVyM1NfZEt1TXlRd2JMR0VQNGQwa3FoakVzSWFPNWIxaQ?oc=5",
+   "outlet": "Benzinga",
+   "via": "Google News",
+   "published": "2026-11-21T13:11:10+00:00",
+   "seen": "2026-11-21T13:19:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Benzinga notes GTA 6 release among consumer tech highlights for November 16–20."
+  },
   {
    "id": "gta vi on xbox series x can run faster than 30 fps using quick resume",
    "title": "GTA VI on Xbox Series X can run faster than 30 FPS using Quick Resume",
@@ -181,6 +220,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA VI set a record with first-day retail sales of $3.79 billion, per Rockstar Games."
+  },
+  {
+   "id": "gta 6 is out and ready to play early reviews pricing story mode and everything else you need to know about the biggest game launch of the ye",
+   "title": "‘GTA 6’ is out and ready to play: Early reviews, pricing, story mode and everything else you need to know about the biggest game launch of the year",
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQaUNnMmRZcFRoTW41ZV9nZGJfT18wOE9FS25QVm1uUTJRdXRxTEZGdC1oRGNDdlhRMHJQWFJOLUlST3JwRU9zMXZqWV9DOHViQ3hmSjdJTjl6NlJuNjFES0duYlN5TUdBbmdod2k1akVNZnE0VXhfalN6bVUzQ3E0RGxTTnFsX1RJV3p3UTdTempLWGRpWEdDbVJzSjZlOVFJQUdMbXE1V3ZHVGh1WVVEVXVHcWZsblQ4X2E1SlE0cVFOREtoV0dieERZVUdDVmVxc1M4aHhkYnB5WEVZR2pQQVRvRHp1LWRzdXNGRG8tSW9MSGlxZ1UyZ0w3SEhaa0hzWVNYS2NGSnpDc0FFUy1vOW5JdmdLRFI1NGo2Z28xamE5VFBZSk5MbWY2Q25OYW9XSGxiVVhBdEE0V2tyaGc?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-21T13:00:00+00:00",
+   "seen": "2026-11-21T13:19:44+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "Yahoo Tech provides early reviews, pricing, story mode details, and other key launch information for GTA 6."
   },
   {
    "id": "gta vi first day sales 3 79b 4 7x gta v",
@@ -389,6 +441,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 officially threatens Avengers 5 after beating Brand New Day's box office in one day."
+  },
+  {
+   "id": "man plays gta 6 with neuralink brain implant elon musk reacts",
+   "title": "Man Plays GTA 6 With Neuralink Brain Implant, Elon Musk Reacts",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0M1dXNhbU9MUnJZVHJqdjNtbXpRSXVUc0syai0wN2JXcGpTQ3NRUkFnN2EwWEdYdW5rQTRhNHdIY0FoZ0p1cGliclpnTkNjOHdGa1pBc2Ywc05nZ1NwanhFQS1OclNGOEVwUFdVTUtVbm8weHNETUNISTZOVndlTUptaU01aURfZTREU3dNdkIxU09vbDZXNS11cGVHVm5rcU1KNtIBrAFBVV95cUxQdFFsSDJOSVhZZWFFMGtkUGdDT21vWjhfcG1NWTR4Q2NtNzRuaE03REgxTFo0ckhiNl85VjRlcWw1d0lNSWtrSjY0TlVTNUFnNGM4SjJNY3ZNSFBCeTE5ZDRSWmptaFFrVVpnSnRQbmMwMnNxcTNRWFJDWC00Sy1WRmxwUWV0R2NmWEZoMzdIdVY4Z2VacXZtOWpHMzNvai11RnZQNWN3RFNDenRU?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-21T12:32:59+00:00",
+   "seen": "2026-11-21T13:19:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "NDTV covers a man playing GTA 6 with a Neuralink implant and Elon Musk's reaction."
   },
   {
    "id": "gta 6 players are running into npcs who fight back so hard you probably should just leave them alone",
