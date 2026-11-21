@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:29:52+00:00",
- "started": "2026-11-21T13:29:46+00:00",
+ "updated": "2026-11-21T13:34:53+00:00",
+ "started": "2026-11-21T13:34:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T13:29:47+00:00"
+   "checked": "2026-11-21T13:34:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T13:29:47+00:00"
+   "checked": "2026-11-21T13:34:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T13:29:48+00:00"
+   "checked": "2026-11-21T13:34:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T13:29:48+00:00"
+   "checked": "2026-11-21T13:34:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T13:29:48+00:00"
+   "checked": "2026-11-21T13:34:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T13:29:48+00:00"
+   "checked": "2026-11-21T13:34:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-21T13:29:49+00:00"
+   "checked": "2026-11-21T13:34:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T13:29:49+00:00"
+   "checked": "2026-11-21T13:34:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T13:29:49+00:00"
+   "checked": "2026-11-21T13:34:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T13:29:49+00:00"
+   "checked": "2026-11-21T13:34:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T13:29:50+00:00"
+   "checked": "2026-11-21T13:34:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T13:29:50+00:00"
+   "checked": "2026-11-21T13:34:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T13:29:50+00:00"
+   "checked": "2026-11-21T13:34:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T13:29:50+00:00"
+   "checked": "2026-11-21T13:34:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "sensor tower puts gta 6 at 17 million pre orders and 1 65 billion ahead of launch",
+   "title": "Sensor Tower puts GTA 6 at 17 million pre-orders and $1.65 billion ahead of launch",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWtWNUZVWVB5VGUxcUpPOFo5d0I3M2FheGRWX0s2bnZ3M3M4UEdRelI1THpnTDlVZElqbmY5Mk5NTTFsRmluMW1yc0pXeXlsUWp6TFJIazVWRDVkWm5tb3RfMFhDdzNCWDJLbDlTV2tUWjVRa0lwNDY5N1ZEYktmRjNwOWxfb1hTZ2hFZWRGRmdWaWpYdG85YjRxcTdoMk5pRHFV?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-21T13:31:36+00:00",
+   "seen": "2026-11-21T13:34:47+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Sensor Tower reports GTA 6 pre-orders and revenue ahead of launch, according to eGamers.io."
+  },
   {
    "id": "gta 6 restricts access to four stores for the ultimate edition for an extra 20",
    "title": "GTA 6 restricts access to four stores for the Ultimate Edition for an extra $20",
