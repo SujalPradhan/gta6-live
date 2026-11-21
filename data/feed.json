@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-21T18:01:16+00:00",
- "started": "2026-11-21T18:01:11+00:00",
+ "updated": "2026-11-21T18:06:18+00:00",
+ "started": "2026-11-21T18:06:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-21T18:01:11+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-21T18:06:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T18:01:12+00:00"
+   "checked": "2026-11-21T18:06:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T18:01:12+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T18:06:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T18:01:13+00:00"
+   "checked": "2026-11-21T18:06:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T18:01:13+00:00"
+   "checked": "2026-11-21T18:06:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T18:01:13+00:00"
+   "checked": "2026-11-21T18:06:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 31,
-   "checked": "2026-11-21T18:01:13+00:00"
+   "hits": 30,
+   "checked": "2026-11-21T18:06:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T18:01:13+00:00"
+   "checked": "2026-11-21T18:06:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T18:01:14+00:00"
+   "checked": "2026-11-21T18:06:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T18:01:14+00:00"
+   "checked": "2026-11-21T18:06:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T18:01:14+00:00"
+   "checked": "2026-11-21T18:06:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T18:01:14+00:00"
+   "checked": "2026-11-21T18:06:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T18:01:14+00:00"
+   "checked": "2026-11-21T18:06:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T18:01:14+00:00"
+   "checked": "2026-11-21T18:06:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi blows away entertainment box office sales records according to rockstar games",
+   "title": "'GTA VI' blows away entertainment box office sales records, according to Rockstar Games",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmhHRDI3N3ZoZndFelE0RXZnTzRMN25kVnNhS19MZ1lLX1Rzc1B1TEk0RGlDSkJjV2Q0TVBXeFAwN0RaOE9yODcxYWxMWVF3bDdLaG9XQnFxMFpuT0Fma0Fnd1diUVhfR3dIMjBNYVZEaDRFRC1wdUpwTDRQNnd0bVVhX0oyZ2U1WGstODFxRWFjZw?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-21T17:54:11+00:00",
+   "seen": "2026-11-21T18:06:12+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI blows away entertainment box office sales records, according to Rockstar Games."
+  },
+  {
+   "id": "gta 6 pre loads gave comcast its busiest traffic day since 1963",
+   "title": "GTA 6 Pre-Loads Gave Comcast Its Busiest Traffic Day Since 1963",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14Z0Z3S0VJU21UakFkU0hac3R0akJMdGhpMmx0YlJtU1gtb1dmWXVwcDNjSV9uaGl0Vmo1U3JiY0JibHpkN29lNGNHbTlTYmxJeHg5NXp0d3dYeUw3SEgtTHF4c1FlNlBLbXdjSQ?oc=5",
+   "outlet": "ShiftDelete.Net",
+   "via": "Google News",
+   "published": "2026-11-21T17:53:08+00:00",
+   "seen": "2026-11-21T18:06:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 pre-loads caused Comcast its busiest traffic day since 1963."
+  },
   {
    "id": "gta 6 chapter 3 laptop password how to unlock the laptop in boobie s apartment",
    "title": "GTA 6 Chapter 3 laptop password: How to unlock the laptop in Boobie’s apartment",
@@ -142,6 +168,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The piece notes listening for Kentucky artists on the radio while playing Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 s 3 79 billion day one is bigger than take two s forecast for the whole quarter",
+   "title": "GTA 6’s $3.79 Billion Day One Is Bigger Than Take-Two’s Forecast for the Whole Quarter",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1VST1AwQTAxaExBUVd4VEVfZm1lRlFqUElYYVVaZF80Q3JxRDRCZ0RDOTZxcFZQSFRMX2UzbTNSNW5qTGZJWDZFVS1JV2VmT2Y0amNxM2F1cU0tNFdQTUdEWVZ3YjFXWGNlRjNBdkZlUzRZT2cycktWM1pzeWtNczktWWp6SFNhdmlJTHVrQQ?oc=5",
+   "outlet": "Martin Cid Magazine",
+   "via": "Google News",
+   "published": "2026-11-21T17:42:16+00:00",
+   "seen": "2026-11-21T18:06:12+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6’s day one revenue is bigger than Take-Two’s forecast for the whole quarter."
   },
   {
    "id": "gta 6 welcome to vice city mission walkthrough",
@@ -560,6 +599,19 @@
    "ai_summary": "The story explains how to unlock the Cut-Off Tool to access yellow Scoop containers containing secret stashes and weapons caches in GTA 6."
   },
   {
+   "id": "the real life miami locations that inspired gta 6 s vice city bbcnews",
+   "title": "The real-life Miami locations that inspired GTA 6's Vice City. #BBCNews",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hMnhGZXc0V1c3Tm9vUFp3SEZUUkxmN2J5QVRXMzh4V0xwS2N1YldzeWtHd1JDaDlJQURxVDhHTEtNM3RLd0xjczNkVTNRWGNmdFpVQmFacjhjWHM3ejdF?oc=5",
+   "outlet": "Modern Ghana",
+   "via": "Google News",
+   "published": "2026-11-21T16:30:00+00:00",
+   "seen": "2026-11-21T18:06:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on the real-life Miami locations that inspired GTA 6's Vice City."
+  },
+  {
    "id": "where to get a key cloner in gta 6 to steal premium cars",
    "title": "Where to get a Key Cloner in GTA 6 to steal premium cars",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-key-cloner-how-to-get/",
@@ -883,6 +935,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "An explanation of what you need to do and where to go to finish the Tourist Trap mission in GTA 6."
+  },
+  {
+   "id": "gta 6 draws review bombing on metacritic explained",
+   "title": "GTA 6 Draws Review Bombing on Metacritic: Explained",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkI2emZrblJwek9EMGdxZ2dPZERWQWs2S0k4Vi1OdzZPNzhhamx6RUt6MHNCZUZQbU1pcmdXcEJYeWxOWDliNFBGM1EzTzhxdWdBaDZDblVGd2ItMmJRRGxVa3FWN0p0T1l0T0o2WjdhalZENy00dXI1bGFtazVEUHlpQ0lvS1Rz?oc=5",
+   "outlet": "JournalArta",
+   "via": "Google News",
+   "published": "2026-11-21T15:45:52+00:00",
+   "seen": "2026-11-21T18:06:13+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 drew review bombing on Metacritic and provides an explanation."
   },
   {
    "id": "here s every cheat in gta 6 to get infinite money weapons and vehicles",
