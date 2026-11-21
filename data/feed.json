@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:44:38+00:00",
- "started": "2026-11-21T12:44:31+00:00",
+ "updated": "2026-11-21T12:49:42+00:00",
+ "started": "2026-11-21T12:49:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T12:44:32+00:00"
+   "checked": "2026-11-21T12:49:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T12:44:32+00:00"
+   "checked": "2026-11-21T12:49:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T12:44:33+00:00"
+   "checked": "2026-11-21T12:49:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T12:44:33+00:00"
+   "checked": "2026-11-21T12:49:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T12:44:33+00:00"
+   "checked": "2026-11-21T12:49:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T12:44:33+00:00"
+   "checked": "2026-11-21T12:49:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-21T12:44:34+00:00"
+   "checked": "2026-11-21T12:49:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T12:44:34+00:00"
+   "checked": "2026-11-21T12:49:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T12:44:34+00:00"
+   "checked": "2026-11-21T12:49:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T12:44:34+00:00"
+   "checked": "2026-11-21T12:49:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T12:44:35+00:00"
+   "checked": "2026-11-21T12:49:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T12:44:35+00:00"
+   "checked": "2026-11-21T12:49:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T12:44:35+00:00"
+   "checked": "2026-11-21T12:49:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T12:44:35+00:00"
+   "checked": "2026-11-21T12:49:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "everything to do before the gta 6 tourist trap mission",
+   "title": "Everything to do before the GTA 6 Tourist Trap mission",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tourist-trap/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-21T12:45:47+00:00",
+   "seen": "2026-11-21T12:49:38+00:00",
+   "summary": "Here's everything you should do before the Tourist Trap mission in GTA 6 and end Chapter 1",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists actions to take before the GTA 6 Tourist Trap mission and ending Chapter 1."
+  },
+  {
+   "id": "is jimmy de santa in gta 6",
+   "title": "Is Jimmy De Santa in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NOGl6Nl9kUUdzYlFfNTBndnpQX2dlV0tsMWVmWmR3UDVZdHZnSlFocDc2NEIzZUQyOFZOb2xhNlN4ZGtaaTJpN25EcHBpbGdVTlZCR1Z1THdaQQ?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-21T12:45:10+00:00",
+   "seen": "2026-11-21T12:49:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks whether Jimmy De Santa appears in GTA 6."
+  },
   {
    "id": "gta 6 door code for moses declasse vamos vehicle mission",
    "title": "GTA 6: Door code for Moses’ Declasse Vamos vehicle mission",
@@ -220,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 officially threatens Avengers 5 after beating Brand New Day's box office in one day."
+  },
+  {
+   "id": "gta 6 players are running into npcs who fight back so hard you probably should just leave them alone",
+   "title": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUGVHUGp0ZGxFT19rYWJERFVLQ29IVDZ3b19hZEpSbHdTRnQ0Ti1Wek5hVUEtbmtUQUtLRFZuaDUxMjJuYnplaVdBNlZqb1I3MS1laEk4aGtoNEdVYVpseHV4WnVONzRfdHI1MDhXWmRfTFhfdVBuQm9NOXZRWmFGaGFqbEgzRTN4dEVERndyVG1oM3E3dVl5NUZIQ2xfdFAtdElQM05Eem55WlY4R3p3T1ZwTU5ndFhCRUU3WFlmeEZacHFTS084YkwtNmJoRTJQcDBzOElVUkU0Ym1sQW1xbXhRSms?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-21T12:31:57+00:00",
+   "seen": "2026-11-21T12:49:36+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story notes players encounter NPCs that fight back forcefully and suggests leaving them alone."
   },
   {
    "id": "rockstar wants you to see yourself in gta 6 s jason and lucia",
