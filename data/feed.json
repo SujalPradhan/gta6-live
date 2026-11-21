@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:03:42+00:00",
- "started": "2026-11-21T10:03:37+00:00",
+ "updated": "2026-11-21T10:08:47+00:00",
+ "started": "2026-11-21T10:08:40+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T10:03:38+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T10:08:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T10:03:38+00:00"
+   "checked": "2026-11-21T10:08:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T10:03:39+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T10:08:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T10:03:39+00:00"
+   "checked": "2026-11-21T10:08:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T10:03:39+00:00"
+   "checked": "2026-11-21T10:08:42+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T10:03:39+00:00"
+   "checked": "2026-11-21T10:08:42+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T10:03:39+00:00"
+   "checked": "2026-11-21T10:08:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 17,
-   "checked": "2026-11-21T10:03:39+00:00"
+   "hits": 16,
+   "checked": "2026-11-21T10:08:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T10:03:39+00:00"
+   "checked": "2026-11-21T10:08:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T10:03:40+00:00"
+   "checked": "2026-11-21T10:08:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T10:03:40+00:00"
+   "checked": "2026-11-21T10:08:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T10:03:40+00:00"
+   "checked": "2026-11-21T10:08:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T10:03:40+00:00"
+   "checked": "2026-11-21T10:08:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T10:03:40+00:00"
+   "checked": "2026-11-21T10:08:44+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 earns a record 2 36 billion on its opening day",
+   "title": "GTA 6 earns a record $2.36 billion on its opening day",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0JWdVdyRDhMc2p4b3UxOHRjdUxBelRnTWZReGpWOE5ZSXN5bUFqcGFLSi05NUR4MjBlaWFQWDZ3QU1CRUNlLWVubi1FR2tHdkIxUHhaZVpKaFNwdVhrd05fdUxjclgtTllkS2lGblN2Yk5neTJWRGRfQmtSa1JuU2xGYmpfWU85U0lIcUx2QzI3Rkt0ZUZlMFBiMA?oc=5",
+   "outlet": "The Business Standard",
+   "via": "Google News",
+   "published": "2026-11-21T10:04:51+00:00",
+   "seen": "2026-11-21T10:08:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 earns a record amount on its opening day, according to The Business Standard."
+  },
+  {
+   "id": "gta 6 sets 3 79 billion record in historic console launch",
+   "title": "GTA 6 Sets $3.79 Billion Record in Historic Console Launch",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkw0dmlYczVYY0l3MnJhR0JOWjVLbWhuNVJaWGlnMldfQmM3NXZkZ1Jwd3RkTXViTzAwb29meDFpNS1zdXlPdmNBRWpRMVlGR3BVVVBsV2FMUklqSnVOd0Z0VnRObTQtOEpaS2psZGpLQjVaUm9TQ2steWZKd1o4RVlNdW50eU1Ecl9RU3kwY2RJZjdf?oc=5",
+   "outlet": "streamlinefeed.co.ke",
+   "via": "Google News",
+   "published": "2026-11-21T10:03:00+00:00",
+   "seen": "2026-11-21T10:08:41+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "GTA 6 sets a historic console launch record with a multi-billion figure reported by streamlinefeed.co.ke."
+  },
   {
    "id": "the 9 best things to do in the first 10 hours playing gta 6",
    "title": "The 9 best things to do in the first 10 hours playing GTA 6",
@@ -129,6 +155,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story states that Rockstar explains why players cannot gamble in GTA 6 even though there are two casinos."
+  },
+  {
+   "id": "gta 6 hits more than 2 000 negative metacritic reviews despite a record breaking 32 5 million preorder launch",
+   "title": "GTA 6 hits more than 2,000 negative Metacritic reviews despite a record-breaking 32.5 million preorder launch",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYU8tUl9RVHFZbGZCcU1velprTEtmb0lscWZ3V1loNlV0Sm9QclZJT1lJV1oxdzFkUjN0dklCMFZJY0dQX3NkakJBclpWNDJDTWo4QzdDZF84X0RFSWpzblByWnpLRnBvSzFaX2gyVUJ5REhQcFNPUVhHaHhhcjdyVGkzSnR1UDVlTDZPRE1JZ0VpWDJzV3FBRjY3dTMzZldON2haWG05R3hjTzlvd2FPVmZmd0FQNEplaUJYTGdrR0FyYW9BS25fOHAxZHU5SWg1c3NSc0Zn?oc=5",
+   "outlet": "Soap Central",
+   "via": "Google News",
+   "published": "2026-11-21T09:45:26+00:00",
+   "seen": "2026-11-21T10:08:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 receives over two thousand negative Metacritic reviews despite a record preorder launch of 32.5 million."
   },
   {
    "id": "gta 6 pc gamers welcome unofficial pc port despite potential damage to the industry",
@@ -272,6 +311,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "GTA 6’s livestreaming record beats three launch weeks in two days according to KeenGamer."
+  },
+  {
+   "id": "review grand theft auto 6 a landmark achievement that redefines a console generation",
+   "title": "Review: Grand Theft Auto 6: A Landmark Achievement That Redefines a Console Generation",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUlGd1BESXQ5VFJiUnE5S1BtVTdMU0RMWFJKSnVSR01HZnY3SzVCZW5rX3prb3RSZnpxTDM3MWMxY0Y5SVBpTFZWWjFUMDFkTnVuUzNEOTFUR19mYzFfbjMzQ3ZuRnk4M2g0UHpXSmthcDVuRUYzQ0c4TmF6cU9EeTF5ZnAtODNjYmVuZ1JLSGIwZE5NSlg1cmNKenB5Rk9LYm9Bc2ZrbXI2Y3lsc196UnUxVmtHSkU?oc=5",
+   "outlet": "Digital Foundry",
+   "via": "Google News",
+   "published": "2026-11-21T08:47:18+00:00",
+   "seen": "2026-11-21T10:08:41+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "Review says GTA 6 is a landmark achievement that redefines a console generation."
   },
   {
    "id": "spotify opens a grand theft auto vi music hub in 33 markets",
@@ -480,6 +532,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The headline reports that GTA 6 earned a large amount in one day, surpassing Hollywood blockbusters."
+  },
+  {
+   "id": "to play or not to play players weigh buying in on grand theft auto vi despite lack of a physical copy",
+   "title": "To play, or not to play: Players weigh buying in on ‘Grand Theft Auto VI’ despite lack of a physical copy",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVFCaUVCaHhzYVJZckVzUEczckhyZWdSU2RzZWRQVTJBUF94LUFWTk16LU85MnRXVjFTN2VTd0l1RHBPMThIYnExZnVDUGpfRTRFZDhybU9MNmI2TGVCSllsTGE3anZHNzJEbFI4QU9HdENTUUgxWVZXdEhXRGp0QTZvcnQyQ2RvRjBlTnk0dHFMaVVyQ3IwNXJSMzBDN29nS2N4am93NnNIaXRPVDRJc0FJZzRRUHhHMDVfM1NfTUVqd0dYdTlOeHJR0gHeAUFVX3lxTE9Ja0NQN1dWcUdrVk1LTThUN3FFVGpGQVFOR0RjdVh2cnNJajhRS3RxamFOZTI1TEdDVm5VbldpZTJ3bkk1YnFCeWNZSzBkaGJ0U0VaOVA1eU1vdnhzQ3BOZElPejhmbWxoSEFyUFc2cGFYZzN5cldMQjhiWFBJLTY2ZjNPV3E4d1Ntcmo0Sk5qMkZtSUIyY1pqSU9kb3p3cG5EaFRydVk0Z2QzQ1hOUkJkRVlocDk3RzdyZVhzWmNKR2JrMEU2VnRFWE5EMFRrSFAxM2pGTlNaOTJITnJKQQ?oc=5",
+   "outlet": "Alaska's News Source",
+   "via": "Google News",
+   "published": "2026-11-21T07:44:00+00:00",
+   "seen": "2026-11-21T10:08:41+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Discussion on whether to buy GTA VI given the lack of a physical copy."
   },
   {
    "id": "i spent all night playing gta 6 and these 3 ps5 settings made it look and sound incredible",
@@ -844,6 +909,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story describes spending six dollars on a beer in GTA 6 leading to crime and anxiety."
+  },
+  {
+   "id": "i m playing gta 6 like a law abiding citizen and having more fun than ever",
+   "title": "I’m playing GTA 6 like a law-abiding citizen — and having more fun than ever",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNENwd0djNXVPellNNFRYNHlWOUNTRlBJX3RzdWVaTDY1ajg3cFVKVnN6MkpDdkkwdTJHYkJhdFNjekM5ZUhOa0lKVEx5c3pDeTY0clJwYmo2eUszSEJlX0xPR2xZUFkxdDA5czg0b0piUXcyZGk4c1NielBsQQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-21T06:15:00+00:00",
+   "seen": "2026-11-21T10:08:41+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "Individual reports playing GTA 6 as a law-abiding citizen and enjoying it more than ever."
   },
   {
    "id": "gta 6 sales hit 3 79 billion on day one breaking records",
@@ -1286,6 +1364,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA VI earned 3.79 billion in retail sales on its first day, described as the biggest launch for any entertainment product in history."
+  },
+  {
+   "id": "roblox cfo admits limited data on gta 6 as bofa urges patience",
+   "title": "Roblox CFO admits ‘limited data’ on GTA 6 as BofA urges patience",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmRJU29obFQ1UjBPT3dtN3BreTZlQjJCNFF2T2d3aFdfZUNDbHB5aDhoOXlqNWxETjdRY2dBUm8zUXJnTkJnZjhnYVlZZm1JSGFaN2ItRkcwSnllYWZZdVpKTktWMlVSdEJKQnlKZW1la0o5eHc1U1pObjhfMzNmNUxFb090cFd4T1RUNlI2OWtzWjAtU201SlE1dw?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-21T04:07:00+00:00",
+   "seen": "2026-11-21T10:08:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Roblox CFO notes limited data on GTA 6 as Bank of America advises patience."
   },
   {
    "id": "retailers report gloomy gta 6 physical sales with disc less code in box unpopular",
