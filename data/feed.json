@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T00:00:31+00:00",
- "started": "2026-11-21T00:00:24+00:00",
+ "updated": "2026-11-21T00:05:30+00:00",
+ "started": "2026-11-21T00:05:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:00:24+00:00"
+   "checked": "2026-11-21T00:05:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:00:25+00:00"
+   "checked": "2026-11-21T00:05:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:00:25+00:00"
+   "checked": "2026-11-21T00:05:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T00:00:25+00:00"
+   "checked": "2026-11-21T00:05:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-21T00:00:25+00:00"
+   "checked": "2026-11-21T00:05:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T00:00:26+00:00"
+   "checked": "2026-11-21T00:05:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T00:00:26+00:00"
+   "checked": "2026-11-21T00:05:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T00:00:26+00:00"
+   "checked": "2026-11-21T00:05:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T00:00:27+00:00"
+   "checked": "2026-11-21T00:05:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-21T00:00:27+00:00"
+   "checked": "2026-11-21T00:05:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T00:00:28+00:00"
+   "checked": "2026-11-21T00:05:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T00:00:28+00:00"
+   "checked": "2026-11-21T00:05:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T00:00:28+00:00"
+   "checked": "2026-11-21T00:05:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T00:00:28+00:00"
+   "checked": "2026-11-21T00:05:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi motion capture actor says he kept role a secret for 4 years fox 4 news dallas fort worth",
+   "title": "GTA VI motion capture actor says he kept role a secret for 4 years - FOX 4 News Dallas-Fort Worth",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX19kOFc1MFp3dHZEODZjNnF4X0JhU0YzcGQ3MFRFOWp0c2ZCdnI0T09EY2VCVTJyMWdobTRqMy1PN2VnVmR2a3NKUExXWjd1NENreGhGY214dkw4Nl9kbmpHWWlwY3VFajM2QlU2cklEbzFUTGtTb25uR3dhV2YzREpacDZHUHpOcXRsYVVNM0lobGI4?oc=5",
+   "outlet": "FOX 4 News Dallas-Fort Worth",
+   "via": "Google News",
+   "published": "2026-11-20T23:54:24+00:00",
+   "seen": "2026-11-21T00:05:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The motion capture actor kept his role a secret for four years."
+  },
   {
    "id": "is gta vi the art miami deserves",
    "title": "Is GTA VI the Art Miami Deserves?",
@@ -129,6 +142,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 reportedly sets an entertainment launch record with day-one sales totaling $3.79 billion, as stated by Rockstar."
+  },
+  {
+   "id": "why you shouldn t depend on gta 6 to auto save",
+   "title": "Why You Shouldn't Depend On GTA 6 To Auto-Save",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kV2tjRktERi1VaUNldkFjNXBPeGJQUDRUOVY3SVZlVWFIdy16cHczbU1hYzVOVi13NjlzaGdwZVpZU1FvejhscXY3STJpVVFRUmlwU2dVSkIzLTZDbHEzZjd6MHBjMWF3cFBLUkhJbUl2ZWxQckU2U29NU0lOVDA?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-20T23:48:00+00:00",
+   "seen": "2026-11-21T00:05:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses reasons not to depend on GTA 6 to auto-save."
   },
   {
    "id": "can you fast travel in gta 6",
