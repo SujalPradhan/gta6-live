@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:09:44+00:00",
- "started": "2026-11-21T13:09:38+00:00",
+ "updated": "2026-11-21T13:14:49+00:00",
+ "started": "2026-11-21T13:14:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T13:09:39+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T13:14:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T13:09:39+00:00"
+   "checked": "2026-11-21T13:14:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T13:09:39+00:00"
+   "checked": "2026-11-21T13:14:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T13:09:40+00:00"
+   "checked": "2026-11-21T13:14:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T13:09:40+00:00"
+   "checked": "2026-11-21T13:14:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T13:09:40+00:00"
+   "checked": "2026-11-21T13:14:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-21T13:09:40+00:00"
+   "checked": "2026-11-21T13:14:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T13:09:40+00:00"
+   "checked": "2026-11-21T13:14:46+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T13:09:40+00:00"
+   "checked": "2026-11-21T13:14:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T13:09:41+00:00"
+   "checked": "2026-11-21T13:14:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T13:09:41+00:00"
+   "checked": "2026-11-21T13:14:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T13:09:41+00:00"
+   "checked": "2026-11-21T13:14:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T13:09:41+00:00"
+   "checked": "2026-11-21T13:14:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T13:09:41+00:00"
+   "checked": "2026-11-21T13:14:47+00:00"
   }
  },
  "items": [
@@ -142,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story lists every free Safehouse and Apartment in GTA 6."
+  },
+  {
+   "id": "gta 6 is here what parents need to know before handing over the controller",
+   "title": "GTA 6 is here. What parents need to know before handing over the controller",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxc1hyYkUxWWJ1RXdUdHlyYW82cC1UWEw1OE9mcjNGak4zS0U2Qnk3M2hSc0lyQkdtNC1RaU1aSS1wRGFUSGFVNnFtUGdzWXRmcWQ3NXRQOEpJOTVtOGxnS2xMUGJ4dw?oc=5",
+   "outlet": "MyNorthwest.com",
+   "via": "Google News",
+   "published": "2026-11-21T13:00:07+00:00",
+   "seen": "2026-11-21T13:14:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports what parents need to know before handing over the controller for GTA 6."
   },
   {
    "id": "what song plays during gta 6 s opening sequence",
@@ -3821,6 +3834,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 had a first-day sales milestone of $3.79 billion."
+  },
+  {
+   "id": "gta 6 user review score revealed and it s not good",
+   "title": "GTA 6 User Review Score Revealed, and It’s Not Good",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHJ5NEU5OUh0ZHpVaGdXVjZJZmx4aU5DcFVLY3BMSmppVEl2endFOGpVMFoyU2tIXzRoLWpYZTJPaHZxV1QxNGdEYXVqU1BHaDI0ZkRELXVHY3kzcWc5dGZudmpESmFYazFjdWV4V19XUTFrcWIyVGU5bVgyWURNX1FsNG96OW8xRy1fUXFBaHJYa3c?oc=5",
+   "outlet": "ComicBook.com",
+   "via": "Google News",
+   "published": "2026-11-20T23:27:53+00:00",
+   "seen": "2026-11-21T13:14:44+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports a user review score for GTA 6 has been revealed and it’s not good."
   },
   {
    "id": "how to get the key cloner in gta 6",
