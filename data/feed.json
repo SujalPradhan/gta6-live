@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:01:00+00:00",
- "started": "2026-11-21T17:00:50+00:00",
+ "updated": "2026-11-21T17:06:01+00:00",
+ "started": "2026-11-21T17:05:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T17:00:51+00:00"
+   "hits": 97,
+   "checked": "2026-11-21T17:05:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T17:00:51+00:00"
+   "checked": "2026-11-21T17:05:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T17:00:52+00:00"
+   "checked": "2026-11-21T17:05:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:00:52+00:00"
+   "checked": "2026-11-21T17:05:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T17:00:52+00:00"
+   "checked": "2026-11-21T17:05:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-21T17:00:55+00:00"
+   "checked": "2026-11-21T17:05:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T17:00:55+00:00"
+   "checked": "2026-11-21T17:05:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T17:00:56+00:00"
+   "checked": "2026-11-21T17:05:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:00:56+00:00"
+   "checked": "2026-11-21T17:05:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T17:00:56+00:00"
+   "checked": "2026-11-21T17:05:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T17:00:57+00:00"
+   "checked": "2026-11-21T17:05:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T17:00:57+00:00"
+   "checked": "2026-11-21T17:05:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T17:00:57+00:00"
+   "checked": "2026-11-21T17:05:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T17:00:57+00:00"
+   "checked": "2026-11-21T17:05:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "miami fan s gta 6 sign about lucia goes viral in trending photo from espn college gameday",
+   "title": "Miami Fan's GTA 6 Sign About Lucia Goes Viral in Trending Photo from ESPN College GameDay",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMURIZzFLbHdmUjJTVHBHcmxaQUcwWENlMXdacUVSVmZjWmx4TGsyV1BDeklUaWRKLVNEMHJHNjdLODdXczVlb0gwTHJfWm5Bb2JiYkVQcVpDMDZCS3pfdkZPMGt5VzBXdkNSM3MteXFHa1U2LTNvLU1NenQyb05valZXOGo0UWF6Mm9CTWwyOF82dXM3bS01VDdwcXhZV0ZIQ2ZMLVJFbTNUeTBLcEtGUldjRWhDUGFCOVhtdlJRZ3g4ajQ?oc=5",
+   "outlet": "Bleacher Report",
+   "via": "Google News",
+   "published": "2026-11-21T17:04:32+00:00",
+   "seen": "2026-11-21T17:05:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Miami fan's GTA 6 sign about Lucia goes viral in a trending photo from ESPN College GameDay."
+  },
+  {
+   "id": "these movies inspired gta 6 lucia and jason s story is based on pulp fiction bonnie and clyde and other cinema classics",
+   "title": "These Movies Inspired GTA 6: Lucia and Jason’s Story Is Based on Pulp Fiction, Bonnie and Clyde, and Other Cinema Classics",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMlR4NTlVOVkxQm1vWkRWT0ttd3h5X3RER1V6S09Ib1ppQ1ZmRW1vMmRmdUN6VGgxcUxzQVJ4VndIUExwRV9UalhsQndmOXpLa0dEUlRFOU00ZE9ubXByUzh1YkdGY1NMcnkwZEhLNWFrZm8yc093Q0ZubHZsTzRsRHB2bkIxZlRYN251SE01V3E0VmdKakFaalQ3eTJiNXNzRWN4QnVZaGtHWVNTT3VkaHdNTnRiY1BtNXRSNzFNaVVCSEVoWHItd3k5dDNoZjUxRUtfc3ZpTHJDN0I1bXRjRV9rOE5vQQ?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-21T17:00:00+00:00",
+   "seen": "2026-11-21T17:05:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Movies inspired GTA 6: Lucia and Jason’s story is based on Pulp Fiction, Bonnie and Clyde, and other cinema classics."
+  },
+  {
+   "id": "gta 6 electric cars 120 chargers vs 57 gas stations",
+   "title": "GTA 6 Electric Cars: 120 Chargers vs 57 Gas Stations",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUhUNnZOOUJnRVFIZWR6LThVRFRKVWhzMmJ4YVdxcjRQTC0zOXRBZUxwREVUQVgySDVxbkNHR09WYWozeFduOVVPSHp5T0lQZEU3RWQ2VVVnZ0x1X3N0Y1lxeGRhOWJ1WWtnLTdpR0Z2cmhUT21uZE44Z2E1NVdZWXBmWmpiYk9BOVE?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-21T16:59:23+00:00",
+   "seen": "2026-11-21T17:05:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 electric cars feature 120 chargers versus 57 gas stations."
+  },
   {
    "id": "bill maher says gta 6 release has caused more workplace absences than ice",
    "title": "Bill Maher Says GTA 6 Release Has ‘Caused More Workplace Absences Than Ice’",
@@ -129,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to use auto drive in GTA 6."
+  },
+  {
+   "id": "gta 6 features never before heard song from late r b legend d angelo",
+   "title": "‘GTA 6’ Features Never-Before-Heard Song From Late R&B Legend D’Angelo",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOajZhU0Jjb1hLMXBaaFdjR0M1eDR3LUdlZl9zcW1uTFpqeEhEa1RqZURueEJldkJSV3ZVUFN3bC1INXZZcjlremNreHdjM1QyRUgyRkZoT1JTdGFzZVpVanFmemRDeENUVW1LWEk1M0RVanhvUGFIbk9JOVJwX0NQQ3NqNFU1N2ZMZnBJeg?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-21T16:42:28+00:00",
+   "seen": "2026-11-21T17:05:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 features a never-before-heard song from late R&B legend D’Angelo."
   },
   {
    "id": "gta 6 equipment all 12 pieces of equipment explained and how to unlock them",
@@ -1520,6 +1572,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Sensor Tower reports GTA 6 pre-orders and revenue ahead of launch, according to eGamers.io."
+  },
+  {
+   "id": "pretty wild one gamer is using a neuralink brain implant to play gta 6 and says the chip has opened up a portal to the world",
+   "title": "'Pretty wild': one gamer is using a Neuralink brain implant to play GTA 6 and says the chip has opened up a 'portal to the world'",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbzVCOVpiM09vcTF4THV0TkNjRzR3QTJMRGtuWXNxQktPU2RLNkIwdmx1dFBfME52cWpPRWM3VnVBR2syTTA4M3FtVDM0UjdodHJZMVFSUnQzT0JTdzFVQzBsSkMwRUFQQ2VVM05sRWxXbFo0ZHNIblE4LTN1bmxjQXBTTEZIRmJkbFp5S0htbVVxWkxNVkR1RW1sZGRlY05QNVNGZEFMWmZlN0FrSmV1ZDYzSHFLMkZxajZWNmwxaS1tZTVJREh5TkRjMDBrT1dLeEdCaUh4b1NuRlRHVzBvcVptcHpiZ19Sa3NsNjkyeWJKQnk5WE1NQUUxaGtRaW80UDJSelV3S2g?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-21T13:30:00+00:00",
+   "seen": "2026-11-21T17:05:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A gamer using a Neuralink brain implant says the chip opens up a portal to the world while playing GTA 6."
   },
   {
    "id": "gta 6 launch how gaming shapes us tech policy",
