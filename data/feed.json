@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T05:07:07+00:00",
- "started": "2026-11-21T05:07:01+00:00",
+ "updated": "2026-11-21T05:12:17+00:00",
+ "started": "2026-11-21T05:12:11+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T05:07:01+00:00"
+   "checked": "2026-11-21T05:12:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T05:07:02+00:00"
+   "checked": "2026-11-21T05:12:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T05:07:02+00:00"
+   "checked": "2026-11-21T05:12:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T05:07:02+00:00"
+   "checked": "2026-11-21T05:12:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T05:07:02+00:00"
+   "checked": "2026-11-21T05:12:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T05:07:03+00:00"
+   "checked": "2026-11-21T05:12:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T05:07:03+00:00"
+   "checked": "2026-11-21T05:12:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T05:07:03+00:00"
+   "checked": "2026-11-21T05:12:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T05:07:03+00:00"
+   "checked": "2026-11-21T05:12:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T05:07:04+00:00"
+   "checked": "2026-11-21T05:12:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T05:07:04+00:00"
+   "checked": "2026-11-21T05:12:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T05:07:04+00:00"
+   "checked": "2026-11-21T05:12:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T05:07:04+00:00"
+   "checked": "2026-11-21T05:12:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T05:07:04+00:00"
+   "checked": "2026-11-21T05:12:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks first day sales record with 3 79 billion in revenue",
+   "title": "GTA 6 breaks first-day sales record with $3.79 billion in revenue",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWJKNTRHc0dLLWpQOHdnanpOQU4yLUxVdjdYeGVCYmRCbm1udnNJMWRWcWVoRFRvZ3VsRlZSQ2VyR1UyT1lzSzRva3V6cjJoT2hEdjR2SGJ1WUo1ZFl4WW5QMXF4OEV5R25YWUsydThENWtvN2JzU3JXdDNaOERwUXhXNW1YT2Zwckh5eUVuemNWdDlnMjNr0gGfAUFVX3lxTE5mU2h4WmJuc1o3VGUwenQ1QUQ1NlJpdngyQ1QwdUZGT1pZR1ZyTmFRNHBYeTQzR2laZ2VVSk5Qb2FQVjZISk95amIyUGxqcWdjYWFKZVE2dEF4c2VmWVBES05jSGlWNUlYbXVfS1FGWGhxbVJuZ08tS21nZy1hQ0FkWGt1R0dmRThFNHB2bVpBNmcyVmxVLTZGU0c0U2RRNA?oc=5",
+   "outlet": "Khaleej Times",
+   "via": "Google News",
+   "published": "2026-11-21T05:07:40+00:00",
+   "seen": "2026-11-21T05:12:11+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 breaking first-day sales records with substantial revenue."
+  },
+  {
+   "id": "gta vi had a huge first day take two needs more than a launch",
+   "title": "GTA VI Had a Huge First Day. Take-Two Needs More Than a Launch.",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2p1OElTVnl3b215WnZxQkRtUThSRlFUNC01eExkQTZ5YWpNemRERHFIdTRhOVQwZDdsbzNwUUVtQjJwb2QxX3hKb0JwYTY4R010UWpMSGlwMnB1cU4wS05KRTRwNE1KZlJsZjlDNzZuRGR2WldGUGF4MG84MVNRUVJvdFlCREhhWXZiWA?oc=5",
+   "outlet": "Times Square Chronicles",
+   "via": "Google News",
+   "published": "2026-11-21T05:01:29+00:00",
+   "seen": "2026-11-21T05:12:11+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA VI had a huge first day and that Take-Two needs more than a launch."
+  },
   {
    "id": "gta 6 generates usd 3 79 billion in pre orders first day sales sets new entertainment record",
    "title": "'GTA 6' generates USD 3.79 billion in pre-orders, first-day sales, sets new entertainment record",
@@ -1104,6 +1130,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The motion capture actor kept his role a secret for four years."
+  },
+  {
+   "id": "gta vi motion capture actor says he kept role a secret for 4 years",
+   "title": "GTA VI motion capture actor says he kept role a secret for 4 years",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWkN6Mk9acF92WkpGYjBXTnpDYmdkWmxOWGlaakhjaG5nZjh6LVU2ekVKdTIxRWhuRk9wR3FRXzZwZkRRdWN5TTFkWENYczhmajhZTDFQS2R3ODVkXzEyS2tJZ3Ytc0ZxanVYSVE2dzh5emRPU3Vlb2w1MWNtRm5fMFhvUlVySGlXc25kZnNPdw?oc=5",
+   "outlet": "KTVU",
+   "via": "Google News",
+   "published": "2026-11-20T23:54:24+00:00",
+   "seen": "2026-11-21T05:12:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a motion capture actor kept his role secret for four years."
   },
   {
    "id": "gta vi generates record breaking 3 79 billion on launch day",
