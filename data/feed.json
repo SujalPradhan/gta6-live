@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T00:20:36+00:00",
- "started": "2026-11-21T00:20:30+00:00",
+ "updated": "2026-11-21T00:25:36+00:00",
+ "started": "2026-11-21T00:25:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:20:30+00:00"
+   "checked": "2026-11-21T00:25:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:20:31+00:00"
+   "checked": "2026-11-21T00:25:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:20:31+00:00"
+   "checked": "2026-11-21T00:25:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-21T00:20:31+00:00"
+   "checked": "2026-11-21T00:25:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-21T00:20:32+00:00"
+   "checked": "2026-11-21T00:25:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T00:20:32+00:00"
+   "checked": "2026-11-21T00:25:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T00:20:32+00:00"
+   "checked": "2026-11-21T00:25:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T00:20:32+00:00"
+   "checked": "2026-11-21T00:25:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T00:20:32+00:00"
+   "checked": "2026-11-21T00:25:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-21T00:20:33+00:00"
+   "checked": "2026-11-21T00:25:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T00:20:33+00:00"
+   "checked": "2026-11-21T00:25:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T00:20:33+00:00"
+   "checked": "2026-11-21T00:25:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T00:20:34+00:00"
+   "checked": "2026-11-21T00:25:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T00:20:34+00:00"
+   "checked": "2026-11-21T00:25:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 afternoon delight walkthrough safe code jason s dance choice and rewards",
+   "title": "GTA 6 Afternoon Delight walkthrough: Safe code, Jason’s dance choice and rewards",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-afternoon-delight-walkthrough-safe-code-jasons-dance-choice-and-rewards/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-21T00:22:54+00:00",
+   "seen": "2026-11-21T00:25:32+00:00",
+   "summary": "How to complete GTA 6 Afternoon Delight, and how Jason's choice affects the mission",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to complete GTA 6 Afternoon Delight and how Jason's choice affects the mission."
+  },
   {
    "id": "grand theft auto vi brings in 3 79b in first day retail sales",
    "title": "Grand Theft Auto VI brings in $3.79B in first-day retail sales",
@@ -116,6 +129,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI brings in first-day retail sales of $3.79B."
+  },
+  {
+   "id": "who plays cal hampton in gta 6",
+   "title": "Who Plays Cal Hampton In GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mVlVyZGdjU01wb29kY3JrY3lCeFh3dkoyQ1JqQ3g5R3dvNnVaWV9fc1F4anZZOW9rNTlzRUk0ZEJTal92YTRkbllFWHlPb1d5dUhTb3YtYlJvRy1YT2MtWUF2SzlTb3FjaWR1NzR1Q29zemxJRVE?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-21T00:00:00+00:00",
+   "seen": "2026-11-21T00:25:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks who plays Cal Hampton in GTA 6."
   },
   {
    "id": "gta vi motion capture actor says he kept role a secret for 4 years fox 4 news dallas fort worth",
@@ -272,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to solve all main puzzles in GTA 6's Tenebrae Lux."
+  },
+  {
+   "id": "gta 6 breaks records with 3 79 billion first day sales 93 7 the river",
+   "title": "GTA 6 Breaks Records With $3.79 Billion First-Day Sales - 93.7 The River",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDRleXZ2TWNYYUxtdWxKdy1QdXFHbThjT24tcHhwSDlkbHg1THhyRWxmazRSdXBRT1EyS1g5VDNGeDBENGV4OFdvakJuSEN5Q3hGekpSSmE0ZFlJS3hmcWc1TTN5UW55cXptR3VFN0pBMFFFQ2p6S3RZZzMyc3N4cWN6WGxuWWZ4NE1vOWxuT1lrWFo2WXIteGtnbkY5eGtLb0JIQlkzMA?oc=5",
+   "outlet": "Sacramento's Greatest Hits",
+   "via": "Google News",
+   "published": "2026-11-20T23:29:35+00:00",
+   "seen": "2026-11-21T00:25:31+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 had a first-day sales milestone of $3.79 billion."
   },
   {
    "id": "how to get the key cloner in gta 6",
@@ -1208,6 +1247,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that players have found a costly way to run GTA 6 at 60 FPS."
+  },
+  {
+   "id": "gta 6 workplace shutdowns and gta flu as sales outpace us population",
+   "title": "GTA 6 — Workplace Shutdowns and ‘GTA Flu’ as Sales Outpace US Population",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcEo4RUxZWVVNbGNNMGxIUzl4RlBRY2JEVzBUV1JkMFYwUmMzdlRhSmVnOTJjWW9sdjFCdm85X3c2RGdRVGxQbEFUajhJaE5XZ1dkb0d4ZkxjU0lfMEV5dXVGWllVUmIwNVdDbjRMQ3BkYnJxUmJOelhBVmdFZ2xMczNXeVJXVkk?oc=5",
+   "outlet": "The Korea Daily",
+   "via": "Google News",
+   "published": "2026-11-20T21:41:02+00:00",
+   "seen": "2026-11-21T00:25:31+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story notes workplace shutdowns and GTA Flu as sales outpace the US population."
   },
   {
    "id": "gta 6 in first person is possible thanks to a glitch and here s how to do it",
