@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:37:41+00:00",
- "started": "2026-11-21T06:37:35+00:00",
+ "updated": "2026-11-21T06:42:42+00:00",
+ "started": "2026-11-21T06:42:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:37:35+00:00"
+   "checked": "2026-11-21T06:42:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:37:36+00:00"
+   "checked": "2026-11-21T06:42:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:37:36+00:00"
+   "checked": "2026-11-21T06:42:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T06:37:37+00:00"
+   "checked": "2026-11-21T06:42:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T06:37:37+00:00"
+   "checked": "2026-11-21T06:42:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T06:37:37+00:00"
+   "checked": "2026-11-21T06:42:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T06:37:37+00:00"
+   "checked": "2026-11-21T06:42:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T06:37:38+00:00"
+   "checked": "2026-11-21T06:42:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T06:37:38+00:00"
+   "checked": "2026-11-21T06:42:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T06:37:38+00:00"
+   "checked": "2026-11-21T06:42:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T06:37:38+00:00"
+   "checked": "2026-11-21T06:42:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T06:37:38+00:00"
+   "checked": "2026-11-21T06:42:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T06:37:39+00:00"
+   "checked": "2026-11-21T06:42:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T06:37:39+00:00"
+   "checked": "2026-11-21T06:42:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 sets record with 3 79 billion in day one sales",
+   "title": "‘GTA 6’ sets record with $3.79 billion in day-one sales",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTQ2hramhuV3pTc19BckJlY21yOUNPY0FraXhTUXpPODZ1NjJIX1VXSVA5bDlEMkJTbVZmSElNT0FZT2l4bDZYZ1JlaG1ic053aTFVT09ZUUdoWmMwbTdwcDFuWlJZLV9LeDkwZlJWYnJ0c05aM3Fac1VTc2FsZw?oc=5",
+   "outlet": "Indian Broadcasting World",
+   "via": "Google News",
+   "published": "2026-11-21T06:34:31+00:00",
+   "seen": "2026-11-21T06:42:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 setting a record with day-one sales totaling 3.79 billion."
+  },
   {
    "id": "gta vi earns record 3 79 billion within 24 hours",
    "title": "GTA VI Earns Record $3.79 Billion Within 24 Hours",
@@ -196,6 +209,19 @@
    "ai_summary": "The story notes Grand Theft Auto VI sets first-day sales records."
   },
   {
+   "id": "gta vi puts spotlight on actors behind vice city",
+   "title": "‘GTA VI’ puts spotlight on actors behind Vice City",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWV83NHFCLXZoUkppTDY0S013RHdJMm9OVlFDTkstaUlZeU9xcjYxLW5wZ0lUYkZINUR0aUxHblcwckZHbXpQTGlmTVp4eXJ5UHJvNlViSGx3b2pzY2xHRDRYMldwQUlzSVJmckNfYzBtNmdpak5wSGxhRnIzam1CR0ppSHlxb0RIYi1SazVjWnduS0xrdmhoekhBQlhKSU5mLTJELW53?oc=5",
+   "outlet": "Jamaica Gleaner",
+   "via": "Google News",
+   "published": "2026-11-21T06:06:09+00:00",
+   "seen": "2026-11-21T06:42:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA VI focusing attention on the actors behind Vice City."
+  },
+  {
    "id": "i tried being a law abiding boyfriend in gta 6 until a 6 beer forced me into a life of crime",
    "title": "I Tried Being a Law-Abiding Boyfriend in GTA 6, Until a $6 Beer Forced Me Into a Life of Crime",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDRWcU1HU1hzODRWV0I5UFF4bUNZN2xzTUpKbVhKR1ZrUXU0RVc2SzMwcUVGcHVsMVFKNEFFQTRyTDFaQ0tKZzFTanNXXzJMOUNrUmtxLUFlVExHUTgxeU1ZWV9Ya213RGtwd3N4X3VFLTI4c3FqZGZFb09kVjhxSXBHdmx6STl3NVFSU2FuY1d0NUw2aXlfYw?oc=5",
@@ -246,6 +272,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 shatters sales records and hackers exploit hype with PC malware and corporate phishing."
+  },
+  {
+   "id": "vehicles gta 6 guide",
+   "title": "Vehicles - GTA 6 Guide",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zU2FPX0xaNk9SMnZIcXhCM1U1RGlOX0FjZ0lIVlc4eFVpN21yTlVfWGVHVkw2cFNRVWlXU3kxSkJqSUVMMEh3Q20za1I3M2h0b1E?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-21T05:45:00+00:00",
+   "seen": "2026-11-21T06:42:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 guide focused on vehicles."
   },
   {
    "id": "gta 6 pc port leak 209 gb xbox dump no emulator",
