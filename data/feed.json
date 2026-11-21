@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:05:37+00:00",
- "started": "2026-11-21T16:05:31+00:00",
+ "updated": "2026-11-21T16:10:37+00:00",
+ "started": "2026-11-21T16:10:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T16:05:31+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T16:10:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T16:05:32+00:00"
+   "checked": "2026-11-21T16:10:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T16:05:32+00:00"
+   "checked": "2026-11-21T16:10:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T16:05:33+00:00"
+   "checked": "2026-11-21T16:10:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T16:05:33+00:00"
+   "checked": "2026-11-21T16:10:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-21T16:05:33+00:00"
+   "checked": "2026-11-21T16:10:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 27,
-   "checked": "2026-11-21T16:05:33+00:00"
+   "checked": "2026-11-21T16:10:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-21T16:05:33+00:00"
+   "hits": 17,
+   "checked": "2026-11-21T16:10:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-21T16:05:33+00:00"
+   "checked": "2026-11-21T16:10:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T16:05:34+00:00"
+   "checked": "2026-11-21T16:10:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T16:05:34+00:00"
+   "checked": "2026-11-21T16:10:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T16:05:34+00:00"
+   "checked": "2026-11-21T16:10:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T16:05:34+00:00"
+   "checked": "2026-11-21T16:10:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T16:05:34+00:00"
+   "checked": "2026-11-21T16:10:35+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 s download stampede coincided with two reported de cix traffic records",
+   "title": "GTA 6’s download stampede coincided with two reported DE-CIX traffic records",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9SVjV4RWk5TU5MaFYzRGpDcE5rNkhzMjZYZWw5SjhOb0RrSGpJdHJranBqbkNjaU5jY1lELThQVldRcktuc2k4?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-21T16:09:53+00:00",
+   "seen": "2026-11-21T16:10:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6's download rush coincided with two traffic records at DE-CIX."
+  },
+  {
+   "id": "gta 6 s impact on steam and roblox after record breaking launch revealed",
+   "title": "GTA 6's Impact on Steam and Roblox After Record-Breaking Launch Revealed",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRcUtqb1p3YndzU3pZak9GU0ppM1hnUmFOYWN2dGZjWGZfaXBtTHMtTGtrRlc2c0NzeVppcTZXQzdXaFk3QW1QRldVZjdybWNNRVpqUTE5X3lPalhLN1JLd084bw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-21T16:05:15+00:00",
+   "seen": "2026-11-21T16:10:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6's impact on Steam and Roblox after a record-breaking launch."
+  },
+  {
+   "id": "gta 6 should you mention brian s retirement in swamped",
+   "title": "GTA 6: Should You Mention Brian's Retirement In \"Swamped\"?",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jamJva3VzVktzUGtURnhYYVJ0WU5Vc3ZSMUVCa05jMjVEVU5idG9wREtISFdTSm1GYndFUzViQ0VqWTdJZUNuVDZaRDlNV0tjdDdaTVdqenVLbWxnWWd5Q0tVVTdHUjV4MUpMekh4Ty03X1d3ZDdLNm5R?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-21T16:03:23+00:00",
+   "seen": "2026-11-21T16:10:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks whether you should mention Brian's retirement in Swamped."
+  },
   {
    "id": "poll so what do you think of gta 6",
    "title": "Poll: So, What Do You Think Of GTA 6?",
