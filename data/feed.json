@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:21:23+00:00",
- "started": "2026-11-21T18:21:17+00:00",
+ "updated": "2026-11-21T18:26:26+00:00",
+ "started": "2026-11-21T18:26:20+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-21T18:21:17+00:00"
+   "checked": "2026-11-21T18:26:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T18:21:18+00:00"
+   "checked": "2026-11-21T18:26:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T18:21:18+00:00"
+   "checked": "2026-11-21T18:26:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T18:21:19+00:00"
+   "checked": "2026-11-21T18:26:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T18:21:19+00:00"
+   "checked": "2026-11-21T18:26:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T18:21:19+00:00"
+   "checked": "2026-11-21T18:26:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T18:21:19+00:00"
+   "checked": "2026-11-21T18:26:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T18:21:19+00:00"
+   "checked": "2026-11-21T18:26:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-21T18:21:19+00:00"
+   "hits": 7,
+   "checked": "2026-11-21T18:26:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T18:21:20+00:00"
+   "checked": "2026-11-21T18:26:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T18:21:20+00:00"
+   "checked": "2026-11-21T18:26:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T18:21:20+00:00"
+   "checked": "2026-11-21T18:26:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T18:21:20+00:00"
+   "checked": "2026-11-21T18:26:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T18:21:20+00:00"
+   "checked": "2026-11-21T18:26:24+00:00"
   }
  },
  "items": [
@@ -402,6 +402,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 reportedly sets an entertainment launch record with a reported $3.79 billion."
+  },
+  {
+   "id": "gta 6 launch coincides with de cix traffic record as livestreams reach 7 9 million viewers",
+   "title": "GTA 6 Launch Coincides With DE-CIX Traffic Record as Livestreams Reach 7.9 Million Viewers",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLVpmUGVrZkFQZi1kOTRadG9jekI5VkRmYlZqbUFXVGVHSWZBUkZscWVDckJ6eTdheDQ2cTMxczVxRTIwM3VsYjdEaWpBWXB4N2o5NHJqendTVjJna1RMaERSMWlzM3c0V21JcUdMQk9INEZEcUhkMDJMTVByOGN6bDBSSDMzY3VsczZTTG9PSkZuVlBmUlAxNWZ3bWZxSzVWcUphNEVOUmhMRnhDWmFOdXY4aGlJR200ZE1RQVowc2xHd9IBwgFBVV95cUxPLVpmUGVrZkFQZi1kOTRadG9jekI5VkRmYlZqbUFXVGVHSWZBUkZscWVDckJ6eTdheDQ2cTMxczVxRTIwM3VsYjdEaWpBWXB4N2o5NHJqendTVjJna1RMaERSMWlzM3c0V21JcUdMQk9INEZEcUhkMDJMTVByOGN6bDBSSDMzY3VsczZTTG9PSkZuVlBmUlAxNWZ3bWZxSzVWcUphNEVOUmhMRnhDWmFOdXY4aGlJR200ZE1RQVowc2xHdw?oc=5",
+   "outlet": "mxdwn Games",
+   "via": "Google News",
+   "published": "2026-11-21T17:10:33+00:00",
+   "seen": "2026-11-21T18:26:21+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 launch coincides with a traffic record at DE-CIX and livestreams reach 7.9 million viewers."
   },
   {
    "id": "gta 6 reportedly played using neuralink brain chip in new video",
