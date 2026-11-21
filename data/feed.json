@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:32:44+00:00",
- "started": "2026-11-21T22:32:37+00:00",
+ "updated": "2026-11-21T22:37:40+00:00",
+ "started": "2026-11-21T22:37:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T22:32:38+00:00"
+   "checked": "2026-11-21T22:37:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T22:32:38+00:00"
+   "checked": "2026-11-21T22:37:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T22:32:39+00:00"
+   "checked": "2026-11-21T22:37:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T22:32:39+00:00"
+   "checked": "2026-11-21T22:37:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T22:32:40+00:00"
+   "checked": "2026-11-21T22:37:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T22:32:40+00:00"
+   "checked": "2026-11-21T22:37:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T22:32:40+00:00"
+   "checked": "2026-11-21T22:37:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T22:32:40+00:00"
+   "checked": "2026-11-21T22:37:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-21T22:32:40+00:00"
+   "hits": 8,
+   "checked": "2026-11-21T22:37:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T22:32:41+00:00"
+   "checked": "2026-11-21T22:37:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T22:32:41+00:00"
+   "checked": "2026-11-21T22:37:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T22:32:41+00:00"
+   "checked": "2026-11-21T22:37:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T22:32:41+00:00"
+   "checked": "2026-11-21T22:37:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T22:32:42+00:00"
+   "checked": "2026-11-21T22:37:37+00:00"
   }
  },
  "items": [
+  {
+   "id": "why is gta 6 being review bombed a 5 6 user score on metacritic against a 99 from critics",
+   "title": "Why is GTA 6 being review bombed? A 5.6 user score on Metacritic against a 99 from critics",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2JMbVo2UENTV0tFLVNydTJ0ak9zS3AtQ1lwM24wUkU3VDRwNC1rS29xdGt1bGgwUXZ4aE5ZOGM4TzB0UG8tTmFmSkN5TXZGbmNKOWZHRHJoeHByYlhZZXJrZ2o5bUNILXhoWVBnUzZlZ0w2MWRSc3I3N3h0S0tTWVRYTTdVYXNPMlZkNTdzc3NVSS1BY1dGRFgtckk4RVZieThhNXpOX1l1cDdGR0E?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-21T22:30:51+00:00",
+   "seen": "2026-11-21T22:37:35+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story discusses a disparity between Metacritic user scores and critic scores for GTA 6."
+  },
+  {
+   "id": "where to find the buckingham jubilee in gta 6 randy s wishlist car locations",
+   "title": "Where to Find The Buckingham Jubilee in GTA 6—Randy’s Wishlist Car Locations",
+   "link": "https://insider-gaming.com/where-to-find-the-buckingham-jubilee-in-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-21T22:30:25+00:00",
+   "seen": "2026-11-21T22:37:36+00:00",
+   "summary": "A quick guide on how to find the Buckingham Jubilee car in GTA 6. The post Where to Find The Buckingham Jubilee in GTA 6—Randy’s Wishlist Car Locations appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides a quick guide to locate the Buckingham Jubilee in GTA 6, as part of Randy’s wishlist car locations."
+  },
+  {
+   "id": "gta 6 review score discrepancy players vs critics explored",
+   "title": "GTA 6 Review Score Discrepancy: Players vs Critics explored",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHNlS2RzQ01vTFVna2ZqeTNic1Y2YWlVZTJZTXpsc01MbUFWN2g3Q0Q1aXU0ZVpialVCU0hFamlHWTFVb0tNVDc5MlZCS1NCMmZDM3Y1ZGY0bk5PR3hnUy01Yl9jYmxYUEkySWhoVWxjdm9XRG41bDhESzQxajZ4OGlWUXZOcDBYckduOHlzYmo0b2RC?oc=5",
+   "outlet": "Sportskeeda",
+   "via": "Google News",
+   "published": "2026-11-21T22:29:00+00:00",
+   "seen": "2026-11-21T22:37:35+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story examines differences between GTA 6 review scores from players and critics."
+  },
   {
    "id": "where to find all of randy s wishlist supercars in gta 6 car locations tips",
    "title": "Where to Find All of Randy’s Wishlist Supercars in GTA 6—Car Locations & Tips",
@@ -402,6 +441,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Chess fans notice a glaring mistake in GTA 6 that has been hiding in plain sight."
+  },
+  {
+   "id": "gta 6 sales record the 3 79b day that broke the ruler",
+   "title": "GTA 6 Sales Record: The $3.79B Day That Broke the Ruler",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVzZxRDFpNTl4Z0prN0pMYURDbkRRZmxfeWlvV2VZY1JGSlNTbkxfZjNLZURRckJ4anY5R3NmZ0Z1QmRNSTl6UDVvQUxtVDJsaWxDS01idzdiZDZQT1hTRnBiNzZwRWduREpXMGkyenc5d0VHREhKY0I5SVNxbF9jZVF6dEtvcEhMdUhVRVRUbEswWGF1YThvc3kzVFMxbzVuM0t0Zld5d24welV2dDBoaEQzNHlrTE56WXR1NzZuVG1MREUxX3hz?oc=5",
+   "outlet": "NewsBreak: Local News & Alerts",
+   "via": "Google News",
+   "published": "2026-11-21T21:32:24+00:00",
+   "seen": "2026-11-21T22:37:35+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 sales reaching a high daily total, described as breaking the ruler."
   },
   {
    "id": "who is brycexd inside the new zealand streamer s 40 hour attempt to finish gta 6 first",
