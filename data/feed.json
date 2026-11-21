@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-21T19:52:07+00:00",
- "started": "2026-11-21T19:51:45+00:00",
+ "updated": "2026-11-21T19:56:56+00:00",
+ "started": "2026-11-21T19:56:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-21T19:51:54+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-21T19:56:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-21T19:52:00+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-21T19:56:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-21T19:52:06+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-21T19:56:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T19:52:06+00:00"
+   "checked": "2026-11-21T19:56:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T19:52:06+00:00"
+   "checked": "2026-11-21T19:56:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T19:52:06+00:00"
+   "checked": "2026-11-21T19:56:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T19:52:06+00:00"
+   "checked": "2026-11-21T19:56:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T19:52:07+00:00"
+   "checked": "2026-11-21T19:56:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-21T19:52:07+00:00"
+   "hits": 5,
+   "checked": "2026-11-21T19:56:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T19:52:07+00:00"
+   "checked": "2026-11-21T19:56:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T19:52:07+00:00"
+   "checked": "2026-11-21T19:56:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T19:52:07+00:00"
+   "checked": "2026-11-21T19:56:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T19:52:07+00:00"
+   "checked": "2026-11-21T19:56:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T19:52:07+00:00"
+   "checked": "2026-11-21T19:56:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 officially becomes one of the lowest rated games of the year",
+   "title": "GTA 6 Officially Becomes One of the Lowest-Rated Games of the Year",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWnZtWjluT3Jpc1AtYUFWcG42RjFvVFpvZGlBU05MOEpGdmJPX09SNUk5OVp3dTVjRURGLWowSF9iVGpmSHd0T3FoSGp4Ym5mSnNEZlpyRm9jUEU1eUhuZnFydmFBR3NjRmR4ZUtEcFZCS1RhNmFqa3p2ZzBCcTlNT1VR?oc=5",
+   "outlet": "Comic Book Resources",
+   "via": "Google News",
+   "published": "2026-11-21T19:47:44+00:00",
+   "seen": "2026-11-21T19:56:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 officially becomes one of the lowest-rated games of the year."
+  },
+  {
+   "id": "school offers students 92 reward to keep them from skipping for gta 6",
+   "title": "School Offers Students $92 Reward to Keep Them From Skipping for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamE2YXBrUG56N2pBT3hQcEd1VG9MbVhpdkZnb3pXblp1ZkZmby0ydnBrUU83SEQ4SFNDcDgtbUZVVGQ4SXQtTGJ6X2g2M3QxV3hiOERYckNnUjlpZXhBYWNJdVN3RUtlRm1QeTktdHhfVDdYM2VjVHlldWdZZVQzc2VCSXZvcXRCQmM4enlVbmQtamJzMTNiTmloZ1VMQm96Z3B2cg?oc=5",
+   "outlet": "Parade Magazine",
+   "via": "Google News",
+   "published": "2026-11-21T19:46:45+00:00",
+   "seen": "2026-11-21T19:56:47+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that a school offers students a reward to deter them from skipping for GTA 6."
+  },
   {
    "id": "greene parents concerned about kids playing grand theft auto vi feel like the bad guy",
    "title": "Greene: Parents concerned about kids playing Grand Theft Auto VI feel like the bad guy",
