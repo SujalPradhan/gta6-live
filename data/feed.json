@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:24:34+00:00",
- "started": "2026-11-21T12:24:26+00:00",
+ "updated": "2026-11-21T12:29:36+00:00",
+ "started": "2026-11-21T12:29:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T12:24:27+00:00"
+   "checked": "2026-11-21T12:29:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T12:24:28+00:00"
+   "checked": "2026-11-21T12:29:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T12:24:28+00:00"
+   "checked": "2026-11-21T12:29:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T12:24:29+00:00"
+   "checked": "2026-11-21T12:29:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T12:24:29+00:00"
+   "checked": "2026-11-21T12:29:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T12:24:29+00:00"
+   "checked": "2026-11-21T12:29:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-21T12:24:30+00:00"
+   "checked": "2026-11-21T12:29:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T12:24:30+00:00"
+   "checked": "2026-11-21T12:29:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T12:24:30+00:00"
+   "checked": "2026-11-21T12:29:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T12:24:31+00:00"
+   "checked": "2026-11-21T12:29:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T12:24:31+00:00"
+   "checked": "2026-11-21T12:29:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T12:24:31+00:00"
+   "checked": "2026-11-21T12:29:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T12:24:31+00:00"
+   "checked": "2026-11-21T12:29:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T12:24:31+00:00"
+   "checked": "2026-11-21T12:29:34+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 launch costed the us around a billion dollars in productivity",
+   "title": "GTA 6 launch costed the US around a billion dollars in productivity",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekZFWVhDVV9xdU9rd2hGNm9HYnptTzd6QVRNV00xRTc3ekFJZ2hfQUF2a2lPU2Framp2M2I2WEJ1elBzM0xIbk45RURxZmwzeF9UeVNwMjRYRXBORXdfR0lMNXpfcGNmUDJEaGxlUDVNQXFWMDJvZE4zdjVFdVVXMzc2X1lUM3RRY1VRX0Z5QkhzdHFEVU9UR2diUWl6dGp0YjRhZTFKeEtDdkNORTN1bkR2Zi15bElWX0ltcTBhSQ?oc=5",
+   "outlet": "WHIO TV",
+   "via": "Google News",
+   "published": "2026-11-21T12:28:11+00:00",
+   "seen": "2026-11-21T12:29:29+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 launch cost the US around a billion dollars in productivity."
+  },
   {
    "id": "grand theft auto vi rakes in billions",
    "title": "Grand Theft Auto VI rakes in billions",
@@ -116,6 +129,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI rakes in billions."
+  },
+  {
+   "id": "grand theft auto vi smashes records with usd 3 79 bn in day one retail sales",
+   "title": "Grand Theft Auto VI smashes records with USD 3.79 bn in day-one retail sales",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ081Z2gtRnpnMFhLa0tlV0NjZGx5VjBkWWZYcnp1bGdWdTNLc3Y5SVZqWW9VOUhzcnlZVG1BZXJFWmgyeWdlWlU4dlNkVjZ6TWJ5QUFEMmlYX25qaTN2N0RWMzJoczFuZ3djWEN2TnlwS2pwWU5BQ2dwQnJ2Nkg5dGZ4Nmh1R1Boa202Vk1fcWo0SGxtci1KeU9fbHRyMS1yWkVtSmFnYnN1bkpndDVCMk1DZmkxaEgyWGZHcEJ30gHLAUFVX3lxTE5RNmlVejhLWkZrZlhTT3V1ajg5bTNFOXZkQnRtTjBOOWVfWFN5LXgxX0ZGWlUzd0RJX2VqWjhwV2pXZ2FJcEp1Y0lFNS1RRGJDME9vYzZUQjViV1hUZ1JUMWZCbS1MMlhUb3FTbTdJSllfcF9VTXl0TzRyNlpZUUNiY09uVEttdUY3MElBd3lOVnJHQ2l5SlBZWmoxN1h6YUQ2LVktODZSMnl4SWtfQ1AzaC1fb3dvUW56cG9ZeU5kZVBwR1N0VzQzQVNz?oc=5",
+   "outlet": "Deccan Herald",
+   "via": "Google News",
+   "published": "2026-11-21T12:18:01+00:00",
+   "seen": "2026-11-21T12:29:29+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports Grand Theft Auto VI had day-one retail sales totaling 3.79 billion USD, smashing records."
   },
   {
    "id": "gta 6 generates 3 79 billion in first day sales with 32 5 million copies sold before launch",
