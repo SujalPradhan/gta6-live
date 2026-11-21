@@ -1,109 +1,174 @@
 {
- "updated": "2026-11-21T13:05:12+00:00",
- "started": "2026-11-21T13:04:46+00:00",
+ "updated": "2026-11-21T13:09:44+00:00",
+ "started": "2026-11-21T13:09:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-21T13:04:54+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-21T13:09:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-21T13:05:02+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-21T13:09:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-21T13:05:10+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-21T13:09:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-21T13:05:10+00:00"
+   "hits": 8,
+   "checked": "2026-11-21T13:09:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T13:05:10+00:00"
+   "checked": "2026-11-21T13:09:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T13:05:10+00:00"
+   "checked": "2026-11-21T13:09:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-21T13:05:10+00:00"
+   "checked": "2026-11-21T13:09:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T13:05:11+00:00"
+   "checked": "2026-11-21T13:09:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T13:05:11+00:00"
+   "checked": "2026-11-21T13:09:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T13:05:11+00:00"
+   "checked": "2026-11-21T13:09:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T13:05:12+00:00"
+   "checked": "2026-11-21T13:09:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T13:05:12+00:00"
+   "checked": "2026-11-21T13:09:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T13:05:12+00:00"
+   "checked": "2026-11-21T13:09:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T13:05:12+00:00"
+   "checked": "2026-11-21T13:09:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi on xbox series x can run faster than 30 fps using quick resume",
+   "title": "GTA VI on Xbox Series X can run faster than 30 FPS using Quick Resume",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjVVYy1fZG5XRWhXeEt4SlY1TjNaZkl2RjF3UnlDOGVCUEl5X2JCTHg2Z3p5bVNHN0s5bUEta3VTRThtN1lpeEtBU0N4R1haWXk0XzJMMTE4cms5U1VVbTJYdkNDbWVzNVVKWnhQUGo1NTFYYTdBcW1JOUVpeEtPNUltdkRhMUFnbFFmN1NfTVNfZ0M1eENKbkxTNmlvZTN1QXh3cFlFbVpidE0?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-21T13:06:27+00:00",
+   "seen": "2026-11-21T13:09:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI on Xbox Series X can run faster than 30 FPS using Quick Resume."
+  },
+  {
+   "id": "where to find the pegassi tempesta supercar in gta 6 randy s wishlist car locations",
+   "title": "Where to Find The Pegassi Tempesta Supercar in GTA 6—Randy’s Wishlist Car Locations",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYjZwb0NlWVVsQUxWVjJhTHZfUTU4VXRNTEozWm8xMnRjVmZxQkpUckNZQlc1eElnMkVXT18ySndMRk5HdzNKTVVjaDBNYllFa0lwOHc5TndUYVJXOEFHelBGc0dvTlAyam1BdVk4TXE0Y3AwdUMzdXQzX212ejBWeTZTVQ?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-21T13:03:02+00:00",
+   "seen": "2026-11-21T13:09:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports locations for the Pegassi Tempesta Supercar in GTA 6 according to Randy’s Wishlist."
+  },
+  {
+   "id": "gta 6 every free story safehouse apartment",
+   "title": "GTA 6: Every Free Story Safehouse & Apartment",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YYWkyVDUzS0o1QUo5dWI2VjFLOHk3b2FrQ2ttTGpoZEdoaHFxcDh3OFk2TXdkUU16T2ozQ0FmOTZ4UHR5eG80bXZ0QVk1WHd5SHNuYUxTZUE0MktjLXBXRFhn?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-21T13:00:18+00:00",
+   "seen": "2026-11-21T13:09:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists every free Safehouse and Apartment in GTA 6."
+  },
+  {
+   "id": "what song plays during gta 6 s opening sequence",
+   "title": "What Song Plays During GTA 6's Opening Sequence?",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wVkRxNHp5MTFCcXRlY2swUVpicGloQll5R1g5VHFOcnF3dlQxV01vU0RrRkJFWV9ySzJoYW1uWlY5X2NHOVlsTExyTmJyRGVVQXlaRWh0QUctaU5aQ21JQjd1UTZsaWc?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-21T13:00:00+00:00",
+   "seen": "2026-11-21T13:09:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story identifies the song playing during GTA 6's opening sequence."
+  },
+  {
+   "id": "grand theft auto vi sets record with 3 79b in first day retail sales rockstar games reports herald banner",
+   "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports - Herald-Banner",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1RzV1lPMzc5ekRzUjMwNUtyS2dqWWc3R285WmdsU1gtWlN3ZWJmTVczNUxGWFFRSGwydG9DUFZMZ0VTZG1vbWl6WDdVa1c0QlNFMU9oT3hCYk5VeUVlY3FvZkxDbzlTYlNMQlpQeHZheHRYcVEzZFRPbnRqQ0NQTGRlNjNEMWpKTTZUNTZIMEpFQ1k2TlV1REhhZjRrSlJBS3dtOEVRVlZ6LVpGWXlhbjFKNnRlbmR1TkZOc2g1QnFZOWJVUjR0WVpER1VaQ1BjTXZLWENBcC01WXp1cnVOVkh0ZHd1dTFTVHc2dFhjdXE?oc=5",
+   "outlet": "Herald-Banner",
+   "via": "Google News",
+   "published": "2026-11-21T13:00:00+00:00",
+   "seen": "2026-11-21T13:09:39+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI set a record with first-day retail sales of $3.79 billion, per Rockstar Games."
+  },
   {
    "id": "gta vi first day sales 3 79b 4 7x gta v",
    "title": "GTA VI First-Day Sales: $3.79B, 4.7x GTA V",
@@ -155,6 +220,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "GTA 6 reportedly features the series' first non-binary character, played by Jesse James Rose, who portrays a museum curator."
+  },
+  {
+   "id": "gta 6 has the series first non binary character and the actor says players can t hurt them",
+   "title": "GTA 6 has the series' first non-binary character, and the actor says players can't hurt them",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU28xSGo2NW9lMHY4SXBJZEF2Q0M0bzNvUUFEamttbnVxUG0zaVpfeXd6Qk5QM2hRRXFFOVQ4RTdQT0xSSE9JVWJnRTQzOGRkWlRVNk91SWtjSHptSkZLYVpuS1JWWmJiRkNvWlR5ZmR0dkFYaHdWc1ZSdDI4Zy1QcQ?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-21T12:50:00+00:00",
+   "seen": "2026-11-21T13:09:39+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story notes GTA 6 has the series' first non-binary character, with the actor stating players can't hurt them."
   },
   {
    "id": "everything to do before the gta 6 tourist trap mission",
@@ -519,6 +597,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions why GTA VI costs so much to play."
+  },
+  {
+   "id": "gta 6 obliterates every movie box office record with 3 79b on day one",
+   "title": "GTA 6 Obliterates Every Movie Box Office Record With $3.79B On Day One",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYm1GSGpQYXEyclM2ckVhNHNjY3pqVTZfS1JrUHVHejctZElwWFFLTjcySzA2YkZjWnRORXUwZERiWE9mbEg2Zm0ycXNNcmdLSElRUHJMSzZqRHRKQW1UcHlHaEdhT01DVTIyaWlUYmcxSE1fUGFRLWpwTFBpcnpYUE50cElYcUhndG1xSnFxRDY?oc=5",
+   "outlet": "HotHardware",
+   "via": "Google News",
+   "published": "2026-11-21T12:07:00+00:00",
+   "seen": "2026-11-21T13:09:39+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 obliterated every movie box office record with $3.79B on day one."
   },
   {
    "id": "the best gta 6 jokes are funny even if you haven t played it",
