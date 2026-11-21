@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:47:42+00:00",
- "started": "2026-11-21T06:47:39+00:00",
+ "updated": "2026-11-21T06:52:52+00:00",
+ "started": "2026-11-21T06:52:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:47:40+00:00"
+   "checked": "2026-11-21T06:52:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T06:47:40+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T06:52:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:47:41+00:00"
+   "checked": "2026-11-21T06:52:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T06:47:41+00:00"
+   "checked": "2026-11-21T06:52:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T06:47:41+00:00"
+   "checked": "2026-11-21T06:52:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T06:47:41+00:00"
+   "checked": "2026-11-21T06:52:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T06:47:41+00:00"
+   "checked": "2026-11-21T06:52:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T06:47:41+00:00"
+   "checked": "2026-11-21T06:52:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T06:47:41+00:00"
+   "checked": "2026-11-21T06:52:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T06:47:42+00:00"
+   "checked": "2026-11-21T06:52:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T06:47:42+00:00"
+   "checked": "2026-11-21T06:52:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T06:47:42+00:00"
+   "checked": "2026-11-21T06:52:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-21T06:47:42+00:00"
+   "hits": 5,
+   "checked": "2026-11-21T06:52:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T06:47:42+00:00"
+   "checked": "2026-11-21T06:52:50+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi release sparks excitement at bradley university spotlights growing world of esports",
+   "title": "Grand Theft Auto VI release sparks excitement at Bradley University, spotlights growing world of esports",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN1llQkxRU2ZTcDd1YnFsQWxJQ0MwYzZkRVRxMXk0LXBfSUJZaEIzRE9idlZCXzVhN1puZklpMVFiZ3hGOHI2Znh1OWoyMm9yMTQ2WWduVXZJOWhEaG5nTS03bXdsT3lmR0w5ZGxQSVNBcFhOWmVLMjVxVzlyYkJZRlpaV0xsdVJYZE1QUU1INFFydVZ3N3FWbWZPMWRoNjNuVGlKSzZURkxnTGREVG44aDNSdjVGR080LWZKM3NUOHFxVEFUdEU5ZlNsakgwTE810gHkAUFVX3lxTE9FSzVjR1dFSGxsVUxydTlLUDJxWTMtNU1pRDhvQzZLSURTWmlhTzV2aHIxdlUtbTJVTkFDZFo2eFZLTEFXSzFsMEtacVozX0UwTzBYSS1zQmpXZGpXMjBIbmhkR2JvU3ozUjN1bjZjcXMweGJHV3hPaVZsWlk3SWMyR0E2bnZka2xZS2o0RDg1TVFWVXVSXzRPTjFPOTZNN3lfbGVPdW1Eei0tZmVnYWZIVHlQU3E3SEp1Qy1QNWRVNTJ1b0E4d3BHRXZOY0llTVIyN3hWa1Y1cVNDSllodzIyZFpETA?oc=5",
+   "outlet": "WEEK | 25 News Now",
+   "via": "Google News",
+   "published": "2026-11-21T06:39:00+00:00",
+   "seen": "2026-11-21T06:52:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The release of Grand Theft Auto VI sparks excitement at Bradley University and highlights the growing world of esports."
+  },
   {
    "id": "gta 6 sets record with 3 79 billion in day one sales",
    "title": "‘GTA 6’ sets record with $3.79 billion in day-one sales",
@@ -441,6 +454,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports GTA VI had a huge first day and that Take-Two needs more than a launch."
+  },
+  {
+   "id": "gta 6 s final screenshot batch is here discussingfilm reports",
+   "title": "GTA 6’s final screenshot batch is here, DiscussingFilm reports",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wQ2ptU1c1MldvQlRmQmRIQWh0YU1qUHAtdUluLUxjQzFEN0h5VWNUcnV5UVJ6blpVT0VNUmJESHlDcU9qTHZEdHdEeTlfWlJL?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-21T04:56:01+00:00",
+   "seen": "2026-11-21T06:52:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6’s final screenshot batch is reported by DiscussingFilm."
   },
   {
    "id": "gta vi nears 4b launch boosts take two",
