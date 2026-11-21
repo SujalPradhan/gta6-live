@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:57:45+00:00",
- "started": "2026-11-21T22:57:39+00:00",
+ "updated": "2026-11-21T23:02:46+00:00",
+ "started": "2026-11-21T23:02:40+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T22:57:40+00:00"
+   "checked": "2026-11-21T23:02:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T22:57:40+00:00"
+   "hits": 100,
+   "checked": "2026-11-21T23:02:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T22:57:41+00:00"
+   "hits": 97,
+   "checked": "2026-11-21T23:02:41+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T22:57:41+00:00"
+   "checked": "2026-11-21T23:02:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T22:57:41+00:00"
+   "checked": "2026-11-21T23:02:42+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T22:57:41+00:00"
+   "checked": "2026-11-21T23:02:42+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T22:57:42+00:00"
+   "checked": "2026-11-21T23:02:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T22:57:42+00:00"
+   "checked": "2026-11-21T23:02:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T22:57:42+00:00"
+   "checked": "2026-11-21T23:02:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T22:57:43+00:00"
+   "checked": "2026-11-21T23:02:43+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T22:57:43+00:00"
+   "checked": "2026-11-21T23:02:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T22:57:43+00:00"
+   "checked": "2026-11-21T23:02:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T22:57:43+00:00"
+   "checked": "2026-11-21T23:02:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T22:57:44+00:00"
+   "checked": "2026-11-21T23:02:44+00:00"
   }
  },
  "items": [
+  {
+   "id": "users have shared instructions for running gta vi at 60 frames per second on xbox series x",
+   "title": "Users have shared instructions for running GTA VI at 60 frames per second on Xbox Series X.",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzI3RnNaLXNLNzk2RTBxYWptR3U3NHRkckw3LUR1MV9faUZMc0xEc2tKdkV0X2hDMXlxY09DNnhKbWotcTFDOVN4QkdiRlIwWmx3V3Nsc3A1SjJsdkViLWhsSkE2cGZ1Q05mOGZpOHc2VUV4VTkxTHl6SXJONzdJVGRvanZvWGsyMGJlWG1NTEo3SDIwcHVJNWRpY1MtcEZVc0lTS1czdmhrTk9jdmNjYmx0WVFiRDM1OTdrXw?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-21T22:59:17+00:00",
+   "seen": "2026-11-21T23:02:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports users sharing instructions for running GTA VI at 60 frames per second on Xbox Series X."
+  },
   {
    "id": "gta 6 meet the heders walkthrough find and open the scoop container",
    "title": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container",
@@ -454,6 +467,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 features a hidden event where players are kidnapped and placed in a real-life Hunger Games scenario."
+  },
+  {
+   "id": "comcast at peak gta 6 accounted for nearly a quarter of all internet traffic",
+   "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JxVGVCeWNZRFJTQmNOX25LUDFMT0t4SzNmZjN0aHByMzRpOHdBTDhnUVRsUWNOVE1xRWpxWHNCUldrMDA4S0hJa2h6U0E5Z3JkYlNaeGllY3ZvUjJzZF94VU9jVXBIX3BaUEFmWGd6ZWFZY3ctSTRzNktuRlVCT0p3dlc2bVlnYXo3VV9vLXUydU8xZnpUMnJSNTNybHNhbkFRZWZSWWVsV0lmYmNVRnRjYTZaSXBTdmtYWXRMYjU?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-21T21:42:29+00:00",
+   "seen": "2026-11-21T23:02:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports Comcast noting GTA 6 at peak accounted for nearly a quarter of all internet traffic."
   },
   {
    "id": "gta 6 players report crashes on ps5 with error ce 108255 1",
@@ -7762,6 +7788,19 @@
    "ai_summary": "The story reports seven changes in Grand Theft Auto VI that make the game harder than any previous GTA."
   },
   {
+   "id": "gta 6 sells 2 36b in digital copies on launch day nearly triple gta v s first day sales",
+   "title": "GTA 6 sells $2.36B in digital copies on launch day, nearly triple GTA V's first-day sales.",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNndmemRzdV9Tc0kwNWJSVy1Xamp6VDBPUWpDZnFQV3gzTUdXZDJBTVlRcTRzb0ZFaVpYSWhhV2p3Mmc5VmhwX21URW5CWmNHaHQ0UVg5TF9MSjNaZ1RpU0M2Y2FlcTkxM3luVU9nTkdDT29VZkxsWU5jVGMtZXNmZktlMlR6WDRtUzduRnhSRGN0a21YTV9xeUxzSnFqN2M?oc=5",
+   "outlet": "Pluang",
+   "via": "Google News",
+   "published": "2026-11-21T01:00:00+00:00",
+   "seen": "2026-11-21T23:02:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 selling $2.36B in digital copies on launch day, nearly triple GTA V's first-day sales."
+  },
+  {
    "id": "gta 6 sales hit nearly 4b on day one setting a new record for take two interactive",
    "title": "GTA 6 sales hit nearly $4B on day one, setting a new record for Take-Two Interactive.",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDktNFhUc1ByZDRKckRvNXlORGtBQkp3Sl9OcUFMV0Y4S1gzbDFOQmtOS1RVZU5PenRvT3VsMVNxUURoVEZjaFB0TWt5STJIUEdIZGhONmFaSktvNGNKN0d5Ry1udl9rLTRwYUhBYm1OMnlhMFZlUWZiSHVtMEZ3WkpyY3g0WFhaWDR6bA?oc=5",
@@ -7877,6 +7916,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to complete GTA 6 Afternoon Delight and how Jason's choice affects the mission."
+  },
+  {
+   "id": "gta 6 reviews hail the greatest video game ever made",
+   "title": "GTA 6 Reviews Hail the Greatest Video Game Ever Made",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ObXEtVUlDT2Ezd1ktYlAxdHZZdDFMNVh4ekxUOWZIUEFUUnN0anZpWnhMbEJrOWwtR1Z6X3VvLUkzZ3ozdnYzR0pnampmTUkwX2tfa1hOOWxQdw?oc=5",
+   "outlet": "Back to the Movies",
+   "via": "Google News",
+   "published": "2026-11-21T00:13:45+00:00",
+   "seen": "2026-11-21T23:02:41+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 reviews praising it as the greatest video game ever made."
   },
   {
    "id": "gta 6 players report ps5 and xbox crashes with a sink blocking one player s story",
