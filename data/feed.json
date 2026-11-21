@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:48:05+00:00",
- "started": "2026-11-21T23:47:59+00:00",
+ "updated": "2026-11-21T23:53:06+00:00",
+ "started": "2026-11-21T23:53:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T23:48:00+00:00"
+   "checked": "2026-11-21T23:53:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T23:48:00+00:00"
+   "checked": "2026-11-21T23:53:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T23:48:00+00:00"
+   "checked": "2026-11-21T23:53:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T23:48:01+00:00"
+   "checked": "2026-11-21T23:53:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T23:48:01+00:00"
+   "checked": "2026-11-21T23:53:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T23:48:01+00:00"
+   "checked": "2026-11-21T23:53:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T23:48:01+00:00"
+   "checked": "2026-11-21T23:53:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T23:48:02+00:00"
+   "checked": "2026-11-21T23:53:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T23:48:02+00:00"
+   "checked": "2026-11-21T23:53:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T23:48:02+00:00"
+   "checked": "2026-11-21T23:53:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T23:48:02+00:00"
+   "checked": "2026-11-21T23:53:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T23:48:02+00:00"
+   "checked": "2026-11-21T23:53:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T23:48:02+00:00"
+   "checked": "2026-11-21T23:53:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T23:48:02+00:00"
+   "checked": "2026-11-21T23:53:04+00:00"
   }
  },
  "items": [
@@ -233,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses selecting the best speakers and gaming headsets for GTA VI on PS5 and Xbox to enhance sound in Vice City."
+  },
+  {
+   "id": "nashville rapper young buck s music featured in grand theft auto vi",
+   "title": "Nashville Rapper Young Buck’s Music Featured in Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzlZMkJZUVRPLXBMQUx6bTJaWTBzM2RkWmhSbDNjUlFMRlY1WXduRko5UkNSRThRVmVtRC15NEh1Rk1xd2I0Tl9HMGFNNHpBNW1Xb0l5NDZ4eXRpY3hiNGRhcDFoWWQzdmJ5ZVNEUFZtclNYUWZ0ZWpsdHoxeGszdFJzeHZaOTFvUEJQTUNNc2dqRVE?oc=5",
+   "outlet": "The Tennessee Tribune",
+   "via": "Google News",
+   "published": "2026-11-21T22:42:13+00:00",
+   "seen": "2026-11-21T23:53:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports that Nashville rapper Young Buck’s music is featured in Grand Theft Auto VI."
   },
   {
    "id": "why is gta 6 being review bombed a 5 6 user score on metacritic against a 99 from critics",
@@ -1574,6 +1587,19 @@
    "ai_summary": "The guide explains how to obtain a Rhino Tank in GTA 6, described as challenging."
   },
   {
+   "id": "gta vi sets entertainment sales record with 3 79 billion dollars",
+   "title": "GTA VI Sets Entertainment Sales Record With 3.79 Billion Dollars",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtSXp5d19MaUZEdnE2YXg2QWV5dHd3NVZkdmEyM3YzM1NDa2JiSXFvMkdmb2IwQzRKM3B6MlFKdXJSZ3JvajZvdmZLajZxT3UzeWFlOEJZWXpQR1hOTkFfaFpNMTMxdw?oc=5",
+   "outlet": "bsinews.id",
+   "via": "Google News",
+   "published": "2026-11-21T18:26:00+00:00",
+   "seen": "2026-11-21T23:53:02+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The headline reports that GTA VI sets an entertainment sales record with 3.79 billion dollars."
+  },
+  {
    "id": "gta 6 leak tied to 15 million crypto goal as pirated build spreads",
    "title": "GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVnVYYVYwY1RNMkVBVlowZDJ0anQ0elU0ODJpZ3N3R19ucG5oeTdTQzRHY3p3SktmZGUteGVVSjlRekRsR1BEN3U3d2h0V013QUVNSnJsaXVTY1lrZUtLOFVQWkFfX3c1YzBpZ0xwNjF5WHJrX1E?oc=5",
@@ -1949,6 +1975,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story outlines how to keep the Highwayman Sanchez Dirt Bike Billy gives you in GTA 6."
+  },
+  {
+   "id": "gta 6 breaks all time record sales reach incredible 3 8 billion in just one day",
+   "title": "\"GTA 6\" breaks all-time record — sales reach incredible $3,8 billion in just one day",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd2hfc004S0RqdkhPNHA0YVhDeThySi1QRTY5WlFPVEgtU1lwMjZkVHNDeDVtLVhNVkRDWG9xNFlLWDJmT1dqbEc1WmhEem0wVjB1VWVJeXpRMm5qb3oxMElfZGZ2MzFtRE1yYjV2RVBQY01ra3JzY3RzSmFsNU5Ya1ZFdWYtMFhDLVlkWjhlVkhwZ1pnMmNRMmxyUlNuZDQ0NS01akQzM0kwVXNNdWl0TDgtZW1NV29Kb0hWUjVDWjB4eC1VR3Fr?oc=5",
+   "outlet": "Слободен печат",
+   "via": "Google News",
+   "published": "2026-11-21T17:30:37+00:00",
+   "seen": "2026-11-21T23:53:02+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The headline reports that GTA 6 breaks the all-time record with sales reaching 3.8 billion in one day."
   },
   {
    "id": "gta 6 hits 3 8 billion in first day retail sales",
@@ -6668,6 +6707,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA VI outsold every movie, album, and game launch ever."
+  },
+  {
+   "id": "gta 6 netherlands is the most obsessed country with the game",
+   "title": "GTA 6: Netherlands is the most obsessed country with the game",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVhHWmZxZV9HZy1PZUpQT2ppM0tpYXAyX0RXTm5WSGtFaWlvcXFkOWVCSk9QM2pkQ0dEVVlDTDRHcUVmTnJvdVNlbHJ5cTc4R2RFNTdRQUdvaWdDWDY1cVlrdC1MNjd1VXVmdmZDNHZHYkp0VTJYV21hMnNaSVlpQkYwcFBsejEyZ3ppWW10LWsxc2taRWVGT2hvT1ZoSzhfVXU2ZzQ0a2pJQ2RXV21fMlNn0gG3AUFVX3lxTE11Tk5tVnpVNlBZU0xNVDI4eVlKU3hvYXdMOE1XWmREY3R4b21zUG16QktFY1JDa3RUdmVPT2tFMXJ1TUlrUmcyWGI1OVBqYjFQZVlVaGYwWnJHTkNoUEtXZFFPbThTVGpYM1VHQnNQTG55aURITGZtV3hzMGFSMTlNQUh5elRoUTROeTJqZmt3Uk9kVW1qUEE0enJVSzNwMUF5RU5sdURsM1BJQ1V4TUp2bW5QM21Ldw?oc=5",
+   "outlet": "News9live",
+   "via": "Google News",
+   "published": "2026-11-21T05:47:10+00:00",
+   "seen": "2026-11-21T23:53:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports that the Netherlands is the most obsessed country with the game GTA 6."
   },
   {
    "id": "as gta 6 shatters sales records at 3 79b hackers exploit hype with pc malware corporate phishing",
