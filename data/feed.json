@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:52:04+00:00",
- "started": "2026-11-21T04:51:59+00:00",
+ "updated": "2026-11-21T04:57:09+00:00",
+ "started": "2026-11-21T04:57:03+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T04:51:59+00:00"
+   "checked": "2026-11-21T04:57:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T04:52:00+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T04:57:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T04:52:00+00:00"
+   "checked": "2026-11-21T04:57:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T04:52:00+00:00"
+   "checked": "2026-11-21T04:57:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T04:52:00+00:00"
+   "checked": "2026-11-21T04:57:05+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T04:52:01+00:00"
+   "checked": "2026-11-21T04:57:05+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T04:52:01+00:00"
+   "checked": "2026-11-21T04:57:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T04:52:01+00:00"
+   "checked": "2026-11-21T04:57:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T04:52:01+00:00"
+   "checked": "2026-11-21T04:57:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T04:52:01+00:00"
+   "checked": "2026-11-21T04:57:07+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T04:52:02+00:00"
+   "checked": "2026-11-21T04:57:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T04:52:02+00:00"
+   "checked": "2026-11-21T04:57:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T04:52:02+00:00"
+   "checked": "2026-11-21T04:57:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T04:52:02+00:00"
+   "checked": "2026-11-21T04:57:07+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 is described as the biggest entertainment launch in history with $3.79 billion in sales."
+  },
+  {
+   "id": "us internet providers record busiest day as gta 6 drives record usage world news",
+   "title": "US internet providers record ‘busiest day' as GTA 6 drives record usage | World News",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1FWUkhNV1ZjSHVOTlBLeU45X2RWVnBNSFBLUnFVTGlaSlRuTjEyTzZ2emJQYWR4VVBlR0o2a1ZTRkpVTzRYbFZucVFPUHp1Q1pTeFNsVm1xa29BRk95bmFfZFlaSW5pX3ZJbElPX3ROWVlueUxQOGxCZmRsV3hmWUFnZUYwRXNMVkVETXI4VzV5N3o1NWRfQnUxVWx0bEp5VkFEcVZjbHNOVVN4UjNzeC0yNmxYcEFTckJYN2M3cTVtSmlRemFsNWU1YWbSAdIBQVVfeXFMTkU2RVlXelRHSUQyRUlqQ1I2VXB3YlBHa1l0MmVPNE9QeUdFNG4tYzJiN29qektkbnlHYURVR05yY3RZUjNLdXNwcXMtQlBjQ3Qtb2U4bkxlaGFnMi1sdkk3ajdlZHlVWVRtM25SbXFnS1RObFp5bkRidnVMS0pid1owSUh6U0tpaTZVWHdXSXBYS1hqTDA2SlcxbTZpaGgyanRkdzRJRVlYOUNaTkh2d0U0YWRhTnZZQmIycXFUdEVIX1FGMzdvRnZCeW1pN0dHa3p3?oc=5",
+   "outlet": "Hindustan Times",
+   "via": "Google News",
+   "published": "2026-11-21T04:35:56+00:00",
+   "seen": "2026-11-21T04:57:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that US internet providers record their busiest day as GTA 6 drives record usage."
   },
   {
    "id": "gta vi why 30 fps is suddenly being celebrated as art",
