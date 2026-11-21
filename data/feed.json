@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:02:25+00:00",
- "started": "2026-11-21T06:02:21+00:00",
+ "updated": "2026-11-21T06:07:23+00:00",
+ "started": "2026-11-21T06:07:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:02:22+00:00"
+   "checked": "2026-11-21T06:07:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T06:02:22+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T06:07:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:02:22+00:00"
+   "checked": "2026-11-21T06:07:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T06:02:23+00:00"
+   "checked": "2026-11-21T06:07:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T06:02:23+00:00"
+   "checked": "2026-11-21T06:07:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T06:02:23+00:00"
+   "checked": "2026-11-21T06:07:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T06:02:23+00:00"
+   "checked": "2026-11-21T06:07:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T06:02:24+00:00"
+   "checked": "2026-11-21T06:07:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T06:02:24+00:00"
+   "checked": "2026-11-21T06:07:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T06:02:24+00:00"
+   "checked": "2026-11-21T06:07:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T06:02:25+00:00"
+   "checked": "2026-11-21T06:07:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T06:02:25+00:00"
+   "checked": "2026-11-21T06:07:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T06:02:25+00:00"
+   "checked": "2026-11-21T06:07:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T06:02:25+00:00"
+   "checked": "2026-11-21T06:07:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "i tried being a law abiding boyfriend in gta 6 until a 6 beer forced me into a life of crime",
+   "title": "I Tried Being a Law-Abiding Boyfriend in GTA 6, Until a $6 Beer Forced Me Into a Life of Crime",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDRWcU1HU1hzODRWV0I5UFF4bUNZN2xzTUpKbVhKR1ZrUXU0RVc2SzMwcUVGcHVsMVFKNEFFQTRyTDFaQ0tKZzFTanNXXzJMOUNrUmtxLUFlVExHUTgxeU1ZWV9Ya213RGtwd3N4X3VFLTI4c3FqZGZFb09kVjhxSXBHdmx6STl3NVFSU2FuY1d0NUw2aXlfYw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-21T06:00:00+00:00",
+   "seen": "2026-11-21T06:07:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports a person becoming involved in crime after a six-dollar beer challenges their law-abiding girlfriend persona in GTA 6."
+  },
+  {
+   "id": "who is rupa biswas meet the bengali singer behind gta 6 s 40 year old disco track aaj shanibar",
+   "title": "Who Is Rupa Biswas? Meet The Bengali Singer Behind GTA 6's 40-Year-Old Disco Track, 'Aaj Shanibar'",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0x6U3ZiaU5TTXJlRzM3NVpOM0sxN0swQnBYOVdSNGtmcHQyLVN0ZkR2Z2ZJaWJabFUtbmxKdFAySzNUdTdXS0IwbFRQNWlRM0JMZGx5MTBMVmNNTVE0QVNLSnU4b3NGc1YwUHk4bUR1TzZfV3oyRFcwSmpGc0l3MzJWdkfSAYoBQVVfeXFMT0xNSk1CZHZHQzVTU3NzMWI4T1oyZDdZRW5zQ3FFSXhpdTR3VmRBbmtTTEdpYnAxaEY0UXdvcjJoMU5EQkxKU1ZnRE1VTmJROFAtb1VfV01QUXJSb1o4NU9YeHpSVE5qUWtxbTdMS0dKSFA4Sl8wWGF2M3RjNS15NWh3Q1NvTTVsS0JR?oc=5",
+   "outlet": "BollywoodShaadis",
+   "via": "Google News",
+   "published": "2026-11-21T05:59:24+00:00",
+   "seen": "2026-11-21T06:07:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story introduces Rupa Biswas, described as the Bengali singer behind GTA 6's disco track 'Aaj Shanibar'."
+  },
   {
    "id": "gta vi just outsold every movie album and game launch ever",
    "title": "GTA VI just outsold every movie, album, and game launch ever",
