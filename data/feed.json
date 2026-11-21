@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:06:48+00:00",
- "started": "2026-11-21T04:06:44+00:00",
+ "updated": "2026-11-21T04:11:59+00:00",
+ "started": "2026-11-21T04:11:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T04:06:44+00:00"
+   "checked": "2026-11-21T04:11:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T04:06:45+00:00"
+   "checked": "2026-11-21T04:11:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T04:06:45+00:00"
+   "checked": "2026-11-21T04:11:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T04:06:46+00:00"
+   "checked": "2026-11-21T04:11:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T04:06:46+00:00"
+   "checked": "2026-11-21T04:11:54+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T04:06:46+00:00"
+   "checked": "2026-11-21T04:11:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T04:06:46+00:00"
+   "checked": "2026-11-21T04:11:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T04:06:47+00:00"
+   "checked": "2026-11-21T04:11:55+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T04:06:47+00:00"
+   "checked": "2026-11-21T04:11:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T04:06:47+00:00"
+   "checked": "2026-11-21T04:11:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T04:06:48+00:00"
+   "checked": "2026-11-21T04:11:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T04:06:48+00:00"
+   "checked": "2026-11-21T04:11:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T04:06:48+00:00"
+   "checked": "2026-11-21T04:11:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T04:06:48+00:00"
+   "checked": "2026-11-21T04:11:56+00:00"
   }
  },
  "items": [
+  {
+   "id": "retailers report gloomy gta 6 physical sales with disc less code in box unpopular",
+   "title": "Retailers report gloomy GTA 6 physical sales, with disc-less code-in-box unpopular",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZDM5cXZoNzBhcW95WkoxS2h5ejlobVcxejI0X1pjb2h5NVBRMlJIS1VTUC1Wc19Nd09WQ0RwOUk5WUNNMEZFZzc1WVNYVm5jc3FRWUlweDVMbjVWMW0xTWktbDZWUFRrUWhtZnluY0pwc3FMcnRqeTEtNEEyT3ZDN24wOW1La0dQcGswV2pTWFhOVmNEbjAxS2l3WWxzLUhrVE1sdTROLXVWakxrbS0yS2V4VXluWVRTNkNnTFFIMXo5OHNO?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-21T04:03:00+00:00",
+   "seen": "2026-11-21T04:11:54+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Retailers report a gloomy GTA 6 physical sales performance and code-in-box formats being unpopular."
+  },
+  {
+   "id": "gutfeld how worse is gta 6 than real life",
+   "title": "Gutfeld: How worse is GTA 6 than real life?",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHpPZDlRWVBFQ3QyaFVBeFFtQ3pEd05IRjB2Z08xWEx1OGxBRUhTTkJrNHBEcGZpVEdiM1dObVJ5NWcwUHN5WG5LZ2ZhUFNWRHVURkJB?oc=5",
+   "outlet": "Fox News",
+   "via": "Google News",
+   "published": "2026-11-21T03:56:36+00:00",
+   "seen": "2026-11-21T04:11:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions how GTA 6 compares to real life on Fox News."
+  },
   {
    "id": "a new record for entertainment grand theft auto vi sales hit 3 8bn on first day of release developer says",
    "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
@@ -129,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Chris ‘Mad Dog’ Russo rants about GTA 6 and urges gamers to read a book."
+  },
+  {
+   "id": "bill maher gets big laughs with hunter biden jab during gta vi discussion",
+   "title": "Bill Maher Gets Big Laughs With Hunter Biden Jab During GTA VI Discussion",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNThjVFcyUy1PMjd3YlRwbWdSaUdoYUVUbVVvVUJ2bFkyWjh4U1JQbHlsS3g4MUpGMWNiU2kteUFwTUVEeFh0bzA3Ml85ZlNlQThtU0JxLVUxZ25fMExHV0p1YWtSclAzbWlsNmFsdDZfTk9uWDVBMnZyYnZDa3d5SzVONTBFY2p2S1BHb2gyUGVtNy1TZ09VQWJxd2o?oc=5",
+   "outlet": "TheWrap",
+   "via": "Google News",
+   "published": "2026-11-21T03:48:12+00:00",
+   "seen": "2026-11-21T04:11:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Bill Maher delivers jokes about Hunter Biden during a GTA VI discussion."
   },
   {
    "id": "gta 6 cast celebrity cameos bobby moynihan bad bunny and more",
