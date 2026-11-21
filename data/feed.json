@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:27:52+00:00",
- "started": "2026-11-21T23:27:48+00:00",
+ "updated": "2026-11-21T23:32:55+00:00",
+ "started": "2026-11-21T23:32:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T23:27:48+00:00"
+   "checked": "2026-11-21T23:32:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T23:27:49+00:00"
+   "checked": "2026-11-21T23:32:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-21T23:27:49+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T23:32:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T23:27:49+00:00"
+   "checked": "2026-11-21T23:32:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T23:27:50+00:00"
+   "checked": "2026-11-21T23:32:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T23:27:50+00:00"
+   "checked": "2026-11-21T23:32:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T23:27:50+00:00"
+   "checked": "2026-11-21T23:32:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T23:27:50+00:00"
+   "checked": "2026-11-21T23:32:51+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T23:27:51+00:00"
+   "checked": "2026-11-21T23:32:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T23:27:51+00:00"
+   "checked": "2026-11-21T23:32:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T23:27:51+00:00"
+   "checked": "2026-11-21T23:32:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T23:27:52+00:00"
+   "checked": "2026-11-21T23:32:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T23:27:52+00:00"
+   "checked": "2026-11-21T23:32:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T23:27:52+00:00"
+   "checked": "2026-11-21T23:32:53+00:00"
   }
  },
  "items": [
@@ -558,6 +558,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "GTA 6 players report PS5 crashes associated with error CE-108255-1."
+  },
+  {
+   "id": "gta 6 has a 99 from critics and a 5 6 from players and zelda is paying for it",
+   "title": "GTA 6 has a 99 from critics and a 5.6 from players, and Zelda is paying for it",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KZjR2ajRrX1QtVjU2XzUySXhWbTM4Q3FIM283akpBTXBXT18zT0tJTHlwVVFwMnNmVldxOWpxdDNybkM5eXJMdm9GSDlqckMxa2NQbXZvY1FmSUFoa2VKQUlqd3JGN2VaSzZITlZpd21KdUdyV2xn?oc=5",
+   "outlet": "astig.ph",
+   "via": "Google News",
+   "published": "2026-11-21T21:37:34+00:00",
+   "seen": "2026-11-21T23:32:49+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 has mixed reception from critics and players, with a hint that Zelda is involved financially."
   },
   {
    "id": "gta 6 officially confirms satoru gojo actor in the game after wild reveal",
@@ -1379,6 +1392,19 @@
    "ai_summary": "The story reports GTA VI achieving record sales and a theater release for Sunrise on the Reaping."
   },
   {
+   "id": "the backstage experience the hunger games i play rocky gta 6",
+   "title": "The Backstage Experience: The Hunger Games, I Play Rocky, GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VTzhhd3FaU21TbEJMVUNiVVRkVFNLd2FhUFYteVU5S05LY09ObDNFMXNWQ2lGNkZNM1J4RUMwMVNxa09XR0VaLTBYWGQ2RDNpOVVPOFgyWTBweDM3OUtLZjU5RWdjQdIBa0FVX3lxTE9xRUVhdXJvWFpyTGlnekZNVHpkSDRGN2J1RVNjS3MwVnZMNHhnaXQ1dF9MWG5HMUtBWER1d2hSUFNlcVNXdXVCZ0NIU3oxLS12ckM0RG91NUxEMUpJNmJwc2pCWUQ5eGNoc3Jz?oc=5",
+   "outlet": "FOX 13 Seattle",
+   "via": "Google News",
+   "published": "2026-11-21T18:49:21+00:00",
+   "seen": "2026-11-21T23:32:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a backstage experience titled The Hunger Games, I Play Rocky, GTA 6."
+  },
+  {
    "id": "neuralink participant showcases what it s like to play gta 6 with his mind",
    "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemxUX1hTeE9tTk1oV28yUjU1ZGVDcVozRHEyd0lFVXFNRThKMV9jblFDeVBnRjRXaFhvZUcxeU1oVng2dHdib29PZ3V0TUhsYnVkUEVlWGxoMW02YnZJVVNyZzF0aUtxYW9sTVpVbDNRalVldWJMV2RWNDJqUUtSVnl2VHd3NXNOczlLcEhrTERVX2FpZDRNOWp5bVJQZm93T194NA?oc=5",
@@ -1741,6 +1767,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that Peter Moore says GTA VI is a shot in the arm for six groups."
+  },
+  {
+   "id": "peter moore hopes gta vi is a shot in the arm for 6 groups",
+   "title": "Peter Moore Hopes GTA VI Is a Shot in the Arm for 6 Groups",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxoXzJNVDc4dC05QTZMUDVLbTExVWN1Mi0xM2lvamZyZWhRanJ1VTIxOGZEYjU5djBXSG1NektzY3hwQ21abjRSY3BYTkR0czg3YmFjd0QzaGljb2g4OHF0R29neXJaTUZlUHYwazFiTEtnVjNVWmRPNzJmOUNqSWhR?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-21T17:49:23+00:00",
+   "seen": "2026-11-21T23:32:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports Peter Moore hopes GTA VI will benefit six groups."
   },
   {
    "id": "maga rep says he believes bad parents let their kids play gta 6",
@@ -2963,6 +3002,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "GTA 6 user ratings are reported to trail critics on Metacritic."
+  },
+  {
+   "id": "gta 6 faces review bombing as metacritic score falls",
+   "title": "GTA 6 Faces Review Bombing as Metacritic Score Falls",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QM1NISGZZRW94T3dpMkZTWkFzNExPcXQ3SlRubW9MR3J2VWR6MTBLZW9MRTc2THQ5ZHRQbGNNcFNRaGdScW5ZZ3hLZmlPY0tHZnd5TGk0VFRnWDNRd1N4RFN3QlJ0NHc?oc=5",
+   "outlet": "SuaraGarut.ID",
+   "via": "Google News",
+   "published": "2026-11-21T15:20:12+00:00",
+   "seen": "2026-11-21T23:32:49+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 facing review bombing as its Metacritic score declines."
   },
   {
    "id": "neuralink shares gta vi brain implant demo with the control setup still unclear",
