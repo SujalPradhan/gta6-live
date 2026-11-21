@@ -1,106 +1,106 @@
 {
- "updated": "2026-11-21T05:02:05+00:00",
- "started": "2026-11-21T05:02:01+00:00",
+ "updated": "2026-11-21T05:07:07+00:00",
+ "started": "2026-11-21T05:07:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-21T05:02:01+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-21T05:07:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-21T05:02:01+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-21T05:07:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T05:02:02+00:00"
+   "checked": "2026-11-21T05:07:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T05:02:02+00:00"
+   "checked": "2026-11-21T05:07:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T05:02:02+00:00"
+   "checked": "2026-11-21T05:07:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T05:02:03+00:00"
+   "checked": "2026-11-21T05:07:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T05:02:03+00:00"
+   "checked": "2026-11-21T05:07:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T05:02:03+00:00"
+   "checked": "2026-11-21T05:07:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T05:02:03+00:00"
+   "checked": "2026-11-21T05:07:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T05:02:04+00:00"
+   "checked": "2026-11-21T05:07:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T05:02:04+00:00"
+   "checked": "2026-11-21T05:07:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T05:02:05+00:00"
+   "checked": "2026-11-21T05:07:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T05:02:05+00:00"
+   "checked": "2026-11-21T05:07:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T05:02:05+00:00"
+   "checked": "2026-11-21T05:07:04+00:00"
   }
  },
  "items": [
@@ -350,6 +350,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to listen to music outside of your car in GTA 6."
+  },
+  {
+   "id": "grand theft auto vi 2026",
+   "title": "Grand Theft Auto VI (2026)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1N3J5QWEzQTBYQWkxaUljRzZVdU5qUThZSHhzUWZEcmtFdE1yN1dmY1FSdVpqeUJNdHQzajlTODFXekJTRUhwNTZ4bEhHcXpWWVhwV3g4Rk1VcUNOZTBGNkEyNnVOaUlYN2s3ODZlRnU?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-21T03:06:59+00:00",
+   "seen": "2026-11-21T05:07:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on Grand Theft Auto VI with the year 2026."
   },
   {
    "id": "gta 6 smashes records 3 8 billion on first day alone biggest entertainment launch ever",
@@ -714,6 +727,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports six signs that Grand Theft Auto VI is affecting your relationship with your partner."
+  },
+  {
+   "id": "grand theft auto vi shatters records on release day",
+   "title": "Grand Theft Auto VI shatters records on release day",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBodUdrSDUtUW0wM0hrbmg5N0wwb2RTRkZGZkhBMTV5d09HVlBVR3JERnA2NDNCQVpoblhzQkRON3RtSHVtOGRzUG1uZ0swdWlqcm9tck5pSlpjLWpVeW9ya0ZEaDJZd9IBa0FVX3lxTE0wc0FNczEyOWdIeFhaT0pGQmlsTTBERnpvS1VyXzJwZ3pDTE5kekJCaWN1OU5WUUFRSGNNZkNYOXBxamtrNkVVdEtWREh0NVFoanRCcXNfSFFJcHVQUDkxYVJNRVJiVGIzX0Nz?oc=5",
+   "outlet": "FOX 13 Seattle",
+   "via": "Google News",
+   "published": "2026-11-21T01:23:35+00:00",
+   "seen": "2026-11-21T05:07:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI shatters records on release day."
   },
   {
    "id": "gta 6 checking out walkthrough",
@@ -1117,6 +1143,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 reportedly sets an entertainment launch record with day-one sales totaling $3.79 billion, as stated by Rockstar."
+  },
+  {
+   "id": "experts have tips for parents to navigate hype around gta vi and its mature content 13wham tv",
+   "title": "Experts have tips for parents to navigate hype around 'GTA VI' and its mature content - 13WHAM-TV",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNekdGOHJNZld3RGtuRDhIbTVWbnBDdkxNczVpYWNzSUZuSFkxLXI5ZmpjRC05RjJfQTkwdzY5NEw0MFhfR0U0eTlJZl9wTUlMcjBBc2JFektvS2VKYWwtdkdwdnhQeVBoX1hqdjVndGh5VW5HcFBlLWlsNkwyZEgtUXFKUTZhU2RpbGZUSXF5aDdJaXFrdEZsSUFMT3ZvQVpMNnpXakJQTVVMcVlER08xa29RVS10WERFaVlFNUlfZ2lERm4xUTRPS19BT29uNkxoRkt5NkE1TkI0YmUy?oc=5",
+   "outlet": "13WHAM-TV",
+   "via": "Google News",
+   "published": "2026-11-20T23:48:50+00:00",
+   "seen": "2026-11-21T05:07:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports experts offering tips for parents to navigate hype around GTA VI and its mature content."
   },
   {
    "id": "why you shouldn t depend on gta 6 to auto save",
