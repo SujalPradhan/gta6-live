@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:23:50+00:00",
- "started": "2026-11-21T10:23:45+00:00",
+ "updated": "2026-11-21T10:28:49+00:00",
+ "started": "2026-11-21T10:28:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T10:23:45+00:00"
+   "checked": "2026-11-21T10:28:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T10:23:45+00:00"
+   "checked": "2026-11-21T10:28:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T10:23:46+00:00"
+   "checked": "2026-11-21T10:28:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T10:23:46+00:00"
+   "checked": "2026-11-21T10:28:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T10:23:46+00:00"
+   "checked": "2026-11-21T10:28:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T10:23:47+00:00"
+   "checked": "2026-11-21T10:28:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T10:23:47+00:00"
+   "checked": "2026-11-21T10:28:46+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T10:23:47+00:00"
+   "checked": "2026-11-21T10:28:46+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T10:23:47+00:00"
+   "checked": "2026-11-21T10:28:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T10:23:47+00:00"
+   "checked": "2026-11-21T10:28:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T10:23:48+00:00"
+   "checked": "2026-11-21T10:28:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T10:23:48+00:00"
+   "checked": "2026-11-21T10:28:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T10:23:48+00:00"
+   "checked": "2026-11-21T10:28:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T10:23:48+00:00"
+   "checked": "2026-11-21T10:28:47+00:00"
   }
  },
  "items": [
+  {
+   "id": "veyra 2 2 0 expands gta 6 launch capabilities on pc via playstation 5",
+   "title": "Veyra 2.2.0 expands GTA 6 launch capabilities on PC via PlayStation 5",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXhoZ2JURmxmRV9VZ3hOYjN0b1B0Q29kb1RZelIwWFlFX09EakV0VWxiYW9pV0FrdHBlMnpKNnhsRk5Tdlk5dDZ2QUdiVng0T001dHBOMGFuT3VUTG5vOE9SLVRaVGxkWFdWbV9SRXE5OXBKd2VORWNfSEZtX2dKLWV1OGRGMHhPdnlVb2F1NThINU1QS21USlRLN21XR193eVpsWnlETWo5Z2t4S3c?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-21T10:26:13+00:00",
+   "seen": "2026-11-21T10:28:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Veyra 2.2.0 expands GTA 6 launch capabilities on PC via PlayStation 5."
+  },
+  {
+   "id": "greek pm faces backlash for promoting mature content gta vi as christmas gift for children",
+   "title": "Greek PM faces backlash for promoting mature-content GTA VI as Christmas gift for children",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0SXh4TG9LaXZPRm41MmNjVzFWMm5QS1JnSWpiakFaMlpNRTJURVIxTWM4NGVVdDdBUWVxN2F0NXBJZDFyYXEtbUNUb0tLRUFvN3N3OFM0emM?oc=5",
+   "outlet": "TRT World",
+   "via": "Google News",
+   "published": "2026-11-21T10:25:50+00:00",
+   "seen": "2026-11-21T10:28:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that the Greek prime minister faces backlash for promoting mature-content GTA VI as a Christmas gift for children."
+  },
   {
    "id": "gta vi generates 3 8 billion dollars on launch day",
    "title": "GTA VI Generates 3.8 Billion Dollars on Launch Day",
@@ -246,6 +272,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story lists the nine best activities to do during the first hours of playing GTA 6."
+  },
+  {
+   "id": "your teen wants to play gta 6 here s what to know",
+   "title": "Your teen wants to play 'GTA 6'. Here's what to know.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzROMEFsLVVMX2hwVENZSFkwbnNEZXdRNVNOdFE4enMxWG5xWDM4UTlvUXhyclZvZVRHTi1qVzZaT3RHRFlIZ3QyMGlMNUpnMmJLaEtBRHc2em9qZEFCRXNuaEpfeU9ZQ3FwclZUZU56QlFrY1BjRE9Eak1QbWtpRkgyTDNKYjMwUGs3TFN3?oc=5",
+   "outlet": "Mashable SEA",
+   "via": "Google News",
+   "published": "2026-11-21T10:00:00+00:00",
+   "seen": "2026-11-21T10:28:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports guidance for parents about teen interest in playing GTA 6."
   },
   {
    "id": "rockstar explains why players can t gamble in gta 6 despite there being two casinos",
