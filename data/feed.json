@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:37:26+00:00",
- "started": "2026-11-21T21:37:19+00:00",
+ "updated": "2026-11-21T21:42:24+00:00",
+ "started": "2026-11-21T21:42:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T21:37:20+00:00"
+   "checked": "2026-11-21T21:42:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T21:37:21+00:00"
+   "checked": "2026-11-21T21:42:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T21:37:21+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T21:42:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T21:37:21+00:00"
+   "checked": "2026-11-21T21:42:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T21:37:21+00:00"
+   "checked": "2026-11-21T21:42:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T21:37:22+00:00"
+   "checked": "2026-11-21T21:42:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T21:37:22+00:00"
+   "checked": "2026-11-21T21:42:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T21:37:23+00:00"
+   "checked": "2026-11-21T21:42:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T21:37:23+00:00"
+   "checked": "2026-11-21T21:42:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T21:37:23+00:00"
+   "checked": "2026-11-21T21:42:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T21:37:23+00:00"
+   "checked": "2026-11-21T21:42:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T21:37:24+00:00"
+   "checked": "2026-11-21T21:42:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T21:37:24+00:00"
+   "checked": "2026-11-21T21:42:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T21:37:24+00:00"
+   "checked": "2026-11-21T21:42:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 players report crashes on ps5 with error ce 108255 1",
+   "title": "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRktianZoYXhHZEc4bWcxalpmVDJkdHhRa3lXOWxTVU9NLUxtNE1IbHZNeDRMMTg3TXFhU09odmNMYUVINTc3N3JWRkVnMGRXUzg1ckQwUzNyM2ZseEZwZHR4UDZjTFVnRE11akEzazUyay1zZ0ltUVNJYW5IdDdiazg0MjRyaU51RGJkM3duVGU?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-21T21:37:37+00:00",
+   "seen": "2026-11-21T21:42:17+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "GTA 6 players report PS5 crashes associated with error CE-108255-1."
+  },
+  {
+   "id": "gta 6 officially confirms satoru gojo actor in the game after wild reveal",
+   "title": "GTA 6 Officially Confirms Satoru Gojo Actor in the Game After Wild Reveal",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OZ0FuelhNUnlKV0lKamktM1JrUHZqUHFnYURLMXA4S25BdkI5Mm1rcmhzOENMZmI0Nm1GaGdtQXlJSG1WQWVseDhRT0ZEXzhTcUh6dGxtOGFtV0tqdjF3OVpR?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-21T21:37:20+00:00",
+   "seen": "2026-11-21T21:42:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 officially confirms the Satoru Gojo actor in the game after a reveal."
+  },
+  {
+   "id": "gta 6 chess board mistake spotted",
+   "title": "GTA 6 Chess Board Mistake Spotted",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85ZkdrWDR0MWxRRE1fb0hJbjVUb2NXdXhoUnJkZVlScExHQWQ0N3RvVnNnWk1tZkZicEtfTGlOS3ZZNVRzLXFDWTVqeHU4MTJBSGhHRU1n?oc=5",
+   "outlet": "GameByte",
+   "via": "Google News",
+   "published": "2026-11-21T21:35:31+00:00",
+   "seen": "2026-11-21T21:42:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 chess board mistake has been spotted."
+  },
+  {
+   "id": "who is brycexd inside the new zealand streamer s 40 hour attempt to finish gta 6 first",
+   "title": "Who is BrycexD? Inside the New Zealand streamer’s 40-hour attempt to finish GTA 6 first",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNUh3Qlh3VTNxVUt1Yzh3bGd4U1NKMHc4SGcxd0pvZG1Yd0VST0xIdU5SVGNQWl9OaVVaVU1HYjFoanVidGcxMjFHN1JqN0daZko3bjFJdE10T2JLR0k0VVVIaVZ3OXdHcGpHZjZSS0JldFgwdzhKOUppd1ZJZ1NpN2VWSVFBVEZVZ2N3a2RPQ2Z0TDlkRzRmT3NkOFRxYUhtMkRQRW9yNTJMRUFRNUdzY2hEVElaN1hmdjRjRHNuQ25Ra1QyTlVid0NiMWprUC1oOFYzSi1FWEFkS3p4T3djTFRmZXlyWjhnNEh2enZ1WkpoZUFNQW1KbTlR0gH_AUFVX3lxTE5LUWdCQ2ZYU2hNLWp0SmJLZUJFcmNMNzZLVVB2ajZaamd6TGpnVFo2MmxVbWdDc3V6Q2czWS01eXlMUFY1T1p0d0hiTl9paEp5TmoxUklFcnpiMjI1ckVJd0xoam5RS0d2RzAxSmtDMy1ybHpSZzVRVkh0eWozemNVTmozYXM4XzE2N1ZpR0dYY19qYjEwLXJFeTNBWURhaENOVzQ4UWpiMWplNnNYRFpLcFA4VUVWQ1psLW9QZ21KLXhWaGVjbWtIU3dMMUlvdmhZTHFKTlE4WVZIalBRWC1maDVIQjZELXpxY2ZEYkhteXZQcC1KTGE4Tzk0a2Y0MA?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-21T21:23:00+00:00",
+   "seen": "2026-11-21T21:42:18+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "A New Zealand streamer named BrycexD undertakes a long attempt to finish GTA 6."
+  },
   {
    "id": "gta vi lets you steal a car try lending the game to a friend",
    "title": "GTA VI Lets You Steal a Car. Try Lending the Game to a Friend.",
@@ -313,6 +365,19 @@
    "ai_summary": "The story reports how to find and open the safe in Avery Pawn Shop in GTA 6."
   },
   {
+   "id": "gta 6 made 3 79 billion in day one sales take two announces",
+   "title": "GTA 6 Made $3.79 Billion In Day One Sales, Take-Two Announces",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5RkNVSnlyWTB1cGRFRHN3S29Xc0Etd3VOTkltaENJTUhMXzhuVUJHY2dTV0Nmci0ydjY2SXBST2sxb010VEtHR0luVTdMSllkMXVFTTNKRnBqSHNZOC1IY3lKZEpfdjVfd0h0dG9XQ3ZfQ0QtNHU2Z1ZNSVVYQQ?oc=5",
+   "outlet": "eXputer.com",
+   "via": "Google News",
+   "published": "2026-11-21T20:35:40+00:00",
+   "seen": "2026-11-21T21:42:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 generated three point seven nine billion in day one sales, according to Take-Two."
+  },
+  {
    "id": "gta 6 faces review bombing despite 99 metascore",
    "title": "GTA 6 Faces Review Bombing Despite 99 Metascore",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LOERXNURHVEx2NDZ1S0ZHRUZTV0tyQk1lVjRKZi1jMGhhVVgwX2o4cGpmTlhfZGFfc0dSQTAwazBUdlFnXy04V2x3Sk5xamNOWDRiMTZsMEROZUZTU3FCX1ZZT0E?oc=5",
@@ -415,6 +480,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A GTA 6 developer memorializes his late mother in the game as a tribute."
+  },
+  {
+   "id": "miami heat gta 6 vice city jersey bundle hits 2 000 on ebay",
+   "title": "Miami Heat GTA 6 Vice City Jersey Bundle Hits $2,000 on eBay",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ec2VpeE9oX3VkTTN5dUpOTmtJRWtYWTV0REhrS19XdXpTRHdYR3hHTHhZX0xfVUFTZnZqbXE0MkhsVUxlTGN5NTdrMWk2VnRidHZQTmZJNmNuWDVFaXFaaGhPWFRnbks4Wjg4THVSOA?oc=5",
+   "outlet": "OTIA Sports",
+   "via": "Google News",
+   "published": "2026-11-21T20:07:13+00:00",
+   "seen": "2026-11-21T21:42:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A GTA 6 Vice City jersey bundle related to Miami Heat sells for two thousand on eBay."
   },
   {
    "id": "klay thompson plays gta 6 in surprising way",
@@ -5979,6 +6057,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that an Xbox dump of GTA 6 is 209 GB with no emulator to run it."
+  },
+  {
+   "id": "the us army grants its soldiers an exceptional 4 day leave to celebrate the release of gta 6",
+   "title": "The US Army grants its soldiers an exceptional 4-day leave to celebrate the release of GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSmIzcjVRQzQ0a29VUmRZdm9uUUpQWFFBOHd3NTVNWlZQLWNNZEZUN2o0NGxzcjRYQjZrU044N2k3T1RxTjRlcUpIYzZsNGtQRlIzejFkTXlGSkJ5dDctY3k3SnNDQ2dyaWhMOFZYZEwyOFRRTzlDcHA1Q3J2eWNRTHpqNlhhZGIzQ29JX24tbFJCdmstYjJacWZTOFFLY2VkUWRqOFZET1hWdmNDU1NmMVFIdjM1S2VLaEs1ZzdTbkE5MUdrV2FUSDRscUthd0psY1pGWWVsY1BfaExFSEZQVnJ5WGc3V0xWbWhCZw?oc=5",
+   "outlet": "صوت الإمارات",
+   "via": "Google News",
+   "published": "2026-11-21T05:39:31+00:00",
+   "seen": "2026-11-21T21:42:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The US Army grants soldiers a four-day leave to celebrate the release of GTA 6."
   },
   {
    "id": "ishowspeed finishes gta vi after 52 hour marathon with no sleep",
