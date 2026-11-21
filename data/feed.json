@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:05:01+00:00",
- "started": "2026-11-21T14:04:55+00:00",
+ "updated": "2026-11-21T14:10:06+00:00",
+ "started": "2026-11-21T14:09:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T14:04:55+00:00"
+   "checked": "2026-11-21T14:09:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T14:04:55+00:00"
+   "checked": "2026-11-21T14:09:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T14:04:56+00:00"
+   "checked": "2026-11-21T14:09:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T14:04:56+00:00"
+   "checked": "2026-11-21T14:10:00+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T14:04:56+00:00"
+   "checked": "2026-11-21T14:10:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T14:04:57+00:00"
+   "checked": "2026-11-21T14:10:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-21T14:04:57+00:00"
+   "checked": "2026-11-21T14:10:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T14:04:57+00:00"
+   "checked": "2026-11-21T14:10:01+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T14:04:57+00:00"
+   "checked": "2026-11-21T14:10:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T14:04:57+00:00"
+   "checked": "2026-11-21T14:10:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T14:04:58+00:00"
+   "checked": "2026-11-21T14:10:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T14:04:58+00:00"
+   "checked": "2026-11-21T14:10:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T14:04:58+00:00"
+   "checked": "2026-11-21T14:10:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T14:04:58+00:00"
+   "checked": "2026-11-21T14:10:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 and ocarina of time remake caught in metacritic review bomb war",
+   "title": "GTA 6 and Ocarina of Time remake caught in Metacritic review bomb war",
+   "link": "https://www.dexerto.com/gaming/gta-6-and-ocarina-of-time-remake-caught-in-metacritic-review-bomb-war-3430280/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-21T14:07:51+00:00",
+   "seen": "2026-11-21T14:10:01+00:00",
+   "summary": "GTA 6’s user score has dropped to 5.0 despite its 99 Metascore, while the Ocarina of Time remake has fallen from a record 9.6 as fans trade zero scores.",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 and the Ocarina of Time remake face a Metacritic review bomb dispute, with GTA 6's user score dipping while the Ocarina of Time remake's user score falls."
+  },
+  {
+   "id": "where to find the pegassi vitello supercar in gta 6 randy s wishlist car locations",
+   "title": "Where to Find The Pegassi Vitello Supercar in GTA 6—Randy's Wishlist Car Locations",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yakZfTi1lTFUwSFlHam90MmNabkRhMEU2N3FEREI2VGVUTjZOWWtHTnV4MzBNRHY5Y3NfcmRETmtZNzd0OTdrQnRpenZKM0JyYk5oNzNhcG52dllYN25VcU00dUpWRjFJNkV2eWhPM1pxTTB2Umc?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-21T14:05:44+00:00",
+   "seen": "2026-11-21T14:09:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Information on where to find the Pegassi Vitello supercar in GTA 6 is provided via Randy's wishlist car locations."
+  },
   {
    "id": "one of gta 6 s most overlooked mechanics is its best",
    "title": "One Of GTA 6's Most Overlooked Mechanics Is Its Best",
@@ -144,6 +170,19 @@
    "ai_summary": "The story lists 99 incredible little details about GTA 6."
   },
   {
+   "id": "gta 6 provides a perfect explanation for lucia s violent tendencies",
+   "title": "GTA 6 Provides A Perfect Explanation For Lucia's Violent Tendencies",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9melJobUNpcVpzMVBYRXA3UmVsSkd5S2xYLW9sV0lQSmJIV1RPV3FEclZWSTRHYjRHUi1tYkV3andVR3VKUkpuWVZyTDlOOWZaczZsWVZOWDlRdTJpUGNaM1pkdWI2Y2N0NGt2bm5WQVNiVU1GRWdjVA?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-21T14:00:00+00:00",
+   "seen": "2026-11-21T14:09:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is said to provide a perfect explanation for Lucia's violent tendencies."
+  },
+  {
    "id": "polymarket odds today kai cenat gta vi bitcoin super bowl",
    "title": "Polymarket Odds Today: Kai Cenat GTA VI, Bitcoin, Super Bowl",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeW80YmlTODJMb2pmN3Rrd1loOWprdGMyUS0tWkJVaUhCcjlaa1pIVGJ4RHNOd05hdm5zZ0lnQlFKZHdITlpnYm9wZTFyUlhlRG9kNG1iX1pnLTFfQk43WkFSVlptS19MVnNKckwtd3Fud3lUNmxsWXR3NWd1RDNUazkyNmJUeDRyai1mbllKNTQ2TUJLNFNBdmxQWnQxVWZ1T01NNURB?oc=5",
@@ -155,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on Polymarket odds today related to Kai Cenat GTA VI, Bitcoin, and the Super Bowl."
+  },
+  {
+   "id": "beyond vice city the real world policy battles behind the gta 6 release",
+   "title": "Beyond Vice City: The Real-World Policy Battles Behind the GTA 6 Release",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWE8wS1N4NWNrbTd0NDVFRHEwLWlscmt0UU1GSmQ2dmRNYVlxcHpRVkJSVjBYU05yczVBUl8xMVV6LTlyT1pMLXUxMUJTb2tiTmhtUkJfdlhYbjJ3U2UzWHQ0QWs2V3ZNOXRmYWFzTHpqS1Z2dGZTWnlQQ000Q19Lc01jeFJtRktaMUJaQ3FUcFNReGFqVVJxdERtaVJrOW1RdHdieWtOOVFORVBKNTdPcWJSdURBUQ?oc=5",
+   "outlet": "New Wave Magazine",
+   "via": "Google News",
+   "published": "2026-11-21T13:59:24+00:00",
+   "seen": "2026-11-21T14:09:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article discusses real-world policy battles behind the GTA 6 release beyond Vice City."
   },
   {
    "id": "how to execute a perfect gta 6 robbery for maximum money",
@@ -1975,6 +2027,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 song licensing details reveal how much Rockstar pays for songs."
+  },
+  {
+   "id": "gta 6 rockstar games president sam houser addresses game s impressive sales figures",
+   "title": "GTA 6: Rockstar Games President Sam Houser Addresses Game's Impressive Sales Figures",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNUszbU9DeVpSYmxTTW4xYmk1dEdOdFZpb01ZSjZaSWdGWHlDV2ZLZTZ4UVppNGRabjVDajVHVmUxaXJwdkdCT2l5VHZ1OUZwNlhJd3ljeFp1UHpSaklKN3FsN2szajBpa3F1OXZ5MXZWVGE1dkVKSFZRT1JCTk9hTEItMXYwWGhkMXRJb1pfblN1dnh1azRYNExHOA?oc=5",
+   "outlet": "EGW.News",
+   "via": "Google News",
+   "published": "2026-11-21T08:05:03+00:00",
+   "seen": "2026-11-21T14:09:59+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Rockstar Games President Sam Houser addresses the game's impressive sales figures."
   },
   {
    "id": "grand theft auto vi how indian americans who help run video game business ration it for their own children",
