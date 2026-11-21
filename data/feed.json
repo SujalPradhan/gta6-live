@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:43:01+00:00",
- "started": "2026-11-21T07:42:56+00:00",
+ "updated": "2026-11-21T07:48:09+00:00",
+ "started": "2026-11-21T07:48:03+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:42:57+00:00"
+   "checked": "2026-11-21T07:48:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:42:57+00:00"
+   "checked": "2026-11-21T07:48:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T07:42:58+00:00"
+   "checked": "2026-11-21T07:48:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T07:42:58+00:00"
+   "checked": "2026-11-21T07:48:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T07:42:59+00:00"
+   "checked": "2026-11-21T07:48:05+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T07:42:59+00:00"
+   "checked": "2026-11-21T07:48:05+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T07:42:59+00:00"
+   "checked": "2026-11-21T07:48:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T07:42:59+00:00"
+   "checked": "2026-11-21T07:48:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T07:43:00+00:00"
+   "checked": "2026-11-21T07:48:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T07:43:00+00:00"
+   "checked": "2026-11-21T07:48:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T07:43:01+00:00"
+   "checked": "2026-11-21T07:48:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T07:43:01+00:00"
+   "checked": "2026-11-21T07:48:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T07:43:01+00:00"
+   "checked": "2026-11-21T07:48:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T07:43:01+00:00"
+   "checked": "2026-11-21T07:48:07+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story claims that spending all night playing GTA 6 revealed three PS5 settings that enhance its visuals and audio."
+  },
+  {
+   "id": "logitech allows employees to play gta 6",
+   "title": "Logitech allows employees to play GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdnZadHFhcVpnX05Vck9TQTVVXzYwRkVoVzZ6WnZnTjJSYTNpVjBzSUZ5Q3paRjJHZkdUZU1SYWplVHZEc2QydVVhakZ3OGZ6N2lvUEZweFJ5cU5xdTQwOTZTVVV0bTNoRW81WG0zSVZEUmVaT2liSWhtT3gySzRqd3RLSHJYNlZWZkIyd3ZHZFlKN3J6a0JTYnpFNnhfMWJJeHVXZzQ0VmhKdW1Ca2FMYlNmM3ItSno2SUVmMHRjVW8?oc=5",
+   "outlet": "KTVN",
+   "via": "Google News",
+   "published": "2026-11-21T07:32:00+00:00",
+   "seen": "2026-11-21T07:48:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Logitech allows employees to play GTA 6."
   },
   {
    "id": "xbox series x loads grand theft auto vi 17 faster than playstation 5 pro",
@@ -155,6 +168,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 sets record with first-day retail sales reaching $3.79 B, according to Manila Bulletin."
+  },
+  {
+   "id": "thunder s jared mccain reveals his preferred games over gta 6",
+   "title": "Thunder’s Jared McCain reveals his preferred games over GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM016cTlzaGVlWFZXbWtRTEYxdXB2WnhyQWduQXp4WERwTkk5MDhad3c1Z2NxM1ZFUy1EMXlWREUwZ3VUcVdQd0pqYlFKdF83RE9sc2R0NDl0d2xjYmtCMVVTV2k1UVY4dlh3Vkd1Z2c0VGNMMWhDVGtzNjZ1a29ZYXo2YndiNWY5c2pSVVJMR0o?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-21T07:11:03+00:00",
+   "seen": "2026-11-21T07:48:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Thunder’s Jared McCain reveals his preferred games over GTA 6."
   },
   {
    "id": "gta 6 sets new record with 3 79 billion in sales",
