@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T01:36:04+00:00",
- "started": "2026-11-21T01:35:58+00:00",
+ "updated": "2026-11-21T01:41:07+00:00",
+ "started": "2026-11-21T01:41:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T01:35:58+00:00"
+   "checked": "2026-11-21T01:41:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T01:35:59+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T01:41:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T01:35:59+00:00"
+   "checked": "2026-11-21T01:41:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T01:35:59+00:00"
+   "checked": "2026-11-21T01:41:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-21T01:36:00+00:00"
+   "checked": "2026-11-21T01:41:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T01:36:00+00:00"
+   "checked": "2026-11-21T01:41:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T01:36:00+00:00"
+   "checked": "2026-11-21T01:41:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T01:36:00+00:00"
+   "checked": "2026-11-21T01:41:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T01:36:00+00:00"
+   "checked": "2026-11-21T01:41:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T01:36:01+00:00"
+   "checked": "2026-11-21T01:41:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T01:36:01+00:00"
+   "checked": "2026-11-21T01:41:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T01:36:01+00:00"
+   "checked": "2026-11-21T01:41:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T01:36:01+00:00"
+   "checked": "2026-11-21T01:41:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T01:36:01+00:00"
+   "checked": "2026-11-21T01:41:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "miami embraces its vice city alter ego seizing buzz around gta vi release",
+   "title": "Miami embraces its Vice City alter ego, seizing buzz around ‘GTA VI’ release",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHNtODJrTmJLcEo2X2hFdEhfZkNqSHRuckJETkdnNEpuTy1QV2xRRjF3MzlzbHo1a0VTVVU3Qzk5YmdPWUd2UUtGdkhmNmw3YVJIdmtQTzFneGNXVjZod2VxVmV3bzNLczVkX3RqVjFBQWFUVnNvMGd5aG5xRlBIUXV6NGtwVXFScTZvT3E4dWNJeDZJazNVSkQyN0hkbmJscmFTR1luMm9uTE95RXZEQU8ybFRSZw?oc=5",
+   "outlet": "Altoona Mirror",
+   "via": "Google News",
+   "published": "2026-11-21T01:38:36+00:00",
+   "seen": "2026-11-21T01:41:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Miami embraces its Vice City alter ego and buzz around the GTA VI release."
+  },
+  {
+   "id": "chris russo admonishes people playing gta vi all weekend read a book",
+   "title": "Chris Russo admonishes people playing GTA VI all weekend: ‘Read a book’",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazg0VUt6OWNXMTBxbEozQkpMMzBXUS1PS2RQcWpYQW5mLUp2aTR2S3RLLXdueXNndnhBWFJTMXlCYVM2LW43bzRNcHV2cFc5WFFJY25YR2hvYmpWd0JkTndrMmloVmxvc09QNjg4ZWJtaWc2Njh3NWVKR09WUl9STElUbTgxRTlhdFZyZV9jR3ZEZktxVXU1VTBwb2FsVzJRSmc?oc=5",
+   "outlet": "Awful Announcing",
+   "via": "Google News",
+   "published": "2026-11-21T01:35:18+00:00",
+   "seen": "2026-11-21T01:41:01+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Chris Russo tells people playing GTA VI all weekend to read a book."
+  },
+  {
+   "id": "gta 6 launch breaks internet usage records hitting 33 03 tbps worldwide",
+   "title": "GTA 6 Launch Breaks Internet Usage Records, Hitting 33.03 Tbps Worldwide",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3gybFA0V3FpTnBSR2I0dEEtTFFNdG91cmVxVWNBT3JKN2J6b3dOWEIyVENCY3NjeHd1Z3pfbjRqc05qNTlPVjJpYU1UUmFtX2UxaDAwM09FTThfdUs4YkcwSTduVjdJRmRKaUp5Q2l1czA4SElPUVZzaHRfai1ERm5MN21ZcXpYQUU3ZlhOZTRMX19ObU82bWl6dzhyMGhjajBBTUpPNFJtM0tNTVFhd0FwREJoNDFXd3ItU21pVDd5Z9IBxwFBVV95cUxPdUlPT1pNZ0tqamN6VVJuV0pxSEp3UGVFNVU1akhuaEpIQ2M2Rkk4RXdvVFJST2o0a0xYYUxGaDZraVQtZFM3cDFoOTdXMXhRc0kxY3dCMThtMk9DcGlTUnVFRlRTano5WlE1YkNiNHhwc0dzUmtScWI4REZuMXQ4b3Q0VzIzWUd1VC0tVDFVTnhHWU1Qa2dEdnNxZ2JvNjd3RHdreVpjazYwVWg4TFcyc1l0bW1nTHIybWhTSERPTWhwa0xyNG9J?oc=5",
+   "outlet": "Times Now",
+   "via": "Google News",
+   "published": "2026-11-21T01:30:40+00:00",
+   "seen": "2026-11-21T01:41:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 launch breaks internet usage records worldwide."
+  },
   {
    "id": "3 7b in day 1 sales gta 6 now one of history s biggest entertainment launches",
    "title": "$3.7B in day 1 sales: GTA 6 now one of history’s biggest entertainment launches",
@@ -129,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports checking out the GTA 6 walkthrough and mentions the final mission of Chapter 2."
+  },
+  {
+   "id": "want to win a free copy of gta vi you ll have to travel to fort wayne and attend a komets game first",
+   "title": "Want to win a free copy of GTA VI? You'll have to travel to Fort Wayne and attend a Komets game first",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbTZtUWNNdmZSSGIxOVJ0bzRkM2VfUUJuV0pkV0tfbHJJT1FJZFRWNDVXTnN4SlVpOXcyd2lGZm5xZkgzcGNTeDlvbXZRdXdDYjA3NjA1bFB3Qm1PbTJlR1pYZlRiam4zbnA1cElPVzRGRXZibnU0VXdVbW5xbHg0VHI1WXFvZ1NWRXEyM0ppRDlkREdIUk1iSWRmeVJOUDBtX3VEMTN5NVRKQ2JFN2M1bm5JMk5hN3ZYWjVDanRYOEZTWW1HcTVFeHBqYlhWZHphdU5DWjJuUzhwVzI3YXdFZTA1dXc2RzRmZnE3LTZ6THo?oc=5",
+   "outlet": "WTHR",
+   "via": "Google News",
+   "published": "2026-11-21T01:19:00+00:00",
+   "seen": "2026-11-21T01:41:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "To win a free copy of GTA VI, you must travel to Fort Wayne and attend a Komets game."
   },
   {
    "id": "gta vi reaches the clouds in more ways than one",
@@ -181,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a roundup of every music cameo in Grand Theft Auto VI."
+  },
+  {
+   "id": "japanese company gives employees a holiday to play gta vi",
+   "title": "Japanese company gives employees a holiday to play GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdnR1TzMyRmZ5bHV4bnQydDl4Q1labmZMLVJQWTZQeFEwUm9jYlBlZEd0QW9xbmluLTJqVHUtazZSd2w2b1BEbzdpMU9seWVMaGxtU3ZYalBFNlFZWHoyaUpKVlU5VHJpZzdJR0luYWNLelhQNFVPRWwxajg1UkNUeWszN0lqM2xFNVBNUFIwWnZoY2JaVXZCT0dBaXhnYW5MVndjSzRWZkQ4T3lyQjUyRURhalJtZw?oc=5",
+   "outlet": "AP News",
+   "via": "Google News",
+   "published": "2026-11-21T01:04:00+00:00",
+   "seen": "2026-11-21T01:41:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Japanese company gives employees a holiday to play GTA VI."
   },
   {
    "id": "miami heat gta 6 night draws record fans and massive sales",
@@ -246,6 +311,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports police warn GTA 6 players amid a launch-week safety push with no proven crime link."
+  },
+  {
+   "id": "gta 6 has secret playlists and all you have to do is scan a few posters to unlock them",
+   "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JYmR5OWtJcFpBdlk0SXhxRnkxeTZTb2dtTzU5TDRjSC1yMVNneEV5SjllZW5DaXkzeUdzTXVJSGMyX1NGV0d1WDk3VVBsZGNyX2Z3alFjVG9ab3drZmRuUDh3bFBQQzlWMFJuNmxJVTRDVHNMWFg0U3p3?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-21T00:50:14+00:00",
+   "seen": "2026-11-21T01:41:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 has secret playlists unlocked by scanning posters."
   },
   {
    "id": "grand theft auto vi sets record with 3 79 billion in first day retail sales",
@@ -2378,6 +2456,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story states GTA 6 broke records with a large first-day sales figure on a station."
+  },
+  {
+   "id": "gta vi sets entertainment sales record on launch day",
+   "title": "GTA VI sets entertainment sales record on launch day",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXg3OUhwNHJaa3Q5Z3BZRkZJM2RCNnpvMHZPTnJOMi0xQW9OS0pwX051a3ZPbGVfM1ZSZUd6ZnRMOW5Rc3hHVG9QUEtwa29uQ2U4NHd3YjVsUFNBM3ZUSEs3U0dxanBIZFJaeW5kOUhZMUFZTlpnZlVWdENQNjBYWS1MU01yV3UwbzhyWXhZcGhyS24wV3c?oc=5",
+   "outlet": "Techloy",
+   "via": "Google News",
+   "published": "2026-11-20T20:38:00+00:00",
+   "seen": "2026-11-21T01:41:01+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI sets an entertainment sales record on launch day."
   },
   {
    "id": "every song on grand theft auto 6 the album ranked",
