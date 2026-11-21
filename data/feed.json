@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:07:23+00:00",
- "started": "2026-11-21T06:07:18+00:00",
+ "updated": "2026-11-21T06:12:29+00:00",
+ "started": "2026-11-21T06:12:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:07:18+00:00"
+   "checked": "2026-11-21T06:12:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:07:19+00:00"
+   "checked": "2026-11-21T06:12:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T06:07:19+00:00"
+   "checked": "2026-11-21T06:12:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T06:07:19+00:00"
+   "checked": "2026-11-21T06:12:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T06:07:19+00:00"
+   "checked": "2026-11-21T06:12:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T06:07:20+00:00"
+   "checked": "2026-11-21T06:12:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T06:07:20+00:00"
+   "checked": "2026-11-21T06:12:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T06:07:20+00:00"
+   "checked": "2026-11-21T06:12:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T06:07:20+00:00"
+   "checked": "2026-11-21T06:12:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T06:07:20+00:00"
+   "checked": "2026-11-21T06:12:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T06:07:21+00:00"
+   "checked": "2026-11-21T06:12:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T06:07:21+00:00"
+   "checked": "2026-11-21T06:12:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T06:07:21+00:00"
+   "checked": "2026-11-21T06:12:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T06:07:21+00:00"
+   "checked": "2026-11-21T06:12:27+00:00"
   }
  },
  "items": [
@@ -1286,6 +1286,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to complete GTA 6 Afternoon Delight and how Jason's choice affects the mission."
+  },
+  {
+   "id": "gta 6 stole launch day with 61 of active us ps5 players per charlieintel",
+   "title": "GTA 6 stole launch day with 61% of active US PS5 players, per charlieINTEL",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rMUR6aV9PcXlXajRMZUVXdkZxbXc3SGUtcXBkV09zRDBRVGpXNUVKeThFUkRwaE01Z0hncWhldlJKMDM0RXgw?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-21T00:03:39+00:00",
+   "seen": "2026-11-21T06:12:24+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 reportedly stole launch day share of active US PS5 players according to charlieINTEL via Digg."
   },
   {
    "id": "grand theft auto vi brings in 3 79b in first day retail sales",
@@ -3602,6 +3615,19 @@
    "ai_summary": "The story states GTA 6 broke records with a large first-day sales figure on a station."
   },
   {
+   "id": "gta 6 breaks records with 3 79 billion first day sales 96 5 kiss fm",
+   "title": "GTA 6 Breaks Records With $3.79 Billion First-Day Sales - 96.5 KISS-FM",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXhOclNTZ3pVOUo5QmtLeXlJLW5KaWlNVmFkXzlJM19hUXVGaW5EV3Y5UjlRMzhIeHVFTFQwNDFuOW43Uk5RTms2dkd6RmJpTjZabEthR2tZRHVpajRydWN0UENMRW5tVG4wS18ydFhJYUgzeHFMV2FzNTc0cFkwVTg3NFZtMEFJTVhLWnVBQnpFWXN0NUdxcXFSTDRvR1IzWENSYzdyalF1UQ?oc=5",
+   "outlet": "96.5 KISS-FM",
+   "via": "Google News",
+   "published": "2026-11-20T20:39:00+00:00",
+   "seen": "2026-11-21T06:12:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 breaks records with first-day sales totaling $3.79 billion according to 96.5 KISS-FM."
+  },
+  {
    "id": "gta vi sets entertainment sales record on launch day",
    "title": "GTA VI sets entertainment sales record on launch day",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXg3OUhwNHJaa3Q5Z3BZRkZJM2RCNnpvMHZPTnJOMi0xQW9OS0pwX051a3ZPbGVfM1ZSZUd6ZnRMOW5Rc3hHVG9QUEtwa29uQ2U4NHd3YjVsUFNBM3ZUSEs3U0dxanBIZFJaeW5kOUhZMUFZTlpnZlVWdENQNjBYWS1MU01yV3UwbzhyWXhZcGhyS24wV3c?oc=5",
@@ -5121,6 +5147,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 sold a record-breaking 32.5 million copies before its release, described as the biggest entertainment launch of all time."
+  },
+  {
+   "id": "grand theft auto 6 reaches 3 79 billion in sales in one day",
+   "title": "‘Grand Theft Auto 6’ reaches $3.79 billion in sales in one day",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUliRG5KNlJaT2ZKcmlYOUZjZDN5NG5QQ0JvWUtsV0NDbi1WLTZuOW1yWnRGeFRWVVdvWElsMmI4eXZFVW00WDNobVllUDRFSHlVaDVrOXFTM0E2ZXNMRDVBSGE2c0JFYmdSUkFROUVfS25LWWp1SUlJYnNDTkNLdWdJeExXVDRKbU15VjdqVFpOQ3hVV1d0M3dhcnlmYnFrTGc1SXdmTWQ3Z0VFNHFn?oc=5",
+   "outlet": "Business Insider Africa",
+   "via": "Google News",
+   "published": "2026-11-20T19:27:56+00:00",
+   "seen": "2026-11-21T06:12:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 reaches $3.79 billion in sales in one day as reported by Business Insider Africa."
   },
   {
    "id": "gta 6 broke a sales record no game or movie could touch for 13 years",
