@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:56:56+00:00",
- "started": "2026-11-21T19:56:47+00:00",
+ "updated": "2026-11-21T20:01:54+00:00",
+ "started": "2026-11-21T20:01:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T19:56:47+00:00"
+   "checked": "2026-11-21T20:01:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T19:56:48+00:00"
+   "checked": "2026-11-21T20:01:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T19:56:48+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-21T20:01:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T19:56:48+00:00"
+   "checked": "2026-11-21T20:01:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T19:56:49+00:00"
+   "checked": "2026-11-21T20:01:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T19:56:49+00:00"
+   "checked": "2026-11-21T20:01:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T19:56:51+00:00"
+   "checked": "2026-11-21T20:01:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T19:56:52+00:00"
+   "checked": "2026-11-21T20:01:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T19:56:52+00:00"
+   "checked": "2026-11-21T20:01:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T19:56:52+00:00"
+   "checked": "2026-11-21T20:01:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T19:56:53+00:00"
+   "checked": "2026-11-21T20:01:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T19:56:53+00:00"
+   "checked": "2026-11-21T20:01:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T19:56:53+00:00"
+   "checked": "2026-11-21T20:01:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T19:56:53+00:00"
+   "checked": "2026-11-21T20:01:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 has a hidden warehouse packed with loot worth 14 000",
+   "title": "GTA 6 has a hidden warehouse packed with loot worth $14,000",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVdPSE16ekZJSmE0RGhDU2VINVc3eXZtWElaOXpJNTVsMW4yMkRnR1ZJN0RKU29XbGJ4RkdySmszWmM4WllBOTh6MjM2OWxRcUJ6Si00aEpkanZLSEZ5UDktYmZYLTJkZGVqd1hNanBrcXRMYTRHdHp4QmpZNXZ6SmdpTFpMMnFPMXBYUkV5R0RPYkxMQ3JxaGZxOFFKZw?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-21T20:00:02+00:00",
+   "seen": "2026-11-21T20:01:48+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 is reported to have a hidden warehouse packed with loot worth $14,000."
+  },
+  {
+   "id": "how janelle james got her own radio show in gta 6",
+   "title": "How Janelle James got her own radio show in 'GTA 6'",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDSlNiSTBqUEVFUGFXWVRtYXNFWnZYeXB3VTFmOWhqaWh1bzhZU3VXTEZOR2ZQSzloa2oweUE2bHNFdjd2eG9SNnE5a1lLQnZjdnBabzEwZ2gwbTBwUE1Ob0ZRcm41ZGs?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-21T19:58:34+00:00",
+   "seen": "2026-11-21T20:01:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Janelle James got her own radio show in GTA 6."
+  },
   {
    "id": "gta 6 officially becomes one of the lowest rated games of the year",
    "title": "GTA 6 Officially Becomes One of the Lowest-Rated Games of the Year",
@@ -3589,6 +3615,19 @@
    "ai_summary": "The story explains how to obtain a Slim Jim in GTA 6 to steal cars without triggering an alarm."
   },
   {
+   "id": "gta 6 made 3 79bn on day one by rockstar s own count what the record does not tell you",
+   "title": "GTA 6 made $3.79bn on day one, by Rockstar's own count. What the record does not tell you",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSThNaEtZSU50d2wyYjY2UThrcXMyYWNMSy00T1NaUEY4b1Y4aG5uNU5wLW95dkp5UUdyT1QyVFVQQ1hPbnhrb29EVzdQR1FxcGIweXNSZ3AyeVp5MGpCV2NpQW5RWXFDLVYyamttMjhzYmZMR29LQ1B2b0tZUmtoNWFmcTRQT3BVX09WLXhKcFhMRXVTYmFRak9PNjZ0RDJVaHFVRS0zdHIzZUVock01LXZSR0xiQQ?oc=5",
+   "outlet": "TheRadar",
+   "via": "Google News",
+   "published": "2026-11-21T11:45:01+00:00",
+   "seen": "2026-11-21T20:01:49+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 made $3.79bn on day one, according to Rockstar's own count, with a note on what the record does not reveal."
+  },
+  {
    "id": "gta 6 takes a brutal shot at nfl stars with a radio rant that sounds all too familiar",
    "title": "GTA 6 Takes A Brutal Shot At NFL Stars With A Radio Rant That Sounds All Too Familiar",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUF5dXlDMUpaaF94ZVR2VUlWaXdydVhkX3QxMGd2SnE4bGdqUVNKc21DbDdpM0xvYlpWWk41eV9Tb1Z0NE1NcVhyZWRDaE51VmZHNG1vdU9XeHM0Z0RKZFRXOE5fNl9ic2YxNzU0ZjdOVEZiUVFpcElONktLbFphRGlNV1VuRUloaEVKNHBNbGVhaVRLTmVJenNtblZEYkFCRS1keVk2dC1wd2NhN2NURjBhQkV1dm5MR0RyYzZ5dl9MWWc?oc=5",
@@ -4395,6 +4434,19 @@
    "ai_summary": "GTA VI statistics include figures on player count, sales, and revenue as reported by DemandSage."
   },
   {
+   "id": "gta 6 makes 3 79 billion on day one india sales yet to be revealed",
+   "title": "GTA 6 Makes $3.79 Billion on Day One, India Sales Yet to Be Revealed",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXYwc21XYTdaWEM1YnNuU3BkRm5nMjVrTy1jbmdtSXlwN3ZsOUwyblBkY0JuaDlKYlBPNXhKQmttVkdQNmJwYmRwTnhHbERnUnBQQjg1VEY0TjVabEZtcVVQLXZXTWR3a2xrYjJqeG9BS3B5SWpQdVFnY1lldklybkE2OFJER25OZUdBYWF0ZFA0a2FWY1dwODFSblJXQjhIQ0VxdmRGNDlCaV9V?oc=5",
+   "outlet": "Dainik Jagran MP CG",
+   "via": "Google News",
+   "published": "2026-11-21T09:10:12+00:00",
+   "seen": "2026-11-21T20:01:49+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 made $3.79 Billion on Day One, with India sales yet to be revealed."
+  },
+  {
    "id": "fake gta vi streaming client installs data stealing malware on windows pcs",
    "title": "Fake GTA VI Streaming Client Installs Data-Stealing Malware on Windows PCs",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRdXVmQTY5WUpzODRldEJTaVVDeFcxTW5SYUVLME9aYXVIc0w3bzZiY09hb2IwUW5pZDRGYkxFVkJPWU40UmJfaFp2NW1zVV9YNmFRdk8wVy1PUDFCOHRsc3FhTS1WT2Z1ai10V2FoSElxajllZzRNMA?oc=5",
@@ -4471,6 +4523,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that Grand Theft Auto VI hits an all-time record pre-orders total of $2.3 billion according to Sensor Tower."
+  },
+  {
+   "id": "gta 6 generates 3 79 billion in first day sales sets entertainment record",
+   "title": "GTA 6 Generates $3.79 Billion in First-Day Sales, Sets Entertainment Record",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vbVlUcUJiQjF1Z0ZHTUczd2plMnhTYnpNZzRtNXJGeG9oS3VtamdfUzVuWU9tWWQtQVZIQzJ5czM0Mjd1aDB1aTc3OGY0NUU1elBidThJRQ?oc=5",
+   "outlet": "Techgenyz",
+   "via": "Google News",
+   "published": "2026-11-21T08:43:24+00:00",
+   "seen": "2026-11-21T20:01:49+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 generates $3.79 Billion in first-day sales and sets an entertainment record."
   },
   {
    "id": "a fake gta 6 pc download is being used as bait security researchers warn",
@@ -5823,6 +5888,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 generated US$3.8 billion in sales in a single day."
+  },
+  {
+   "id": "gta 6 day one sales reach 3 79 billion rockstar says",
+   "title": "GTA 6 Day-One Sales Reach $3.79 Billion, Rockstar Says",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGpLODNqZ2JfR0dDQy1TUFFvdTl6LTNESVRRMldzR0ZOUEN5NDV2NThodk5Ud21weDhoZmZzWmZmY19MOHJxRGFmdW43Z0I1MkZKVjJ3NV9ZcVVKOFpueHR5dmtLUFhHS2VYMUZXam13aTZQX29KUUN6aXpYRDZVa0lMWUxoZjhMOS1QSg?oc=5",
+   "outlet": "HOLR Magazine",
+   "via": "Google News",
+   "published": "2026-11-21T03:00:36+00:00",
+   "seen": "2026-11-21T20:01:49+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 day-one sales reach $3.79 Billion, according to Rockstar."
   },
   {
    "id": "overrated game gta 6 ps5 review bombing has started after record breaking release",
