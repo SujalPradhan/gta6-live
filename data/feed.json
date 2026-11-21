@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:36:06+00:00",
- "started": "2026-11-21T17:36:00+00:00",
+ "updated": "2026-11-21T17:41:05+00:00",
+ "started": "2026-11-21T17:40:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-21T17:36:01+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T17:40:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T17:36:01+00:00"
+   "checked": "2026-11-21T17:41:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T17:36:02+00:00"
+   "checked": "2026-11-21T17:41:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:36:02+00:00"
+   "checked": "2026-11-21T17:41:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T17:36:02+00:00"
+   "checked": "2026-11-21T17:41:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T17:36:02+00:00"
+   "checked": "2026-11-21T17:41:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T17:36:03+00:00"
+   "checked": "2026-11-21T17:41:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T17:36:03+00:00"
+   "checked": "2026-11-21T17:41:01+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:36:03+00:00"
+   "checked": "2026-11-21T17:41:01+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T17:36:03+00:00"
+   "checked": "2026-11-21T17:41:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T17:36:03+00:00"
+   "checked": "2026-11-21T17:41:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T17:36:03+00:00"
+   "checked": "2026-11-21T17:41:02+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T17:36:04+00:00"
+   "checked": "2026-11-21T17:41:02+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T17:36:04+00:00"
+   "checked": "2026-11-21T17:41:02+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 welcome to vice city mission walkthrough",
+   "title": "GTA 6 Welcome to Vice City mission walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-welcome-to-vice-city-mission-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-21T17:39:31+00:00",
+   "seen": "2026-11-21T17:41:01+00:00",
+   "summary": "How to complete the Welcome to Vice City mission in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to complete the Welcome to Vice City mission in GTA 6."
+  },
+  {
+   "id": "think arizona is all in on gta 6 here s what google trends says",
+   "title": "Think Arizona is all in on GTA 6? Here’s what Google Trends says",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlJyM2M0Q3JyQlU3U2djdXRjVExTcjRxUUhHaWhLd1FQRUxoNHZ2dDVNSXRfNkVXS0lGb2Y5RzN1VUhVNWVad2p4N0FGZ1RDa0pfUXNScTMwdDZ4QWJSQjRJcmd1eFFkRjlaNExDYUZuZkZYcTNoMmVBZGprMHNLajJ6U0hPTUZ2R0huOFNucTR3TWRYdklRbQ?oc=5",
+   "outlet": "AZ Family",
+   "via": "Google News",
+   "published": "2026-11-21T17:34:00+00:00",
+   "seen": "2026-11-21T17:40:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses public interest in GTA 6 based on Google Trends."
+  },
+  {
+   "id": "gta 6 how to keep the highwayman sanchez dirt bike billy gives you",
+   "title": "GTA 6: How to Keep the Highwayman Sanchez Dirt Bike Billy Gives You",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3hfV3dtVDM5VDhaNldlM19pYXhwYkRyTmRscXFDTkMwWUk4dXBJa2FMZU9tQ2RIZXEzQmRwNkd2NHZUUFM1RlZUNXJxY1RlYnQ0TjR3RDgzRnUwekg4bHFxajczQ0tYRVJlYVRHOHlGUjlDdEpTTU50dmo3WWg0Q2hIS2IyTGU5cmpJblhvUQ?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-21T17:31:37+00:00",
+   "seen": "2026-11-21T17:40:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story outlines how to keep the Highwayman Sanchez Dirt Bike Billy gives you in GTA 6."
+  },
   {
    "id": "gta 6 hits 3 8 billion in first day retail sales",
    "title": "GTA 6 Hits $3.8 Billion in First-Day Retail Sales",
@@ -599,6 +638,19 @@
    "ai_summary": "The story asks whether you should mention Brian's retirement in Swamped."
   },
   {
+   "id": "grand theft auto vi chelan county edition from our city county to the mountains lakes and backcountry the chelan county sheriff s office cov",
+   "title": "🎮🚔 GRAND THEFT AUTO VI: CHELAN COUNTY EDITION From our city & county to the mountains, lakes, and backcountry, the Chelan County Sheriff's Office covers a lot of ground. We decided to have a little fun with the GTA VI trend while showcasing likenes",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeFduYlNwb29xNWY0X1FQSDFQZ1NvMWlWXzFLb2lCR201cVRKS3lfT01PT1Nzd1BvNlktX3pwOTBsS3hVeHFqTmZwVnBYbHlNeDlqVXUzdlhKUUJSRzBEZzFtZWkzUTdCU01QMEh0VGlfNzEzVW9Ob2FjejVDRFBKZnNjNHJRT3JveFd4VTBFSUZOU0hOY0E1MS1mZzJXM19fSC1Kck91OE1DUHFVNmdDUUZiM0lxUlpuT1FkWnZIVWpqSXZLNmE0T2s3QXI3WUZ5cFFPd0E4czBQa3FfRzhuS2RuRzUxdXpKTTBRSQ?oc=5",
+   "outlet": "Facebook",
+   "via": "Google News",
+   "published": "2026-11-21T16:01:59+00:00",
+   "seen": "2026-11-21T17:40:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story talks about a GTA VI trend using Chelan County Sheriff's Office imagery and locales."
+  },
+  {
    "id": "poll so what do you think of gta 6",
    "title": "Poll: So, What Do You Think Of GTA 6?",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TYW1sU1FORzRzOUhXOFhfWE10Y3FKR3NYa01lcWZpZEJ6RC1iUzY3ZUlpeEpRbGRVX2Zic2EtZEV1RTMzV0JIYmU2UVRlUWwyNkRyUnA0WVpxOFlTS3pRUjRwMDhlbVNUVDl5Y1ZxNTZ4cGFyUVZ3?oc=5",
@@ -909,6 +961,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Ben Feder’s five quotes describe GTA VI as the last pre-AI epic."
+  },
+  {
+   "id": "gta vi leak by cyberleek 5 claims 1 missing file",
+   "title": "GTA VI Leak by CyberLeek: 5 Claims, 1 Missing File",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdS1QOTZjY0thVTlDUndYUTJPc3ZiUlFHUlV6R2R4Mm5TY05hcV9sWm9mUXUzRXZSdm9wcWd5OHVoR1ozQ1UzbXR2WG5GTGRCNElUUV9hMVdIVXo4bHplZ0MzUjJvV0xvOEFZVmlzWUhWOTJQQjZ0RzhyVnRydHdmdDB2bm4?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-21T15:21:43+00:00",
+   "seen": "2026-11-21T17:40:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports on a GTA VI leak with five claims and one missing file."
   },
   {
    "id": "gta 6 user ratings trail critics on metacritic",
@@ -2677,6 +2742,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on the Ford that inspired Jason's first car in GTA 6, the Vapid Ganado."
+  },
+  {
+   "id": "gta 6 radio market mo bamba falls 48 points to 20 on kalshi",
+   "title": "GTA 6 Radio Market: Mo Bamba Falls 48 Points to 20% on Kalshi",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jN203dy00Q3o4RXRQVlZ3MTVMUjJQUmNCY25MTks0TVY5eWo3ZDVlY1NUQWhIbmpwNlVWVUtTY1JQaVBjN1Nfejl3ZldJWnllMGtEWURiMlV6eHNYMW9qbDlHYzJlWTMxY080Y1VrOU53RFY0TmNN?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-21T11:26:45+00:00",
+   "seen": "2026-11-21T17:40:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story covers a GTA 6 radio market update mentioning Mo Bamba’s points and Kalshi."
   },
   {
    "id": "gta vi pre loads drive us internet usage surge",
