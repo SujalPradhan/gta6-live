@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:20:24+00:00",
- "started": "2026-11-21T15:20:18+00:00",
+ "updated": "2026-11-21T15:25:30+00:00",
+ "started": "2026-11-21T15:25:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T15:20:18+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T15:25:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T15:20:19+00:00"
+   "checked": "2026-11-21T15:25:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T15:20:19+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T15:25:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T15:20:20+00:00"
+   "checked": "2026-11-21T15:25:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T15:20:20+00:00"
+   "checked": "2026-11-21T15:25:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-21T15:20:20+00:00"
+   "checked": "2026-11-21T15:25:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-21T15:20:21+00:00"
+   "checked": "2026-11-21T15:25:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-21T15:20:21+00:00"
+   "checked": "2026-11-21T15:25:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T15:20:21+00:00"
+   "checked": "2026-11-21T15:25:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T15:20:21+00:00"
+   "checked": "2026-11-21T15:25:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T15:20:22+00:00"
+   "checked": "2026-11-21T15:25:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T15:20:22+00:00"
+   "checked": "2026-11-21T15:25:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T15:20:22+00:00"
+   "checked": "2026-11-21T15:25:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T15:20:22+00:00"
+   "checked": "2026-11-21T15:25:28+00:00"
   }
  },
  "items": [
@@ -116,6 +116,45 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "GTA 6 is reportedly being review bombed on Metacritic as users post bogus scores, while the game remains highly rated in other contexts."
+  },
+  {
+   "id": "gta 6 xbox psa how to stop automatic clip uploads and avoid bans",
+   "title": "GTA 6 Xbox PSA: How to Stop Automatic Clip Uploads and Avoid Bans",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-21T15:25:08+00:00",
+   "seen": "2026-11-21T15:25:27+00:00",
+   "summary": "Xbox players are reporting bans for capturing GTA 6",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Xbox players are reporting bans for capturing GTA 6, according to VGC."
+  },
+  {
+   "id": "rockstar confirms gta 6 sold 32 5m units generates 3 79 billion in 24 hours breaking all entertainment launch records",
+   "title": "Rockstar Confirms GTA 6 Sold 32.5M Units, Generates $3.79 Billion in 24 Hours, Breaking All Entertainment Launch Records",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNci04aGxFZzJ4OTRWQkh3cU1yNXRVQjd3N2xGWENVUkk0UlhPblBoM0FKZUNkenRNN2FoUFpsUGlHSC05YlFvUFptc1htclRYazFLMHQyUUdKYklPMzVQN0ZWRk12M3g2NGtuaDRiUUJSWlo4Q0ZUNElvNk04OVNOQkdoSzJ3MDlNeUI0LXVOUzYyUFhfZXd6QUhmT3FtSmpraXJTWHp2c2lwQXFHMmRZOTlnUDdoVTFOVTVrSlZiYTNSMmRTUVh2N1NQczg5Y0lUV3hCWVVWY3ByUQ?oc=5",
+   "outlet": "XiaomiToday",
+   "via": "Google News",
+   "published": "2026-11-21T15:24:49+00:00",
+   "seen": "2026-11-21T15:25:27+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Rockstar announces GTA 6 sold 32.5M units and generated $3.79 billion in 24 hours, breaking entertainment launch records, per XiaomiToday."
+  },
+  {
+   "id": "neuralink shares gta vi brain implant demo with the control setup still unclear",
+   "title": "Neuralink shares GTA VI brain-implant demo, with the control setup still unclear",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzloanZyZXJvYU5SaHNCSHVpZlBFUnB3eFVTeFVCLW1MV21RdUtmRVk3RVNuNzJHaVRDbHpyRTRBR2hGMTYtMG5iTnJRc2tDZnhfenFCNUR2b0JOOUNXMnM4OUowd0hua1lnUnlFM1plenROMFRWVWNEdTk0LWVUY05rVW84VGw0b0IxcHp0YWlkQ2ducm8ycnV5SDhTR0xSTm9VNWdiTE1halpUX21VZWVtOA?oc=5",
+   "outlet": "Superpower Daily",
+   "via": "Google News",
+   "published": "2026-11-21T15:20:09+00:00",
+   "seen": "2026-11-21T15:25:26+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Neuralink shares a GTA VI brain-implant demo with the control setup still unclear, per Superpower Daily."
   },
   {
    "id": "how to make lucia naked in gta 6",
