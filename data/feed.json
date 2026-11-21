@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:25:06+00:00",
- "started": "2026-11-21T14:25:01+00:00",
+ "updated": "2026-11-21T14:30:12+00:00",
+ "started": "2026-11-21T14:30:07+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T14:25:02+00:00"
+   "checked": "2026-11-21T14:30:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T14:25:02+00:00"
+   "checked": "2026-11-21T14:30:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-21T14:25:02+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T14:30:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T14:25:03+00:00"
+   "checked": "2026-11-21T14:30:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T14:25:03+00:00"
+   "checked": "2026-11-21T14:30:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T14:25:03+00:00"
+   "checked": "2026-11-21T14:30:09+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-21T14:25:03+00:00"
+   "hits": 26,
+   "checked": "2026-11-21T14:30:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T14:25:03+00:00"
+   "checked": "2026-11-21T14:30:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T14:25:03+00:00"
+   "checked": "2026-11-21T14:30:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T14:25:04+00:00"
+   "checked": "2026-11-21T14:30:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T14:25:04+00:00"
+   "checked": "2026-11-21T14:30:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T14:25:04+00:00"
+   "checked": "2026-11-21T14:30:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T14:25:04+00:00"
+   "checked": "2026-11-21T14:30:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T14:25:04+00:00"
+   "checked": "2026-11-21T14:30:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 safe codes and how to get them",
+   "title": "GTA 6 safe codes and how to get them",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-21T14:26:23+00:00",
+   "seen": "2026-11-21T14:30:09+00:00",
+   "summary": "If you want to get in and out of a heist as fast as possible, here's how to get GTA 6 safe codes",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to obtain GTA 6 safe codes to speed up a heist."
+  },
+  {
+   "id": "men are spending thousands on ai girlfriends inspired by gta 6 s lucia yes seriously",
+   "title": "Men Are Spending Thousands on AI Girlfriends Inspired by GTA 6’s Lucia. Yes, Seriously.",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3YtUVVOYlo4V1ViLTFOTk9jWWxwWUthMWdrUUVNREcyQ0IzQ2ppbGNyN2RSVlVMSnp1Mm56ZWpaRy1FMGR3M3lMeGROb0ljNTR2QmdKS2NfRF9sT0RpeDNhN3c0VG4yOWFub3N2RC1jc3VTZHdPU2ZjWDh5MGFJWjVfWHV6UVU2eDI4VjJWclJLckdDM3pNdmFMcnlMeVBKZ2hYdlJkTzB3YjBiVFNYYi1MNUlISUk?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-21T14:25:42+00:00",
+   "seen": "2026-11-21T14:30:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that men are spending thousands on AI girlfriends inspired by GTA 6’s Lucia."
+  },
   {
    "id": "gta 6 has a 99 metascore from critics but players are review bombing it",
    "title": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
@@ -1507,6 +1533,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a GTA 6 hacker pleads guilty."
+  },
+  {
+   "id": "gta 6 rockstar reports the biggest entertainment launch of all time",
+   "title": "\"GTA 6\": Rockstar reports the biggest entertainment launch of all time",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmtZaWRCSHZOOURleWVpelZRTS1hYlQzT0tEblJ0bEwtejdLY3pTSldJRUJhcmJzQ2FMRW9QSGZQYUE5UWt0RWtQRV9lUl9oRUtLWjhwRU5ZcEZOTUFDdzFqQzFIUHNlakc5akdMci1sTEJZWWxPNHdaVDNTbWhEYzhBdm91U3hyTUxuSURvNTA2ZEthZlZpUi1uODFDcFBUY0hJbkpqWQ?oc=5",
+   "outlet": "Digitec",
+   "via": "Google News",
+   "published": "2026-11-21T10:37:15+00:00",
+   "seen": "2026-11-21T14:30:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that Rockstar calls GTA 6 the biggest entertainment launch of all time."
   },
   {
    "id": "gta 6 fever sparks surge in searches for flights to miami",
