@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:09:04+00:00",
- "started": "2026-11-21T11:08:57+00:00",
+ "updated": "2026-11-21T11:14:03+00:00",
+ "started": "2026-11-21T11:13:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T11:08:58+00:00"
+   "checked": "2026-11-21T11:13:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T11:08:58+00:00"
+   "checked": "2026-11-21T11:13:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T11:08:59+00:00"
+   "checked": "2026-11-21T11:13:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T11:08:59+00:00"
+   "checked": "2026-11-21T11:13:59+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T11:09:00+00:00"
+   "checked": "2026-11-21T11:13:59+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T11:09:00+00:00"
+   "checked": "2026-11-21T11:13:59+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T11:09:00+00:00"
+   "checked": "2026-11-21T11:13:59+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T11:09:00+00:00"
+   "checked": "2026-11-21T11:13:59+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T11:09:00+00:00"
+   "checked": "2026-11-21T11:14:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T11:09:01+00:00"
+   "checked": "2026-11-21T11:14:00+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T11:09:01+00:00"
+   "checked": "2026-11-21T11:14:00+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T11:09:01+00:00"
+   "checked": "2026-11-21T11:14:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T11:09:01+00:00"
+   "checked": "2026-11-21T11:14:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T11:09:01+00:00"
+   "checked": "2026-11-21T11:14:01+00:00"
   }
  },
  "items": [
@@ -116,6 +116,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims Grand Theft Auto VI and The Game Awards deserve each other."
+  },
+  {
+   "id": "college gameday joins gta 6 vice city mania ahead of miami virginia tech",
+   "title": "'College GameDay' joins GTA 6, Vice City mania ahead of Miami-Virginia Tech",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTlNsdjRma0JIc2dnUzhDVGVIYzAxdDB2MjNOaHBPcFBENXBMZDhNQ0FOU2JHVGVDX1p5SjdEOGEtMUZfLUUxSTQxaUx1NjJ0enRwZFlmbHd1c0xZZEtkem1vc1BTblVBbm9DOUxONVNWVk1XRXRGZlNiNWduYV9yTGFiNmR6UUxGOEFkaWpLZUJzYlh4ejY0NFh1eGZ4dzNJQUVEaHpLbkFfSE5NUGc4dkN0UDIyS0hacEZPOUVGS20?oc=5",
+   "outlet": "USA Today",
+   "via": "Google News",
+   "published": "2026-11-21T11:06:00+00:00",
+   "seen": "2026-11-21T11:13:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "College GameDay joins GTA 6 coverage ahead of a GTA Vice City mania and a Miami-Virginia Tech matchup."
+  },
+  {
+   "id": "gta 6 sales smash records with 3 79 billion on day one and 32 5 million copies sold before launch day",
+   "title": "GTA 6 Sales Smash Records With $3.79 Billion on Day One and 32.5 Million Copies Sold Before Launch Day",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tVTJNcS1pNmtod0lsem1nZFZWNWgxOHBMa1VKY2g3NVM5SzNtN0dEQ1FsS0NYaWFIU3lpMk5XSVJQTnBCdl9OQkZDaWlwbHhGWGV0SVZRcXM3T2xWdTBPQXA5eEtvaHBmWGcwRmNiZEl3ZDhEYklUZnF3?oc=5",
+   "outlet": "International Business Times Australia",
+   "via": "Google News",
+   "published": "2026-11-21T11:05:08+00:00",
+   "seen": "2026-11-21T11:13:58+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 sales reach a record-setting level with billions on day one and tens of millions of copies sold before launch day."
   },
   {
    "id": "gta 6 should you max out your savings",
@@ -155,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6’s pedestrians are said to be built to the same standard as Jason and Lucia."
+  },
+  {
+   "id": "i m hit with a feeling of self healing the moment i realised gta 6 was one of the greatest games ever",
+   "title": "'I'm hit with a feeling of self-healing': The moment I realised GTA 6 was one of the greatest games ever",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3psM3lmR2RfMUNIaUxrV2pkdWZfeEU2R0RGRDI5R1BIRXhncDQ3eU1RbWcwNHVOeDM4ekJNMkdOQW00MEpQcUV2NWZKMlM4UjFKLXoybTFiMTdBY3NGbmpNOWozMzRTdGY1bkI5dXlaNFdBd1ZaLW9oR0dCbDdLalVfNnBteWRTNElXNUhsTHVxTDNJ?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-21T11:00:00+00:00",
+   "seen": "2026-11-21T11:13:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The piece conveys a personal reflection that GTA 6 is among the greatest games ever."
   },
   {
    "id": "gta 6 obliterates box office records as fans spot impressive details about figures",
@@ -441,6 +480,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story states that Rockstar explains why players cannot gamble in GTA 6 even though there are two casinos."
+  },
+  {
+   "id": "gta 6 shatters records with 3 79b day 1 sales beats avengers endgame",
+   "title": "GTA 6 Shatters Records With $3.79B Day 1 Sales, Beats Avengers: Endgame",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFRTNlZxT0hGc3RQNnlXT3VFV2VNdDNTTTRiZ1NnNTUwSDc5YVFpeFB4WEx2MnhiVGI1eE9aQTZQT1haSnNFSFVRLTQ2ZWxJUzY4MU40NDZBdHFuVWxuWkI0RUxid3k4NC1EWGU2RF9WM1FITmptVm1UV2V3OUZ6T2tpYWcyT25BNWNCZW03TTcwd3dlVEFFdjBRcGNvaWdGM205eHcza0lkTi14MkdQX1NiMVDSAcIBQVVfeXFMUFRFTjBVY25sNHQ1ZDZjMDlxVWtTQjNzUy1oMG5pNEN3cDU3ekhQczN0RUJEalBRS0JVT2JxMUo3a1NrMEc1djF3MzVhc3FzNTZGb3NPeVBVYnN6X3VDZzdSN2xPanl0MWdKRXNoQ1VCbTZFSkYwS1BaTEFEek9IZ09fV3lJLWVrZzE0Uk9fMHhyZWVWd084UGZ3b1FFUGFDSXpTS3NlOTQ0dkJmMzVmZ2p1cWRxakJsMmFocFQ5UHgzcEE?oc=5",
+   "outlet": "Outlook India",
+   "via": "Google News",
+   "published": "2026-11-21T09:46:38+00:00",
+   "seen": "2026-11-21T11:13:58+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 day one sales set records, surpassing a prior blockbuster."
   },
   {
    "id": "gta 6 hits more than 2 000 negative metacritic reviews despite a record breaking 32 5 million preorder launch",
