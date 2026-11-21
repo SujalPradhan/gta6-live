@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:39:45+00:00",
- "started": "2026-11-21T12:39:39+00:00",
+ "updated": "2026-11-21T12:44:38+00:00",
+ "started": "2026-11-21T12:44:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T12:39:40+00:00"
+   "checked": "2026-11-21T12:44:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T12:39:40+00:00"
+   "checked": "2026-11-21T12:44:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T12:39:40+00:00"
+   "checked": "2026-11-21T12:44:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T12:39:41+00:00"
+   "checked": "2026-11-21T12:44:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T12:39:41+00:00"
+   "checked": "2026-11-21T12:44:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T12:39:41+00:00"
+   "checked": "2026-11-21T12:44:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-21T12:39:41+00:00"
+   "checked": "2026-11-21T12:44:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T12:39:41+00:00"
+   "checked": "2026-11-21T12:44:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T12:39:42+00:00"
+   "checked": "2026-11-21T12:44:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T12:39:42+00:00"
+   "checked": "2026-11-21T12:44:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T12:39:43+00:00"
+   "checked": "2026-11-21T12:44:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T12:39:43+00:00"
+   "checked": "2026-11-21T12:44:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T12:39:43+00:00"
+   "checked": "2026-11-21T12:44:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T12:39:43+00:00"
+   "checked": "2026-11-21T12:44:35+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 door code for moses declasse vamos vehicle mission",
+   "title": "GTA 6: Door code for Moses’ Declasse Vamos vehicle mission",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-moses-declasse-vamos-door-code/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-21T12:43:35+00:00",
+   "seen": "2026-11-21T12:44:33+00:00",
+   "summary": "How to steal the Declasse Vamos for Moses in Grand Theft Auto 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a door code for Moses’ Declasse Vamos vehicle mission in GTA 6."
+  },
+  {
+   "id": "a combination guide for electronic locks in grand theft auto vi has appeared online",
+   "title": "A combination guide for electronic locks in Grand Theft Auto VI has appeared online.",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUdoYWlyOEpQbkdqR1I4aVlmbEoyRElXUnB0eW9hUWlSVGMxTzlPNGlHelV0LXNaLWp4WVF2Tmsxb1JwYUxhWmYzZ0t5aWc3bEpiM3NSaV9YNV9zWXlqcUhhNFRUMjFmWmN4LWJuQi1yRGNNSUd6VWxWdXE5X29tLUZtZWlxU2Z4RkZraE5FWFpUcTJ4VTlOazlnekxPZ2VKb0hJekNnQkpOdWdMT2J1anFSVEszeHhpV2prSzNR?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-21T12:37:31+00:00",
+   "seen": "2026-11-21T12:44:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a guide for electronic locks in Grand Theft Auto VI that has appeared online."
+  },
   {
    "id": "ishowspeed breaks down in tears after finishing gta 6 in 52 hours without sleeping",
    "title": "IShowSpeed breaks down in tears after finishing GTA 6 in 52 hours without sleeping",
@@ -129,6 +155,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that Grand Theft Auto 6 earns a record amount on its first day."
+  },
+  {
+   "id": "rockstar did the impossible once again first impressions of gta vi after 25 hours",
+   "title": "Rockstar did the impossible once again: first impressions of GTA VI after 25 hours",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUU1aQXRJNkFDdVlXUXBTeFBjYjNucWE2X25PMlcxbEoxS3dDdEphZkh1THpXc2NWUGF1eFdscEZrMzBfV1J1cjl5d1FXSmdMRWVXVU9HMkJiMFg2cXdsb0JZbEJxaU0za1p3dkh4N0JyUHVvRUdRcUNOaXdfTnU4YU5sUFFQT1cwUThNRXE1Yy1GaXAzWXR1UGVacnBQODZZSlI1aDcyd0FNV2dYb01zbzFpR0I2dlI2d3ZpaFhhLVpzeU3SAcgBQVVfeXFMT2Z6Qk91cEswOElseW1Idm9iaDRMMWQwRzBsM2RJdkFBWVY2VnJhOG5NWnV2dkJ0azZ5TGtPYkJ3Y3EwSEdjUmZLWFcyUW9PcHVyaFYxMjNVNUM3c2xxRzRBT1BzSXY4U1R5UE1xME44VHRpV0c2NWc5NHZWTkxtOVVwOXdOZExHaWhNRl9GQWVhWlRiVzVUU1pjRWtqbnZMQ3l3YXQtSmxJbHgwajEyQ0hQQUJMOTdWNzIwRi1DTGNfek1fQVl5Yzk?oc=5",
+   "outlet": "iXBT.games",
+   "via": "Google News",
+   "published": "2026-11-21T12:36:00+00:00",
+   "seen": "2026-11-21T12:44:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports first impressions of GTA VI after twenty-five hours, noting it as impressive."
   },
   {
    "id": "how to choose the right console for gta 6",
