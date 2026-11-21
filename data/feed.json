@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:37:04+00:00",
- "started": "2026-11-21T20:36:57+00:00",
+ "updated": "2026-11-21T20:42:06+00:00",
+ "started": "2026-11-21T20:41:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T20:36:58+00:00"
+   "checked": "2026-11-21T20:42:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-21T20:36:58+00:00"
+   "hits": 94,
+   "checked": "2026-11-21T20:42:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T20:36:59+00:00"
+   "checked": "2026-11-21T20:42:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-21T20:36:59+00:00"
+   "hits": 8,
+   "checked": "2026-11-21T20:42:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T20:36:59+00:00"
+   "checked": "2026-11-21T20:42:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T20:37:00+00:00"
+   "checked": "2026-11-21T20:42:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T20:37:00+00:00"
+   "checked": "2026-11-21T20:42:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T20:37:01+00:00"
+   "checked": "2026-11-21T20:42:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T20:37:01+00:00"
+   "checked": "2026-11-21T20:42:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T20:37:01+00:00"
+   "checked": "2026-11-21T20:42:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T20:37:02+00:00"
+   "checked": "2026-11-21T20:42:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T20:37:02+00:00"
+   "checked": "2026-11-21T20:42:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T20:37:02+00:00"
+   "checked": "2026-11-21T20:42:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T20:37:02+00:00"
+   "checked": "2026-11-21T20:42:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 avery pawn shop safe code how to find and open the safe",
+   "title": "GTA 6 Avery Pawn Shop Safe Code: How to Find and Open the Safe",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-avery-pawn-shop-safe-code-how-to-find-and-open-the-safe/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-21T20:41:28+00:00",
+   "seen": "2026-11-21T20:42:01+00:00",
+   "summary": "How to find the Avery Pawn safe code",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how to find and open the safe in Avery Pawn Shop in GTA 6."
+  },
   {
    "id": "gta 6 faces review bombing despite 99 metascore",
    "title": "GTA 6 Faces Review Bombing Despite 99 Metascore",
@@ -116,6 +129,32 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is facing review bombing despite a Metascore."
+  },
+  {
+   "id": "should you proceed or postpone when you meet abe in the protective custody mission in gta 6",
+   "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXJ6THdvNkhBZEtlWnBLdlBlekhlejE1OWFnVmw5WXp0SGtxT0pJVGRkZGdVZTdBeG5KTEdpbG9Mcnd5amJwbXNUdldDMlNPZ3ZaSUpjZFN4NXcxcEJxWGRobXlLa3plUlp0XzJob01iSEY0VTV6VlZWM2xoclREQjVvaFpMYmxZcHVVd0xYbWN6b2NUZzcwRm9kbUNQU0dsbS1tZmJ5c2Z3TGc4?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-21T20:32:43+00:00",
+   "seen": "2026-11-21T20:42:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses whether you should proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6."
+  },
+  {
+   "id": "gta 6 fans are loving new rockstar games freebies",
+   "title": "GTA 6 Fans Are Loving New Rockstar Games Freebies",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JSmhRWXppTnd1TS15TFZYUUVOd1MwWTRmWVJ6ZzVUM1liNEROa0gwRms5eE9WdTFzdG1YdVBfMGs4RmRyWmtkcF9SMWUwZ2hBVjAyRE5JZkFSbFdVbVJPbmxzNzhrcWVXX1hIMXh3?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-21T20:31:18+00:00",
+   "seen": "2026-11-21T20:42:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes that fans are loving new freebies from Rockstar Games for GTA 6."
   },
   {
    "id": "gta 6 where you know brian heder actor stephen root from",
@@ -2900,6 +2939,19 @@
    "ai_summary": "The story claims GTA 6 launch sales hit a record figure and surpassed all-time entertainment benchmarks in the first day."
   },
   {
+   "id": "gta 6 code in box format hurts physical sales at gamestop",
+   "title": "GTA 6 code in box format hurts physical sales at GameStop",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3ZjdE1JVUxBTkk1eXdHZEV0bDl6X3drRjdDbWRqZUtxQWgwalN6WDlWT3E1djNqTmNjOEhwOTNSZG9jNU5tcXNzMUl4c19YR29Wc3NRZHNWWG1HY2dqMW1ic1paMmR0QURvVWNRdWtlQU9VSjBfeWhUbGQ0cUpHLTNR?oc=5",
+   "outlet": "ARYnews.tv",
+   "via": "Google News",
+   "published": "2026-11-21T13:16:05+00:00",
+   "seen": "2026-11-21T20:42:00+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story states that a code in box format for GTA 6 affects physical sales at GameStop."
+  },
+  {
    "id": "world of dypians opens a gta vi inspired zone with a 150 000 point logo hunt on bnb chain",
    "title": "World of Dypians Opens a GTA VI Inspired Zone With a 150,000 Point Logo Hunt on BNB Chain",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1p0dzhuXzRmVXV3MGNidnBLU2xYeFFjd1RZOUZJTjNYUkhzem55akl3cUMwT2U5WmRqWFd0NHdVcHRTZ19Sd1VMMEFIVWV6Snl3Q1lhV0ExVmZfeko5LWtGU20yYTRIUnlzTm1NeE1YVlhrbDJKRGJrRWtSb0dmcGxfazQxckl6S2hiYmM0LVZrdmVmM2pGTWwxcGhObDVpX0Z4djBQQUVROHcy?oc=5",
@@ -5446,6 +5498,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 shatters sales records and hackers exploit hype with PC malware and corporate phishing."
+  },
+  {
+   "id": "why is gta 6 being review bombed on metacritic",
+   "title": "Why is GTA 6 being review-bombed on Metacritic?",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RbXNReHFPY05JVjdsY3FMc0ZXajh5Vm9YazhvX1RTZW9rZEcyWWRDTWdyMl9xTzJqS2U1T1NFbmRkQ3EyMkxhVU1aMktPR1RhZXZheXdPRGh6bDBiNXI2d1NidFJBZURvUlVDYm9xR2JzdlBk?oc=5",
+   "outlet": "Sportskeeda",
+   "via": "Google News",
+   "published": "2026-11-21T05:46:00+00:00",
+   "seen": "2026-11-21T20:42:00+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story questions why GTA 6 is being review-bombed on Metacritic."
   },
   {
    "id": "vehicles gta 6 guide",
