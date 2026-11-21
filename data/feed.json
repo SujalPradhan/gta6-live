@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:47:40+00:00",
- "started": "2026-11-21T22:47:34+00:00",
+ "updated": "2026-11-21T22:52:45+00:00",
+ "started": "2026-11-21T22:52:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T22:47:35+00:00"
+   "checked": "2026-11-21T22:52:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T22:47:35+00:00"
+   "checked": "2026-11-21T22:52:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T22:47:36+00:00"
+   "checked": "2026-11-21T22:52:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T22:47:36+00:00"
+   "checked": "2026-11-21T22:52:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T22:47:36+00:00"
+   "checked": "2026-11-21T22:52:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T22:47:36+00:00"
+   "checked": "2026-11-21T22:52:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T22:47:37+00:00"
+   "checked": "2026-11-21T22:52:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T22:47:37+00:00"
+   "checked": "2026-11-21T22:52:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T22:47:38+00:00"
+   "checked": "2026-11-21T22:52:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T22:47:38+00:00"
+   "checked": "2026-11-21T22:52:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T22:47:38+00:00"
+   "checked": "2026-11-21T22:52:42+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T22:47:38+00:00"
+   "checked": "2026-11-21T22:52:42+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T22:47:38+00:00"
+   "checked": "2026-11-21T22:52:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T22:47:39+00:00"
+   "checked": "2026-11-21T22:52:42+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "The story questions whether GTA VI is the greatest game of all time, according to Only Comic Universe."
+  },
+  {
+   "id": "best speakers and gaming headsets for gta vi on ps5 and xbox make vice city sound as good as it looks",
+   "title": "Best Speakers and Gaming Headsets for GTA VI on PS5 and Xbox: Make Vice City Sound as Good as It Looks",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFN3Z0lYTXRMTUNxZlR3RlhwNURBWThBMU5peXc2bTF5MS1OQm9pcFFuV0Qybi1ubGlXSG1fZWE1TThzZHIwRUphalY4dUJXTXYwNTZjT1VUVm9hUlZ3WXh6Y1RNZU5UbnJhV01QRHM4OWVDTzE4eFRlSXlON3hJSWhDRTcwM1Q0?oc=5",
+   "outlet": "eCoustics",
+   "via": "Google News",
+   "published": "2026-11-21T22:42:14+00:00",
+   "seen": "2026-11-21T22:52:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses selecting the best speakers and gaming headsets for GTA VI on PS5 and Xbox to enhance sound in Vice City."
   },
   {
    "id": "why is gta 6 being review bombed a 5 6 user score on metacritic against a 99 from critics",
