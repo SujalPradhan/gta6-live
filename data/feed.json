@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:41:46+00:00",
- "started": "2026-11-21T19:41:40+00:00",
+ "updated": "2026-11-21T19:46:48+00:00",
+ "started": "2026-11-21T19:46:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T19:41:41+00:00"
+   "checked": "2026-11-21T19:46:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T19:41:41+00:00"
+   "checked": "2026-11-21T19:46:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-21T19:41:42+00:00"
+   "hits": 99,
+   "checked": "2026-11-21T19:46:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T19:41:42+00:00"
+   "checked": "2026-11-21T19:46:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T19:41:42+00:00"
+   "checked": "2026-11-21T19:46:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T19:41:43+00:00"
+   "checked": "2026-11-21T19:46:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T19:41:43+00:00"
+   "checked": "2026-11-21T19:46:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T19:41:43+00:00"
+   "checked": "2026-11-21T19:46:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T19:41:43+00:00"
+   "checked": "2026-11-21T19:46:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T19:41:43+00:00"
+   "checked": "2026-11-21T19:46:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T19:41:44+00:00"
+   "checked": "2026-11-21T19:46:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T19:41:44+00:00"
+   "checked": "2026-11-21T19:46:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T19:41:44+00:00"
+   "checked": "2026-11-21T19:46:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T19:41:44+00:00"
+   "checked": "2026-11-21T19:46:45+00:00"
   }
  },
  "items": [
@@ -116,6 +116,32 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that parents concerned about kids playing Grand Theft Auto VI feel like the bad guy."
+  },
+  {
+   "id": "ishowspeed teases huge announcement after completing gta 6 following 52 hour livestream",
+   "title": "IShowSpeed teases huge announcement after completing GTA 6 following 52-hour livestream",
+   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOWDJVVUFteDZGeS1jYWFiVzdNUGF1LVh4WUhWZXpqd3dLaEk1ZzRwcEFJLVRFdXN1YXB4RVNrUFBZLWEzVGswX1dMVE5hWmE5bHhvVW5HLXcyX1h4WmVJM1oxdVdzc3RvaXg1VTBBVk80aUlnWDZqX0R1aE9odzNVRkR2M3NwSXhJMU8zbWpzd1JMOWpETUJHdlZjaXhNTnF6SlA4S29VQ3ItSFlaLTF2bU55QWVkLXBzUHZjQWhjTWlLRjg5ZHRna3Vwckh0ZUVac0IwSHNZcTNZejRzNER6dDRZS1RXeXRnT0dFNDRXTGNwNEtmNHZTLUdBWEd5REdtYnFaMDR1M0o2MmF1SGdFZHJ0R0o3R3QxSjhva2ktanhvc0pOdFljcDdyc3c5ME1RQzBUc29ySlVTQThacjJIZ1JhdTlkYjB5ODVuNdIBggJBVV95cUxPVDZUaG1mSWkzY3huR1UtLVNNd0k1aUdtSkJiUnlTWDk1VVNzMnM3NHNLNW9uR2ZZUzVHYkdneGxQclNydURsQXUtY2p4MzMxRzNMU0RuSDh4cVNCWF84RndvMndLOGVVTHYxWllkWHA3MWJiVzlXMDZESld6R1R4RnJxREVrUEQyb3ZyVVdIMFRLUldVV1g2VFBwZHdROGFHLVRWLVZKazA4OWtYQmdWakJMNVBHNmF3cHlCSVdyQmJQakdrbS1BZDJuOS12YklEYWlGMEJZRGVnUUd2aGhNMHBTd203cmhJMk5samFZcVl3dzNMekJRcndXY1d3VXlkQ2c?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-21T19:37:00+00:00",
+   "seen": "2026-11-21T19:46:43+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports that IShowSpeed teases a huge announcement after completing GTA 6 following a 52-hour livestream."
+  },
+  {
+   "id": "grand theft auto vi is here what to know about the characters music and all the hype chronicle tribune",
+   "title": "'Grand Theft Auto VI' is here. What to know about the characters, music and all the hype - Chronicle-Tribune",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUGZPZVNfSEZlNUZIX1JYdTZVTkhITXhUMThuYlNjMkIwSzRHQzRWdXIzOEF1bXlYVWJjdlhqZDBVZ2hGTVlWZTFUVDBsbmJpTUhCMmlFVkdHd2tlTktsdU5zbkhDMzRVckxaMlNabExvVW9NY0ZadmFucFdtQXNxSjJubk9Hb1BDTVZrQ0hTdTZFYUZxM01BZGQ0VTNHLU5MTnpCOV9sTHVVSGFWQmFac3pTd3lkdXE4cWNjYjRLMmxzNDd6cWJ5c2pib1lWQlh4MlpHOEFpdHdEN0Fjc3hGa1Z4VktWamJKUG9nV1JyaUp2aEtHOUo4UnphdlNYUQ?oc=5",
+   "outlet": "Chronicle-Tribune",
+   "via": "Google News",
+   "published": "2026-11-21T19:33:24+00:00",
+   "seen": "2026-11-21T19:46:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes what to know about the characters, music and the hype surrounding Grand Theft Auto VI."
   },
   {
    "id": "gta 6 prologue explained lucia s son tommy and how the mission ends",
@@ -3808,6 +3834,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a GTA 6 hacker pleads guilty."
+  },
+  {
+   "id": "gta 6 has a 99 from critics but a 5 4 user score on metacritic",
+   "title": "GTA 6 Has a 99 From Critics but a 5.4 User Score on Metacritic",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qNXlORkZBUFNGdDVocDQtckhESkt2eFRmV0N4bHk5eUs3aDZ5ckNlbk1za2tpLTBkY002NDdPVGZoWldUck13dWVGQjYwanE2VV9hdFEtdWJCVHlDTzdzeUhkd2RFU04zXzFIdnp3SksyZ01FQWtjMVFUM0k4UQ?oc=5",
+   "outlet": "Happy Gamer",
+   "via": "Google News",
+   "published": "2026-11-21T10:38:07+00:00",
+   "seen": "2026-11-21T19:46:43+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story states that GTA 6 has a high critic score but a low user score on Metacritic."
   },
   {
    "id": "gta 6 rockstar reports the biggest entertainment launch of all time",
