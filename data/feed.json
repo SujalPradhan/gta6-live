@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:00:18+00:00",
- "started": "2026-11-21T15:00:12+00:00",
+ "updated": "2026-11-21T15:05:20+00:00",
+ "started": "2026-11-21T15:05:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T15:00:13+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T15:05:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T15:00:13+00:00"
+   "checked": "2026-11-21T15:05:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-21T15:00:13+00:00"
+   "hits": 98,
+   "checked": "2026-11-21T15:05:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T15:00:14+00:00"
+   "checked": "2026-11-21T15:05:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T15:00:14+00:00"
+   "checked": "2026-11-21T15:05:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-21T15:00:14+00:00"
+   "hits": 50,
+   "checked": "2026-11-21T15:05:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 26,
-   "checked": "2026-11-21T15:00:14+00:00"
+   "hits": 25,
+   "checked": "2026-11-21T15:05:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T15:00:14+00:00"
+   "checked": "2026-11-21T15:05:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T15:00:14+00:00"
+   "checked": "2026-11-21T15:05:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T15:00:15+00:00"
+   "checked": "2026-11-21T15:05:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T15:00:15+00:00"
+   "checked": "2026-11-21T15:05:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T15:00:15+00:00"
+   "checked": "2026-11-21T15:05:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T15:00:15+00:00"
+   "checked": "2026-11-21T15:05:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T15:00:15+00:00"
+   "checked": "2026-11-21T15:05:18+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is crashing on some ps5s with error ce 108255 1",
+   "title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
+   "link": "https://www.eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-21T15:03:50+00:00",
+   "seen": "2026-11-21T15:05:17+00:00",
+   "summary": "Some Grand Theft Auto 6 players on PS5 say the game keeps crashing with error code CE-108255-1, and in some cases, it's stopping them from progressing through the story. Read more",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "GTA 6 on PS5 is crashing for some players with error CE-108255-1, and the issue can block story progression according to Eurogamer."
+  },
+  {
+   "id": "i feared gta 6 was a rockstar retread until its love story stole my heart",
+   "title": "I Feared GTA 6 Was a Rockstar Retread, Until Its Love Story Stole My Heart",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzVfXzNodnc2Q0RxdGZxOVdKbEY4OVA1bm9BTEltX0hfZ1JmYklZNXpFRlhYSlBsdUpZSnZsLXYtaVdNaTcwM0plZm9WMldXYWZ6aFF6aUZrbmF0OWxtTWVUTmRPZ3pwcFRNUDRBdTFFZVJRUmFJZXkxRWhWTmZIbzg5YVZTREFzVzZ5bGF4eXRQYU1UYUs4V0Y4WmhxWWZBWktuYWZ2NA?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-21T15:00:17+00:00",
+   "seen": "2026-11-21T15:05:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "PCMag discusses a love story in GTA 6 that changed the reviewer’s initial impression."
+  },
+  {
+   "id": "gta 6 forgot to include the 1 reason to go to actual florida",
+   "title": "GTA 6 Forgot to Include the #1 Reason to Go to Actual Florida",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yVHU3c19PMUp5N1lqZ1J6RTlETHR3U1p2UEJDZURaRXdyaUctckpWRnEzMGtjVjNPQWVfMFZjQ0ZXdmlQTnFOb0NSYXZwTldJaFl4U1Y4LV84cWZUYU4yQg?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-21T15:00:17+00:00",
+   "seen": "2026-11-21T15:05:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Polygon.com highlights GTA 6 lacking the top reason to visit Florida, per its headline."
+  },
+  {
+   "id": "ps5 survives gta 6 s unfathomably humongous launch without a hitch",
+   "title": "PS5 Survives GTA 6's Unfathomably Humongous Launch without a Hitch",
+   "link": "https://www.pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-21T15:00:00+00:00",
+   "seen": "2026-11-21T15:05:18+00:00",
+   "summary": "Sony delivers steady and stable experience. We’d rightly criticise Sony if the PS5 had fallen to pieces during GTA 6’s launch, so let’s give the platform holder a nod of approval for navigating these past two weeks almost flawlessly. There were some minor scattered instances of PSN outages on Wednesday evening prior to the Rockstar title’s big launch, but these never affected everyone and the netw",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "Push Square reports a smooth PS5 launch for GTA 6 with minor PSN outages that did not affect everyone."
+  },
   {
    "id": "gta 6 la cascara motel safe code how to find and open the safe",
    "title": "GTA 6 La Cascara Motel safe code: How to find and open the safe",
@@ -324,6 +376,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA VI FSR 4.1 on Xbox Series X delay is unconfirmed, according to shattered.io."
+  },
+  {
+   "id": "gta vi fsr 4 1 on xbox 1 year delay claim unproven",
+   "title": "GTA VI FSR 4.1 on Xbox: 1-Year Delay Claim Unproven",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlhmdF9qS0p2dlFZQ0NwZnJRX3pBUW9LX1RwUHhwUlMwbFRNamdVQ0JQcVdEUFlURVdFR2xSUzZQcThUcTFDTmE1cVNQbXZRaWtKY0hKRld0d20tZEZRWmJ0M0hMMW9Tb3JiVmVaR2t5VUhObWFBaFRwNXppTnZRb0xKYWVYUHRDWDh3?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-21T14:19:24+00:00",
+   "seen": "2026-11-21T15:05:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Shattered.io questions a claimed one-year delay for GTA VI FSR 4.1 on Xbox but states the claim is unproven."
   },
   {
    "id": "gta 6 transgressor north of sarena s bargains",
