@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:02:14+00:00",
- "started": "2026-11-21T21:02:09+00:00",
+ "updated": "2026-11-21T21:07:13+00:00",
+ "started": "2026-11-21T21:07:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T21:02:10+00:00"
+   "checked": "2026-11-21T21:07:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-21T21:02:10+00:00"
+   "checked": "2026-11-21T21:07:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-21T21:02:10+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-21T21:07:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T21:02:11+00:00"
+   "checked": "2026-11-21T21:07:08+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T21:02:11+00:00"
+   "checked": "2026-11-21T21:07:08+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T21:02:11+00:00"
+   "checked": "2026-11-21T21:07:08+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T21:02:11+00:00"
+   "checked": "2026-11-21T21:07:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-21T21:02:11+00:00"
+   "checked": "2026-11-21T21:07:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T21:02:11+00:00"
+   "checked": "2026-11-21T21:07:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T21:02:11+00:00"
+   "checked": "2026-11-21T21:07:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T21:02:11+00:00"
+   "checked": "2026-11-21T21:07:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T21:02:12+00:00"
+   "checked": "2026-11-21T21:07:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T21:02:12+00:00"
+   "checked": "2026-11-21T21:07:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T21:02:12+00:00"
+   "checked": "2026-11-21T21:07:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "best secret gear spot in gta 6 early game insane rifle grenade launcher and more",
+   "title": "Best Secret Gear Spot in GTA 6 Early Game—Insane Rifle, Grenade Launcher, and More",
+   "link": "https://insider-gaming.com/best-secret-loot-location-early-game-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-21T21:02:21+00:00",
+   "seen": "2026-11-21T21:07:09+00:00",
+   "summary": "There's a secret spot in GTA 6 that you can access early to get insane weapons, armor, and valuable items. The post Best Secret Gear Spot in GTA 6 Early Game—Insane Rifle, Grenade Launcher, and More appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a secret early-access location in GTA 6 that provides powerful weapons, armor, and valuable items."
+  },
   {
    "id": "how to switch characters in gta 6 when jason and lucia switching unlocks",
    "title": "How to Switch Characters in GTA 6 – When Jason and Lucia Switching Unlocks",
@@ -675,6 +688,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story covers where to buy the Travis Scott x Nike Air Force 1 “GTA 6.”"
+  },
+  {
+   "id": "what s trending grand theft auto vi hits record sales and sunrise on the reaping hits theaters",
+   "title": "What's trending: 'Grand Theft Auto VI' hits record sales and 'Sunrise on the Reaping' hits theaters",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQN2RobTFxQXpSbnJyTWhGc25SSXotRklzQlJkcTIxMm9xa1BLYlE0Rm1IMlBEdW9TUk9OZWdvcFJ2VU83djhNb2xFcWZnNGt6MDRpYS1rWUhpT1J0YWxSem5yOWpWRlhhRUtQWFBSN3laMUxYNXNIZjVkN19zRGI0eFZFM3ZlbGk4V3k0dVRyNGZfS1kyakZZRDAyaGQzNUpDeEpXVEhaaElOYmRaejBzMGg5S1E5WkpLc3p4WTJjVGtlM0Y1UkZ3VDZ6d09yR0E0ZndlYnRjR1o0NlZDMVphWlFVbl9iMjF5UVpGdlBjN1JwNFo4VUxMUjJWSllfRjU5Y2JN?oc=5",
+   "outlet": "WZZM13.com",
+   "via": "Google News",
+   "published": "2026-11-21T18:50:00+00:00",
+   "seen": "2026-11-21T21:07:06+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA VI achieving record sales and a theater release for Sunrise on the Reaping."
   },
   {
    "id": "neuralink participant showcases what it s like to play gta 6 with his mind",
@@ -1702,6 +1728,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to obtain a Snap Gun in GTA 6 to quietly lockpick doors."
+  },
+  {
+   "id": "players have review bombed gta 6 on metacritic",
+   "title": "Players have review bombed GTA 6 on Metacritic.",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VeVg0Qm80VldCUGlQejBIUngxeGx6SUdzNThUbThnUUxrZkloRkFCUV8wSS1fbmVUdy1GSUZYV2VDS09xcEZROFVXcDVDWGhxcmgwUjR4dW92MGRnMnpQeWplU2xQOHBqSDQ1c3Ezd2V5R1BkTWNoMTBSNA?oc=5",
+   "outlet": "virus.hr",
+   "via": "Google News",
+   "published": "2026-11-21T16:20:00+00:00",
+   "seen": "2026-11-21T21:07:07+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports players review bombing GTA 6 on Metacritic."
   },
   {
    "id": "the most unforgivable crime in gta 6 is that tv placement",
@@ -5498,6 +5537,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The release of Grand Theft Auto VI sparks excitement at Bradley University and highlights the growing world of esports."
+  },
+  {
+   "id": "gta 6 day one sales shatter records generates 3 79 billion",
+   "title": "GTA 6 Day One Sales Shatter Records! Generates $3.79 Billion",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnV1Tl9nNmM1b3BBaWtSUk04ZmwwWGYtdjZtVkxualNlQ0hzOGxSSUxDN1lmQUpfeHhYUDBvVmdZRWRUMy1BdXBZVDVQLXBnY2M5bEtJM0d0OTJfSjZrVXU5LWdYbkVDa1JYa041TWQyQThMSzQ5b1BLOXJuMVBsd2xvTnFOZHBTUWF6Qw?oc=5",
+   "outlet": "TechJuice",
+   "via": "Google News",
+   "published": "2026-11-21T06:37:47+00:00",
+   "seen": "2026-11-21T21:07:07+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 Day One sales reaching a record level, totaling billions in revenue."
   },
   {
    "id": "gta 6 generates 3 79 billion on launch day pre orders surpass 32 5 million copies",
