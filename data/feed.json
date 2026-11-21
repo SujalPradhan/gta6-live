@@ -1,109 +1,148 @@
 {
- "updated": "2026-11-21T18:31:27+00:00",
- "started": "2026-11-21T18:31:21+00:00",
+ "updated": "2026-11-21T18:36:27+00:00",
+ "started": "2026-11-21T18:36:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-21T18:31:21+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-21T18:36:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T18:31:22+00:00"
+   "checked": "2026-11-21T18:36:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T18:31:22+00:00"
+   "checked": "2026-11-21T18:36:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T18:31:23+00:00"
+   "checked": "2026-11-21T18:36:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T18:31:23+00:00"
+   "checked": "2026-11-21T18:36:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-21T18:31:23+00:00"
+   "checked": "2026-11-21T18:36:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T18:31:23+00:00"
+   "checked": "2026-11-21T18:36:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T18:31:24+00:00"
+   "checked": "2026-11-21T18:36:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T18:31:24+00:00"
+   "checked": "2026-11-21T18:36:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T18:31:24+00:00"
+   "checked": "2026-11-21T18:36:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T18:31:24+00:00"
+   "checked": "2026-11-21T18:36:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T18:31:25+00:00"
+   "checked": "2026-11-21T18:36:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T18:31:25+00:00"
+   "checked": "2026-11-21T18:36:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T18:31:25+00:00"
+   "checked": "2026-11-21T18:36:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "the last midnight line how gta vi killed the launch night party",
+   "title": "The Last Midnight Line: How ‘GTA VI’ Killed the Launch-Night Party",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2Y0N2xNckFjRE5YdjN6VC1vT0paSmkwdmc3WlRHQTFwTFpLVjRfV2VWc1BGbEZURjgwbk8zRlFxRWlIeGZHMWNfcGhJalJrQUpHd3V2R0RSZm5zVWUxZzhkdmtuNmtPUks1TGVQMHFuek43cERoS3dEY18xOUtnS2JXcmpMTGNuaHJscWxNeEpuNWhpUDJVNWhR?oc=5",
+   "outlet": "Media Play News",
+   "via": "Google News",
+   "published": "2026-11-21T18:34:25+00:00",
+   "seen": "2026-11-21T18:36:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses how GTA VI affected the launch-night party."
+  },
+  {
+   "id": "gta 6 crashes on ps5 with error ce 108255 1 leaving players stuck between sony and rockstar support",
+   "title": "GTA 6 crashes on PS5 with error CE-108255-1, leaving players stuck between Sony and Rockstar support",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZTRVZzVUUmllOEtDTnFRa0lyNF9mWDctalpiOHdFNDVnUERJWlNMS1l6Z3V6RkJuY0RLVTFFV2MzUXJKVi1GY1h0eENsMENhQmE1bWtHMXZNc2R1TXBubjJBUnprc1Z5ZWdSRmxCZGNhdnVuSEZndGk3bEk5aXB2amlzcGJTUXBJRlFMaWhsc3A0MUdQcnlIcmxrNmhTMXRLRVJoVGo3WVJLLXNSd2thaHZpX2g0dXZKLWtDX0JqdDBZYjlUQW5kbDk1d3pUNjlrNmVLNmV5OVM2UDMw?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-21T18:31:00+00:00",
+   "seen": "2026-11-21T18:36:21+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The piece reports GTA 6 crashes on PS5 with a specific error code and players seeking support from Sony and Rockstar."
+  },
+  {
+   "id": "gta vi earns 3 79 billion dollars in record launch",
+   "title": "GTA VI Earns 3.79 Billion Dollars in Record Launch",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11VHdSM0xqMnlkRlRDWUdXOWZXV3V6SWVSdHE2NkljNW9YdGwtTzVjcHl5T0FSYjU0c3cxNENwZDBVb19IcEp6OWN6bGxxT2lvUUk4Y2dMUmVmRE9iOWJtMFl5WQ?oc=5",
+   "outlet": "Limapagi",
+   "via": "Google News",
+   "published": "2026-11-21T18:28:00+00:00",
+   "seen": "2026-11-21T18:36:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The article states GTA VI earned a record launch revenue of 3.79 billion dollars."
+  },
   {
    "id": "can you repeat robberies in gta 6 make more money fast",
    "title": "Can You Repeat Robberies in GTA 6? Make More Money, Fast",
@@ -116,6 +155,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions whether you can repeat robberies in GTA 6 to make more money quickly."
+  },
+  {
+   "id": "gta 6 how to get a rhino tank challenging tank",
+   "title": "GTA 6: How To Get A Rhino Tank (Challenging Tank)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZVA5T0lKZkdsM1JEdzV6MUl3eDUxZHJVSVpUb2FxZVhJazg3WjVZb29PaWlidHJzcWRmU1ZSX2FlTm9NSm5ORDV6WEhCdmt0VExfQThzOGp4bnpMak9nVUVfb0VRMDFPQl9rMEZ5bHVpcktYeDBTaUNheDZqNWduenlR?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-21T18:26:39+00:00",
+   "seen": "2026-11-21T18:36:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to obtain a Rhino Tank in GTA 6, described as challenging."
+  },
+  {
+   "id": "gta 6 leak tied to 15 million crypto goal as pirated build spreads",
+   "title": "GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVnVYYVYwY1RNMkVBVlowZDJ0anQ0elU0ODJpZ3N3R19ucG5oeTdTQzRHY3p3SktmZGUteGVVSjlRekRsR1BEN3U3d2h0V013QUVNSnJsaXVTY1lrZUtLOFVQWkFfX3c1YzBpZ0xwNjF5WHJrX1E?oc=5",
+   "outlet": "BigGo Finance",
+   "via": "Google News",
+   "published": "2026-11-21T18:25:00+00:00",
+   "seen": "2026-11-21T18:36:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The report links a GTA 6 leak to a $15 million crypto goal and describes a pirated build spreading."
   },
   {
    "id": "gta vi metacritic score odds prediction market analysis",
@@ -207,6 +272,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports revealing the secret entrance to Mile Zero Air Station for GTA 6, per Cultured Vultures."
+  },
+  {
+   "id": "gta 6 launch drives surge in food snack and energy drink orders in the us",
+   "title": "GTA 6 Launch Drives Surge In Food, Snack And Energy Drink Orders In The US",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3kxS3M3ZDF0Yjk5QjhmOVdrUVJQZmkydHlRRHlRRFBBZTdqdTVfMUhvWGdQZjhFckNmQ2RwbmJiOWxCSzhnWXdGdTJZNHJuaFBSTDFNLXVtX3pXNDdHWnpOSEZsbFRVckxGTGZZWWctdHgydHJOT1RsY1dRWkljVG9hNkxGZlVjQjNDUTgzT0VjcFJrZFRkSTdqSHdrb1FlT1pWQ0FZQlRuRE1YemfSAbYBQVVfeXFMTURWc3pxQl9UT3k3VDhWOU5PaXNGMUlmVldEcHdtbkxiWERpNHpNQmNjV1A3bzhtQl8wc2VhQXF5Q0NsUUtsdlY2UVFNeWREODhJT1BHMGZXdFl5R2sybm81N1l5ZnAwZ3ZSa29MUXBiaERYcTJYSDJtZklEUmNVb0JBdGRMM2VMaGFXQ1NLUEl4WWhVZlZSWUZhd1VHTmRjQmR6WXZkTnMtSkh3Y3dGbm52SnRGYVE?oc=5",
+   "outlet": "NDTV Food",
+   "via": "Google News",
+   "published": "2026-11-21T18:01:53+00:00",
+   "seen": "2026-11-21T18:36:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes GTA 6 launch increased orders for food, snacks, and energy drinks in the US."
   },
   {
    "id": "gta 6 leaker dangles a pc port behind a 15 million crypto pump",
@@ -532,6 +610,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 electric cars feature 120 chargers versus 57 gas stations."
+  },
+  {
+   "id": "gta vi ev chargers 120 reported vs 57 gas stations",
+   "title": "GTA VI EV Chargers: 120 Reported vs 57 Gas Stations",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUhUNnZOOUJnRVFIZWR6LThVRFRKVWhzMmJ4YVdxcjRQTC0zOXRBZUxwREVUQVgySDVxbkNHR09WYWozeFduOVVPSHp5T0lQZEU3RWQ2VVVnZ0x1X3N0Y1lxeGRhOWJ1WWtnLTdpR0Z2cmhUT21uZE44Z2E1NVdZWXBmWmpiYk9BOVE?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-21T16:59:23+00:00",
+   "seen": "2026-11-21T18:36:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The article contrasts GTA VI EV charging with the number of gas stations reported."
   },
   {
    "id": "bill maher says gta 6 release has caused more workplace absences than ice",
