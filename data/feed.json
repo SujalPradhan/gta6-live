@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:06:01+00:00",
- "started": "2026-11-21T17:05:53+00:00",
+ "updated": "2026-11-21T17:10:58+00:00",
+ "started": "2026-11-21T17:10:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-21T17:05:54+00:00"
+   "checked": "2026-11-21T17:10:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T17:05:54+00:00"
+   "checked": "2026-11-21T17:10:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T17:05:55+00:00"
+   "checked": "2026-11-21T17:10:53+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:05:55+00:00"
+   "checked": "2026-11-21T17:10:53+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T17:05:55+00:00"
+   "checked": "2026-11-21T17:10:53+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-21T17:05:56+00:00"
+   "checked": "2026-11-21T17:10:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T17:05:56+00:00"
+   "checked": "2026-11-21T17:10:54+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T17:05:56+00:00"
+   "checked": "2026-11-21T17:10:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T17:05:56+00:00"
+   "checked": "2026-11-21T17:10:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T17:05:57+00:00"
+   "checked": "2026-11-21T17:10:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T17:05:57+00:00"
+   "checked": "2026-11-21T17:10:55+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T17:05:58+00:00"
+   "checked": "2026-11-21T17:10:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T17:05:58+00:00"
+   "checked": "2026-11-21T17:10:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T17:05:58+00:00"
+   "checked": "2026-11-21T17:10:56+00:00"
   }
  },
  "items": [
@@ -131,6 +131,32 @@
    "ai_summary": "Movies inspired GTA 6: Lucia and Jason’s story is based on Pulp Fiction, Bonnie and Clyde, and other cinema classics."
   },
   {
+   "id": "these fans waited over a decade for gta vi here s how they celebrated",
+   "title": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated.",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjhEYkRqdG81LV9ZZm9ScHRKYTUybnFBc3NHOWQ2dTFCZURHem9fMWVKWklZMXRvNTlodjgyWm5Ca0NfLXFZWEFOdVl2LTdmODRmVXV0WERkNklXM0hPMnRha3ExS1FNS0cwM0FBcVJDbzVoS01ib3N4Wm92YWJHSUdTTVFyaUcweXVoTUU4Y2N4WHB3d0hqSktqWTRXSi1pMUs0amI3eWJwdGVUWVhjWDBHRm1tZVcyS0IwMkl5Q1BzYTNt?oc=5",
+   "outlet": "NBC News",
+   "via": "Google News",
+   "published": "2026-11-21T17:00:00+00:00",
+   "seen": "2026-11-21T17:10:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how fans celebrated after waiting over a decade for GTA VI."
+  },
+  {
+   "id": "who is brian heder in gta 6 jason s connection explained",
+   "title": "Who Is Brian Heder In GTA 6? Jason's Connection Explained",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WbjF4dUMyX1NqZTZsRk8zVzl4RUhKdDBNVnhtNlFIUVhGNVdyUjhMeFE0bW9Sbnp6YWNWLUhRWnN6MkNQcUwzVGlrYm1mUjZlaHR6V1RIUmxldVg3bGxsak5DWWtwaEU3b05mQUpCa1ZWX1Qy?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-21T17:00:00+00:00",
+   "seen": "2026-11-21T17:10:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions the identity of Brian Heder in GTA 6 and explains Jason's connection."
+  },
+  {
    "id": "gta 6 electric cars 120 chargers vs 57 gas stations",
    "title": "GTA 6 Electric Cars: 120 Chargers vs 57 Gas Stations",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUhUNnZOOUJnRVFIZWR6LThVRFRKVWhzMmJ4YVdxcjRQTC0zOXRBZUxwREVUQVgySDVxbkNHR09WYWozeFduOVVPSHp5T0lQZEU3RWQ2VVVnZ0x1X3N0Y1lxeGRhOWJ1WWtnLTdpR0Z2cmhUT21uZE44Z2E1NVdZWXBmWmpiYk9BOVE?oc=5",
@@ -155,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Bill Maher says GTA 6 release has caused more workplace absences than ice."
+  },
+  {
+   "id": "man claiming to be fired rockstar engineer says gta 6 is secretly tracking player behavior and reporting it to take two",
+   "title": "Man Claiming To Be Fired Rockstar Engineer Says GTA 6 Is Secretly Tracking Player Behavior and Reporting It to Take-Two",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFQ0MFV5TjNJaHRaS2U1bjVkTXRzRzBaVU5Dc3hCV1BLcXpobGlaOWJ6blRnUzRVS3VfV3FDbENJMFNYYVNLak85OGEzd2hRbTNuaW5LN0tBX2lSam52Z2tsSEI2OXg5Si11TTBod2FWNmZtdUFMczhueHB0ZnVsLW9RX0dJbjVhaGhhWjhKb1B4bzZP?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-21T16:57:20+00:00",
+   "seen": "2026-11-21T17:10:52+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story covers a man claiming to be a fired Rockstar engineer alleging GTA 6 secretly tracks player behavior and reports it to Take-Two."
   },
   {
    "id": "how to use auto drive in gta 6",
