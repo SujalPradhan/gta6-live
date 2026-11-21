@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T00:40:42+00:00",
- "started": "2026-11-21T00:40:36+00:00",
+ "updated": "2026-11-21T00:45:49+00:00",
+ "started": "2026-11-21T00:45:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:40:37+00:00"
+   "checked": "2026-11-21T00:45:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:40:37+00:00"
+   "checked": "2026-11-21T00:45:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T00:40:38+00:00"
+   "checked": "2026-11-21T00:45:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-21T00:40:38+00:00"
+   "checked": "2026-11-21T00:45:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-21T00:40:38+00:00"
+   "checked": "2026-11-21T00:45:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T00:40:38+00:00"
+   "checked": "2026-11-21T00:45:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-21T00:40:39+00:00"
+   "checked": "2026-11-21T00:45:47+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T00:40:39+00:00"
+   "checked": "2026-11-21T00:45:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-21T00:40:39+00:00"
+   "checked": "2026-11-21T00:45:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-21T00:40:39+00:00"
+   "checked": "2026-11-21T00:45:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-21T00:40:40+00:00"
+   "checked": "2026-11-21T00:45:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T00:40:40+00:00"
+   "checked": "2026-11-21T00:45:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T00:40:40+00:00"
+   "checked": "2026-11-21T00:45:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T00:40:40+00:00"
+   "checked": "2026-11-21T00:45:47+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi sets record with 3 79 billion in first day retail sales",
+   "title": "'Grand Theft Auto VI' sets record with $3.79 billion in first-day retail sales",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXBMRXNLMmg4RWNQajNsRFA2ZU5ybUJYLVl1R2V1TTJHOUZlN1hrNVdGRnlKYnIxMkd4bmdYUk8ybzJPWm01WXlLdE5PWVdCZXNtQzk3TllzQXZMbDkxOWpQWGFWbm9oVmZobWJEMUQ4MlREYmdhUFpaT1pKd05UeVRzYjF3bGJVQVVtMURnME95al9LYm8xQmZRV3YtN0pFMFZYOWpsdkZBUlA5UHJXZ1cyb2RTUl9HVFJqT0x2N3NwdjczNmg1VFd6ZWZ1Um44VzdiUlQwZWhsbnZFaWF2aXRRTHJBbW5tdmJr?oc=5",
+   "outlet": "KGW",
+   "via": "Google News",
+   "published": "2026-11-21T00:40:00+00:00",
+   "seen": "2026-11-21T00:45:45+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI set a record with first-day retail sales of $3.79 billion."
+  },
   {
    "id": "gta 6 ties zelda ocarina of time for highest metacritic score ever",
    "title": "‘GTA 6’ Ties ‘Zelda: Ocarina of Time’ for Highest Metacritic Score Ever",
@@ -311,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Experts offer tips for parents on handling hype around GTA VI and its mature content."
+  },
+  {
+   "id": "gta 6 players captivated by mandy apparently include a former nintendo president",
+   "title": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0dnaUF0WVdRSDVma2kzWUMyV19abnNfVjRtQmdZX1E0V19id0dNM3ZJbVA5Z2daek9VN2VidWhYeXJzcmQ3bHN5eng1bVBfdHh4S3lvVEwzTHFVbWRIcEZiMl9CQjV5SDFhRE56bXpvTUxnTE1IWDhpVzFmbUYxTWxUcUFRX1BpX1ZYYlNHajhVUDJjYUFkcEUxNEFjelROUVFlN3NCOG5IcS1xTG9tby1TYlBudw?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-20T23:34:38+00:00",
+   "seen": "2026-11-21T00:45:45+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 players apparently include a former Nintendo president, captivating the community."
   },
   {
    "id": "grand theft auto vi shatters records making 3 79 billion in 24 hours as the biggest entertainment launch ever",
