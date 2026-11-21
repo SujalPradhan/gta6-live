@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:55:54+00:00",
- "started": "2026-11-21T16:55:47+00:00",
+ "updated": "2026-11-21T17:01:00+00:00",
+ "started": "2026-11-21T17:00:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T16:55:48+00:00"
+   "checked": "2026-11-21T17:00:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T16:55:48+00:00"
+   "checked": "2026-11-21T17:00:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T16:55:49+00:00"
+   "checked": "2026-11-21T17:00:52+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T16:55:49+00:00"
+   "checked": "2026-11-21T17:00:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T16:55:49+00:00"
+   "checked": "2026-11-21T17:00:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-21T16:55:49+00:00"
+   "checked": "2026-11-21T17:00:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-21T16:55:50+00:00"
+   "checked": "2026-11-21T17:00:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-21T16:55:50+00:00"
+   "checked": "2026-11-21T17:00:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-21T16:55:50+00:00"
+   "checked": "2026-11-21T17:00:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T16:55:50+00:00"
+   "checked": "2026-11-21T17:00:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-21T16:55:51+00:00"
+   "checked": "2026-11-21T17:00:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T16:55:51+00:00"
+   "checked": "2026-11-21T17:00:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T16:55:51+00:00"
+   "checked": "2026-11-21T17:00:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T16:55:51+00:00"
+   "checked": "2026-11-21T17:00:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "bill maher says gta 6 release has caused more workplace absences than ice",
+   "title": "Bill Maher Says GTA 6 Release Has ‘Caused More Workplace Absences Than Ice’",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPUmxVZU1hbnIyUG1xdE1vWWV5Y05fQmxXUFo1ZERua19JZEhuUWxqS2JNMzdkWHZjaHg0QVFIbjlqZHNMQ2RETGpBVG1xbEdtaDlQQmRvSGViV2tPc2NSVUMzRm9ndw?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-21T16:58:17+00:00",
+   "seen": "2026-11-21T17:00:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Bill Maher says GTA 6 release has caused more workplace absences than ice."
+  },
+  {
+   "id": "how to use auto drive in gta 6",
+   "title": "How to use auto drive in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94R1BYdUlHWDRGSng3d2hkQ0Fra2FuVFB5UEdMM1BoX08tUXQwTFI1Nkx6WGdwdV9nYkFCbHN4ZVFidXM2N2xaZk1KbTRtR21qSGxub21JeUtSeTZs?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-21T16:53:58+00:00",
+   "seen": "2026-11-21T17:00:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to use auto drive in GTA 6."
+  },
   {
    "id": "gta 6 equipment all 12 pieces of equipment explained and how to unlock them",
    "title": "GTA 6 Equipment: All 12 pieces of equipment explained and how to unlock them",
