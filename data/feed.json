@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:34:34+00:00",
- "started": "2026-11-21T12:34:28+00:00",
+ "updated": "2026-11-21T12:39:45+00:00",
+ "started": "2026-11-21T12:39:39+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T12:34:28+00:00"
+   "checked": "2026-11-21T12:39:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-21T12:34:29+00:00"
+   "checked": "2026-11-21T12:39:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-21T12:34:29+00:00"
+   "checked": "2026-11-21T12:39:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-21T12:34:29+00:00"
+   "checked": "2026-11-21T12:39:41+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-21T12:34:30+00:00"
+   "checked": "2026-11-21T12:39:41+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-21T12:34:30+00:00"
+   "checked": "2026-11-21T12:39:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-21T12:34:30+00:00"
+   "checked": "2026-11-21T12:39:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 16,
-   "checked": "2026-11-21T12:34:30+00:00"
+   "hits": 17,
+   "checked": "2026-11-21T12:39:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-21T12:34:30+00:00"
+   "hits": 7,
+   "checked": "2026-11-21T12:39:42+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-21T12:34:30+00:00"
+   "checked": "2026-11-21T12:39:42+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-21T12:34:31+00:00"
+   "checked": "2026-11-21T12:39:43+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-21T12:34:31+00:00"
+   "checked": "2026-11-21T12:39:43+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-21T12:34:31+00:00"
+   "checked": "2026-11-21T12:39:43+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-21T12:34:31+00:00"
+   "checked": "2026-11-21T12:39:43+00:00"
   }
  },
  "items": [
+  {
+   "id": "ishowspeed breaks down in tears after finishing gta 6 in 52 hours without sleeping",
+   "title": "IShowSpeed breaks down in tears after finishing GTA 6 in 52 hours without sleeping",
+   "link": "https://www.dexerto.com/youtube/ishowspeed-breaks-down-in-tears-after-finishing-gta-6-in-52-hours-without-sleeping-3430267/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-21T12:36:58+00:00",
+   "seen": "2026-11-21T12:39:41+00:00",
+   "summary": "Speed had promised not to rush the game, then played it for 52 hours straight.",
+   "topic": "Outage",
+   "record": true,
+   "ai_summary": "The story reports that IShowSpeed cried after finishing GTA 6 in 52 hours without sleeping."
+  },
+  {
+   "id": "grand theft auto 6 earns record 3 8b on first day",
+   "title": "Grand Theft Auto 6 earns record $3.8B on first day",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbG9kMmpudzhGcHJhVW42UmQ2cnd3aDlDOGVrUkJ3VVcwVTVXSlVaWS1WT296RGlkbmFGRVFCRHBjZEpyMElaS0QxMy1oMnQ1V3RqRG9GcGVYNV9EZm03X1lDVUVVeDVnemJiMVNSN0o1ZFkyZ0RRVGhHRmI5a3lRRVJ4am5zRE5kTi1NQnM5WV8xdE8yS2hLZGxtSkRIZ1hp?oc=5",
+   "outlet": "NewsBytes",
+   "via": "Google News",
+   "published": "2026-11-21T12:36:35+00:00",
+   "seen": "2026-11-21T12:39:40+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto 6 earns a record amount on its first day."
+  },
+  {
+   "id": "how to choose the right console for gta 6",
+   "title": "How to choose the right console for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWZ5ZUpZanZ4V21ETEFleXBkVmNhSXJiQ3dIeWNiZVVZQlhRN1I1LTg3TjBEMEo3WDgxM2c0SHljVjROa3R2Ym9QWUllTmdJRXV4NXNUZEZPN0hVM1JhRE9iQlQ1NDFGSmxjRTVseHRvRFY1MWM3YWloS3lwSjZGbdIBgAFBVV95cUxNc1B1WHBGN01TUnoyc2pEV0VEcnJNdmhwYS1NMmIyQWxvWEhSYTFycy0zVGd2UWNrZk9sTV9CTUhEdmQ5ck5yZXNuM2tUeUJWMklLX05RVzNtMTBGY2hKcXN0STFGd08yaXJPNDFWWklPdHBzUTRMSXNPb2NRMXExeA?oc=5",
+   "outlet": "Qazinform",
+   "via": "Google News",
+   "published": "2026-11-21T12:34:44+00:00",
+   "seen": "2026-11-21T12:39:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses how to choose the right console for GTA 6."
+  },
   {
    "id": "gta 6 all meditation spot locations in grand theft auto 6",
    "title": "GTA 6: All Meditation Spot locations in Grand Theft Auto 6",
@@ -116,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story lists all Meditation Spot locations for the Positive Mental Attitude trophy and achievement in GTA 6."
+  },
+  {
+   "id": "does gta 6 have prostitutes or sex workers",
+   "title": "Does GTA 6 Have Prostitutes or Sex Workers?",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WWlh1SXhtT1VQdms2OWN1cHZ1Z0pQd05HaW5Rc01rOUVlbTE4LTZpT2xTZ1Z6TDlXVEtXbm5vMG5lUE9sZ0VNdjBGXzVDVjBTeGdoSk5mZko?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-21T12:33:40+00:00",
+   "seen": "2026-11-21T12:39:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 has prostitutes or sex workers."
   },
   {
    "id": "gta 6 officially threatens avengers 5 after beating brand new day s box office in 1 day",
@@ -690,6 +742,19 @@
    "ai_summary": "The piece conveys a personal reflection that GTA 6 is among the greatest games ever."
   },
   {
+   "id": "gta 6 s npcs are built to the same visual standard as jason and lucia",
+   "title": "GTA 6’s NPCs are built to the same visual standard as Jason and Lucia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkt5SGZMelNCZGZBUUQ0UEROYXBqMkxObWR1SHA2OXhUZG1sZ3RJRG1JRU14Y1RzNVhpeUdzQnRKcnY5SlRCZXRRclIxd0R4dzJZaFdwbF9CY0FUd3pLSG1nYlc2T3J0UlJpNmVXbm9jNENNWDBDUUpiRWQ0VXB2X0lRYkw0YWgtRGlUTG00eFlVRUY4Z05Pa1lPMjBPVFJvMnFSVw?oc=5",
+   "outlet": "Creative Bloq",
+   "via": "Google News",
+   "published": "2026-11-21T11:00:00+00:00",
+   "seen": "2026-11-21T12:39:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states that GTA 6’s NPCs are built to the same visual standard as Jason and Lucia."
+  },
+  {
    "id": "gta 6 obliterates box office records as fans spot impressive details about figures",
    "title": "GTA 6 obliterates box office records as fans spot impressive details about figures",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZ08tS1JnbTY1dm45RWNiejlwV2lkSU5zM2lQSjZ1R2MzNlZ0Ykk3UFVJN0VkZldjcXJfZEp0ZzQ4WGZSdVBiTHl4NVRMcHRvOHVSYnc1TjhDSG5CNXR0QW1Ec2V3UThPaVNRUg?oc=5",
@@ -701,6 +766,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 obliterates box office records and fans notice impressive details about figures."
+  },
+  {
+   "id": "la noire 2 leak resurfaces after source gets gta 6 ending right",
+   "title": "LA Noire 2 leak resurfaces after source gets GTA 6 ending right",
+   "link": "https://www.dexerto.com/gaming/la-noire-2-leak-resurfaces-after-source-gets-gta-6-ending-right-3430249/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-21T10:43:05+00:00",
+   "seen": "2026-11-21T12:39:41+00:00",
+   "summary": "The leak came from the same source that described GTA 6’s ending back in 2023.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes a resurfaced LA Noire 2 leak with a source who previously described GTA 6’s ending in 2023."
   },
   {
    "id": "gta 6 hacker pleads guilty yes the one with the fire stick",
