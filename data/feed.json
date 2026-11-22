@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T02:03:44+00:00",
- "started": "2026-11-22T02:03:40+00:00",
+ "updated": "2026-11-22T02:08:51+00:00",
+ "started": "2026-11-22T02:08:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-22T02:03:40+00:00"
+   "hits": 98,
+   "checked": "2026-11-22T02:08:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-22T02:03:41+00:00"
+   "hits": 96,
+   "checked": "2026-11-22T02:08:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-22T02:03:41+00:00"
+   "hits": 97,
+   "checked": "2026-11-22T02:08:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T02:03:42+00:00"
+   "checked": "2026-11-22T02:08:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T02:03:42+00:00"
+   "checked": "2026-11-22T02:08:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T02:03:42+00:00"
+   "checked": "2026-11-22T02:08:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T02:03:43+00:00"
+   "checked": "2026-11-22T02:08:47+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T02:03:43+00:00"
+   "checked": "2026-11-22T02:08:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T02:03:43+00:00"
+   "checked": "2026-11-22T02:08:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T02:03:43+00:00"
+   "checked": "2026-11-22T02:08:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T02:03:44+00:00"
+   "checked": "2026-11-22T02:08:48+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T02:03:44+00:00"
+   "checked": "2026-11-22T02:08:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T02:03:44+00:00"
+   "checked": "2026-11-22T02:08:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T02:03:44+00:00"
+   "checked": "2026-11-22T02:08:48+00:00"
   }
  },
  "items": [
@@ -6722,6 +6722,19 @@
    "ai_summary": "The story reports that GTA 6 allows making Jason and Lucia walk faster and indicates where to find the setting."
   },
   {
+   "id": "gta 6 makes historic 3 8bn in sales in a single day",
+   "title": "GTA 6 makes historic $3.8bn in sales in a single day",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qUkhDSEd1eDNJMWw3cW9pNktxa3VlNE5HaC1PYjdXcXpfU2JOTHRlRzJBMWFWMXlvNDIzZFBwaXVRTU1kQkluV3kxZXRXTGQ4d213QlA0S3BnZXhJYjlIb1BqSTE?oc=5",
+   "outlet": "Pakistan Connect",
+   "via": "Google News",
+   "published": "2026-11-21T06:49:43+00:00",
+   "seen": "2026-11-22T02:08:45+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 generated historic sales of $3.8bn in a single day."
+  },
+  {
    "id": "gta 6 release sparks excitement at bradley spotlights growing world of esports",
    "title": "GTA 6 release sparks excitement at Bradley, spotlights growing world of esports",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOENOejljeWtWamtyWVZGNXRMWTBtMGM3V3hVODNyRzhBM2RXLVMtYmRocFp0dGxuWUdmdFdjbTROcXdmdEtPbldZYmltTXl6bkN6aE9LSzF2LU12YjFRNDAxRHh2SS1ESlFJbVNfc2prM3VGclJsdzh2eGpfWk5XUWIxU190U2g1Q0hDc0VaeGRpNmdtTHJNWEZvelhVWk9vUkRwTnozNmE3SHNqNVAzQ29LS1Iybm8?oc=5",
@@ -6837,6 +6850,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that Grand Theft Auto VI sets a record with first-day retail sales totaling $3.79 billion."
+  },
+  {
+   "id": "who is brycexd twitch streamer claims first gta 6 story completion in under 40 hours",
+   "title": "Who Is BrycexD? Twitch Streamer Claims First GTA 6 Story Completion in Under 40 Hours",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kUmtFOEF2NWxpUUxlNVJ6LXpmcGxQb0ZWS2RQZEhCY0hDMDZEWW5TN1M5RmdNMkZ0NTVlZHhaaFpFRG1iak02VDdqS0tDdFRGSFBDd1VBOHJaTHJpOUlyMA?oc=5",
+   "outlet": "UC Cricket",
+   "via": "Google News",
+   "published": "2026-11-21T06:28:45+00:00",
+   "seen": "2026-11-22T02:08:45+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports on a Twitch streamer who claims to complete the first GTA 6 story in under 40 hours."
   },
   {
    "id": "us police departments urge players to keep gta 6 crimes inside video game",
