@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:28:33+00:00",
- "started": "2026-11-22T01:28:29+00:00",
+ "updated": "2026-11-22T01:33:37+00:00",
+ "started": "2026-11-22T01:33:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-22T01:28:30+00:00"
+   "hits": 99,
+   "checked": "2026-11-22T01:33:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-22T01:28:31+00:00"
+   "checked": "2026-11-22T01:33:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T01:28:31+00:00"
+   "checked": "2026-11-22T01:33:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T01:28:31+00:00"
+   "checked": "2026-11-22T01:33:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T01:28:32+00:00"
+   "checked": "2026-11-22T01:33:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T01:28:32+00:00"
+   "checked": "2026-11-22T01:33:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T01:28:32+00:00"
+   "checked": "2026-11-22T01:33:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T01:28:32+00:00"
+   "checked": "2026-11-22T01:33:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T01:28:32+00:00"
+   "checked": "2026-11-22T01:33:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T01:28:33+00:00"
+   "checked": "2026-11-22T01:33:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T01:28:33+00:00"
+   "checked": "2026-11-22T01:33:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T01:28:33+00:00"
+   "checked": "2026-11-22T01:33:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T01:28:33+00:00"
+   "checked": "2026-11-22T01:33:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T01:28:33+00:00"
+   "checked": "2026-11-22T01:33:35+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI fans can put themselves under house arrest."
+  },
+  {
+   "id": "gta vi vs girlfriends the ongoing rivalry between women and their boyfriends hobbies",
+   "title": "GTA VI Vs Girlfriends: The Ongoing Rivalry Between Women And Their Boyfriends’ Hobbies",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSTVIUEl3ZENid3dzYUNlSEFCaEZTQjZPRk5ScDI1SXBmUVY1RXJfWVV1SENjQ0lUeDhabFhqNjQ4OU1ZRVFDQ1FIZ3U3bmx6NC01NXBvaXlJUDlvRXRtQ29Ec0N5NTBwSFdLTXhOSmR4M0tfNDlyRWU4QV93NkhLQUZnOF9hYnUtYjFETlRqY1h1VWt3Q2FLY1VOLUJtTVZFQ0xBNTRNMWt5RnZ1dGZRM2tmUmVyRGQtb0c1UEFfVHJGWWMzWW5ZTg?oc=5",
+   "outlet": "Her Campus",
+   "via": "Google News",
+   "published": "2026-11-22T01:03:16+00:00",
+   "seen": "2026-11-22T01:33:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses the rivalry between women and their boyfriends' hobbies as a ongoing dynamic."
   },
   {
    "id": "move aside mandy gta 6 s goth girl vicki is ps5 players new fave",
