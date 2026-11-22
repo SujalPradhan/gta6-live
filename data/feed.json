@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T15:43:04+00:00",
- "started": "2026-11-22T15:43:01+00:00",
+ "updated": "2026-11-22T15:48:12+00:00",
+ "started": "2026-11-22T15:48:05+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T15:43:02+00:00"
+   "checked": "2026-11-22T15:48:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-22T15:43:02+00:00"
+   "hits": 50,
+   "checked": "2026-11-22T15:48:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-22T15:43:02+00:00"
+   "hits": 87,
+   "checked": "2026-11-22T15:48:06+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T15:43:03+00:00"
+   "checked": "2026-11-22T15:48:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T15:43:03+00:00"
+   "checked": "2026-11-22T15:48:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T15:43:03+00:00"
+   "checked": "2026-11-22T15:48:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T15:43:03+00:00"
+   "checked": "2026-11-22T15:48:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T15:43:03+00:00"
+   "checked": "2026-11-22T15:48:08+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T15:43:03+00:00"
+   "checked": "2026-11-22T15:48:08+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T15:43:03+00:00"
+   "checked": "2026-11-22T15:48:08+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T15:43:04+00:00"
+   "checked": "2026-11-22T15:48:09+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T15:43:04+00:00"
+   "checked": "2026-11-22T15:48:09+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T15:43:04+00:00"
+   "checked": "2026-11-22T15:48:09+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T15:43:04+00:00"
+   "checked": "2026-11-22T15:48:09+00:00"
   }
  },
  "items": [
@@ -155,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a GTA 6 parody in Binding of Isaac used AI without the creator's knowledge."
+  },
+  {
+   "id": "gta 6 s jason is inspired by steve mcqueen s character in the getaway",
+   "title": "GTA 6’s Jason is Inspired by Steve McQueen’s Character in The Getaway",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUZPenZ1R2hjYUZ1RVBmc3NjaDNLYlN1UW1lOHRpOW1STUJvX0lhRmJYNmtKQko1VlcwempOMkpIbFBDVnVjQUZXRkFNQkRjY0MzdVdoV1Z4Z0N4UjQtZ2NILTJSM0xkUU1aQ2F1bmd0cDlmbVRIUEtCa1NhRjBmREptY3VQdmlWcFhNWGtXbDc0OTRV?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-22T15:25:48+00:00",
+   "seen": "2026-11-22T15:48:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6’s Jason is inspired by Steve McQueen’s character in The Getaway."
   },
   {
    "id": "cyberpunk 2 won t try to copy gta 6 even if it s greatest artistic achievement in history",
@@ -415,6 +428,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 Mamba near the Ambrosia Gas Station."
+  },
+  {
+   "id": "gta 6 mamba near the prison",
+   "title": "GTA 6 Mamba - Near The Prison",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMTBIRnNFVjk4VzZaamxPVGI5b0RMamhpZUlpRHhUWVRSWEdKV2xZNldnUWQ3eXFaNWstbWFFSlJPbmZ0V2t3MDJxeWdsd0Z4R21qNzFqTFEtS09RbUpoLUo3T3JYXzNlLXo4SjhmTG4zOTd2US1v?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-22T14:34:55+00:00",
+   "seen": "2026-11-22T15:48:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 Mamba near the prison."
+  },
+  {
+   "id": "gta 6 mamba in a pool at mud club",
+   "title": "GTA 6 Mamba - In A Pool At Mud Club",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NajNnREQ4NmNwVGo4eGl2dEc4VzdHb0VlNElIREFmOGR3Y3hITXlfSWN3NTFYUG51OFRTSUdsTzkyU2RDdnpvb1ltbVRkWnRTeGswaGUtOXV4VjkyMmZ6SEg5a1V4WVpqdjlfZ0pTQi1rdkk?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-22T14:34:04+00:00",
+   "seen": "2026-11-22T15:48:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 Mamba in a pool at Mud Club."
   },
   {
    "id": "gta 6 mamba collapsed bridge",
@@ -870,6 +909,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story covers GTA 6 Riata - Southwind on Yahoo Tech."
+  },
+  {
+   "id": "gta 6 riata mini mart",
+   "title": "GTA 6 Riata - Mini-mart",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZMTFQdzZHTm05U3dfLV9mMmU0V0VPVVJvcWhBMUMwWEdMSk1zNC1aWktsS0FUcjBrVk9JeG00VTZXRTZoWU84c0ZIN3J0YzFvUC1JLWZpb3NxcXBJa0lEQXBkSWEtVUc1S2FJYTkyWEhYazJP?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-22T13:27:06+00:00",
+   "seen": "2026-11-22T15:48:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 Riata at a mini-mart."
   },
   {
    "id": "gta 6 how to fix hdr settings",
