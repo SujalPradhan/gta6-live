@@ -1,109 +1,148 @@
 {
- "updated": "2026-11-22T15:58:35+00:00",
- "started": "2026-11-22T15:58:10+00:00",
+ "updated": "2026-11-22T16:03:16+00:00",
+ "started": "2026-11-22T16:03:08+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T15:58:16+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-22T16:03:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T15:58:24+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 51,
+   "checked": "2026-11-22T16:03:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T15:58:33+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-22T16:03:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T15:58:33+00:00"
+   "checked": "2026-11-22T16:03:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T15:58:34+00:00"
+   "checked": "2026-11-22T16:03:10+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T15:58:34+00:00"
+   "checked": "2026-11-22T16:03:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T15:58:34+00:00"
+   "checked": "2026-11-22T16:03:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T15:58:34+00:00"
+   "checked": "2026-11-22T16:03:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T15:58:34+00:00"
+   "checked": "2026-11-22T16:03:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T15:58:35+00:00"
+   "checked": "2026-11-22T16:03:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T15:58:35+00:00"
+   "checked": "2026-11-22T16:03:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T15:58:35+00:00"
+   "checked": "2026-11-22T16:03:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T15:58:35+00:00"
+   "checked": "2026-11-22T16:03:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T15:58:35+00:00"
+   "checked": "2026-11-22T16:03:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "bye mandy gta 6 players have moved onto being infatuated with goth girl vicki",
+   "title": "Bye Mandy, GTA 6 players have moved onto being infatuated with goth girl Vicki",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55WHVfUjEyYnVKMjRNODh3MVUxeFFZTXdTdHJTd0c0N3dOd1pidWdFV2NxV3FQdGF3MGJ4Y2g3alAzODhXXzluU0owV1BoMkNUX1d6ZFVMVFBEdGtJZ2xMTzU2UVp0ckk1cUtEOGFvdTNqelJLZTRjU2lGZTBhN1U?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-22T16:00:00+00:00",
+   "seen": "2026-11-22T16:03:09+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 players have shifted attention from Mandy to an infatuation with goth girl Vicki."
+  },
+  {
+   "id": "what if gta 6 radio was fully arab",
+   "title": "What If GTA 6 Radio Was Fully Arab?",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaR3VGNThlNjhwSk93eHU5bUJsWkJoZUdENmhuNzNqV1cyaXBPZWcwT1h4MjdqMnU5eHA2TXAxLUc1aHhnSWtwekpZWVl2XzJRUnluMm5QNDFxSlNOSXVHM1JhRk5fZklrWHJEZHhBMEd0ZGdndlE?oc=5",
+   "outlet": "SceneNoise",
+   "via": "Google News",
+   "published": "2026-11-22T15:59:39+00:00",
+   "seen": "2026-11-22T16:03:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions how GTA 6 radio would sound if it were fully Arab."
+  },
+  {
+   "id": "move over james bondisson and gta vi because lamborghini rocked la with the temerario spyder",
+   "title": "Move Over 'James Bondisson' and GTA VI Because Lamborghini Rocked LA With the Temerario Spyder",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0R1aU9fSkNNZ2c5WmVXNkpCN3ZtVUsycFRnUjJyckFQVkNmelZadUtMRF8wTjY4dDZzZjZIbW41Ml9EUlp3d1BWSnhvMEFPUmtjVzJmVzZQS21YV2hDd01tZEx1SXI4SWhrSU84czdWZldBOW5XUkw0MjUwcllhRjBOSXBDaVRDVEpSeWVCekMwSmVabGdNV0lOYkI1QWVNLXhQOFlTNXRqSzhCNnUxQ3U4WUJyblV1Z2xzVU01Zmh6YlpiU1hkbFRfWTV2QUFhZUV6WXdB?oc=5",
+   "outlet": "autoevolution",
+   "via": "Google News",
+   "published": "2026-11-22T15:58:01+00:00",
+   "seen": "2026-11-22T16:03:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Lamborghini tempered the scene in Los Angeles with the Temerario Spyder, competing with James Bondsson and GTA VI."
+  },
   {
    "id": "i sincerely hope rockstar workers succeed expedition 33 writer on gta 6 job fears",
    "title": "“I sincerely hope” Rockstar workers succeed: Expedition 33 writer on GTA 6 job fears",
@@ -142,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on the GTA VI Festival with its best performances and highlights."
+  },
+  {
+   "id": "5 easter eggs in gta 6 you don t want to miss",
+   "title": "5 Easter eggs in GTA 6 you don’t want to miss",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CTFYxR0Y3UERmRkRtOFU0aTd4Z08xYXl2eHc5QnN5SFc2eEQ4LWUtdkpmUVNiUXR1OUVhQnk2cV9QV0I5MGZFSlc0bUptS1BXelNkN3FnMmdSVDdVZXZtZ0szdG1iVGdkMk1Sd2JOX3ZRdw?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-22T15:39:43+00:00",
+   "seen": "2026-11-22T16:03:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists five Easter eggs in GTA 6 you don’t want to miss."
   },
   {
    "id": "gta vi wants you to get wasted by sliding under a semi and dying brutal writer marie",
@@ -1444,6 +1496,19 @@
    "ai_summary": "The story reports that GTA 6 is hiding two secret radio stations that you need to discover before you can listen to them."
   },
   {
+   "id": "gta 6 wins over critics with 99 average amid user review bombs",
+   "title": "GTA 6 Wins Over Critics With 99 Average Amid User Review Bombs",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ybFJQckNheXY5cXlDb09nRTBreGZKZEZ5MWtBUmhIWmQ5VmdyZ290ZllMWFpNUHdDMUxsa3BjV0xHS3hCM1lIenlVT3dzdFZoSnIwWVZNeTFKNWNvWFlDT3Bxd2xoVHVFb29UMkQ0WWVTNlk?oc=5",
+   "outlet": "NoobFeed",
+   "via": "Google News",
+   "published": "2026-11-22T11:59:12+00:00",
+   "seen": "2026-11-22T16:03:10+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 is reported to win over critics with a high average despite user review bombs."
+  },
+  {
    "id": "neuralink patient plays gta 6 with his mind",
    "title": "Neuralink patient plays GTA 6 with his mind",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zeTNOTWkwU1JDVmhaYTBXWERVXzk3dFM5VXlZME1RM2FmYUNvY19BNzZRZUNtM2NaeVQwSlQ1SVlLS284TVFkMENfTHZQaGZxSTlWMg?oc=5",
@@ -1483,6 +1548,19 @@
    "ai_summary": "GTA 6 money-making guide is presented in Chapter 2."
   },
   {
+   "id": "gta vi sales hit 3 79 billion in first day",
+   "title": "GTA VI Sales Hit $3.79 Billion in First Day",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rLVV5TTNPRzQ2cGE4TnhWSmpyd1RiZS1LV3JFWDJ4UXBfTm40cE5GS1VkLXMtbmRUWkxzTU9nelp2d0dZbkkwaVNwRS1PYjJGMFg1a3NFMk9tU2dCcEpyVUdjLXdGYUdVUUFuemhCVnlXMUxWa2loQXAtTDJNaVE?oc=5",
+   "outlet": "Wisevoter",
+   "via": "Google News",
+   "published": "2026-11-22T11:53:39+00:00",
+   "seen": "2026-11-22T16:03:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI sales are reported to reach a large total on the first day."
+  },
+  {
    "id": "gta 6 catch me if you can trophy guide",
    "title": "GTA 6: Catch Me If You Can Trophy Guide",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12bURjM1BNNXlzeUFRTlNHa3oxVDlGWjh3bzZ6MVdJRlhqdjkxZTZBVUYxSHRUSGN0WmpPdmRrWjFma3AzUHF3RWh5NjQ3Vm5Bb1psejlIczJSOXFlLWkyRDlTNnVyRjd3ZmlOWkNBXzlVMkR5d1RZ?oc=5",
@@ -1520,6 +1598,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 creates history by beating Avengers: Endgame."
+  },
+  {
+   "id": "gta 6 and ocarina of time fans review bombing each other as review scores plummet",
+   "title": "GTA 6 And Ocarina of Time Fans Review Bombing Each Other As Review Scores Plummet",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rZzNrZTBvbDF1Wjk3OS1INXhHclJ2dnpXR1JTNEIyb2tGN3BJT2ZLdW9DaXBjXy1rSmlmaVY5Z0M0X3o1UFh2emdMMVhka0FPcmwxT2Z3RDFHOHI1V1NKa25TWmZCUkhTMEktMGZ3?oc=5",
+   "outlet": "Tech4Gamers",
+   "via": "Google News",
+   "published": "2026-11-22T11:39:05+00:00",
+   "seen": "2026-11-22T16:03:10+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 and Ocarina of Time fans are review bombing each other as scores plummet."
   },
   {
    "id": "gta vi 60fps glitch discovered and here s how to do it",
@@ -1936,6 +2027,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 is facing its first plagiarism claim two days after release."
+  },
+  {
+   "id": "las vegas game truck eyes sales lift from gta 6 hype",
+   "title": "Las Vegas Game Truck Eyes Sales Lift From GTA 6 Hype",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTZtMEpybGIzbzVObVhTQ0Y4U3g5UGxmcl80VHhrWWprLWJ5ZG5MNEtQSVNLZFpOTU1fZmVPLWVDcWJVSXRlQThUOWQ5eEdJWnJYc0Q2NmNfN2hHQkxkVXlZREdqSGVMREppUmNLSXBZdHcyVndndlhCTXpZTEJPaURlT05LaW5YTWhHUHFVRQ?oc=5",
+   "outlet": "www.explosion.com",
+   "via": "Google News",
+   "published": "2026-11-22T10:13:18+00:00",
+   "seen": "2026-11-22T16:03:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Las Vegas game truck aims to gain sales from GTA 6 hype."
   },
   {
    "id": "who is cliff savage streamer with just 30 viewers lands 100 000 job to play gta 6 after beating 35 000 a",
