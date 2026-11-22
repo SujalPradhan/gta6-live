@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T14:17:48+00:00",
- "started": "2026-11-22T14:17:46+00:00",
+ "updated": "2026-11-22T14:22:48+00:00",
+ "started": "2026-11-22T14:22:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 93,
-   "checked": "2026-11-22T14:17:46+00:00"
+   "checked": "2026-11-22T14:22:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-22T14:17:46+00:00"
+   "hits": 60,
+   "checked": "2026-11-22T14:22:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-22T14:17:47+00:00"
+   "hits": 92,
+   "checked": "2026-11-22T14:22:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T14:17:47+00:00"
+   "checked": "2026-11-22T14:22:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T14:17:47+00:00"
+   "checked": "2026-11-22T14:22:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T14:17:47+00:00"
+   "checked": "2026-11-22T14:22:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T14:17:47+00:00"
+   "checked": "2026-11-22T14:22:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T14:17:47+00:00"
+   "checked": "2026-11-22T14:22:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T14:17:47+00:00"
+   "checked": "2026-11-22T14:22:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T14:17:48+00:00"
+   "checked": "2026-11-22T14:22:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T14:17:48+00:00"
+   "checked": "2026-11-22T14:22:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T14:17:48+00:00"
+   "checked": "2026-11-22T14:22:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T14:17:48+00:00"
+   "checked": "2026-11-22T14:22:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T14:17:48+00:00"
+   "checked": "2026-11-22T14:22:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 dubious provenance walkthrough should you trust halifax",
+   "title": "GTA 6 Dubious Provenance walkthrough: Should you trust Halifax?",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-dubious-provenance-walkthrough-should-you-trust-halifax/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-22T14:20:51+00:00",
+   "seen": "2026-11-22T14:22:43+00:00",
+   "summary": "Shoot you trust Halifax?",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether you should trust Halifax in GTA 6."
+  },
   {
    "id": "the podcast reports on gta 6",
    "title": "The Podcast Reports on GTA 6",
@@ -220,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article discusses GTA 6 playing a lot like Red Dead 2 and whether that is a problem."
+  },
+  {
+   "id": "gta 6 missions full list and how many chapters to expect",
+   "title": "GTA 6 missions: Full list and how many chapters to expect",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBheWRuZ1V4QTM5a09nUGx4N2JqczhKN1BIb1dxeTBxUjRBcm5YR1NRcHlkeEFUX2ZPRGtaNndNaFdnLUVOMnJGa19QOTE1X3hMdF9RanRVS0pFSHd2T1VMYnMwczBJR1c3Mk51SExjMlE4azg?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-22T13:52:06+00:00",
+   "seen": "2026-11-22T14:22:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists GTA 6 missions and describes the number of chapters to expect."
   },
   {
    "id": "gta 6 should you choose cut or pure in dealer s choice",
