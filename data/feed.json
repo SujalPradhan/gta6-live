@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T21:59:59+00:00",
- "started": "2026-11-22T21:59:54+00:00",
+ "updated": "2026-11-22T22:05:02+00:00",
+ "started": "2026-11-22T22:04:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-22T21:59:55+00:00"
+   "hits": 99,
+   "checked": "2026-11-22T22:04:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 36,
-   "checked": "2026-11-22T21:59:55+00:00"
+   "hits": 37,
+   "checked": "2026-11-22T22:04:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-22T21:59:55+00:00"
+   "hits": 72,
+   "checked": "2026-11-22T22:04:57+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T21:59:55+00:00"
+   "checked": "2026-11-22T22:04:57+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T21:59:56+00:00"
+   "checked": "2026-11-22T22:04:57+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T21:59:56+00:00"
+   "checked": "2026-11-22T22:04:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T21:59:56+00:00"
+   "checked": "2026-11-22T22:04:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T21:59:56+00:00"
+   "checked": "2026-11-22T22:04:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T21:59:56+00:00"
+   "checked": "2026-11-22T22:04:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T21:59:56+00:00"
+   "checked": "2026-11-22T22:04:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T21:59:57+00:00"
+   "checked": "2026-11-22T22:04:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T21:59:57+00:00"
+   "checked": "2026-11-22T22:04:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-22T21:59:57+00:00"
+   "hits": 5,
+   "checked": "2026-11-22T22:04:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T21:59:57+00:00"
+   "checked": "2026-11-22T22:04:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 the end of the road should you swim for it or choose no surrender",
+   "title": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdE1SU1BYRmkxN1p2V3dWLWgwQW9RVHJRbU52RUZ2TTRhTFJOd1Z1NF9lMVVGWGRtck9vWm8ycFBobnFYRS1xVUtJeUVGOGc1QVF1WlM3VW1YeXBRbV9TU19tTEc0Y1FvUnpGbUdrMVljM2ZOd2dQekRJOUhHZ2hnMzdTUlNVbFp0YTVCeUtKS1JhdER4YnBaMkkzVmExbTFpYVZ0VQ?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-22T21:58:17+00:00",
+   "seen": "2026-11-22T22:04:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks whether to swim for it or choose no surrender in GTA 6."
+  },
+  {
+   "id": "gta 6 faces review bombing despite record launch sales",
+   "title": "GTA 6 Faces Review Bombing Despite Record Launch Sales",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBScmx2cDJ4S1psLXk1eC01RGJzVGM5QW9SLXliN2xpZTZJU2pfUmNOeExWdkVKUFlmbFRhWF82OHdLRzlDUUI1YmdoRDNNSVNEQjhwbnN4LW13ck40TldEczdrdHdTRlU?oc=5",
+   "outlet": "cwibc.co.id",
+   "via": "Google News",
+   "published": "2026-11-22T21:58:00+00:00",
+   "seen": "2026-11-22T22:04:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The piece reports review bombing for GTA 6 despite record launch sales."
+  },
   {
    "id": "gta 6 review bombing sparks metacritic fight with zelda fans",
    "title": "GTA 6 Review Bombing Sparks Metacritic Fight With Zelda Fans",
@@ -116,6 +142,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The headline reports that GTA 6 review bombing causes a dispute on Metacritic with Zelda fans."
+  },
+  {
+   "id": "experts have debunked rumors of stable 60 frames per second in gta vi on xbox series x",
+   "title": "Experts have debunked rumors of stable 60 frames per second in GTA VI on Xbox Series X.",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGRiNVdKSzZNSXFYWnIzOGUyUUI1Yy1MM2tlbnVIaWRnLWhLeEYzM2tPdGJEeDQ0dFBWTmxNTnlCLXVtQVN0SVZSdE1vN2pBbDJYUVR1SDBnUndhOFd0cTc0QUYyT0R6WWFCRGhocUIwQ3BIWHRndDFzbXFqd3kzdFMtcTFQUHgzb1pIV0xlc05PX3JYSEVfb1VsdGlVZm1IOEx5cnpSM1pnUEZ5OVEwd3BaSVMyMnB2aE1B?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-22T21:53:53+00:00",
+   "seen": "2026-11-22T22:04:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Experts debunk rumors of a stable 60 FPS in GTA VI on Xbox Series X."
   },
   {
    "id": "enthusiasts have launched the original shaders of the console version of gta vi on a pc graphics card",
@@ -391,6 +430,32 @@
    "ai_summary": "The piece claims GTA 6's T-shirts are true works of art."
   },
   {
+   "id": "gta 6 gives ford s forgotten muscle truck the love it deserves",
+   "title": "GTA 6 Gives Ford’s Forgotten Muscle Truck The Love It Deserves",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZmU0ZFpUTnVaWWFhRkhYU1hsRDlqUWx5OC1WbEZ1WFZPbExuRWtYOXpiSmFlbm5sbDlweXkyaTRQQmZETXh2MHN5VXhpMzNzM3ptWDg3cTNfQ2N4RW5SZjRBN3d4YTZoM2pVQnhSTGx2Mno2a3VHUG5Eei1kOHdQMVBFT1l6eDJwWmRQZ21Cbw?oc=5",
+   "outlet": "HotCars",
+   "via": "Google News",
+   "published": "2026-11-22T20:30:14+00:00",
+   "seen": "2026-11-22T22:04:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 highlights Ford’s forgotten muscle truck getting attention."
+  },
+  {
+   "id": "gta 6 hidden controls you might not know about",
+   "title": "GTA 6 \"Hidden\" Controls You Might Not Know About",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85NDZMN0dhYVdETTJDWFNuY1dhT0VUSHlzTHNGUlNtTjJDT3pUd2ZIZGZoNlFiME94RVpnU1BxTzg3d3JZVDZxQUkwZUppZ2FVQklZX0lVdlBkTWw5NHBnOGZpVDhiSjJXelBlMml4UGVJZXBiZ3lRcg?oc=5",
+   "outlet": "MP1st",
+   "via": "Google News",
+   "published": "2026-11-22T20:23:44+00:00",
+   "seen": "2026-11-22T22:04:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 reveals hidden controls you might not know about."
+  },
+  {
    "id": "gta 6 reviews are a near perfect 99 out of 100 on metacritic",
    "title": "GTA 6 reviews are a near-perfect 99 out of 100 on Metacritic",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHNqVnRxdzNtN2FMaTFqei00UlNEaWlMaGdvaEpVM1dTRmgxc0VibU9fUXhjOFRoQy1qcU13V0tUdW5jQ2ZsMUNqX2xZc1Fmc3hLcFhRcDRSSTQ5OGt1dHRLaVJNbDV5VnNjTTZuSUNkYTl2MGpZMmZmamhqdkk3NVZsVDNodE9DRUtWb2Z3QlZOTjVZRFV0TEpkRlNmanNU?oc=5",
@@ -467,6 +532,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Hunger Games helps box office rebound amid GTA 6 fever."
+  },
+  {
+   "id": "gaming stocks to watch as gta vi hype meets ai and earnings",
+   "title": "Gaming Stocks To Watch As GTA VI Hype Meets AI And Earnings",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSDBYcTFEWWxJRUcyNGdYc3N1SUhlZE5tQkJpNnpqbXNPMkdXVEJTYUZaN0t6V2R1TUlJUi1ibmpQT1ZRR0lnNm1hVTlDNElUdWprSlJoTGRreEM5NXNscTVLNVdZNlRMVndGR0pSUkxDbl9mNGxkVGlWby1rUWd3bEdFM3NEVzczUl9zVHE5aXR3MDFOMEE?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-22T20:06:15+00:00",
+   "seen": "2026-11-22T22:04:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Gaming stocks to watch as GTA VI hype intersects with AI and earnings."
   },
   {
    "id": "jason can get fat in gta vi so there has to be a hidden glp 1 shot somewhere writer marie",
@@ -1780,6 +1858,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports GTA 6's launch ranking among the top 10 best selling video games ever."
+  },
+  {
+   "id": "how to unlock all 61 cheat codes in gta 6",
+   "title": "How to unlock all 61 Cheat Codes in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFeWJsNDdxRTFVaXhYUVNzOEhPTTJFakxMVlIxTk5qN2I0ODZIOGl5bXptcDcwMXJkLTc4SkYyTWtxZEdjSGxudWN1NDc1UEZmNWdCNkowLVRSUXZqVlg4?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-22T16:24:10+00:00",
+   "seen": "2026-11-22T22:04:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to unlock all 61 cheat codes in GTA 6."
   },
   {
    "id": "gta 6 how many cars can you own and can you buy a house",
