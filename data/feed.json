@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-22T03:04:29+00:00",
- "started": "2026-11-22T03:04:03+00:00",
+ "updated": "2026-11-22T03:09:07+00:00",
+ "started": "2026-11-22T03:09:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T03:04:10+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-22T03:09:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T03:04:17+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 91,
+   "checked": "2026-11-22T03:09:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T03:04:27+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-22T03:09:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T03:04:27+00:00"
+   "checked": "2026-11-22T03:09:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T03:04:27+00:00"
+   "checked": "2026-11-22T03:09:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T03:04:27+00:00"
+   "checked": "2026-11-22T03:09:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T03:04:28+00:00"
+   "checked": "2026-11-22T03:09:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T03:04:28+00:00"
+   "checked": "2026-11-22T03:09:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T03:04:28+00:00"
+   "checked": "2026-11-22T03:09:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T03:04:29+00:00"
+   "checked": "2026-11-22T03:09:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T03:04:29+00:00"
+   "checked": "2026-11-22T03:09:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T03:04:29+00:00"
+   "checked": "2026-11-22T03:09:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T03:04:29+00:00"
+   "checked": "2026-11-22T03:09:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T03:04:29+00:00"
+   "checked": "2026-11-22T03:09:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "all large jewelry store heist loot secrets locations gta 6",
+   "title": "All Large Jewelry Store Heist Loot & Secrets Locations - GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTN6ZndLdm8tZF9pczhtQmtJZVZGdW9lU2Uxb2swbERhSEs2SnNvRGtoSzdMbWlSVEtFT3hpQjVtRE15a05hLXBxclQtU29PWEJhbkpsb3VtWUMwdDlwd25ma2tSc2JDM08yYUo0TjV6cUlLdlViTnEwV1VzbnIxc0dvdi15dXVVMmc?oc=5",
+   "outlet": "Mobalytics",
+   "via": "Google News",
+   "published": "2026-11-22T03:02:28+00:00",
+   "seen": "2026-11-22T03:09:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on the locations and loot secrets from a large jewelry store heist in GTA 6."
+  },
+  {
+   "id": "gta 6 accounted for nearly a quarter of comcast s traffic at its peak the company says",
+   "title": "GTA 6 accounted for nearly a quarter of Comcast’s traffic at its peak, the company says",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaXZ3UGlxcFFGS19OS3VtSWk3V0VFeDNvNXpmay1FQk5aYzRGSk1qd0NpelA4ZkU2Y0x4SEdaS2pRV1N4b0RKU0tyMkxjUHRGVGVaSlQ0U09qdU1VbXpTZk9nMjNtd1hTMGF5MDl4QS1Ga1gyekdkWlBWOEpHUTA?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-22T02:58:21+00:00",
+   "seen": "2026-11-22T03:09:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 accounted for nearly a quarter of Comcast's traffic at its peak, according to the company."
+  },
   {
    "id": "gta 6 ps5 and xbox users protest after bans for sharing gameplay with nudity",
    "title": "GTA 6 PS5 and Xbox users protest after bans for sharing gameplay with nudity",
