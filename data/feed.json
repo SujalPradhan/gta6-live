@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T12:32:13+00:00",
- "started": "2026-11-22T12:32:07+00:00",
+ "updated": "2026-11-22T12:37:17+00:00",
+ "started": "2026-11-22T12:37:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-22T12:32:08+00:00"
+   "hits": 95,
+   "checked": "2026-11-22T12:37:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-22T12:32:08+00:00"
+   "hits": 57,
+   "checked": "2026-11-22T12:37:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T12:32:09+00:00"
+   "checked": "2026-11-22T12:37:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T12:32:09+00:00"
+   "checked": "2026-11-22T12:37:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T12:32:09+00:00"
+   "checked": "2026-11-22T12:37:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T12:32:09+00:00"
+   "checked": "2026-11-22T12:37:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 32,
-   "checked": "2026-11-22T12:32:10+00:00"
+   "hits": 33,
+   "checked": "2026-11-22T12:37:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T12:32:10+00:00"
+   "checked": "2026-11-22T12:37:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T12:32:10+00:00"
+   "checked": "2026-11-22T12:37:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T12:32:10+00:00"
+   "checked": "2026-11-22T12:37:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T12:32:11+00:00"
+   "checked": "2026-11-22T12:37:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T12:32:11+00:00"
+   "checked": "2026-11-22T12:37:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T12:32:11+00:00"
+   "checked": "2026-11-22T12:37:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T12:32:11+00:00"
+   "checked": "2026-11-22T12:37:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "sex in gta 6 was extremely difficult to pull off rockstar says",
+   "title": "Sex in GTA 6 was extremely difficult to pull off, Rockstar says",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/sex-in-gta-6-was-extremely-difficult-to-pull-off-rockstar-says-we-needed-to-allow-players-to-interact-with-the-partner-in-a-natural-loving-way/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-22T12:32:07+00:00",
+   "seen": "2026-11-22T12:37:13+00:00",
+   "summary": "Far from Hot Coffee",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that sex in GTA 6 was extremely difficult to pull off according to Rockstar."
+  },
   {
    "id": "when did disneyland get a gta vi ride writer ian",
    "title": "When did Disneyland get a GTA VI ride 😂 Writer: Ian",
@@ -935,6 +948,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a gamer built a Grand Theft Auto VI-themed PC with an ASUS ROG Strix GeForce RTX 50."
+  },
+  {
+   "id": "gta 6 industrial weed grow all key valuables stealth walkthrough",
+   "title": "GTA 6 - Industrial Weed Grow All Key Valuables - Stealth Walkthrough",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4zbEQxTW9ySjJVN1RjLW1wbldGWmlDbDk0OWxKMFZjeUZQeXk0QzRUQjVwVFlwSFZpNlJWVHVyUGNyZw?oc=5",
+   "outlet": "YouTube",
+   "via": "Google News",
+   "published": "2026-11-22T09:15:07+00:00",
+   "seen": "2026-11-22T12:37:11+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 stealth walkthrough titled Industrial Weed Grow All Key Valuables."
   },
   {
    "id": "gta 6 grand theft auto 6 breaks records with 3 79b opening day",
