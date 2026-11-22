@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:25:08+00:00",
- "started": "2026-11-22T06:25:03+00:00",
+ "updated": "2026-11-22T06:30:12+00:00",
+ "started": "2026-11-22T06:30:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-22T06:25:04+00:00"
+   "hits": 92,
+   "checked": "2026-11-22T06:30:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-22T06:25:04+00:00"
+   "checked": "2026-11-22T06:30:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-22T06:25:05+00:00"
+   "hits": 97,
+   "checked": "2026-11-22T06:30:08+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T06:25:05+00:00"
+   "checked": "2026-11-22T06:30:08+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T06:25:05+00:00"
+   "checked": "2026-11-22T06:30:08+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T06:25:05+00:00"
+   "checked": "2026-11-22T06:30:08+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T06:25:05+00:00"
+   "checked": "2026-11-22T06:30:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T06:25:05+00:00"
+   "checked": "2026-11-22T06:30:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T06:25:05+00:00"
+   "checked": "2026-11-22T06:30:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T06:25:06+00:00"
+   "checked": "2026-11-22T06:30:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T06:25:06+00:00"
+   "checked": "2026-11-22T06:30:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T06:25:06+00:00"
+   "checked": "2026-11-22T06:30:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T06:25:06+00:00"
+   "checked": "2026-11-22T06:30:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T06:25:06+00:00"
+   "checked": "2026-11-22T06:30:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 day 4 live updates news fixes best clips and guides",
+   "title": "GTA 6 Day 4 Live Updates: News, Fixes, Best Clips and Guides",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jalBjcVRZdVhTSVFTOGlmWTVoU1AyMjNtaVRfU0lHRkw0RHBpVWtlSG9QRWpKMVZVVTdhQ1U2Uk0xYmFwSmdjUGoxSlZ5LUVDbGJwX1p3al91UzVVRE4zRElhUkR6UQ?oc=5",
+   "outlet": "Happy Gamer",
+   "via": "Google News",
+   "published": "2026-11-22T06:22:41+00:00",
+   "seen": "2026-11-22T06:30:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides live updates, fixes, clips, and guides for GTA 6."
+  },
   {
    "id": "take two estimates gta vi hit 3 79 billion in day one retail sales",
    "title": "Take-Two Estimates GTA VI Hit $3.79 Billion in Day-One Retail Sales",
@@ -155,6 +168,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "The story claims GTA 6 is nearing the throne of video games and has record-breaking reviews placing it among the greatest games in history."
+  },
+  {
+   "id": "gta 6 style ai photos flood instagram gemini and chatgpt prompts to turn your selfie into vice city post",
+   "title": "GTA 6-style AI photos flood Instagram: Gemini and ChatGPT prompts to turn your selfie into Vice City post",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeWRZMUZzbWU3bmZEQ09fVk9HcWZYT1NOQWE2QnFMNkxybEpELWhNak5BcDRFVF8tZ2RhTXBOaDZNaUZQSUpNTVRMVEFNSFVjUU1PNE96Zi1aVmdiZWUwVEl5MkREeGV3RVpaNnd5NU1QcFV1dWI1SUQ4cWRfX2NMM3phdVlVcU9yekFIX05NN0h2NjdlbzNkZzAybUdUSUoxeWJ6ZnA4eUVmVERkV2ZHbU1UZm5aUjY4TFI3Z19WNkQwYjhUTnBtcFpNUXpKY3pRUDhwVGhIcEJZOVFfMU1rVmpCRnU1b0RSNEdzMEpRUlg2LWh0YXZUcC1FdzZPOG9Dbk9ySXBMVkZDcUxHRVA3ampTYVY3NW1L0gGeAkFVX3lxTE5udGx1TmVwdmc3VURObV9xM2VfSVhTa194ZkxWRkNuVENHeF9LdXFfWnVWNk12bHQ0dHMyRllHWEFoaVJNclplcVpINEEwMDZId3ctR3U3Z01fNFBjUGEyc2JGbTFQd0UzcnhfdXBqTXZxLTJNelJGUGk4ek1VVWM0UWtNZXlfUm84LWtYYlpXQXZUWHdCOGMxOUFMNnJQNzRsaUU3V2I0RkNuZktzSVctT1RRTTdXWkJPTGF1WWlNTnNTY0d5dTJCSG1OUVh3QVE2LVQ4RERSLWFyUlhfLWszUmpaSXF3dWFrZFo4Z3JHTHQwamUyazBjMnNnT3FfU3Y4ZUNOUlk2T0l5dmR5SHBzTnhpXzZXTm5ZWGRaNUE?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-22T05:47:00+00:00",
+   "seen": "2026-11-22T06:30:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 style AI photos flood Instagram using Gemini and ChatGPT prompts to turn selfies into Vice City posts."
   },
   {
    "id": "gta 6 bowling alley safe code location code and rewards",
@@ -7305,6 +7331,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story claims GTA 6 earned a large amount in 24 hours, surpassing a major movie's lifetime box office."
+  },
+  {
+   "id": "gta 6 links criminal records and relationships to multiple endings",
+   "title": "GTA 6 Links Criminal Records and Relationships to Multiple Endings",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ad3NEdHJGSi1kdGU5ZUU5bkY2TVhvejFrM0dBMnZRVXgxNHVzUHBGbVdqbFNyaGwwV0xEbzhXZTRwUnZGUWNYZTBlSjU2UWk4VE1lUkVpZWt4RzZmUnAzMk1FSWYtdw?oc=5",
+   "outlet": "cwibc.co.id",
+   "via": "Google News",
+   "published": "2026-11-21T08:05:56+00:00",
+   "seen": "2026-11-22T06:30:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 links criminal records and relationships to multiple endings."
   },
   {
    "id": "gta 6 rockstar games president sam houser addresses game s impressive sales figures",
