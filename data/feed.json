@@ -1,109 +1,122 @@
 {
- "updated": "2026-11-22T10:41:25+00:00",
- "started": "2026-11-22T10:41:23+00:00",
+ "updated": "2026-11-22T10:46:34+00:00",
+ "started": "2026-11-22T10:46:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-22T10:41:23+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 96,
+   "checked": "2026-11-22T10:46:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-22T10:41:23+00:00"
+   "checked": "2026-11-22T10:46:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T10:41:24+00:00"
+   "checked": "2026-11-22T10:46:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T10:41:24+00:00"
+   "checked": "2026-11-22T10:46:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T10:41:24+00:00"
+   "checked": "2026-11-22T10:46:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-22T10:41:24+00:00"
+   "checked": "2026-11-22T10:46:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T10:41:24+00:00"
+   "checked": "2026-11-22T10:46:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T10:41:24+00:00"
+   "checked": "2026-11-22T10:46:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-22T10:41:25+00:00"
+   "checked": "2026-11-22T10:46:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T10:41:25+00:00"
+   "checked": "2026-11-22T10:46:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T10:41:25+00:00"
+   "checked": "2026-11-22T10:46:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T10:41:25+00:00"
+   "checked": "2026-11-22T10:46:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T10:41:25+00:00"
+   "checked": "2026-11-22T10:46:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T10:41:25+00:00"
+   "checked": "2026-11-22T10:46:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 how to rob atm machines",
+   "title": "GTA 6: How to Rob ATM Machines",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYUUV1RHI0VWh4UkowN2pRR2VJbExaYXpmcW5zU1VLT2xpS2tsRDRKeVE5NWlEbVBmeU1sOWtQNDlMNGdWVWR3aXRsaGRvQVFld1VKcWFJZWVER0JSY0l4bXhKZ3ZUYzliV1NJ?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-22T10:38:20+00:00",
+   "seen": "2026-11-22T10:46:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story presents instructions on how to rob ATM machines in GTA 6."
+  },
   {
    "id": "why do i get the feeling that some of gta vi s developers were men from florida writer ian",
    "title": "Why do I get the feeling that some of GTA VI's developers were men from Florida? Writer: Ian",
@@ -129,6 +142,32 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports debate sparked over Metacritic's rating system by GTA 6 user reviews."
+  },
+  {
+   "id": "hundreds launch online fundraisers to help pay for grand theft auto vi",
+   "title": "Hundreds launch online fundraisers to help pay for Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0tMT2pTVXYxN01hUVNzbEdhOWk3MFNKbzFsYXRjYVJpc1V5SVRWTXBXZkxhQVl0aGhVcTFGNWRrTWZhVjdlemRoaHFRT2I3ZHVocjlFdWxnZTh0eUNCTFZyZXhpQUt4cFFXZUw1WFZqSG41aTlMSEFtNzBNZUc3Vl9KU19KZw?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-22T10:29:00+00:00",
+   "seen": "2026-11-22T10:46:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports online fundraisers being launched to help pay for Grand Theft Auto VI."
+  },
+  {
+   "id": "elon musk reacts as meta ceo mark zuckerberg turns wife priscilla chan into a gta 6 mission zuckerberg a",
+   "title": "Elon Musk reacts as Meta CEO Mark Zuckerberg turns wife Priscilla Chan into a GTA 6 mission; Zuckerberg a",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQV3RlQ2hwYlk4b21qTXFxeTNNRk9TYlZOamMxb19qV0JYQ0NSM0F6aDhRVkFfeG90aTZXZjRwanJjU3dZX0dRTndXamJZbUlreXFFd0VibVlsbFBHbWp0WUVSbHRBZGFzaHQ1MDRYUDEyenFaVERXTElSTndMWF8zaDhaYktmcy11RWxnUjhabThBRVJPTXlLdXNWVG9WeTNvWFVUSG9yV0l3T1N1aFU0YTZydk12ZnhqVDVZSk44OUVvN25ZSEdOUmJvbjI5dVN3VDhVVUtRQktCTlZlUkRhejBfM0lUNXljVWdyTUVlX2pEQzNBZGhqNU9jbkl1VmF1dUNYeWQ2UnZXcDlhRnVBYk5YMkhYZFl2V2VkWHcwMXM3ZWg1YndIQzFCTUxFNmdITDloaXZoVTM5UktL0gHCAkFVX3lxTE1Hc1g5OHlHa3FaTmxDMGhNU292QXRiaG1EU0lkLUdRV0lCdkM1c2l2ZUhSUkhpWms1b2t0WVRSWjVpLWZ4QXdQTENtZUdoMzB1NmJvUmNHSTlQaG9WMXoyMUxTcTNJcFd4MlEwc2Jhd0s4RS1nWTltSC12YzNTRkhVQjlFOWo2V2o0NktWclJzZkpRN2FiZGw3dHdtVTc4UkQ3NWFzQ2lKRmI4SGp3MzhlVThtd3RvVGZyTTlBelgwREM4RF83ZEs0VWEyZlhzSmdSU3hEUGcxcGh0ZGtodXVReGRDZWNqd2RWSVBHV1k4c2MwRl9oLV9faWJLTVo2VEJqUDVlOG5EZllSZ3hKVVRiMFJTbFNVN2xheHlJZVgtZlBJQmJFZmp5TFFaWm4xcWJ1bUJ1VUZKRDlLclFIQm1vQUE?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-22T10:27:00+00:00",
+   "seen": "2026-11-22T10:46:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes Elon Musk reacting to a GTA 6 mission that uses Mark Zuckerberg turning his wife into a GTA 6 character."
   },
   {
    "id": "taken out by a cow in gta vi bet she never saw that one coming writer ian",
