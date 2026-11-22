@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-22T09:21:29+00:00",
- "started": "2026-11-22T09:21:05+00:00",
+ "updated": "2026-11-22T09:26:08+00:00",
+ "started": "2026-11-22T09:26:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T09:21:11+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 96,
+   "checked": "2026-11-22T09:26:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T09:21:19+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 67,
+   "checked": "2026-11-22T09:26:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T09:21:28+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-22T09:26:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T09:21:28+00:00"
+   "checked": "2026-11-22T09:26:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T09:21:28+00:00"
+   "checked": "2026-11-22T09:26:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T09:21:28+00:00"
+   "checked": "2026-11-22T09:26:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T09:21:29+00:00"
+   "checked": "2026-11-22T09:26:04+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T09:21:29+00:00"
+   "checked": "2026-11-22T09:26:04+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-22T09:21:29+00:00"
+   "checked": "2026-11-22T09:26:04+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T09:21:29+00:00"
+   "checked": "2026-11-22T09:26:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T09:21:29+00:00"
+   "checked": "2026-11-22T09:26:05+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T09:21:29+00:00"
+   "checked": "2026-11-22T09:26:05+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T09:21:29+00:00"
+   "checked": "2026-11-22T09:26:05+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T09:21:29+00:00"
+   "checked": "2026-11-22T09:26:05+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 s review bombing row has now spread to zelda",
+   "title": "GTA 6's review bombing row has now spread to Zelda",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWnM4cXhHRGN1c1FHLURjZGRtZVVqb2p1dDVRTGkxcmprc28wc1NlQ0prY3ZxRHlEQlgtSGRDMHdIWk8xVFZIVVBON2ZjTnZCSTBRdkVZa1RIa3JFMWxyTVc4WUZwWjFZMDdBc1Rlc0VTUzUyV0hBVm1vTTlEaWZ5TDFn?oc=5",
+   "outlet": "GGRecon",
+   "via": "Google News",
+   "published": "2026-11-22T09:20:29+00:00",
+   "seen": "2026-11-22T09:26:03+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's review bombing row has spread to Zelda."
+  },
+  {
+   "id": "a gamer has built a grand theft auto vi themed pc with an asus rog strix geforce rtx 50",
+   "title": "A gamer has built a Grand Theft Auto VI-themed PC with an ASUS ROG Strix GeForce RTX 50.",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTVZdmM1RUh3eGNsODV4UGhVX3YyZUM2XzhVZXd2ekYwWk4wN2ZPaW5XTXFWSGJzV2tnaTJYTUpiT0FYSC0wZDlzUktSWmFmRWFCdDUxNHJaZ2Q2d3hWMllKZUpFNk5WUmRhejl5Mzg3OVJRaHFiTW8tZU9vLUVNZFNNSWZ3OTFxZVBOeEhNUDBtcU5yRzRoNHhVNFdLTTB4VHg2Y1FkUmVzRUp5ZkZlRVdyc3VzeUFyLWNIOU82eGk?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-22T09:18:20+00:00",
+   "seen": "2026-11-22T09:26:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a gamer built a Grand Theft Auto VI-themed PC with an ASUS ROG Strix GeForce RTX 50."
+  },
   {
    "id": "gta 6 grand theft auto 6 breaks records with 3 79b opening day",
    "title": "GTA 6 — Grand Theft Auto 6 Breaks Records With $3.79B Opening Day",
@@ -337,6 +363,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story is about playing Grand Theft Auto VI."
+  },
+  {
+   "id": "gta vi breaks sales records and raises parental concerns",
+   "title": "GTA VI breaks sales records and raises parental concerns...",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEhKaDdNaG4tcENXdWl0VlF2X3dWLXdnMjBwRnFQOTNRdFZtc1F6WWdIZmtsaDJGZl9NYzVqNEhUSzB2QlZvMWVyZWNCTVZKeGdlc1ljYlFxb0NabFVRclJ4MWVSRlVfb0tWcWVUb1U2QnFRdmhSVUZaUks3cjMyTVBPbGRzSmhxMnp0SEc0VkdBdUgtTWVzY05sZ1JHbGJjMjBMSE9lOXBhVUNxaGk1THpPMjU?oc=5",
+   "outlet": "www.jordannews.jo",
+   "via": "Google News",
+   "published": "2026-11-22T07:20:49+00:00",
+   "seen": "2026-11-22T09:26:02+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI breaks sales records and raises parental concerns."
   },
   {
    "id": "lana del rey carries a one of a kind vice city inspired herm s birkin at gta 6 event",
