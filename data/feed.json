@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T14:02:42+00:00",
- "started": "2026-11-22T14:02:35+00:00",
+ "updated": "2026-11-22T14:07:44+00:00",
+ "started": "2026-11-22T14:07:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 93,
-   "checked": "2026-11-22T14:02:35+00:00"
+   "checked": "2026-11-22T14:07:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 65,
-   "checked": "2026-11-22T14:02:36+00:00"
+   "hits": 58,
+   "checked": "2026-11-22T14:07:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-22T14:02:36+00:00"
+   "hits": 94,
+   "checked": "2026-11-22T14:07:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T14:02:36+00:00"
+   "checked": "2026-11-22T14:07:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T14:02:37+00:00"
+   "checked": "2026-11-22T14:07:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T14:02:37+00:00"
+   "checked": "2026-11-22T14:07:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T14:02:37+00:00"
+   "checked": "2026-11-22T14:07:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T14:02:38+00:00"
+   "checked": "2026-11-22T14:07:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T14:02:38+00:00"
+   "checked": "2026-11-22T14:07:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T14:02:38+00:00"
+   "checked": "2026-11-22T14:07:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T14:02:39+00:00"
+   "checked": "2026-11-22T14:07:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T14:02:39+00:00"
+   "checked": "2026-11-22T14:07:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-22T14:02:39+00:00"
+   "hits": 4,
+   "checked": "2026-11-22T14:07:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T14:02:39+00:00"
+   "checked": "2026-11-22T14:07:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "the podcast reports on gta 6",
+   "title": "The Podcast Reports on GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44eW1Eems4ZWJjalBLSzBadmcxTWJSWXM4dGEyNFk5UEdkdDRvcVhmQkZnc3BJaGhUaTNUSmI5dklCc1FxVnlzZXltOTJVNXZJZXdZMm96enFKdkZJTkdOWlJZVmJqV0VKZHNxTGJKcW9ISzds?oc=5",
+   "outlet": "Gameindustry.com",
+   "via": "Google News",
+   "published": "2026-11-22T14:04:16+00:00",
+   "seen": "2026-11-22T14:07:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA 6 presented by The Podcast on Gameindustry.com."
+  },
+  {
+   "id": "gta 6 sells 3 79 billion in a single day",
+   "title": "GTA 6 Sells $3.79 Billion in a Single Day",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1abE1INlpsZWlmRjQwOUVtMDBnWmNzcC1CeEV4cWhaXzhNUXV6cFBlY0JyYXFwQ0gwa3k5dzR3eXZnX0pNUDJsVXlWRF9HcG9fbnJab0FnNXJkV096UXRfLWxaVFhjWVlQX0FtR0pJdzlfRnV0eng4?oc=5",
+   "outlet": "Digital Pakistan",
+   "via": "Google News",
+   "published": "2026-11-22T14:00:17+00:00",
+   "seen": "2026-11-22T14:07:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 selling a large amount in a single day at Digital Pakistan."
+  },
   {
    "id": "gta 6 s day 1 copies sold have already beaten the nintendo 64 s lifetime sales",
    "title": "GTA 6's Day 1 copies sold have already beaten the Nintendo 64's lifetime sales",
@@ -116,6 +142,58 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story claims GTA 6's Day 1 copies sold have already beaten the Nintendo 64's lifetime sales."
+  },
+  {
+   "id": "three weeks in gta 6 reminded me why human artists are so impressive",
+   "title": "Three weeks in GTA 6 reminded me why human artists are so impressive",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUVjbkNlNHhHMjJmdzROMFNLbDlOdUFiRS1RVVp6ZzhlMlpDa0lHdTV6R2o5VldFQTlubVV4OE5Yc1FaVExHR2ZNRmpUUzlFdEJZanY5TkVyYzloYkFZMVFGMnhEVlV2UGM2ZGdQTlZ2aVdFeURyZERyaGx6YXFWTmxnLUJxSGo4WnZxRHhFVF9uYlVxQU1yMGd5dHRuUUV4czlhRXY1bnlfbmhKTThYV3pic3B5OGs3OVE?oc=5",
+   "outlet": "Creative Bloq",
+   "via": "Google News",
+   "published": "2026-11-22T14:00:00+00:00",
+   "seen": "2026-11-22T14:07:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story recalls why human artists are impressive after three weeks in GTA 6, according to Creative Bloq."
+  },
+  {
+   "id": "gta 6 glitch unlocks the fps on xbox series x s but with multiple drawbacks",
+   "title": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDNIZS1lOWVqcTQ1LU5ENERoMDk5aHZhUUZPc0NXWklCWnlWVVVPdHdDT0VpZmoxby1iZW1GTjN0TmE5X3FwZWxsSHhtcG1vY0x6R19qMDc4Q0lPT1NacUJXQnJxcGJ3VlFTU19SenZidVFvc2R5bDZCWnZVZUhaZTFrd3NnOHNFa0dhN2NvT1ZZZGJoLURUVWZZQVZURWZCTnYzVUFOOWFmcVd0TDlKU1dR?oc=5",
+   "outlet": "Pure Xbox",
+   "via": "Google News",
+   "published": "2026-11-22T14:00:00+00:00",
+   "seen": "2026-11-22T14:07:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 glitch that unlocks FPS on Xbox Series X|S, with drawbacks, from Pure Xbox."
+  },
+  {
+   "id": "grand theft auto vi sets record with 3 79b in first day retail sales rockstar games reports niagara gazette com",
+   "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports - niagara-gazette.com",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTGwxY0dfYmNRcHNPZVE5WjhzRkdETHhvR1ItUnRHc1pmNEp4ZmlJZEhfU0JzOGMybWhFN25DcHRnMjYxbHV6WlJQR2NrcS1JUHd3QXJvRjBIc19ONHZEOEUtX1RaenNQdUxGNWhHQmpfZXVhYTFBTURtWlAzdnlKLVlBNjBIVmpRTGwzMkZMN3hfd3ptTm5Jb25XazRnbktNdmtyN0ltYUFKUUVUMDM3TjFlNndaMFN2Q0FzNHpTMTBmc0lWX3lzXzRkdXk4TWVmRy12YXltXzJsZVN1UGtrWU4yQm1LMmstT25hdWJBMDRnNEE5S2Nj?oc=5",
+   "outlet": "niagara-gazette.com",
+   "via": "Google News",
+   "published": "2026-11-22T14:00:00+00:00",
+   "seen": "2026-11-22T14:07:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The Niagara Gazette reports GTA VI first-day retail sales reaching a record amount, per Rockstar Games."
+  },
+  {
+   "id": "how to customize and upgrade weapons in gta 6",
+   "title": "How to Customize and Upgrade Weapons in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MeEkxVEV6bEdCSUo5MEFSY0JvM2NTb21nOFliWktzNTlyblN2cmFjS0NlRXpUT1cwM2FBdUNHN1pLTjNuemVrREdZclFVRVRueG1hUlFkXzZZcjFzLXVKckZjbkh3RUJmTUVpdGJmZWZ6TWh5c2liaFp1VzZWQQ?oc=5",
+   "outlet": "GameTyrant",
+   "via": "Google News",
+   "published": "2026-11-22T14:00:00+00:00",
+   "seen": "2026-11-22T14:07:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to customize and upgrade weapons in GTA 6 on GameTyrant."
   },
   {
    "id": "can you free roam after beating gta 6",
@@ -285,6 +363,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 Riata - Grassrivers is the headline reported by Yahoo Tech."
+  },
+  {
+   "id": "gta 6 riata southwind",
+   "title": "GTA 6 Riata - Southwind",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yaWE0VEl5RWxha1MzakhPX1BRY1MzQWpmZ0tIVVJJYTZhZy1MOFdkQzlJMWRYdmVVM2xsVDFFU2x6SXdWUU8ydGgyWXZ5ZzlraHVTSnN0UURkYkxvYmQtczQ3d1FyMVF3S3o2Q3BMcjF1VUxi?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-22T13:27:28+00:00",
+   "seen": "2026-11-22T14:07:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers GTA 6 Riata - Southwind on Yahoo Tech."
   },
   {
    "id": "gta 6 how to fix hdr settings",
