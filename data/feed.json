@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T02:13:50+00:00",
- "started": "2026-11-22T02:13:44+00:00",
+ "updated": "2026-11-22T02:18:56+00:00",
+ "started": "2026-11-22T02:18:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T02:13:44+00:00"
+   "checked": "2026-11-22T02:18:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-22T02:13:45+00:00"
+   "hits": 95,
+   "checked": "2026-11-22T02:18:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T02:13:45+00:00"
+   "checked": "2026-11-22T02:18:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T02:13:45+00:00"
+   "checked": "2026-11-22T02:18:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T02:13:46+00:00"
+   "checked": "2026-11-22T02:18:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T02:13:46+00:00"
+   "checked": "2026-11-22T02:18:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T02:13:46+00:00"
+   "checked": "2026-11-22T02:18:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T02:13:46+00:00"
+   "checked": "2026-11-22T02:18:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T02:13:47+00:00"
+   "checked": "2026-11-22T02:18:53+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T02:13:47+00:00"
+   "checked": "2026-11-22T02:18:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T02:13:47+00:00"
+   "checked": "2026-11-22T02:18:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T02:13:47+00:00"
+   "checked": "2026-11-22T02:18:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T02:13:47+00:00"
+   "checked": "2026-11-22T02:18:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T02:13:48+00:00"
+   "checked": "2026-11-22T02:18:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi makes record selling 3 79b on its day of launch",
+   "title": "Grand Theft Auto VI makes record selling $3.79B on its day of launch",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOW1FVHg0azk0QmZWbFRYaW5OTnk5M0ZER1N6SFNhdmpKendOWUI5VWZYVS1fMU5uMlFpWDNlN1NZOHRCbWpTUDZjTlBZMnJ3MGlGdjhsZWhIU1EtSm0yWEZudGlTSXJuclRjU1hGVUc1b21GcHFtOHZxMDI5RF9HOXRnejFBeGZqa0RZeTkwUE1mSmY3ZWpfTzUwbGF3Z3F0VU9pOGV5NWhyWmJtWDV4b0xqUUFMakRmR1dZYXVuMUJKM2RmUjFtQ0ViaTlLNjZUTG9Ial9xUFE3Tm8?oc=5",
+   "outlet": "kvrr.com",
+   "via": "Google News",
+   "published": "2026-11-22T02:05:00+00:00",
+   "seen": "2026-11-22T02:18:50+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports Grand Theft Auto VI set a record selling amount on its launch day."
+  },
   {
    "id": "gta 6 trust trophy guide finish breakfast run to earn it plus what comes next",
    "title": "GTA 6 Trust trophy guide: finish Breakfast Run to earn it, plus what comes next",
@@ -144,6 +157,19 @@
    "ai_summary": "The story suggests GTA 6 could arrive on PC sooner than expected due to a developer known for an unofficial Switch port of Zelda: Ocarina of Time."
   },
   {
+   "id": "how to access gta 6 ultimate edition bonuses",
+   "title": "How to Access GTA 6 Ultimate Edition Bonuses",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wWlAtcmVscnpHam1weU1YT3RSQWY0X2liYWkzbmhyTzdPcC1YVnNUVlo0dHJoMW1uY2tjd1UySjNNbXllZlFoQmNwc1lILVhlamlQckZwTUdMZnBISXF5TGRHZ1lyYkE?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-22T01:29:01+00:00",
+   "seen": "2026-11-22T02:18:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to access bonuses for GTA 6 Ultimate Edition."
+  },
+  {
    "id": "gta 6 s 3 79 billion debut sends apple stock investors an unmistakable signal",
    "title": "GTA 6’s $3.79 billion debut sends Apple stock investors an unmistakable signal",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yZVltc2dNT1VEcjFfZkJlLXQ4UlpsZC1Xa0kydHRfTHh5T3FFSVNsSGc4clV6MUFiUkdoaXUtU0xJM1FFb0JoTGlEY1gwZVhiSVEyTWpRVWRESGp6RkdBRkh2NG16M2l6aFJLZmt3b3BrZTg?oc=5",
@@ -181,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses the rivalry between women and their boyfriends' hobbies as a ongoing dynamic."
+  },
+  {
+   "id": "gta 6 buy a garage all garages with prices and the free garage from moses",
+   "title": "GTA 6: Buy a garage, all garages with prices and the free garage from Moses",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3lCOGFaV2hTdjdCTEMtYnBlMlpMOVFxNG14V2lJb2VVR0xLQjVXOTRvTWVDeWNpZnZLRVhaQkZySjd6Y3J6NnJaODQ1TE1XTEp0aldvbFdXeF90MlV2MXlXQ1B6SWpleklvdDRFRGEtd0JoXzVMbkhUUnJ2c1N6YVBmaE8?oc=5",
+   "outlet": "space4games",
+   "via": "Google News",
+   "published": "2026-11-22T01:03:14+00:00",
+   "seen": "2026-11-22T02:18:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses buying a garage and mentions all garages with prices and a free garage from Moses."
   },
   {
    "id": "move aside mandy gta 6 s goth girl vicki is ps5 players new fave",
@@ -1312,6 +1351,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "A GTA 6 Vice City jersey bundle related to Miami Heat sells for two thousand on eBay."
+  },
+  {
+   "id": "4 811 days later grand theft auto vi makes gaming history",
+   "title": "4,811 days later: Grand Theft Auto VI makes gaming history",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONkQ0c0xQU09BMWt5UWhLOUdJaFdIallqdHFrb0YtNWx4eXp6clpYS1Q0VUJlV3ktd2RKUEIzUC1tSmhrZWhQZEt1RzdmVmFqN3FHTTJxeWNyMXdmLVNsOWhQQi1NNDZRRXdoUDc5WWJQYnVpMTFwUXg3NEZPeGFfdFBJRklmcUt0Y1BVMWJySDg5UXE5NjJhTldUTGlNejdw?oc=5",
+   "outlet": "www.ubspectrum.com",
+   "via": "Google News",
+   "published": "2026-11-21T20:06:00+00:00",
+   "seen": "2026-11-22T02:18:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story notes that GTA VI made gaming history after many days."
   },
   {
    "id": "klay thompson plays gta 6 in surprising way",
