@@ -1,109 +1,187 @@
 {
- "updated": "2026-11-22T11:01:44+00:00",
- "started": "2026-11-22T11:01:40+00:00",
+ "updated": "2026-11-22T11:06:49+00:00",
+ "started": "2026-11-22T11:06:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-22T11:01:41+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 96,
+   "checked": "2026-11-22T11:06:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-22T11:01:41+00:00"
+   "checked": "2026-11-22T11:06:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T11:01:42+00:00"
+   "checked": "2026-11-22T11:06:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T11:01:42+00:00"
+   "checked": "2026-11-22T11:06:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T11:01:42+00:00"
+   "checked": "2026-11-22T11:06:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-22T11:01:42+00:00"
+   "checked": "2026-11-22T11:06:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T11:01:43+00:00"
+   "checked": "2026-11-22T11:06:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T11:01:43+00:00"
+   "checked": "2026-11-22T11:06:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T11:01:43+00:00"
+   "checked": "2026-11-22T11:06:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T11:01:43+00:00"
+   "checked": "2026-11-22T11:06:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T11:01:44+00:00"
+   "checked": "2026-11-22T11:06:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T11:01:44+00:00"
+   "checked": "2026-11-22T11:06:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T11:01:44+00:00"
+   "checked": "2026-11-22T11:06:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T11:01:44+00:00"
+   "checked": "2026-11-22T11:06:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "this dude in gta 6 is unstoppable after seeing that i d be getting the fk out of there writer ian",
+   "title": "This dude in GTA 6 is unstoppable After seeing that, I'd be getting the fk out of there Writer: Ian",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5reU9LWTcweHZZWDFad2pLRUh2ck1LYUZEYmh1bXRaeWRfelBjNWYwbWtjeHBHeWZRajgtQ3VmeDV0eW1QZFFiU1B2eFJvRjhod3lkb3A1V19wN2VoM2pod2ZsZFhpX0pEQ0p4eQ?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-22T11:05:00+00:00",
+   "seen": "2026-11-22T11:06:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports an unstoppable character in GTA 6 as described in the headline."
+  },
+  {
+   "id": "jordan proposes gta 6 ban over child safety fears as game breaks sales records",
+   "title": "Jordan proposes GTA 6 ban over child safety fears as game breaks sales records",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZk8wTXpnaUFOM0NPOXR6VkNpa0xSZjk3a3VnOElzOExwOVRvSGppb3htelI5T2VxdXZnbVNUeDcxazAxRkhxX2w3aWxFaklHeDhRaTg0eWUzX19nbXFSeXBFRTNpY2ZOVU8zTXNSNXF2UnkxMk5TNTlHVXREbTItX0hEeTV4dllDdVFEOGZZendITl9XRmNCU05KanhsZ0YxQUFjZFZiS0FqSDFWV1VKSk5QM1I4TGhSMDNEUlZBR0F0NFJycmg3dXBTdEc1LW5QeHFiWHFoNDQ5VGpiUTRNYw?oc=5",
+   "outlet": "www.thenationalnews.com",
+   "via": "Google News",
+   "published": "2026-11-22T11:04:57+00:00",
+   "seen": "2026-11-22T11:06:44+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports Jordan proposing a GTA 6 ban over child safety fears as sales records are broken."
+  },
+  {
+   "id": "is rockstar games grand theft auto vi gaming s last blockbuster",
+   "title": "Is Rockstar Games’ ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3Vxd1UtQUV0bWdZY1ZhSWFVSFZoamNFd1o4UHhBX1kyTTcyem1iejd2SXk4eVV4Y1NOV2MyUXdmQWV5NVB6a29pcUctVmU5WUtaOGRCcFpFYldNZDVVRXFrWm5aVmNETjRNbWpPOGNnTmUzbWlycUlPbGVITm1DbWVoQWdCaDFmMk0ydDNNQ09qaVdoNkhfejJpQ1JXazVSOTRiaENWZG1uV2JxeUFn?oc=5",
+   "outlet": "WSJ",
+   "via": "Google News",
+   "published": "2026-11-22T11:04:20+00:00",
+   "seen": "2026-11-22T11:06:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks whether Grand Theft Auto VI could be gaming’s last blockbuster."
+  },
+  {
+   "id": "grand theft auto vi and the dark side of gaming escapism",
+   "title": "Grand Theft Auto VI and the Dark Side of Gaming Escapism",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1FJYXFfeDl6d25RNkNLX2JYel95LXJEcGtjQlZHMUlkZVNWZVhNMnlxWnE3NVI3ZkxRY2dTSmgtcXdJUWJ0UWUyVHBuTUdJcFhDbENZdXFVbWFLV3U1ZTlKZjVnTGFpdkVzT2VaSVgwbkZkZTc1N1dhVi1FUXo4SkhhLUVRQk1sa0trZFkxazBya21aSUxZUmNCRQ?oc=5",
+   "outlet": "National Review",
+   "via": "Google News",
+   "published": "2026-11-22T11:00:00+00:00",
+   "seen": "2026-11-22T11:06:44+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story discusses GTA VI and the dark side of gaming escapism."
+  },
+  {
+   "id": "rockstar spent months on one detail in gta 6 lucia opening a door with her hip",
+   "title": "Rockstar spent months on one detail in GTA 6: Lucia opening a door with her hip",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkQyczhVOEVEMlh5OFdLS2xFR05GbFB1b2d2Y2U2WEp5X3hEYWFmaVJRS19relpNeWViQnpVeVJvdVRlakR6bEtaOXBHZDlBeHh3NDBZNURZLTBjWjBLSG5WSWxHSTVBWUctOVZFTTBKdEZ1d0xORE45cEpwM1RCaGpNeXQyRkxxQVh4am96WlhrR0pSTHJfWUx2Ul9KdE05aldBRlk0UGdBdjdGX09XQUpR?oc=5",
+   "outlet": "Creative Bloq",
+   "via": "Google News",
+   "published": "2026-11-22T11:00:00+00:00",
+   "seen": "2026-11-22T11:06:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes that Rockstar spent months on one detail: Lucia opening a door with her hip."
+  },
+  {
+   "id": "gta 6 faces plagiarism claim over weapon decal",
+   "title": "GTA 6 faces plagiarism claim over weapon decal",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV1VfRG9QbjBVNzBrWEhUTV9ZdHRIdVVOQlFBNHhFazAwcXFueXNZQmlXV1VFSkVpaGplNFZnaE9XRGRuUUI2aVNtdE9WeW9rR09RQXBKcTI5WmZWOHJvRUhFMWhxX3NwNTZreGZvZjFhY3BsX2hfR1FEN3RUazhlRQ?oc=5",
+   "outlet": "news.lavx.hu",
+   "via": "Google News",
+   "published": "2026-11-22T10:55:27+00:00",
+   "seen": "2026-11-22T11:06:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story mentions a plagiarism claim over a weapon decal in GTA 6."
+  },
   {
    "id": "gta 6 series s performance 720p base fsr 4 1 upscaling and a 30 fps target",
    "title": "GTA 6 Series S Performance: 720p Base, FSR 4.1 Upscaling and a 30 FPS Target",
