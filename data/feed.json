@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:24:50+00:00",
- "started": "2026-11-22T05:24:46+00:00",
+ "updated": "2026-11-22T05:29:57+00:00",
+ "started": "2026-11-22T05:29:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-22T05:24:47+00:00"
+   "hits": 97,
+   "checked": "2026-11-22T05:29:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-22T05:24:47+00:00"
+   "hits": 85,
+   "checked": "2026-11-22T05:29:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-22T05:24:48+00:00"
+   "hits": 96,
+   "checked": "2026-11-22T05:29:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T05:24:48+00:00"
+   "checked": "2026-11-22T05:29:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T05:24:48+00:00"
+   "checked": "2026-11-22T05:29:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T05:24:48+00:00"
+   "checked": "2026-11-22T05:29:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T05:24:49+00:00"
+   "checked": "2026-11-22T05:29:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T05:24:49+00:00"
+   "checked": "2026-11-22T05:29:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T05:24:49+00:00"
+   "checked": "2026-11-22T05:29:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T05:24:49+00:00"
+   "checked": "2026-11-22T05:29:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T05:24:50+00:00"
+   "checked": "2026-11-22T05:29:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T05:24:50+00:00"
+   "checked": "2026-11-22T05:29:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T05:24:50+00:00"
+   "checked": "2026-11-22T05:29:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T05:24:50+00:00"
+   "checked": "2026-11-22T05:29:54+00:00"
   }
  },
  "items": [
@@ -272,6 +272,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a GTA VI cutscene featuring Sexyy Red and Denzel Curry."
+  },
+  {
+   "id": "gta 6 online release date multiplayer expected in 2027",
+   "title": "GTA 6 Online Release Date: Multiplayer Expected in 2027",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjekVlbmpyVTh6aGVCYW5YLWxQTzJvTFYxV29jTUhwa2paUUJlNktoRGNrVHROVHJuVnptU2xDeUx1dF80UlNaSkUtZ2lwM2dzZndFRXVNMTNkTG9NMlNmd2RsSm9LdzBNdm16bGVHNA?oc=5",
+   "outlet": "Covers.com",
+   "via": "Google News",
+   "published": "2026-11-22T04:16:00+00:00",
+   "seen": "2026-11-22T05:29:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the GTA 6 online release date, with multiplayer expected in 2027."
   },
   {
    "id": "ishowspeed will be live playing gta vi before its u s release",
