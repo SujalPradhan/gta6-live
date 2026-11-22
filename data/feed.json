@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T16:53:36+00:00",
- "started": "2026-11-22T16:53:29+00:00",
+ "updated": "2026-11-22T16:58:35+00:00",
+ "started": "2026-11-22T16:58:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-22T16:53:29+00:00"
+   "hits": 98,
+   "checked": "2026-11-22T16:58:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T16:53:30+00:00"
+   "checked": "2026-11-22T16:58:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 81,
-   "checked": "2026-11-22T16:53:30+00:00"
+   "hits": 80,
+   "checked": "2026-11-22T16:58:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T16:53:30+00:00"
+   "checked": "2026-11-22T16:58:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T16:53:30+00:00"
+   "checked": "2026-11-22T16:58:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T16:53:31+00:00"
+   "checked": "2026-11-22T16:58:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 33,
-   "checked": "2026-11-22T16:53:31+00:00"
+   "hits": 34,
+   "checked": "2026-11-22T16:58:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 19,
-   "checked": "2026-11-22T16:53:31+00:00"
+   "hits": 20,
+   "checked": "2026-11-22T16:58:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T16:53:31+00:00"
+   "checked": "2026-11-22T16:58:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T16:53:32+00:00"
+   "checked": "2026-11-22T16:58:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T16:53:32+00:00"
+   "checked": "2026-11-22T16:58:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T16:53:32+00:00"
+   "checked": "2026-11-22T16:58:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T16:53:32+00:00"
+   "checked": "2026-11-22T16:58:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T16:53:32+00:00"
+   "checked": "2026-11-22T16:58:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 developer reportedly honors his late mother with a hidden memorial",
+   "title": "GTA 6 developer reportedly honors his late mother with a hidden memorial",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CYkY1cGZRc3J5dzlUVlp3YV9seWpMYzNIaG55SC1CN3p1QWpEajJVNzNCTGZWNWE4VkFQekl0Q2hoLXhZSFBv?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-22T16:55:49+00:00",
+   "seen": "2026-11-22T16:58:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's developer honors his late mother with a hidden memorial."
+  },
+  {
+   "id": "gta 6 has deep backstories for almost everything says rockstar",
+   "title": "GTA 6 Has “Deep Backstories for Almost Everything,” Says Rockstar",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSW5EV2hlMnZzZEpsN3YzRGtsNHF5VGNkbVNkUUVIUmJ0WUNfNk1OeUNwQl9yaHg0UVdJSFNGMjVFOXRDRWFUcEM4dHZtaXNqUGItSkxTSGxVNE44ZlA3am1BRFpuNS1TeVZFRlhmZWw0U0lOUktBRlJmZDh3UGJMTGU0aENkMnpHT0hjSE1B?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-22T16:55:48+00:00",
+   "seen": "2026-11-22T16:58:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 has deep backstories for almost everything, according to Rockstar."
+  },
+  {
+   "id": "gta 6 transgressor locations how to restore the first car in wyman s classic car collection",
+   "title": "GTA 6 Transgressor Locations: How to restore the first car in Wyman's Classic Car Collection",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-transgressor-locations-wyman/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-22T16:52:27+00:00",
+   "seen": "2026-11-22T16:58:31+00:00",
+   "summary": "Wyman's Classic Car Collection lets you access some classic rides, but you need to find them all first",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports about restoring the first car in Wyman's Classic Car Collection and needing to find all cars."
+  },
   {
    "id": "gta 6 s album just set a spotify soundtrack record",
    "title": "GTA 6's album just set a Spotify soundtrack record",
@@ -116,6 +155,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The piece reports that GTA 6's album set a Spotify soundtrack record."
+  },
+  {
+   "id": "spoiler gta vi s snitches are b tches go to the police lose a mission even if you ve been kidnapped writer marie",
+   "title": "🎮 SPOILER: GTA VI's snitches are b*tches. Go to the police, lose a mission. Even if you've been KIDNAPPED. Writer: Marie",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiSDVHeHVaQXJyT2pEV0Y5MUlMaDhiSDJZakVHa2xQMTB1cFo5S2I5bnF1MTJPRUNKLWVkdzR6MmtxaU1SUWZ3aUhFdTh2bm9kRFh2M0FpdW83OVhQWGJLaXFjR3BOVncyWDNNVA?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-22T16:50:00+00:00",
+   "seen": "2026-11-22T16:58:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI's snitches are described as bitches and losing a mission occurs if you go to the police, even if kidnapped."
   },
   {
    "id": "neuralink lets man play gta 6 with his mind",
@@ -298,6 +350,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes an NPC in GTA VI who thinks he’s trapped in a video game, wondering why he can’t leave, per Complex."
+  },
+  {
+   "id": "gta 6 s record breaking launch where does it rank among the top 10 best selling video games ever",
+   "title": "GTA 6's record-breaking launch: Where does it rank among the top 10 best selling video games ever?",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSzVyYnpHeVBycEtfMHBENU8teElMMEtrYVdyTXVHX193WmVFbGw3VlRvWkJqWHNFckx3SVZTRDF5d3FLTW5BbzhUM3VjNWtWYXhpdWFjanZrb3hzUHV3TGx6d19VQWl6blduMlF4eEdfT2kxLWw1TkIyZnBNVk5qTUhiRk1GN0tBUUo4a3JwWmw5NEVIMkVXaFRSS2ZOYmstY2JVc0xzbzZ6eWxJSG80V0owOUlHcGZBaTMxQ0dkQTM3UDRxYmdhYkh5enZxV2FtS3psOEV4Z1JKNDFGU3MyRFZ4SXJYTjlrYnhMRnRNMks5M1nSAfgBQVVfeXFMT1NTM3EzVnhRSkQ4YXluSjFYam16dFRHODVlbnJqcVpzTjlhbE9aemRfc25MX3dOeHlFRVNKbWVtbno1RC1Gd0EtMzc1VEJMM3lBMzJwNVJON05LcE1RaUZIb2tDQjlZNkE1c0JPajcwRVl6OW5EUDl2WU1JU09sNWhnNDIydkIzeThhVENwWUZOemQtRE0zWWxmU0MxSC1EQlc5S0gyMExfd2hkUVJJLU5peW9xcVpnVDFEYTk3bVVBT1hEUEFEWXRIT3RJZk8zeHFtWF9fNFc5N1ZVVlY5eHJBWW1FbGdGNkt0QjRwYUJyYUxlc19kM3c?oc=5",
+   "outlet": "Indiatimes",
+   "via": "Google News",
+   "published": "2026-11-22T16:27:57+00:00",
+   "seen": "2026-11-22T16:58:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6's launch ranking among the top 10 best selling video games ever."
   },
   {
    "id": "gta 6 how many cars can you own and can you buy a house",
@@ -5147,6 +5212,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The story claims Avengers: Endgame reclaims the number one global streaming spot after GTA 6 massacre."
+  },
+  {
+   "id": "gta 6 triggers busiest day in comcast internet history",
+   "title": "GTA 6 Triggers Busiest Day in Comcast Internet History",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJab21uMHpmUUtKaVNlWENxc3BMaEdEcmtmNHFUZTdwQ3pfRWdfMkZhcU1kZkhSbEZNazM2QVNaWmFyTW9ZMnZpbFN4bWdnSmIzQlZoMjRlSUJBeHRSdzNKOTBFMU4tVUpTbXdQY2JVdzlwb25Ld3g4ZEtqS3kxdWRIclNlSDZCZzJsWWFR?oc=5",
+   "outlet": "Everything Edinburgh",
+   "via": "Google News",
+   "published": "2026-11-21T20:48:56+00:00",
+   "seen": "2026-11-22T16:58:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 triggering the busiest day in Comcast Internet history."
   },
   {
    "id": "gta 6 players think they ve found a south park easter egg",
