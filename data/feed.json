@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T02:48:58+00:00",
- "started": "2026-11-22T02:48:53+00:00",
+ "updated": "2026-11-22T02:54:01+00:00",
+ "started": "2026-11-22T02:53:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T02:48:54+00:00"
+   "checked": "2026-11-22T02:53:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-22T02:48:54+00:00"
+   "hits": 99,
+   "checked": "2026-11-22T02:53:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T02:48:55+00:00"
+   "checked": "2026-11-22T02:53:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T02:48:55+00:00"
+   "checked": "2026-11-22T02:53:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T02:48:56+00:00"
+   "checked": "2026-11-22T02:53:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T02:48:56+00:00"
+   "checked": "2026-11-22T02:53:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T02:48:56+00:00"
+   "checked": "2026-11-22T02:53:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T02:48:56+00:00"
+   "checked": "2026-11-22T02:53:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T02:48:57+00:00"
+   "checked": "2026-11-22T02:53:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T02:48:57+00:00"
+   "checked": "2026-11-22T02:53:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T02:48:57+00:00"
+   "checked": "2026-11-22T02:53:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T02:48:58+00:00"
+   "checked": "2026-11-22T02:53:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T02:48:58+00:00"
+   "checked": "2026-11-22T02:53:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T02:48:58+00:00"
+   "checked": "2026-11-22T02:53:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 ps5 and xbox users protest after bans for sharing gameplay with nudity",
+   "title": "GTA 6 PS5 and Xbox users protest after bans for sharing gameplay with nudity",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUdVNk1TdGtaYW5vc3Vaam9LcmJfV1I3bkpsVlV3c2FqWWNkNDN4aE1HcDMyMC16T2Zlc0RNZFd4bFNBN2hoYndyaGpQR0k5UXdaMDlZYVFldGs2alNtUTR6Y0xOcmhsVDgyczY4V1NwZnFCMi1PNkttMWFMc0psNV9mVzA5MGo0dFBEWFpRaDZqS09QVVFSa1ZxcUdFOE1iV2k1TlY2TVA5VG9tOV8teWJfUTlib2U4ZkRHYlF3?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-22T02:37:00+00:00",
+   "seen": "2026-11-22T02:53:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports protests by GTA 6 PS5 and Xbox users after bans for sharing gameplay with nudity."
+  },
   {
    "id": "all medium jewelry store heist loot secrets locations gta 6",
    "title": "All Medium Jewelry Store Heist Loot & Secrets Locations - GTA 6",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 aimed to create the biggest snake possible and delivered, with the writer expressing aversion to the swamp."
+  },
+  {
+   "id": "just 28 viewers on his stream now he has a rs 1 crore gta 6 job",
+   "title": "Just 28 Viewers On His Stream, Now He Has A Rs 1 Crore GTA 6 Job",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVmhkX3Vhdk9YZG45ZmZmMkEyNHhiYlFQcDNuN1VUamhuMVhMb3VwSnplNGNMQnBaLU5WRElnUzRiSEpoOHRRSDJUMDRVYll1VTdsVDBhZjJEaGw0bmx6Rzl5amVRWWhuMHNmMWFOT254bS1WVnI3VTlieERNYzQ2SlpteEotOG85VFBiTnpBX3Z5VmhwMjR3aV9odVRjempKS1gzRldSalAyMDFBUUJWTDR6dW03Q0xQUXdCX3NydlN0N01zbHfSAc4BQVVfeXFMTmlEYXVkdHlyam9UUzhUR09LQVIzdVhhU1JnblliR1dmc0Fic2VJaWQ5OGNYbmxwRG1Oem81R2VYUWdUWjV6Qm12S3ZXYnY3X29qSmgwSmxHWHprOVA1N0ZVejhkdjJoV1lRbERLVkp2OU91azZibDNIenZ3SE50NmpObDNxdjdVSDFYM0lDLWk5Q0xiN3doajFoeGhsZVgxT3NqMkppQ0FaRjRWTENFR0pZZDhVZnJ5THUxSXhUUFIyYXBGbjIyQUpFbzhubnc?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-22T02:26:48+00:00",
+   "seen": "2026-11-22T02:53:55+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports a streamer gaining a large GTA 6 job after having only a few viewers."
   },
   {
    "id": "still playing gta vi on a worn out pad microsoft just made the fix very cheap",
