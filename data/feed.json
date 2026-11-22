@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:35:17+00:00",
- "started": "2026-11-22T06:35:14+00:00",
+ "updated": "2026-11-22T06:40:21+00:00",
+ "started": "2026-11-22T06:40:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 93,
-   "checked": "2026-11-22T06:35:14+00:00"
+   "checked": "2026-11-22T06:40:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 80,
-   "checked": "2026-11-22T06:35:15+00:00"
+   "hits": 78,
+   "checked": "2026-11-22T06:40:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T06:35:15+00:00"
+   "checked": "2026-11-22T06:40:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T06:35:15+00:00"
+   "checked": "2026-11-22T06:40:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T06:35:16+00:00"
+   "checked": "2026-11-22T06:40:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T06:35:16+00:00"
+   "checked": "2026-11-22T06:40:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T06:35:16+00:00"
+   "checked": "2026-11-22T06:40:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T06:35:16+00:00"
+   "checked": "2026-11-22T06:40:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T06:35:16+00:00"
+   "checked": "2026-11-22T06:40:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T06:35:17+00:00"
+   "checked": "2026-11-22T06:40:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T06:35:17+00:00"
+   "checked": "2026-11-22T06:40:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T06:35:17+00:00"
+   "checked": "2026-11-22T06:40:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T06:35:17+00:00"
+   "checked": "2026-11-22T06:40:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T06:35:17+00:00"
+   "checked": "2026-11-22T06:40:19+00:00"
   }
  },
  "items": [
@@ -558,6 +558,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that a GTA 6 voice actor says the game's realism resonates with players."
+  },
+  {
+   "id": "gta 6 hits sales milestone passing many notable blockbusters",
+   "title": "GTA 6 Hits Sales Milestone Passing Many Notable Blockbusters",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlJiVTBDYUFhaHQ2RHBVVFlOU3VaODB3WGoxdEFIMnRtQTZ1TTk4UGE1UndrRElERlRDcmN6WVlPRGlKdmFTS3VwZFpxTS1ZMkEwNkRmZ2oyd1dHaDdiUnBrQkpFZ1lnaWtJdWo3OVRjNW11akFGOWdicDBOMFJWbUVIWUtnYjc1WnNIN1luS1FUQmF4TXfSAZsBQVVfeXFMTXdETjB3a0diSS1JTzhQLWRVQ2RwYU9NYmF0d241V1p5dklQazB5WXJhNThDdjlfb2F3U0xRS3BVQ3dVOUhBc2d0VkJFTUc4ZU1oZzQ0TTZFYzcwc0ZVamRJMnNTTkFhTlpZSEI3aVprQkI4Tm11REpwZzZGMFlqTDJvSkxqWGh4NGlDc0JiTDV0UHB5WmNrVzdOWm8?oc=5",
+   "outlet": "mxdwn Movies",
+   "via": "Google News",
+   "published": "2026-11-22T03:40:27+00:00",
+   "seen": "2026-11-22T06:40:17+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 hits a sales milestone, surpassing many notable blockbusters."
   },
   {
    "id": "gta vi generates 3 79 billion in first 24 hours setting entertainment record",
