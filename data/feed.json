@@ -1,109 +1,174 @@
 {
- "updated": "2026-11-22T23:41:04+00:00",
- "started": "2026-11-22T23:40:38+00:00",
+ "updated": "2026-11-22T23:45:40+00:00",
+ "started": "2026-11-22T23:45:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T23:40:46+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-22T23:45:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T23:40:55+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 54,
+   "checked": "2026-11-22T23:45:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T23:41:03+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 70,
+   "checked": "2026-11-22T23:45:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T23:41:03+00:00"
+   "checked": "2026-11-22T23:45:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T23:41:03+00:00"
+   "checked": "2026-11-22T23:45:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T23:41:03+00:00"
+   "checked": "2026-11-22T23:45:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T23:41:03+00:00"
+   "checked": "2026-11-22T23:45:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 20,
-   "checked": "2026-11-22T23:41:03+00:00"
+   "hits": 21,
+   "checked": "2026-11-22T23:45:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T23:41:04+00:00"
+   "checked": "2026-11-22T23:45:37+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T23:41:04+00:00"
+   "checked": "2026-11-22T23:45:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T23:41:04+00:00"
+   "checked": "2026-11-22T23:45:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T23:41:04+00:00"
+   "checked": "2026-11-22T23:45:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T23:41:04+00:00"
+   "checked": "2026-11-22T23:45:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T23:41:04+00:00"
+   "checked": "2026-11-22T23:45:38+00:00"
   }
  },
  "items": [
+  {
+   "id": "restaurant owners left in tears after discovering their family business in gta 6",
+   "title": "Restaurant owners left in tears after discovering their family business in GTA 6",
+   "link": "https://www.dexerto.com/gta/restaurant-owners-left-in-tears-after-discovering-their-family-business-in-gta-6-3430508/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-22T23:44:09+00:00",
+   "seen": "2026-11-22T23:45:36+00:00",
+   "summary": "A family-owned restaurant called Oscar’s has been left stunned after discovering that their business seemingly appears in GTA 6.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A family-owned restaurant reportedly appears in GTA 6, leaving its owners stunned."
+  },
+  {
+   "id": "gta 6 where you know mandy actress lexie shoaibi from",
+   "title": "‘GTA 6’: Where You Know Mandy Actress Lexie Shoaibi From",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlE3dnFfTDBQblVPU3FyLTEwbjZwVmlpNVZDMUQyQjYtbExqQ3pIMktuTlc5YWtXcDJtaGtHdjBZSzFjTmlHOS0wcV80SkRoLUxNOXRoWkhETTFJMUxnSDFrczhGRzdidlJzYWE5cHl6bktnM1pleFlRZFpGazhtNVBkc3A4bVZqMlVDTHdrdw?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-22T23:39:31+00:00",
+   "seen": "2026-11-22T23:45:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article identifies where the Mandy actress Lexie Shoaibi is known from."
+  },
+  {
+   "id": "gta 6 dev honors late mother with in game memorial that players can visit",
+   "title": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXVZTExYTVNQS051Q1FfcUY3N3hKWUpZcXQxeXUweUFDbkNXWUJNQXFaS21rc0huLXRfRWhOREdZaFBlZU1MZThNcmlQNW9QTk9QQmJNNlBreEJ4Q19qRFFETGt3SnlxU3NBTXp0aUdLT3BNem9QZ2thWmlpVDhKX24xSnZUVEpPa0tpb3lUY0pab3hYcUtETWFybXh6dkVyVGw2N0dTTWxzd3RLMjE1ZTYzZE9zZDlQdkNZYXk3YUI?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-22T23:37:54+00:00",
+   "seen": "2026-11-22T23:45:34+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The dev honors a late mother with an in-game memorial that players can visit."
+  },
+  {
+   "id": "mike jones streams surge 700 after gta 6 features his hits",
+   "title": "Mike Jones’ Streams Surge 700% After GTA 6 Features His Hits",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnpaalluNjNQOEJkYzFibFRYTmM5STJxU2VGUEZwTms4QVFUSk9pYUxfcHdJSXhWMVJFTDlFMlI2RXRzRjBmWnpRaU5JaUhUNHVrYTdvVjVyRk5XSFZPZWdwWUl3UF9PaDRRUjBhcGFZbE9LS1BfZHZ3dWUzWHU0OWdFR0h6UVdvVFpPUnYwazNRd3p1bzVjNDhvVm1OM20yWVBZY1FJbnJfRmdSU2VJd3JKbw?oc=5",
+   "outlet": "Hip Hop Vibe",
+   "via": "Google News",
+   "published": "2026-11-22T23:32:12+00:00",
+   "seen": "2026-11-22T23:45:34+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Mike Jones’s streams surge after GTA 6 features his hits."
+  },
+  {
+   "id": "gta 6 npcs look so real that getting jumped by a group of guys on the beach feels personal writer sol",
+   "title": "GTA 6 NPCs look so REAL that getting jumped by a group of guys on the beach feels personal. Writer: Sol",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3cUI5ZU9aZGJwb2daQlR0Nm84cHFacWdYazhPSWt0eWRoaklZaTU3UFNQLWN1NWdMYkZSWE1VVW02ZUpJMVVvUm9vR19sQVdPcHhYdTNEbmVCQ1dwdHduRl9VWDZNVmNiX1BPcA?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-22T23:30:01+00:00",
+   "seen": "2026-11-22T23:45:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 NPCs are so realistic that a beach assault feels personal to players."
+  },
   {
    "id": "miss you mum gta 6 honors rockstar team s late friends and family with leonida memorial that players can visit themselves",
    "title": "'Miss You, Mum' — GTA 6 Honors Rockstar Team's Late Friends and Family With Leonida Memorial That Players Can Visit Themselves",
@@ -662,6 +727,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The headline reports attempts to turn Cyberleek's leaked GTA 6 Xbox build into a PC port via three GitHub projects, lacking the executable."
+  },
+  {
+   "id": "how to complete the hyde island manhunt easter egg in gta 6",
+   "title": "How to complete the Hyde Island Manhunt Easter egg in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjVMWjVrRVp3bVdmY3k2VVV2dXJ3VWJlN1JEbG0wNFN1OFRQX2Y0QU1RSFE1Um5ORHhjQnpmNGQzRFBTY0N1SU5RRG00NjJnVVRmMGowMWpMSFJkbndWOVRnY2hoQ3dxN2FvRktQSTQ2cWZ0bEdFSC15QlJ2d0cyaWNVV3dVdE83Sm5nTFRfdTZIU3c?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-22T20:56:56+00:00",
+   "seen": "2026-11-22T23:45:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Instructions are given to complete the Hyde Island Manhunt Easter egg in GTA 6."
   },
   {
    "id": "rockstar says darts were cut from gta 6 because it didn t have unlimited money or time to make it feel proper",
