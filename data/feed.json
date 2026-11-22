@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:20:30+00:00",
- "started": "2026-11-22T07:20:23+00:00",
+ "updated": "2026-11-22T07:25:30+00:00",
+ "started": "2026-11-22T07:25:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-22T07:20:24+00:00"
+   "hits": 93,
+   "checked": "2026-11-22T07:25:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-22T07:20:24+00:00"
+   "hits": 77,
+   "checked": "2026-11-22T07:25:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T07:20:24+00:00"
+   "checked": "2026-11-22T07:25:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T07:20:25+00:00"
+   "checked": "2026-11-22T07:25:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T07:20:25+00:00"
+   "checked": "2026-11-22T07:25:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T07:20:25+00:00"
+   "checked": "2026-11-22T07:25:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T07:20:26+00:00"
+   "checked": "2026-11-22T07:25:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T07:20:26+00:00"
+   "checked": "2026-11-22T07:25:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T07:20:26+00:00"
+   "checked": "2026-11-22T07:25:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T07:20:27+00:00"
+   "checked": "2026-11-22T07:25:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T07:20:27+00:00"
+   "checked": "2026-11-22T07:25:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T07:20:27+00:00"
+   "checked": "2026-11-22T07:25:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T07:20:27+00:00"
+   "checked": "2026-11-22T07:25:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T07:20:27+00:00"
+   "checked": "2026-11-22T07:25:28+00:00"
   }
  },
  "items": [
@@ -714,6 +714,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains GTA 6's Dexter Easter Eggs."
+  },
+  {
+   "id": "rockstar says grand theft auto vi the album is out now",
+   "title": "Rockstar Says Grand Theft Auto VI: The Album Is Out Now",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wTkhSdmNrQ1UxbWZkaUtqbnpCV1lOUVJVS3VYZGlIZ3c4UHo2QW1sOWIwNTRScFF1bkN1eks1Vld2WWNpYlA0TlFxY3hsQkZiVXlNZTNLVkY3OU9QNE5ia3V4eVc?oc=5",
+   "outlet": "Kazi Magazine",
+   "via": "Google News",
+   "published": "2026-11-22T03:26:20+00:00",
+   "seen": "2026-11-22T07:25:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar says Grand Theft Auto VI: The Album is out now."
   },
   {
    "id": "walking into gta 6 airport security armed and sparking a full terminal shootout was always going to end with that red screen she got further",
