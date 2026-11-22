@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T10:21:23+00:00",
- "started": "2026-11-22T10:21:17+00:00",
+ "updated": "2026-11-22T10:26:25+00:00",
+ "started": "2026-11-22T10:26:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,167 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-22T10:21:17+00:00"
+   "hits": 97,
+   "checked": "2026-11-22T10:26:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-22T10:21:18+00:00"
+   "hits": 61,
+   "checked": "2026-11-22T10:26:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T10:21:18+00:00"
+   "checked": "2026-11-22T10:26:20+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T10:21:18+00:00"
+   "checked": "2026-11-22T10:26:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T10:21:19+00:00"
+   "checked": "2026-11-22T10:26:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-22T10:21:19+00:00"
+   "checked": "2026-11-22T10:26:21+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T10:21:19+00:00"
+   "checked": "2026-11-22T10:26:21+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T10:21:19+00:00"
+   "checked": "2026-11-22T10:26:21+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-22T10:21:19+00:00"
+   "checked": "2026-11-22T10:26:21+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T10:21:20+00:00"
+   "checked": "2026-11-22T10:26:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T10:21:20+00:00"
+   "checked": "2026-11-22T10:26:22+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T10:21:20+00:00"
+   "checked": "2026-11-22T10:26:22+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T10:21:20+00:00"
+   "checked": "2026-11-22T10:26:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T10:21:21+00:00"
+   "checked": "2026-11-22T10:26:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "taken out by a cow in gta vi bet she never saw that one coming writer ian",
+   "title": "Taken out by a cow in GTA VI Bet she never saw that one coming Writer: Ian",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81NE9GRlZONk1IU3RDdjZwckpxeEQxekxHczJvY284bjJrX09pNEVwbVVZOVg4NjVDM1NxX0pOc090VVpZM0lJQkExZGdWcVZuLUU4dXdEQTZXNzBnMkRJUk4xLXJVZnZjWjMyZA?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-22T10:25:00+00:00",
+   "seen": "2026-11-22T10:26:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story reports a player claims they were taken out by a cow in GTA VI."
+  },
+  {
+   "id": "gta 6 faces plagiarism claim two days after release",
+   "title": "GTA 6 faces plagiarism claim two days after release",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tc2RGQ1g2bmxmRUE5U0tmSG5VcVgtbWVXanFHUnllTHE5ZkhWcU4zekUwajRYZzRuU1lQaTNYaHQ4aFFudjZ3Yy15U0dsc3UzMzJVVmtIb2x5bUxzU2pGc3hsV2s5YTVsLXgySU9ONzdfYko4T0tWdS1R?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-22T10:24:06+00:00",
+   "seen": "2026-11-22T10:26:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 faces a plagiarism claim shortly after its release."
+  },
+  {
+   "id": "gta 6 players can t stop doomscrolling in the game art really does imitate life",
+   "title": "'GTA 6' players can't stop doomscrolling in the game: 'Art really does imitate life'",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFJYQWJOMWZZdHdaMlp1Y25qcnJUSUpQakVwaHdJcUpndzlBTldxSW96clA3MlFoZVByQmNoMzNOWF9VZURHdEVMTXotdHBlbmpxdmlTT3FnSFdCQS03YXBlRVpiMko0Q3R5bi1yX2hQVzBuOTZmdVhObF8wOHFicXRR?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-22T10:23:00+00:00",
+   "seen": "2026-11-22T10:26:20+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players are doomscrolling while the game mirrors real life in its art."
+  },
+  {
+   "id": "gta 6 breaks 3 79 billion sales record in just one day rockstar s biggest game finally arrives",
+   "title": "GTA 6 Breaks $3.79 Billion Sales Record in Just One Day: Rockstar's Biggest Game Finally Arrives",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHdJNjM4dVV1bk82SXo0VjZDNjVTSGYwV29PSmJFSjVnRlZYV0dMR1dUa0FrY1gwdEZXWTVZRUhJdVRKY2RWc1QzSWlwYmFYZlZ0ckhVUnJISjRuU3VpMDVUekxPNFBIUDRnRXY1bFpnWGlfZXRidUJzWWp0MEhCcUFWTjM4WmNITWJrcGxuU2Zpdw?oc=5",
+   "outlet": "Aktualita.co",
+   "via": "Google News",
+   "published": "2026-11-22T10:21:59+00:00",
+   "seen": "2026-11-22T10:26:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 breaks a sales record on its first day, becoming Rockstar's biggest game debut."
+  },
+  {
+   "id": "gta 6 is facing its first plagiarism claim just two days after its release",
+   "title": "GTA 6 is facing its first plagiarism claim just two days after its release",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON09uVXNja2p5RUNmME0zLWdvLUQ2WDdYX05xOV8tcURGeHphS1d2T01CaXlZTm9hcmVDSl9jMF9VWU1QWkNTOFNYdmJkMTEtSnRBWFZsWkVyTUd0VFBqdHFkSHo1Y0xqeVdHaG1UcG5BdVNKb0NTVEFNWjhnQllSNkF3VGRhNFc5UVBjaEdIY3Y5VTZzZVlkM0g4TVhsR2gxMU5hTF9RNDktUGZvaWxjNXNHVGVTaVhvUUM4?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-22T10:16:00+00:00",
+   "seen": "2026-11-22T10:26:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is facing its first plagiarism claim two days after release."
+  },
   {
    "id": "who is cliff savage streamer with just 30 viewers lands 100 000 job to play gta 6 after beating 35 000 a",
    "title": "Who is Cliff Savage? Streamer with just 30 viewers lands $100,000 job to play GTA 6 after beating 35,000 a",
@@ -753,6 +818,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 It’s a Date guide: one drink at the Courtyard Bar for a Jason and Lucia relationship boost."
+  },
+  {
+   "id": "us police warn gta 6 players against bringing virtual crimes into real life",
+   "title": "US Police Warn GTA 6 Players Against Bringing Virtual Crimes into Real Life",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEZiVFBNTXVmaW1jTHFyR2JkQ211SDFxWlg3TTQ2bDlJd1lOUmk2Q3lNNFJnenUxVHlUOGFCSWpKX3NfQjVsTk9hc0hDZlduUy04TEFiVnBJUjdGWVM4UExhUzV4QmVDbVNMc0FtcEVNQ0x0TmlJbnZsd2lwR1ZubHJ1MDJWVjBWRUZNcVBZMW5BdUplaE9zT3YybUo5eW04SHEtT094UHZ2d2N1allOWjNVNGkxTWdvM3c?oc=5",
+   "outlet": "اسلام تايمز",
+   "via": "Google News",
+   "published": "2026-11-22T05:31:15+00:00",
+   "seen": "2026-11-22T10:26:20+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "US police warn GTA 6 players about bringing virtual crimes into real life."
   },
   {
    "id": "the gta vi sized hole in indian gaming",
