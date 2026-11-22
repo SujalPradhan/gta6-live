@@ -1,106 +1,106 @@
 {
- "updated": "2026-11-22T11:17:22+00:00",
- "started": "2026-11-22T11:16:55+00:00",
+ "updated": "2026-11-22T11:21:53+00:00",
+ "started": "2026-11-22T11:21:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T11:17:01+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 96,
+   "checked": "2026-11-22T11:21:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T11:17:11+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 61,
+   "checked": "2026-11-22T11:21:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T11:17:17+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-22T11:21:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T11:17:17+00:00"
+   "checked": "2026-11-22T11:21:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T11:17:17+00:00"
+   "checked": "2026-11-22T11:21:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-22T11:17:17+00:00"
+   "checked": "2026-11-22T11:21:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-22T11:17:18+00:00"
+   "checked": "2026-11-22T11:21:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T11:17:18+00:00"
+   "checked": "2026-11-22T11:21:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T11:17:18+00:00"
+   "checked": "2026-11-22T11:21:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T11:17:19+00:00"
+   "checked": "2026-11-22T11:21:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T11:17:19+00:00"
+   "checked": "2026-11-22T11:21:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T11:17:19+00:00"
+   "checked": "2026-11-22T11:21:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T11:17:19+00:00"
+   "checked": "2026-11-22T11:21:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T11:17:19+00:00"
+   "checked": "2026-11-22T11:21:50+00:00"
   }
  },
  "items": [
@@ -116,6 +116,45 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that you can flip an overturned car in GTA 6 using brute strength."
+  },
+  {
+   "id": "15 brands trendjacking gta 6 without official partnerships",
+   "title": "15 brands trendjacking GTA 6 without official partnerships",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tLTZPY2tPOXNfUkJNVzNMODRjblNhVktlb2V6VmVaTC1aZ3NOWE5paDMwbTNkc18wRUJUOHJVVHE3RWJmeVpvb2pnc3JTMjdVNlQyUWFLbVZ2MjQwbmtsN2JhT0xVQU9PSTA5MzBR?oc=5",
+   "outlet": "ContentGrip",
+   "via": "Google News",
+   "published": "2026-11-22T11:11:15+00:00",
+   "seen": "2026-11-22T11:21:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that fifteen brands trendjacked GTA 6 without official partnerships."
+  },
+  {
+   "id": "gta 6 launch sparks global school workplace absences as game shatters opening day sales records",
+   "title": "GTA 6 Launch Sparks Global School & Workplace Absences as Game Shatters Opening-Day Sales Records",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRjNyejc1b2UwZExPNTBvOV9PTUlMdENOT1AxSmJBMzNnRmp5eHVWLXo2OGdvbDBTM2ZCWkFIdF9qX1FtY1FUNEE4eXJmRENZRV9YbmFIWDgxRDB6SkItalA5M0tvZjdWTmRDZUJXX1hlQWc4ZDlHbWhnQnhoZU1DSFVId19Qa2RPMmhsRGNZVlByelV4MnRiZFR1blVzczhnX1lnYUtPYzVHUXJkcW5Vb1NIUV9mVFFWQTBVZQ?oc=5",
+   "outlet": "Pragativadi",
+   "via": "Google News",
+   "published": "2026-11-22T11:10:55+00:00",
+   "seen": "2026-11-22T11:21:48+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 launch caused global school and workplace absences and opened with record sales."
+  },
+  {
+   "id": "grand theft auto vi is a hit what does that say about us opinion",
+   "title": "Grand Theft Auto VI is a hit. What does that say about us? | Opinion",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFVfaTZCVkVKaTdiYi1pSE5MdnY4M0lrd1BTYWdKU29RYWRDeVFBUFMtNFBUQ1JuTHBINUdJVFVUc3o0UmhWeWxYSXhZb2wxOEd1eUZzR1NrVGkwSHZFMk5DVzJZNk1tOVNMdmd3Rl9yMnpnMHlHazNxUmxqYWFZeGlXcjNMSlU4bUtfT29RbjBCT0NyV3ZlSmVjeERKaHdCc0xTWXZLNmxnXzRrM0hPcmR6QkFWQ01EYXk1Y2tsVGhVTkk?oc=5",
+   "outlet": "The Tennessean",
+   "via": "Google News",
+   "published": "2026-11-22T11:10:00+00:00",
+   "seen": "2026-11-22T11:21:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports an opinion on GTA VI's popularity and what it says about society."
   },
   {
    "id": "this dude in gta 6 is unstoppable after seeing that i d be getting the fk out of there writer ian",
@@ -339,6 +378,19 @@
    "ai_summary": "GTA 6 breaks a sales record on its first day, becoming Rockstar's biggest game debut."
   },
   {
+   "id": "gta 6 is breaking sales records should i buy this s p 500 stock for my isa",
+   "title": "GTA 6 is breaking sales records! Should I buy this S&P 500 stock for my ISA?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbzdFSDZLWGZhNEh4SngtV1hpZTc4NXlBRGk0R3R4NXl1M3VmLVBnY0ZNVVVvdXVMY19sWHk0dHB3eUFSSk8tSlpzWENqWHE3MU42VXg2MXo3QUw2NkNzVzNpTGZsTGQwT3lCcnZCRTI5QTBRaEtjT0xCWmJ1VkItWjFuOA?oc=5",
+   "outlet": "Yahoo Finance UK",
+   "via": "Google News",
+   "published": "2026-11-22T10:17:29+00:00",
+   "seen": "2026-11-22T11:21:48+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 breaking sales records and discusses whether to buy related stock for an ISA."
+  },
+  {
    "id": "gta 6 is facing its first plagiarism claim just two days after its release",
    "title": "GTA 6 is facing its first plagiarism claim just two days after its release",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON09uVXNja2p5RUNmME0zLWdvLUQ2WDdYX05xOV8tcURGeHphS1d2T01CaXlZTm9hcmVDSl9jMF9VWU1QWkNTOFNYdmJkMTEtSnRBWFZsWkVyTUd0VFBqdHFkSHo1Y0xqeVdHaG1UcG5BdVNKb0NTVEFNWjhnQllSNkF3VGRhNFc5UVBjaEdIY3Y5VTZzZVlkM0g4TVhsR2gxMU5hTF9RNDktUGZvaWxjNXNHVGVTaVhvUUM4?oc=5",
@@ -467,6 +519,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses whether GTA 6 pedestrians will run or fight and how NPCs react to the player."
+  },
+  {
+   "id": "gta 6 fans review bomb ocarina of time on metacritic",
+   "title": "GTA 6 Fans Review-Bomb Ocarina of Time on Metacritic",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFFqS0JoSTNHa2hTREhxZ09jSDBraWtQY0h3NVZUNXUxTjBHVkZ3NnJvXzg1UVBRbV93TG1LbC1uWWJYSmxQbHJlZi1NbG1OSW9iQ2UtSUVLUzJSS0dtamloRUdWTnJHYXJ0TkczQXUtczdqaHVIRUlOUEpqcXBhNk5yMA?oc=5",
+   "outlet": "Wisevoter",
+   "via": "Google News",
+   "published": "2026-11-22T09:43:35+00:00",
+   "seen": "2026-11-22T11:21:48+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports fans reviewing-bomb Ocarina of Time on Metacritic."
   },
   {
    "id": "for all those who say gta 6 isn t much of an improvement over gta 5 writer ian",
