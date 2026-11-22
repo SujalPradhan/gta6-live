@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T22:30:24+00:00",
- "started": "2026-11-22T22:30:21+00:00",
+ "updated": "2026-11-22T22:35:16+00:00",
+ "started": "2026-11-22T22:35:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T22:30:22+00:00"
+   "checked": "2026-11-22T22:35:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-22T22:30:22+00:00"
+   "hits": 53,
+   "checked": "2026-11-22T22:35:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-22T22:30:22+00:00"
+   "hits": 72,
+   "checked": "2026-11-22T22:35:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T22:30:23+00:00"
+   "checked": "2026-11-22T22:35:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T22:30:23+00:00"
+   "checked": "2026-11-22T22:35:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T22:30:23+00:00"
+   "checked": "2026-11-22T22:35:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T22:30:23+00:00"
+   "checked": "2026-11-22T22:35:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T22:30:23+00:00"
+   "checked": "2026-11-22T22:35:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T22:30:23+00:00"
+   "checked": "2026-11-22T22:35:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T22:30:23+00:00"
+   "checked": "2026-11-22T22:35:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T22:30:24+00:00"
+   "checked": "2026-11-22T22:35:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T22:30:24+00:00"
+   "checked": "2026-11-22T22:35:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T22:30:24+00:00"
+   "checked": "2026-11-22T22:35:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T22:30:24+00:00"
+   "checked": "2026-11-22T22:35:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 top billing walkthrough how to complete the mission and rewards",
+   "title": "GTA 6 Top Billing walkthrough: How to complete the mission and rewards",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-top-billing-walkthrough-how-to-complete-the-mission-and-rewards/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-22T22:31:11+00:00",
+   "seen": "2026-11-22T22:35:12+00:00",
+   "summary": "How to complete Top Billing in GTA 6",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports how to complete the Top Billing mission and the rewards in GTA 6."
+  },
+  {
+   "id": "gta vi players when something needs fixing at mandy s house writer samuel",
+   "title": "GTA VI players when something needs fixing at Mandy’s house Writer: Samuel",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc2hURE9kX0x0Q3E5aUVXdzlXN1QxQzhWSmZONHIzVVU1UHl5c2JMclpDVU81WFd1LXA3eExrSzhNZzVpUnh4eVZQcTctVjdBRm1PLUtDYm5fLXFOQ01JVmxvc0NZRzFXYzMtRg?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-22T22:30:00+00:00",
+   "seen": "2026-11-22T22:35:11+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story references GTA VI players needing fixes at Mandy's house."
+  },
+  {
+   "id": "gta 6 drew a mammoth 61 of active u s ps5 players on launch day averaging more than eight hours per player",
+   "title": "GTA 6 drew a mammoth 61% of active U.S. PS5 players on launch day, averaging more than eight hours per player",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLWZfd3dSNFJ6NUF2T0tHS2RiZmlIWUdHdFpheDNlTlAxbERnNGk3QXRqR2xuRDZPSkNKY000TUhMbVJZTlpacUx3eU93Z1NIdktneWJvbXNycDg4eTlZSWdlTjhmQXJhaGsyNVJMSFkyNVFhTERuXzVhd3d0SG9XX08xS2Z3YnlYSGE4V1JCQlFNdEh0U1RrQndxWUlYU3paR3FXbFNPam5RYkFGQkl2VkVGeXZ4eFZjZUNRd003THpub1ltR2ZIV2pFNXpPczdITDFOOG5sTTZLMDV5UktFRk5UXzJRZw?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-22T22:23:00+00:00",
+   "seen": "2026-11-22T22:35:11+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story notes GTA 6 drew a large share of active U.S. PS5 players on launch day, averaging over eight hours per player."
+  },
   {
    "id": "gta 6 boobie time walkthrough how to complete the mission and rewards",
    "title": "GTA 6 Boobie Time walkthrough: How to complete the mission and rewards",
@@ -4822,6 +4861,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses the PS5 headset and controller recommended for the best GTA 6 experience and cheaper alternatives."
+  },
+  {
+   "id": "gta vi sets entertainment launch record with in sales the sunday guardian newspaper",
+   "title": "GTA VI SETS ENTERTAINMENT LAUNCH RECORD WITH IN SALES | The Sunday Guardian - newspaper",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdm5zcy04VWZjV1M1YURHZF93ck5qazhNYUg5Mkgxd1B3Y084VUU0MlExU1ZIM0E1YmxwRUlqd3B0VXNId3Q0dXZwcFFZQTRPLUJDUUpIRVZNR1ZWaFZHT3JpaHFUd2VqNmkxbTNIbjlPdEZGaVVYTE5EWlQxY1JpellQRzBVVElVbnUzUWgxamNjbDRRQk1KYUQ2UWtnRXJIUWEtNGsta1FadFh1eXhtS09XYUVhdw?oc=5",
+   "outlet": "Magzter",
+   "via": "Google News",
+   "published": "2026-11-22T06:47:13+00:00",
+   "seen": "2026-11-22T22:35:11+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story claims GTA VI sets an entertainment launch record with high sales."
   },
   {
    "id": "gta 6 reveals donnie death and brad carter voice role",
