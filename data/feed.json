@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T12:02:06+00:00",
- "started": "2026-11-22T12:02:00+00:00",
+ "updated": "2026-11-22T12:07:07+00:00",
+ "started": "2026-11-22T12:07:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-22T12:02:00+00:00"
+   "hits": 95,
+   "checked": "2026-11-22T12:07:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-22T12:02:01+00:00"
+   "hits": 63,
+   "checked": "2026-11-22T12:07:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T12:02:01+00:00"
+   "checked": "2026-11-22T12:07:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T12:02:01+00:00"
+   "checked": "2026-11-22T12:07:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T12:02:01+00:00"
+   "checked": "2026-11-22T12:07:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-22T12:02:02+00:00"
+   "hits": 51,
+   "checked": "2026-11-22T12:07:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-22T12:02:02+00:00"
+   "checked": "2026-11-22T12:07:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T12:02:02+00:00"
+   "checked": "2026-11-22T12:07:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T12:02:02+00:00"
+   "checked": "2026-11-22T12:07:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T12:02:03+00:00"
+   "checked": "2026-11-22T12:07:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T12:02:03+00:00"
+   "checked": "2026-11-22T12:07:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T12:02:03+00:00"
+   "checked": "2026-11-22T12:07:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T12:02:03+00:00"
+   "checked": "2026-11-22T12:07:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T12:02:04+00:00"
+   "checked": "2026-11-22T12:07:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "over half of all console players active on gta 6 s launch day played it says circana",
+   "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+   "link": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-22T12:02:30+00:00",
+   "seen": "2026-11-22T12:07:02+00:00",
+   "summary": "On Grand Theft Auto 6 's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6. Read more",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "More than half of all players on PS5 and Xbox were playing GTA 6 on launch day, according to Circana."
+  },
   {
    "id": "gta 6 is hiding two secret radio stations that you need to discover before you can listen to them",
    "title": "GTA 6 is hiding two secret radio stations that you need to discover before you can listen to them",
@@ -116,6 +129,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is hiding two secret radio stations that you need to discover before you can listen to them."
+  },
+  {
+   "id": "neuralink patient plays gta 6 with his mind",
+   "title": "Neuralink patient plays GTA 6 with his mind",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zeTNOTWkwU1JDVmhaYTBXWERVXzk3dFM5VXlZME1RM2FmYUNvY19BNzZRZUNtM2NaeVQwSlQ1SVlLS284TVFkMENfTHZQaGZxSTlWMg?oc=5",
+   "outlet": "mobidevices.com",
+   "via": "Google News",
+   "published": "2026-11-22T11:58:40+00:00",
+   "seen": "2026-11-22T12:07:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Neuralink patient plays GTA 6 with his mind."
+  },
+  {
+   "id": "gta 6 how to make money fast in chapter 2",
+   "title": "GTA 6: How To Make Money Fast In Chapter 2",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVMGxwMjRidXljUFRnc3BjaUZBQm1YWlY2NFlZRDY4WGJGNEFiMTVrUTZfNW92NXdfSVE4UmxqYW1weS1ILXhMUlNOWjA1YWlzNmJCRGJLa2VTRnVnVUlJYk5TdHNaUQ?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-22T11:57:37+00:00",
+   "seen": "2026-11-22T12:07:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 money-making guide is presented in Chapter 2."
   },
   {
    "id": "gta 6 catch me if you can trophy guide",
@@ -155,6 +194,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 creates history by beating Avengers: Endgame."
+  },
+  {
+   "id": "gta vi 60fps glitch discovered and here s how to do it",
+   "title": "GTA VI 60FPS Glitch Discovered And Here’s How To Do It",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkFHMkpDLUhFcFpxOUpBR3dkNm0yTHdTVVN4d1dteEpUU1BIQ1lmcjZRaTJ5cDlyQ3hCa1lhR3NsU2FVSC1xUTdWc1dYYUtvcUQyLVdTVHpPWlA3MGFSVlM4ZEVSRUhUVWVFQ0xzYV8yT3g5MzgwSG96YkdMbmJKZzU1V29vdUU?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-22T11:33:11+00:00",
+   "seen": "2026-11-22T12:07:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA VI 60FPS glitch has been discovered and instructions to perform it are provided."
   },
   {
    "id": "gta 6 pc version gets official release date update",
@@ -259,6 +311,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports an opinion on GTA VI's popularity and what it says about society."
+  },
+  {
+   "id": "gta 6 shatters records with revenues of 3 79 billion in one day",
+   "title": "GTA 6 Shatters Records with Revenues of $3.79 Billion in One Day",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XbjdxRjNHYXRNZWc2RVV1c21XLU5zaWZ6ZjlEb3ExNlJBSF9XTzZUX2NwOW5tUHY1cEJ2dERzREx1NkllWVBUcExXTGROd25IMmZZQld3?oc=5",
+   "outlet": "وكالة صدى نيوز",
+   "via": "Google News",
+   "published": "2026-11-22T11:08:08+00:00",
+   "seen": "2026-11-22T12:07:01+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 reportedly shatters records with revenues in one day."
   },
   {
    "id": "this dude in gta 6 is unstoppable after seeing that i d be getting the fk out of there writer ian",
