@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T20:44:44+00:00",
- "started": "2026-11-22T20:44:38+00:00",
+ "updated": "2026-11-22T20:49:39+00:00",
+ "started": "2026-11-22T20:49:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T20:44:38+00:00"
+   "checked": "2026-11-22T20:49:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-22T20:44:39+00:00"
+   "checked": "2026-11-22T20:49:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-22T20:44:39+00:00"
+   "hits": 71,
+   "checked": "2026-11-22T20:49:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T20:44:39+00:00"
+   "checked": "2026-11-22T20:49:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T20:44:40+00:00"
+   "checked": "2026-11-22T20:49:36+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T20:44:40+00:00"
+   "checked": "2026-11-22T20:49:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T20:44:40+00:00"
+   "checked": "2026-11-22T20:49:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T20:44:40+00:00"
+   "checked": "2026-11-22T20:49:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T20:44:41+00:00"
+   "checked": "2026-11-22T20:49:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T20:44:41+00:00"
+   "checked": "2026-11-22T20:49:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T20:44:41+00:00"
+   "checked": "2026-11-22T20:49:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T20:44:41+00:00"
+   "checked": "2026-11-22T20:49:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T20:44:42+00:00"
+   "checked": "2026-11-22T20:49:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T20:44:42+00:00"
+   "checked": "2026-11-22T20:49:37+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to start and complete the Skunk Ape questline in GTA 6."
+  },
+  {
+   "id": "municipal guard bans distribution of gta 6 and warns of legal action against violators",
+   "title": "Municipal Guard bans distribution of \"GTA 6\" and warns of legal action against violators",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTNpNkJYR0FMX1R6X04wV3lZZkxLeGwtSC1md2IyT2lYTnJlUDV2NEV1YlVGaDFrd19lQkJBQUhCZ2ctWW01Y21BQVViQ2JTV0NVbkkyOVVZcWxpbjFJUjJRUXZXT0dMSjhsUTFnNFBCa3kxcEdsb1YwNWdOb1hPbjhlSnA5UU1aR0t1bE5iT1ZFSGx1Qkl0WXpUZVk0NWhwSWJYcng0aGotUHRzNEpMNXJvZw?oc=5",
+   "outlet": "The Libya Observer",
+   "via": "Google News",
+   "published": "2026-11-22T20:41:26+00:00",
+   "seen": "2026-11-22T20:49:35+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "A municipal guard bans distribution of GTA 6 and warns of legal action against violators."
   },
   {
    "id": "gta 6 locks cheats behind the story and using them disables saving",
@@ -376,6 +389,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The column references Shashi Tharoor criticizing the 2016 demonetisation, in relation to GTA 6."
+  },
+  {
+   "id": "neuralink gta vi demo has a trial participant flying planes by imagining finger taps",
+   "title": "Neuralink GTA VI Demo Has a Trial Participant Flying Planes by Imagining Finger Taps",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVBEaEF6WEV6RGRBV2hCLTZQV0FteEN3NVBjc0dnWXVFdk9laThtWVhyRHk5RmtKU3dwb25kNndhNV9mWm5VSFFKb2JncDFiakRmbld2WTNweTFadkZoRE13UG9NU2pDU241eUpTeXNReU5TZ3dzVURMR1M2UmUwd3ltdXhIWTlua3ZNeUVhOFZtY2l1aXp5VElyeHVSTERXckdHX1ZSM0pWSkpJQ2tWa0FR?oc=5",
+   "outlet": "Hardware Busters",
+   "via": "Google News",
+   "published": "2026-11-22T19:09:12+00:00",
+   "seen": "2026-11-22T20:49:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Neuralink GTA VI demo shows a trial participant flying planes by imagining finger taps."
   },
   {
    "id": "where to find bank security armored trucks in gta 6",
@@ -1858,6 +1884,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "shattered.io compares GTA 6 to Nintendo 64 sales, noting a shortfall of 430,000."
+  },
+  {
+   "id": "gta 6 s 32 5m pre sales fall 430 000 short of n64",
+   "title": "GTA 6’s 32.5M Pre-Sales Fall 430,000 Short of N64",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHdETXp0VGRod2lOdHpmXy1IYmpCN2JLS1NsS3llclFUdXE3OG9KbnUyU1dad08xTlhldU5Ma2lubWVnTVB1SFZOTEVCd3I2X3Zrdm1WX21ZdTBQRkVZajZwU3N4VkF6RGc2Y2NDb1dqeGhXN25mNHQ2OTd1THNibUpBUUxaOXU5QzJYWkhGcnJhQ3IxNTNJ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-22T15:24:24+00:00",
+   "seen": "2026-11-22T20:49:35+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6’s pre-sales are reported to fall short of a referenced amount by a stated count."
   },
   {
    "id": "gta 6 how to do the first person glitch ps5 xbox",
