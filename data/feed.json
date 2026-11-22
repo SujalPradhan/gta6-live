@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:45:00+00:00",
- "started": "2026-11-22T05:44:53+00:00",
+ "updated": "2026-11-22T05:50:01+00:00",
+ "started": "2026-11-22T05:49:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 95,
-   "checked": "2026-11-22T05:44:54+00:00"
+   "checked": "2026-11-22T05:49:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 85,
-   "checked": "2026-11-22T05:44:54+00:00"
+   "hits": 98,
+   "checked": "2026-11-22T05:49:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T05:44:54+00:00"
+   "checked": "2026-11-22T05:49:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T05:44:55+00:00"
+   "checked": "2026-11-22T05:49:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T05:44:55+00:00"
+   "checked": "2026-11-22T05:49:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T05:44:55+00:00"
+   "checked": "2026-11-22T05:49:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T05:44:56+00:00"
+   "checked": "2026-11-22T05:49:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T05:44:56+00:00"
+   "checked": "2026-11-22T05:49:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T05:44:56+00:00"
+   "checked": "2026-11-22T05:49:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T05:44:56+00:00"
+   "checked": "2026-11-22T05:49:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T05:44:57+00:00"
+   "checked": "2026-11-22T05:49:58+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T05:44:57+00:00"
+   "checked": "2026-11-22T05:49:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T05:44:57+00:00"
+   "checked": "2026-11-22T05:49:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T05:44:57+00:00"
+   "checked": "2026-11-22T05:49:59+00:00"
   }
  },
  "items": [
@@ -116,6 +116,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on the real-world map of GTA VI, India’s travel moment and a K3G throwback as described in the headline."
+  },
+  {
+   "id": "why gta 6 renders at 720p on the xbox series s and still shows a 1080p picture what fsr 4 upscaling does and why all four console versions a",
+   "title": "Why GTA 6 renders at 720p on the Xbox Series S and still shows a 1080p picture: what FSR 4 upscaling does, and why all four console versions are upscaled",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvX3p2allEQTFPVlhWa2N5QVBSd1NsbFdjanQ2VlJPZEE3elc0eTd3Wnd1MVUtRlJoWEp2YnI2dE1HOE1ldnRBSlVMZHRwME1KeWRVZVZhT3hFR2RiT1hFSTdNeEk4bzNFdDVJN09oeTM?oc=5",
+   "outlet": "Make Tech Easier",
+   "via": "Google News",
+   "published": "2026-11-22T05:35:51+00:00",
+   "seen": "2026-11-22T05:49:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 renders at 720p on the Xbox Series S and upscales to a 1080p picture using FSR 4 across all four console versions."
+  },
+  {
+   "id": "gta 6 pushed uk playstation download requests to 8 6 times their normal level at launch cloudflare says and new zealand peaked at 14 8 times",
+   "title": "GTA 6 pushed UK PlayStation download requests to 8.6 times their normal level at launch, Cloudflare says, and New Zealand peaked at 14.8 times shortly before its own midnight unlock, which the BBC reads as players switching regions to start early",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oS0pWZHphOFlGYlZqTjd6bGZpZkZZMzBJRjhlQXFUTVVkNVd2cHE1eWtXLU9VY3VCbnVKWUduVG1vUTlQUXVZMERQd1lsVjZhZnVHMlU1TFlaNU0wUnJvbHNXUHVuMHNXdVZJcm5KOXRDbGRFbHdn?oc=5",
+   "outlet": "Make Tech Easier",
+   "via": "Google News",
+   "published": "2026-11-22T05:35:27+00:00",
+   "seen": "2026-11-22T05:49:54+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 download requests surged in the UK and New Zealand at launch as players switched regions to start early, according to Cloudflare and the BBC."
   },
   {
    "id": "gta 6 it s a date guide one drink at the courtyard bar for a jason and lucia relationship boost",
@@ -168,6 +194,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "Grand Theft Auto VI sets a record with first-day sales totaling $3.79 billion."
+  },
+  {
+   "id": "gta 6 made 3 79 billion on its first day and sold 32 5 million copies before release take two says far above sensor tower s 2 36 billion est",
+   "title": "GTA 6 made $3.79 billion on its first day and sold 32.5 million copies before release, Take-Two says, far above Sensor Tower's $2.36 billion estimate and nearly five times GTA 5's 2013 debut",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pNjFySjU2QmtiTzMwVVVwc2ZKYm9Vb3J2b1NTbExYVFVEQkxNLWhiLURBVlBNakY1OVBqTTB0Qkd6MmxfY2xVTk4tck5aRjlmSFIyVEhfT2JfTlpEcXhxMFh1Nmw?oc=5",
+   "outlet": "Make Tech Easier",
+   "via": "Google News",
+   "published": "2026-11-22T05:07:16+00:00",
+   "seen": "2026-11-22T05:49:54+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 earned billions in one day and sold tens of millions of copies before release, according to Take-Two and compared to Sensor Tower and GTA 5."
   },
   {
    "id": "gta 6 breaks comcast internet record with 24 of peak traffic",
