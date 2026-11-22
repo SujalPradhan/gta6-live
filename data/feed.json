@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:20:46+00:00",
- "started": "2026-11-22T08:20:40+00:00",
+ "updated": "2026-11-22T08:25:48+00:00",
+ "started": "2026-11-22T08:25:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-22T08:20:41+00:00"
+   "hits": 96,
+   "checked": "2026-11-22T08:25:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-22T08:20:41+00:00"
+   "hits": 73,
+   "checked": "2026-11-22T08:25:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T08:20:42+00:00"
+   "checked": "2026-11-22T08:25:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T08:20:42+00:00"
+   "checked": "2026-11-22T08:25:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T08:20:42+00:00"
+   "checked": "2026-11-22T08:25:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T08:20:42+00:00"
+   "checked": "2026-11-22T08:25:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T08:20:42+00:00"
+   "checked": "2026-11-22T08:25:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T08:20:42+00:00"
+   "checked": "2026-11-22T08:25:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T08:20:42+00:00"
+   "checked": "2026-11-22T08:25:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T08:20:42+00:00"
+   "checked": "2026-11-22T08:25:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T08:20:43+00:00"
+   "checked": "2026-11-22T08:25:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T08:20:43+00:00"
+   "checked": "2026-11-22T08:25:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T08:20:43+00:00"
+   "checked": "2026-11-22T08:25:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T08:20:43+00:00"
+   "checked": "2026-11-22T08:25:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "dylan rourke manni l perez revealed as gta 6 s jason and lucia voices",
+   "title": "Dylan Rourke, Manni L. Perez revealed as GTA 6’s Jason and Lucia voices",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHJpZ3RwTmJNVFdWTFo3NWhtdUQ3LUJORzFkb00xOFJyeHQ0RVhmaWJZTVJRRmxLWk1vVEFMUWZOMGlhUXpkb1g4bnRFX0VCc2J5eUNHQk41WE9VVjVxOV9RN0tMZDFsdnhZLVpkZHBya2xvQ2MxZUVmMUtqcko3Q2ZMTThZb1g0VU15NmhoNGpGNGpWVFQ2YWJhaWhhaVpzVzk0TmZSZXFEN29zN0NDYVlOTDgzaWF6TGMxTnhLckRaWkVx0gHEAUFVX3lxTE5DVkRTTDBiWm42OUFSNjE3a0xWYnFVaGMzNE10b0N2YlF5MXR5d19MT2lEYWJpNnI0cUNucnRSdDkzcmZ5eFJGVFd1c2lkMTVxNF9nRmpCX0V6akFFMDh2V25XR19RN3lrdW9vWFdJeDRSd3Rqck84R1h4d1BtUDVKY1FKVFVnbUVlckJDQmJDZFRwdHZtZm1nb2FxaHVYSEZ1dUdFZW45UDIteGVlSkt1MHhyVjNidERnbV9XSTJreXY2Y1Q?oc=5",
+   "outlet": "South China Morning Post",
+   "via": "Google News",
+   "published": "2026-11-22T08:15:05+00:00",
+   "seen": "2026-11-22T08:25:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Dylan Rourke and Manni L. Perez are revealed as GTA 6’s Jason and Lucia voices."
+  },
   {
    "id": "riding the bus in gta 6 can public transport help you shake the police",
    "title": "Riding the bus in GTA 6: can public transport help you shake the police?",
