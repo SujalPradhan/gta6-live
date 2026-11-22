@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:25:48+00:00",
- "started": "2026-11-22T08:25:41+00:00",
+ "updated": "2026-11-22T08:30:56+00:00",
+ "started": "2026-11-22T08:30:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-22T08:25:42+00:00"
+   "hits": 99,
+   "checked": "2026-11-22T08:30:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-22T08:25:42+00:00"
+   "hits": 72,
+   "checked": "2026-11-22T08:30:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T08:25:43+00:00"
+   "checked": "2026-11-22T08:30:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-22T08:25:43+00:00"
+   "hits": 6,
+   "checked": "2026-11-22T08:30:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T08:25:43+00:00"
+   "checked": "2026-11-22T08:30:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T08:25:43+00:00"
+   "checked": "2026-11-22T08:30:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T08:25:44+00:00"
+   "checked": "2026-11-22T08:30:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T08:25:44+00:00"
+   "checked": "2026-11-22T08:30:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T08:25:44+00:00"
+   "checked": "2026-11-22T08:30:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T08:25:45+00:00"
+   "checked": "2026-11-22T08:30:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T08:25:45+00:00"
+   "checked": "2026-11-22T08:30:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T08:25:45+00:00"
+   "checked": "2026-11-22T08:30:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T08:25:45+00:00"
+   "checked": "2026-11-22T08:30:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T08:25:46+00:00"
+   "checked": "2026-11-22T08:30:54+00:00"
   }
  },
  "items": [
@@ -610,6 +610,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Fans of GTA 6 are encouraged to visit real-life Florida locations related to the game."
+  },
+  {
+   "id": "gta 6 sold 32 5 million copies before release making it the biggest entertainment launch ever",
+   "title": "GTA 6 Sold 32.5 Million Copies Before Release Making It The Biggest Entertainment Launch Ever",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPblAxLWduSVFKYzZ6TWV4UzN0UmdRX01ET0FkYmFoNzZ6em84aDN0Wl9FbFRXYVI1eGpRczl0VnhSQngxaDJSLVlyTlMtSEpKc01sUnRiamMtNlQwS2UzWXYySE5oaHdFeWtnRUNrVW41bmhPNlZwTldSYlNJSHhWWUVTZ3pSRWNjN3RFeU9Yb2lyR2xMaWlpeDd1bGs2WUpLS0hrRFpqRGtqX1d1b284UzlTMnotV0JNQk1GR3JxZllUeDlZUDkxWEY4a1RXa0RtTS1OVTBIMDVQUkUxenZ2X3dydw?oc=5",
+   "outlet": "Press Start Australia",
+   "via": "Google News",
+   "published": "2026-11-22T04:52:30+00:00",
+   "seen": "2026-11-22T08:30:51+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story says GTA 6 sold 32.5 million copies before release, making it the biggest entertainment launch ever."
   },
   {
    "id": "gta 6 child s play walkthrough how to save rafa earn 30 000 and get family matters",
