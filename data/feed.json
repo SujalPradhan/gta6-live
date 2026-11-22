@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T12:27:10+00:00",
- "started": "2026-11-22T12:27:05+00:00",
+ "updated": "2026-11-22T12:32:13+00:00",
+ "started": "2026-11-22T12:32:07+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 94,
-   "checked": "2026-11-22T12:27:05+00:00"
+   "checked": "2026-11-22T12:32:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-22T12:27:06+00:00"
+   "hits": 59,
+   "checked": "2026-11-22T12:32:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T12:27:06+00:00"
+   "checked": "2026-11-22T12:32:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T12:27:06+00:00"
+   "checked": "2026-11-22T12:32:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T12:27:07+00:00"
+   "checked": "2026-11-22T12:32:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T12:27:07+00:00"
+   "checked": "2026-11-22T12:32:09+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-22T12:27:07+00:00"
+   "checked": "2026-11-22T12:32:10+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T12:27:07+00:00"
+   "checked": "2026-11-22T12:32:10+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T12:27:07+00:00"
+   "checked": "2026-11-22T12:32:10+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T12:27:08+00:00"
+   "checked": "2026-11-22T12:32:10+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T12:27:08+00:00"
+   "checked": "2026-11-22T12:32:11+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T12:27:08+00:00"
+   "checked": "2026-11-22T12:32:11+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T12:27:08+00:00"
+   "checked": "2026-11-22T12:32:11+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T12:27:08+00:00"
+   "checked": "2026-11-22T12:32:11+00:00"
   }
  },
  "items": [
@@ -181,6 +181,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story notes GTA 6 achieved first-day sales totaling billions of dollars, breaking records."
+  },
+  {
+   "id": "who skipped work for gta vi dutch staff young men and us soldiers",
+   "title": "Who skipped work for GTA VI? Dutch staff, young men, and US soldiers",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkpxMEg5VGpKSFhobTdvVWtqVzQxZ09TMklFOFBHUzhlRGFLdWdWNWtRclBnckk0R0NnbUlZZjlaYlc5SmUwN3UyZmxiUkVDQnU1dFdTTUdaY0lsTEh0OFVJdFlSUFdDSUNCX0RaWnNKTTFaSDE3WWROTUhBbjlSeFh1ODAyaEVnVktJVS1fNVBpNjJCZUE?oc=5",
+   "outlet": "EU Perspectives",
+   "via": "Google News",
+   "published": "2026-11-22T12:09:04+00:00",
+   "seen": "2026-11-22T12:32:08+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports on who skipped work for GTA VI, mentioning Dutch staff, young men, and US soldiers."
   },
   {
    "id": "over half of all console players active on gta 6 s launch day played it says circana",
