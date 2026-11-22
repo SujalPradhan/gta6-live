@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T14:57:56+00:00",
- "started": "2026-11-22T14:57:50+00:00",
+ "updated": "2026-11-22T15:02:59+00:00",
+ "started": "2026-11-22T15:02:52+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 95,
-   "checked": "2026-11-22T14:57:50+00:00"
+   "checked": "2026-11-22T15:02:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-22T14:57:51+00:00"
+   "hits": 62,
+   "checked": "2026-11-22T15:02:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 92,
-   "checked": "2026-11-22T14:57:51+00:00"
+   "hits": 91,
+   "checked": "2026-11-22T15:02:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-22T14:57:51+00:00"
+   "hits": 6,
+   "checked": "2026-11-22T15:02:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T14:57:52+00:00"
+   "checked": "2026-11-22T15:02:54+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T14:57:52+00:00"
+   "checked": "2026-11-22T15:02:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T14:57:52+00:00"
+   "checked": "2026-11-22T15:02:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-22T14:57:53+00:00"
+   "checked": "2026-11-22T15:02:55+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T14:57:53+00:00"
+   "checked": "2026-11-22T15:02:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T14:57:53+00:00"
+   "checked": "2026-11-22T15:02:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T14:57:54+00:00"
+   "checked": "2026-11-22T15:02:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T14:57:54+00:00"
+   "checked": "2026-11-22T15:02:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T14:57:54+00:00"
+   "checked": "2026-11-22T15:02:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T14:57:54+00:00"
+   "checked": "2026-11-22T15:02:56+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi sets record with 3 79b in first day retail sales rockstar games reports fairbanks daily news miner",
+   "title": "'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports - Fairbanks Daily News-Miner",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWUxmeXRZemZ1RmJsNjlSN2xhSGxQdktsektsLVNxaTlFZXZOaEp5d3NJT3hnemtGSWNoTDFQTkF3aHI4NUtkY3RzN1A4aWZ2SXUySnNJcnRpd1RnZXJTc3pLWnZLZi1KcDRrMWJ0NlB5UEVya3Z4VFBFSzRHUEFlckVSR2x5S2x6bFZuejhMZFBGQ3ZrREhFYzMtM1V5VVIyNkFnOEtUZ1hRQXY5NGIyZmhvTjNNMGFFUkpkRExVMF9yRVFqUUpfZm5abGNaeWFDNnlVQTllLUZBbnFkMHdqVEhRZXdtbDU2Nkp2TXpkUkk0eTNp?oc=5",
+   "outlet": "Fairbanks Daily News-Miner",
+   "via": "Google News",
+   "published": "2026-11-22T15:00:00+00:00",
+   "seen": "2026-11-22T15:02:53+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI sets a record with a large first-day retail sales total, according to Rockstar Games."
+  },
+  {
+   "id": "here s where to find the mamba gts for wyman in gta 6",
+   "title": "Here's where to find the Mamba GTs for Wyman in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HcHdnZi10UWNKSDdiUHdydGYtQkdzdHgwc0x3MzNCR3V2dTM5RnpDSENSRF9DZEM3Uy1uUjZiaFVQYXEtdzhxbWlqNXV0VjQ4SVZHWjRLZnJOS2p3ejlnT3hBaURRVU5LcE5ZZ29WVWZmNjJDbFloOTFfUHc?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-22T14:53:59+00:00",
+   "seen": "2026-11-22T15:02:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports locations where the Mamba GTs can be found for Wyman in GTA 6."
+  },
   {
    "id": "gta 6 glitch on xbox series x gets game running at 60fps here s how to do it",
    "title": "GTA 6 glitch on XBOX Series X gets game running at 60fps - here's how to do it",
@@ -493,6 +519,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "A US startup hires a streamer to study GTA 6's virtual economy."
+  },
+  {
+   "id": "us startup hires streamer to study gta 6 as full time researcher",
+   "title": "US Startup Hires Streamer To Study GTA 6 As Full-Time Researcher",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlJzRGVhNXVQSkphNzlQaUt4MkF5UmVISy1pNjRjQzB3eTA0SENoUEJvT0hWWkFQUUEzc2dOTzd2SXVaMFRCODEwYVd0UVBfZTJlSnV6XzIxRVpuN3QzU21nbmhsRU01NmltYjBXNE1Mbnl0dXRFZ3Etd2JKVzFPQUxpYkdRUGJib05xcm95UVdQaXBBeHBuN3JidGo4bm9PdElB0gGrAUFVX3lxTE9qNS1INDJZM280NjJ1NXJYWWoyTVd1dFNDOEJmeVo0U3ZmR3N6WWtndzhQU1l4NWJFUTdJTjd1Yk0tQ0JtYUlVY1FpN1c2NE1vNTlxTGJMRTJEYktfenpMektrRGpsdlVDa1JJeEpHTEFFbEpDNnBDbXBXMmtrWEFIa3hmWjVXeFNuUG4zV3RZMHpud3paRTEzbmlBdU1SbHhKZ3cwOGtqRjRPWQ?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-22T13:50:46+00:00",
+   "seen": "2026-11-22T15:02:53+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports a US startup hiring a streamer to study GTA 6 as a full-time researcher."
   },
   {
    "id": "here s where to find the riatas for wyman in gta 6",
