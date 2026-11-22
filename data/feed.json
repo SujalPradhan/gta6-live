@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T16:03:16+00:00",
- "started": "2026-11-22T16:03:08+00:00",
+ "updated": "2026-11-22T16:08:19+00:00",
+ "started": "2026-11-22T16:08:13+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T16:03:09+00:00"
+   "checked": "2026-11-22T16:08:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-22T16:03:09+00:00"
+   "hits": 48,
+   "checked": "2026-11-22T16:08:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-22T16:03:10+00:00"
+   "hits": 87,
+   "checked": "2026-11-22T16:08:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T16:03:10+00:00"
+   "checked": "2026-11-22T16:08:15+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T16:03:10+00:00"
+   "checked": "2026-11-22T16:08:15+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T16:03:11+00:00"
+   "checked": "2026-11-22T16:08:15+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T16:03:11+00:00"
+   "checked": "2026-11-22T16:08:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T16:03:11+00:00"
+   "checked": "2026-11-22T16:08:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T16:03:12+00:00"
+   "checked": "2026-11-22T16:08:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T16:03:12+00:00"
+   "checked": "2026-11-22T16:08:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 13,
-   "checked": "2026-11-22T16:03:12+00:00"
+   "hits": 12,
+   "checked": "2026-11-22T16:08:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T16:03:12+00:00"
+   "checked": "2026-11-22T16:08:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T16:03:13+00:00"
+   "checked": "2026-11-22T16:08:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T16:03:13+00:00"
+   "checked": "2026-11-22T16:08:17+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 already got one thing very wrong",
+   "title": "GTA 6 Already Got One Thing Very Wrong",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sZER2ZmdsMHBhQXdJNjI1d3VFaU5FbG1xLUgtS2dOX2NlR25KQ3d6SjM0Q2o1TnZ6YzBEV2ZJU2RZWTFQQ2tpSk5pMmF1QnlSMDE1U0ttbGNpeHc?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-22T16:00:18+00:00",
+   "seen": "2026-11-22T16:08:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 already has a very wrong thing according to ScreenRant."
+  },
   {
    "id": "bye mandy gta 6 players have moved onto being infatuated with goth girl vicki",
    "title": "Bye Mandy, GTA 6 players have moved onto being infatuated with goth girl Vicki",
@@ -116,6 +129,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that GTA 6 players have shifted attention from Mandy to an infatuation with goth girl Vicki."
+  },
+  {
+   "id": "having the ability to be able to play in the open world with your partner was a huge challenge gta 6 dev explains how rockstar worked to blu",
+   "title": "‘Having the ability to be able to play in the open world with your partner was a huge challenge’ — GTA 6 dev explains how Rockstar worked to ‘blur the lines between on-Mission and off-Mission and even between types of Mission’",
+   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPSG5WaC1tY3pZeUtpc0k3ekF3b2NsUWF6V0FrWGxnc3EwR01fR2g5ZG5WWWp3NzVuRXE1YkNITVF1N0h1LWtOTG9xQjBnaVlPa2JmNGszXzhPZjdNWGtBa1lMdGdIN2VPRGxrQUktQldnU2hpSm5pTUg4dmRhM0Zmdy1XeU5JN3htZms1d0Fvc1M2REttN3BDdm5vQmZtTU9Bajc3RUllYVlsSkdyS0VkUlFhNl90NUx1VU05Sm13V3RwMHF2U0t1T0R0MklkT3M5dUxWaFRGeTJ6akx6bm9rdUdpcGs0WlFfd3NSZnY1dGdBNDhmelhnVEhTdVNGNlpvT3dUYkJjQTRBZ1ctY0tlUHJISU1XWFM1cDBaWlljeThqNmtmUXZ2QzM1d3J5VzhhQzB1dU81MGhKR3B4NC1WM2hoc01EM3RFcGdfbHdZQWNCNlpWSWRHbllKWU44TUF0ZU9sWmd1Y2hPdm5aVWlYNTJfcWJpeUFSUnZYc2FIVHZiSzNqSHRrMHFfYw?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-22T16:00:00+00:00",
+   "seen": "2026-11-22T16:08:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the GTA 6 developers discuss challenges of open-world co-op and efforts to blur lines between on-mission, off-mission, and mission types."
   },
   {
    "id": "what if gta 6 radio was fully arab",
