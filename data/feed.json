@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T14:47:52+00:00",
- "started": "2026-11-22T14:47:46+00:00",
+ "updated": "2026-11-22T14:52:54+00:00",
+ "started": "2026-11-22T14:52:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 94,
-   "checked": "2026-11-22T14:47:46+00:00"
+   "checked": "2026-11-22T14:52:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-22T14:47:47+00:00"
+   "checked": "2026-11-22T14:52:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 92,
-   "checked": "2026-11-22T14:47:47+00:00"
+   "hits": 94,
+   "checked": "2026-11-22T14:52:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T14:47:47+00:00"
+   "checked": "2026-11-22T14:52:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T14:47:47+00:00"
+   "checked": "2026-11-22T14:52:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T14:47:48+00:00"
+   "checked": "2026-11-22T14:52:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 34,
-   "checked": "2026-11-22T14:47:48+00:00"
+   "hits": 33,
+   "checked": "2026-11-22T14:52:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-22T14:47:48+00:00"
+   "checked": "2026-11-22T14:52:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T14:47:49+00:00"
+   "checked": "2026-11-22T14:52:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T14:47:49+00:00"
+   "checked": "2026-11-22T14:52:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T14:47:49+00:00"
+   "checked": "2026-11-22T14:52:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T14:47:50+00:00"
+   "checked": "2026-11-22T14:52:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-22T14:47:50+00:00"
+   "hits": 4,
+   "checked": "2026-11-22T14:52:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T14:47:50+00:00"
+   "checked": "2026-11-22T14:52:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "cantopop legend makes surprise radio cameo on grand theft auto vi",
+   "title": "Cantopop legend makes surprise radio cameo on Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSTZoeFZLNGhqdnpnVFNlU0JSeGhsUF9vMzhnUFZ5YVM1Qnl5dm5yU1pMN0I1TFM5QTBuRHdrSUxSWDBZV3ZDVEF4Z2hHbUlEbjh1S1BUNjFHVlZnRHM5NzZibmtpV1UzYWZERmgwY3ZrUUZvV2JVZ21OUThKRXFKYTBueG1Ka3QwbDdYOGZxaWVKcy1VRHZia2FR?oc=5",
+   "outlet": "RadioInfo Asia",
+   "via": "Google News",
+   "published": "2026-11-22T14:48:31+00:00",
+   "seen": "2026-11-22T14:52:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Cantopop legend makes a surprise radio cameo on Grand Theft Auto VI."
+  },
   {
    "id": "how to get arthur morgan s hat in gta 6",
    "title": "How to get Arthur Morgan's Hat in GTA 6",
@@ -118,6 +131,19 @@
    "ai_summary": "The story reports that Arthur Morgan's genuine cowboy hat is found in a yard sale."
   },
   {
+   "id": "who is cliff savage 36 year old streamer lands 1 13 crore job to play gta 6 for us startup",
+   "title": "Who is Cliff Savage? 36-year-old streamer lands ₹1.13 crore job to play GTA 6 for US startup",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNckV5SmtMb2ZlbEZfMEp3dDE4UWpXUFhqc2FNSVBpa1ZPVklaTXVVWkVGdEhnUnQtcDJ6VVk3aVR5eHBfQVRQUG9xSXQ0WGN0dlQyVDhnZnhFVTc5SEg5ME1CYTF4bzl2WDBab3lhRUk0WmxkZXZaYUZGYXVMRWZMaEVWSm8temlPaGZQTGJDVmxoLThWVUxGQXZDWVU2Mm5RUDRfMFZHZGN6aVZWa1pJZ2xiN3JDbk5MQ3RSRDZuOFBmV2FEOUN5Rm9sM0hHSm9sandmX1JoeWdBLWx6X293cdIB5gFBVV95cUxOaGdPX3hKTURjR3J5VVdkRHhPaTcwaDhjS1NNb0xSbldwYVlXckFDMEhNR1kxRTFoQ1hpRG9VazJWOWd3aHpvdWx1YmttWHVybDlYOV90bVNWeGFpNmZqdFY5cWxoeXY4eWxNN2JxUEtKSlJ6UXQ4US03Rm1oSExacnREeXNUSDBMb3RpeHFVUV9oWXlzbjhSalcybk1peGFNRVlJUEJ4RXVnaE1pUG5kckhoQ05BTXF6WXBNNnZfTzd2bTRNYUFQY0xtWWlmbE9RSGM5T1h6QzZKUWROLUNTYjc0b3dJdw?oc=5",
+   "outlet": "Livemint",
+   "via": "Google News",
+   "published": "2026-11-22T14:41:20+00:00",
+   "seen": "2026-11-22T14:52:49+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "A 36-year-old streamer lands a job to play GTA 6 for a US startup."
+  },
+  {
    "id": "a gta 6 self aware npc knows he s living inside a video game",
    "title": "A GTA 6 Self-Aware NPC Knows He’s Living Inside a Video Game",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0ZzbUtKa2R6czF6dUxwcmFNQ0UwWk9IUjBhT1BwMVFQUGl4ODg4cDdXZDFvaGVGRXNBNXdUNlEzOFNfZUFOYVVfMnkzNEpUeWhIcDVaX0tuNXpPbkcydzlnTFBBT3Y4SlhtZmJ0TzB1U1BVMVlyS0dJeGFWWUcteTVzSkhPaWlMT0RUMThaVUdmRk9DWG93YXl2M2xTUV9tdTg0?oc=5",
@@ -129,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a GTA 6 self-aware NPC knows he’s living inside a video game."
+  },
+  {
+   "id": "gta 6 players keep discovering ridiculous new ways to steal money",
+   "title": "GTA 6 Players Keep Discovering Ridiculous New Ways To Steal Money",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aMTNqTFJqWmhiN0tVbHZ4Z1BTSEVkRU5CQ0NCWWJkdFo5YndoOTVCd25WZmhFaEExOVlZX281Rl94X0dQcVYwQTk4TDVHbS0zc3d1NTRmdUlrc2hJUF93X3g1RmFmVGNvallxb2w1YVQ2WFUtcExnZg?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-22T14:36:30+00:00",
+   "seen": "2026-11-22T14:52:48+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Players keep discovering new ways to steal money in GTA 6."
   },
   {
    "id": "gta 6 mamba collapsed bridge",
@@ -1130,6 +1169,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 PC version has an official release date update."
+  },
+  {
+   "id": "gta 6 pc version release date update suggests it s closer than we thought",
+   "title": "GTA 6 PC Version Release Date Update Suggests It's Closer Than We Thought",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84Z3NZVEI0cWJHSmw1T3RpSXdaU285U0NJX3dMNEdiZURnNXFWYlp1YWE5WGwyRGFvVnlkRnNpSmNWT2Y2clJpdnkyVVM4TlIybXZhOGZPWWl5MHZwMlpvU2tNcEtrUzMwLVlWcmJnTVMwYXBS?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-22T11:30:18+00:00",
+   "seen": "2026-11-22T14:52:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A PC version release date update suggests GTA 6 is closer."
   },
   {
    "id": "gta 6 player gets 30 day psn ban for sharing in game nudist photo with a friend",
