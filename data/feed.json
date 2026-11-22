@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T11:31:53+00:00",
- "started": "2026-11-22T11:31:50+00:00",
+ "updated": "2026-11-22T11:37:00+00:00",
+ "started": "2026-11-22T11:36:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-22T11:31:50+00:00"
+   "checked": "2026-11-22T11:36:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-22T11:31:51+00:00"
+   "hits": 73,
+   "checked": "2026-11-22T11:36:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T11:31:51+00:00"
+   "checked": "2026-11-22T11:36:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T11:31:51+00:00"
+   "checked": "2026-11-22T11:36:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T11:31:51+00:00"
+   "checked": "2026-11-22T11:36:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-22T11:31:51+00:00"
+   "checked": "2026-11-22T11:36:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-22T11:31:52+00:00"
+   "checked": "2026-11-22T11:36:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T11:31:52+00:00"
+   "checked": "2026-11-22T11:36:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T11:31:52+00:00"
+   "checked": "2026-11-22T11:36:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T11:31:52+00:00"
+   "checked": "2026-11-22T11:36:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T11:31:52+00:00"
+   "checked": "2026-11-22T11:36:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T11:31:52+00:00"
+   "checked": "2026-11-22T11:36:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T11:31:53+00:00"
+   "checked": "2026-11-22T11:36:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T11:31:53+00:00"
+   "checked": "2026-11-22T11:36:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 pc version gets official release date update",
+   "title": "GTA 6 PC Version Gets Official Release Date Update",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84Z3NZVEI0cWJHSmw1T3RpSXdaU285U0NJX3dMNEdiZURnNXFWYlp1YWE5WGwyRGFvVnlkRnNpSmNWT2Y2clJpdnkyVVM4TlIybXZhOGZPWWl5MHZwMlpvU2tNcEtrUzMwLVlWcmJnTVMwYXBS?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-22T11:30:18+00:00",
+   "seen": "2026-11-22T11:36:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 PC version has an official release date update."
+  },
   {
    "id": "gta 6 player gets 30 day psn ban for sharing in game nudist photo with a friend",
    "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
@@ -417,6 +430,19 @@
    "ai_summary": "The story reports GTA 6 breaking sales records and discusses whether to buy related stock for an ISA."
   },
   {
+   "id": "hampshire student raises almost 500 to buy ps5 to play gta 6",
+   "title": "Hampshire student raises almost £500 to buy PS5 to play GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjBFYmp4SHItc29ndWd0YkhERkpGTVNHVWZzbmZnMEJDUUZEV28wSFFGTzN0TlJJOE95bjJ3SWtISkdVRUtiQnRIdDVsQXo1cjltVlRyaDZjY1pYRV9HNUU3M196aE9kWGRuOFdTa1ctd2ZVQ08xY25SVmNIMHhveHFR?oc=5",
+   "outlet": "Yahoo News UK",
+   "via": "Google News",
+   "published": "2026-11-22T10:17:07+00:00",
+   "seen": "2026-11-22T11:36:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a Hampshire student raised almost £500 to buy a PS5 to play GTA 6."
+  },
+  {
    "id": "gta 6 is facing its first plagiarism claim just two days after its release",
    "title": "GTA 6 is facing its first plagiarism claim just two days after its release",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON09uVXNja2p5RUNmME0zLWdvLUQ2WDdYX05xOV8tcURGeHphS1d2T01CaXlZTm9hcmVDSl9jMF9VWU1QWkNTOFNYdmJkMTEtSnRBWFZsWkVyTUd0VFBqdHFkSHo1Y0xqeVdHaG1UcG5BdVNKb0NTVEFNWjhnQllSNkF3VGRhNFc5UVBjaEdIY3Y5VTZzZVlkM0g4TVhsR2gxMU5hTF9RNDktUGZvaWxjNXNHVGVTaVhvUUM4?oc=5",
@@ -558,6 +584,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports fans reviewing-bomb Ocarina of Time on Metacritic."
+  },
+  {
+   "id": "gta 6 shatters hollywood records with 3 79 billion opening day sales",
+   "title": "GTA 6 shatters Hollywood records with $3.79 billion opening-day sales",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkZMYXZIamNxSjFlZ2JKWTJPc2VHaFZtNEdxeFVlMUhJUkNqOUZ0a2dlRGZPOE5ZbDdpV3NPRldUanNnUV9WWEZqZURrdGVCd0pmbVlPRFU4LUhnWEExS3pUb0RleWlKcVV5a29oczFNbzdza2x0ZXNrWEw0T3Z4ZWp4bzdHNVFXTTJHd3ZrSE13bUEzOFdzWHFpT1VqNkFfZFpVNTc5VGY2UF9aMWxHRFZMMmNBc3gwbjdqWkNB0gG-AUFVX3lxTFBiRkxhdkhqY3FKMWVnYkpZMk9zZUdoVm00R3F4VWUxSElSQ2o5RnRrZ2VEZk84TllsN2lXc09GV1Rqc2dRX1ZYRmplRGt0ZUJ3SmZtWU9EVTgtSGdYQTFLelRvRGV5aUpxVXlrb2hzMU1vN3NrbHRlc2tYTDRPdnhlanhvN0c1UVdNMkd3dmtITXdtQTM4V3NYcWlPVWo2QV9kWlU1NzlUZjZQX1oxbEdEVkwyY0FzeDBuN2paQ0E?oc=5",
+   "outlet": "Madhyamam",
+   "via": "Google News",
+   "published": "2026-11-22T09:35:59+00:00",
+   "seen": "2026-11-22T11:36:54+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 opening day sales set Hollywood records at $3.79 billion."
   },
   {
    "id": "for all those who say gta 6 isn t much of an improvement over gta 5 writer ian",
