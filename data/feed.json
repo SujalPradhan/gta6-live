@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T17:38:48+00:00",
- "started": "2026-11-22T17:38:42+00:00",
+ "updated": "2026-11-22T17:43:52+00:00",
+ "started": "2026-11-22T17:43:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-22T17:38:42+00:00"
+   "checked": "2026-11-22T17:43:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-22T17:38:43+00:00"
+   "hits": 56,
+   "checked": "2026-11-22T17:43:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 78,
-   "checked": "2026-11-22T17:38:43+00:00"
+   "hits": 77,
+   "checked": "2026-11-22T17:43:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T17:38:43+00:00"
+   "checked": "2026-11-22T17:43:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T17:38:44+00:00"
+   "checked": "2026-11-22T17:43:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T17:38:44+00:00"
+   "checked": "2026-11-22T17:43:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-22T17:38:44+00:00"
+   "checked": "2026-11-22T17:43:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T17:38:44+00:00"
+   "checked": "2026-11-22T17:43:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-22T17:38:44+00:00"
+   "checked": "2026-11-22T17:43:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T17:38:45+00:00"
+   "checked": "2026-11-22T17:43:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T17:38:46+00:00"
+   "checked": "2026-11-22T17:43:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T17:38:46+00:00"
+   "checked": "2026-11-22T17:43:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T17:38:46+00:00"
+   "checked": "2026-11-22T17:43:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
-   "error": "HTTP Error 404: Not Found",
+   "error": "HTTP Error 429: Too Many Requests",
    "hits": 0,
-   "checked": "2026-11-22T17:38:46+00:00"
+   "checked": "2026-11-22T17:43:50+00:00"
   }
  },
  "items": [
+  {
+   "id": "the biggest entertainment launch ever gta 6 hides a secret tom cruise thriller mission",
+   "title": "The Biggest Entertainment Launch Ever, 'GTA 6' Hides a Secret Tom Cruise Thriller Mission",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mNVNMT21EeGh5RUp4ZzJKMDU3YTIydmRidnZ1TDMzZ3BQSldJUE9TcWxxS0JHV29WNGFCcU9ZOWI2MTE2NFNzMTFRMUtTR0hib0JzcktCdUFOeGVEZlE?oc=5",
+   "outlet": "MovieWeb",
+   "via": "Google News",
+   "published": "2026-11-22T17:35:13+00:00",
+   "seen": "2026-11-22T17:43:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 hides a secret Tom Cruise thriller mission in the biggest entertainment launch ever."
+  },
   {
    "id": "how to run gta 6 at 60 fps on xbox series x",
    "title": "How to run GTA 6 at 60 FPS on Xbox Series X",
@@ -142,6 +155,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6’s best minigame is a zombie shooter that takes hours to beat, surpassing the lighthouse concept."
+  },
+  {
+   "id": "gta 6 trailer shatters views as fans await nov 19 global launch",
+   "title": "GTA 6 Trailer Shatters Views as Fans Await Nov 19 Global Launch",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQelNKQ2diZ0cydDdoRUNNaVRjbVR1bUFTSVJMTlRlNEhhVzdFVzNiVzZnVE1NVmRBS0c2RTc4a011WW5ES0YyNmRnSlY5eWhvamhRdFo1SmpnRUtxb29PV0FUaF9VVFc3ems2Z3RldzkxUl9iM2sxS0xPV2ZJcmFoOFZKNjVodnpkWVd3UElvRF9vWjVyRzU0X0lLTHRGMy1wU0FLUQ?oc=5",
+   "outlet": "Daily Voice Of Asia",
+   "via": "Google News",
+   "published": "2026-11-22T17:21:49+00:00",
+   "seen": "2026-11-22T17:43:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that the GTA 6 trailer’s views shatter as fans await the global launch on November 19."
   },
   {
    "id": "gta 6 already has an infinite money glitch but many players are skipping it",
@@ -623,6 +649,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports GTA 6 album debut with a reported Spotify soundtrack record."
+  },
+  {
+   "id": "gta 6 is out on consoles three gta games to revisit on pc",
+   "title": "GTA 6 is out on consoles: three GTA games to revisit on PC",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkN6Qm1CRnlvSUhUWHRCdTY4NDE0NllQUnN4UXZXRjN1TlJFV08zTWJyTEFJeTNRbG9sR05IZFFUcWcwai15WUIyRmpuRmtlWldjWnVVS2R0eFRRRjhhc2R6V3VvTnpXVUJ6cTFNOWY4V1E5eGVmZmlGSk80YUgyS2IxNTdodjNBaU1tbGJTbEkxSzM2?oc=5",
+   "outlet": "Softonic",
+   "via": "Google News",
+   "published": "2026-11-22T16:30:00+00:00",
+   "seen": "2026-11-22T17:43:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is out on consoles and recommends three GTA games to revisit on PC."
   },
   {
    "id": "gta vi has an npc who thinks he s trapped in a video game why can t i leave",
