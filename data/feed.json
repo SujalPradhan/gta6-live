@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T21:04:48+00:00",
- "started": "2026-11-22T21:04:45+00:00",
+ "updated": "2026-11-22T21:09:46+00:00",
+ "started": "2026-11-22T21:09:40+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T21:04:45+00:00"
+   "checked": "2026-11-22T21:09:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-22T21:04:46+00:00"
+   "hits": 38,
+   "checked": "2026-11-22T21:09:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 70,
-   "checked": "2026-11-22T21:04:47+00:00"
+   "checked": "2026-11-22T21:09:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T21:04:47+00:00"
+   "checked": "2026-11-22T21:09:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T21:04:47+00:00"
+   "checked": "2026-11-22T21:09:42+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T21:04:47+00:00"
+   "checked": "2026-11-22T21:09:42+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T21:04:47+00:00"
+   "checked": "2026-11-22T21:09:42+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T21:04:47+00:00"
+   "checked": "2026-11-22T21:09:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T21:04:48+00:00"
+   "checked": "2026-11-22T21:09:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T21:04:48+00:00"
+   "checked": "2026-11-22T21:09:43+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T21:04:48+00:00"
+   "checked": "2026-11-22T21:09:43+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T21:04:48+00:00"
+   "checked": "2026-11-22T21:09:43+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T21:04:48+00:00"
+   "checked": "2026-11-22T21:09:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T21:04:48+00:00"
+   "checked": "2026-11-22T21:09:44+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 should you shoot kirk or mr mangrove",
+   "title": "GTA 6: Should you shoot Kirk or Mr Mangrove?",
+   "link": "https://www.videogameschronicle.com/guide/shoot-kirk-or-mr-mangrove-gta-6/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-22T21:07:24+00:00",
+   "seen": "2026-11-22T21:09:42+00:00",
+   "summary": "What happens if you shoot Kirk or Mr Mangrove in GTA 6?",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses whether you should shoot Kirk or Mr Mangrove in GTA 6."
+  },
+  {
+   "id": "sorry vice city but you re the most boring part of gta 6",
+   "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QN0kzR3pxY252X3NJeE5WTDdwcExCcWw0MUdCTzZkZ2o1WHNpa1dWd2hLYWxNREJRZ2NLWm0tc3Z5MTRzR2R6QmNwdDhWVGQyU0t1SjZRYjNIeW8?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-22T21:00:17+00:00",
+   "seen": "2026-11-22T21:09:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece claims Vice City is the most boring part of GTA 6."
+  },
+  {
+   "id": "gta 6 full cast list every main character and who voices them",
+   "title": "GTA 6 Full Cast List: Every Main Character And Who Voices Them",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yMVZyal9SQVRtOFJVR3RMTHFZMUZHaWtxUDh3a0lKbVZkZFBMYnZkbENaMDBiSE01YzRSYXZOUTE0NlhUVHQ4RlBQUEpvLWpIektRR2ktd1J1Z0JrcldNRkFVS0FfcERQVFhCX0hMRlBZVjF5aUxwNHdtZUlGQQ?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-22T21:00:00+00:00",
+   "seen": "2026-11-22T21:09:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article provides the full cast list and identifies who voices the main characters."
+  },
   {
    "id": "rockstar says darts were cut from gta 6 because it didn t have unlimited money or time to make it feel proper",
    "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
@@ -233,6 +272,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI has better taste than your Discover Weekly."
+  },
+  {
+   "id": "how to flip cars in gta 6",
+   "title": "How to Flip Cars in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJQXk3V2x6cXdYa2F6OHhIa2RWSVJVd1N5MTUzTVdqRTVtdUhGUkZyOWxBQ2dld2wxbHNwX0VpSGRVSkFlbFpLbENIUER5SzU4bjRhU3gyXzJHTFNtRnZxZlVJemlJcXNJemtEZWc1WExvSXJO?oc=5",
+   "outlet": "GameTyrant",
+   "via": "Google News",
+   "published": "2026-11-22T20:15:00+00:00",
+   "seen": "2026-11-22T21:09:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to flip cars in GTA 6."
   },
   {
    "id": "gta 6 trust halifax or not all outcomes and missable rewards",
