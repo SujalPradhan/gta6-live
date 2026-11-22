@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T17:23:47+00:00",
- "started": "2026-11-22T17:23:41+00:00",
+ "updated": "2026-11-22T17:28:48+00:00",
+ "started": "2026-11-22T17:28:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-22T17:23:41+00:00"
+   "checked": "2026-11-22T17:28:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 44,
-   "checked": "2026-11-22T17:23:42+00:00"
+   "checked": "2026-11-22T17:28:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 80,
-   "checked": "2026-11-22T17:23:42+00:00"
+   "hits": 97,
+   "checked": "2026-11-22T17:28:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T17:23:42+00:00"
+   "checked": "2026-11-22T17:28:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T17:23:42+00:00"
+   "checked": "2026-11-22T17:28:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T17:23:42+00:00"
+   "checked": "2026-11-22T17:28:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-22T17:23:43+00:00"
+   "checked": "2026-11-22T17:28:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T17:23:43+00:00"
+   "checked": "2026-11-22T17:28:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-22T17:23:43+00:00"
+   "checked": "2026-11-22T17:28:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T17:23:43+00:00"
+   "checked": "2026-11-22T17:28:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T17:23:44+00:00"
+   "checked": "2026-11-22T17:28:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T17:23:44+00:00"
+   "checked": "2026-11-22T17:28:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T17:23:44+00:00"
+   "checked": "2026-11-22T17:28:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T17:23:44+00:00"
+   "checked": "2026-11-22T17:28:45+00:00"
   }
  },
  "items": [
@@ -337,6 +337,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on GTA 6 nightclub music featuring The Vault, Jack of Hearts, and notable songs to know."
+  },
+  {
+   "id": "the gta vi easter eggs that broke the internet",
+   "title": "The 'GTA VI' Easter eggs that broke the internet",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2R0VmRFUzdCNE1KZ19Ka2dYOW5sQU5MN0UtU2Y1NHhsU0ZEVXpmcG92MWVycUt5aFNHNWF3M0NRM3prY2NKZlh0VGRGckxhZWQydnRrZGJIb0F6b2dOclgzallLRlVMUWNXTXQ3UEV5YU5UUm56X3BJY0NONzJWRDZ4TmdrbFBRQnNDeW5hcjJaRkJ6R3c?oc=5",
+   "outlet": "Mashable SEA",
+   "via": "Google News",
+   "published": "2026-11-22T16:53:07+00:00",
+   "seen": "2026-11-22T17:28:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports on GTA VI Easter eggs that broke the internet, according to Mashable SEA."
   },
   {
    "id": "gta 6 transgressor locations how to restore the first car in wyman s classic car collection",
@@ -1520,6 +1533,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to customize and upgrade weapons in GTA 6 on GameTyrant."
+  },
+  {
+   "id": "gta 6 why is it too dark here s how to fix hdr settings",
+   "title": "GTA 6: Why Is It Too Dark? Here's How to Fix HDR Settings",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCVlQxaE1ZazR5THF1aWU1c2luVkJTSUZSRDhZZ09LUGlyb2tvVjJ6aW9jaVBJR3JxTUlVME1WSWplX09zM0w4OGotR09VcUdONVp6RUpjck9WektodXpTOVdn?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-22T13:57:31+00:00",
+   "seen": "2026-11-22T17:28:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses why GTA 6 might be too dark and how to fix HDR settings, according to Push Square."
   },
   {
    "id": "can you free roam after beating gta 6",
