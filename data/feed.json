@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T00:23:16+00:00",
- "started": "2026-11-22T00:23:11+00:00",
+ "updated": "2026-11-22T00:28:21+00:00",
+ "started": "2026-11-22T00:28:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-22T00:23:11+00:00"
+   "checked": "2026-11-22T00:28:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-22T00:23:11+00:00"
+   "checked": "2026-11-22T00:28:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T00:23:12+00:00"
+   "checked": "2026-11-22T00:28:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T00:23:12+00:00"
+   "checked": "2026-11-22T00:28:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T00:23:12+00:00"
+   "checked": "2026-11-22T00:28:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T00:23:12+00:00"
+   "checked": "2026-11-22T00:28:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T00:23:13+00:00"
+   "checked": "2026-11-22T00:28:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T00:23:13+00:00"
+   "checked": "2026-11-22T00:28:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T00:23:13+00:00"
+   "checked": "2026-11-22T00:28:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T00:23:13+00:00"
+   "checked": "2026-11-22T00:28:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T00:23:14+00:00"
+   "checked": "2026-11-22T00:28:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T00:23:14+00:00"
+   "checked": "2026-11-22T00:28:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T00:23:14+00:00"
+   "checked": "2026-11-22T00:28:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T00:23:14+00:00"
+   "checked": "2026-11-22T00:28:19+00:00"
   }
  },
  "items": [
@@ -311,6 +311,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The headline reports that Nashville rapper Young Buck’s music is featured in Grand Theft Auto VI."
+  },
+  {
+   "id": "audacy news something offbeat nothing says thanksgiving like sisters soup skiing and grand theft auto vi",
+   "title": "AUDACY NEWS' Something Offbeat: Nothing says Thanksgiving like sisters, soup, skiing and Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGdGNE1QWUljV3hvVDZDaE5SeHIyZ0FrMzFsLVpkUE5USEg1MFphZTRHSEh6S2M1SzJGTWw0alFWODdyZ05kRVpTQ1EzTXJPSkNqYUpWa0VDMVRrOUpXWm9QTDVVdDlMVVdxVWFFVmN5Ukd0Rk1FOHNJbTI4WFNqbWZqellMN0lTdVRrVXpxNVJqcjdEMXUwMXdxUzJWS1l1Q2M0UkNVYkhQMlRtc0EwR0VIQkNYRVFXemJYSnY4ODlqTGZxOFJNeGhmT3RiSWkwUFNnbTlyOWQyRnA0ZDY4?oc=5",
+   "outlet": "Audacy",
+   "via": "Google News",
+   "published": "2026-11-21T22:41:13+00:00",
+   "seen": "2026-11-22T00:28:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story's headline claims something offbeat about Thanksgiving featuring sisters, soup, skiing and Grand Theft Auto VI."
   },
   {
    "id": "why is gta 6 being review bombed a 5 6 user score on metacritic against a 99 from critics",
