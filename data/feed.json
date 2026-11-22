@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T16:33:20+00:00",
- "started": "2026-11-22T16:33:17+00:00",
+ "updated": "2026-11-22T16:38:24+00:00",
+ "started": "2026-11-22T16:38:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T16:33:17+00:00"
+   "checked": "2026-11-22T16:38:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 48,
-   "checked": "2026-11-22T16:33:18+00:00"
+   "hits": 47,
+   "checked": "2026-11-22T16:38:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 82,
-   "checked": "2026-11-22T16:33:18+00:00"
+   "hits": 81,
+   "checked": "2026-11-22T16:38:20+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-22T16:33:18+00:00"
+   "hits": 5,
+   "checked": "2026-11-22T16:38:20+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T16:33:19+00:00"
+   "checked": "2026-11-22T16:38:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T16:33:19+00:00"
+   "checked": "2026-11-22T16:38:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T16:33:19+00:00"
+   "checked": "2026-11-22T16:38:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T16:33:19+00:00"
+   "checked": "2026-11-22T16:38:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T16:33:19+00:00"
+   "checked": "2026-11-22T16:38:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T16:33:19+00:00"
+   "checked": "2026-11-22T16:38:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T16:33:20+00:00"
+   "checked": "2026-11-22T16:38:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T16:33:20+00:00"
+   "checked": "2026-11-22T16:38:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T16:33:20+00:00"
+   "checked": "2026-11-22T16:38:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T16:33:20+00:00"
+   "checked": "2026-11-22T16:38:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 shatters entertainment industry records the washington post",
+   "title": "GTA 6 shatters entertainment industry records: The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbU52YXdGRTFRdnhuOE5zQWNDZXAwZThiNXcwMWdxdmtFS2F5LWZhYTZyRURvV1cwNnF2YzVuTDZpQXlEc0FRV2h2QlhhUmY2VTNtNEVHTHdqRTlfZU1mYUNuWlh2WXNENmxScjgzS3c0X2doSW96S1VVaFhoVXVhR0NMSzVyWmY4YzNpc2F4M0F6aG1aSFhvNE1Pb2VPRTNJ?oc=5",
+   "outlet": "Egypt Independent",
+   "via": "Google News",
+   "published": "2026-11-22T16:36:52+00:00",
+   "seen": "2026-11-22T16:38:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 shatters entertainment industry records according to The Washington Post."
+  },
+  {
+   "id": "10 glitches and bugs plaguing gta 6 at launch",
+   "title": "10 Glitches and Bugs Plaguing GTA 6 at Launch",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BYVczVndtbE5Bc0IxU0VwVldpczJJcldhZjI1WEhIMFRyZG5OZDRqazhRN1FySC1BZHdPb2lzNm55bXRqeXFNb1Vpa25pYnRZVlg1M09YcTlnX1p1WEJGUFZkc2hLeFpSa0o1SVk0UnM5Q0JONDZXSkFwWHg?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-22T16:35:07+00:00",
+   "seen": "2026-11-22T16:38:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists glitches and bugs plaguing GTA 6 at launch as highlighted by DualShockers."
+  },
+  {
+   "id": "gta 6 is the bonnie and clyde remake hollywood never knew it needed",
+   "title": "GTA 6 Is The Bonnie And Clyde Remake Hollywood Never Knew It Needed",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84UW1xUzloYTRyR1pHWV9aSFotRjBiSzVQdWlDRTBHOGxnaFNNblVmbkZ3MjJ1X3pBN25DOUNqQ0hrM0VDVlZKLTgzZEh1cEgzVVVDZm1mUkh5eDF0SGlCOXJ4ekdWY01NOVY1ME5UR2R1eU9zWFFjalpJVjRWa1E?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-22T16:30:18+00:00",
+   "seen": "2026-11-22T16:38:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says GTA 6 is the Bonnie and Clyde remake Hollywood never knew it needed, per ScreenRant."
+  },
+  {
+   "id": "gta vi has an npc who thinks he s trapped in a video game why can t i leave",
+   "title": "'GTA VI' Has an NPC Who Thinks He's Trapped in a Video Game: 'Why Can't I Leave???'",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLV9RSnVnSjhkMTZFUlRjcUxPSXB2cEZKTGlvUF9yY3NwS1pXc0pHa0F4WVpvSk90VGdPc2tiOExxN3k1RjNhSDRKTlRYMXE4UFplVXNLdk5JWkx3LWtMZkVQSlpwb3NRZ0ZxcWpUb0FIRVZKX2ZfeHc5NzZYZ3pnbG04U1ZETWJfaXNpY19rNkdGTHBMY2dUbGhXbWNMVHJORXpZdmNR?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-22T16:29:10+00:00",
+   "seen": "2026-11-22T16:38:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes an NPC in GTA VI who thinks he’s trapped in a video game, wondering why he can’t leave, per Complex."
+  },
   {
    "id": "gta 6 how many cars can you own and can you buy a house",
    "title": "GTA 6: How many cars can you own and can you buy a house?",
@@ -2027,6 +2079,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes that Rockstar spent months on one detail: Lucia opening a door with her hip."
+  },
+  {
+   "id": "is grand theft auto vi gaming s last blockbuster",
+   "title": "Is ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0UTFzMTRWa1pTc1hSYnZKbWU0X0VVSnI2bTZtdU1TVEFCeTlqYVJkR08zWmhpYTFIV1NDbUJWOVNKSXNfOTRlV1B0OGZLSGpKc1NHZWhVa2lQRzJ0SEJrdVpDRXZyakhybmxkNlhXN0ktLUpjcHV0NzBEc1NxZw?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-22T11:00:00+00:00",
+   "seen": "2026-11-22T16:38:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether Grand Theft Auto VI could be gaming’s last blockbuster, per Yahoo Finance."
   },
   {
    "id": "gta 6 faces plagiarism claim over weapon decal",
