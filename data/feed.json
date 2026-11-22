@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T13:42:32+00:00",
- "started": "2026-11-22T13:42:27+00:00",
+ "updated": "2026-11-22T13:47:34+00:00",
+ "started": "2026-11-22T13:47:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 92,
-   "checked": "2026-11-22T13:42:28+00:00"
+   "checked": "2026-11-22T13:47:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-22T13:42:28+00:00"
+   "hits": 58,
+   "checked": "2026-11-22T13:47:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 92,
-   "checked": "2026-11-22T13:42:28+00:00"
+   "hits": 90,
+   "checked": "2026-11-22T13:47:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T13:42:29+00:00"
+   "checked": "2026-11-22T13:47:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T13:42:29+00:00"
+   "checked": "2026-11-22T13:47:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T13:42:29+00:00"
+   "checked": "2026-11-22T13:47:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-22T13:42:29+00:00"
+   "checked": "2026-11-22T13:47:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T13:42:29+00:00"
+   "checked": "2026-11-22T13:47:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T13:42:29+00:00"
+   "checked": "2026-11-22T13:47:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T13:42:30+00:00"
+   "checked": "2026-11-22T13:47:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T13:42:30+00:00"
+   "checked": "2026-11-22T13:47:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T13:42:30+00:00"
+   "checked": "2026-11-22T13:47:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T13:42:30+00:00"
+   "checked": "2026-11-22T13:47:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T13:42:30+00:00"
+   "checked": "2026-11-22T13:47:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "in gta 6 cars are way way more than just getaway wheels",
+   "title": "In GTA 6, Cars Are Way, Way More Than Just Getaway Wheels",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUVJlajJEQ2FLTzc1blQxLTBUMVVTT1BXQl84NkYycjZIVHZVeDRCODJ6anRoaFZzaE0tRkRWSVdsVWY5aW9ELV9HSVNfYkgzM2dlQVJnanU2aVRxb0RHbUpscXE2SXRzQmUtTXlOdFVVdWJ2TVZmaE9xZUFxNUdna29ULUFYTUMyZFY3VEZhZHpDUVBQd3lIYXY2UjExR0tVM0J3cUpqSzE?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-22T13:42:52+00:00",
+   "seen": "2026-11-22T13:47:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asserts that cars in GTA 6 are much more than just getaway vehicles."
+  },
+  {
+   "id": "grand theft auto vi has the franchise s the first non optional female lead character",
+   "title": "Grand Theft Auto VI has the franchise's the first non-optional female lead character",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLWJsNXg5Y2g5WGR4LTJJQ3piekVkckVPUDZPWTd0b3UtcnFvejhoUWVzNUZQNmhETkxaVjdxX25jNjZWMjdkajBONjlScHBzczJiX3E2VU1oUGVTQlVRVGI4NVNmZkc3TnAzX01VeFVpQmdPWC1xc2JSVGc2QVlVVkM5NEVuekg2dFJiOXQzZm5XN2NxbkEtNWJ3bl9EWFg1d1RjdzNldTBmRVRYQllXNU9yZm41ZE1oNk9MT1dkX2gwZmV3VTgw?oc=5",
+   "outlet": "NPR",
+   "via": "Google News",
+   "published": "2026-11-22T13:40:30+00:00",
+   "seen": "2026-11-22T13:47:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states that Grand Theft Auto VI features the franchise's first non-optional female lead character."
+  },
   {
    "id": "gta 6 likeness lawsuit can a real person sue over a video game character who looks like them",
    "title": "GTA 6 likeness lawsuit: can a real person sue over a video game character who looks like them",
