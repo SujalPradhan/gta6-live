@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T13:27:28+00:00",
- "started": "2026-11-22T13:27:23+00:00",
+ "updated": "2026-11-22T13:32:33+00:00",
+ "started": "2026-11-22T13:32:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 92,
-   "checked": "2026-11-22T13:27:23+00:00"
+   "hits": 91,
+   "checked": "2026-11-22T13:32:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-22T13:27:24+00:00"
+   "hits": 59,
+   "checked": "2026-11-22T13:32:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-22T13:27:24+00:00"
+   "hits": 94,
+   "checked": "2026-11-22T13:32:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T13:27:24+00:00"
+   "checked": "2026-11-22T13:32:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T13:27:24+00:00"
+   "checked": "2026-11-22T13:32:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T13:27:25+00:00"
+   "checked": "2026-11-22T13:32:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T13:27:25+00:00"
+   "checked": "2026-11-22T13:32:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T13:27:25+00:00"
+   "checked": "2026-11-22T13:32:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T13:27:25+00:00"
+   "checked": "2026-11-22T13:32:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T13:27:25+00:00"
+   "checked": "2026-11-22T13:32:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T13:27:25+00:00"
+   "checked": "2026-11-22T13:32:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T13:27:25+00:00"
+   "checked": "2026-11-22T13:32:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T13:27:26+00:00"
+   "checked": "2026-11-22T13:32:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T13:27:26+00:00"
+   "checked": "2026-11-22T13:32:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "the world is swept up in the gta 6 craze",
+   "title": "The world is swept up in the GTA 6 craze.",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UUGV3X2lvUmVvazBOaldib0tNenZoV0x0QUpTVnZYSm4tUWJyazh3eWNHZDRaQ3dqQ0F6UnBRRmtIbjhPcElmY0UxcHVNRG1UNzRINWNFS1NTV1pGLTFIdkJPV1M5M0U?oc=5",
+   "outlet": "Vietnam.vn",
+   "via": "Google News",
+   "published": "2026-11-22T13:30:34+00:00",
+   "seen": "2026-11-22T13:32:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a world-wide fascination with GTA 6."
+  },
   {
    "id": "gta 6 how to fix hdr settings",
    "title": "GTA 6: How to Fix HDR Settings",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story presents a guide on fixing HDR settings for GTA 6."
+  },
+  {
+   "id": "grand theft without auto tharoor plays gta vi takes demonetisation dig at modi govt",
+   "title": "‘Grand theft without auto’: Tharoor plays GTA VI, takes demonetisation dig at Modi govt",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82cm0zb2I1RUVSc0Y4RTRoRVQ5QVQ4OXo0WHhGWGJKRkt4WlpKQzkyeENfalZ2Q1hFVDhiVTc1N2FpR3pKOGM1VXhMSjRwb2VQMFlXMlF2VlR4UmVROHY3VFJtTW9MVTZoX0xRWEU4SDNocXZsNGV1UnZB?oc=5",
+   "outlet": "The Federal",
+   "via": "Google News",
+   "published": "2026-11-22T13:20:05+00:00",
+   "seen": "2026-11-22T13:32:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Tharoor playing GTA VI and criticizing the Modi government over demonetisation."
   },
   {
    "id": "how to find all skunk ape effigy tree locations in gta 6",
