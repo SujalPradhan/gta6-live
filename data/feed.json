@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T20:04:29+00:00",
- "started": "2026-11-22T20:04:22+00:00",
+ "updated": "2026-11-22T20:09:30+00:00",
+ "started": "2026-11-22T20:09:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T20:04:22+00:00"
+   "checked": "2026-11-22T20:09:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-22T20:04:23+00:00"
+   "hits": 41,
+   "checked": "2026-11-22T20:09:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 90,
-   "checked": "2026-11-22T20:04:23+00:00"
+   "hits": 71,
+   "checked": "2026-11-22T20:09:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T20:04:24+00:00"
+   "checked": "2026-11-22T20:09:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T20:04:24+00:00"
+   "checked": "2026-11-22T20:09:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T20:04:24+00:00"
+   "checked": "2026-11-22T20:09:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T20:04:25+00:00"
+   "checked": "2026-11-22T20:09:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T20:04:25+00:00"
+   "checked": "2026-11-22T20:09:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T20:04:25+00:00"
+   "checked": "2026-11-22T20:09:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T20:04:25+00:00"
+   "checked": "2026-11-22T20:09:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T20:04:26+00:00"
+   "checked": "2026-11-22T20:09:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T20:04:26+00:00"
+   "checked": "2026-11-22T20:09:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T20:04:26+00:00"
+   "checked": "2026-11-22T20:09:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T20:04:26+00:00"
+   "checked": "2026-11-22T20:09:27+00:00"
   }
  },
  "items": [
@@ -662,6 +662,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions whether GTA 6's casino and go-karts will be opened soon, noting they are not currently open."
+  },
+  {
+   "id": "gta 6 s massive casino and sick go kart track are currently closed but i m hoping we can trust those coming soon signs",
+   "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNU0JNNnEyYXh1QnlENWZ4dGV5VlFQdENXNk9kNWVHYU5uLVdoaDgxamI0Zm83TkExazFKWTRkUDhxNkdPZUpYN0kyS3dlc1V3UU1uVl84NjNpRjBOS18tX3pON0VqajI4ZDJpVWl3aFZiQ2xfakJpS0t6N0gyTmp2d2FoMmJLY3pmeXV4MEVSUFdRUEJjcUFnUkFoOVlTMkRobUlab1QxUzVkWmJFeXJzWGJyQmFNcElYRzBXWTJSTGZJdF8wUTc0U1RWOWRQUHVXYm5FUGJQS3U2ZFVESlZ5YUhSUWVYZURrNnBXMVlRTE1ndnFMTlR3?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-22T17:51:53+00:00",
+   "seen": "2026-11-22T20:09:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's massive casino and sick go-kart track are currently closed, with hope for the 'coming soon' signs."
   },
   {
    "id": "the best gta vi accessory isn t a controller it s breville s barista express at an all time low",
@@ -4796,6 +4809,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that a GTA 6 voice actor says the game's realism resonates with players."
+  },
+  {
+   "id": "gta 6 sets record with 3 79bn in 1st day sales hindustan times lucknow newspaper",
+   "title": "‘GTA 6’ sets record with $3.79bn in 1st-day sales | Hindustan Times Lucknow - newspaper",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmYyS1V1ODVZRTFZQ3dSVjRTbk1tMUtOOVd6S2p3SFZNRmlxQTZlNUZXd0dvMDVGZENWVGZ6YnVucmNzZjJzeFd4d3dZamlYRXRzUkF6STRMRE9BOU8zLTRUdUYtc3gwZEl2U2xxZUpEb3JfeW1tOFBLdHdGdFR6OWJWN29yOEgyVnE0ak9fU1RvbnY4ZkdCTmJKa3UzcE9XWlBDLW85Z1MwelAwZFIw?oc=5",
+   "outlet": "Magzter",
+   "via": "Google News",
+   "published": "2026-11-22T03:52:43+00:00",
+   "seen": "2026-11-22T20:09:23+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 sets a record with first-day sales of $3.79 billion according to Hindustan Times Lucknow."
   },
   {
    "id": "gta vi day one sales take two reports 3 79 billion",
