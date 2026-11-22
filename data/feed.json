@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:00:25+00:00",
- "started": "2026-11-22T07:00:18+00:00",
+ "updated": "2026-11-22T07:05:24+00:00",
+ "started": "2026-11-22T07:05:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 93,
-   "checked": "2026-11-22T07:00:18+00:00"
+   "checked": "2026-11-22T07:05:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 76,
-   "checked": "2026-11-22T07:00:19+00:00"
+   "checked": "2026-11-22T07:05:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T07:00:19+00:00"
+   "checked": "2026-11-22T07:05:20+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T07:00:20+00:00"
+   "checked": "2026-11-22T07:05:20+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T07:00:20+00:00"
+   "checked": "2026-11-22T07:05:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T07:00:20+00:00"
+   "checked": "2026-11-22T07:05:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T07:00:20+00:00"
+   "checked": "2026-11-22T07:05:21+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T07:00:21+00:00"
+   "checked": "2026-11-22T07:05:21+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T07:00:21+00:00"
+   "checked": "2026-11-22T07:05:21+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T07:00:22+00:00"
+   "checked": "2026-11-22T07:05:22+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T07:00:22+00:00"
+   "checked": "2026-11-22T07:05:22+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T07:00:22+00:00"
+   "checked": "2026-11-22T07:05:22+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T07:00:23+00:00"
+   "checked": "2026-11-22T07:05:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T07:00:23+00:00"
+   "checked": "2026-11-22T07:05:22+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Donnie Death and Brad Carter voice roles in GTA 6."
+  },
+  {
+   "id": "greek pm asks youngsters to get gta 6 for christmas faces backlash here s why",
+   "title": "Greek PM Asks Youngsters To Get GTA 6 For Christmas, Faces Backlash. Here's Why",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0plcE9yczh5VXY5eGdOaXdwRGx6RW5ZQUdsQmZZeGo5YXFZcU5sdmVVU0hlNy1QU3lSZFVQZ3Z3eEN5el9XRktvd19EUzdndUlFVnBERXdTaDV1a2M4d3RMRWItMURxbUZldFdqNERKdGhhd1pqUGphRmhvRlU1Q2pqekFDSkNmaGZzdmxINHQ5TkVFVDVTUjl6d0w5eWp5QzRCQW52X1VfUVRFRnJOMlRoN0pwU0Ja0gHAAUFVX3lxTE5ZTGFjeEsxajNxWEFtTTNBSHhZbG5mMHRsUUlzemZ6SW01NzF2MW1mLW9hUnBmcG9KV2NmRW5IU1YzWnNnZU5oLTd6MGh0Z1BpMlhvREdPbGVlYXp2amVHQjk0cG1keVl1UzREOWlPQ1VDb2tWN3RuQjJLLW1YOGdnM0pINktXbjdoU2N3X3RoVDZIcTl3Z21oZ2tsVllTWHVzNUU1RkZjTVVOSy1tWHNsXzlQeFpCZWFkTUhNdGUybg?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-22T06:42:47+00:00",
+   "seen": "2026-11-22T07:05:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Greek prime minister asks youngsters to get GTA 6 for Christmas and faces backlash."
   },
   {
    "id": "28 viewers 35 000 rivals and a 92 lakh gta 6 job meet cliff savage the man who landed the dream gig",
