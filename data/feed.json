@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T21:14:47+00:00",
- "started": "2026-11-22T21:14:41+00:00",
+ "updated": "2026-11-22T21:19:50+00:00",
+ "started": "2026-11-22T21:19:45+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T21:14:42+00:00"
+   "checked": "2026-11-22T21:19:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-22T21:14:42+00:00"
+   "hits": 37,
+   "checked": "2026-11-22T21:19:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 70,
-   "checked": "2026-11-22T21:14:42+00:00"
+   "checked": "2026-11-22T21:19:46+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T21:14:42+00:00"
+   "checked": "2026-11-22T21:19:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T21:14:43+00:00"
+   "checked": "2026-11-22T21:19:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T21:14:43+00:00"
+   "checked": "2026-11-22T21:19:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T21:14:44+00:00"
+   "checked": "2026-11-22T21:19:47+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T21:14:44+00:00"
+   "checked": "2026-11-22T21:19:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T21:14:44+00:00"
+   "checked": "2026-11-22T21:19:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T21:14:44+00:00"
+   "checked": "2026-11-22T21:19:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T21:14:44+00:00"
+   "checked": "2026-11-22T21:19:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T21:14:45+00:00"
+   "checked": "2026-11-22T21:19:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T21:14:45+00:00"
+   "checked": "2026-11-22T21:19:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T21:14:45+00:00"
+   "checked": "2026-11-22T21:19:48+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses whether you should shoot Kirk or Mr Mangrove in GTA 6."
+  },
+  {
+   "id": "the world of calcio reacts to gta vi corriere dello sport gattuso de zerbi more",
+   "title": "The world of Calcio reacts to GTA VI: Corriere dello Sport, Gattuso, De Zerbi & more",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSk1jVjFxNnU2eURBZzRadnFWSjBNNElHcF9HUmhGMWJHc05BNWo1NVB5TkdlNVk3VjVyZGozNXZuSm14M0prSDdJMGNTT0Y4R2JORVdIZDBrdGw5OUZMZnRIQXFjTktDVGZONXNJLTZuSFpITVdKWndiSC0tb2NWaQ?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-22T21:06:00+00:00",
+   "seen": "2026-11-22T21:19:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports reactions from Calcio to GTA VI, including Corriere dello Sport, Gattuso, and De Zerbi."
   },
   {
    "id": "sorry vice city but you re the most boring part of gta 6",
@@ -768,6 +781,19 @@
    "ai_summary": "The story reports on how to unlock and complete the alien UFO easter egg questline in Grand Theft Auto 6."
   },
   {
+   "id": "woman says she d end things with a man who plays gta 6 that would be it for me",
+   "title": "Woman Says She’d End Things With a Man Who Plays GTA 6: “That Would Be It for Me”",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQnNLd1laNk5jdV90VGRyc2J4SlBybWtaNTNIRHl6OGs2TTJnRGpWVXphd2RwaHR2Y1RmRUxsMnpqclM3Szg4c1JBNGQ5Q0dkUmp5dFdmcnpMRGtGMktnb01OVDFmTlVrZnNHeGVuMVRUVkJ3aXRqOHRteWJkSkU?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-22T18:25:00+00:00",
+   "seen": "2026-11-22T21:19:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A woman says she would end things with a man who plays GTA 6."
+  },
+  {
    "id": "gta 6 sex scenes took thought and iteration rockstar says",
    "title": "GTA 6 Sex Scenes Took Thought and Iteration, Rockstar Says",
    "link": "https://insider-gaming.com/gta-6-sex-romance-rockstar-explained/",
@@ -779,6 +805,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Rockstar says GTA 6’s intimacy animations involve thought and iteration balancing choice, partner responses, and character relationships."
+  },
+  {
+   "id": "woman tells women upset over grand theft auto vi to let their partners play",
+   "title": "Woman Tells Women Upset Over “Grand Theft Auto VI” To Let Their Partners Play",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMG9yS1RuVTZVLVZUaEM5OXlGenVNWnU5VlJRaEFoTlFPSlV0X1B2NXZzekdsTjdadnlIYmx3SXFLOEFKUXRMenFwZjlwT3NSNzI4c3ZXcHhEY2lRak9kMkJGSjVZOGNkeXl1RG0wa24wWDUtd2FWYnh6LUlhcFhiRnVodERuejA2X0E?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-22T18:20:00+00:00",
+   "seen": "2026-11-22T21:19:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A woman advises women upset over Grand Theft Auto VI to let their partners play."
   },
   {
    "id": "rockstar says jason s viral personality in gta 6 comes from steve mcqueen and real life veterans",
@@ -4549,6 +4588,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA VI sales at $3.79 billion in 24 hours with 32.5 million pre-sold."
+  },
+  {
+   "id": "gta vi s 3 79b day what 32 5m pre sales change",
+   "title": "GTA VI’s $3.79B Day: What 32.5M Pre-Sales Change",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbTAtM2VXVnF4QU1xZDBTUUE4V3hfWk93OG15dmEyOFhWbm5pRzJVdnc3NFFPRV8xVkxHUVFDSkhNdGcxcTZsTjBOby02UUFqOXpwV1JpelBDcTJ5ci1XS1V1cTBJc0VLUFdub3I4MFc0aWVGaXhlODhXSDRPOVhhdkdjU2EzWi1pemgwdW5kOVo?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-22T06:19:23+00:00",
+   "seen": "2026-11-22T21:19:46+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story discusses GTA VI’s day that affected pre-sales, citing a large revenue figure and the number of pre-sales."
   },
   {
    "id": "grand theft auto vi firm fights union busting claim",
