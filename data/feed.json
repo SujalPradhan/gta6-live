@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:30:28+00:00",
- "started": "2026-11-22T07:30:24+00:00",
+ "updated": "2026-11-22T07:35:32+00:00",
+ "started": "2026-11-22T07:35:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 94,
-   "checked": "2026-11-22T07:30:25+00:00"
+   "checked": "2026-11-22T07:35:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-22T07:30:25+00:00"
+   "hits": 72,
+   "checked": "2026-11-22T07:35:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T07:30:26+00:00"
+   "checked": "2026-11-22T07:35:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T07:30:26+00:00"
+   "checked": "2026-11-22T07:35:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T07:30:26+00:00"
+   "checked": "2026-11-22T07:35:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T07:30:26+00:00"
+   "checked": "2026-11-22T07:35:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T07:30:26+00:00"
+   "checked": "2026-11-22T07:35:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T07:30:27+00:00"
+   "checked": "2026-11-22T07:35:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T07:30:27+00:00"
+   "checked": "2026-11-22T07:35:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T07:30:27+00:00"
+   "checked": "2026-11-22T07:35:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T07:30:27+00:00"
+   "checked": "2026-11-22T07:35:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T07:30:27+00:00"
+   "checked": "2026-11-22T07:35:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T07:30:27+00:00"
+   "checked": "2026-11-22T07:35:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T07:30:28+00:00"
+   "checked": "2026-11-22T07:35:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "playing grand theft auto vi",
+   "title": "Playing Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtOXJScVN1YVVubV92OE1WX0RwYjk1NUNqZkQ4Y0IwWXZaZ0UweXBVYWl6Vkk5V0hhM01DSkhZdkVybC1Ga1VQeVVqYmQ4WF91WE1DaEc4d0NlNmh4bVNyZGliTFVsWGVCXzlrN0tkUW9GVjg?oc=5",
+   "outlet": "National Review",
+   "via": "Google News",
+   "published": "2026-11-22T07:23:39+00:00",
+   "seen": "2026-11-22T07:35:26+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story is about playing Grand Theft Auto VI."
+  },
+  {
+   "id": "lana del rey carries a one of a kind vice city inspired herm s birkin at gta 6 event",
+   "title": "Lana Del Rey carries a one-of-a-kind Vice City-inspired Hermès Birkin at GTA 6 event",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQckJvUzA3UmQ5VFZKc1g3WHF6dmRzZFowdVdUS3M0ZFp0RUdCTDhuWkJHbDhEMWd6dGl6SWpHdDNyazg2cl9oOGljV0FuN3NuWXg4N29VamI2RjEyY0MzNEtQRFRUUE8zejc1aWo1VFBfdEhPbkR0OHBERi1mcXFXTkRUUzdpNGpyVUxsbGdWbDFvUm45ZGpiS1REbXo4WVBNekJNaDJJT0xyT281aFBfazJlLW9aMlZSNHVBaEtEcVJGRnV6UFpWSDh6blR3Q1FfUV9KVXBvMFpJYzZIQnV2MGlEY0RtY0HSAfQBQVVfeXFMTVZVYm1WazRHaGYzNUdSUm1jNWpSMjI4c1Mtc2tWSWFkbWNKeHpnaE9sNnJjcG81NzN0cnhzal9XTm5EQVVGdXh3SHFscGhjWlQxcHB4YmdoRVNSNEJUYnFtMk5mODNxQzJGZnBQdk5XZTFGMjk5b1RfYl9lVjhNWS1fOE5nU1ZxY29VckJzTXN1S28tcFVzTlRjMnJYQ0tzeS05bENCdWI2QmNLN1p2YzFMcDlST2EzYkstUjM0U2VTSHpoMDg4dXZuYUg2YUZJWTEyWHJNSThtZm1xaUVsRFl4dHVFX0g3MDJhQ2dhR1ZVNWNoaQ?oc=5",
+   "outlet": "IndulgExpress",
+   "via": "Google News",
+   "published": "2026-11-22T07:03:52+00:00",
+   "seen": "2026-11-22T07:35:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Lana Del Rey carrying a unique Vice City-inspired Hermès Birkin at a GTA 6 event."
+  },
   {
    "id": "gta 6 reveals donnie death and brad carter voice role",
    "title": "GTA 6 Reveals Donnie Death and Brad Carter Voice Role",
