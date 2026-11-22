@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T02:18:56+00:00",
- "started": "2026-11-22T02:18:49+00:00",
+ "updated": "2026-11-22T02:23:52+00:00",
+ "started": "2026-11-22T02:23:45+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T02:18:50+00:00"
+   "checked": "2026-11-22T02:23:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-22T02:18:50+00:00"
+   "hits": 94,
+   "checked": "2026-11-22T02:23:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-22T02:18:51+00:00"
+   "hits": 96,
+   "checked": "2026-11-22T02:23:46+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T02:18:51+00:00"
+   "checked": "2026-11-22T02:23:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T02:18:51+00:00"
+   "checked": "2026-11-22T02:23:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T02:18:51+00:00"
+   "checked": "2026-11-22T02:23:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T02:18:52+00:00"
+   "checked": "2026-11-22T02:23:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T02:18:52+00:00"
+   "checked": "2026-11-22T02:23:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T02:18:53+00:00"
+   "checked": "2026-11-22T02:23:48+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T02:18:53+00:00"
+   "checked": "2026-11-22T02:23:48+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T02:18:53+00:00"
+   "checked": "2026-11-22T02:23:48+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T02:18:53+00:00"
+   "checked": "2026-11-22T02:23:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T02:18:54+00:00"
+   "checked": "2026-11-22T02:23:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T02:18:54+00:00"
+   "checked": "2026-11-22T02:23:49+00:00"
   }
  },
  "items": [
+  {
+   "id": "still playing gta vi on a worn out pad microsoft just made the fix very cheap",
+   "title": "Still Playing GTA VI on a Worn-Out Pad? Microsoft Just Made the Fix Very Cheap",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaE9kdGlOR1Vtb0h3RTZlZVFqeXJhRDlXbUo5cllWcmVaV2xoU2J6eXVaemVmWEVRcFpMT2MxX3Z3WTBsLXVXOWRIVUJRSW9kSHFqaGZuel9NdG9jdTduQ3ZtYTFEalRlZnN0amFhTHBxRVp3Zmlzczg4aDVZNjNMSnNrci1aaGlMRE5iM2pBRjFqNUJvZ0otLXpwODJ5eXB2SzFhdWJzRG96NkE?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-22T02:20:14+00:00",
+   "seen": "2026-11-22T02:23:45+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that Microsoft made fixing a worn-out gaming pad for GTA VI very inexpensive."
+  },
   {
    "id": "grand theft auto vi makes record selling 3 79b on its day of launch",
    "title": "Grand Theft Auto VI makes record selling $3.79B on its day of launch",
@@ -285,6 +298,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story covered is about feedback on an Isaac update and a GTA 6 mode featuring AI-generated music, with strong negative reactions."
+  },
+  {
+   "id": "who is lexie shoaibi the actress who inspired mandy in gta 6",
+   "title": "Who is Lexie Shoaibi? The actress who inspired 'Mandy' in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd2hITkFOS19tQjJkclBqSTh2MGRKM2UtN3lYX3dYY3RONy1wSUZPMU1ndTBXclc5azVmMFJFcTlhVlNNTzNNRzdhbmRocERsTmdsS3pZRFhRNTZYTm1ySU1PakdNMXZtclhlSC1hNHIySlFHbExWenlTQkhUU05MVG9mcDU4RkFQX3l1VGtWdGtHaWl3UDVxY0ltdWlUS2RBYldBRWpYQzg3VmF4MFloalBEMGZlbXV1c3V30gG7AUFVX3lxTE93aEhOQU5LX21CMmRyUGpJOHYwZEozZS03eVhfd1hjdE43LXBJRk8xTWd1MFdyVzlrNWYwUkVxOWFWU01PM01HN2FuZGhwRGxOZ2xLellEWFE1NlhObXJJTU9qR00xdm1yWGVILWE0cjJKUUdsTFZ6eVNCSFRTTkxUb2ZwNThGQVBfeXVUa1Z0a0dpaXdQNXFjSW11aVRLZEFiV0FFalhDODdWYXgwWWhqUEQwZmVtdXVzdXc?oc=5",
+   "outlet": "MARCA",
+   "via": "Google News",
+   "published": "2026-11-22T00:12:56+00:00",
+   "seen": "2026-11-22T02:23:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on who Lexie Shoaibi is, described as the actress who inspired Mandy in GTA 6."
   },
   {
    "id": "gta 6 girls trip should you defuse or provoke the kolts at the car wash",
@@ -1312,6 +1338,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on where the GTA 6 Vicki voice actor, Taryn Manning, is known from."
+  },
+  {
+   "id": "gta 6 how to get the kingpin bowling safe code",
+   "title": "GTA 6 - How to Get the Kingpin Bowling Safe Code",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oMjV0dGFITVlOS2pWLXdXa2lQemp4ajY2TTRseEVpZGFyekxZYVBqVnhoNm1tSTdzaTA4clVaamRPNFJQX2VkbzRJbGtBT1FsdWVscUdhTmpwbmliZXZjSXJuVHZZN0QzOXFqb3Y5OUZIUjFZNHBfd2xndTZTUQ?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-21T20:13:52+00:00",
+   "seen": "2026-11-22T02:23:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a guide on obtaining the Kingpin Bowling Safe Code in GTA 6."
   },
   {
    "id": "gta 6 dealer s choice walkthrough should you choose cut or pure",
