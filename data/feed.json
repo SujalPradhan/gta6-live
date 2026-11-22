@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:10:43+00:00",
- "started": "2026-11-22T08:10:37+00:00",
+ "updated": "2026-11-22T08:15:50+00:00",
+ "started": "2026-11-22T08:15:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 94,
-   "checked": "2026-11-22T08:10:38+00:00"
+   "checked": "2026-11-22T08:15:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-22T08:10:38+00:00"
+   "checked": "2026-11-22T08:15:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T08:10:39+00:00"
+   "checked": "2026-11-22T08:15:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T08:10:39+00:00"
+   "checked": "2026-11-22T08:15:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T08:10:39+00:00"
+   "checked": "2026-11-22T08:15:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T08:10:39+00:00"
+   "checked": "2026-11-22T08:15:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T08:10:40+00:00"
+   "checked": "2026-11-22T08:15:46+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T08:10:40+00:00"
+   "checked": "2026-11-22T08:15:46+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T08:10:40+00:00"
+   "checked": "2026-11-22T08:15:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T08:10:40+00:00"
+   "checked": "2026-11-22T08:15:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T08:10:41+00:00"
+   "checked": "2026-11-22T08:15:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T08:10:41+00:00"
+   "checked": "2026-11-22T08:15:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T08:10:41+00:00"
+   "checked": "2026-11-22T08:15:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T08:10:41+00:00"
+   "checked": "2026-11-22T08:15:47+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is facing review-bombs on Metacritic, with some users admitting they never played the game."
+  },
+  {
+   "id": "gta 6 is not just a boys game so why do we still think it is",
+   "title": "GTA 6 is not just a boys' game. So why do we still think it is?",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVpaVmtuTVdBenlwY2twLWkxRy13cmdnN3RWQUFHS285QnFtSl9kTmFsVHhzd3pHSEtPVWtvVFVjZjgtTWx3VGI4UkNaR2lRX09vTlJLR01Db1p6U040M0puZlBScktKWnJ3ZWRQZ1dlbkN2WW53NmZUS01aNWJhU3d4aTNWb3J3bFd0WVNNcWw1X2ZuMGZpSDNxYWJqR2dVcEdnWVY3b2tGUkNYOTQtUHVFRUVmUWEwNkFmajZpdWFRa0XSAcgBQVVfeXFMT0lzVlduUGNNQUVyTEVmc0ktN0MyTGdUS2VPMng3Z04yTmxnR1NTaVNvbnZVUVBzWnNZYmdQOXdkaS1QRmx0YWFTRnRQZkE5aU94M3YwT0luUzdWbV9nN1BwMUFDLUhQVU52MkR0OERIODhlMWhma0xpWDRkc3RVWlZhaFh6a3MxQ0xIek0wWjFrV0pYbnBMd09uMl9WTHlmbDZObnBxYkNlWFpwNWVzNlh0VDF4NDI5N0JUMDYxWUhvckhhcDN6M0w?oc=5",
+   "outlet": "India Today",
+   "via": "Google News",
+   "published": "2026-11-22T08:03:04+00:00",
+   "seen": "2026-11-22T08:15:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions why GTA 6 is still viewed as a boys' game given a broader perception."
   },
   {
    "id": "gta 6 after the credits can you keep exploring vice city",
@@ -6525,6 +6538,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on the Ford that inspired Jason's first car in GTA 6, the Vapid Ganado."
+  },
+  {
+   "id": "gta 6 generates 3 79 billion in pre orders first day sales sets new entertainment record",
+   "title": "‘GTA 6’ generates $3.79 billion in pre-orders, first-day sales, sets new entertainment record",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWYxMm8tX2ZTTlpGNjNLcjBXbmtsSzdvZkhxbm9yTmRCcEJDV0thN2laSzlHWVgzNWlnbUtQRE10dlZMLTVtUGV0NE5fSmRIODJPc1oyQTAzaUtJZ003c2F5MnZLWlg3VFFjV0xaUWtVYm13TmVnVkp3Wmt6VXMtTmpDRWstQW1IdTkzMUp5MV9YcXdwM1hzSFdYTkNBeGw5ZHpCUEJSeHhReWlsSjI4YUxDRFlmS2tE?oc=5",
+   "outlet": "Public TV English",
+   "via": "Google News",
+   "published": "2026-11-21T11:34:44+00:00",
+   "seen": "2026-11-22T08:15:45+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 generating significant pre-orders and first-day sales, setting a new entertainment record."
   },
   {
    "id": "gta 6 radio market mo bamba falls 48 points to 20 on kalshi",
