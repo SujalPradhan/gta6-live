@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T09:00:59+00:00",
- "started": "2026-11-22T09:00:52+00:00",
+ "updated": "2026-11-22T09:06:03+00:00",
+ "started": "2026-11-22T09:05:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-22T09:00:53+00:00"
+   "hits": 94,
+   "checked": "2026-11-22T09:05:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 71,
-   "checked": "2026-11-22T09:00:53+00:00"
+   "checked": "2026-11-22T09:05:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T09:00:54+00:00"
+   "checked": "2026-11-22T09:05:57+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T09:00:54+00:00"
+   "checked": "2026-11-22T09:05:57+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T09:00:54+00:00"
+   "checked": "2026-11-22T09:05:57+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T09:00:57+00:00"
+   "checked": "2026-11-22T09:05:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T09:00:57+00:00"
+   "checked": "2026-11-22T09:05:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T09:00:57+00:00"
+   "checked": "2026-11-22T09:05:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-22T09:00:58+00:00"
+   "checked": "2026-11-22T09:05:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T09:00:58+00:00"
+   "checked": "2026-11-22T09:05:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T09:00:58+00:00"
+   "checked": "2026-11-22T09:06:00+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T09:00:58+00:00"
+   "checked": "2026-11-22T09:06:00+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T09:00:59+00:00"
+   "checked": "2026-11-22T09:06:00+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T09:00:59+00:00"
+   "checked": "2026-11-22T09:06:00+00:00"
   }
  },
  "items": [
+  {
+   "id": "hamilton gamers waited 13 years for grand theft auto vi one fan even took a day off work",
+   "title": "Hamilton gamers waited 13 years for Grand Theft Auto VI. One fan even took a day off work",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVJmMHp0TmhwVnJtNTFqUVlRdWZlUlNPcm1YTWx3LWlvbGxaWlgwRkNTSzBsbGE1blRZVWJnNVdKa0Q3bS1WSXBoakxDUDVrQnd5UFRqeVNVVWZKeVhrUnFHWDZKTWNDbjd2NDRpNGF6SnRDX2M3TnpiSTlYQ3lIcjZmbld4NkpKd0VrMTJjOHc?oc=5",
+   "outlet": "CBC",
+   "via": "Google News",
+   "published": "2026-11-22T09:00:00+00:00",
+   "seen": "2026-11-22T09:05:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Hamilton gamers waited many years for Grand Theft Auto VI, with one fan taking a day off work."
+  },
   {
    "id": "gta 6 prompts uae warning over portrayal of drug use",
    "title": "GTA 6 prompts UAE warning over portrayal of drug use",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A person decided to skip all GTA 6 missions and spend hours narrating it as a nature documentary."
+  },
+  {
+   "id": "developers have released the leonida tool for natively running grand theft auto vi on pc",
+   "title": "Developers have released the Leonida tool for natively running Grand Theft Auto VI on PC.",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS19kNVZGN0pOU0VQbmoxeUxKVTNXSVVvaVNaUHkwd3hsZzUyVFg3eDQ3cVNic0c5bGRTd2VGT3ZTVFJaQjFkRU1scGN2N3RQVkxMdWZNWkdkS1RvRC1vT1ZGeWNUT3VCbUZmWDlObEl2R0R6TlJlbk45SGZQTGl2UTF4RktvUkNkRVhHMnJvZWJ6VEVMTE9HU0dIMThMajhJS1hVQjNvY3NfWHdXSi1JSVFjVGFacEstQVRaZG50NmNyU3I4?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-22T08:53:10+00:00",
+   "seen": "2026-11-22T09:05:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that developers released the Leonida tool for natively running Grand Theft Auto VI on PC."
   },
   {
    "id": "gta 6 locked cars explained the one button hotwire is gone",
