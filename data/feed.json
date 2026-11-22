@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T16:48:33+00:00",
- "started": "2026-11-22T16:48:27+00:00",
+ "updated": "2026-11-22T16:53:36+00:00",
+ "started": "2026-11-22T16:53:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-22T16:48:28+00:00"
+   "hits": 97,
+   "checked": "2026-11-22T16:53:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-22T16:48:28+00:00"
+   "hits": 49,
+   "checked": "2026-11-22T16:53:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 82,
-   "checked": "2026-11-22T16:48:28+00:00"
+   "hits": 81,
+   "checked": "2026-11-22T16:53:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T16:48:29+00:00"
+   "checked": "2026-11-22T16:53:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T16:48:29+00:00"
+   "checked": "2026-11-22T16:53:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T16:48:29+00:00"
+   "checked": "2026-11-22T16:53:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T16:48:29+00:00"
+   "checked": "2026-11-22T16:53:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T16:48:30+00:00"
+   "checked": "2026-11-22T16:53:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T16:48:30+00:00"
+   "checked": "2026-11-22T16:53:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T16:48:30+00:00"
+   "checked": "2026-11-22T16:53:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T16:48:31+00:00"
+   "checked": "2026-11-22T16:53:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T16:48:31+00:00"
+   "checked": "2026-11-22T16:53:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T16:48:31+00:00"
+   "checked": "2026-11-22T16:53:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T16:48:31+00:00"
+   "checked": "2026-11-22T16:53:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 s album just set a spotify soundtrack record",
+   "title": "GTA 6's album just set a Spotify soundtrack record",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40SXV1aXBmT3IxSlpJTkFxRDkyd21pak5UUHBpcm82RVN5Q3E0MzVsODhPRWtyOWd0dzNiOVNqbi1KM0txQWV5WFgzd01ybUxzODdVT3lIUDNSWFFGSm1uMjk5cjVyQ29mWkUxeg?oc=5",
+   "outlet": "GGRecon",
+   "via": "Google News",
+   "published": "2026-11-22T16:50:05+00:00",
+   "seen": "2026-11-22T16:53:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The piece reports that GTA 6's album set a Spotify soundtrack record."
+  },
+  {
+   "id": "neuralink lets man play gta 6 with his mind",
+   "title": "Neuralink Lets Man Play GTA 6 With His Mind",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96ODNoN2pES0RIT1F5RWRhNVJRNG1VME9CT3NmYjdPLVNveTJBVGdHTUYzcHY1ZjNCcmNPN0hQUG1TVEhfM3Zna3l0c0NPRkU5UEl3dktUNXJqWXRWZnIwS2tQRVR6SXZfYWNCX0ZwT053bC15N0QxRC1B?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-22T16:49:20+00:00",
+   "seen": "2026-11-22T16:53:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece reports that Neuralink enables a man to play GTA 6 with his mind."
+  },
+  {
+   "id": "gta 6 how to unlock kodak black s secret radio station and all 22 songs",
+   "title": "GTA 6: How to Unlock Kodak Black’s Secret Radio Station and All 22 Songs",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR1J3M2dHdVBCVXVLa1RYeHdicFpzNElBbXl2UmJIbTJkSHhpRmFtUmR3aFUwX1VfVkpzbzMwRjZhNlRXTUduMVlncGhMa0lHd203NS1TUVFLckduMmx6bnVTMFotMEhxT2ZhaWJVV1RTdzg5Yk5GNFRiVXFtcjN1ZWQ0RmZJNmMxUXowRkY3ekN3T3RvTzVqTE5jRXV0Tk1U?oc=5",
+   "outlet": "RouteNote",
+   "via": "Google News",
+   "published": "2026-11-22T16:45:46+00:00",
+   "seen": "2026-11-22T16:53:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece explains how to unlock Kodak Black’s secret radio station and all 22 songs in GTA 6."
+  },
+  {
+   "id": "trump administration tries to use gta vi to boost its agenda and it s a total self own",
+   "title": "Trump Administration Tries To Use 'GTA VI' To Boost Its Agenda — And It's A Total Self-Own",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0pULVMySnhGUVQ4T3pGazhKdVRGeURpN2I0SGFxbVBUOVpyZTVhSXllLTlpNjFNQkFQWTV5cmJqMGZzZVo5SFpNajVZZ05kbHlCeVlpd09CWllNSEh1RDUzZkg3Z0lJTmdyZjFBMHZwVXJHOVdfQ2h4Mk9wQUdidkp1UHA1Z3VxZktWN2hqZHNhMmpWZ3ZsWg?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-22T16:42:21+00:00",
+   "seen": "2026-11-22T16:53:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece claims the Trump administration used GTA VI to boost its agenda, and it's described as a self-own."
+  },
   {
    "id": "where to find the buckingham windsor drop car in gta 6 randy s wishlist car locations",
    "title": "Where to Find the Buckingham Windsor Drop Car in GTA 6—Randy’s Wishlist Car Locations",
@@ -586,6 +638,19 @@
    "ai_summary": "The story reports that a GTA 6 parody in Binding of Isaac used AI without the creator's knowledge."
   },
   {
+   "id": "gta 6 player just found a secret tribute to tom cruise s collateral and it s pure perfection",
+   "title": "GTA 6 Player Just Found a Secret Tribute to Tom Cruise’s Collateral, and It’s Pure Perfection",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jZlp5WDNTZ3V0Vkd5OXRiM1E5YXB2UnlPY3JGZnRlUWV1QkNfRnNjckFzbHg5UEl3Qnh3Y2FvRDljVGJaOW1XX2NzSjAxZ1ZjUFZoVV95MGpTVGF5Q0FOblhrVmw3SmM?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-22T15:27:12+00:00",
+   "seen": "2026-11-22T16:53:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece reports a secret tribute to Tom Cruise’s Collateral found by a GTA 6 player."
+  },
+  {
    "id": "gta 6 s jason is inspired by steve mcqueen s character in the getaway",
    "title": "GTA 6’s Jason is Inspired by Steve McQueen’s Character in The Getaway",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUZPenZ1R2hjYUZ1RVBmc3NjaDNLYlN1UW1lOHRpOW1STUJvX0lhRmJYNmtKQko1VlcwempOMkpIbFBDVnVjQUZXRkFNQkRjY0MzdVdoV1Z4Z0N4UjQtZ2NILTJSM0xkUU1aQ2F1bmd0cDlmbVRIUEtCa1NhRjBmREptY3VQdmlWcFhNWGtXbDc0OTRV?oc=5",
@@ -1013,6 +1078,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A Fox News host joins a chorus of right-wing voices opposing GTA VI."
+  },
+  {
+   "id": "gta 6 sound4sound studio key valuable locations",
+   "title": "GTA 6: Sound4Sound Studio Key Valuable Locations",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GTHdSeWg3XzM5a1lNSk9TZHN4VERMc21zY3lXUzBlYURWOEZTVWJibkw2dFRsemhfVHpoS2ZkTnRBTm5icVJkUUNvUWpZbk9tMkd2WUpheGIzY05IaFc0aU5TQnE5aDJLTkRvOE1DMzRRVXJYNUNpeA?oc=5",
+   "outlet": "GameRant",
+   "via": "Google News",
+   "published": "2026-11-22T14:13:11+00:00",
+   "seen": "2026-11-22T16:53:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece highlights valuable locations for Sound4Sound Studio key items in GTA 6."
   },
   {
    "id": "gta vi pre order bonus now available to buy separately",
@@ -1572,6 +1650,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims Zara Larsson contributed to a 34-track GTA 6 album on November 20."
+  },
+  {
+   "id": "all the guardia brothers bases key valuables gta 6",
+   "title": "All The Guardia Brothers Bases Key Valuables GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRWG96SGhSWUVHLUV3MFJ3TWVPdTllb0hVV2Z0YTVUMGhRdjdhd0J0OVNhQnBkdDY3WldFaVg2aVFoUQ?oc=5",
+   "outlet": "YouTube",
+   "via": "Google News",
+   "published": "2026-11-22T12:55:31+00:00",
+   "seen": "2026-11-22T16:53:29+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The piece outlines Guardia Brothers bases and key valuables in GTA 6."
   },
   {
    "id": "miami heat nba game draws 95 new shoppers for gta vi launch",
