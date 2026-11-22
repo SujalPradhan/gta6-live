@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T13:22:26+00:00",
- "started": "2026-11-22T13:22:22+00:00",
+ "updated": "2026-11-22T13:27:28+00:00",
+ "started": "2026-11-22T13:27:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 92,
-   "checked": "2026-11-22T13:22:22+00:00"
+   "checked": "2026-11-22T13:27:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-22T13:22:23+00:00"
+   "checked": "2026-11-22T13:27:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 93,
-   "checked": "2026-11-22T13:22:23+00:00"
+   "checked": "2026-11-22T13:27:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T13:22:24+00:00"
+   "checked": "2026-11-22T13:27:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T13:22:24+00:00"
+   "checked": "2026-11-22T13:27:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T13:22:24+00:00"
+   "checked": "2026-11-22T13:27:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T13:22:25+00:00"
+   "checked": "2026-11-22T13:27:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T13:22:25+00:00"
+   "checked": "2026-11-22T13:27:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T13:22:25+00:00"
+   "checked": "2026-11-22T13:27:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T13:22:25+00:00"
+   "checked": "2026-11-22T13:27:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T13:22:26+00:00"
+   "checked": "2026-11-22T13:27:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T13:22:26+00:00"
+   "checked": "2026-11-22T13:27:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T13:22:26+00:00"
+   "checked": "2026-11-22T13:27:26+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T13:22:26+00:00"
+   "checked": "2026-11-22T13:27:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 how to fix hdr settings",
+   "title": "GTA 6: How to Fix HDR Settings",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCVlQxaE1ZazR5THF1aWU1c2luVkJTSUZSRDhZZ09LUGlyb2tvVjJ6aW9jaVBJR3JxTUlVME1WSWplX09zM0w4OGotR09VcUdONVp6RUpjck9WektodXpTOVdn?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-22T13:21:21+00:00",
+   "seen": "2026-11-22T13:27:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story presents a guide on fixing HDR settings for GTA 6."
+  },
   {
    "id": "how to find all skunk ape effigy tree locations in gta 6",
    "title": "How to Find All Skunk Ape Effigy Tree Locations in GTA 6",
