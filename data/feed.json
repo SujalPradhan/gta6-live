@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:55:34+00:00",
- "started": "2026-11-22T07:55:32+00:00",
+ "updated": "2026-11-22T08:00:50+00:00",
+ "started": "2026-11-22T08:00:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-22T07:55:32+00:00"
+   "hits": 94,
+   "checked": "2026-11-22T08:00:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-22T07:55:33+00:00"
+   "hits": 75,
+   "checked": "2026-11-22T08:00:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T07:55:33+00:00"
+   "checked": "2026-11-22T08:00:46+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T07:55:33+00:00"
+   "checked": "2026-11-22T08:00:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T07:55:33+00:00"
+   "checked": "2026-11-22T08:00:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T07:55:33+00:00"
+   "checked": "2026-11-22T08:00:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T07:55:34+00:00"
+   "checked": "2026-11-22T08:00:46+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T07:55:34+00:00"
+   "checked": "2026-11-22T08:00:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T07:55:34+00:00"
+   "checked": "2026-11-22T08:00:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T07:55:34+00:00"
+   "checked": "2026-11-22T08:00:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T07:55:34+00:00"
+   "checked": "2026-11-22T08:00:48+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T07:55:34+00:00"
+   "checked": "2026-11-22T08:00:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T07:55:34+00:00"
+   "checked": "2026-11-22T08:00:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T07:55:34+00:00"
+   "checked": "2026-11-22T08:00:48+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story claims GTA 6 sold 5 trillion won worth of copies on its first day and vacation requests are up 32%."
+  },
+  {
+   "id": "greek pm pitches adult rated gta 6 as christmas gift grandfathers and grandmothers rarely say no",
+   "title": "Greek PM pitches adult-rated GTA 6 as Christmas gift: ‘Grandfathers and grandmothers rarely say no’",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUDRHZ1d5Mi01cmVpRllYUzhDSTdLLUVYcGxLWGR4SmRCWjdEQnktaXFOVXg5bzlSaC1laDhvZHdGNFpaNTd1UVI5dENWWVp5dW42OTZPemI5eGdQOGpnQ0MydVJBcGdBZzFPMUxpaXRFS1ZkcVdQdHNIMFlZODVmUFF4OS1vSm82T1p5YVRJeFFOQndJN1lwSkYxa1Boa1ZEUnhkRjFfcEVLbThCbnBoWVZPdlY4MEhReXfSAcABQVVfeXFMT2FTd19ib09WazAtaGVzTUZPOERvTmptS3o4aC15UkQ4emR4YXdhdFB6NnlxUTFiZEpnUzZXY2lZWTREZV9wa2RjYW9wVlc1N29nUjhaY2FKQUxKa0taSHR4bUxUcWFpTmlVUWpEekNkT3ZWRGlPa0VfUEZaWk1ZM1ZhMWxOTVktZHU2WWp5a3ZVeHhzazVVNVE2WGg5VVh0b3d1am80OU9JODlhLTRjczNrcl9PaXlXR2lIZE5GZWdC?oc=5",
+   "outlet": "The Indian Express",
+   "via": "Google News",
+   "published": "2026-11-22T07:39:51+00:00",
+   "seen": "2026-11-22T08:00:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline claims the Greek prime minister pitches an adult-rated GTA 6 as a Christmas gift."
   },
   {
    "id": "gta 6 sets a comcast traffic record nearly a quarter of its network at peak",
