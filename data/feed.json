@@ -1,109 +1,148 @@
 {
- "updated": "2026-11-22T09:31:08+00:00",
- "started": "2026-11-22T09:31:02+00:00",
+ "updated": "2026-11-22T09:36:08+00:00",
+ "started": "2026-11-22T09:36:03+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-22T09:31:02+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 96,
+   "checked": "2026-11-22T09:36:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 85,
-   "checked": "2026-11-22T09:31:02+00:00"
+   "hits": 67,
+   "checked": "2026-11-22T09:36:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T09:31:03+00:00"
+   "checked": "2026-11-22T09:36:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T09:31:03+00:00"
+   "checked": "2026-11-22T09:36:04+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T09:31:03+00:00"
+   "checked": "2026-11-22T09:36:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T09:31:04+00:00"
+   "checked": "2026-11-22T09:36:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T09:31:04+00:00"
+   "checked": "2026-11-22T09:36:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T09:31:04+00:00"
+   "checked": "2026-11-22T09:36:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-22T09:31:04+00:00"
+   "checked": "2026-11-22T09:36:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T09:31:05+00:00"
+   "checked": "2026-11-22T09:36:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T09:31:05+00:00"
+   "checked": "2026-11-22T09:36:05+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T09:31:05+00:00"
+   "checked": "2026-11-22T09:36:05+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T09:31:05+00:00"
+   "checked": "2026-11-22T09:36:05+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T09:31:05+00:00"
+   "checked": "2026-11-22T09:36:05+00:00"
   }
  },
  "items": [
+  {
+   "id": "for all those who say gta 6 isn t much of an improvement over gta 5 writer ian",
+   "title": "For all those who say GTA 6 isn't much of an improvement over GTA 5... Writer: Ian",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBETU5QcXV0WU8zbDR1eXN1cXp0VHlaZmpfRmtXVk8zMmMwR29GNlEzM2xES1pGb0JrRVFRZ1V2RHVTSXVYSDVBMUstZ3hCeTkxQlNyZ3FGN2Q5eURvYk40ek1BV3V4TW00bzNhSQ?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-22T09:35:00+00:00",
+   "seen": "2026-11-22T09:36:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is being questioned as a significant improvement over GTA 5."
+  },
+  {
+   "id": "rockstar kept gta vi s 700 stores open 24 7 to avoid frustrating players",
+   "title": "Rockstar Kept GTA VI’s 700+ Stores Open 24/7 to Avoid Frustrating Players",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbndsU0VIMkdiYnl6cTdVY0ZWTGU0T3ltT3l4TzQ4clFFNVZrRTVtblB2ajluaXYzZWpHRDNybWxkZ3ZQZ1BuRzNvUjM4Qk4tMHNUTlJXV0Y3OFpNc2Z4dXRZWkxfNjlIWmdBVU5fTE15dTg1LWlPVEdFR2hWT1FDUzlNTkprcmRCb0ZFRDExUmgzcVNFengyQlhnQ1U?oc=5",
+   "outlet": "A 90s Kid",
+   "via": "Google News",
+   "published": "2026-11-22T09:25:12+00:00",
+   "seen": "2026-11-22T09:36:03+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI’s 700+ stores were kept open 24/7 to avoid frustrating players."
+  },
+  {
+   "id": "you can play gta 6 on a playstation portal but there is one important catch",
+   "title": "You can play GTA 6 on a PlayStation Portal, but there is one important catch",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZTXhxemc1aFhMS0FBbDJoWjFOWFFwODEtODAwdUtfci1IOWhtTjN1bWFMT1V1WlhiMW50ODVHTlhLRjhoQzlGME9jRkRyQ1NMSUctSVBrcXJUSUxmWWxiZ01QeFRaVDVPNjBLV2VHRzRxTEtBek5fcjIyS25ldw?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-22T09:23:21+00:00",
+   "seen": "2026-11-22T09:36:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 can be played on a PlayStation Portal, with one important catch."
+  },
   {
    "id": "gta 6 s review bombing row has now spread to zelda",
    "title": "GTA 6's review bombing row has now spread to Zelda",
@@ -3992,6 +4031,19 @@
    "ai_summary": "The story explains how to use auto drive in GTA 6."
   },
   {
+   "id": "gta 6 guide a full walkthrough of all our tips and advice on vice city systems",
+   "title": "GTA 6 guide: A full walkthrough of all our tips and advice on Vice City systems",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15SkZlSFJwOUdjR191YmVGdVhTM2NXZkthSjJRc3B6ZkR4LWJiUEFxa3RXLWlYUGNBd2tmdjN6MkZLMXZ1TzlMX2V5N015dHRtZ1BPOFp1UUEzUUZLd1d6UU5RX3NCY21WM2VV?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-21T16:49:25+00:00",
+   "seen": "2026-11-22T09:36:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a complete GTA 6 guide with tips and advice on Vice City systems."
+  },
+  {
    "id": "gta vi breaks entertainment launch record with 3 79 billion in day one sales",
    "title": "GTA VI Breaks Entertainment Launch Record With $3.79 Billion in Day-One Sales",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jc2NiUmRSQS1kRjJXUkdCeHMxeEx1dHNjWXp1Z2h5QUZpXzRWLW56LXJoRkdtWDlTc1oyUEtWdzV3c2psVnNOazQtUWp6ZGxOeTVoM1RDdFAwZHlDSFJQTHBCS3RNcEt5dUtrc0Y3NTgwUQ?oc=5",
@@ -7500,6 +7552,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 receives over two thousand negative Metacritic reviews despite a record preorder launch of 32.5 million."
+  },
+  {
+   "id": "gta 6 is getting review bombed as user score rating drops",
+   "title": "GTA 6 is getting review-bombed as User Score rating drops",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HdkxGd0hxcEc2VTZ4X1dwaFRrdFRBekc0dFNQZ0luMkVxdFY1ZVdKOGFnQkFFUUI0RVZUNnpVWGNGVWNXbGlvYkpwRGF4d0wtdjQ3M0JwSFVsV3kteEU0Vy1OdDRzU2ZZaUl3Z1B4azdlbnVT?oc=5",
+   "outlet": "Khel Now",
+   "via": "Google News",
+   "published": "2026-11-21T09:45:00+00:00",
+   "seen": "2026-11-22T09:36:04+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is receiving a review-bomb as the user score rating drops."
   },
   {
    "id": "gta 6 pc gamers welcome unofficial pc port despite potential damage to the industry",
