@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-22T10:01:42+00:00",
- "started": "2026-11-22T10:01:21+00:00",
+ "updated": "2026-11-22T10:06:21+00:00",
+ "started": "2026-11-22T10:06:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T10:01:30+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 96,
+   "checked": "2026-11-22T10:06:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-22T10:01:37+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 62,
+   "checked": "2026-11-22T10:06:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-22T10:01:37+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-22T10:06:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T10:01:38+00:00"
+   "checked": "2026-11-22T10:06:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T10:01:38+00:00"
+   "checked": "2026-11-22T10:06:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-22T10:01:38+00:00"
+   "checked": "2026-11-22T10:06:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T10:01:38+00:00"
+   "checked": "2026-11-22T10:06:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T10:01:38+00:00"
+   "checked": "2026-11-22T10:06:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-22T10:01:38+00:00"
+   "checked": "2026-11-22T10:06:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T10:01:39+00:00"
+   "checked": "2026-11-22T10:06:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T10:01:39+00:00"
+   "checked": "2026-11-22T10:06:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T10:01:39+00:00"
+   "checked": "2026-11-22T10:06:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T10:01:39+00:00"
+   "checked": "2026-11-22T10:06:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T10:01:39+00:00"
+   "checked": "2026-11-22T10:06:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 brings amd fsr 4 1 to consoles first on xbox series s",
+   "title": "GTA 6 Brings AMD FSR 4.1 to Consoles First on Xbox Series S",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGJzMGY5Q0w5Z2x4ZUEyMDFtcTZhTUVPN3R3RzluT1k1czhCWHpYVW0zNlVKYTlsNVhYUUxDLVpEUmF6REhmcGRMcVdiVmFmOE9lSVctMDdnVTcwMExwd09Kb0NBS3FWVlBYSG1PUWlDV3RBRkpsNlRwZHZOSndMTkhTUFNVaUgydXdZXw?oc=5",
+   "outlet": "A 90s Kid",
+   "via": "Google News",
+   "published": "2026-11-22T10:02:38+00:00",
+   "seen": "2026-11-22T10:06:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 brings AMD FSR 4.1 to consoles first on Xbox Series S."
+  },
+  {
+   "id": "i m playing grand theft auto vi for the outfits of course",
+   "title": "I’m playing Grand Theft Auto VI for the outfits, of course",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95WGoxNGFDRVdJaTVaV0hLdnprUTRpMlNUa3drRUM5Mmd2NEdhSW5DWEh6LUhSN20tTzl5TVVfYUxsWlF0LTd3djNYd3RHLWVMLXhPc1h2UFl4T3V3cFdDZjhsUll4LWZoNm5hZzdudUtGVlRuMHBF?oc=5",
+   "outlet": "Vogue Adria",
+   "via": "Google News",
+   "published": "2026-11-22T10:00:15+00:00",
+   "seen": "2026-11-22T10:06:17+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story notes that the person is playing Grand Theft Auto VI for the outfits, of course."
+  },
   {
    "id": "it stayed alive for so long behind the wheel with the last riders saying goodbye to gta online amidst gta 6 s world changing launch",
    "title": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
@@ -116,6 +142,32 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story discusses saying goodbye to GTA Online from the Last Riders, as GTA 6's world-changing launch unfolds."
+  },
+  {
+   "id": "how a piece of detroit ended up inside gta vi",
+   "title": "How a piece of Detroit ended up inside GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEs3VjVsMUhCVU1sX09CS3FTaDA5QjRuMS1Ja3NtX0ZjczRZd2NaakhSSmI0WDhadTZYMWkzNC0xX0Z6M3VqdXJNV3JqYkg4aEZ3bHFOQ0pPdm1ZSXFTakVpR2U1SmxOZjhkV24tWlBCSy1qWVZyS2xJajFWSi1CX2JiYnFjZkN0eFpEd1ZKSllZSHZGWUtUWjNYRmZlbk1k?oc=5",
+   "outlet": "ClickOnDetroit | WDIV Local 4",
+   "via": "Google News",
+   "published": "2026-11-22T10:00:00+00:00",
+   "seen": "2026-11-22T10:06:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how a piece of Detroit ended up inside GTA VI."
+  },
+  {
+   "id": "he streamed for 685 days with just 28 viewers then gta 6 offered him a rs 1 crore job",
+   "title": "He Streamed For 685 Days With Just 28 Viewers. Then GTA 6 Offered Him A Rs 1 Crore Job",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMFZzQ25ZOHJiZ3VXLWtVN1BLNXFhRFU3SFdhcjE3blBDOTF3Z1BkUVJEMEZWUktRSDZibXhZcHl5dU83OXg4LVhtLXpaR2tNaHpyNUkxcGtmT1FCWkZSYk1FSWUxYlJJMmhRVDd4dl9mTFRrUlVWNERiZ241R1hOcEpibGxzWlZtSU0yclBNNENXNkhBUUUwNEJOVGJLbmgzVHNiMF9ZOXloNEVJbTc4NVpWdVpOaEQ1cWpobVpfZDJubDcyYU1WaTIzS090Z2g0c05OMXNDMnpjaEQx0gHiAUFVX3lxTE9FdE9oZWpZRnpVYWVxX1pnNEcxaHJXbjMyXzh0NE9fcmxGajhlMDl1UDcwR1hLYzREcERUQ1diMVBMYmtwUXZjTVVCcDVKMnRwZkQ4eE1CRzloV1oyRnl1SUtIa09mWnp3ZWxyOUszc3MydGxkZkpGd3NBa25ZS2lFckRRM19rZVM4cWRrb09kVjNIVk9NM3VoZzJpa2xUTjY5MnJ4UGY4eXAzZ1pxSzJ0NmFrbjIzTUNMalppdzVBcFFLTWw2azU1aWhnLTBxM05PdDc4d2tJMGpVb3NDbjRPVkE?oc=5",
+   "outlet": "Asianet Newsable",
+   "via": "Google News",
+   "published": "2026-11-22T09:59:34+00:00",
+   "seen": "2026-11-22T10:06:18+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story states a streamer with long daily effort received a high-value job offer tied to GTA 6."
   },
   {
    "id": "this is how to get an insane rolls royce in gta 6 good luck not getting jacked in that though writer ian",
