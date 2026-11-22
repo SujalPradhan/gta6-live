@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:53:40+00:00",
- "started": "2026-11-22T01:53:36+00:00",
+ "updated": "2026-11-22T01:58:44+00:00",
+ "started": "2026-11-22T01:58:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-22T01:53:37+00:00"
+   "hits": 99,
+   "checked": "2026-11-22T01:58:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 95,
-   "checked": "2026-11-22T01:53:37+00:00"
+   "checked": "2026-11-22T01:58:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-22T01:53:38+00:00"
+   "hits": 97,
+   "checked": "2026-11-22T01:58:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T01:53:38+00:00"
+   "checked": "2026-11-22T01:58:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T01:53:38+00:00"
+   "checked": "2026-11-22T01:58:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T01:53:38+00:00"
+   "checked": "2026-11-22T01:58:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T01:53:39+00:00"
+   "checked": "2026-11-22T01:58:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T01:53:39+00:00"
+   "checked": "2026-11-22T01:58:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T01:53:39+00:00"
+   "checked": "2026-11-22T01:58:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T01:53:39+00:00"
+   "checked": "2026-11-22T01:58:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T01:53:39+00:00"
+   "checked": "2026-11-22T01:58:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T01:53:39+00:00"
+   "checked": "2026-11-22T01:58:42+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T01:53:40+00:00"
+   "checked": "2026-11-22T01:58:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T01:53:40+00:00"
+   "checked": "2026-11-22T01:58:42+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 trust trophy guide finish breakfast run to earn it plus what comes next",
+   "title": "GTA 6 Trust trophy guide: finish Breakfast Run to earn it, plus what comes next",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUFZlUHZDNlJnN1VOU0ZxU1pEdEVGRUVNNkFKYW50UUlDT0kxQmNzMmFzUmlfaENjcUF2dGczdWtLazJMdGRHd2dQRzlnMFc5Zk14TEp0YVpyRHBmTnJ4bk8tQU5rSGRxNThJdmZNYmh0VzhCSUFFMTJ4Q2M0a1pKajB5b0JXaEVmZG4ySi1UanVZSUpHTmRTWUdiQWlZUQ?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-22T01:51:40+00:00",
+   "seen": "2026-11-22T01:58:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims a GTA 6 Trust trophy guide explains finishing Breakfast Run to earn it and what comes next."
+  },
   {
    "id": "naughty dog dev says gta 6 is like a bugatti veyron to a nervous victorian child",
    "title": "Naughty Dog Dev Says GTA 6 Is Like a 'Bugatti Veyron to a Nervous Victorian Child'",
