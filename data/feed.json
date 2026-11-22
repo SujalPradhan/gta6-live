@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T20:39:39+00:00",
- "started": "2026-11-22T20:39:32+00:00",
+ "updated": "2026-11-22T20:44:44+00:00",
+ "started": "2026-11-22T20:44:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T20:39:32+00:00"
+   "checked": "2026-11-22T20:44:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-22T20:39:33+00:00"
+   "checked": "2026-11-22T20:44:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 70,
-   "checked": "2026-11-22T20:39:33+00:00"
+   "hits": 89,
+   "checked": "2026-11-22T20:44:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T20:39:33+00:00"
+   "checked": "2026-11-22T20:44:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T20:39:34+00:00"
+   "checked": "2026-11-22T20:44:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T20:39:34+00:00"
+   "checked": "2026-11-22T20:44:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T20:39:34+00:00"
+   "checked": "2026-11-22T20:44:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T20:39:34+00:00"
+   "checked": "2026-11-22T20:44:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T20:39:35+00:00"
+   "checked": "2026-11-22T20:44:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T20:39:35+00:00"
+   "checked": "2026-11-22T20:44:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T20:39:36+00:00"
+   "checked": "2026-11-22T20:44:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T20:39:36+00:00"
+   "checked": "2026-11-22T20:44:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T20:39:36+00:00"
+   "checked": "2026-11-22T20:44:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T20:39:36+00:00"
+   "checked": "2026-11-22T20:44:42+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 skunk ape questline walkthrough all effigy locations and choices",
+   "title": "GTA 6 Skunk Ape questline walkthrough: All effigy locations and choices",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-and-choices/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-22T20:44:10+00:00",
+   "seen": "2026-11-22T20:44:40+00:00",
+   "summary": "How to start and complete the Skunk Ape questline in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to start and complete the Skunk Ape questline in GTA 6."
+  },
   {
    "id": "gta 6 locks cheats behind the story and using them disables saving",
    "title": "GTA 6 locks cheats behind the story, and using them disables saving",
@@ -116,6 +129,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims GTA 6 requires a story unlock for cheats, and using cheats disables saving."
+  },
+  {
+   "id": "it s better not to do it than to do it and have it not be good enough gta 6 cut darts because rockstar says it didn t have unlimited money o",
+   "title": "'It's Better Not to Do It Than to Do It and Have It Not Be Good Enough' — GTA 6 Cut Darts Because Rockstar Says It Didn't Have 'Unlimited Money or Time' to Make It Perfect",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZVZsTTFDM1NudkdoX1VqdWplNHI4ZkVpcWZQT0VDRzBlSFRIRmJhUHZUNFBqWlBDdG04YzdyYjcxQlE4TG5ka19FZWo4bFJQUW10NnoyUFFOTXNvbUQ1ODBBZERqMldSeTFNYjczSzZpZXBwZkVtNGh2UUVTbDRWaWhPZ3Q4Y3A5S3c2TTZwdndOSFVVUExrVXYxd3J6U1FSNWRCSTdTQzFXOHFZYXlKM3hiVUN1TjJtS2hPZGNWdzlpMTh4OFBRWThkX1A5dkZ5WVJB?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-22T20:38:22+00:00",
+   "seen": "2026-11-22T20:44:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article quotes Rockstar saying it chose not to rush development because there wasn’t unlimited money or time to make it perfect."
+  },
+  {
+   "id": "gta 6 s t shirts are true works of art",
+   "title": "GTA 6's T-shirts Are True Works of Art",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ER3RTLTBmTnV5blVXODJJZVlwd1pJcEJhVm5TWU00dmhfaEZJTTB4R2FsUTNfbkZraHVJZjJRMEJtRjctUU9CUlhMSHNXR2RN?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-22T20:30:17+00:00",
+   "seen": "2026-11-22T20:44:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece claims GTA 6's T-shirts are true works of art."
   },
   {
    "id": "gta 6 reviews are a near perfect 99 out of 100 on metacritic",
@@ -324,6 +363,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims the key valuable locations of a major robbery at the Kamar Devon Community Center."
+  },
+  {
+   "id": "grand theft without auto shashi tharoor s dig at modi government s 2016 demonetisation over gta 6 watc",
+   "title": "'Grand theft without auto': Shashi Tharoor's dig at Modi government's 2016 demonetisation over GTA 6. Watc",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNDYxMUVUNmZpd3Y2MDVoQ0NseFBKeGFpbFpodzJ3WldVUWo4bGMxX2NQaHNsYzhqSFdpcmNfMEl0ZVFCMkZnMmxLX2Jla0JRWUdIZ2NBNEppelpfeWFzZU1OcHFuUF9RbjllVUxLbURZcEp3NVVaNnVMY2xzWVZEeTZKMzN1dklBS3ZjUUIyeWRqY0tOUU9Zdy1hdGQ3VWtMdHA3S185VzlEbGZZTG9EdXBCTzJvSUNWcjlrMWQtb1pSQXlscXZ5bXFKUFpJck1pUzM5UU9BMFUwcnZOUTdYM0YwS0xpdWcySFhwSUZxbDJLcUVqbDhiRFdhcGhwb1h1WDZ6YURaVDNPUdIBjwJBVV95cUxNamM0bnYzUHdfZ0IxUGF6NEtkOWswazNzQXNvbWRvV0FUYTJDNFhvSUpoQ0prZV84YmxQRDRKQjB6MUFIa2VGMTZYN3U5WXBOS3dRZzVFYzcydTc2NERma05qNFlJZnZnWWc3UGZXNm1RTlpUanVUMVkyS2VmY01DNXkteDZXYXdLSlhZR3RIZFhYblVFX2NpMGVmbEJJVjlBUGg3RWFIMHVhdk5IOURFcS1TcFRUQXE2cHVLeHhwdlM2NjNjZUhHQkpSbWI1UTNvMFJpdWgycEJhTkFENFFfcjd4YXlyZXZjX1FhWlcyZzM1ZzVUR1BYUlp0bGhxVURlMDQtVEZFZnRIeUR5b2xn?oc=5",
+   "outlet": "The Economic Times",
+   "via": "Google News",
+   "published": "2026-11-22T19:12:40+00:00",
+   "seen": "2026-11-22T20:44:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The column references Shashi Tharoor criticizing the 2016 demonetisation, in relation to GTA 6."
   },
   {
    "id": "where to find bank security armored trucks in gta 6",
