@@ -1,109 +1,174 @@
 {
- "updated": "2026-11-22T13:02:25+00:00",
- "started": "2026-11-22T13:02:19+00:00",
+ "updated": "2026-11-22T13:07:22+00:00",
+ "started": "2026-11-22T13:07:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-22T13:02:19+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 92,
+   "checked": "2026-11-22T13:07:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-22T13:02:20+00:00"
+   "hits": 59,
+   "checked": "2026-11-22T13:07:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T13:02:20+00:00"
+   "checked": "2026-11-22T13:07:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T13:02:20+00:00"
+   "checked": "2026-11-22T13:07:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T13:02:21+00:00"
+   "checked": "2026-11-22T13:07:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T13:02:21+00:00"
+   "checked": "2026-11-22T13:07:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T13:02:21+00:00"
+   "checked": "2026-11-22T13:07:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T13:02:21+00:00"
+   "checked": "2026-11-22T13:07:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T13:02:22+00:00"
+   "checked": "2026-11-22T13:07:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T13:02:22+00:00"
+   "checked": "2026-11-22T13:07:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T13:02:22+00:00"
+   "checked": "2026-11-22T13:07:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T13:02:23+00:00"
+   "checked": "2026-11-22T13:07:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T13:02:23+00:00"
+   "checked": "2026-11-22T13:07:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T13:02:23+00:00"
+   "checked": "2026-11-22T13:07:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to get a gta 6 rhino tank and become virtually indestructible",
+   "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-22T13:04:45+00:00",
+   "seen": "2026-11-22T13:07:19+00:00",
+   "summary": "There are rows of GTA 6 tanks waiting to be liberated right from the start of the game, to earn the Challenging Tank award",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 tanks can be liberated from the start to earn the Challenging Tank award."
+  },
+  {
+   "id": "it only took 24 hours for gta 6 to beat avengers endgame s lifetime box office hip hop wired",
+   "title": "It Only Took 24 Hours For ‘GTA 6’ To Beat ‘Avengers: Endgame’s Lifetime Box Office - Hip-Hop Wired",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWmtLdW1WRjQ4ZVBKWEJTUE0wOEZLWW9xMjNFMWVPV1lwWk4tYlFqdHBfd2kwY21ubXhiaHpkQkcxNkVWNXBKdm13RnhMV3lqS0ZRZ0wydExNcmhfVW5GOHRPZjN0aVgzcDdRb0tMS2pQZE5zMVI5dlZLRVZSd2RFWHl4bFlkTExXV05UQ2UxdXBRN0puODExRXktcTFTaUx5dnhEWmgyZEFQb1BEcFc0?oc=5",
+   "outlet": "Hip-Hop Wired",
+   "via": "Google News",
+   "published": "2026-11-22T13:02:29+00:00",
+   "seen": "2026-11-22T13:07:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 beat Avengers: Endgame’s lifetime box office in twenty-four hours according to Hip-Hop Wired."
+  },
+  {
+   "id": "gta 6 makes it nearly impossible to play without killing anyone",
+   "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvY1hfc2M5ZzNDVzkxa1J1V1BzWE9CSzVvcXBVdDlDTlBwVE1TVkJLc0RqcWpwc0laZWlTZnkwSVlqN01CTGRZSEFrWVpiZkJqZVVfSHlkV2hSRllvUDhUbUVDX3FKZw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-22T13:00:17+00:00",
+   "seen": "2026-11-22T13:07:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 makes it nearly impossible to play without killing anyone."
+  },
+  {
+   "id": "gta 6 just can t stop breaking records it seems",
+   "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWF2SUc5TzBrUWZoVEktTEFtYUhLU3pUeXhUVzJDZm5vcnR0RlFvZEptdjVRV1RpVVktUUI3bGZNV1VJeC1aUmhkN1JjcnhZX0psRHBpQ0lEOVp6Z1VyejNGOUFJRGgya2JkMDB6QmZEWEY2YzZDd3E3LS1GQ1FzY0hKUkItZlFxdk56aVd6WQ?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-22T13:00:00+00:00",
+   "seen": "2026-11-22T13:07:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 continues to break records according to Push Square."
+  },
+  {
+   "id": "how to steal cars without setting off alarms in gta 6",
+   "title": "How to Steal Cars Without Setting Off Alarms in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlQWTJXWVdVVHhwanBZM1g3RVBNeTRiQ3Y1NHR2a1RHaWFhTFkzclNZbFFRVUpWRWF4Rm43aFdKSjk3TlZQUWZFa3kzbmlzWE9zOFZhQjhtVmxsQmNnbDdRX3Q3d21UWlZXRE94OFJHSHNWekFxQVVFQ1hNcE9zdGdMMHRLc3ZR?oc=5",
+   "outlet": "GameTyrant",
+   "via": "Google News",
+   "published": "2026-11-22T13:00:00+00:00",
+   "seen": "2026-11-22T13:07:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a method for stealing cars in GTA 6 without setting off alarms."
+  },
   {
    "id": "how to find backyard wrestling in gta 6 location luchador mask and more",
    "title": "How to Find Backyard Wrestling in GTA 6—Location, Luchador Mask and More",
