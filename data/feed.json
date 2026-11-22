@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:40:21+00:00",
- "started": "2026-11-22T06:40:16+00:00",
+ "updated": "2026-11-22T06:45:14+00:00",
+ "started": "2026-11-22T06:45:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 93,
-   "checked": "2026-11-22T06:40:16+00:00"
+   "checked": "2026-11-22T06:45:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 78,
-   "checked": "2026-11-22T06:40:16+00:00"
+   "hits": 77,
+   "checked": "2026-11-22T06:45:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-22T06:40:17+00:00"
+   "hits": 96,
+   "checked": "2026-11-22T06:45:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T06:40:17+00:00"
+   "checked": "2026-11-22T06:45:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T06:40:18+00:00"
+   "checked": "2026-11-22T06:45:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-22T06:40:18+00:00"
+   "checked": "2026-11-22T06:45:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-22T06:40:18+00:00"
+   "checked": "2026-11-22T06:45:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T06:40:18+00:00"
+   "checked": "2026-11-22T06:45:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-22T06:40:18+00:00"
+   "checked": "2026-11-22T06:45:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T06:40:19+00:00"
+   "checked": "2026-11-22T06:45:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-22T06:40:19+00:00"
+   "checked": "2026-11-22T06:45:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T06:40:19+00:00"
+   "checked": "2026-11-22T06:45:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T06:40:19+00:00"
+   "checked": "2026-11-22T06:45:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T06:40:19+00:00"
+   "checked": "2026-11-22T06:45:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "28 viewers 35 000 rivals and a 92 lakh gta 6 job meet cliff savage the man who landed the dream gig",
+   "title": "28 viewers, 35,000 rivals and a ₹92 lakh GTA 6 job: Meet Cliff Savage, the man who landed the dream gig",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbWRqM1NPZFIxMWhuNHp0cmxkQlQ4dlJZVjA1dU9nS09FNzROcWhFLV9hdG9hSmtLS0tCSmV6b3RWVUVOZEUwemozUTBVeEJGY0lJTnJhTm5ZWktTNm0zU1pkQWc1WHA3TFVaMnhmVnFyRXQ5ZFEwLXNYYXM2aFpVWTkxTGl3OFp5VnVETFM1QzA0eEpaR0ZIOVdfMzhnNGdLQTJGNkZVNHJWaFVYOUhrQVhNdzJzNm5FMDZPWEp4bmY4Z3NWOVFtbTdjMWNpcGxmYUtrTGZfaUt6Q04xMkxVUkYxQ0FJOHltQU04NlVROVrSAfYBQVVfeXFMTVg4bHE3eTl5OGlJUjR3YnAtNTBsQW5najVaM3U1aWszYnp1MEFPMFpHa0hOUlN5cHNGRkNTWHRLT05KS3lFbWZxTEtGZWU2XzVjTXcwZDBpSjZkbVpIMmI2a2dndzJ5NTA5cTdPUTVQMm10MnVQLUVMeC1IaXpXOXl2VE1IMk94M0RjMFUwVFNIalk0TUxaeERkMzJFdVN6b0tDYmxUUzNhbGpzNVZHZzlRX2hPWXNPLWRPRzg3NWNOM3VteVUzcFRrdWl4U3Y1ZTVMbXlraVE5bzVUMlhTMzdyc0lCWjBBR21fZVRneG5MbGFhVkJR?oc=5",
+   "outlet": "Business Today",
+   "via": "Google News",
+   "published": "2026-11-22T06:26:27+00:00",
+   "seen": "2026-11-22T06:45:11+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story presents Cliff Savage landing a dream GTA 6 job with many viewers and rivals mentioned in the headline."
+  },
   {
    "id": "gta 6 day 4 live updates news fixes best clips and guides",
    "title": "GTA 6 Day 4 Live Updates: News, Fixes, Best Clips and Guides",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story provides live updates, fixes, clips, and guides for GTA 6."
+  },
+  {
+   "id": "made 5 trillion won in one day after release gta 6 s record breaking success after 13 years of waiting",
+   "title": "“Made 5 Trillion Won in One Day After Release”... GTA 6’s Record-Breaking Success After 13 Years of Waiting",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLVmsyQ3RoSHg2clVOb1pjcHBkeHJxczd1U0Z6ekF5bmMtQ0FndGdNX3Awa2RydG5JSkNJNHk3ME5heHZVaEhvY2RRZjJtaDBBZkxCMmE5MUI?oc=5",
+   "outlet": "파이낸셜뉴스",
+   "via": "Google News",
+   "published": "2026-11-22T06:21:02+00:00",
+   "seen": "2026-11-22T06:45:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 achieved record-breaking success after a long wait, totaling a massive one-day revenue in the headline."
   },
   {
    "id": "take two estimates gta vi hit 3 79 billion in day one retail sales",
