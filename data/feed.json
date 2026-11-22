@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T18:23:58+00:00",
- "started": "2026-11-22T18:23:53+00:00",
+ "updated": "2026-11-22T18:29:00+00:00",
+ "started": "2026-11-22T18:28:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T18:23:53+00:00"
+   "checked": "2026-11-22T18:28:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-22T18:23:53+00:00"
+   "hits": 42,
+   "checked": "2026-11-22T18:28:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 77,
-   "checked": "2026-11-22T18:23:54+00:00"
+   "checked": "2026-11-22T18:28:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T18:23:54+00:00"
+   "checked": "2026-11-22T18:28:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T18:23:54+00:00"
+   "checked": "2026-11-22T18:28:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T18:23:54+00:00"
+   "checked": "2026-11-22T18:28:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T18:23:55+00:00"
+   "checked": "2026-11-22T18:28:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T18:23:55+00:00"
+   "checked": "2026-11-22T18:28:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-22T18:23:55+00:00"
+   "checked": "2026-11-22T18:28:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T18:23:55+00:00"
+   "checked": "2026-11-22T18:28:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T18:23:55+00:00"
+   "checked": "2026-11-22T18:28:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T18:23:55+00:00"
+   "checked": "2026-11-22T18:28:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T18:23:56+00:00"
+   "checked": "2026-11-22T18:28:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T18:23:56+00:00"
+   "checked": "2026-11-22T18:28:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 full alien ufo questline walkthrough",
+   "title": "GTA 6: Full Alien UFO questline walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-full-alien-ufo-questline-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-22T18:25:15+00:00",
+   "seen": "2026-11-22T18:28:56+00:00",
+   "summary": "How to unlock and complete the alien UFO easter egg questline in Grand Theft Auto 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on how to unlock and complete the alien UFO easter egg questline in Grand Theft Auto 6."
+  },
+  {
+   "id": "gta 6 sex scenes took thought and iteration rockstar says",
+   "title": "GTA 6 Sex Scenes Took Thought and Iteration, Rockstar Says",
+   "link": "https://insider-gaming.com/gta-6-sex-romance-rockstar-explained/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-22T18:24:56+00:00",
+   "seen": "2026-11-22T18:28:57+00:00",
+   "summary": "Rockstar’s Mark Tennant explains why GTA 6’s intimacy animations balance choice, partner responses, and Jason and Lucia’s relationship. The post GTA 6 Sex Scenes Took Thought and Iteration, Rockstar Says appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Rockstar says GTA 6’s intimacy animations involve thought and iteration balancing choice, partner responses, and character relationships."
+  },
   {
    "id": "rockstar says jason s viral personality in gta 6 comes from steve mcqueen and real life veterans",
    "title": "Rockstar Says Jason's Viral Personality in GTA 6 Comes From Steve McQueen and Real-Life Veterans",
@@ -181,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece discusses how GTA 5 influenced GTA 6, including world design and bringing Los Santos to life."
+  },
+  {
+   "id": "south florida dirt miami real estate on display in grand theft auto 6",
+   "title": "South Florida Dirt: Miami real estate on display in Grand Theft Auto 6",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNTVOdTRvUDUwRG8tNUZPMC1uamtLa1UxSWVwRFFoeGhBYjFiZU15WTk5ZWhZc3lDUzVVLXlidHlGdVVRd2RjcDZkM2JXYVhRSTBMLVI4NlFBMTZEcGJEVEc0QmFLck1zWFRyUnI1bjRsUHhPM3YyMVQxWjlWZzlEZ0tJUkZsWWVOX205QUlYRlpoZ25qeUFsOU9n?oc=5",
+   "outlet": "The Real Deal",
+   "via": "Google News",
+   "published": "2026-11-22T18:00:00+00:00",
+   "seen": "2026-11-22T18:28:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Miami real estate in Grand Theft Auto 6 is showcased in South Florida Dirt."
   },
   {
    "id": "where to find the ascot paragon car in gta 6 randy s wishlist car locations",
