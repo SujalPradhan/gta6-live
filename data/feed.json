@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T11:57:02+00:00",
- "started": "2026-11-22T11:56:56+00:00",
+ "updated": "2026-11-22T12:02:06+00:00",
+ "started": "2026-11-22T12:02:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-22T11:56:57+00:00"
+   "hits": 96,
+   "checked": "2026-11-22T12:02:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-22T11:56:57+00:00"
+   "hits": 61,
+   "checked": "2026-11-22T12:02:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T11:56:58+00:00"
+   "checked": "2026-11-22T12:02:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T11:56:58+00:00"
+   "checked": "2026-11-22T12:02:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T11:56:58+00:00"
+   "checked": "2026-11-22T12:02:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-22T11:56:58+00:00"
+   "checked": "2026-11-22T12:02:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-22T11:56:58+00:00"
+   "checked": "2026-11-22T12:02:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T11:56:59+00:00"
+   "checked": "2026-11-22T12:02:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-22T11:56:59+00:00"
+   "hits": 4,
+   "checked": "2026-11-22T12:02:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T11:56:59+00:00"
+   "checked": "2026-11-22T12:02:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-22T11:56:59+00:00"
+   "hits": 13,
+   "checked": "2026-11-22T12:02:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T11:56:59+00:00"
+   "checked": "2026-11-22T12:02:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T11:56:59+00:00"
+   "checked": "2026-11-22T12:02:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T11:56:59+00:00"
+   "checked": "2026-11-22T12:02:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is hiding two secret radio stations that you need to discover before you can listen to them",
+   "title": "GTA 6 is hiding two secret radio stations that you need to discover before you can listen to them",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2IzQTg1UEZWXzZpTC15ZFp3RHdudHhDZjJMZmotdHhLR29mN1JHUzlEdDM4Wk02aXpMS0NDdEw1SVhQc1ExRldCVGc4S01RdUdHWVpLelVPcFJMb0pIdGYyT1dWLUVjUGpPbnlyUkVETGpJWTZTX05JVl9kdlJRYkYzMl9GamdJZkE2R3k1WGE5NFFQ?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-22T12:00:00+00:00",
+   "seen": "2026-11-22T12:02:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is hiding two secret radio stations that you need to discover before you can listen to them."
+  },
   {
    "id": "gta 6 catch me if you can trophy guide",
    "title": "GTA 6: Catch Me If You Can Trophy Guide",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A story about a person who attempted to steal a boat in GTA VI and was dragged, described as not his finest moment."
+  },
+  {
+   "id": "gta 6 creates history beats avengers endgame",
+   "title": "GTA 6 Creates History; Beats Avengers: Endgame",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjVzd09hc0hCTXBTcXRrd0s2a3gwX09CbHg2cFE1bDVyYzhmaEl6X2RPMGtaUVFLazkyRG9vcnRJQ3lIVnFaNWxhYk5CUXdMcDItV18tNzVJaWxGVEp4QW5mM01tbXdWOUVxYjZwbzZ5WV90NnZQVG43OFlFc3h1SlNKMnRveXV5RFV5YUduZHp4QdIBlwFBVV95cUxNdWtIanp6Zm1JRzRTZjNWcUFGQldhVkJLVEtrVGdncmEtT0lUeVlESnlxajN3ellKOXhsY2FsNTV6azJXbDhaUEFyeUFGQXJ3N2lONDl5dFdTZjlWbnBFdGVnUEFrelVPTldiQlh1TWdTN2NsaGQ5MkttbW44V04tdU9Zem11cjB0ektGRGluNjVmM283X3lz?oc=5",
+   "outlet": "Tupaki English",
+   "via": "Google News",
+   "published": "2026-11-22T11:40:52+00:00",
+   "seen": "2026-11-22T12:02:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 creates history by beating Avengers: Endgame."
   },
   {
    "id": "gta 6 pc version gets official release date update",
@@ -729,6 +755,19 @@
    "ai_summary": "The story reports that GTA 6 breaks records with a $3.79B opening day."
   },
   {
+   "id": "sunrise rv park all key valuables gta 6",
+   "title": "Sunrise RV Park All Key Valuables GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1kVENjRHVkVmVoVmQtY0R6OV9mVy1WWGVpOHB1VGNNVHB6YS04aHZnaTFjVXh3a3JKcW83TzlmaGF1dw?oc=5",
+   "outlet": "YouTube",
+   "via": "Google News",
+   "published": "2026-11-22T09:08:02+00:00",
+   "seen": "2026-11-22T12:02:00+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports about Sunrise RV Park all key valuables in GTA 6."
+  },
+  {
    "id": "hamilton gamers waited 13 years for grand theft auto vi one fan even took a day off work",
    "title": "Hamilton gamers waited 13 years for Grand Theft Auto VI. One fan even took a day off work",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVJmMHp0TmhwVnJtNTFqUVlRdWZlUlNPcm1YTWx3LWlvbGxaWlgwRkNTSzBsbGE1blRZVWJnNVdKa0Q3bS1WSXBoakxDUDVrQnd5UFRqeVNVVWZKeVhrUnFHWDZKTWNDbjd2NDRpNGF6SnRDX2M3TnpiSTlYQ3lIcjZmbld4NkpKd0VrMTJjOHc?oc=5",
@@ -1091,6 +1130,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story claims GTA 6 achieved record-breaking success after a long wait, totaling a massive one-day revenue in the headline."
+  },
+  {
+   "id": "grand theft auto vi firm fights union busting claim",
+   "title": "Grand Theft Auto VI firm fights union-busting claim",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRklqVHkxRDFuZGJDNGx5azV5SkR6RGpfM2JjU00zRjFXWTVMbHJrYVZYWG5DUmw4VTdnQ0dIWk9qTnd4YkZJN1pwQnM1eFVxUTkzbjlFQ21XaEtTV3FEN2pMNVppZVlZeXJ2ZHlpdEZaUWRaTVpSWkZhS2tPY0g5M1MzZ09GS1BDdWhWQ1hnM1lYOUs5QjZvR3hkYW4?oc=5",
+   "outlet": "The Observer",
+   "via": "Google News",
+   "published": "2026-11-22T06:15:02+00:00",
+   "seen": "2026-11-22T12:02:00+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI firm fights a union-busting claim."
   },
   {
    "id": "take two estimates gta vi hit 3 79 billion in day one retail sales",
