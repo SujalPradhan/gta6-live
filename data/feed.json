@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T17:13:42+00:00",
- "started": "2026-11-22T17:13:36+00:00",
+ "updated": "2026-11-22T17:18:42+00:00",
+ "started": "2026-11-22T17:18:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-22T17:13:36+00:00"
+   "checked": "2026-11-22T17:18:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-22T17:13:36+00:00"
+   "checked": "2026-11-22T17:18:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 80,
-   "checked": "2026-11-22T17:13:37+00:00"
+   "hits": 96,
+   "checked": "2026-11-22T17:18:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T17:13:37+00:00"
+   "checked": "2026-11-22T17:18:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T17:13:37+00:00"
+   "checked": "2026-11-22T17:18:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T17:13:38+00:00"
+   "checked": "2026-11-22T17:18:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-22T17:13:38+00:00"
+   "checked": "2026-11-22T17:18:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T17:13:38+00:00"
+   "checked": "2026-11-22T17:18:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T17:13:38+00:00"
+   "checked": "2026-11-22T17:18:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T17:13:39+00:00"
+   "checked": "2026-11-22T17:18:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T17:13:39+00:00"
+   "checked": "2026-11-22T17:18:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T17:13:39+00:00"
+   "checked": "2026-11-22T17:18:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T17:13:39+00:00"
+   "checked": "2026-11-22T17:18:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T17:13:39+00:00"
+   "checked": "2026-11-22T17:18:39+00:00"
   }
  },
  "items": [
+  {
+   "id": "dexerto says gta 6 lets you steal paul walker s fast furious eclipse",
+   "title": "Dexerto says GTA 6 lets you steal Paul Walker’s Fast & Furious Eclipse",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80WVJscm9nc1VqWEg5SnBfTGpFWGpONF9GTWp1bmNNYXpYazhHUHBhMk5XTHR4c3UtMFNVeER5andFTXd3RHg5bFdta3JKZkxK?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-22T17:15:05+00:00",
+   "seen": "2026-11-22T17:18:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Dexerto reports GTA 6 allows stealing Paul Walker’s Fast & Furious Eclipse."
+  },
+  {
+   "id": "gta 6 how to find the kraken",
+   "title": "GTA 6: How to Find the Kraken",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EMkluM0dzaHdweDF4Y3dveW4tNnN1V0t2MkxPRDFlTldxUlNzcVBIdTl6eFhJQjRPM2RsT2ktQjd4VUtkLUEzVHR4SkRhXzlzSl83Tk5GV0xSOVpVUUlpXzNDYlAzNDQ0Y3c?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-22T17:15:02+00:00",
+   "seen": "2026-11-22T17:18:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "DualShockers explains how to find the Kraken in GTA 6."
+  },
+  {
+   "id": "gta 6 mamba gt locations how to restore the third car in wyman s car collection",
+   "title": "GTA 6 Mamba GT Locations: How to restore the third car in Wyman's Car Collection",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mamba-gt-locations-wyman/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-22T17:13:21+00:00",
+   "seen": "2026-11-22T17:18:38+00:00",
+   "summary": "You need to locate four Mamba GT scraps to get Wyman to restore this sweet sports car for you",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GamesRadar+ says four Mamba GT scraps are needed to restore the car in Wyman's collection."
+  },
+  {
+   "id": "rockstar next game after gta 6 l a noire 2 leak",
+   "title": "Rockstar Next Game After GTA 6: L.A. Noire 2 Leak",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFM3YVl5enJxS2Y0QXJveU0zbm9wR2M4OUlsb01MU1FQeS1IakpaSF9TVV9FekRIcVdmWjdhNVNGMXZ3YUlDWWRTSk9sZUx5Sm9UeUM3YWZwZl90UTBPcE9ic0VqVUdQbm10NDZhZHFEd1ZKMGlGMnZTUkQ4VzBWVWQ2dm1lT1ZPVXdISGlGdy0?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-22T17:13:16+00:00",
+   "seen": "2026-11-22T17:18:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "shattered.io claims a leak about Rockstar's next game after GTA 6 being L.A. Noire 2."
+  },
   {
    "id": "gta vi vs gta v the debate continues does it really look that different writer marie",
    "title": "GTA VI vs. GTA V: The debate continues. Does it really look that different? Writer: Marie",
@@ -859,6 +911,19 @@
    "ai_summary": "The story states Cyberpunk 2 won’t copy GTA 6, even if it is the greatest artistic achievement in history."
   },
   {
+   "id": "gta 6 vs nintendo 64 sales 430 000 short",
+   "title": "GTA 6 vs Nintendo 64 Sales: 430,000 Short",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHdETXp0VGRod2lOdHpmXy1IYmpCN2JLS1NsS3llclFUdXE3OG9KbnUyU1dad08xTlhldU5Ma2lubWVnTVB1SFZOTEVCd3I2X3Zrdm1WX21ZdTBQRkVZajZwU3N4VkF6RGc2Y2NDb1dqeGhXN25mNHQ2OTd1THNibUpBUUxaOXU5QzJYWkhGcnJhQ3IxNTNJ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-22T15:24:24+00:00",
+   "seen": "2026-11-22T17:18:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "shattered.io compares GTA 6 to Nintendo 64 sales, noting a shortfall of 430,000."
+  },
+  {
    "id": "gta 6 how to do the first person glitch ps5 xbox",
    "title": "GTA 6: How To Do the First-Person Glitch (PS5 & Xbox)",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzB2MU9VamQxUGQwZlVuZ3RuaVk4UWRmWkl4OWs3SEZGZjVNWDVyLWRMSEZsSFNydHRWR1NFV21lT0VIbE5WTHg2cXBtb1Y3a1FaOXNiSHZvYXdhRnJUOHl3OGtRNm85SmVyN2VnSXlGaXNpZ1BlTW4xdEp2VG4yb0c2Y0s?oc=5",
@@ -896,6 +961,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece notes a Red Dead Redemption Easter Egg in GTA 6 that serves as a subtle nod to Arthur Morgan."
+  },
+  {
+   "id": "gta 6 early pc port rumors grow as xbox build leaked online",
+   "title": "GTA 6 Early PC Port Rumors Grow as Xbox Build Leaked Online",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YZ1NEOVFHdGxuVzdoWExZWUdzR0w5SDJLOGlLanVFTDVxVHZCZEpYakFZSVdrNVA4UG9GRUprZWpHRVNPenZMZHFQRmJMcFVES2pfa01rOHhKR3Q1bDV30gFfQVVfeXFMTlhnU0Q5UUd0bG5XN2hYTFlZR3NHTDlIMks4aUtqdUVMNXFUdkJkSlhqQVlJV2s1UDhQb0ZFSmtlakdFU096dkxkcVBGYkxwVURLal9rTWs4eEpHdDVsNXc?oc=5",
+   "outlet": "Beebom",
+   "via": "Google News",
+   "published": "2026-11-22T15:11:56+00:00",
+   "seen": "2026-11-22T17:18:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Beebom reports rumors of an early GTA 6 PC port growing as an Xbox build leaks."
   },
   {
    "id": "gta vi is getting gayer and more fabulous",
