@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T22:10:06+00:00",
- "started": "2026-11-22T22:10:03+00:00",
+ "updated": "2026-11-22T22:15:06+00:00",
+ "started": "2026-11-22T22:15:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T22:10:04+00:00"
+   "checked": "2026-11-22T22:15:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-22T22:10:04+00:00"
+   "hits": 51,
+   "checked": "2026-11-22T22:15:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 71,
-   "checked": "2026-11-22T22:10:05+00:00"
+   "checked": "2026-11-22T22:15:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T22:10:05+00:00"
+   "checked": "2026-11-22T22:15:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T22:10:05+00:00"
+   "checked": "2026-11-22T22:15:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T22:10:05+00:00"
+   "checked": "2026-11-22T22:15:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T22:10:05+00:00"
+   "checked": "2026-11-22T22:15:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T22:10:05+00:00"
+   "checked": "2026-11-22T22:15:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T22:10:05+00:00"
+   "checked": "2026-11-22T22:15:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T22:10:06+00:00"
+   "checked": "2026-11-22T22:15:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T22:10:06+00:00"
+   "checked": "2026-11-22T22:15:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T22:10:06+00:00"
+   "checked": "2026-11-22T22:15:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T22:10:06+00:00"
+   "checked": "2026-11-22T22:15:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T22:10:06+00:00"
+   "checked": "2026-11-22T22:15:04+00:00"
   }
  },
  "items": [
@@ -948,6 +948,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story highlights the best GTA 6 Easter eggs observed so far."
+  },
+  {
+   "id": "fact check does gta 6 really show a black lives matter pop up after killing too many npcs here s what we know",
+   "title": "Fact Check: Does GTA 6 really show a Black Lives Matter pop-up after killing too many NPCs? Here's what we know",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlhrc0xQcGpBNmdGRlZtc2FoWndneDNRRXRRTTh3eGtnMDlwbTJqRzFpMi1hLUhzQnNZZFlUNnI0Um9FbFk3Y0duNnd2WFJnT0hka2ltQXpCSkhOTFBhU2tVbGMwQndXUGo0LUpVVjQyY3hwVWxEQVRlU0dzcGtZUDR0TFFXRFF3M1VHM0h2TjZrTWdHUExMSXU2aXpmQTJEelNfRllnbHdZYzNIVXVTdHJ5dEVsWnlOVHd5WDZpQWNES19ubkNMMGZuMkhxcmNtSVZNRUdoRmRPb3RqVU9KRExvUTdqZ3d6enVrM0ZPZUZJa0hJb2QwWldhS1hIMHU2am5CZUF30gGGAkFVX3lxTE5SWGtzTFBwakE2Z0ZGVm1zYWhad2d4M1FFdFFNOHd4a2cwOXBtMmpHMWkyLWEtSHNCc1lkWVQ2cjRSb0VsWTdjR242d3ZYUmdPSGRraW1BekJKSE5MUGFTa1VsYzBCd1dQajQtSlVWNDJjeHBVbERBVGVTR3Nwa1lQNHRMUVdEUXczVUczSHZONmtNZ0dQTExJdTZpemZBMkR6U19GWWdsd1ljM0hVdVN0cnl0RWxaeU5Ud3lYNmlBY0RLX25uQ0wwZm4ySHFyY21JVk1FR2hGZE9vdGpVT0pETG9RN2pnd3p6dWszRk9lRklrSElvZDBaV2FLWEgwdTZqbkJlQXc?oc=5",
+   "outlet": "Indiatimes",
+   "via": "Google News",
+   "published": "2026-11-22T18:41:39+00:00",
+   "seen": "2026-11-22T22:15:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 shows a Black Lives Matter pop-up after killing NPCs."
   },
   {
    "id": "gta vi takes 3 79bn on day one says reuters",
@@ -2989,6 +3002,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story states that Grand Theft Auto VI features the franchise's first non-optional female lead character."
+  },
+  {
+   "id": "gta 6 xbox auto upload bans why are players getting banned and how to avoid it",
+   "title": "GTA 6 Xbox Auto Upload Bans: Why Are Players Getting Banned and How to Avoid It?",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UFZKZzdEYTRWNEFSMnlNS3BMbW9xQnZ3dzEzOWdxOFpIZGZyemllWlRyZDZoT2hhWDM4dy1kS2JMRE41YUJ5clo1ZFJYWlR2S0ptcDROY1psRW51Vng2NQ?oc=5",
+   "outlet": "https://okreviewer.com/",
+   "via": "Google News",
+   "published": "2026-11-22T13:38:38+00:00",
+   "seen": "2026-11-22T22:15:01+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story discusses Xbox auto-upload bans in GTA 6 and explains why players are getting banned and how to avoid it."
   },
   {
    "id": "gta 6 likeness lawsuit can a real person sue over a video game character who looks like them",
