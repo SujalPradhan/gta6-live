@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T12:07:07+00:00",
- "started": "2026-11-22T12:07:00+00:00",
+ "updated": "2026-11-22T12:12:08+00:00",
+ "started": "2026-11-22T12:12:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 95,
-   "checked": "2026-11-22T12:07:00+00:00"
+   "checked": "2026-11-22T12:12:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-22T12:07:01+00:00"
+   "hits": 62,
+   "checked": "2026-11-22T12:12:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-22T12:07:01+00:00"
+   "checked": "2026-11-22T12:12:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T12:07:01+00:00"
+   "checked": "2026-11-22T12:12:04+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T12:07:02+00:00"
+   "checked": "2026-11-22T12:12:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-22T12:07:02+00:00"
+   "checked": "2026-11-22T12:12:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-22T12:07:02+00:00"
+   "checked": "2026-11-22T12:12:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-22T12:07:02+00:00"
+   "checked": "2026-11-22T12:12:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T12:07:03+00:00"
+   "checked": "2026-11-22T12:12:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T12:07:03+00:00"
+   "checked": "2026-11-22T12:12:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-22T12:07:03+00:00"
+   "checked": "2026-11-22T12:12:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T12:07:04+00:00"
+   "checked": "2026-11-22T12:12:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T12:07:04+00:00"
+   "checked": "2026-11-22T12:12:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T12:07:04+00:00"
+   "checked": "2026-11-22T12:12:06+00:00"
   }
  },
  "items": [
@@ -116,6 +116,32 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "More than half of all players on PS5 and Xbox were playing GTA 6 on launch day, according to Circana."
+  },
+  {
+   "id": "gta 6 players spent over eight hours in leonida on launch day and over half of active console players joined them",
+   "title": "GTA 6 players spent over eight hours in Leonida on launch day, and over half of active console players joined them",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13UjdpUFdhUkhmOThuMTBHUngzTUlIbVZHRzhwWjVjeXdLeHN0czZMLVNlQ2puWF9TLUhsSHF5X0NFMGlnMEE2ZFBRM1dDUmJZSmpLTU1CdWVhSHBkdlJtNUdCQmduMHN2UmlJTW1R?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-22T12:02:30+00:00",
+   "seen": "2026-11-22T12:12:03+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 players spent over eight hours in Leonida on launch day and that over half of active console players joined them."
+  },
+  {
+   "id": "how miami heat s gta vi vice city night sparked unprecedented 1 5m merch frenzy",
+   "title": "How Miami Heat’s GTA VI Vice City night sparked unprecedented $1.5M merch frenzy",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1B0eGlQWmZnd3BpMWgteHdhSHh3amdjVXRBMzQ4WHo5Q0VqWlRkYUlYY3NCN1c4Z1Itc2dBbG8yVXZPRXAyQ0lRc0V2S1VpcnVNU1ZmTk54Q2FHVEJFdjRKTmJfTm5WYzRndTE2aGpxR3BqZXZkcTFaNldNWGxHaVlXN1FUOThUSF9YeWtDZ2lrZjA2dzJZUjRiMlg5MzM5emc?oc=5",
+   "outlet": "The New York Times",
+   "via": "Google News",
+   "published": "2026-11-22T12:00:19+00:00",
+   "seen": "2026-11-22T12:12:03+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that a Vice City night tied to Miami Heat sparked a $1.5M merchandise frenzy."
   },
   {
    "id": "gta 6 is hiding two secret radio stations that you need to discover before you can listen to them",
