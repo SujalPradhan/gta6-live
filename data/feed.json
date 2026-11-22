@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T16:08:19+00:00",
- "started": "2026-11-22T16:08:13+00:00",
+ "updated": "2026-11-22T16:13:21+00:00",
+ "started": "2026-11-22T16:13:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-22T16:08:13+00:00"
+   "checked": "2026-11-22T16:13:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 48,
-   "checked": "2026-11-22T16:08:14+00:00"
+   "hits": 49,
+   "checked": "2026-11-22T16:13:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 87,
-   "checked": "2026-11-22T16:08:14+00:00"
+   "hits": 85,
+   "checked": "2026-11-22T16:13:15+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T16:08:15+00:00"
+   "checked": "2026-11-22T16:13:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T16:08:15+00:00"
+   "checked": "2026-11-22T16:13:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-22T16:08:15+00:00"
+   "hits": 52,
+   "checked": "2026-11-22T16:13:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-22T16:08:15+00:00"
+   "checked": "2026-11-22T16:13:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T16:08:15+00:00"
+   "checked": "2026-11-22T16:13:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-22T16:08:15+00:00"
+   "checked": "2026-11-22T16:13:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T16:08:16+00:00"
+   "checked": "2026-11-22T16:13:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T16:08:16+00:00"
+   "checked": "2026-11-22T16:13:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T16:08:16+00:00"
+   "checked": "2026-11-22T16:13:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T16:08:16+00:00"
+   "checked": "2026-11-22T16:13:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T16:08:17+00:00"
+   "checked": "2026-11-22T16:13:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 s strong and silent jason was inspired by steve mcqueen and former army rangers says rockstar",
+   "title": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar",
+   "link": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-22T16:11:00+00:00",
+   "seen": "2026-11-22T16:13:16+00:00",
+   "summary": "If you've noticed that Grand Theft Auto 6 's Jason Duval isn't much of a talker, that's by design, as his quiet nature was inspired by Steve McQueen and the studio's research into former Army Rangers. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's Jason Duval's quiet nature was inspired by Steve McQueen and former Army Rangers, according to Rockstar."
+  },
+  {
+   "id": "well over half of us ps5 owners played grand theft auto vi",
+   "title": "Well Over Half Of US PS5 Owners Played Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnLVVLb1JOd2hRYng3RTFWZEVGQkw4RUt1NmxsbUZXUzBxOXZGd2RZYnVoZEdXSzF4ZlJVRHVkeG9BZXBkZXR4djE5Z0dkeUtOZG5FMDMxTVQtb2ZWeEV5TnJTZVQzMG9qV1Q3NQ?oc=5",
+   "outlet": "PSX Extreme",
+   "via": "Google News",
+   "published": "2026-11-22T16:07:53+00:00",
+   "seen": "2026-11-22T16:13:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "More than half of US PS5 owners have played Grand Theft Auto VI, according to the report."
+  },
+  {
+   "id": "gta vi is here what parents need to know before handing over the controller",
+   "title": "‘GTA VI’ is here. What parents need to know before handing over the controller",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFZwUWxNUV9yOWFXcDZQdnE3ZzlaeWEtZWNjd0dGOXBGRGJLTHEzZUpKWktuTWxmaTdIdVZtSFBUaHItT1NRSDd0X19qSEZQZnA2SkFuODl6S0ZObGRiaXFRRmJrQzRMcmJuWlpxRlJUdDA2LXdzVGlWZEt0ZGYyMG1WbEZ5ZjRFNUx5N25JNzZHRFdlUGIxUzEtd2RYV0NnNTdGTHFodk9QT0tlSy1wLWR2cjVWQlJWakFEVzFFUXVDa3BHN3F3SdIB3AFBVV95cUxPczNyTDhtOU1NX055UmpVNjRLRGhFTmNsanNUY3ZWa2s2RVdIMHh2dk1oLVREbTdLR2h3QkZ2Zm5NUWRUbUV5aWxScDFVQVZUZzZHNV8xdnBXZ3BsQWNSc1JVcEkxSGNMelJ6N2JRWUtFWUZVaTFPZkhsVzFfU3pfeWtVMUdNZ01OcXJPLTBWNmNRdDA0ajZwcnlSX0hmZVdFY09vcDBGVmdMd0FyOUNuWThZQkZ0SldhaVZuRnJ0NGwySHdmMi0zeExYYnQ4NHREU19pcHFfUHlzMnVH?oc=5",
+   "outlet": "KIRO 7 News Seattle",
+   "via": "Google News",
+   "published": "2026-11-22T16:06:34+00:00",
+   "seen": "2026-11-22T16:13:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece explains what parents should know before giving Grand Theft Auto VI to their children."
+  },
+  {
+   "id": "all the gta 6 aircraft we ve spotted so far",
+   "title": "All the GTA 6 aircraft we've spotted so far",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WRmRyQ0JwTmMwdkcydjlMMG9xTS05d2JTenNweVVzWHIxNlZtcDlmSTFVSWZ0T1ZHOWEwdmtJbE9TX01LZjRzU1ZoUmlySmJGejRBdzg1RGtfc2Vzdjh2NW9hWDNNQnZQcU8wSWZQU2tBWnhwUVFyTEd5cDBydw?oc=5",
+   "outlet": "Aerospace Global News",
+   "via": "Google News",
+   "published": "2026-11-22T16:01:00+00:00",
+   "seen": "2026-11-22T16:13:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists all the GTA 6 aircraft spotted so far."
+  },
   {
    "id": "gta 6 already got one thing very wrong",
    "title": "GTA 6 Already Got One Thing Very Wrong",
