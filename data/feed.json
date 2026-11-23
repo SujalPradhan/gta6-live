@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T10:14:05+00:00",
- "started": "2026-11-23T10:13:59+00:00",
+ "updated": "2026-11-23T10:19:12+00:00",
+ "started": "2026-11-23T10:19:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-23T10:14:00+00:00"
+   "hits": 97,
+   "checked": "2026-11-23T10:19:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-23T10:14:00+00:00"
+   "hits": 38,
+   "checked": "2026-11-23T10:19:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-23T10:14:00+00:00"
+   "hits": 74,
+   "checked": "2026-11-23T10:19:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T10:14:01+00:00"
+   "checked": "2026-11-23T10:19:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T10:14:01+00:00"
+   "checked": "2026-11-23T10:19:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T10:14:01+00:00"
+   "checked": "2026-11-23T10:19:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T10:14:01+00:00"
+   "checked": "2026-11-23T10:19:07+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T10:14:02+00:00"
+   "checked": "2026-11-23T10:19:07+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:14:02+00:00"
+   "checked": "2026-11-23T10:19:07+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T10:14:02+00:00"
+   "checked": "2026-11-23T10:19:08+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T10:14:02+00:00"
+   "checked": "2026-11-23T10:19:08+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T10:14:02+00:00"
+   "checked": "2026-11-23T10:19:08+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:14:02+00:00"
+   "checked": "2026-11-23T10:19:08+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T10:14:02+00:00"
+   "checked": "2026-11-23T10:19:08+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi reveals the voices behind vice city",
+   "title": "‘GTA VI’ reveals the voices behind Vice City",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNkEtX1FrZjRqRjNZX3JmaXE1NTR1cTBFREMwSWZtZ0lhNkdFZVRJZTZOUXVxcTBmREFrT1B1T0hIaGxZMmctUFdWNXFCVTRvbUZVcTVacjBEdUQ2NUptZWp0SEQzU2dudURhTEdrVEFCMGxDeVN6MzNmdkVGRHp0aXRZaDJzQUlkZ0hnVzJwLTE2eHQxbllCdGtIam9vNTRJN0p2dGFwSm5EdG9QSFA4Q015MVRuazREV0l3MWxJaHNlTHpwQmJrdllZbGQxNnNxOEhZVUtMWUhHYlN3czc3ZXk1d01tQnBXMmJPTzh5NnE1cTE0aENOM205cFB1SUZPY0E?oc=5",
+   "outlet": "kare11.com",
+   "via": "Google News",
+   "published": "2026-11-23T10:15:48+00:00",
+   "seen": "2026-11-23T10:19:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI reveals the voices behind Vice City."
+  },
+  {
+   "id": "gta 6 could run at 60 fps on pc more easily than expected",
+   "title": "GTA 6 Could Run at 60 FPS on PC More Easily Than Expected",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNW9nU0gwUVkxN0FGeHNzQV94by05aVRIZjNBeWd6cl94R0xVWF85aUJDeXBtRk5QZXdreWUwV0VKbGgyUi1obWxYMGVDZ3JUclpmeERhbnpKQjJab1R1RmtiOFF5V2ZHR3hfVHRkb2ZZbjVOTG0zUWg1MGp0WnlMR0V3VFlPQzljNWc?oc=5",
+   "outlet": "eTeknix",
+   "via": "Google News",
+   "published": "2026-11-23T10:15:07+00:00",
+   "seen": "2026-11-23T10:19:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 could run at 60 FPS on PC more easily than expected."
+  },
   {
    "id": "gta 6 actor has no idea who he plays asks fans to find his character",
    "title": "GTA 6 actor has no idea who he plays & asks fans to find his character",
@@ -116,6 +142,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The actor behind a GTA 6 NPC is asking fans to identify his character because he does not know who it is."
+  },
+  {
+   "id": "gta 6 leaker accuses rockstar of limiting performance claims 40 fps is possible",
+   "title": "GTA 6: Leaker accuses Rockstar of limiting performance, claims 40 FPS is possible",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkZfVWk1dWRhTkllS25DcFZraUllQlB1alZweTlkRXV1U0FWU0VVNmZnVk1nUXBPRloxVk91QnVGX3NCU2tqYmJxVkNFTk5hdzFFTFdJZ09qa3hjSF9FZWRVNFlXZ3NCMURLTEQ0MUZrZHk2Ukd6b0xRSUNReVUtMmpEd1FqMGhZWTNaN3ZsdER0ZmRpYUpyZVVJcktWTVloX0U4cmZhYXNqYWM3ZDN2T2VRS2dPN2N5emNGY1J5YmdvQQ?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-23T10:12:00+00:00",
+   "seen": "2026-11-23T10:19:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a leaker claims GTA 6 performance could reach 40 FPS."
   },
   {
    "id": "gta 6 coming home mission guide picking up lucia and the night at the rusty anchor",
@@ -209,6 +248,32 @@
    "ai_summary": "The story reports that GTA 6 drew 61% of active US PS5 players on launch day, according to Circana."
   },
   {
+   "id": "gta 6 frenzy sends delhi gamers into a spin phones won t stop ringing at gaming caf s one outlet gets 4",
+   "title": "GTA 6 frenzy sends Delhi gamers into a spin: Phones won't stop ringing at gaming cafés, one outlet gets 4",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQQjdnWDNqMTBhYUtPYlpDTjNFNVhOdXR6dnZFU1NOVzJnTTVnSmNvM0ZaTjlTZmQ1Ri1YZzNEVjFNdS15OXBzd0JMZXZPNEpTUHNmUkYyckJrWGg5YXVBMUdWZU1nZWlaVGd5d2tyU3g5MUJ0Q3hDWXVTVDJ3YnlmeGw3dWdrNmt2NXN3bW9Ba3VHQVoyN2V4RWpzaHQ5dVdXRWd3NEZfWTRaaHFSY1lRdTVXdEtPMVZMaVdDeUZRSWdUb1JIZWN0VXJhUmhHd05fQldfblZRb0cwR1J4blBoSTE3dGdSbEVFY21qWFAzRklGUFZHWmt0MEJfR1JPaThiVVJNNktWU2tDLWlNM3QxUHlBdk9Fdl9KSks1Njh1YmF5NHBEcTZjQ1pXV1NjVjRKd0h0cmJYaXA1T29NOEVHUDdqZkp0OExhWTRxNkVxZnIwNXRCSTNPQlMzclPSAeICQVVfeXFMT1NQRUUtSnY4Zm1qVkJLQ09tX0tpbEJPNUJpbG8xLU9FTzZyNjMtWHd6R1FyR1dQTm9vU1VER0ZycjIwWThmempSZFZTXzRIcUx2SnBLOTAxOVlqM0s0cW1HdnhYVHYtOWJJZ29OX29qTnV6ZExscW5YbnNMUUduTnhXcTYwVHpieGdnaFM0Sm1XYkJmYWlWRXNtTnZ0NldPSnRpbFlfbHNDMGh0WXRfdF9hSVRNX1lpMVpfaVpINDUzSTRfNV90SkJVNmNISE1RNnV0SjJqQjd5dEk3Ulk0bTlDak1BT2hQcEdyX3FqZm80X1BHV0NmdXZ6eTV3RWgtYXpBTllrUzAydkR0REFxVzlXTkYxRHZuaG1lMnNnUGZoeC1OMFU1cE4zMGgxZGlJVEdIbDBNSVpXcDRuUS15QWU5Y0x6SGE3TUxDaWU3RVhhTXphbWNyQmtPZWlXRDJxYXVB?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-23T09:55:00+00:00",
+   "seen": "2026-11-23T10:19:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Delhi gamers are excited as GTA 6 frenzy causes phones to ring at gaming cafés."
+  },
+  {
+   "id": "extremely overwhelmed rupa biswas sen on her song aaj shanibar featuring in gta 6",
+   "title": "\"Extremely Overwhelmed\": Rupa Biswas Sen On Her Song Aaj Shanibar Featuring In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZE1scGJIaG5XNUhWdEZnRVNoRFUxUkUyM1psOVdxRDdJbTFzd2xaZUtnM29kRjk0Nzl0SFFwWXVXckNlNUJuUmhVcTd5YUY3aFRpZWw1b2lyTnZTMkhrN1FaM0lYZUdHR3VWVFpOWklYaW1mMmpaSEVBb2VLS3R6MDFRdEpEdW5xUlpxVTA0ZHZWTHlDUFdIaktrclFWdTlWd2JaalZObXM2eFl2aEE0TnBQQV9sQklqNzQzZV9ZOWRqTm5tVEx6VUJ6RUhEMlpNa3k40gHbAUFVX3lxTE5ZNEZSdDNMYXlFd1FIODRnb2JqUmZTUGhQVWJYMnpRNndXSTZVOTJJSkdnZHI4NVoxZnZubVh5Z2VVMnZwdVBTdFR3M2Nsb1dOWjBvUUw1aEtpYWpsUHEwMU1wSjlJcGxZV2NrcVViQWJ4X0ZmS3lzTy10eWRMN3hrN2hxVUJXbTdnY1Awc0QxVktvSW1pcjBrckJCdkc3YTgtRjhFSWU3UjNpOWNfbWZnRVVIcjFBek5iQU0yU1FnREtuUVZHY3ltZE5kQ0lEanNfOWRvd0pzQ0g4TQ?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-23T09:52:56+00:00",
+   "seen": "2026-11-23T10:19:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Rupa Biswas Sen discusses her song Aaj Shanibar featuring in GTA 6."
+  },
+  {
    "id": "gta 6 get lucia s clothes guide picking up andy s bag at manatee s rest",
    "title": "GTA 6 Get Lucia’s Clothes guide: picking up Andy’s bag at Manatee’s Rest",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWQxQ29xMUxIdjRHanVxR1doX0dKMWFsUHo5dk1KaUFjbHRJWHRSM2FrWUg1cm1aWG8zclp3N1dZcHVGV09JU29TN1Zya2lweXpnMjdqdjhzTHJtUkp2ODhKQUtiWEdVNGhOcUlVaGM0eW9JeDFxaWV6SnVOY2FnQjI4dXJZcVlySTNuVTZUTzdBQQ?oc=5",
@@ -220,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 Get Lucia’s Clothes guide: picking up Andy’s bag at Manatee’s Rest."
+  },
+  {
+   "id": "nick eh 30 gives gta 6 a 9 5 10 after initially calling it boring",
+   "title": "Nick Eh 30 Gives GTA 6 A 9.5/10 After Initially Calling It Boring",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkdaSUItRVptdXNvYkZyNGV3a1JXaWxyTlp6MVY3OVM0SE1lTm13MllJWFFKZFZ5WnhRMXVNeDRSUVRMdTlLeW5IX2FHWkxVYVFDNVZVVTFJZms3VXpjZnF2NHlmek8xRF9CUEc4Q05US01IN3pZVlZPTzg5TGZuTlBmTExVbnFTSWpGLWNfVy1mOFROaW4wam1SU0c2UUVQY3kwZ1ZsTE5hc2dScDNJM1BlTzU?oc=5",
+   "outlet": "NDTV Sports",
+   "via": "Google News",
+   "published": "2026-11-23T09:50:32+00:00",
+   "seen": "2026-11-23T10:19:06+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports Nick Eh 30 gives GTA 6 a 9.5/10 after initially calling it boring."
   },
   {
    "id": "why can t you play darts in gta 6 when you could in previous games because rockstar didn t have the resources to do it to a standard it d be",
@@ -272,6 +350,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Comedian Amber Wallin hid GTA 6 role from her husband for two years."
+  },
+  {
+   "id": "plaqueboymax calls gta 6 story mode a s after skipping opening cutscene faces huge backlash",
+   "title": "PlaqueBoyMax Calls GTA 6 Story Mode 'A*s' After Skipping Opening Cutscene, Faces Huge Backlash",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSFBDSjZ0R3Yyd010bm85ak9hbzJyMGZXbmhHQVBUeEdfejdxU1dsQk9xSEItUTVGNlhoWjRNZnJZNWVLQ2NwWUIzWEdkOVQzak5zN1NwbXAwZXlUMlpmSDU2cGxTUVNCUVBXRGFNcVhkZ2F0bll3MDhsRlhiMHFoVHY2N2JjeGtfaVkxOGVFbXRReTVGc19tdk1Odmg4RmxOVGFBWmZpTFliOGVjSVljY2pYZzV2WjV1cDQtVndTNXRqZ1o5VXd4bUxXM2tETUN0ZmxBbS1tMA?oc=5",
+   "outlet": "NDTV Sports",
+   "via": "Google News",
+   "published": "2026-11-23T09:46:16+00:00",
+   "seen": "2026-11-23T10:19:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports PlaqueBoyMax calls GTA 6 story mode 'A*s' after skipping the opening cutscene and faces backlash."
   },
   {
    "id": "mark zuckerberg turned his wife priscilla chan into a gta 6 character who asks him to bring groceries an",
@@ -428,6 +519,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Naughty Dog’s Michael Barclay saying GTA 6 astonished him."
+  },
+  {
+   "id": "gta 6 radio takes a sharp shot at jake paul with a brutal satirical boxing segment",
+   "title": "GTA 6 radio takes a sharp shot at Jake Paul with a brutal satirical boxing segment",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdU12TVo2Y0x4b2F1cnY4UzhQbV9aZ0lma0JPRzl0TVlBY1J6VUpBS1pSQ0Jfblh6NmQ3MHJOQjZrWlowM0E2Sk0zbGZzSmFkSTk2QzB5QTRuMlZQRDJIcjMyd2U0dXdRM1hNUndkYVFsZVRrYlFLbUYyWUZ1bDdpaWd2MkNaczQzTEt4djZ6RHF6LU51UE9ZSlpfVzIweWRZUGZydlRPcUxxalF2V3gwd0daVnlhUmRHQks4NmpEM2dLX3VtOVlRc3UySlBudFZ5VVNr0gHgAUFVX3lxTFBlUTdCNGExekJ1RERYbm5CU0FiV3VOUFhiNTdxZ1QyRlpGVmZBRnJuNHhhSzc2cHNOUTRwWHFiU1A1eUlPRk9oeVZFdWF2aWEza1lMUE9sUzBJN0YyOHFWY3Q3RTdOalJWQTlPTTdRel9WMGRWd2YyVTNKMjY5d09SY05oTVVuVThTbFFkOHV0YW9VdlFzWXZVVXFFVXNGWjZRdEc1eFZLNFpGQ1ZsVk1JS3g5YzRrMDR1c3BJVjg3NFY2SXU5d3Z5Y2VYVW1Xem9UenVkOHktcVhVQUlEVkxi?oc=5",
+   "outlet": "Mundo Deportivo",
+   "via": "Google News",
+   "published": "2026-11-23T09:06:19+00:00",
+   "seen": "2026-11-23T10:19:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 radio makes a sharp satirical jab at Jake Paul with a boxing segment."
   },
   {
    "id": "can you really play gta 6 in roblox",
