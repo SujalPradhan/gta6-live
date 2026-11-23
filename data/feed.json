@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T06:02:43+00:00",
- "started": "2026-11-23T06:02:36+00:00",
+ "updated": "2026-11-23T06:07:50+00:00",
+ "started": "2026-11-23T06:07:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T06:02:37+00:00"
+   "checked": "2026-11-23T06:07:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-23T06:02:37+00:00"
+   "checked": "2026-11-23T06:07:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 62,
-   "checked": "2026-11-23T06:02:37+00:00"
+   "checked": "2026-11-23T06:07:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T06:02:38+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T06:02:38+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T06:02:38+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T06:02:39+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T06:02:39+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T06:02:39+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T06:02:39+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T06:02:40+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T06:02:40+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T06:02:40+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T06:02:40+00:00"
+   "checked": "2026-11-23T06:07:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi s economic impact",
+   "title": "Grand Theft Auto VI’s economic impact",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3Fzb2lJOGFMVjJuUGxZbXNzUUVqN3VQbEFvQUxmbkI1VmREMVJQcHM3cjM0NEdHbnZWNktsT3hWUzRxbzB5LXlXSEt2MmR6cUZVUEJZb1B2M0dNd2NiYVpUckVoaXFmVlBKenZKdzlpMlZLUHdVUksyNTF1Vkk2YU5GRll4U2du?oc=5",
+   "outlet": "royalpurplenews.com",
+   "via": "Google News",
+   "published": "2026-11-23T06:02:57+00:00",
+   "seen": "2026-11-23T06:07:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Headline reports on Grand Theft Auto VI's economic impact."
+  },
   {
    "id": "all la cascara motel robbery key valuables locations gta 6",
    "title": "All La Cascara Motel Robbery Key Valuables Locations - GTA 6",
@@ -116,6 +129,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on key valuables locations related to a La Cascara Motel robbery in GTA 6."
+  },
+  {
+   "id": "gta 6 buzz across apac indonesia s standout engagement",
+   "title": "GTA 6 buzz across APAC: Indonesia's standout engagement",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DVzd4b1RCNzFPX0JVWTBNZmhLVzJfcFU2em5RQjBHV0ZIZWZoRnhIajNBWkpWdnJkbkMyb3ZmaFozLTBEc2FzcUY1N3h2azFLS0dRWXoxMTM5cEhuM3c?oc=5",
+   "outlet": "ContentGrip",
+   "via": "Google News",
+   "published": "2026-11-23T06:00:27+00:00",
+   "seen": "2026-11-23T06:07:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Headline covers GTA 6 buzz across APAC with Indonesia's standout engagement."
+  },
+  {
+   "id": "gta 6 feature divides couples as men called out for act with virtual girlfriend",
+   "title": "GTA 6 feature divides couples as men called out for act with ‘virtual girlfriend’",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS3FVNzZuSDlXanNKTWJQbWxLVVpDN0FlendiZndfdzRCUHlUUEh1ajJJTTJnOTZkcUdjcWpRV2E0b0VZMHFRT19TQTZPOE1QLXo1WGJwZ1BEWUNZTUJPNC1tTlJKVG9WTDFWNmt1dFpwdVZsTmNDY1pUdVhvcnBfUUtGNUZ6WjdHX2d4OExtV1FVQkxhT3RCWmc2SDJYY3ZEOE9VelZoUDRoVW5NQXJ0d1VIZHZfLVpiOXZsVlFHY2FkWnU0NjljMTZSaEdZUUpNRm9CWQ?oc=5",
+   "outlet": "Yahoo Lifestyle Australia",
+   "via": "Google News",
+   "published": "2026-11-23T06:00:00+00:00",
+   "seen": "2026-11-23T06:07:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Headline notes that GTA 6 feature divides couples as men are called out for actions with a 'virtual girlfriend.'"
   },
   {
    "id": "can you buy rockstar games stock no but you can buy its owner take two ttwo",
