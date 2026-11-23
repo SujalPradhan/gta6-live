@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T20:27:45+00:00",
- "started": "2026-11-23T20:27:39+00:00",
+ "updated": "2026-11-23T20:32:47+00:00",
+ "started": "2026-11-23T20:32:40+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T20:27:39+00:00"
+   "checked": "2026-11-23T20:32:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-23T20:27:40+00:00"
+   "hits": 50,
+   "checked": "2026-11-23T20:32:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-23T20:27:40+00:00"
+   "checked": "2026-11-23T20:32:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T20:27:40+00:00"
+   "checked": "2026-11-23T20:32:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T20:27:40+00:00"
+   "checked": "2026-11-23T20:32:42+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T20:27:41+00:00"
+   "checked": "2026-11-23T20:32:42+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T20:27:41+00:00"
+   "checked": "2026-11-23T20:32:42+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T20:27:41+00:00"
+   "checked": "2026-11-23T20:32:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T20:27:41+00:00"
+   "checked": "2026-11-23T20:32:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-23T20:27:42+00:00"
+   "hits": 19,
+   "checked": "2026-11-23T20:32:43+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T20:27:42+00:00"
+   "checked": "2026-11-23T20:32:43+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T20:27:42+00:00"
+   "checked": "2026-11-23T20:32:43+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T20:27:42+00:00"
+   "checked": "2026-11-23T20:32:43+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T20:27:42+00:00"
+   "checked": "2026-11-23T20:32:43+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is being review bombed on metacritic despite 99 critic score",
+   "title": "GTA 6 Is Being Review Bombed on Metacritic Despite 99 Critic Score",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlF4cWxOdmI3Q0J6UVRWM0pteVo2ajJ6Zmt0cTBLdjg5R015bFJQM0ZERTlLc1BBZFMybXRmdlNoUDV5eVdGUWFuZExSSjZ4M3k1ZjV3WEVydUZSdVRNaEdhckhjSTJ4cVVJTlNuV1JEdk9yZUpvOFItb1NIWWtodlNMS19oTU50cV9zRWpBdUg?oc=5",
+   "outlet": "Artvoice",
+   "via": "Google News",
+   "published": "2026-11-23T20:31:06+00:00",
+   "seen": "2026-11-23T20:32:42+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is being review bombed on Metacritic despite a high critic score."
+  },
+  {
+   "id": "gta 6 chapter 3 mission list every mission in gta 6 chapter 3 in order",
+   "title": "GTA 6 Chapter 3 Mission List – Every Mission in GTA 6 Chapter 3 in Order",
+   "link": "https://insider-gaming.com/gta-6-chapter-3-mission-list-in-order/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-23T20:28:56+00:00",
+   "seen": "2026-11-23T20:32:43+00:00",
+   "summary": "A complete mission list for GTA 6 Chapter 3 The post GTA 6 Chapter 3 Mission List – Every Mission in GTA 6 Chapter 3 in Order appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists every mission in GTA 6 Chapter 3 in order."
+  },
+  {
+   "id": "where to find the silent hill hotel in gta 6",
+   "title": "Where to find the Silent Hill hotel in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ljTzFQUGdVMjQxWUk2T19ZZHB4NHZxV2FINmdBbDJwTURMLUVhaXYyeDV5SzdnNFdwT3k1aDJWN0VnZ2dWdTltNURPRVNxRnl0b1hJMUFMd256RHRoZ2VXdVI5bWw0aXJVZmtYQWh6ek9lenFvUnNRdndvZHJQcnBuZktDbkpkQmFRYzJyeVFvZw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T20:26:31+00:00",
+   "seen": "2026-11-23T20:32:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story describes where to find the Silent Hill hotel in GTA 6."
+  },
+  {
+   "id": "fact check team gta vi generates 3 79 billion in first day sales",
+   "title": "Fact Check Team: GTA VI generates $3.79 billion in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ29yRk9Nd0JzbDduVUtsc2NIcllsT295NFJMWENFS01TMS00TVUwQXN0Nml3Q3A5WmlCRjlMMnVENjUyY0ViTUxjUTlVMXlnUV9OMG5hWW5yeUEway1fbnVvVFJsTUhGdThqbUluYlZmM2luZTVWLXl4LTNqZVAteDkxUjc5NmU2MFpRVlByUUJIU0tjbVEzYmpkTXBzNU92VFVKWk9xdkZ5SkdOZlc4SFVaX3gwTWoxSUItUWRuT3dfVTdBTEpOd3NYY0pRRHpwQUE?oc=5",
+   "outlet": "National News Desk",
+   "via": "Google News",
+   "published": "2026-11-23T20:25:04+00:00",
+   "seen": "2026-11-23T20:32:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story states Fact Check Team reports GTA VI generated three point seven nine billion dollars in first-day sales."
+  },
   {
    "id": "gta 6 s first post launch patch fixes crashes stuck weather and autosaves",
    "title": "GTA 6's First Post-Launch Patch Fixes Crashes, Stuck Weather, and Autosaves",
@@ -300,6 +352,19 @@
    "ai_summary": "Lifehacker lists ten hacks every GTA 6 player should know."
   },
   {
+   "id": "guide gta 6 tenebrae lux walkthrough puzzle solutions",
+   "title": "Guide: GTA 6: Tenebrae Lux Walkthrough & Puzzle Solutions",
+   "link": "https://www.pushsquare.com/guides/gta-6-tenebrae-lux-walkthrough-and-puzzle-solutions",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-23T20:00:00+00:00",
+   "seen": "2026-11-23T20:32:43+00:00",
+   "summary": "How to complete Tenebrae Lux in GTA 6. Early on in GTA 6 , you'll gain access to the JoySystem, a game console with a handful of games you can play. One of those is Tenebrae Lux , a black and white, first-person puzzle game. In this GTA 6 guide , we have a Tenebrae Lux walkthrough , guiding you through the puzzles to reach the ending. Tenebrae Lux features randomised elements in some of its puzzle",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide provides a Tenebrae Lux walkthrough and puzzle solutions for GTA 6."
+  },
+  {
    "id": "gary plauche who killed his son s kidnapper spotted in gta vi airport",
    "title": "Gary Plauche, who killed his son's kidnapper, spotted in 'GTA VI' airport",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmtYOTEtdG1iX3VUbHZZakUxZkpiWWl4S3k0cDktcU43V0VtZlZmbjl5WmZMXzZkc2V0Z3JjcWpGcWtBak50M0p0WmFTRTdCWFo5UW5qQ1VUb0NFWEcxYjJNS0pzY0sxeEFLY1NJRG56b09UbThiekdOaFo3UkRxQmtfS0ppeXU2SzhFMTVxbTQtMGJaVGFJSkktM2k?oc=5",
@@ -350,6 +415,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The article warns drivers not to use real roadways to play GTA 6, based on the headline only."
+  },
+  {
+   "id": "d angelo s estate speaks out after late artist s unreleased song kamikaze discovered in gta 6",
+   "title": "D'Angelo's Estate Speaks Out After Late Artist's Unreleased Song, Kamikaze, Discovered in GTA 6",
+   "link": "https://www.ign.com/articles/dangelos-estate-speaks-out-after-late-artists-unreleased-song-kamikaze-discovered-in-gta-6",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-23T19:56:31+00:00",
+   "seen": "2026-11-23T20:32:42+00:00",
+   "summary": "The estate of late American R&B artist D’Angelo has spoken out after the launch of GTA 6, which featured a song that he created for the game back in 2024.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The estate of D’Angelo comments after GTA 6 featured a previously unreleased song believed to be his."
   },
   {
    "id": "another gta vi glitch unlocks frame rates on xbox",
@@ -805,6 +883,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Power Trip releases a new song titled Mutual Death Warrant from GTA 6."
+  },
+  {
+   "id": "family friendly fortnite streamer goes viral after picking up gta 6 and performing the ultimate heelturn including a bloody zoo rampage",
+   "title": "Family-Friendly Fortnite Streamer Goes Viral After Picking Up GTA 6 And Performing the Ultimate Heelturn, Including a Bloody Zoo Rampage",
+   "link": "https://www.ign.com/articles/family-friendly-fortnite-streamer-viral-gta-6-zoo-rampage",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-23T18:57:06+00:00",
+   "seen": "2026-11-23T20:32:42+00:00",
+   "summary": "Nice-guy Fortnite streamer Nick Eh 30 has gone viral after trying GTA 6 — and immediately pushing the violence in Rockstar's game to its limit.",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "A Fortnite streamer goes viral after playing GTA 6 and performing a violent heelturn."
   },
   {
    "id": "enthusiasts launched the gta 6 prologue on pc several hours after the exe file leaked",
