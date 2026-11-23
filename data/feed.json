@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T05:27:35+00:00",
- "started": "2026-11-23T05:27:33+00:00",
+ "updated": "2026-11-23T05:32:33+00:00",
+ "started": "2026-11-23T05:32:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T05:27:33+00:00"
+   "checked": "2026-11-23T05:32:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-23T05:27:34+00:00"
+   "checked": "2026-11-23T05:32:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-23T05:27:34+00:00"
+   "hits": 62,
+   "checked": "2026-11-23T05:32:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T05:27:34+00:00"
+   "checked": "2026-11-23T05:32:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T05:27:34+00:00"
+   "checked": "2026-11-23T05:32:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T05:27:34+00:00"
+   "checked": "2026-11-23T05:32:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T05:27:34+00:00"
+   "checked": "2026-11-23T05:32:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T05:27:34+00:00"
+   "checked": "2026-11-23T05:32:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T05:27:34+00:00"
+   "checked": "2026-11-23T05:32:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T05:27:35+00:00"
+   "checked": "2026-11-23T05:32:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T05:27:35+00:00"
+   "checked": "2026-11-23T05:32:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T05:27:35+00:00"
+   "checked": "2026-11-23T05:32:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T05:27:35+00:00"
+   "checked": "2026-11-23T05:32:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T05:27:35+00:00"
+   "checked": "2026-11-23T05:32:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 deus ex creator says the open world title s budget probably shouldn t be emulated by anyone else",
+   "title": "GTA 6: Deus Ex Creator Says the Open-World Title’s Budget ‘Probably’ Shouldn’t Be Emulated by Anyone Else",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU0JacFdXMjNmRzF2VmxkZnk4N1BYZHA0MXRUSUZHSkZyQmF5MVhNVzNUX2piN3FkZnU1blFlZ0NhWHNwdU11bWdfQ0V5VFpYczA2ekVjVWg0ajlFelh0Mzd1WXhnWWwwQ1RHaVd3NnpWS2J6aTJaSFpEeFhOU0l5VmYzZVZHZkUtS09xNVhQRHFwWTRIRkVSX0FHdGNsNVIxN1EyNU5JNGVzWm1CU1lrblRlV1U1ZjYyQXotVzFoVzEyaWxheHhBMmxOQXVVbEtSWEJaT1Y3cTRTQ0pDQldj?oc=5",
+   "outlet": "IGN India",
+   "via": "Google News",
+   "published": "2026-11-23T05:26:54+00:00",
+   "seen": "2026-11-23T05:32:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that the open-world title’s budget probably shouldn’t be emulated by anyone else, according to the Deus Ex creator."
+  },
+  {
+   "id": "gta 6 players rip atms from walls with tow truck hooks",
+   "title": "GTA 6 Players Rip ATMs From Walls With Tow Truck Hooks",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmM4eDF4bkVpZFh3Uy1DNjRoODNxbUZWN2lpYWZCQWh4d01wYXJ0R01Pb0RBOUt1NmVuOTdLUmQwTVVvZGdpTTVTMlhYcU9MZ0NteFNWcTdUZVdBNTBvYWRqd1N3bkx5eTJrX3g0VGFGQ3hXdG1NOVd2eVhaM1VSbG9NV3E?oc=5",
+   "outlet": "JournalArta",
+   "via": "Google News",
+   "published": "2026-11-23T05:22:02+00:00",
+   "seen": "2026-11-23T05:32:28+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that players rip ATMs from walls with tow truck hooks in GTA 6."
+  },
   {
    "id": "gta 6 launch day players averaged over 8 hours circana says",
    "title": "GTA 6 Launch-Day Players Averaged Over 8 Hours, Circana Says",
