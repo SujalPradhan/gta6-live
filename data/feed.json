@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T06:57:58+00:00",
- "started": "2026-11-23T06:57:51+00:00",
+ "updated": "2026-11-23T07:03:02+00:00",
+ "started": "2026-11-23T07:02:56+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T06:57:52+00:00"
+   "checked": "2026-11-23T07:02:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 36,
-   "checked": "2026-11-23T06:57:52+00:00"
+   "hits": 38,
+   "checked": "2026-11-23T07:02:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-23T06:57:53+00:00"
+   "hits": 62,
+   "checked": "2026-11-23T07:02:57+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T06:57:53+00:00"
+   "checked": "2026-11-23T07:02:57+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T06:57:53+00:00"
+   "checked": "2026-11-23T07:02:57+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T06:57:53+00:00"
+   "checked": "2026-11-23T07:02:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T06:57:54+00:00"
+   "checked": "2026-11-23T07:02:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T06:57:54+00:00"
+   "checked": "2026-11-23T07:02:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T06:57:55+00:00"
+   "checked": "2026-11-23T07:02:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T06:57:55+00:00"
+   "checked": "2026-11-23T07:02:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T06:57:55+00:00"
+   "checked": "2026-11-23T07:02:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T06:57:56+00:00"
+   "checked": "2026-11-23T07:02:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T06:57:56+00:00"
+   "checked": "2026-11-23T07:02:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T06:57:56+00:00"
+   "checked": "2026-11-23T07:02:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 sales near 4 billion after record breaking opening weekend",
+   "title": "GTA 6 sales near $4 billion after record-breaking opening weekend",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZG9lMXliWTdsQzBOM20wQnNDRlFDQnM2c2QyajBMNXFuRmxyWVlvYXJLdVh5N2oxQWo4emcyNkxzQVJrU0hhVmZLXzQybDNzQlp5alo5UFVzS2ZZYzhiREtWUjVCY1RUQlQ4YjBDMWQ2NTkySVJWUkFyNl9neURmRV9fTjRzOEpEU0U2THY2aENnSDJOQTMyS1dyd1pmWTRxb285MWpkM1o?oc=5",
+   "outlet": "IOL",
+   "via": "Google News",
+   "published": "2026-11-23T06:54:21+00:00",
+   "seen": "2026-11-23T07:02:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 sales near $4 billion after record-breaking opening weekend."
+  },
   {
    "id": "robbing banks is a blast but i wish there were more houses to repair in gta 6",
    "title": "Robbing Banks is a Blast, But I Wish There Were More Houses to Repair in GTA 6",
