@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T09:48:54+00:00",
- "started": "2026-11-23T09:48:50+00:00",
+ "updated": "2026-11-23T09:54:00+00:00",
+ "started": "2026-11-23T09:53:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,179 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T09:48:50+00:00"
+   "checked": "2026-11-23T09:53:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 38,
-   "checked": "2026-11-23T09:48:51+00:00"
+   "hits": 39,
+   "checked": "2026-11-23T09:53:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-23T09:48:51+00:00"
+   "hits": 59,
+   "checked": "2026-11-23T09:53:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T09:48:51+00:00"
+   "checked": "2026-11-23T09:53:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T09:48:52+00:00"
+   "checked": "2026-11-23T09:53:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T09:48:52+00:00"
+   "checked": "2026-11-23T09:53:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T09:48:52+00:00"
+   "checked": "2026-11-23T09:53:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T09:48:52+00:00"
+   "checked": "2026-11-23T09:53:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T09:48:52+00:00"
+   "checked": "2026-11-23T09:53:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T09:48:52+00:00"
+   "checked": "2026-11-23T09:53:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T09:48:53+00:00"
+   "checked": "2026-11-23T09:53:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T09:48:53+00:00"
+   "checked": "2026-11-23T09:53:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T09:48:53+00:00"
+   "checked": "2026-11-23T09:53:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T09:48:53+00:00"
+   "checked": "2026-11-23T09:53:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "why can t you play darts in gta 6 when you could in previous games because rockstar didn t have the resources to do it to a standard it d be",
+   "title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TeXhGRkpjalRPVU1zdmZLZGVta1ZfT0ZvLS1LbndfeXYtU2RqMWtnZlZEUVpCd3hDR3ZiV3A0WmUtcnBua3dfNWJ0bFAtUW5vSHAyMmRvWjhWMTdUdGNDME93c0ZMaGhfcjhXMk1nWmpyUkNwTXpDMjczYkp2azg?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-23T09:50:30+00:00",
+   "seen": "2026-11-23T09:53:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes the reason GTA 6 can't include darts is because Rockstar didn't have the resources to meet a standard they'd be happy with."
+  },
+  {
+   "id": "the truth about gta 6",
+   "title": "The Truth About GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RN29BeXBEdWRFdGZqc3oyZXZGQXlCdUJrbEpIN0ltUVFZM2RzTDJTamF2MHI3Mi0wcnlIaTM1eGRRSW9JeVU3ZWc3TkQ3SzZ5WmVhVXJRLVRHWkpz?oc=5",
+   "outlet": "Vocal",
+   "via": "Google News",
+   "published": "2026-11-23T09:48:56+00:00",
+   "seen": "2026-11-23T09:53:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story is titled The Truth About GTA 6 with no snippet provided."
+  },
+  {
+   "id": "shashi tharoor plays gta 6 calls demonetisation a theft",
+   "title": "Shashi Tharoor Plays GTA 6, Calls Demonetisation a Theft",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0stTHBLQy1jeU1KQ0FpbXo4Wm5nbUppMHdIU3B3bU5oMW9VNjRESVRuRElVWDlxSl9na2g3WS1qMU13eEhOblVTcnFneTZKWTNXUUF1VldubG14X0FoS292WklyX3ByQ0Y1OGpCbGhnU2RTZ29JOEFWbGpwRUtOeUtIcmRCQW9qS3VvYzY2TXN0T3BxZWF4ck1saUx1azlG?oc=5",
+   "outlet": "JournalArta",
+   "via": "Google News",
+   "published": "2026-11-23T09:47:25+00:00",
+   "seen": "2026-11-23T09:53:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Shashi Tharoor plays GTA 6 and calls Demonetisation a theft."
+  },
+  {
+   "id": "comedian amber wallin hid gta 6 role from husband for two years",
+   "title": "Comedian Amber Wallin Hid GTA 6 Role From Husband for Two Years",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUFM4eVFJVUdrRFJvamVYS1JiZ1JfV0hEc0FxOVk3ZUQtYWtQWFkwYUhkU1ZHXzd5bktnXzNTQjlQVkRMaG1Ya1hxdGFmR0Y4b3dRRWFGX2t2Z005ekhFSWRfM0U4THBUbExSRnRSSWUwc0JhSWdIeGllLVUwZnVzbTQ0cXlSU2FETThr?oc=5",
+   "outlet": "JournalArta",
+   "via": "Google News",
+   "published": "2026-11-23T09:47:12+00:00",
+   "seen": "2026-11-23T09:53:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Comedian Amber Wallin hid GTA 6 role from her husband for two years."
+  },
+  {
+   "id": "mark zuckerberg turned his wife priscilla chan into a gta 6 character who asks him to bring groceries an",
+   "title": "Mark Zuckerberg turned his wife Priscilla Chan into a GTA 6 character who asks him to bring groceries, an",
+   "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQUTNvSWU1MWtxUG5BNWQtZnJEdnJSMVIwOUp4Y3pRR1NBNk1HVS05VGtsdU9rb3FwYks1cXo3U2piOFotQzE5S2VuQkE4UGZmYWtPUi1mZHo1cHJnZDhQQm5QVzRFNk8wWWp0TDdnZEV6STVsVV9DSHpTMmN1a3FqLXBfRG1ROFlZUjQ4Z1dwbXg2UXZER2oxdVVBRFQ2elJhOGVHczFteUkzVW1XM0ZqRTB5Y21kT1RiWGpiYmlOR3FzZUZ5R29EYUR4N2owUVVvaHBqcWtyZUpMTHRTSENYcW9hUkQyME9ZWlY4a1BsWnExbVpyWF9Ud1NKbzluS1RiZFV3THVic0o5cnozd0dRbVBJeW0zclFTY29VTklTaElxMW5MbzFZb3RmT0lFTEd2eWItcER3VFlEczlPYnRKU2NqTlkyMHNmWkdCejlXMDljNkpHZVBzaEJpcFliRDZETnY5MFlkaWxQVXpyWWkydjJhVExiUWhnTGdBOdIBggNBVV95cUxPeF9LTjViVDNXZlpINkR0dU5HdFF3VGxNVVEtY1ZneFlzV2NSdFpwOURCTDZFRW5CWFBDcGp4eU44SHpmR21jVmI0eG9qSUo5ZTZOQm9OLWpiZ0ZGWlBfNHFKbDFhcnFiSWxVVnF4UlNnYkFyNXlwalI1SVh4TFgtX01QZ2tBY01faEcyZzNhNXo2NTg0VTZCeldSU21hbGx0Mk1sdlRqem5rNEIyX0pZX0piOHVHZUg0WmpkREcxdEJNQ0pSUWFSOWVHMTN5SkdzQy05emJueUdabl9NbzhJNHJVdVFjOGlLTmpnTWpZTzRwaC1jelM1YmJZc2Z6N2wtcDdRemhMbjljUDRjbXctcFhYTGRJYzBsam50QzFDbGRfR0tjYWJsVVBNTWxrR2hJVlB3MVh6MUJSMmEzTk83Zy1JNWg3S3FEaG1jVGFVMGJKREU0TVc3N04zSW4zWFNFU2wzR2ZvZjBHUW9QM005ZHMwbVFrQjNIeFJpSHZmcHkwUQ?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-23T09:45:00+00:00",
+   "seen": "2026-11-23T09:53:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Mark Zuckerberg turned his wife Priscilla Chan into a GTA 6 character who asks him to bring groceries."
+  },
+  {
+   "id": "soulcalibur is getting review bombed thanks to gta 6 and ocarina of time",
+   "title": "SoulCalibur Is Getting Review Bombed Thanks To GTA 6 And Ocarina Of Time",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWVN2cTZ2TXNLbGdZOGozSFJVeGFtelZULWZrV25vRnp0bWFUN0lVLTM2R2owQ0dhV0xDbFV6SnJ5SXVJajdDQV9HM1ZBWDVBTzc4U3VJUjIwSVRrNnhTTS1USmNkSjNsdGgxaUxrenVNeWdMR2VPLVBiaUctNGRwTjdJU2hJWURXQkdfZFk3OUozOUhVc05tX3RwcW9WMDRRLU83UGlCVjlqUQ?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-23T09:44:57+00:00",
+   "seen": "2026-11-23T09:53:54+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "SoulCalibur is receiving a review backlash tied to GTA 6 and Ocarina of Time."
+  },
   {
    "id": "gta 6 boss explains why classic mini games from previous games are missing",
    "title": "GTA 6 boss explains why classic mini-games from previous games are missing",
@@ -129,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Lana Del Rey celebrates ‘GTA 6’ launch with a Miami tour and Vice City Birkin."
+  },
+  {
+   "id": "durov deems gta 6 less realistic as crime gangs don t use telegram",
+   "title": "Durov deems GTA 6 less realistic as crime gangs don’t use Telegram",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVmNXSG9EWXU1ZUhfbDV5MnZMbzRLYWNCOWI3MFlMSHNSeWVka1NOZW1hNVNacklXMkFVWWNUVEFmSEpxaVBIWUJnSkhwcnJ0c205Smo5cjBPOTExaVVXeGRHZHc3bzNFQ2VN?oc=5",
+   "outlet": "Cybernews",
+   "via": "Google News",
+   "published": "2026-11-23T09:36:04+00:00",
+   "seen": "2026-11-23T09:53:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Durov says GTA 6 is less realistic because crime gangs don’t use Telegram."
   },
   {
    "id": "cardi b celebrates the release of grand theft auto vi with a 3 million rolex daytona",
@@ -194,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Naughty Dog’s Michael Barclay saying GTA 6 astonished him."
+  },
+  {
+   "id": "can you really play gta 6 in roblox",
+   "title": "Can You Really Play GTA 6 in Roblox?",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ORFllN2R6V19SSENsZVJhb1pYSmk4b2NYREVqMFJ2Q3YyclpuVEhCSkVEeFhXR2plcXl3ZlRJLVlxQmhGTl9DNnBQNTRlTTNyaE9DbWRoTGsxYnZkMFlYalhKNXJQSkdlMWdEeDM4RQ?oc=5",
+   "outlet": "Vocal",
+   "via": "Google News",
+   "published": "2026-11-23T09:05:55+00:00",
+   "seen": "2026-11-23T09:53:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 can be played in Roblox."
   },
   {
    "id": "gta 6 s mandy actress lexie shoaibi joins hasanabi s livestream and makes a surprising comment",
