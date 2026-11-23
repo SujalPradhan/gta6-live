@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T23:18:48+00:00",
- "started": "2026-11-23T23:18:43+00:00",
+ "updated": "2026-11-23T23:23:51+00:00",
+ "started": "2026-11-23T23:23:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T23:18:44+00:00"
+   "checked": "2026-11-23T23:23:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-23T23:18:44+00:00"
+   "hits": 54,
+   "checked": "2026-11-23T23:23:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-23T23:18:45+00:00"
+   "hits": 67,
+   "checked": "2026-11-23T23:23:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T23:18:45+00:00"
+   "checked": "2026-11-23T23:23:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-23T23:18:45+00:00"
+   "hits": 9,
+   "checked": "2026-11-23T23:23:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T23:18:45+00:00"
+   "checked": "2026-11-23T23:23:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T23:18:45+00:00"
+   "checked": "2026-11-23T23:23:47+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T23:18:46+00:00"
+   "checked": "2026-11-23T23:23:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T23:18:46+00:00"
+   "checked": "2026-11-23T23:23:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T23:18:46+00:00"
+   "checked": "2026-11-23T23:23:48+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T23:18:46+00:00"
+   "checked": "2026-11-23T23:23:48+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T23:18:46+00:00"
+   "checked": "2026-11-23T23:23:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T23:18:46+00:00"
+   "checked": "2026-11-23T23:23:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T23:18:46+00:00"
+   "checked": "2026-11-23T23:23:48+00:00"
   }
  },
  "items": [
+  {
+   "id": "one of gta 6 s most elaborate easter eggs has been solved",
+   "title": "One of GTA 6’s most elaborate Easter eggs has been solved",
+   "link": "https://www.videogameschronicle.com/news/one-of-gta-6s-most-elaborate-easter-eggs-has-been-solved/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-23T23:23:12+00:00",
+   "seen": "2026-11-23T23:23:46+00:00",
+   "summary": "A YouTuber has discovered one of GTA 6's biggest secrets",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "A YouTuber has discovered one of GTA 6's biggest secrets, solving one of its most elaborate Easter eggs."
+  },
+  {
+   "id": "gta 6 is giving an 80s new wave classic a second life four decades after its original release",
+   "title": "GTA 6 Is Giving an 80s New Wave Classic a Second Life, Four Decades After Its Original Release",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1VuR3FiMUJGQzhBYnF4azAycG9ibjl6SUxRVDlYYzRkRjdJNjZxalFaOFpiNlBJdkNnNURnZW1wb3JGSGhMa0RkTnVUNVBKLXo5LWVaSWdlYUdrakdOOVJKb1VsY09pWU8zTDlXOGxhaWhBUFBFb1hONmJHWTFlSnFhTnRNTFdMeWdoRUNLR0JQYjlhc09HVmtyNGFrODEzX1ViYlpfOFpUZjBjdEJUMW1GYUJEU1A1OVBiOEZHWkYwWGtL?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-23T23:15:10+00:00",
+   "seen": "2026-11-23T23:23:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is giving an 80s new wave classic a second life, four decades after its original release."
+  },
+  {
+   "id": "gta vi launch weekend sees nearly 45 million copies sold",
+   "title": "GTA VI Launch Weekend Sees Nearly 45 Million Copies Sold",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGdBaFBObTJ2QnM5cGdHTXFaU2FEQlBBUFlyWk5ROHN2cEVOVXpKSC1JMVRHOXVzRlR6bjZDMk8yM1dMaG0ycjh4Y0N5NFY5T2xPQ2FFdzhZZWo2a0pMdUFMMndLcnNVelBSNDRvZ3MySWlZZWg3UzE0V244UG5ia0dmODRCYmhpVjdFb0szb1J0Z2I1eHfSAZsBQVVfeXFMTUZsNE51OWQzSmREWlNKX3J1RnN3UGVjVVhYOXNUT2JHbHVHZlFHVEtCdUU0NzRBOXF0T3oxWUtpSFhmblBieHplYlhGMkVBdFgxZWpfR2NyeTlIRUVkdDFudllZVEJ3UDNMWkdxSy1OblhPeHJqdlRORHJjRm14SDZHd0RBLXRMRkp0Y2pWU0h6dzRZUWwzNWhDT2M?oc=5",
+   "outlet": "TechPowerUp",
+   "via": "Google News",
+   "published": "2026-11-23T23:14:05+00:00",
+   "seen": "2026-11-23T23:23:45+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI launch weekend saw nearly 45 million copies sold."
+  },
+  {
+   "id": "gta 6 breaks sales records across media gets cars broadly right",
+   "title": "'GTA 6' breaks sales records across media, gets cars broadly right",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RUGlEMlFnOUR4MDMyTVV2TUJHTXhPWVpEUldCSXJic1UwQnF1UTFEQzlKUXh2NTgwaW1Xd29rN3Q0c21zLU84Vm9uWkhVOTU2N1BIdkU1RlJWMl9HMkNHbnViQnhTNnNnR0had1B6SjVBeVZadmVV?oc=5",
+   "outlet": "Yahoo Lifestyle Canada",
+   "via": "Google News",
+   "published": "2026-11-23T23:13:13+00:00",
+   "seen": "2026-11-23T23:23:45+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 breaks sales records across media and gets cars broadly right."
+  },
   {
    "id": "how to get the fastest car in gta 6 for free truffade andrew node s thrax car location",
    "title": "How to Get The Fastest Car in GTA 6 For Free—Truffade Andrew Node’s Thrax Car Location",
@@ -207,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports where to find the Port Gellhorn serial killer in GTA 6."
+  },
+  {
+   "id": "gta 6 players found a 60 fps glitch but it s too unstable to stop me from wishing it was on pc already",
+   "title": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTGs3ZkwyeURma1lPUXN1LXo3eVA3NWRvSW4tdnRfTTYyMElLWW5jM0Q5RFVhQkN3Y1BpVnlseDBkSHRFQ0NkQXZCUUQ0QWd3N21Jci02dDhsRjZNR1FpY0xQWFRqazBoa3JyN195QXZsakhfU0xYc1lRbHRRWmhnaTZRbGZjbUpkMzhuREE2bWFUOUZxMHhsTVNtUXpaZ0FtNm9MZEFFSUkzeTVDYm9GY2VLTjVod2N4bktnbXNjcjA0WDdqbmdwVkcyRG1OZ0pVeU91NUJlVDF0cThJd2FyOGJycw?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-23T22:47:08+00:00",
+   "seen": "2026-11-23T23:23:45+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players found a 60 fps glitch, though it is too unstable to fix the desire for a PC version."
   },
   {
    "id": "can t wait to live stream gta 6 this trick lets you play it on your pc now",
@@ -482,6 +547,19 @@
    "ai_summary": "The story claims GTA 6 revived a 50-year-old country classic for a new generation."
   },
   {
+   "id": "gta 6 players upset new train can be stopped after spending 13 years with unstoppable gta 5 train",
+   "title": "GTA 6 Players Upset New Train Can Be Stopped After Spending 13 Years With Unstoppable GTA 5 Train",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOamRWMld4dkxZbUFQMFBaTWgtOGxwSEJQNGRuRmExS1hQVUd3YmJUVl9MckRyalZwTFhVNElzYkUwNVJTZFBnLWJsU0UzZ0lDb01VWDAzLVpKSXJKU1FWbnZEWXZWa0hkWkJYQV9xZHBDRllESkJET054VFBIS3dLRWpoejlmNmNLQ2w3X0hTQVdKcnNuSDZfOUlZZ0ZMLS1mQmF6OVhDX3BVUmk0TmV0ODdkVEZwS1ByUXNQTXdfTFFMVmdvdWVFbkVYRXpNNGx0SVlRSVBkY1dhMm1JYWhRZA?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-23T22:10:24+00:00",
+   "seen": "2026-11-23T23:23:45+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players are upset a new train can be stopped after spending years with an unstoppable GTA 5 train."
+  },
+  {
    "id": "gta 6 players discover fan favorite character is actually this beloved netflix show star",
    "title": "GTA 6 Players Discover Fan-Favorite Character Is Actually This Beloved Netflix Show Star",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTldiZ1R1cmtDZGU1MUlrbDZJX2cwSy04TWRoY1pCSDVQMFV3UE5iYTFvZnZPNHNWNmtiZlhncG1zVy1pMEU0VGZOaXF6anpvTUtVeE1vM0RtaGhYYjdEZ3pXMWJQV1ZpQ3I5elBybHJjRVhxNjBDRDBKMFR2WDBTYmdkazlqZklGLUVaRFN4Vk5JcW93LVV6akVn0gGfAUFVX3lxTE5HTzF6eHRZckpjdm4wR2YtRTdmWFlsUjB3UjVQa2ZsX1BaVnY0Y3JZQ0NjZ0NWMnZhZmpjU05uSU45N0ZNUXREbFpialE4TEozQ2Uybnc1bUd0VXVHUzNrZEM3ZDNtQkR5NVVjMWlvTXcwRlhWLTJscmF1TWpTT2ZOVTM1NG15QWtOWGVJNm5LalQzeFFNM2ZxMkZCYm52OA?oc=5",
@@ -493,6 +571,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "Story reports that a fan-favorite GTA 6 character is actually this beloved Netflix show star."
+  },
+  {
+   "id": "gta 6 waink app how to unlock hairstyles and makeup",
+   "title": "GTA 6 Waink App: How to Unlock Hairstyles and Makeup",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nODY2dVNBMXU2RUJsY0FfREE0NTJVVjdFOXF5RHFiYUhPbVB0QVhBdWdJLWpoTWRzTVM0d01SZVhYaDJVQlM4ZDVEZ093dXEtM19kRkFZSk9TbkJwRjdhbnNlUmNHNFBMR1NJS1BSWW1obGhuUmd1bg?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-23T22:06:50+00:00",
+   "seen": "2026-11-23T23:23:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 Waink App explains how to unlock hairstyles and makeup."
   },
   {
    "id": "d angelo s unheard gta vi song hits streaming",
