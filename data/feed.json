@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T13:45:13+00:00",
- "started": "2026-11-23T13:45:07+00:00",
+ "updated": "2026-11-23T13:50:18+00:00",
+ "started": "2026-11-23T13:50:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T13:45:08+00:00"
+   "checked": "2026-11-23T13:50:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 36,
-   "checked": "2026-11-23T13:45:08+00:00"
+   "hits": 37,
+   "checked": "2026-11-23T13:50:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-23T13:45:09+00:00"
+   "hits": 70,
+   "checked": "2026-11-23T13:50:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T13:45:09+00:00"
+   "checked": "2026-11-23T13:50:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T13:45:09+00:00"
+   "checked": "2026-11-23T13:50:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 53,
-   "checked": "2026-11-23T13:45:09+00:00"
+   "checked": "2026-11-23T13:50:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 28,
-   "checked": "2026-11-23T13:45:09+00:00"
+   "checked": "2026-11-23T13:50:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T13:45:09+00:00"
+   "checked": "2026-11-23T13:50:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T13:45:09+00:00"
+   "checked": "2026-11-23T13:50:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T13:45:10+00:00"
+   "checked": "2026-11-23T13:50:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T13:45:10+00:00"
+   "checked": "2026-11-23T13:50:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T13:45:10+00:00"
+   "checked": "2026-11-23T13:50:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T13:45:10+00:00"
+   "checked": "2026-11-23T13:50:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T13:45:10+00:00"
+   "checked": "2026-11-23T13:50:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi success causes spike in flight searches to miami",
+   "title": "‘GTA VI’ success causes spike in flight searches to Miami",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pd1lMSEFNTXd6U2dFaFhZWXVIZzB0V0JDUzNKcHBHdXFlQmptaUJiLUVPeGsya3hVaUVvWHRvZlg4UGhSOHdKM1hWaF9rTnh0YU9Wc1VHVW9IdVJsRVRrdW9CSVhfRGRB?oc=5",
+   "outlet": "WSVN",
+   "via": "Google News",
+   "published": "2026-11-23T13:43:20+00:00",
+   "seen": "2026-11-23T13:50:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI's success causes a spike in flight searches to Miami."
+  },
+  {
+   "id": "gta 6 s podcasts include a clever nod to its predecessors lead trio",
+   "title": "GTA 6’s Podcasts Include A Clever Nod To Its Predecessors’ Lead Trio",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSmJ6MFFnbEpLbkFHOTNQRzJ2bE4wYm1nVzRSZ29PVEdzS05ldmpOVzViYnFYaXRONHZKZER6alhFbGE4aGJDYlVyMHFkNWpwcFg5bkh5VFdLbm5ENnhCWXJvTV9VbFY5UXB4UloyOTR6d3FWTWtidGNneU9PTl9EbkUzQkFKS1F2SnBUSXBOWUpnVEU?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-23T13:40:54+00:00",
+   "seen": "2026-11-23T13:50:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6’s podcasts include a nod to its predecessors’ lead trio."
+  },
   {
    "id": "best funny gta 6 clips glitches npc encounters and accidents",
    "title": "Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents",
@@ -428,6 +454,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Cyberpunk 2 is cancelled, according to its director, after a GTA 6-induced depression."
+  },
+  {
+   "id": "cyberpunk 2 is cancelled says the rpg s director after entering a gta 6 induced open world game dev depression",
+   "title": "\"Cyberpunk 2 is cancelled,\" says the RPG's director after entering a \"GTA 6-induced-open-world-game-dev-depression\"",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQODJjek5WdjY4LUpRNTVtZEtBMks3el93aEtzUUl3MFY0WTRJNmt4SmhHSngxdlotVUQ5NDU5TTRxcFJjcFhkZVRtQjJDeXRpT3JRWkoyaW1JT2NyT25nWll6cm9EbElVeHJhWS00dnUtc1pTd3RHSjZISE9pWGRPc3p5b2hMWWlvbnRIZVZuREFhV2FpdlNLTzdLZEhrMjEwV3d0c2EybVA0YmZJSklNMVlwMUxkRDI2bWszbFJqQnNyV0FhaTNsdzVZZVd2bDU0cmltanVrQ09KZnd1ZnhfNVA1Mm1XRllFeTZ4bzRURXh1Zw?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-23T13:01:40+00:00",
+   "seen": "2026-11-23T13:50:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "\"Cyberpunk 2 is cancelled\" according to the RPG's director after experiencing a GTA 6–induced open-world game development depression."
   },
   {
    "id": "where to find the invetero coquette d10 supercar in gta 6 randy s wishlist car locations",
@@ -1949,6 +1988,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that initial complaints about GTA 6 'girlfriend simulator' are real, according to an ex-Rockstar lead, though he says he's enjoying the game now."
+  },
+  {
+   "id": "gta 6 girlfriend simulator complaints are real at first ex rockstar lead says but chapter 2 is where the grand theft auto magic kicks in",
+   "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says, but Chapter 2 is where the Grand Theft Auto \"magic kicks in\"",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOeGlEVDZNV3ZMR2ZfRUR2MTdWTHVWQVRvQ0VvWHpQMWJvQi1BUVJaZDhmdjlldEVGSjJiV1BEZ05nQkdBYjlTN2Etei1rQzZTTmpqY1NKMGhaQm9vSE5Dd1NiakJMd2V2T2N5Y3VBZHdRSnh5aHd2NVVnQ0NJQzJIMXE0aG9Db08wNGJ6MW9ZeWZkQldZQjhYVG9TRVFPRkRBVExoTlJXcDJvVkw0TlJGbjdCU2pPcVlLZ2lMeFl5UGRoeHl1RS16TlZMOVRvUTdwS1hDVDhlX1BUbTVMRmJWc1VhSC1zaGhFT2NUaGlrR3BFTnpSckxjSkRMcW5IZ2p1ZnVNRy1JOGxfZjdhcXBwQnVnTHZtUQ?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-23T11:10:18+00:00",
+   "seen": "2026-11-23T13:50:10+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports that complaints about GTA 6’s 'girlfriend simulator' are real at first, but Chapter 2 brings the Grand Theft Auto magic."
   },
   {
    "id": "gta 6 actor told developers put stop to anti trans violence in game",
