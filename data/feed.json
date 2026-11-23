@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T15:41:07+00:00",
- "started": "2026-11-23T15:40:59+00:00",
+ "updated": "2026-11-23T15:46:07+00:00",
+ "started": "2026-11-23T15:45:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,192 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T15:41:00+00:00"
+   "checked": "2026-11-23T15:45:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-23T15:41:00+00:00"
+   "checked": "2026-11-23T15:46:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-23T15:41:01+00:00"
+   "hits": 98,
+   "checked": "2026-11-23T15:46:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T15:41:01+00:00"
+   "checked": "2026-11-23T15:46:00+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T15:41:01+00:00"
+   "checked": "2026-11-23T15:46:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T15:41:01+00:00"
+   "checked": "2026-11-23T15:46:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 26,
-   "checked": "2026-11-23T15:41:02+00:00"
+   "checked": "2026-11-23T15:46:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 21,
-   "checked": "2026-11-23T15:41:02+00:00"
+   "hits": 22,
+   "checked": "2026-11-23T15:46:01+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T15:41:02+00:00"
+   "checked": "2026-11-23T15:46:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T15:41:03+00:00"
+   "checked": "2026-11-23T15:46:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T15:41:03+00:00"
+   "checked": "2026-11-23T15:46:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T15:41:03+00:00"
+   "checked": "2026-11-23T15:46:02+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T15:41:03+00:00"
+   "checked": "2026-11-23T15:46:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T15:41:04+00:00"
+   "checked": "2026-11-23T15:46:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again",
+   "title": "GTA 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again",
+   "link": "https://www.videogameschronicle.com/news/gta-6-hacker-who-leaked-footage-in-2022-has-been-released-on-licence-and-told-not-to-do-it-again/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-23T15:43:51+00:00",
+   "seen": "2026-11-23T15:46:01+00:00",
+   "summary": "Arion Kurtaj was deemed to fit to stand trial earlier this year",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again."
+  },
+  {
+   "id": "gta 6 sales hit 44 9 million cross 4 billion report",
+   "title": "GTA 6 Sales Hit 44.9 Million, Cross $4 Billion: Report",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EcTdYZ2FJY1o0ZFVfaWV3STkwSldLc2dmZDVwTHA2cEN2RkpZVDVRMGpzSUp6dDZGamlrdXo4Yk1JcHVPd1FDWlFyenhsblg1b3Q0OUxkbGE?oc=5",
+   "outlet": "Techgenyz",
+   "via": "Google News",
+   "published": "2026-11-23T15:42:50+00:00",
+   "seen": "2026-11-23T15:46:00+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sales reached 44.9 million with a report noting crossing four billion in revenue."
+  },
+  {
+   "id": "gta 6 hacker released from prison after judge warns him not to do it again",
+   "title": "GTA 6 hacker released from prison after judge warns him not to do it again",
+   "link": "https://www.dexerto.com/gta/gta-6-hacker-released-from-prison-after-judge-warns-him-not-to-do-it-again-3430673/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-23T15:41:16+00:00",
+   "seen": "2026-11-23T15:46:01+00:00",
+   "summary": "The hacker responsible for the massive GTA 6 leak in 2022 has been released from prison after receiving a seven-year sentence.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 hacker released from prison after a seven-year sentence, with a judge warning him not to do it again."
+  },
+  {
+   "id": "gta 6 update fixes autosaving game crashes and more",
+   "title": "GTA 6 Update Fixes Autosaving, Game Crashes, and More",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUlyRjRsa2R3Xzl1eG5fbjYxeHZtR0hMVzdzbWV1eUdPVnlsc2lZcWxLYWh5QVhRWlRaLXF4eEZjYnVuWk9ackJwd1U5RGNTbi1SZERSb3NZY1VqQlZHbWo0M0NrWkp6VHcxS2JLY19FckJCV2Z2aHoxTG11T29KVGRyb2NxRng3SkZ1MmluMjQ0TXFrYnpz?oc=5",
+   "outlet": "VGChartz",
+   "via": "Google News",
+   "published": "2026-11-23T15:40:03+00:00",
+   "seen": "2026-11-23T15:45:59+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "GTA 6 update fixes autosaving, crashes, and more."
+  },
+  {
+   "id": "cal thomas the poison of grand theft auto vi news herald",
+   "title": "Cal Thomas: The poison of Grand Theft Auto VI - News-Herald",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1ZWSG9uWE16SkpleDVNZmZiTDBRNlNTaExnWkJxM1hjRjlzeGVIUHNxeUxKQ0hKMDFzZ0s1aWpSUGJ6blhwc3NFWHd0NGFmZTJGbXFqRFhIY25nM1ZJXzZZVFROMlZKVC15dS1WT3Vod0ttQk9RRkpCakZuODRfdGRhNWt0ZEdCU21SUA?oc=5",
+   "outlet": "News-Herald",
+   "via": "Google News",
+   "published": "2026-11-23T15:38:47+00:00",
+   "seen": "2026-11-23T15:45:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Cal Thomas comments on the poison of Grand Theft Auto VI in News-Herald."
+  },
+  {
+   "id": "how to find golden lamborghini huracan and urus in gta 6",
+   "title": "How to find golden Lamborghini Huracan and Urus in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RbGRKR1NoU05SMGtGbFlCRzBFVjhtU2JfZEE3ZE8yRGVORko4T0k1QzJTMHB2UDI1YjA0UjBtZG93a3JaWUtGaGdIbzFYZHpJTEJPTDRtUEdVNXhRT18zUTNmQ05LakU?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-23T15:35:20+00:00",
+   "seen": "2026-11-23T15:45:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to find golden Lamborghini Huracan and Urus in GTA 6."
+  },
+  {
+   "id": "a gta 6 player finds tommy vercetti s shirt portal to original vice city",
+   "title": "A ‘GTA 6’ Player Finds Tommy Vercetti’s Shirt, Portal To Original Vice City",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYlYyLW8xbERRdUdCblA3NVk1Vms5Q2FReERzdVJzdXB3d2NWRVlkZ1pYSDI0VzRRYndvRU5DVXQ0czVzSndaX1VKTWxEZ0JIdmdlaTJWU0Z2TjdLbjhEb09nX3hwMW5tUjM5ZTZuY0xzRWxDN01DVFFuS2RDZDRaeTlQc2FrLXphbDlXTjZVekZIaERWZmlxSzZRVjdUbF9vNEREc2R0THJIN01FZDk4M25WWGZWRFY0SnhBWFBpbw?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-23T15:31:15+00:00",
+   "seen": "2026-11-23T15:45:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 player finds Tommy Vercetti’s shirt and a portal to original Vice City."
+  },
   {
    "id": "telegram ceo says the least realistic thing about gta 6 is that nobody uses his app to commit crimes",
    "title": "Telegram CEO Says The 'Least Realistic' Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
@@ -116,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Telegram CEO says the least realistic aspect of GTA 6 is that nobody uses his app to commit crimes."
+  },
+  {
+   "id": "grand theft auto vi has everything from bigfoot hightailing it to a dog riding a jet ski",
+   "title": "Grand Theft Auto VI has everything, from Bigfoot hightailing it to a dog riding a jet ski.",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSXJmTFl0TTZvUW5URzJGa1VmT2JadjI1akpBTncxTFQ0alNGUDc5Qm9YWnpUS3FoNWNPSGphUUthOEZwRFZZU1NWczNuNXd1X25wYlYzM19uM1E1NU9fOFlXQ3k3NU55ckVBWVNFZHdLaEVUWWpKbW91dEllMm11VF9yaWNYNVVuNGc?oc=5",
+   "outlet": "Golf Digest",
+   "via": "Google News",
+   "published": "2026-11-23T15:29:05+00:00",
+   "seen": "2026-11-23T15:45:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI features Bigfoot and a dog riding a jet ski."
   },
   {
    "id": "cyberpunk 2 director jokes game is cancelled after seeing gta 6",
@@ -142,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "How to obtain a Rocket Launcher early in GTA 6 is discussed."
+  },
+  {
+   "id": "gta 6 new patch update available",
+   "title": "GTA 6 New Patch Update Available",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SMkNnVS14Rk56MHFtdkllV0pZNVJiekN1VjFhMUt0bTZ1eURfZGR1Njc0Y3hJSFEwLUg4SUpzdEMxNl9VNTBDdlgzZVM1LW5VU3pteHN0dGZ2TUtubHY2a3czRExMWDNhZVZPNmkwUlU1UQ?oc=5",
+   "outlet": "PlayDayOne",
+   "via": "Google News",
+   "published": "2026-11-23T15:25:27+00:00",
+   "seen": "2026-11-23T15:45:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 new patch update available."
   },
   {
    "id": "these are the road rage moments most mirrored gta 6 in your real life",
@@ -740,6 +857,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 hacker sentenced to prison for leaking clips online."
+  },
+  {
+   "id": "how to sell stolen cars and bikes in gta 6",
+   "title": "How to sell stolen cars and bikes in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ2xCNFQ3RW54S1lYczZKV0MwX0NuczhZNWtISjlNQ0dTZlh6SWQyUGRJalg5bHJvY0d4ZnRaZzVYQXFqaU1yT1p1UXZkakJrcnFRV1FVaUJqUTJoR1JfcTZSVl9GUGJrNFVZUWhhVFdRRDhHYlQya2MwTGVoUU9wZm9sZGd1UQ?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-23T14:21:22+00:00",
+   "seen": "2026-11-23T15:46:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to sell stolen cars and bikes in GTA 6."
   },
   {
    "id": "how to find jet ski dog in gta 6 and get rescued at sea",
@@ -3329,6 +3459,19 @@
    "ai_summary": "The piece highlights GTA 6 including a Red Hulk parody with a helicopter moment reminiscent of Captain America: Brave New World."
   },
   {
+   "id": "best use of a big audience internet reacts after ibai llanos boosts a gta 6 streamer s views by twitch raid",
+   "title": "\"Best use of a big audience\": Internet reacts after Ibai Llanos boosts a GTA 6 streamer’s views by Twitch raid",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmhIaTlVd1pKbG56VHNUaVNobVNNaUZKUFFYUkF3Nlg0VU9TVlFKenlqSGtPay1zQTJDazBqcWE3NWNqNzdVZFBpM3JQWkkyQ3M0bERqSVllZ0lBVGNPazZlUXd4ZkxwRU1IMjctOTFQc1NQVjE0eFBnRzI0dkd4X2N3WDdyU0p3eTRqa05FT1lWN0NKcTRFbnY4azV4bVJuS2lRTlRiZUVzOUFXTjlhYTVR?oc=5",
+   "outlet": "primetimer.com",
+   "via": "Google News",
+   "published": "2026-11-23T10:58:00+00:00",
+   "seen": "2026-11-23T15:46:00+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "\"Best use of a big audience\": Internet reacts after a GTA 6 streamer’s views are boosted by a Twitch raid."
+  },
+  {
    "id": "gta 6 online rumors say you ll need to complete the game to play don t believe them",
    "title": "'GTA 6 Online' rumors say you'll need to complete the game to play. Don't believe them.",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa1lDU2s1VU8yYWdGNkRZelU2bzgzdEhRS0NHeU5MQU9lbjJwUTM3VHdJeEViS0xQN0VmTDNQM05ocGFOS25VXy1GYlVwZy16TWo0TWs3Q0RucUt5T21iWi04NWVTQldMdnhZb20xSjlsSTlBU0hLRzV3MEd6ZXR1M0IxVHBJSHFhZWF1eFRfc3JmN3VNNlJkS0VncDNILU9YbHlMWGQ1QnJXS0dYYWZ6NXhMcF9PT0UzLUE?oc=5",
@@ -3392,6 +3535,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Dexerto cites a former Rockstar artist on differences between Red Dead 2 and GTA 6 open world, noting less detailed countryside in GTA 6."
+  },
+  {
+   "id": "how long does it take to finish playing gta 6",
+   "title": "How Long Does It Take To Finish Playing GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkNEVnBla0JRc2U0MG9POGhVcWI3YnBsWnA4eU1vOVlPUWdYeEJTUDZYaXdIQTZPSURCNnlaTmoyRkVpSElCV0UwT2ZHT0x6MWJzUzB5N2dvYWkxLUZsVkJXVWJCRHZMdkUxbmRhQ3Y4NEZNQVdqVEtEN0E2bWNEVmd2Rml6a0pCclHSAY8BQVVfeXFMTjJMb3A0T3Z2V0lXamFGY0VXWE5NLWhsMmlra0NtaUxaLVl3dVY4YXBycmYyOWRoYndxSEhuWi1ja2VmakNJWUxhMnpXZWdLSDYtVGhYQURlSVhjR1g2VnlRMU9TZDkwalJYQjBzVlhfeGV4ZzNiN1RzYWtITnJzT0k2bWZrZEF1RjlGTVJYa1E?oc=5",
+   "outlet": "Free Press Journal",
+   "via": "Google News",
+   "published": "2026-11-23T10:53:09+00:00",
+   "seen": "2026-11-23T15:46:00+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "How long does it take to finish playing GTA 6?"
   },
   {
    "id": "want time off for gta 6 here are tips on how to ask your boss",
@@ -3574,6 +3730,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that Take-Two's GTA VI breaks sales records after launch."
+  },
+  {
+   "id": "gta 6 breaks sales records vance and trump administration mocked online",
+   "title": "GTA 6 breaks sales records, Vance and Trump administration mocked online",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0ZsRzZyOWFUNHlJTTZBcjl2ZXR3WGRBeDk4U21sSTRNYXd4Z2dMMHdIbjdmV1AxYkQ0ZjRINC01QkpiYXhJWWFvN05ZSDZRU2hMMjNhblltZ1dSeTNPMm13MmxUdmJUVEgxMlF3Tkg2TEhmUGRUckhuR3RwSnB4Uw?oc=5",
+   "outlet": "KOHA JONË",
+   "via": "Google News",
+   "published": "2026-11-23T10:31:10+00:00",
+   "seen": "2026-11-23T15:46:00+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 breaks sales records, with mockery directed at Vance and the Trump administration."
   },
   {
    "id": "toob sees record network traffic ahead of gta vi launch",
