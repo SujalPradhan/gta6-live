@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T15:31:03+00:00",
- "started": "2026-11-23T15:30:56+00:00",
+ "updated": "2026-11-23T15:35:58+00:00",
+ "started": "2026-11-23T15:35:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T15:30:56+00:00"
+   "checked": "2026-11-23T15:35:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 41,
-   "checked": "2026-11-23T15:30:57+00:00"
+   "hits": 53,
+   "checked": "2026-11-23T15:35:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-23T15:30:57+00:00"
+   "hits": 72,
+   "checked": "2026-11-23T15:35:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T15:30:57+00:00"
+   "checked": "2026-11-23T15:35:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T15:30:58+00:00"
+   "checked": "2026-11-23T15:35:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T15:30:58+00:00"
+   "checked": "2026-11-23T15:35:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 27,
-   "checked": "2026-11-23T15:30:59+00:00"
+   "checked": "2026-11-23T15:35:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T15:30:59+00:00"
+   "checked": "2026-11-23T15:35:55+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T15:30:59+00:00"
+   "checked": "2026-11-23T15:35:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T15:31:00+00:00"
+   "checked": "2026-11-23T15:35:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T15:31:00+00:00"
+   "checked": "2026-11-23T15:35:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T15:31:00+00:00"
+   "checked": "2026-11-23T15:35:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T15:31:00+00:00"
+   "checked": "2026-11-23T15:35:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T15:31:01+00:00"
+   "checked": "2026-11-23T15:35:56+00:00"
   }
  },
  "items": [
+  {
+   "id": "telegram ceo says the least realistic thing about gta 6 is that nobody uses his app to commit crimes",
+   "title": "Telegram CEO Says The 'Least Realistic' Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQWFCTWRQUEdWemxSdzFuZnFETEk0bHpjY1ktR08xODNTazk4bWFCV1AtNDNfYjVsN0M1aVdjeHpiZ1c1S3E5R21LS0F6enlxUGpPVmJVU0NVbVY5Q1lVWnpKaEVfTmRjYjRtclNsY0lFMWFwR2R4a3NjMnJSMTBDZHVRQU1EYXB2SFJfWURES1hJdERWMXRmUnk0Um5wTTB5cjRVZFRSUU85NHNQYmV0WFdHWF84WTdGR2ZQdGZqUzVBRnRzSlZwY19R?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-23T15:30:50+00:00",
+   "seen": "2026-11-23T15:35:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Telegram CEO says the least realistic aspect of GTA 6 is that nobody uses his app to commit crimes."
+  },
   {
    "id": "cyberpunk 2 director jokes game is cancelled after seeing gta 6",
    "title": "Cyberpunk 2 director jokes game is “cancelled” after seeing GTA 6",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The director joked that Cyberpunk 2 is cancelled after seeing GTA 6."
+  },
+  {
+   "id": "how to get a rocket launcher early in gta 6",
+   "title": "How to get a Rocket Launcher early in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EX2QzTE9iTmpJdTBGSC1XQVhtcEM0TjYwTkF4b0p4Nktibm9uX1UzVXVpQm90MjE2enJrUHgyaHp0S2ZybDA1Qll2dlVLdWdxZThWOXVOSDd5Q085OFM3OEFkYVU?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-23T15:26:10+00:00",
+   "seen": "2026-11-23T15:35:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to obtain a Rocket Launcher early in GTA 6 is discussed."
   },
   {
    "id": "these are the road rage moments most mirrored gta 6 in your real life",
@@ -194,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "First post-launch patch for GTA 6 released, but big changes are not expected."
+  },
+  {
+   "id": "gta vi update 01 002 002 patch notes released",
+   "title": "GTA VI Update 01.002.002 Patch Notes Released",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWxGTkpUSjdTN3FTWmpNLTljTGtHZE1YS0JKOU9TVDZMNTN1Mi15TzdHYUl3Q09tMVFzLUMtdmZwSFdQVzdLMVJXZGM4VFV2WkpxdE13bjBiV1ZOdi1LMkRfcmNjOWZwNngySWlfbmx0SEN5NlAwbHlMa182b0staDV3?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-23T15:16:40+00:00",
+   "seen": "2026-11-23T15:35:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI Update 01.002.002 patch notes have been released."
   },
   {
    "id": "grand theft auto vi and the illusion of monoculture",
