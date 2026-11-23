@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T08:48:36+00:00",
- "started": "2026-11-23T08:48:31+00:00",
+ "updated": "2026-11-23T08:53:36+00:00",
+ "started": "2026-11-23T08:53:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-23T08:48:32+00:00"
+   "hits": 98,
+   "checked": "2026-11-23T08:53:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-23T08:48:32+00:00"
+   "hits": 40,
+   "checked": "2026-11-23T08:53:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 63,
-   "checked": "2026-11-23T08:48:32+00:00"
+   "checked": "2026-11-23T08:53:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T08:48:33+00:00"
+   "checked": "2026-11-23T08:53:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T08:48:33+00:00"
+   "checked": "2026-11-23T08:53:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T08:48:33+00:00"
+   "checked": "2026-11-23T08:53:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T08:48:33+00:00"
+   "checked": "2026-11-23T08:53:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T08:48:33+00:00"
+   "checked": "2026-11-23T08:53:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T08:48:33+00:00"
+   "checked": "2026-11-23T08:53:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T08:48:34+00:00"
+   "checked": "2026-11-23T08:53:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T08:48:34+00:00"
+   "checked": "2026-11-23T08:53:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T08:48:34+00:00"
+   "checked": "2026-11-23T08:53:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T08:48:34+00:00"
+   "checked": "2026-11-23T08:53:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T08:48:34+00:00"
+   "checked": "2026-11-23T08:53:34+00:00"
   }
  },
  "items": [
+  {
+   "id": "the gta 6",
+   "title": "The GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ScE9FV2FQUEo1MHN4eEhzOVdEWkZtcUx6ZnR3ekRUb1lRdEQ0YV8yeGwxTkRhVlBWM0dOQWZwZ3NQTDd6Z0NtQlFNTWw?oc=5",
+   "outlet": "Vocal",
+   "via": "Google News",
+   "published": "2026-11-23T08:50:39+00:00",
+   "seen": "2026-11-23T08:53:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA 6 from Vocal with no snippet provided."
+  },
+  {
+   "id": "why this alleged gta 6",
+   "title": "Why This Alleged GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MdVVNS0tGeHBRTmJJWHRaUl9lQjFDTkx2ZTk1eFh4aEV4YTBxVjJWazZZcnUyLW5WcXhPb1I2M2FxMnVQVzc4X1hxYWx5eDhPTUxqX0hHQzJVSkRXeXc?oc=5",
+   "outlet": "Vocal",
+   "via": "Google News",
+   "published": "2026-11-23T08:50:39+00:00",
+   "seen": "2026-11-23T08:53:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses why this alleged GTA 6 topic is covered by Vocal, with no snippet provided."
+  },
+  {
+   "id": "gta vi the album is out now with justice fred again and a daft punk production",
+   "title": "GTA VI: The Album is out now with Justice, Fred again.. and a Daft Punk production",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLUpSYlgycGYzV1NJT2tQMDUyWTlsZVdwbXVoMmMxcHoyM3l6NVJELUtqVmtHbUNLQ2ZBVG9TeElEazExenFabXJVZ1luZjdwbWJ2OFVLSUFDQ25LUy1LcnZleVV4Z0hTTmNteDJiMFZIUUpuMHpraXQza1hUUEVSelRnQzI5SGx2dVRxRA?oc=5",
+   "outlet": "We Rave You",
+   "via": "Google News",
+   "published": "2026-11-23T08:50:26+00:00",
+   "seen": "2026-11-23T08:53:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story announces that GTA VI: The Album is released featuring Justice, Fred again.. and a Daft Punk production, per We Rave You."
+  },
+  {
+   "id": "gta 6 how to identify which houses you can enter",
+   "title": "GTA 6: How to Identify Which Houses You Can Enter",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRm9vMUpZTVJfZTJ3Q0lTa3VZeXZyUElsVlUtdE9ZRnVIMkQ1bGNzYmN3ak45Q21hMmFOUW5JdWZpMFFlX3Z0UHlRQ3NKSzRTV0ZvMmlPSnFiWUFvenlyLTFKNGZyMklX?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-23T08:45:24+00:00",
+   "seen": "2026-11-23T08:53:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to identify which houses you can enter in GTA 6, per DualShockers."
+  },
   {
    "id": "gta vi is being review bombed on metacritic",
    "title": "GTA VI is being review bombed on Metacritic",
