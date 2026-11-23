@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T08:38:30+00:00",
- "started": "2026-11-23T08:38:22+00:00",
+ "updated": "2026-11-23T08:43:31+00:00",
+ "started": "2026-11-23T08:43:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T08:38:23+00:00"
+   "checked": "2026-11-23T08:43:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-23T08:38:23+00:00"
+   "hits": 40,
+   "checked": "2026-11-23T08:43:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 77,
-   "checked": "2026-11-23T08:38:24+00:00"
+   "hits": 64,
+   "checked": "2026-11-23T08:43:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T08:38:24+00:00"
+   "checked": "2026-11-23T08:43:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T08:38:25+00:00"
+   "checked": "2026-11-23T08:43:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T08:38:25+00:00"
+   "checked": "2026-11-23T08:43:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T08:38:25+00:00"
+   "checked": "2026-11-23T08:43:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T08:38:25+00:00"
+   "checked": "2026-11-23T08:43:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T08:38:26+00:00"
+   "checked": "2026-11-23T08:43:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T08:38:26+00:00"
+   "checked": "2026-11-23T08:43:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T08:38:27+00:00"
+   "checked": "2026-11-23T08:43:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T08:38:27+00:00"
+   "checked": "2026-11-23T08:43:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T08:38:27+00:00"
+   "checked": "2026-11-23T08:43:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T08:38:27+00:00"
+   "checked": "2026-11-23T08:43:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "not macho enough why gta 6 is suddenly getting bombarded with zeros",
+   "title": "Not macho enough? Why “GTA 6” is suddenly getting bombarded with zeros",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1NVbXRFWThtd2FmY3ZoR1Npek10YzVPM2pPUmpERnd2bXgwaFQ4UFB2TFhVSDIwcjR5b3ZxRkw5Vmo0aDZ2UGlYNnpINUpvd094M3JGRkZ1a015UDlHMXJRWTM4TjctdnhsVUVwX003c0tBUlVwY3RZX21MTC1GVVVtSzdNYkkyOVBMS0tWbXpnVklVdHdZOFYzVzRUNzI0ZDFRdVptU0Vwa1lpOHdwMV93?oc=5",
+   "outlet": "blue News",
+   "via": "Google News",
+   "published": "2026-11-23T08:38:41+00:00",
+   "seen": "2026-11-23T08:43:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions why GTA 6 is suddenly getting bombarded with zeros, in relation to not seeming macho enough."
+  },
   {
    "id": "gta 6 players love its in game memes",
    "title": "'GTA 6' players love its in-game memes",
@@ -116,6 +129,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "'GTA 6' players love its in-game memes"
+  },
+  {
+   "id": "grand theft auto 6 breaks entertainment launch record with 3 79b in first day sales",
+   "title": "Grand Theft Auto 6 breaks entertainment launch record with $3.79B in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNWFRTkw5aEhySXdYNEs4T21iUWJFTGhTS20xY0xTQ2dMVFpxdU1wdkp6WnRhRE01MHZuS0FOSGJoUldpZkpTVXNjZlNRdE9KampQaGZzbVNkMjVKVlhrMGVMUm9kblk4VGFmaVM2bkVIYnFBU095MHUxb1JaZ2tOTkhmSEdsTExadlp6UFM5SUVGR1VmeXg2MTJkUUMydUJ6blAxOTFicU9aZFo0YjB1MjdiZHpLOUFuU296d0IxeU5IWnMxNDJLWDRLTVliLVk?oc=5",
+   "outlet": "Anadolu Ajansı",
+   "via": "Google News",
+   "published": "2026-11-23T08:33:16+00:00",
+   "seen": "2026-11-23T08:43:26+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 breaking entertainment launch records with a large first-day sales figure."
   },
   {
    "id": "how to finish pick up groceries in gta 6 any 3 items will do",
@@ -545,6 +571,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains the safehouses in GTA 6 and when each unlocks and what you can do inside."
+  },
+  {
+   "id": "bills poke fun at dolphins with grand theft auto vi post leading nfl week 11 trolls",
+   "title": "Bills poke fun at Dolphins with Grand Theft Auto VI post, leading NFL Week 11 trolls",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQakNsQnZTOHZiNDR6Z3RtaFJpeDZUM1YyOFpLTFZ2MHpZY1Zpa1hBaWlEQW1BS0ZsZmg5UEtlemlVR3czZkhzU3dKYjlsRUIzbmZraTRVajJhRExMZmlKVnllV2RXN21mOUxnczN1Y3hlaEZGQWVQeG5QZlI0X054UkpUWC1aMmYxWTE1VkkxLTIxbGxVbVpaTjVLTTBVbTh4UmUzOGhVbG5aQmFRcFg4WklNMTZRX0FtN2d4TXlleDRNUQ?oc=5",
+   "outlet": "Decatur Radio",
+   "via": "Google News",
+   "published": "2026-11-23T06:29:30+00:00",
+   "seen": "2026-11-23T08:43:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes Bills use a Grand Theft Auto VI post to troll Dolphins and highlight NFL Week 11 trolling."
+  },
+  {
+   "id": "dexter morgan s apartment location in gta 6",
+   "title": "Dexter Morgan’s Apartment Location in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxSmlONWdyMHpWWDNIdThZQjRHZVZJZ2t5aDk4MG9xN3NSMW9qaGJhN0dRaFk5ZE82MkNycTUxamZGN3ZnRmc0bm9hOWo5WEVMcktJYVFUTzBBNWlzR3I3Rkl1TDRCR3M?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-23T06:28:18+00:00",
+   "seen": "2026-11-23T08:43:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reveals Dexter Morgan’s apartment location in GTA 6."
   },
   {
    "id": "grand theft auto vi s economic impact",
