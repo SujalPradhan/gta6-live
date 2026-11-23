@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T20:02:35+00:00",
- "started": "2026-11-23T20:02:28+00:00",
+ "updated": "2026-11-23T20:07:38+00:00",
+ "started": "2026-11-23T20:07:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T20:02:28+00:00"
+   "checked": "2026-11-23T20:07:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-23T20:02:29+00:00"
+   "checked": "2026-11-23T20:07:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-23T20:02:29+00:00"
+   "hits": 97,
+   "checked": "2026-11-23T20:07:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T20:02:29+00:00"
+   "checked": "2026-11-23T20:07:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T20:02:29+00:00"
+   "checked": "2026-11-23T20:07:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T20:02:30+00:00"
+   "checked": "2026-11-23T20:07:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T20:02:30+00:00"
+   "checked": "2026-11-23T20:07:33+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T20:02:30+00:00"
+   "checked": "2026-11-23T20:07:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T20:02:30+00:00"
+   "checked": "2026-11-23T20:07:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T20:02:31+00:00"
+   "checked": "2026-11-23T20:07:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T20:02:31+00:00"
+   "checked": "2026-11-23T20:07:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T20:02:31+00:00"
+   "checked": "2026-11-23T20:07:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T20:02:31+00:00"
+   "checked": "2026-11-23T20:07:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T20:02:31+00:00"
+   "checked": "2026-11-23T20:07:34+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 players are learning the hard way not to steal teslas",
+   "title": "GTA 6 Players Are Learning the Hard Way Not to Steal Teslas",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96OXZwdTJFb01LOGpsbXgtZ0Nkek1DbUtSTEQwRmpnNVB6c2ZlaDM3S3VKd2ZBVGdzcmNPTHotNkhwQUU3a1Z6cktMdnlxcTBPWVMyRXl0U19oYm9KNnhscl9XcFlubnBVak13?oc=5",
+   "outlet": "Consequence of Sound",
+   "via": "Google News",
+   "published": "2026-11-23T20:01:07+00:00",
+   "seen": "2026-11-23T20:07:31+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports players are learning not to steal Teslas in GTA 6."
+  },
+  {
+   "id": "d angelo s estate releases posthumous song kamikazi for gta 6 singer approved this track before his death",
+   "title": "D’Angelo’s Estate Releases Posthumous Song ‘Kamikazi’ for ‘GTA 6’: Singer ‘Approved This Track’ Before His Death",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2VIZEo5dmNZdVhaUmRTMXFmaWplOS1zdFNQejhZZEhkSl9fRDlnMXlzS3BCMUZydVdiVjlYRXZXaEdlX083YVFpYmdSbHBwTlg2ZjJ5T1Z3SWpmNGVZUE9YREpaN0x0ak9KZXFhczFzdkZ0TnhtZWdma3Rwc1Qta3ZJdmtxYUR5ejMzdUxnT1ZXaXZvNU84cjc3Ymw?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-23T20:01:02+00:00",
+   "seen": "2026-11-23T20:07:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a posthumous song released for GTA 6, with the singer approving the track before death."
+  },
   {
    "id": "gta 6 s first platinum trophy has been unlocked and here s how long it took",
    "title": "GTA 6's first platinum trophy has been unlocked, and here's how long it took",
@@ -116,6 +142,45 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports the first platinum trophy for GTA 6 has been unlocked and includes how long it took."
+  },
+  {
+   "id": "gary plauche who killed his son s kidnapper spotted in gta vi airport",
+   "title": "Gary Plauche, who killed his son's kidnapper, spotted in 'GTA VI' airport",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmtYOTEtdG1iX3VUbHZZakUxZkpiWWl4S3k0cDktcU43V0VtZlZmbjl5WmZMXzZkc2V0Z3JjcWpGcWtBak50M0p0WmFTRTdCWFo5UW5qQ1VUb0NFWEcxYjJNS0pzY0sxeEFLY1NJRG56b09UbThiekdOaFo3UkRxQmtfS0ppeXU2SzhFMTVxbTQtMGJaVGFJSkktM2k?oc=5",
+   "outlet": "WBRZ",
+   "via": "Google News",
+   "published": "2026-11-23T19:59:22+00:00",
+   "seen": "2026-11-23T20:07:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Gary Plauche was spotted in GTA VI airport."
+  },
+  {
+   "id": "the last of us 2 dev says gta 6 is the great pyramids of game development",
+   "title": "The Last of Us 2 dev says \"GTA 6 is the great pyramids of game development\"",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/the-last-of-us-2-dev-says-gta-6-is-the-great-pyramids-of-game-development-in-that-people-will-be-asking-for-centuries-how-it-was-possible/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-23T19:58:13+00:00",
+   "seen": "2026-11-23T20:07:33+00:00",
+   "summary": "\"The sheer size of the script must be mind boggling\"",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports The Last of Us 2 dev calls GTA 6 the great pyramids of game development, noting the script's vast size."
+  },
+  {
+   "id": "another gta vi glitch unlocks frame rates on xbox",
+   "title": "Another GTA VI Glitch Unlocks Frame Rates on Xbox",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV05VR1dpNWdTMjNmRW9PdEFCQ1ZVa2kxQlhqRWpGQW15aDJUS2ppT2w1SVR2R0Z6eFViZ2JvS0Z5blFsZ3o2V2xqdUViRU9QU3dFUWNISTV4MVgyUGFhS3A2X2FoQUxtNURxemNwVldoXzlGcm1oMFY2ZHRYX2ltbGFyQVlKUFlYTE5rT9IBkgFBVV95cUxOZGhzdFVpS3ktSG1sNUtPNlhVUjhOb191a3ozdzZ6WlFqSkduV2JBYTdROUhOTUdOa2lmaVdOVnVxUVFZc1QwbWFMaGxoNWFzYU4tS1Fkb2gxR3NhZjVRamliSjAyaWpIM2FfUjZoY1dUS3IyR2ItR2VsTThOSkhqTWVBSTRHWmh4VkVLU1N0ZXJ6UQ?oc=5",
+   "outlet": "TechPowerUp",
+   "via": "Google News",
+   "published": "2026-11-23T19:56:28+00:00",
+   "seen": "2026-11-23T20:07:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports another GTA VI glitch unlocks frame rates on Xbox."
   },
   {
    "id": "gta 6 what grady judd ashley moody and more have to say",
@@ -1585,6 +1650,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The story notes a lineup including Travis Scott, Slayyyter, Offset, and Anitta contributing to GTA VI: The Album Deluxe Edition."
+  },
+  {
+   "id": "gta 6 launch reactions discoveries in leonida",
+   "title": "GTA 6 launch reactions: discoveries in Leonida",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43MGtaWEpQRDUtMHdjYUJWbUFPT3gzaGMwN2t3YU5XaWw4a2Fxc1RLeFVrOFp4dnVRVzZPZnA2YTF1QUYxZFo3WWVxREJCV1lvT2Yxbkp0ZnRKVkJVTlR3TURHdFJhWUxjakVlb3JtUHhBdnNNVkpjelZ4cw?oc=5",
+   "outlet": "NeoTeo",
+   "via": "Google News",
+   "published": "2026-11-23T17:12:25+00:00",
+   "seen": "2026-11-23T20:07:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports reactions to GTA 6 launch mentioning discoveries in Leonida."
   },
   {
    "id": "how to play gta 6 in first person mode via a recently found glitch",
