@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:11:58+00:00",
- "started": "2026-11-23T18:11:50+00:00",
+ "updated": "2026-11-23T18:17:10+00:00",
+ "started": "2026-11-23T18:17:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-23T18:11:51+00:00"
+   "hits": 99,
+   "checked": "2026-11-23T18:17:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-23T18:11:51+00:00"
+   "hits": 51,
+   "checked": "2026-11-23T18:17:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-23T18:11:52+00:00"
+   "hits": 75,
+   "checked": "2026-11-23T18:17:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T18:11:52+00:00"
+   "checked": "2026-11-23T18:17:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T18:11:52+00:00"
+   "checked": "2026-11-23T18:17:05+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T18:11:53+00:00"
+   "checked": "2026-11-23T18:17:05+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:11:53+00:00"
+   "checked": "2026-11-23T18:17:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T18:11:53+00:00"
+   "checked": "2026-11-23T18:17:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-23T18:11:54+00:00"
+   "hits": 4,
+   "checked": "2026-11-23T18:17:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T18:11:54+00:00"
+   "checked": "2026-11-23T18:17:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T18:11:54+00:00"
+   "checked": "2026-11-23T18:17:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T18:11:55+00:00"
+   "checked": "2026-11-23T18:17:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T18:11:55+00:00"
+   "checked": "2026-11-23T18:17:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T18:11:55+00:00"
+   "checked": "2026-11-23T18:17:07+00:00"
   }
  },
  "items": [
+  {
+   "id": "voice actor joins in on grand theft auto vi s release",
+   "title": "Voice actor joins in on Grand Theft Auto VI's release",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3JZTFVBdjNpNnl2cTlReWxRTHNveF9MOVBFb3dSTnZsT0laOThfODFOSHFVSVhXSjZZc2F0Wlh4OF9FZnc3NW93N2JZY0VHZjdLOXBjcXF4UWVfSkRBNDJQTHUtZE5wenBjVGZNSms2QTM4YzVZeWpVVzVGMUFwcVFR?oc=5",
+   "outlet": "The Sporting Tribune",
+   "via": "Google News",
+   "published": "2026-11-23T18:15:11+00:00",
+   "seen": "2026-11-23T18:17:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a voice actor joins Grand Theft Auto VI's release."
+  },
+  {
+   "id": "what impact is playing grand theft auto vi having on elite athletes performances sean ingle",
+   "title": "What impact is playing Grand Theft Auto VI having on elite athletes’ performances? | Sean Ingle",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRllCME5FVXRwd3lVd2R5WGxzanZtMlRBOXFtM1Z4NkpNU0dyMWthYm9wYXBHeUV0amJWOGxGekhoejR5U1JjWVdpaFdHclVMMVRUNTR5dTZCNE10V3EzUUFPNEE5TTdmbkJ0MlUyMlF6a3JNNmhtVzByUzhmVjZ5dUNKWXI0NmNPdWNfMXhPTDlNWndhT0l6aXBqRlNPeWc4OHhrcEdJTU5oMThCcTdYRnFPQi15ZlBfNW9DZ1hhRmZBX2lIamJB?oc=5",
+   "outlet": "The Guardian",
+   "via": "Google News",
+   "published": "2026-11-23T18:14:00+00:00",
+   "seen": "2026-11-23T18:17:03+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports on the impact playing Grand Theft Auto VI has on elite athletes’ performances."
+  },
+  {
+   "id": "gta 6 new look mission guide getting a haircut at pearl house in port gellhorn",
+   "title": "GTA 6 New Look mission guide: getting a haircut at Pearl House in Port Gellhorn",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTIydl9qVFhTUi1MMDh2amlNYWVJX0x3Z1cwczJTVGg4dk5GZzE4QVQ1OW5GWGt4RlFQM05yZWUwN3VTdl9vZ0hpS2FYYXc5NEJQcVlGQVpoZzB3eEJwS3JLWHl5Zk5hUEI4ZExyU1ctRmJKWTBNTWl5QVZRZEczMFlJZ00tTERDY3NmSmE5d25sdzdlRzR1czNkV1pxY28?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T18:11:47+00:00",
+   "seen": "2026-11-23T18:17:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a guide for a GTA 6 New Look mission involving getting a haircut at Pearl House in Port Gellhorn."
+  },
   {
    "id": "gta vi handles better because actual racing drivers made it",
    "title": "GTA VI Handles Better Because Actual Racing Drivers Made It",
@@ -636,6 +675,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The story notes a lineup including Travis Scott, Slayyyter, Offset, and Anitta contributing to GTA VI: The Album Deluxe Edition."
+  },
+  {
+   "id": "how to play gta 6 in first person mode via a recently found glitch",
+   "title": "How To Play GTA 6 In First Person Mode Via A Recently Found Glitch",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rSC1hMW1jOWNHaGF3VnZIQmJZTldHUkFIQW1YYUFmdm9DSndESk9VVlF5TGwzNy1WTUlrQ3Zra0x6RnlCcE9UTzVzYVpJdl8yUEdrSmp6b2hJTDdZRS1oaUxrdVVUQndnSzZ0d2s5cEVodFdiZjFn?oc=5",
+   "outlet": "HotHardware",
+   "via": "Google News",
+   "published": "2026-11-23T17:12:00+00:00",
+   "seen": "2026-11-23T18:17:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports instructions to play GTA 6 in first person mode via a recently found glitch."
   },
   {
    "id": "a gta 6 player finds tommy vercetti s shirt and portal to original vice city",
@@ -1819,6 +1871,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "How to find golden Lamborghini Huracan and Urus in GTA 6."
+  },
+  {
+   "id": "grand theft auto vi 01 002 002 bug fix update has started rolling out but some users will reportedly have to wait 6 hours to get it",
+   "title": "Grand Theft Auto VI 01.002.002 Bug Fix Update Has Started Rolling Out, But Some Users Will Reportedly Have to Wait 6 Hours To Get It",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OV3d3SGtyRnRmN19kdUtLem9uYUpMWjdVVW00bTJWODlEbi1TTDlOX1pLZ040RjVjYkpEQk1TbWlmRUlFdjNhWTdwYURncnpVcTIxMFN0Z3AwaS10QWpHVEpxN1BUb1lIOFlz0gFwQVVfeXFMTmJGcDJMX1FOXzlCU2xZSWdZVF9qSHVBUlVDRnJLWEZ4SXhNOU03ci1pY0YxUDBHcHlpWUdXV3c0SDJjV2JHYW4wWFRUOWtLU2h0RDZRV3gwSldoeTJFLWZ1UHFPaHQtQzh3RGZhMTZaVA?oc=5",
+   "outlet": "Wccftech",
+   "via": "Google News",
+   "published": "2026-11-23T15:31:30+00:00",
+   "seen": "2026-11-23T18:17:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a GTA VI bug fix update has started rolling out, with some users waiting hours to get it."
   },
   {
    "id": "a gta 6 player finds tommy vercetti s shirt portal to original vice city",
