@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:37:08+00:00",
- "started": "2026-11-23T18:37:00+00:00",
+ "updated": "2026-11-23T18:42:16+00:00",
+ "started": "2026-11-23T18:42:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T18:37:01+00:00"
+   "checked": "2026-11-23T18:42:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-23T18:37:01+00:00"
+   "checked": "2026-11-23T18:42:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 76,
-   "checked": "2026-11-23T18:37:02+00:00"
+   "checked": "2026-11-23T18:42:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T18:37:02+00:00"
+   "checked": "2026-11-23T18:42:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T18:37:02+00:00"
+   "checked": "2026-11-23T18:42:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T18:37:02+00:00"
+   "checked": "2026-11-23T18:42:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:37:03+00:00"
+   "checked": "2026-11-23T18:42:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:37:03+00:00"
+   "checked": "2026-11-23T18:42:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T18:37:04+00:00"
+   "checked": "2026-11-23T18:42:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T18:37:04+00:00"
+   "checked": "2026-11-23T18:42:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T18:37:04+00:00"
+   "checked": "2026-11-23T18:42:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T18:37:04+00:00"
+   "checked": "2026-11-23T18:42:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T18:37:05+00:00"
+   "checked": "2026-11-23T18:42:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T18:37:05+00:00"
+   "checked": "2026-11-23T18:42:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "i streamed gta vi to my pc it was awesome even with lag",
+   "title": "I streamed GTA VI to my PC – it was awesome, even with lag",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOEVNTXdzTENmYXZCa0JPcWhidVVkZ0VXU1JoVW81YUI0TWdmak5tcmtRTkpsX2JsRGpzVWNmYnA4SVZ2U1FxbVNDQU1VbVl1WGJwSms0YW5aWmxBOHVhdFNJeURfUVh1TlpvQ1dIcVdRZWc0bThtc1piZnJyQVcxMWN5bmtQclY4MmVB?oc=5",
+   "outlet": "ZDNET",
+   "via": "Google News",
+   "published": "2026-11-23T18:39:58+00:00",
+   "seen": "2026-11-23T18:42:10+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports streaming GTA VI to a PC was awesome despite lag."
+  },
+  {
+   "id": "gta 6 pc rumors what s real and what s just hype",
+   "title": "GTA 6 PC Rumors: What's Real and What's Just Hype",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5elYwVXFYT1ZYSmpoSThtZDFSZ09wMVhMWkVvY3RJVTFTU3RhWldIMXlMRWdYM1k4NzhTaFNCMHN1d3hRSEl1VGZEaWpUS3A3cTJrNnRlYXB6MkY2WmZRMEduTWNvY29PZ2NFeVhJVVlNWFkyZnRKbw?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-23T18:38:45+00:00",
+   "seen": "2026-11-23T18:42:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses what in GTA 6 PC rumors is real and what is hype."
+  },
   {
    "id": "10 best early game vehicles in gta vi",
    "title": "10 Best Early Game Vehicles in GTA VI",
@@ -116,6 +142,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story lists the best early game vehicles in GTA VI."
+  },
+  {
+   "id": "gta 6 releases a post launch patch fixing its biggest issues",
+   "title": "GTA 6 Releases A Post-Launch Patch Fixing Its Biggest Issues",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWxSTEJGU1dJUllHdWFBeGgxQWFNUlFpYjhsVTNEQnF6TnV5Si1RWEFCY243RUllOENQaDdHbDZUWjVxRy0wMVFJVUtjZzNyNTVneERYdWlGV2dybDBkc0dSa0pVc2tKRWFrTjYyWXdjaWpBRjZVY2U0M3hZX2szNTVwcWMtZFV6N0loWFJXRWFPR19iTEhtbUpn?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-23T18:34:58+00:00",
+   "seen": "2026-11-23T18:42:10+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "The story states a post-launch patch fixes GTA 6's biggest issues."
+  },
+  {
+   "id": "you can buy airpods knockoffs in gta 6 and listen to the radio on foot",
+   "title": "You Can Buy AirPods Knockoffs in GTA 6 and Listen to the Radio on Foot",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JTnZOZTBzRTdIVmZERERXd2xaRHFUTWMydXBacm5IMDU1allSbnp0a2RQU2g1ZnBNeHhvRzhlMVZiUHZJUlFlOGhSbFI4bnRncDF6MDdOb0hJUjZoZFF5NjJ0dGo0cTRVRUJGbGxRUQ?oc=5",
+   "outlet": "Consequence of Sound",
+   "via": "Google News",
+   "published": "2026-11-23T18:33:57+00:00",
+   "seen": "2026-11-23T18:42:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes you can buy AirPods knockoffs in GTA 6 and listen to the radio on foot."
   },
   {
    "id": "first gta 6 update fixes weather game crashes wanted level glitches and more",
