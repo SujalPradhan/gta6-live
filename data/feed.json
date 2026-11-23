@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T02:11:24+00:00",
- "started": "2026-11-23T02:11:19+00:00",
+ "updated": "2026-11-23T02:16:28+00:00",
+ "started": "2026-11-23T02:16:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T02:11:20+00:00"
+   "checked": "2026-11-23T02:16:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-23T02:11:20+00:00"
+   "hits": 41,
+   "checked": "2026-11-23T02:16:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 85,
-   "checked": "2026-11-23T02:11:21+00:00"
+   "hits": 68,
+   "checked": "2026-11-23T02:16:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T02:11:21+00:00"
+   "checked": "2026-11-23T02:16:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T02:11:21+00:00"
+   "checked": "2026-11-23T02:16:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T02:11:21+00:00"
+   "checked": "2026-11-23T02:16:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T02:11:22+00:00"
+   "checked": "2026-11-23T02:16:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T02:11:23+00:00"
+   "checked": "2026-11-23T02:16:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T02:11:23+00:00"
+   "checked": "2026-11-23T02:16:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T02:11:23+00:00"
+   "checked": "2026-11-23T02:16:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T02:11:23+00:00"
+   "checked": "2026-11-23T02:16:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T02:11:23+00:00"
+   "checked": "2026-11-23T02:16:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T02:11:24+00:00"
+   "checked": "2026-11-23T02:16:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T02:11:24+00:00"
+   "checked": "2026-11-23T02:16:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "geekerwan estimates gta 6 could run at 60 fps on a less costly pc",
+   "title": "Geekerwan estimates GTA 6 could run at 60 fps on a less costly PC",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcDB6SENDUzNtMjdOaGRINm9BQUhBTXVRMW1MSWNucmtTVzdRVEFjeU1aYnZDY0doUmYxbGVKdkNibHRxcFMzWnBHelR6TWloRkVxOTRkUEVSX3RQaTVGanlqQ2lWYTZmc2k4YnBvTF9mTWNkSDhsMVUwTHVpdGFscER2RnRQaFFsWnc?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-23T02:14:38+00:00",
+   "seen": "2026-11-23T02:16:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Geekerwan estimates GTA 6 could run at 60 fps on a less costly PC."
+  },
+  {
+   "id": "gta 6 aircraft which helicopters and planes are confirmed so far",
+   "title": "GTA 6 aircraft: which helicopters and planes are confirmed so far",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDVHbFZxbzVQdDVOLVVBU2Vha1FZelZ3R0hOV3ZuNkRPVlFOY28tVFpHZzF6VUxxaXdaNEtUYTdqajlDelg2ek1TYkQ5WTU5RVNBUWd5MVZhTHRPTmxKS2NRRFowTXQycFJ4RnJWU3hnR2Z1eEhSeUNSOEczRlo0QUtNZDlId3NQdTlXQg?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T02:11:43+00:00",
+   "seen": "2026-11-23T02:16:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 aircraft: which helicopters and planes are confirmed so far."
+  },
+  {
+   "id": "this gta 6 npc realizes there s an actual human controlling jason and she s terrified in rockstar s newest universe npcs are starting to que",
+   "title": "This GTA 6 NPC realizes there's an actual HUMAN controlling Jason. And she's TERRIFIED. In Rockstar's newest universe NPCs are starting to question their own existence. WTF are we playing anymore? Writer: Oliver",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMXBqcHEwcXNoM0hCbUhmMnJNT0c3VWVfRGpfaW5ndl9rZV9IekhhSWVrWEdjeThEM1d2dG1pcWdNcnBDa0k2dnpGUEF2QVpaV3QwTVVjT21pVlRpNXZPV0RqaUJValJLOGlOaw?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-23T02:08:54+00:00",
+   "seen": "2026-11-23T02:16:22+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "This GTA 6 NPC realizes there's an actual HUMAN controlling Jason and is terrified."
+  },
   {
    "id": "who plays lucia in gta 6 manni l perez s ethnicity other credits and more",
    "title": "Who Plays Lucia In ‘GTA 6’? Manni L. Perez’s Ethnicity, Other Credits And More",
