@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T23:23:51+00:00",
- "started": "2026-11-23T23:23:44+00:00",
+ "updated": "2026-11-23T23:28:50+00:00",
+ "started": "2026-11-23T23:28:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T23:23:45+00:00"
+   "checked": "2026-11-23T23:28:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-23T23:23:45+00:00"
+   "checked": "2026-11-23T23:28:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-23T23:23:45+00:00"
+   "hits": 97,
+   "checked": "2026-11-23T23:28:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T23:23:46+00:00"
+   "checked": "2026-11-23T23:28:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T23:23:46+00:00"
+   "checked": "2026-11-23T23:28:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T23:23:46+00:00"
+   "checked": "2026-11-23T23:28:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T23:23:47+00:00"
+   "checked": "2026-11-23T23:28:46+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T23:23:47+00:00"
+   "checked": "2026-11-23T23:28:46+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T23:23:47+00:00"
+   "checked": "2026-11-23T23:28:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T23:23:48+00:00"
+   "checked": "2026-11-23T23:28:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T23:23:48+00:00"
+   "checked": "2026-11-23T23:28:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T23:23:48+00:00"
+   "checked": "2026-11-23T23:28:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-23T23:23:48+00:00"
+   "hits": 4,
+   "checked": "2026-11-23T23:28:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T23:23:48+00:00"
+   "checked": "2026-11-23T23:28:47+00:00"
   }
  },
  "items": [
+  {
+   "id": "the hacker behind early gta vi leaks has been sentenced and released",
+   "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+   "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+   "outlet": "The Verge",
+   "via": "The Verge",
+   "published": "2026-11-23T23:25:01+00:00",
+   "seen": "2026-11-23T23:28:47+00:00",
+   "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game's public release […]",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The hacker who pleaded guilty to hacking Rockstar Games and other companies was sentenced to seven years in prison but released on license."
+  },
+  {
+   "id": "gta vi sets a record for launch revenue according to alinea analytics",
+   "title": "GTA VI sets a record for launch revenue, according to Alinea Analytics.",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0RqT3VkVFN5VXRodFFCX0E2bmJES216ZjlCNGljbmNJYm1rQlE5SnlFODByWTBsRk5WOXlYdmJheU51M3VrQWs2RmFaNmhyVXpJUVlXd1JQQTVyOFJoWk1XSjBKelo4TGpadU5Rakl3N3FLVzE2VHhsRkRtZjNUb25UemxKaDh0d3NfRks5TC1pVHM5NFU2UGM3c0lDN0hsS1FQUjBEWWEwb3VGNkFhbDlkOA?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-23T23:23:32+00:00",
+   "seen": "2026-11-23T23:28:44+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI reportedly sets a record for launch revenue, according to Alinea Analytics."
+  },
   {
    "id": "one of gta 6 s most elaborate easter eggs has been solved",
    "title": "One of GTA 6’s most elaborate Easter eggs has been solved",
