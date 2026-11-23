@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T17:11:43+00:00",
- "started": "2026-11-23T17:11:29+00:00",
+ "updated": "2026-11-23T17:16:39+00:00",
+ "started": "2026-11-23T17:16:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T17:11:29+00:00"
+   "checked": "2026-11-23T17:16:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-23T17:11:30+00:00"
+   "hits": 52,
+   "checked": "2026-11-23T17:16:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-23T17:11:30+00:00"
+   "hits": 75,
+   "checked": "2026-11-23T17:16:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T17:11:31+00:00"
+   "checked": "2026-11-23T17:16:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T17:11:31+00:00"
+   "checked": "2026-11-23T17:16:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T17:11:31+00:00"
+   "checked": "2026-11-23T17:16:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T17:11:31+00:00"
+   "checked": "2026-11-23T17:16:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T17:11:32+00:00"
+   "checked": "2026-11-23T17:16:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T17:11:32+00:00"
+   "checked": "2026-11-23T17:16:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T17:11:33+00:00"
+   "checked": "2026-11-23T17:16:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T17:11:33+00:00"
+   "checked": "2026-11-23T17:16:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T17:11:33+00:00"
+   "checked": "2026-11-23T17:16:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T17:11:33+00:00"
+   "checked": "2026-11-23T17:16:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T17:11:34+00:00"
+   "checked": "2026-11-23T17:16:36+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is causing PlayStation bans of up to 30 days, and warns players they could be punished for certain actions."
+  },
+  {
+   "id": "comcast stock nasdaq cmcsa sinks as gta 6 proves a record breaker",
+   "title": "Comcast Stock (NASDAQ:CMCSA) Sinks as GTA 6 Proves a Record Breaker",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjV0VHlQOEd0eXlmbS1hQWRXX0t4dVhpdV9lQ2xUQzhLQ1pIcnBXUS1pMjlXSk53T3lORmRNeUQxWU93dTdsRzBPNHZYVEduaDc5Z1duQURadUdmakhvajEwNFFEc083SWJteTV4WUlsQ3FHWVQxMHJUYWxVODdVRE5nbUZBQ1l6eGo2elFBSmd1VmZtaDk0?oc=5",
+   "outlet": "TipRanks",
+   "via": "Google News",
+   "published": "2026-11-23T17:04:12+00:00",
+   "seen": "2026-11-23T17:16:33+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Comcast stock sinks as GTA 6 proves a record breaker."
   },
   {
    "id": "last thing you need from gta 6 soundtrack climbing hot 100",
@@ -430,6 +443,19 @@
    "ai_summary": "The guide outlines five ways to stay safe from heat while exploring Vice City in GTA VI."
   },
   {
+   "id": "the gta 6 music rundown over 700 songs spanning nine decades and a festival celebration",
+   "title": "The GTA 6 music rundown: Over 700 songs spanning nine decades, and a festival celebration",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORk91cGZvWjM5RHI5a3JUNnNDWW1QQWZfWVZQel85dGYyRUtiVEhOV004M0VJclhJeDZJbHdyS1kyeWpPaHBxS3ZXaDhDenFwOGhWNGlxS09LSThtcXdNQ3dnR2tUNWludHVDdXloc0JWNllodzJfOE10bFNsRnlvS25mX3BvYUJ4NDJpMm9TVUlJZ29NSHBrLUZIVVBMMXFlTjBoTVl5NzJkSzBkU1dzM05LRktfWjdF?oc=5",
+   "outlet": "The Tab",
+   "via": "Google News",
+   "published": "2026-11-23T16:34:29+00:00",
+   "seen": "2026-11-23T17:16:33+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The GTA 6 music rundown highlights over 700 songs spanning nine decades and a festival celebration."
+  },
+  {
    "id": "gta 6 s first patch fixes some crashes and bugs",
    "title": "GTA 6's First Patch Fixes Some Crashes And Bugs",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ycUdTbjdlUHlZUXAxcVdMSnVMcWF5b3FnZTRQV2s4Ukp1VEE4OS1JalJQVENUVHdSRTBndFVXOEZjWUh1NmZ1RllRSUtjZmNxNFVQQmFkT0VQM0FWUDhmNkhYeGdvczlSWTM2cGNPRUVwR3VhU19zY0VLd1A5ZTA?oc=5",
@@ -519,6 +545,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A leaker releases all files for an alleged Xbox build of GTA 6."
+  },
+  {
+   "id": "gta 6 sales 3 79b day one 32 5m units official numbers",
+   "title": "GTA 6 Sales: $3.79B Day One, 32.5M Units — Official Numbers",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kVmJDTFl0NDgwQmlSUnpWMTBjY1dvZm5DYW8xLTJuWllJdmlGNWpCSTQ3OWZpSDlTNkdaUGk4RE9tVjZIdk9NVTlteDItQ3F6eXkyTFVVZXR2T1pseE55WmZrbUdvajNG?oc=5",
+   "outlet": "Everything Edinburgh",
+   "via": "Google News",
+   "published": "2026-11-23T16:25:29+00:00",
+   "seen": "2026-11-23T17:16:33+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sales total $3.79B on day one with 32.5M units reported."
   },
   {
    "id": "gta 6 user score 5 6 vs 99 critics review bombing explained",
@@ -948,6 +987,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports instructions or information on finding Paul Walker's Fast and Furious car in GTA 6."
+  },
+  {
+   "id": "grand theft auto vi leaker cyberleek posts the xbox build s executable calling it a fight against subscriptions and 20 ultimate editions",
+   "title": "Grand Theft Auto VI Leaker CYBERLEEK Posts the Xbox Build’s Executable, Calling It a Fight Against Subscriptions and $20 “Ultimate Editions”",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFZqMlYtRlhEc1Bxbk55VzRfUnR5WElGRlk1X29hcUhUajl2QXV2TFNnYURXZk8weUlpZG11dV9kam1GTDE1YVN3YVlhbjRzQWJPc2ZLVk5VZXBENTNRTjRUcldaNGVNVnF5Nk1IUUd5V1VlSUZhZ05yaVM0NjRldVk3T3hlV1XSAYwBQVVfeXFMT2IwZmQySDZ5X3Q2am5ZYjJ6RHJIX2E3NENxQW0xa2NBZl9EbWVGajlMY2dsOW83QllYaTlZdDk1ZHJ3aXNUeVZkSkFXemdQZ3RlalVKZjIyd2gzQ0xTaF9wekZaUnkzRHVOcGxmTDhHbTlDdkVmOFFyQ1J0LWZHd0w1ajlkUy01aVp1SUk?oc=5",
+   "outlet": "Wccftech",
+   "via": "Google News",
+   "published": "2026-11-23T15:50:00+00:00",
+   "seen": "2026-11-23T17:16:32+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 leaker CYBERLEEK posts the Xbox build’s executable, framing it as a fight against subscriptions and $20 ultimate editions."
   },
   {
    "id": "d angelo s previously unheard gta vi song kamikazi hits streaming services",
