@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:56:30+00:00",
- "started": "2026-11-23T16:56:25+00:00",
+ "updated": "2026-11-23T17:01:37+00:00",
+ "started": "2026-11-23T17:01:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T16:56:25+00:00"
+   "checked": "2026-11-23T17:01:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-23T16:56:26+00:00"
+   "hits": 43,
+   "checked": "2026-11-23T17:01:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-23T16:56:26+00:00"
+   "checked": "2026-11-23T17:01:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:56:26+00:00"
+   "checked": "2026-11-23T17:01:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T16:56:26+00:00"
+   "checked": "2026-11-23T17:01:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T16:56:27+00:00"
+   "checked": "2026-11-23T17:01:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T16:56:27+00:00"
+   "checked": "2026-11-23T17:01:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T16:56:27+00:00"
+   "checked": "2026-11-23T17:01:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T16:56:27+00:00"
+   "checked": "2026-11-23T17:01:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T16:56:27+00:00"
+   "checked": "2026-11-23T17:01:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T16:56:27+00:00"
+   "checked": "2026-11-23T17:01:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T16:56:28+00:00"
+   "checked": "2026-11-23T17:01:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T16:56:28+00:00"
+   "checked": "2026-11-23T17:01:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T16:56:28+00:00"
+   "checked": "2026-11-23T17:01:33+00:00"
   }
  },
  "items": [
@@ -311,6 +311,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims every player knows GTA 6's best-kept secret, which is said to be the key to the game's design."
+  },
+  {
+   "id": "hear power trip s new song for grand theft auto vi mutual death warrant",
+   "title": "Hear POWER TRIP’s new song for 'Grand Theft Auto VI' \"Mutual Death Warrant’",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHQ5eXpzejJUYVhLZUNCMi1COFhYaGRqczhwX0o4b3cwSE4za2xLeVEzWV9fTUNVMFRUb2JhdC1HUEo0YmRpaDk3MDFncWdkSjJ0SE9WMFJMYmxMelhGVFRLSEJmNFJoYVREU1J3UnZhU29RSGw1dTljb1ZHX2NRUjNIOVNCNG54YktuaDlfcE9yTm5LQ1Q3TkY4dUZCMm9Fa0ZwTVhvUEU?oc=5",
+   "outlet": "Revolver Magazine",
+   "via": "Google News",
+   "published": "2026-11-23T16:29:23+00:00",
+   "seen": "2026-11-23T17:01:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that POWER TRIP released a new song for Grand Theft Auto VI titled Mutual Death Warrant."
   },
   {
    "id": "gta 6 is a last of its kind aaa game execs won t be trying to copy analyst says",
