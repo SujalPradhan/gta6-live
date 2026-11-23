@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T13:40:21+00:00",
- "started": "2026-11-23T13:40:14+00:00",
+ "updated": "2026-11-23T13:45:13+00:00",
+ "started": "2026-11-23T13:45:07+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-23T13:40:15+00:00"
+   "hits": 100,
+   "checked": "2026-11-23T13:45:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 37,
-   "checked": "2026-11-23T13:40:15+00:00"
+   "hits": 36,
+   "checked": "2026-11-23T13:45:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-23T13:40:15+00:00"
+   "hits": 72,
+   "checked": "2026-11-23T13:45:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T13:40:16+00:00"
+   "checked": "2026-11-23T13:45:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T13:40:16+00:00"
+   "checked": "2026-11-23T13:45:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 53,
-   "checked": "2026-11-23T13:40:16+00:00"
+   "checked": "2026-11-23T13:45:09+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 28,
-   "checked": "2026-11-23T13:40:16+00:00"
+   "checked": "2026-11-23T13:45:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T13:40:16+00:00"
+   "checked": "2026-11-23T13:45:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T13:40:16+00:00"
+   "checked": "2026-11-23T13:45:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T13:40:17+00:00"
+   "checked": "2026-11-23T13:45:10+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T13:40:17+00:00"
+   "checked": "2026-11-23T13:45:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T13:40:17+00:00"
+   "checked": "2026-11-23T13:45:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T13:40:17+00:00"
+   "checked": "2026-11-23T13:45:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T13:40:17+00:00"
+   "checked": "2026-11-23T13:45:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "best funny gta 6 clips glitches npc encounters and accidents",
+   "title": "Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents",
+   "link": "https://insider-gaming.com/funny-gta-6-clips-npcs-glitches-more/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-23T13:39:18+00:00",
+   "seen": "2026-11-23T13:45:09+00:00",
+   "summary": "Grand Theft Auto 6 is a goldmine for funny clips. In this list, check out the pick of the bunch that we've seen on social media. The post Best Funny GTA 6 Clips—Glitches, NPC Encounters, and Accidents appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story highlights funny GTA 6 clips, including glitches, NPC encounters, and accidents on social media."
+  },
+  {
+   "id": "gta 6 brings back niko bellic s actor but rockstar s credits use a different name",
+   "title": "GTA 6 brings back Niko Bellic’s actor, but Rockstar’s credits use a different name",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYVlQX0ltcDFXY2lvbWJHdXMtTnJrVU5NS1JpNnVaU3d0aUZHd28yUGRrUDA4dkExU3k0OEpxSTFzRy1ZMjBfbXlONFBuNU9TakZHVlVrYWZyUlRLaHk3ZF95cWs2OVV2TWNfVFdzR3luRDFjOVpTdkllWXBzNTRVcTZfcXVSZw?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-23T13:39:07+00:00",
+   "seen": "2026-11-23T13:45:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 brings back Niko Bellic’s actor, but Rockstar’s credits use a different name."
+  },
   {
    "id": "grand theft auto vi day one sales of 3 79 billion set a record",
    "title": "Grand Theft Auto VI day-one sales of $3.79 billion set a record",
@@ -116,6 +142,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA VI day-one sales set a record at $3.79 billion."
+  },
+  {
+   "id": "grand theft auto vi posted 3 79 billion in day one sales an entertainment record",
+   "title": "Grand Theft Auto VI posted $3.79 billion in day-one sales, an entertainment record",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZlM1UzJnREtqNmVDVkRzazV0WjBCWnB1eDBDMWxDOS1NQkg2WWJDNlRjeXdzcEU2cWFNT2ZQOC1NOEZMeld2VUtKQWlNdXJmeXBINVRoZ1hVTDUta29nYjV1MURnZ1kzd0E?oc=5",
+   "outlet": "Quartz",
+   "via": "Google News",
+   "published": "2026-11-23T13:38:18+00:00",
+   "seen": "2026-11-23T13:45:08+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI posted day-one sales of $3.79 billion, an entertainment record."
   },
   {
    "id": "every npc in gta 6 has a story of their own",
@@ -456,6 +495,19 @@
    "ai_summary": "The story lists every confirmed voice actor and character for GTA 6."
   },
   {
+   "id": "major ps5 feature busted since gta 6 launch players annoyed",
+   "title": "Major PS5 Feature Busted Since GTA 6 Launch, Players Annoyed",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTJ4eVpNdDFoWm1LMHdHMnJpczJ1ZUNoenJiN05TZWVYY2c4bW5KR2ZTQW9xRUtjVTBtc3h0X29lZUNYYnlZZEIxaTVwY250a0w3X2xDRVdZaXRVeDF6TTJMSUhmYUN4VmNkOWFadWI5YnNKRzFhQVRIOE5BVS0tUzFIWTJKcldHS2lrNUtGdncwWmxObno4UFVB0gGfAUFVX3lxTE5ITGw5bGJ4eTJldjFzT3BveURyRW5DaERTWVJuVHM2dzZiVmVNampZa2pZemFxNS1BMVM1WXBHa3gybzdLZVZsb0xwUDR6ZzdBdEh3M3hRVkVJbVlncDFVX3VaS053N0E3QklaUnhkSXVwbWhGN1JNcXJleTQtWW85ZnVfMkM0SWhZTTJwdHIwM0VoZVFDcEF0eDNqaklLcw?oc=5",
+   "outlet": "PlayStation LifeStyle",
+   "via": "Google News",
+   "published": "2026-11-23T13:00:00+00:00",
+   "seen": "2026-11-23T13:45:08+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "A major PS5 feature has been reportedly busted since GTA 6 launch, prompting player annoyance."
+  },
+  {
    "id": "where to find cut off tool in gta 6 to open containers",
    "title": "Where To Find Cut-Off Tool in GTA 6 To Open Containers",
    "link": "https://insider-gaming.com/where-to-find-gta-6-cut-off-tool-containers/",
@@ -467,6 +519,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to obtain a Cut-Off Tool to open containers in GTA 6."
+  },
+  {
+   "id": "gta 6 new zealand release time the internet goes completely kiwi",
+   "title": "'GTA 6' New Zealand release time: The internet goes completely Kiwi",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUnlZdVdvQ2pLY1lhaDdxeEMzNnEybG5Tc1lydFd1Ymw0NzAyMk04b09ZNmxUVm9KM1JJSm5fVWZCOEZuclRYc1RiRmRlT2p3ME9jSkVrZG5peENNUDlKVEJPLUlnNDhaTU5FODRfUUVyR3owM25ZRXBoVHRWMFZ5Q1pB?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-23T12:59:28+00:00",
+   "seen": "2026-11-23T13:45:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 New Zealand release time triggers a distinctly Kiwi social media response."
   },
   {
    "id": "gta 6 first major update officially released",
