@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T12:29:48+00:00",
- "started": "2026-11-23T12:29:43+00:00",
+ "updated": "2026-11-23T12:34:50+00:00",
+ "started": "2026-11-23T12:34:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T12:29:43+00:00"
+   "checked": "2026-11-23T12:34:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-23T12:29:44+00:00"
+   "hits": 38,
+   "checked": "2026-11-23T12:34:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-23T12:29:44+00:00"
+   "hits": 63,
+   "checked": "2026-11-23T12:34:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T12:29:44+00:00"
+   "checked": "2026-11-23T12:34:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T12:29:44+00:00"
+   "checked": "2026-11-23T12:34:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T12:29:45+00:00"
+   "checked": "2026-11-23T12:34:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-23T12:29:45+00:00"
+   "checked": "2026-11-23T12:34:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T12:29:45+00:00"
+   "checked": "2026-11-23T12:34:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T12:29:45+00:00"
+   "checked": "2026-11-23T12:34:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T12:29:46+00:00"
+   "checked": "2026-11-23T12:34:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T12:29:46+00:00"
+   "checked": "2026-11-23T12:34:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T12:29:46+00:00"
+   "checked": "2026-11-23T12:34:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T12:29:46+00:00"
+   "checked": "2026-11-23T12:34:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T12:29:47+00:00"
+   "checked": "2026-11-23T12:34:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "us education dept uses gta 6 to challenge trans girls in sports",
+   "title": "US Education Dept. Uses GTA 6 to Challenge Trans Girls in Sports",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IM3EzdFh2TDAzLVNIR2R6SDhfa0M0NU1GQkF1QmJOcGFtNF9WcmtZY3RwU29KSkNqcVlmY0FHRUwtNXFENzdTYk9fQ0pYTnFfaFdONGlsanNQaEdmb0VUdUNtQ3dkaG9QWVJCdlJvT2tpZGM?oc=5",
+   "outlet": "PinkNews",
+   "via": "Google News",
+   "published": "2026-11-23T12:31:51+00:00",
+   "seen": "2026-11-23T12:34:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Education Department uses GTA 6 to challenge trans girls in sports, according to PinkNews."
+  },
   {
    "id": "first gta 6 ps5 patch live now get all the details here",
    "title": "First GTA 6 PS5 Patch Live Now, Get All the Details Here",
@@ -118,6 +131,45 @@
    "ai_summary": "The story reports that the first GTA 6 PS5 patch is live, detailing the update rollout and download sizes on PS5 and Xbox Series X|S."
   },
   {
+   "id": "i thought gta vi had gone woke this bit changed my mind way too fast writer mhedi",
+   "title": "🇺🇸 I thought GTA VI had gone woke. This bit changed my mind way too fast! 🤣 Writer: Mhedi",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DcHg1YjF4Q1JQQkVlNExvRl9YVkMtTnhiYkJfWDU1dFkxTVlvengzamQ3N2QxZnBBdUlkUmlIRU9BcmdSWm96VVFVbDdMa1pJemlyNDJUSXZaSzFsRjlpQWhuenZRZXEycndBNw?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-23T12:30:00+00:00",
+   "seen": "2026-11-23T12:34:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A writer on X discusses GTA VI changing their view toward perceived woke content."
+  },
+  {
+   "id": "rockstar releases first update for gta 6 here s how big it is",
+   "title": "Rockstar releases first update for GTA 6 – here’s how big it is",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZld4eHVWSEJYdmNLbFZPdE1sQUd1RnFsR1pXU3Q5SWtJM1IyTEp1VDhVSURtcnpjRFhUdjV0OUJKbi1xd0ZKbzIyUWVCckYzNFp3N04tS1hPb1pkTThNQzM4Y0lZbDF6TVNxR1h3SXZwNDZQNzRRakpfcndVdktHRzlkR3pLck04Q3A3dzJPUnk?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-23T12:29:00+00:00",
+   "seen": "2026-11-23T12:34:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Independent reports on Rockstar releasing the first update for GTA 6 and details its size."
+  },
+  {
+   "id": "big pharmas ride gta vi s promotional coattails in tribute to global phenomenon",
+   "title": "Big pharmas ride GTA VI’s promotional coattails in tribute to global phenomenon",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb09VVkFBcDBvQmtTOEdVRDAtMTZpekE4Q0NOYmtIelF1TzJ0RzFGRlZEcjU2Zzk0VUdvbFJsVTJLbmFXOFlYdDdqVUpFbWdET2hnZm1jTlJCRVg4ZGVvSWY0NDhPYTRHLV84dWU0eGYxR04wa05ESFdIQ2FJY0RRVXZZRDZHMEVCZDliM1UxRnF5Q2VFaVRuSXBHZUVnRkg3a0QwLUZWZFR3Snl3QUZuNw?oc=5",
+   "outlet": "Fierce Pharma",
+   "via": "Google News",
+   "published": "2026-11-23T12:27:29+00:00",
+   "seen": "2026-11-23T12:34:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Fierce Pharma notes major pharmaceutical promotion tied to GTA VI as a tribute to the game's global phenomenon."
+  },
+  {
    "id": "gta 6 credits 2 sikkim artists in characters team",
    "title": "GTA 6 Credits 2 Sikkim Artists in Characters Team",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmxzcVNxZFljcElmcUttZm9ybmVEVXNUaF96SEMxSGI1TGdZMThSXzJQaDRLVXpKZGVHdnVVMHpHY2w2YkU0YWp3UmIwamxyOVdMR1hBbnRYUVZFVTkyalBkeHdiTlhCbnZtUTJHdi1kSjUzTlBJWWFxRFVFS1QtaTlpdkJ4Ry1rSEFEbDNCZjlEYUFPYXYtX2NTVTh1SjNu?oc=5",
@@ -129,6 +181,45 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 credits two Sikkim artists in its characters team."
+  },
+  {
+   "id": "gta 6 drag queen the real life transgender performer behind the voguing character",
+   "title": "GTA 6 drag queen: the real-life transgender performer behind the voguing character",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjMtVFEzT0U0RTRpa0gyVEkzbDd1MF9QMEF5azVnbjBGLUx0eEFVSFotVnZTcjRXUlVPamUzNHhwRHhrT0tZbV9hSWlXdE10ZnlJSmxzTHgxU190YXZiVnMzeTdubk9iRm9leTRRMGNwSlVJQm4yT3dtQk1KQ1F0eDJPRHZhSjQ?oc=5",
+   "outlet": "attitude.co.uk",
+   "via": "Google News",
+   "published": "2026-11-23T12:25:58+00:00",
+   "seen": "2026-11-23T12:34:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Attitude.co.uk highlights the real-life transgender performer behind a drag queen character in GTA 6."
+  },
+  {
+   "id": "former hudson valley belly dancer lands lead role in gta 6",
+   "title": "Former Hudson Valley Belly Dancer Lands Lead Role in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RMjBIRk1vVHpvWlpoZDNzemtHYkpLYUlmcWR2V1U0OFNnclR0WDFOaG5EVmlORXpPWm9EVUFvejJqTURDcW41MU1rb3pKT1RONGg1dzY0a29reVQ5elp5a05uOEZFTE9XUVU3WnAtLWM0OXc?oc=5",
+   "outlet": "Hudson Valley Post",
+   "via": "Google News",
+   "published": "2026-11-23T12:25:20+00:00",
+   "seen": "2026-11-23T12:34:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Former belly dancer from Hudson Valley lands a lead role in GTA 6."
+  },
+  {
+   "id": "grand theft auto 6 complete walkthrough hub",
+   "title": "Grand Theft Auto 6 complete walkthrough hub",
+   "link": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-23T12:25:06+00:00",
+   "seen": "2026-11-23T12:34:44+00:00",
+   "summary": "Everything you need to know to complete GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "VGC provides a complete GTA 6 walkthrough hub detailing everything you need to know to complete the game."
   },
   {
    "id": "wedbush raises take two stock price target on gta vi sales record",
@@ -259,6 +350,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "GTA 6 user score drops to 5.6 on Metacritic amid player backlash."
+  },
+  {
+   "id": "gta 6 gambling no casino but real money is on the line",
+   "title": "GTA 6 Gambling: No Casino, but Real Money Is on the Line",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFRWZVBCMEl3SU04YlRiZUVSR3pDSzZva090Nkt3MFlCQm9MNW5VWG1yUnZQTUI2MFp1UUtKSG9JbXFqVmdOYmpURTE0MHlfMU91MXJoWkcyWndaX3pCRmZITnhOT1N1SEpfMkU0SDltcVlGTUxrdkhUSlRESkRPQ2hPdmRidUk2QkVaMw?oc=5",
+   "outlet": "iGamingToday.com",
+   "via": "Google News",
+   "published": "2026-11-23T12:08:27+00:00",
+   "seen": "2026-11-23T12:34:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "iGamingToday.com reports there is no casino in GTA 6, but real money is on the line."
   },
   {
    "id": "gta 6 ps5 players suffering game crashes with some consoles even dying on players",
