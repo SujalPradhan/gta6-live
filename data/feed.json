@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T02:36:33+00:00",
- "started": "2026-11-23T02:36:27+00:00",
+ "updated": "2026-11-23T02:41:35+00:00",
+ "started": "2026-11-23T02:41:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T02:36:27+00:00"
+   "checked": "2026-11-23T02:41:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-23T02:36:27+00:00"
+   "checked": "2026-11-23T02:41:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-23T02:36:28+00:00"
+   "hits": 65,
+   "checked": "2026-11-23T02:41:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T02:36:28+00:00"
+   "checked": "2026-11-23T02:41:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T02:36:28+00:00"
+   "checked": "2026-11-23T02:41:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T02:36:29+00:00"
+   "checked": "2026-11-23T02:41:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T02:36:30+00:00"
+   "checked": "2026-11-23T02:41:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T02:36:30+00:00"
+   "checked": "2026-11-23T02:41:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T02:36:30+00:00"
+   "checked": "2026-11-23T02:41:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T02:36:30+00:00"
+   "checked": "2026-11-23T02:41:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T02:36:30+00:00"
+   "checked": "2026-11-23T02:41:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T02:36:31+00:00"
+   "checked": "2026-11-23T02:41:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T02:36:31+00:00"
+   "checked": "2026-11-23T02:41:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T02:36:31+00:00"
+   "checked": "2026-11-23T02:41:33+00:00"
   }
  },
  "items": [
@@ -196,6 +196,19 @@
    "ai_summary": "This GTA 6 NPC realizes there's an actual HUMAN controlling Jason and is terrified."
   },
   {
+   "id": "chris russo has a hilarious response to gta vi fans choosing gaming over nfl football",
+   "title": "Chris Russo Has A Hilarious Response To GTA VI Fans Choosing Gaming Over NFL Football",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVJiSHFGZVRoalQ2ZFJZMzI4ZTFSQXlXWEdpS3hrNzN2NGM0dW10aUZXTVBpR3laU2ZfeXFVdEM4dmVsQi1kNWpjSWVfVWdRVEQ4bGNnMC1GM0NQc1BUZE5JdVA5cTF0ZmxtYUhkSVZzWmpJR0dWNk9ENmV3cy1FVTFJM1B0N0hGRzlkb3Z6c0Y5M092WmxqLTFIeFU3WDRtd3g5anZKLVFwV2FGMDdqbmxMeXpOQWxmdDFSQkxCbDhCbW8?oc=5",
+   "outlet": "NDTV Sports",
+   "via": "Google News",
+   "published": "2026-11-23T02:05:13+00:00",
+   "seen": "2026-11-23T02:41:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Chris Russo's humorous reply to GTA VI fans prioritizing gaming over NFL football."
+  },
+  {
    "id": "who plays lucia in gta 6 manni l perez s ethnicity other credits and more",
    "title": "Who Plays Lucia In ‘GTA 6’? Manni L. Perez’s Ethnicity, Other Credits And More",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xZnZPcGdndGVsWnczZTRaMGFHQVdKS0M3YzhIb3pPVTBadU9tdGlmTWJabDZxOVJiN3Q0SlFCNHZRWTJtc2hmRTI2N3hlajdabThLdllJZmk0eVdvTEN4TzJR?oc=5",
@@ -207,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks who plays Lucia in GTA 6 and discusses ethnicity and other credits."
+  },
+  {
+   "id": "everything to know about nba 2k27 x gta vi crossover",
+   "title": "Everything to Know About NBA 2K27 x GTA VI Crossover",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnRLYy1KdWlHSUZvR3pPVkpGQmtOV1RMRmdCLXRnOE1QdkxhSFpQcF9yYjJrejVNalVNWHBJc0d6R2gyWXRJRTVHM3E4UW5uOUo0U2lZS2lkU0V3YmNxdXg3ZUpNOGJRdkhMXzdkQ3g3ei1kbUVONmZzRERDUTNDRkxJWHJrR0E?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T02:02:00+00:00",
+   "seen": "2026-11-23T02:41:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers all details about the NBA 2K27 x GTA VI crossover."
   },
   {
    "id": "gta 6 at 60 fps on pc may cost less than expected geekerwan estimates",
