@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T00:25:54+00:00",
- "started": "2026-11-23T00:25:48+00:00",
+ "updated": "2026-11-23T00:30:56+00:00",
+ "started": "2026-11-23T00:30:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-23T00:25:48+00:00"
+   "hits": 98,
+   "checked": "2026-11-23T00:30:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-23T00:25:49+00:00"
+   "hits": 53,
+   "checked": "2026-11-23T00:30:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-23T00:25:49+00:00"
+   "hits": 69,
+   "checked": "2026-11-23T00:30:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T00:25:49+00:00"
+   "checked": "2026-11-23T00:30:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T00:25:50+00:00"
+   "checked": "2026-11-23T00:30:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T00:25:50+00:00"
+   "checked": "2026-11-23T00:30:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T00:25:50+00:00"
+   "checked": "2026-11-23T00:30:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T00:25:51+00:00"
+   "checked": "2026-11-23T00:30:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T00:25:51+00:00"
+   "checked": "2026-11-23T00:30:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T00:25:51+00:00"
+   "checked": "2026-11-23T00:30:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T00:25:52+00:00"
+   "checked": "2026-11-23T00:30:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T00:25:52+00:00"
+   "checked": "2026-11-23T00:30:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T00:25:52+00:00"
+   "checked": "2026-11-23T00:30:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T00:25:52+00:00"
+   "checked": "2026-11-23T00:30:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "ishowspeed loses 98 gta 6 progress after 52 hour marathon while attempting to unlock a different ending",
+   "title": "iShowSpeed loses 98% GTA 6 progress after 52-hour marathon while attempting to unlock a different ending",
+   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOZFRfakhrc3NwZDRlcDlCSDhLMHFvVEVsamRLc1FYRjU0MTdTYkhSSXduMVh2dl94VVpPNWZxM0RZLXE0WDRhbnBjU0pEdDByc1JKd25mOFVaZXpvdklKU05kZGI4NkFxTldaR3kyNlBNRTR4ejg3ZF80TDlKTGxaczdVNVJNNTlPejgwRWIwSU5oUGZBTUVGNnlFME9UQTZHMkEtMU5IUjExRDNEUmh5cWt1eUN0aTUwanFMOERYYk45UmFLNFZxdEJRSEduNFluZk55cEJ2SjlIejJmYUFUZFZnLWk5QURTLWg4b0NFN3k0TDFNZEswZEFYMG5ZTGVIdG1Eb3NUTFltOWVyTVhMZ0stNXU5ZHZscFhNODI1MjRpZ1I3Uy1scTJzN1VQTWlOWDdpTWRnNmlZY3I5b3pRRGpzby1HR0xKSjdTeVpsNGxtampPQU01RDRJNGIxeERqaFHSAZcCQVVfeXFMTkNPY1JxRTg5Y08ya3ROWVdNRGhjclZkbm1mZFJpY1V3OHAta2xidW5QVUd0b0FxR2NieHBHYTB6ak15cUN2Z1gyQUlBam9icmxsZzBJWkFvc2FfSzVyZ0lEU0dzdEo0azVaUjRZN210dUs2bGlFUGNPaXgzQUlycUhZY2plTVktWERDUWVCVHcxcUNKS1hoRE9rOE1pQURSMVUtTTNrRGQ1R0paLWFPbldTU2hOUEpXbmwtTlprUHJIN3JCQm1xLXAyZ2ZZdlYwaEdDSWdneE5renFxeTJEeTJ0SEdhU3BVdWY5dWpoZWNSWVFCdmhQYnBYalV1dTNiOUZ2cjhFS2FRc3RqUlB2dWtBU3ZpXy1z?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-23T00:22:00+00:00",
+   "seen": "2026-11-23T00:30:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a figure losing a large portion of GTA 6 progress after a long marathon while trying to unlock a different ending."
+  },
   {
    "id": "gta 6 chapter 2 mission list every missions in order point of no return",
    "title": "GTA 6 Chapter 2 Mission List: Every Missions in Order & Point Of No Return",
