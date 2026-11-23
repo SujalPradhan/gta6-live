@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T14:50:31+00:00",
- "started": "2026-11-23T14:50:28+00:00",
+ "updated": "2026-11-23T14:55:39+00:00",
+ "started": "2026-11-23T14:55:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T14:50:29+00:00"
+   "checked": "2026-11-23T14:55:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-23T14:50:29+00:00"
+   "checked": "2026-11-23T14:55:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 69,
-   "checked": "2026-11-23T14:50:30+00:00"
+   "hits": 72,
+   "checked": "2026-11-23T14:55:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T14:50:30+00:00"
+   "checked": "2026-11-23T14:55:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T14:50:30+00:00"
+   "checked": "2026-11-23T14:55:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-23T14:50:30+00:00"
+   "checked": "2026-11-23T14:55:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 29,
-   "checked": "2026-11-23T14:50:30+00:00"
+   "checked": "2026-11-23T14:55:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T14:50:30+00:00"
+   "checked": "2026-11-23T14:55:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T14:50:30+00:00"
+   "checked": "2026-11-23T14:55:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T14:50:31+00:00"
+   "checked": "2026-11-23T14:55:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T14:50:31+00:00"
+   "checked": "2026-11-23T14:55:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T14:50:31+00:00"
+   "checked": "2026-11-23T14:55:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T14:50:31+00:00"
+   "checked": "2026-11-23T14:55:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T14:50:31+00:00"
+   "checked": "2026-11-23T14:55:35+00:00"
   }
  },
  "items": [
+  {
+   "id": "new hunger games movie blows past expectations after some feared gta 6 could limit its reach",
+   "title": "New Hunger Games Movie Blows Past Expectations After Some Feared GTA 6 Could Limit Its Reach",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnMwZmVMYjNpZDgtX3JXVGVBa3UwZjVtR0Y0azlEa2F0VWlNaHdCZ05JWnBQeFRCOFh2YXduZTJsVHh6WGtPel9rUF9fU3hpR2lhaFdabExxMzF6Q0JKa3JHcG5BUzZScm5UY2xETmc3blE3VmdEejBid1djMHdubS10ZkF1aVBlUVNPaGZrcV9LLWktdl9xeU1NaXNWYTZZYW1ZYTFCOEkwQmdlcEJqS1JaYWxoMGtBcldqNV9wMGd5VXhnR0E?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-23T14:53:20+00:00",
+   "seen": "2026-11-23T14:55:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "New Hunger Games movie reportedly exceeds expectations and avoids limits on GTA 6 reach."
+  },
+  {
+   "id": "gta 6 has sold through 44 9 million copies over the weekend rumor",
+   "title": "GTA 6 Has Sold Through 44.9 Million Copies Over the Weekend – Rumor",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTJZcjI5dmVBOTBFRW10bnp3cGw0MmRZamlDSWRWQ18zUk9TOXZrNlJwN2EtTDQtYTlJSVBTNTBLVEtRRmxwX0d4WVdfc3JKQlhxZHlScFY2eEhaaF9SQnlfYm5oSTFFX0o3bk9hdGNiN2V4Y2prSFV2X00wamlEVHFPZmtpSUFjR2JkSXIzZHRNdw?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-23T14:52:03+00:00",
+   "seen": "2026-11-23T14:55:32+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Claim that GTA 6 sold through 44.9 million copies over the weekend, labeled as a rumor."
+  },
+  {
+   "id": "gta 6 update 01 002 002 patch notes download size",
+   "title": "GTA 6 Update 01.002.002—Patch Notes & Download Size",
+   "link": "https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-23T14:51:35+00:00",
+   "seen": "2026-11-23T14:55:34+00:00",
+   "summary": "Here's everything you need to know about Update 01.002.002 for Grand Theft Auto 6, including all changes and its download size. The post GTA 6 Update 01.002.002—Patch Notes & Download Size appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Insider Gaming covers Update 01.002.002 for GTA 6, detailing changes and download size."
+  },
+  {
+   "id": "gta 6 update now live on xbox series x s includes seven official fixes",
+   "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
+   "link": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
+   "outlet": "Pure Xbox",
+   "via": "Pure Xbox",
+   "published": "2026-11-23T14:50:00+00:00",
+   "seen": "2026-11-23T14:55:34+00:00",
+   "summary": "Update: We've got the deets from Rockstar. GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago. You're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S. Read the full article on purexbox.com",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Pure Xbox reports GTA 6 update 01.002.002 is live on Xbox Series X|S, with seven fixes and a download size around 1.6GB."
+  },
+  {
+   "id": "gta 6 the fastest way to get a six star wanted level",
+   "title": "GTA 6: The fastest way to get a six star wanted level",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjdheXJZVGtZaHhjel80cGxnRnljaEVNRno5RVRtZGk3VlVkRVFrVW10cGhOT0NkNkZ6QlBlR0VsaGhLd0V2R3dsLWFHZTZqVWpqV3FYV2lINVB2Ukk3UzM3NVg1b0xmNXJhV2ZLanFCWkwtaGI4WUhoMlh3QS1vVzdKZGU4Z3kyUXJqcHZ3?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-23T14:46:20+00:00",
+   "seen": "2026-11-23T14:55:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Story explains the fastest way to achieve a six star wanted level in GTA 6."
+  },
   {
    "id": "grand theft auto 6 has received a new update which fixes autosaving",
    "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
@@ -220,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "What’s on the GTA 6 album deluxe edition? All 23 new songs, from Travis Scott to Overmono."
+  },
+  {
+   "id": "gta 6 s unofficial pc port has an 8gb gpu claim but the game still won t boot",
+   "title": "GTA 6’s unofficial PC port has an 8GB GPU claim, but the game still won’t boot",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaW1jRnZYUEJhSDQ3THZULUw2TDc0Y3lpS1pHanVHTHdUNHdSMnZZV3Y5R3YwUWR1REl1RElqdVVKUzF0b21qOXloX2huUUxVc1M1MDJqemM0UDY5VFhPZGtlUUpDb0J3VTYxRkROTkFEaTFoeG9nemtvMVlfU2hsMFNwRF8?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-23T14:33:21+00:00",
+   "seen": "2026-11-23T14:55:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "MIXED News notes an 8GB GPU claim for GTA 6’s unofficial PC port, but the game won’t boot."
   },
   {
    "id": "gta 6 missing persons every missing person location and how to find them",
@@ -415,6 +493,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece highlights new music releases including Cam’ron and Saweetie related to GTA VI."
+  },
+  {
+   "id": "rockstar mapped out gta 6 s gang supply network even if players only see fragments",
+   "title": "Rockstar mapped out GTA 6’s gang supply network, even if players only see fragments",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOV80VzJvM2JmTS1WbnJGS0JFQmxfN2JzVURnRHhPZ1dlelFMTTNSV0NBWDZmZkQwRUZOc0Nic2RRMWRtNzhJMUFCVDJZdXRCb0N1UGpRS0pTbEVfdG9jejNBR0JWOUhtY2RYX2dMUVJudjR6dnBLWW0xU1RmeFdYOXZR?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-23T14:03:21+00:00",
+   "seen": "2026-11-23T14:55:32+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "MIXED News states Rockstar mapped GTA 6’s gang supply network, even if players only see fragments."
   },
   {
    "id": "naughty dog developer praises gta 6 dynamic lighting",
