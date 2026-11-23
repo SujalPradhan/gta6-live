@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T22:58:39+00:00",
- "started": "2026-11-23T22:58:35+00:00",
+ "updated": "2026-11-23T23:03:44+00:00",
+ "started": "2026-11-23T23:03:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T22:58:36+00:00"
+   "checked": "2026-11-23T23:03:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T22:58:36+00:00"
+   "checked": "2026-11-23T23:03:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 67,
-   "checked": "2026-11-23T22:58:36+00:00"
+   "checked": "2026-11-23T23:03:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T22:58:37+00:00"
+   "checked": "2026-11-23T23:03:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T22:58:37+00:00"
+   "checked": "2026-11-23T23:03:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T22:58:37+00:00"
+   "checked": "2026-11-23T23:03:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T22:58:38+00:00"
+   "checked": "2026-11-23T23:03:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T22:58:38+00:00"
+   "checked": "2026-11-23T23:03:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T22:58:38+00:00"
+   "checked": "2026-11-23T23:03:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T22:58:39+00:00"
+   "checked": "2026-11-23T23:03:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T22:58:39+00:00"
+   "checked": "2026-11-23T23:03:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T22:58:39+00:00"
+   "checked": "2026-11-23T23:03:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T22:58:39+00:00"
+   "checked": "2026-11-23T23:03:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T22:58:39+00:00"
+   "checked": "2026-11-23T23:03:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "this gta 6 infinite money glitch got me 50 000 in 15 minutes",
+   "title": "This GTA 6 infinite money 'glitch' got me $50,000 in 15 minutes",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTElNcjVxeGxzeE0teUNxUVpPY2pJWUVZWkVxOUpzWDFDNkVrWjJaWXV6SU9FeGFzbW1EN2k5NzRvcFhFa3hrSmZ0NWR4cDBkbFpRR1pSajJCSkhOUGdSRHkzbFpFVHdkcU9JQS1EMEJ6NUt4MUs4em9QYlpmQzdyNA?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-23T22:51:46+00:00",
+   "seen": "2026-11-23T23:03:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story claims there is a GTA 6 infinite money glitch that earned the player fifty thousand in fifteen minutes."
+  },
   {
    "id": "where to find the port gellhorn serial killer in gta 6",
    "title": "Where to find the Port Gellhorn serial killer in GTA 6",
@@ -272,6 +285,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "Story reports that GTA VI players are learning that no good screenshot goes unpunished."
+  },
+  {
+   "id": "it s hard to be a pacifist in gta 6",
+   "title": "It’s Hard To Be A Pacifist In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YOVhQUThiR0ctRHEzZFAzdzNseEdFWTFVSG5mRldOR2hZdDZxTGVxZEIzS01DS2dBd0lHdXBpamFvNEtDbElxckNscGE3OVpjc2N4YjdXX1AxSHE5SUM0Yk92Q1VPX0ZnVFZsdml2NFZJZw?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-23T22:25:12+00:00",
+   "seen": "2026-11-23T23:03:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses the difficulty of playing as a pacifist in GTA 6."
   },
   {
    "id": "5 embarrassingly stupid ways gta 6 players have gotten themselves killed",
