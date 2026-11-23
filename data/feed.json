@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T02:31:37+00:00",
- "started": "2026-11-23T02:31:31+00:00",
+ "updated": "2026-11-23T02:36:33+00:00",
+ "started": "2026-11-23T02:36:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T02:31:32+00:00"
+   "checked": "2026-11-23T02:36:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 41,
-   "checked": "2026-11-23T02:31:32+00:00"
+   "checked": "2026-11-23T02:36:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-23T02:31:33+00:00"
+   "hits": 66,
+   "checked": "2026-11-23T02:36:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T02:31:33+00:00"
+   "checked": "2026-11-23T02:36:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T02:31:33+00:00"
+   "checked": "2026-11-23T02:36:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T02:31:33+00:00"
+   "checked": "2026-11-23T02:36:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T02:31:34+00:00"
+   "checked": "2026-11-23T02:36:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T02:31:34+00:00"
+   "checked": "2026-11-23T02:36:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T02:31:34+00:00"
+   "checked": "2026-11-23T02:36:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T02:31:34+00:00"
+   "checked": "2026-11-23T02:36:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T02:31:35+00:00"
+   "checked": "2026-11-23T02:36:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T02:31:35+00:00"
+   "checked": "2026-11-23T02:36:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T02:31:35+00:00"
+   "checked": "2026-11-23T02:36:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T02:31:35+00:00"
+   "checked": "2026-11-23T02:36:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi launch in bangkok",
+   "title": "Grand Theft Auto VI launch in Bangkok",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CVUpSa2FfNGVldlY1R2xzZmNYVm9TNWNRVmdReGxERG9Td2xkR2owN2lrMGw4WGxha0phOWdZQ05CclhleWw5VUVBUTVKRDVST1NUbHVQM1RXY3h4WW14Nk8yX0tiNG5GNzRwakUyMW9ZX0UycVVvZg?oc=5",
+   "outlet": "RMU Sentry Media",
+   "via": "Google News",
+   "published": "2026-11-23T02:35:39+00:00",
+   "seen": "2026-11-23T02:36:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the Grand Theft Auto VI launch in Bangkok."
+  },
+  {
+   "id": "every ammu nation in gta 6 24 gun stores mapped by county and stock tier",
+   "title": "Every Ammu-Nation in GTA 6: 24 Gun Stores Mapped by County and Stock Tier",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX28xY3BTcjZMd0xpMkJGRmdaSjJxUXFWVWlZYzFFNE11NHNQaXpkWTJ3Mm9aMDh1NnBvQ2otVnlsUjRaZDViZk9DVDBlNzNRWWhXdDQtdWpfdkhmODA4cEtZZkNzZGZpUFlCY1NFT1ZGRFBTbWJqUW9fLVVNOHphMkFZRHhZM2YwOVdyT3F1R2NKMkR0dTZZ?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T02:31:43+00:00",
+   "seen": "2026-11-23T02:36:27+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports mapping every Ammu-Nation in GTA 6 with 24 gun stores by county and stock tier."
+  },
   {
    "id": "bro kicked an alligator in gta 6 and immediately found out who really runs the swamp writer sol",
    "title": "Bro kicked an alligator in GTA 6 and immediately found out who REALLY runs the swamp 💀 Writer: Sol",
@@ -532,6 +558,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story lists every mission in GTA 6 Chapter 2 in order and notes a point of no return."
+  },
+  {
+   "id": "gta 6 wildlife guide deer cougars boars and the invasive species on leonida s land",
+   "title": "GTA 6 wildlife guide: deer, cougars, boars and the invasive species on Leonida’s land",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXQ2dWVKNnd5Y2lGYi00ZmlJU1QwTnhoNzdGMWxEd2l0TVRzOWNrYUtJMFZMYVJJcC0wNFpMU0ZxNjRCY3ZPSHFFRjFUczhNbmdaZWU2ZnhjOTVRd3FHYnEyYjBEVTFyM3JhTmhTRDRqWTFnNHJQTXotNm8tZnBUaUhsTVFBdHZMbjZiQUlST0FRZ2lFaUFJUXpvSnZ6LUNKOHJN?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T00:11:43+00:00",
+   "seen": "2026-11-23T02:36:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 wildlife guide covering deer, cougars, boars and an invasive species on Leonida’s land."
   },
   {
    "id": "gta 6 is giving a huge chart boost to a 2015 pop hit nobody saw coming",
