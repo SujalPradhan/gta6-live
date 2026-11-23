@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T23:55:44+00:00",
- "started": "2026-11-22T23:55:38+00:00",
+ "updated": "2026-11-23T00:00:48+00:00",
+ "started": "2026-11-23T00:00:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-22T23:55:39+00:00"
+   "checked": "2026-11-23T00:00:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-22T23:55:39+00:00"
+   "hits": 41,
+   "checked": "2026-11-23T00:00:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-22T23:55:39+00:00"
+   "hits": 70,
+   "checked": "2026-11-23T00:00:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T23:55:40+00:00"
+   "checked": "2026-11-23T00:00:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-22T23:55:40+00:00"
+   "checked": "2026-11-23T00:00:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-22T23:55:40+00:00"
+   "checked": "2026-11-23T00:00:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-22T23:55:40+00:00"
+   "checked": "2026-11-23T00:00:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-22T23:55:40+00:00"
+   "checked": "2026-11-23T00:00:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-22T23:55:41+00:00"
+   "checked": "2026-11-23T00:00:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-22T23:55:41+00:00"
+   "checked": "2026-11-23T00:00:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-22T23:55:42+00:00"
+   "checked": "2026-11-23T00:00:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-22T23:55:42+00:00"
+   "checked": "2026-11-23T00:00:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-22T23:55:42+00:00"
+   "checked": "2026-11-23T00:00:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-22T23:55:42+00:00"
+   "checked": "2026-11-23T00:00:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 loosens the mission leash but loses the replay menu gamerant says",
+   "title": "GTA 6 loosens the mission leash but loses the replay menu, GameRant says",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQeVdqOFE0WnJIeG5YNmdBYzlWV3BRWGw1OEIwajhYSUswOXJ3Sm9iWGllX0tJcXNULUFDdWhhblVZdU1sc3Uw?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-23T00:00:09+00:00",
+   "seen": "2026-11-23T00:00:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 loosens the mission leash but loses the replay menu, according to GameRant via Digg."
+  },
   {
    "id": "small gta 6 streamer moved to tears after ibai llanos boosts his twitch stream",
    "title": "Small GTA 6 streamer moved to tears after Ibai Llanos boosts his Twitch stream",
@@ -207,6 +220,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The headline claims GTA 6 honors Rockstar team's late friends and family with a Leonida memorial that players can visit themselves."
+  },
+  {
+   "id": "controversial windfall for miami gta vi reopens debate over crime and protecting minors",
+   "title": "Controversial windfall for Miami: GTA VI reopens debate over crime and protecting minors",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPLWlwNDAzU2djby1NSHRYQ29JM2U0d2pZX3BzSU52eVlveFJ0b3lucVl4aFY5YXotSldnQUh1SWNkWHFiU3BjWGZmeWFVOWZtcFp4RUpJcjJuM2RaZnNqUENELXFWQ0xXQmU3bXk3cmR6Z1gwZ1RKdXNDZnhyQ3l2NE5VZzhkTi15Y3FDbFpiWEhoNVQwYk1pOTJTTElvYTJBX0RwdkdFS1FvNjQxbl9YcWcxVE9hRWpRS0QxY0h3Z1NRQnQ0bnRNM3NBV2RvS3A1UEI4S3BTaHAyRHVXYjNRTXM2TjA5SXI5ZVF6RE94cFFUYk40eVVSVUNmckJpT3BtSjhxdGxtVQ?oc=5",
+   "outlet": "IslanderNews.com",
+   "via": "Google News",
+   "published": "2026-11-22T23:23:00+00:00",
+   "seen": "2026-11-23T00:00:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI reopens debate over crime and protecting minors in Miami after a controversial windfall."
   },
   {
    "id": "why gta 6 s overhauled wanted system is the game s best feature",
@@ -597,6 +623,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "GTA VI’s world is described as the game’s setting and players are navigating it."
+  },
+  {
+   "id": "gta 6 tenebrae lux walkthrough puzzle solutions wip",
+   "title": "GTA 6: Tenebrae Lux Walkthrough & Puzzle Solutions (WIP)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTcwZXlGOHhZOTQxRkVmTnBKeTdZdmkyNzNZZE5GZDZTcGNNZjNUUGZSX2RUcUVGRV9nLU1BVVZMYlNCTVBRT1Bib1JOUlhwOFRldEgtZlpySWtJWkdSMnlVVm1UUDVHSDJPYkpoNnltQ3NwYTFQOW1VOEQ3Qy14bU1FNUYwZnJ4WGFJd1NB?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-22T21:38:14+00:00",
+   "seen": "2026-11-23T00:00:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 Tenebrae Lux walkthrough and puzzle solutions as a work in progress."
   },
   {
    "id": "search for tree effigies in gta 6 all effigy locations",
