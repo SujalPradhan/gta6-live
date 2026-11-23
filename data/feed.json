@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:22:02+00:00",
- "started": "2026-11-23T18:21:54+00:00",
+ "updated": "2026-11-23T18:27:13+00:00",
+ "started": "2026-11-23T18:27:05+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T18:21:54+00:00"
+   "checked": "2026-11-23T18:27:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-23T18:21:55+00:00"
+   "hits": 51,
+   "checked": "2026-11-23T18:27:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 76,
-   "checked": "2026-11-23T18:21:56+00:00"
+   "checked": "2026-11-23T18:27:06+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T18:21:56+00:00"
+   "checked": "2026-11-23T18:27:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T18:21:56+00:00"
+   "checked": "2026-11-23T18:27:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T18:21:56+00:00"
+   "checked": "2026-11-23T18:27:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:21:56+00:00"
+   "checked": "2026-11-23T18:27:07+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 21,
-   "checked": "2026-11-23T18:21:57+00:00"
+   "hits": 22,
+   "checked": "2026-11-23T18:27:07+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T18:21:57+00:00"
+   "checked": "2026-11-23T18:27:07+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T18:21:57+00:00"
+   "checked": "2026-11-23T18:27:08+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T18:21:58+00:00"
+   "checked": "2026-11-23T18:27:08+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T18:21:58+00:00"
+   "checked": "2026-11-23T18:27:08+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T18:21:58+00:00"
+   "checked": "2026-11-23T18:27:09+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T18:21:58+00:00"
+   "checked": "2026-11-23T18:27:09+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 s mind blowing easter egg is 5 years in the making",
+   "title": "GTA 6's mind-blowing Easter egg is 5 years in the making",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tcS1Xd2RuN1VoVmp4RWlQSlMxTHdPX3lQM0Y4T1JkY0dpYWhOeXl3My1iSWtNRk1aaTNQajktMDZHNXNmczYxc2NZSVUzZDVCVExNR2xfMWhWcmtHV1ZtVjBDRUNQUGo1ZDhlQjJWQWpSZ2FDbmVibHlB?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T18:21:53+00:00",
+   "seen": "2026-11-23T18:27:05+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA 6's Easter egg that has been in development for five years."
+  },
+  {
+   "id": "players are roasting gta 6 s romance here s why jason and lucia s love story won me over",
+   "title": "Players Are Roasting GTA 6's Romance. Here's Why Jason and Lucia's Love Story Won Me Over",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2tQczRLWWR4Wng1empGeHBXQWZEWmx6c3JNOGlDSVVWOXRaMGFMLVNKcmEtWnBQMDlCZ3B3dUtvUmJhVVVsQmM4bE1WbEUwVW9lSVcwSUE4ZWh6bmtLRUlQdHBSRHBKMF95bmxoUm8wV01FUGluUXZ2ODhtMmxRYnlRRmp3T0JGTUl6dVZHY2tFbEhuMVB2T0lJa3pYb0drcmc?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-23T18:21:45+00:00",
+   "seen": "2026-11-23T18:27:05+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The piece discusses players' reactions to GTA 6's romance and why Jason and Lucia's love story appeals to some fans."
+  },
   {
    "id": "10 legendary gta 6 easter eggs no one should miss",
    "title": "10 Legendary GTA 6 Easter Eggs No One Should Miss",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story lists ten legendary GTA 6 Easter eggs that should not be missed."
+  },
+  {
+   "id": "gta 6 first post launch patch notes",
+   "title": "GTA 6: First post-launch patch notes",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFaWYzTnlISjkwMlVRZlpuU3ZTWXd1VEE1RWlYdkdDUWtTRDRfMkNrbVpUSERpblotLXVza0R3Z2tOQm9tWm9PcFVlbTVUR0c1Ql9teDFIRUxyS2RqY1JoQjNmOXI4Y0VuLXR4QkROLXNUTGV6T1Jr?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-23T18:17:20+00:00",
+   "seen": "2026-11-23T18:27:05+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article covers GTA 6's first post-launch patch notes."
   },
   {
    "id": "the 8 best classic rock songs on gta 6 s soundtrack ranked",
@@ -181,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a guide for a GTA 6 New Look mission involving getting a haircut at Pearl House in Port Gellhorn."
+  },
+  {
+   "id": "gta 6 alien dreams quest guide how to get abducted solve the ufo puzzles and rescue the alien",
+   "title": "GTA 6 Alien Dreams Quest Guide: How to Get Abducted, Solve the UFO Puzzles and Rescue the Alien",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16aVdhZkZfd3RpZDdMTkp0Q0tGUTZ1MjNCV0tsTGZ0YXR2bktxYTRuR1hidlpia3hhQ2FiakpOUHFFWDZaUUxUYTJWRnVRZmkwVTJlSTRSdzFvN3VmZU5YbUpmR1pYOHlNU3RhZlpB?oc=5",
+   "outlet": "PlayDayOne",
+   "via": "Google News",
+   "published": "2026-11-23T18:10:18+00:00",
+   "seen": "2026-11-23T18:27:05+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to complete the Alien Dreams quest, including abduction, UFO puzzles, and rescuing the alien."
   },
   {
    "id": "grand theft auto vi first impressions a love story in my gta",
@@ -1156,6 +1208,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece notes that GTA 6 PC version is close, with modders saying after a Cyberleek release the game almost boots, amid recompilation efforts sparked by an Xbox EXE."
+  },
+  {
+   "id": "gta 6 s mandy actress responds to the internet going crazy over her character",
+   "title": "GTA 6’s Mandy actress responds to the internet going crazy over her character",
+   "link": "https://www.dexerto.com/gta/gta-6s-mandy-actress-responds-to-the-internet-going-crazy-over-her-character-3430710/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-23T16:37:03+00:00",
+   "seen": "2026-11-23T18:27:07+00:00",
+   "summary": "Lexie Shoaibi, the voice actor behind Mandy in Grand Theft Auto 6, has called her newly found fame “bittersweet” while hitting out at people trying to exploit her likeness.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes Mandy's actress comments on fans' reactions and her stance on being exploited online."
   },
   {
    "id": "gta 6 5 mistakes that can turn a quick getaway into a police chase",
