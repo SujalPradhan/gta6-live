@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T19:07:20+00:00",
- "started": "2026-11-23T19:07:12+00:00",
+ "updated": "2026-11-23T19:12:19+00:00",
+ "started": "2026-11-23T19:12:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T19:07:12+00:00"
+   "checked": "2026-11-23T19:12:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-23T19:07:12+00:00"
+   "hits": 57,
+   "checked": "2026-11-23T19:12:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-23T19:07:13+00:00"
+   "checked": "2026-11-23T19:12:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T19:07:13+00:00"
+   "checked": "2026-11-23T19:12:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T19:07:13+00:00"
+   "checked": "2026-11-23T19:12:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T19:07:13+00:00"
+   "checked": "2026-11-23T19:12:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T19:07:14+00:00"
+   "checked": "2026-11-23T19:12:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T19:07:14+00:00"
+   "checked": "2026-11-23T19:12:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:07:14+00:00"
+   "checked": "2026-11-23T19:12:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T19:07:14+00:00"
+   "checked": "2026-11-23T19:12:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T19:07:15+00:00"
+   "checked": "2026-11-23T19:12:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T19:07:15+00:00"
+   "checked": "2026-11-23T19:12:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:07:15+00:00"
+   "checked": "2026-11-23T19:12:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T19:07:15+00:00"
+   "checked": "2026-11-23T19:12:16+00:00"
   }
  },
  "items": [
+  {
+   "id": "mario easter egg discovered in gta vi",
+   "title": "Mario Easter egg discovered in GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnNxMDVFR2tmdTNfNEprVy1wbWNBa2FyT3Ezd0hLR2NsOXpEX1JfeU9vQlo3Y2xMa2dYUEI2UzNjU0t0NGk3WXBFZXFQU0VZVE1BU0gzX0JmZDNRSzg1X2dVdnMyVDUtRXRIN2FwaHFPRmcySzg4enFMR0Z2OG56YQ?oc=5",
+   "outlet": "GoNintendo",
+   "via": "Google News",
+   "published": "2026-11-23T19:05:48+00:00",
+   "seen": "2026-11-23T19:12:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a Mario Easter egg discovered in GTA VI."
+  },
   {
    "id": "lionsgate kept the hunger games opposite gta vi s launch that paid off with a 120 million opening",
    "title": "Lionsgate kept ‘The Hunger Games’ opposite GTA VI’s launch. That paid off with a $120 million opening",
@@ -144,6 +157,19 @@
    "ai_summary": "The story reports that GTA 6 introduces the series' first ever nonbinary character."
   },
   {
+   "id": "gta 6 introduces the series first nonbinary character and they have a really cool name",
+   "title": "GTA 6 Introduces The Series’ First Nonbinary Character, And They Have A Really Cool Name",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEZoRDY0bEdvSGRLdWpFN3lPOTBPQnFUYWJUVGVqWER5OHNSQWhzMnUxamlNMjBBaTlpdDQyU201U1ZuSHJoT3dyWkdrc3RERWhYR2NTbWhFa1NHaGRRNDhmMVNJMjVDNEhNZ2pYOVpmVnhmX2VPSnhiRlZuNWZkTDRxWEF6VXY5eTgwR2diNU1xMkwxUDhCdWdwUkZSSmp3cmF5OGRPVTZsOFhpWFB0MUVFRHhydVE?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-23T19:00:06+00:00",
+   "seen": "2026-11-23T19:12:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 introduces the series’ first nonbinary character and notes they have a cool name."
+  },
+  {
    "id": "from scoffing chips to snapmatic sh tposts gta 6 is filled with brilliant little details",
    "title": "From scoffing chips to Snapmatic sh*tposts, GTA 6 is filled with brilliant little details",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/from-scoffing-chips-to-snapmatic-sh-tposts-gta-6-is-filled-with-brilliant-little-details-here-are-our-favorites/",
@@ -155,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 includes detailed features like chips and Snapmatic sh*tposts, with a note to watch for Leonida in the open world."
+  },
+  {
+   "id": "how to get a plane in gta 6",
+   "title": "How To Get A Plane In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lQmpCdURxdDdNZjRwNW5sc3lCVE40QW40X3o0YVZqOVJnN0MzbU1GZkswRk1YdERuZ1JXV3NIVjE5UkRmREhMSUlsS3lhQm1SRGxBMnVRT045WU9t?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-23T19:00:00+00:00",
+   "seen": "2026-11-23T19:12:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how to get a plane in GTA 6."
   },
   {
    "id": "enthusiasts launched the gta 6 prologue on pc several hours after the exe file leaked",
@@ -1169,6 +1208,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A player reportedly finds Tommy Vercetti’s shirt and a portal to the original Vice City in GTA 6."
+  },
+  {
+   "id": "gta 6 hacker walks free from court despite being jailed for seven years",
+   "title": "GTA 6 hacker walks free from court despite being jailed for seven years",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0dZOXFKck1pejJ3YWxYNE5PcmkwRFhoeGFKT2drUlNLWVFiMUFGeGdnS24xTFBBZ2lweU5OTkdMenJJRjMzajJScGVieGNMbXhRR3RYSHBHRGJKcXE2bWlMY0NySHg1T1l5bVkyN0VleE9nNGJ5SUs3MXk1SGxzX1BNU1k2TF80LWUwY3NR0gGOAUFVX3lxTE5vR1k5cUpyTWl6MndhbFg0Tk9yaTBEWGh4YUpPZ2tSU0tZUWIxQUZ4Z2dLbjFMUEFnaXB5Tk5OR0x6cklGMzNqMlJwZWJ4Y0xteFFHdFhIcEdEYkpxcTZtaUxjQ3JIeDVPWXltWTI3RWV4T2c0YnlJSzcxeTVIbHNfUE1TWTZMXzQtZTBjc1E?oc=5",
+   "outlet": "Daily Record",
+   "via": "Google News",
+   "published": "2026-11-23T17:09:00+00:00",
+   "seen": "2026-11-23T19:12:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports a GTA 6 hacker walks free from court despite being jailed for seven years."
   },
   {
    "id": "cyberleek releases gta 6 xbox build exe boosting playable pc port chances",
