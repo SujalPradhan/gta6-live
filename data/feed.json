@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:36:22+00:00",
- "started": "2026-11-23T16:36:15+00:00",
+ "updated": "2026-11-23T16:41:26+00:00",
+ "started": "2026-11-23T16:41:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T16:36:16+00:00"
+   "checked": "2026-11-23T16:41:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-23T16:36:16+00:00"
+   "hits": 43,
+   "checked": "2026-11-23T16:41:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-23T16:36:17+00:00"
+   "hits": 73,
+   "checked": "2026-11-23T16:41:20+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:36:17+00:00"
+   "checked": "2026-11-23T16:41:20+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T16:36:17+00:00"
+   "checked": "2026-11-23T16:41:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T16:36:17+00:00"
+   "checked": "2026-11-23T16:41:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T16:36:17+00:00"
+   "checked": "2026-11-23T16:41:21+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T16:36:17+00:00"
+   "checked": "2026-11-23T16:41:21+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-23T16:36:17+00:00"
+   "hits": 5,
+   "checked": "2026-11-23T16:41:21+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T16:36:18+00:00"
+   "checked": "2026-11-23T16:41:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T16:36:18+00:00"
+   "checked": "2026-11-23T16:41:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T16:36:18+00:00"
+   "checked": "2026-11-23T16:41:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 2,
-   "checked": "2026-11-23T16:36:18+00:00"
+   "hits": 3,
+   "checked": "2026-11-23T16:41:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T16:36:18+00:00"
+   "checked": "2026-11-23T16:41:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 becomes xbox s most played game following record breaking launch",
+   "title": "GTA 6 becomes Xbox's most-played game following record-breaking launch",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVZNTHBHTTB4NUpwcVJBVWl4NHlFX3ZKbTVnaGhnUDZtR3l2R1BUdGxhS0NLWnRBX20zc0VJVXJSbXpLQ3ExdDRfOHpMMVpVTWFrSG5wNXVheXlzSWZPQnlMNTZhd0plTFVXS2NHZG1ESWRXZnlVbmVlTDBkelA0eUtBUG9hMHk0UU5DTnkwWlpRbWRjRjJLMEV2UjZ2QTRJbG5qc1hwUmZybzBh?oc=5",
+   "outlet": "TrueAchievements",
+   "via": "Google News",
+   "published": "2026-11-23T16:39:08+00:00",
+   "seen": "2026-11-23T16:41:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 becomes Xbox's most-played game following a record-breaking launch."
+  },
+  {
+   "id": "gta 6 pc version is close modders say after cyberleek releases executable the game almost boots",
+   "title": "GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-23T16:39:01+00:00",
+   "seen": "2026-11-23T16:41:21+00:00",
+   "summary": "GTA 6 Xbox EXE triggers new wave of recompilation work",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece notes that GTA 6 PC version is close, with modders saying after a Cyberleek release the game almost boots, amid recompilation efforts sparked by an Xbox EXE."
+  },
   {
    "id": "gta 6 s first patch fixes some crashes and bugs",
    "title": "GTA 6's First Patch Fixes Some Crashes And Bugs",
@@ -376,6 +402,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The review label for Grand Theft Auto VI as a phenomenon-focused piece from ArtReview."
+  },
+  {
+   "id": "grand theft auto vi is popular",
+   "title": "Grand Theft Auto VI is Popular",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Gd0J4YmRFS29YWlZjN2ZqRGlXc0dEZlpoLXkyVXh1bGh5YTFGT1pTcFhqd2FWNXVEMFo4WU03eFFnRENXQW9hVGZ3RlBFZFY4eTFLT191OW9ySGF3c245M1JGVkpfTUU?oc=5",
+   "outlet": "chorus.fm",
+   "via": "Google News",
+   "published": "2026-11-23T16:06:29+00:00",
+   "seen": "2026-11-23T16:41:19+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states that Grand Theft Auto VI is popular."
   },
   {
    "id": "gta 6 s first free update fixes major progression bugs but one frustrating issue remains",
@@ -688,6 +727,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "GTA 6 update fixes autosaving, crashes, and more."
+  },
+  {
+   "id": "kai cenat prays before gta vi livestream god thank you so much",
+   "title": "Kai Cenat Prays Before ‘GTA VI’ Livestream: 'God, Thank You So Much'",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUWhIcGFYWlRvbWI5blU2X3FzSEE0RG1obEUyOFZRS1hxdXdld3FfOVJHVzhKWmhEcXZHdHZUMDFMVm5SR2loUGE1bURNYVUybHBZSGs1YTlldkhJTWxQRjAzVF9WRVdqRkJHY0FRRlVtU1RXM3oxa2JTSERRUHZqZEN3?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T15:39:20+00:00",
+   "seen": "2026-11-23T16:41:19+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The report covers Kai Cenat praying before a GTA VI livestream, expressing thanks to God."
   },
   {
    "id": "cal thomas the poison of grand theft auto vi news herald",
