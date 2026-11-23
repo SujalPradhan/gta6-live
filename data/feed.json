@@ -1,109 +1,148 @@
 {
- "updated": "2026-11-23T09:18:37+00:00",
- "started": "2026-11-23T09:18:35+00:00",
+ "updated": "2026-11-23T09:23:42+00:00",
+ "started": "2026-11-23T09:23:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-23T09:18:35+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-23T09:23:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-23T09:18:35+00:00"
+   "hits": 40,
+   "checked": "2026-11-23T09:23:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-23T09:18:36+00:00"
+   "hits": 61,
+   "checked": "2026-11-23T09:23:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T09:18:36+00:00"
+   "checked": "2026-11-23T09:23:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T09:18:36+00:00"
+   "checked": "2026-11-23T09:23:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T09:18:36+00:00"
+   "checked": "2026-11-23T09:23:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T09:18:36+00:00"
+   "checked": "2026-11-23T09:23:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T09:18:36+00:00"
+   "checked": "2026-11-23T09:23:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T09:18:37+00:00"
+   "checked": "2026-11-23T09:23:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T09:18:37+00:00"
+   "checked": "2026-11-23T09:23:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T09:18:37+00:00"
+   "checked": "2026-11-23T09:23:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T09:18:37+00:00"
+   "checked": "2026-11-23T09:23:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T09:18:37+00:00"
+   "checked": "2026-11-23T09:23:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T09:18:37+00:00"
+   "checked": "2026-11-23T09:23:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks sales records as trump administration co opt game and get ridiculed online",
+   "title": "GTA 6 breaks sales records as Trump administration co-opt game and get ridiculed online",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSi03NXpzUzA4MDE3bURSb2FCcml4Q1loeDF3WURWTmxjSFpzdkprZ21BejU2eWVVWU5Qd1l1bFFyYnpqT2FSN1UySWdLVGFrV2N6RHdpNWZ1ajFRd0otYVRwVVBiYlZxXzYzUHg5N1RuVjNQVTdfN3Z4dF90UGluVlFuVFdxTGJUVzZZSzNyR0g3RjQ4OF9RdnB1T05CakVIR2FWeEt5N1ZJTGNPOGVmaG1LNW9JdUV3bUVpVzZpTEM?oc=5",
+   "outlet": "Euronews.com",
+   "via": "Google News",
+   "published": "2026-11-23T09:19:13+00:00",
+   "seen": "2026-11-23T09:23:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 breaks sales records while the Trump administration co-opts the game and is ridiculed online."
+  },
+  {
+   "id": "gta 6 fake pc version surfaces online contains malware",
+   "title": "GTA 6 Fake PC Version Surfaces Online, Contains Malware",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQl9LQnV4aUlkOXNnMFN4b3NKZHVTcUNQeE1kUmZub2IwaHB6clctc3BtUUNEczR5WDM3a2QxZ1lfOHk0TE40b0VPLVlvaDJXeDJ0NkRlc3hvWUlnRnFJeXJFZ3BBM21tYV9aYjlkUl9IQXVTekptRGdvYTctd1FnNUNMeEU3RzdWXzRHcS1CZnJCWGVrb2lTSU01NERBYWtpMnc?oc=5",
+   "outlet": "IGN India",
+   "via": "Google News",
+   "published": "2026-11-23T09:11:24+00:00",
+   "seen": "2026-11-23T09:23:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a fake PC version of GTA 6 surfaces online and contains malware."
+  },
+  {
+   "id": "ex rockstar environment artist calls gta 6 almost flawless except for one detail",
+   "title": "Ex-Rockstar Environment Artist Calls GTA 6 \"Almost Flawless\" Except for One Detail",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYTNJVU4zU2tHUjV0WGNlaVV4QmJMUnVPUXNjdmxhZEtGVmc5NXd5N1NkaVFOMXNkbnlOUWFjQUJ2NWpMeFZMUksxa1JLTmJCLWNwU1BDN0ttem40ZWFuQnZsOUEyRFIyWnhKTnF1N0VpRkc3UVdLUnBTUTdMR0cwanBrenBTOC02ZDJoT1hCNTVHNy1KN3kzNkpCb2I5OWtqOVoyMzlRYWFCYWZTTHZKdlNaUzZZNXNsTS1yM2g5cEF2a3RC?oc=5",
+   "outlet": "IGN India",
+   "via": "Google News",
+   "published": "2026-11-23T09:11:07+00:00",
+   "seen": "2026-11-23T09:23:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a former Rockstar environment artist calls GTA 6 almost flawless except for one detail."
+  },
   {
    "id": "naughty dog s michael barclay says gta 6 astonished him",
    "title": "Naughty Dog’s Michael Barclay Says GTA 6 Astonished Him",
