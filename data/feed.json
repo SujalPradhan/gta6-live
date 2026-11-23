@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T09:03:33+00:00",
- "started": "2026-11-23T09:03:29+00:00",
+ "updated": "2026-11-23T09:08:45+00:00",
+ "started": "2026-11-23T09:08:40+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-23T09:03:30+00:00"
+   "hits": 99,
+   "checked": "2026-11-23T09:08:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 41,
-   "checked": "2026-11-23T09:03:30+00:00"
+   "hits": 40,
+   "checked": "2026-11-23T09:08:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 63,
-   "checked": "2026-11-23T09:03:30+00:00"
+   "checked": "2026-11-23T09:08:41+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T09:03:30+00:00"
+   "checked": "2026-11-23T09:08:41+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T09:03:31+00:00"
+   "checked": "2026-11-23T09:08:41+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T09:03:31+00:00"
+   "checked": "2026-11-23T09:08:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T09:03:31+00:00"
+   "checked": "2026-11-23T09:08:42+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T09:03:31+00:00"
+   "checked": "2026-11-23T09:08:42+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-23T09:03:31+00:00"
+   "hits": 5,
+   "checked": "2026-11-23T09:08:42+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T09:03:31+00:00"
+   "checked": "2026-11-23T09:08:43+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T09:03:32+00:00"
+   "checked": "2026-11-23T09:08:43+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T09:03:32+00:00"
+   "checked": "2026-11-23T09:08:43+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T09:03:32+00:00"
+   "checked": "2026-11-23T09:08:43+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T09:03:32+00:00"
+   "checked": "2026-11-23T09:08:43+00:00"
   }
  },
  "items": [
+  {
+   "id": "naughty dog s michael barclay says gta 6 astonished him",
+   "title": "Naughty Dog’s Michael Barclay Says GTA 6 Astonished Him",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnZrX1hpdThSbXpmTXY1RUFwXzd4dmVTbGdtNUE5Vm4zQ2hCR0MwU25ZY3RQRmJ3enZ4RlpQcmE0YXZtbEFZV1hWZU1HaE0yMXpoSzZqSWlGWmg3SENfWHR1b3p0SjNLbS02Ym1yb09IcDlXTDRtQWtGTHlfdDI1X3ZjNzdBWGM?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-23T09:08:03+00:00",
+   "seen": "2026-11-23T09:08:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Naughty Dog’s Michael Barclay saying GTA 6 astonished him."
+  },
+  {
+   "id": "gta 6 how to get inside the airport",
+   "title": "GTA 6: How to Get Inside the Airport",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvOXhNSFZRZXRlczVYb2R6UFpmeXhmcHh4MVFwbW50Vmdyclc2b2k2VHVnV0MtUlE4bEY2QWU3MzVUMUE5dS1QWU9pRHd6cHY4TksxVnhtYmQ4aEw4QXhpRlRiMFJSbzA?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-23T09:03:23+00:00",
+   "seen": "2026-11-23T09:08:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 how to get inside the airport."
+  },
   {
    "id": "the gta 6",
    "title": "The GTA 6",
@@ -129,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses why this alleged GTA 6 topic is covered by Vocal, with no snippet provided."
+  },
+  {
+   "id": "lacy gives gta 6 s story a 6 5 10 after completing the game and expresses his disappointment",
+   "title": "Lacy Gives GTA 6's Story A 6.5/10 After Completing The Game And Expresses His Disappointment",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNVVxdjR1aTRGUHppRTAwUnRXSDBlZlFWRkFiSXpUR3VUSzhaNWRPSVR5cEZoeWlQQjkza0VFX3hXU3ZnVVV1V2hkQ3FaTTJrQ05ld0czazhYS3Y5NGMyUTFjdlQ0b1R3MHdqYXdVdXlucDdmdzMyc0NnNzlkeHg0eXBteXBBc0FGSnhtaHhHcWdQejlHU0hyYUo4b2Y4Rlh0dlJIR1VhVm9YWktEVVh3M002TGtRcXRfX2pEWktOQU5Ub3I0eGZJQjFIME9WOFBvQ3JDM2dYcw?oc=5",
+   "outlet": "NDTV Sports",
+   "via": "Google News",
+   "published": "2026-11-23T08:50:29+00:00",
+   "seen": "2026-11-23T09:08:41+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports Lacy giving GTA 6's story a 6.5 out of 10 after completing the game and expressing disappointment."
   },
   {
    "id": "gta vi the album is out now with justice fred again and a daft punk production",
