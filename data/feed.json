@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:32:02+00:00",
- "started": "2026-11-23T18:31:58+00:00",
+ "updated": "2026-11-23T18:37:08+00:00",
+ "started": "2026-11-23T18:37:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T18:31:59+00:00"
+   "checked": "2026-11-23T18:37:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-23T18:31:59+00:00"
+   "hits": 51,
+   "checked": "2026-11-23T18:37:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-23T18:32:00+00:00"
+   "hits": 76,
+   "checked": "2026-11-23T18:37:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T18:32:00+00:00"
+   "checked": "2026-11-23T18:37:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T18:32:00+00:00"
+   "checked": "2026-11-23T18:37:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T18:32:00+00:00"
+   "checked": "2026-11-23T18:37:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:32:01+00:00"
+   "checked": "2026-11-23T18:37:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:32:01+00:00"
+   "checked": "2026-11-23T18:37:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T18:32:01+00:00"
+   "checked": "2026-11-23T18:37:04+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T18:32:02+00:00"
+   "checked": "2026-11-23T18:37:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T18:32:02+00:00"
+   "checked": "2026-11-23T18:37:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T18:32:02+00:00"
+   "checked": "2026-11-23T18:37:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T18:32:02+00:00"
+   "checked": "2026-11-23T18:37:05+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T18:32:02+00:00"
+   "checked": "2026-11-23T18:37:05+00:00"
   }
  },
  "items": [
+  {
+   "id": "10 best early game vehicles in gta vi",
+   "title": "10 Best Early Game Vehicles in GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkNVBHYm9qZTVwejU2MjBqaVYtbXUydno4dG85NFp4ODV4eUNnaFNmbGVFb0xwNHRsWG9uaXNXSDJHUDRmMklYbER4bGNvdTU2YUtxclQ5bDhLUS15SkpmRzgycDQwbnlyeXdwbFFaQkFXdw?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-23T18:35:32+00:00",
+   "seen": "2026-11-23T18:37:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists the best early game vehicles in GTA VI."
+  },
+  {
+   "id": "first gta 6 update fixes weather game crashes wanted level glitches and more",
+   "title": "First GTA 6 update fixes weather, game crashes, wanted level glitches, and more",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVVM5OHl4QkFoVUpfcU5FRUtVYXB4VGYyZ1JRdXJsa1ZlSU9jZUJMWFFwVHp2ZHktazRScDdTTXFKZ0Ffdmt2YV84RTJEdk5lQV9hUFhZVVN1SjFBd05VcFFaV1BaVTZMbUlGT1RmYVg0Z2FTZXdzZUlBQmRzdzFzMjZsRjFnYVZBaFVVblpYanlMc0pyc1RDSDhicXdwTmlBbldPSlI5NXdxaEE1WnRwYm5vMk11YXY1YnhaTGFPc1BGSEU?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-23T18:29:15+00:00",
+   "seen": "2026-11-23T18:37:01+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports that the first GTA 6 update fixes weather, game crashes, and wanted level glitches, among other issues."
+  },
   {
    "id": "gta 6 s mind blowing easter egg is 5 years in the making",
    "title": "GTA 6's mind-blowing Easter egg is 5 years in the making",
@@ -129,6 +155,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The piece discusses players' reactions to GTA 6's romance and why Jason and Lucia's love story appeals to some fans."
+  },
+  {
+   "id": "gta 6 on pc might be playable soon as cyberleek released the full build from xbox s version",
+   "title": "GTA 6 on PC Might Be Playable Soon, as Cyberleek Released the Full Build from Xbox's Version",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb2ZHZko4NU5TQ1NtRFNZak1ya0RQQ0JVbkVfMlNHMWNDTlRlc0k1cWV3UERDZkY1X3NtdGlOemQ1MjhJSVVFaWw4NW5FeFd3WDFfcUlVOU9LTm1wU1pSb3F3MXpnMUJVSlZwRlB3b3c1MENtM01wdGJqZDhmX0FPMG1NZzJLeTlaclpLRzBZd2NJa2E0a1NvMlhlWQ?oc=5",
+   "outlet": "EGW.News",
+   "via": "Google News",
+   "published": "2026-11-23T18:21:27+00:00",
+   "seen": "2026-11-23T18:37:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story suggests GTA 6 on PC might be playable soon as a full build from Xbox's version was released."
   },
   {
    "id": "10 legendary gta 6 easter eggs no one should miss",
