@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T17:56:52+00:00",
- "started": "2026-11-23T17:56:45+00:00",
+ "updated": "2026-11-23T18:01:56+00:00",
+ "started": "2026-11-23T18:01:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T17:56:45+00:00"
+   "checked": "2026-11-23T18:01:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 49,
-   "checked": "2026-11-23T17:56:46+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-23T18:01:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-23T17:56:46+00:00"
+   "checked": "2026-11-23T18:01:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T17:56:47+00:00"
+   "checked": "2026-11-23T18:01:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T17:56:47+00:00"
+   "checked": "2026-11-23T18:01:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T17:56:47+00:00"
+   "checked": "2026-11-23T18:01:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T17:56:48+00:00"
+   "checked": "2026-11-23T18:01:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T17:56:48+00:00"
+   "checked": "2026-11-23T18:01:51+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T17:56:48+00:00"
+   "checked": "2026-11-23T18:01:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T17:56:49+00:00"
+   "checked": "2026-11-23T18:01:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T17:56:49+00:00"
+   "checked": "2026-11-23T18:01:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T17:56:49+00:00"
+   "checked": "2026-11-23T18:01:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T17:56:49+00:00"
+   "checked": "2026-11-23T18:01:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T17:56:50+00:00"
+   "checked": "2026-11-23T18:01:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "quote of the day from telegram ceo gta 6 s hardened criminals should be using my product",
+   "title": "Quote of the Day from Telegram CEO: GTA 6's hardened criminals should be using my product",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-from-telegram-ceo-gta-6s-hardened-criminals-should-be-using-my-product/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-23T18:00:00+00:00",
+   "seen": "2026-11-23T18:01:51+00:00",
+   "summary": "What a fascinating piece of advertising",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a quote from the Telegram CEO suggesting GTA 6's hardened criminals should be using his product, described as fascinating advertising."
+  },
+  {
+   "id": "gta 6 should you get in the chamber in the final flush",
+   "title": "GTA 6: Should You Get In The Chamber In \"The Final Flush\"",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40WGlTLURDd3pZNVpJdS1yVEMxTVByb01WOFp5UmxlWVdLNUNuTXRQUUg4NDhmU0VicnQybHVsRkc3eTN0ZDVJYXk3WkFUUlVGLTBpTEVnMVE2SDdZOC14clFhX0JWZ3c?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-23T17:57:28+00:00",
+   "seen": "2026-11-23T18:01:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks whether you should get in the chamber in The Final Flush for GTA 6."
+  },
+  {
+   "id": "former rockstar environment artist says gta 6 is stunning but he prefers rdr 2 s rivers",
+   "title": "Former Rockstar Environment Artist Says GTA 6 is “Stunning”, But He Prefers RDR 2’s Rivers",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRnBjeU96Z3psTDd6TGRWdkt4MWJLYkpqbEtiUzdRcWpuZ0ptNUROeFpILU5pVlE4cHJJRU5MOTZ4YVpjNWdpMWE2Zmsya2RUdHpxTnBKWEFhQnpMT0VaV3diYXV3b0VpNUFhRWRjZzdQTjN5cTFnUGhTZUpXUk1PT3UzbV9zU3duMVNiV2JVLXNCQ2pqLThSc1VuT3pfeFVZYnZ3MWlOLWQ0cXZfcVE?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-23T17:55:54+00:00",
+   "seen": "2026-11-23T18:01:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A former Rockstar environment artist says GTA 6 is stunning, but prefers Red Dead Redemption 2’s rivers."
+  },
   {
    "id": "gta 6 has a terrifying unkillable npc here s how to find him",
    "title": "GTA 6 Has A Terrifying Unkillable NPC, Here’s How To Find Him",
