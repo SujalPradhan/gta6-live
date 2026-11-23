@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T10:34:14+00:00",
- "started": "2026-11-23T10:34:07+00:00",
+ "updated": "2026-11-23T10:39:12+00:00",
+ "started": "2026-11-23T10:39:05+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-23T10:34:08+00:00"
+   "checked": "2026-11-23T10:39:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 35,
-   "checked": "2026-11-23T10:34:08+00:00"
+   "hits": 37,
+   "checked": "2026-11-23T10:39:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-23T10:34:09+00:00"
+   "hits": 55,
+   "checked": "2026-11-23T10:39:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T10:34:09+00:00"
+   "checked": "2026-11-23T10:39:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T10:34:09+00:00"
+   "checked": "2026-11-23T10:39:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T10:34:10+00:00"
+   "checked": "2026-11-23T10:39:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T10:34:10+00:00"
+   "checked": "2026-11-23T10:39:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T10:34:10+00:00"
+   "checked": "2026-11-23T10:39:08+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:34:10+00:00"
+   "checked": "2026-11-23T10:39:08+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T10:34:11+00:00"
+   "checked": "2026-11-23T10:39:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T10:34:11+00:00"
+   "checked": "2026-11-23T10:39:09+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T10:34:11+00:00"
+   "checked": "2026-11-23T10:39:09+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:34:12+00:00"
+   "checked": "2026-11-23T10:39:09+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T10:34:12+00:00"
+   "checked": "2026-11-23T10:39:09+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 story leak 6 l a noire 2 claims 0 confirmed",
+   "title": "GTA 6 Story Leak: 6 L.A. Noire 2 Claims, 0 Confirmed",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFVlRF83c0sycy0tY0t2ZTRpczdsZFhNQkRlaHNkbkNfMUVQWkdaWTVGZEhKa1NTT0dySjIxSXVPTmxIaFZaVUZVeHI3alFzYmxDcXRnNFNQdXRrUXZqLUUwX1dEMHVGMUZMQmVOVjhGN1NiMUNTemtLQVozNzQtQVM5d2h3cTBSdkZBWVpmdTVYdw?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-23T10:36:39+00:00",
+   "seen": "2026-11-23T10:39:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 leaks include six L.A. Noire 2 claims with zero confirmed claims."
+  },
+  {
+   "id": "gta 6 s goth girl vicki actor starred in a 10 10 netflix series",
+   "title": "GTA 6's Goth Girl Vicki Actor Starred In A 10/10 Netflix Series",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FcGdDTElkOG1aS1YycXM4Q2pWZFBXMVdva3ZScHdQcmVrQVpPb0FWNWliR3owV2s2bTFkMXRVZWJDdkw1VkRnbTdlSTdkdjlOMXZNRXoteE9GNnB0X1BzWHB0c0NaYmhTTS01dlF1OTZmNC14bEtJUHZwcjBDQQ?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-23T10:32:50+00:00",
+   "seen": "2026-11-23T10:39:06+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's Goth Girl Vicki actor starred in a Netflix series rated highly."
+  },
+  {
+   "id": "take two s grand theft auto vi breaks sales records after launch",
+   "title": "Take-Two’s Grand Theft Auto VI breaks sales records after launch",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjlmTFowWTBscWxMX3hseGtSbWRua19zUUp5ZkJGNDFoWVVOQWdoMWNVTFNFWDNSZ3M1cjFWQl8tSVdyZW00TE9LSS1yVFhpbHdnb1FickZBMXJ4ZmZWQVg4SktRRVA1OFlxWXM3WGlBYXFvOTVmVG91OGR5b094V3NRN05PRTk5?oc=5",
+   "outlet": "Traders Union",
+   "via": "Google News",
+   "published": "2026-11-23T10:31:36+00:00",
+   "seen": "2026-11-23T10:39:06+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Take-Two's GTA VI breaks sales records after launch."
+  },
   {
    "id": "toob sees record network traffic ahead of gta vi launch",
    "title": "Toob sees record network traffic ahead of GTA VI launch",
@@ -129,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 includes two shoutouts to Game of Thrones creator George RR Martin, as mentioned by GamesRadar+."
+  },
+  {
+   "id": "grand theft auto 6 reaches day one sales of 3 79 billion shatters entertainment records",
+   "title": "Grand Theft Auto 6 Reaches Day One Sales of $3.79 Billion, Shatters Entertainment Records",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlFGZ0xwSXhKaXVubmNWYUlVUlk1bFljeDNSVlNfVnM5UXdsOUV0Q1dqZDVkZE5hUmJvRG4yZFRMWDRiZ1lhc1dEazF6TUNtbDllYWpxWldJYi1JcE5QRlRzRE9uUk53cHU5R3ZfU3Nhcy1nS09LWEZYRnlHZDhmWHZuUERGbVZkR0FqUWh1U2JvRm5pbU9qSG5xTVh0MUhfZXU3YUlEaDBFUXlpRFYwXzJKazMwU2JNbzI4SVA0RdIBxAFBVV95cUxPRXY4UVI2WGhYZFY5MzJHMHRIbFNuUkJIc1prOUZIRmdsdW5qcnBRNTUzUUNUZ01YdnJpbUNTZVRwcE1ncnVvUFVLNENkRUZmWC1fR1dRTFpjVFlGMng1MFlkOU8xVXJ0a2JtSjBVUDd1d0tuY0p2VTV6NG5GQmh2ZXd6ZXY5NUdzaklDakY5U0lUV2xNUlJua2FIN1dubVlBbkYyUGY1OG54RlNRd1B4cUJCSDQ5NHI0bE4xQnJPR2ktdXFN?oc=5",
+   "outlet": "Gadgets 360",
+   "via": "Google News",
+   "published": "2026-11-23T10:23:03+00:00",
+   "seen": "2026-11-23T10:39:06+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto 6's day one sales reached three point seven nine billion and shatters entertainment records."
   },
   {
    "id": "shashi tharoor compares gta 5 and gta 6 to india s political changes",
