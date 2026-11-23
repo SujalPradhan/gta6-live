@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T22:38:35+00:00",
- "started": "2026-11-23T22:38:29+00:00",
+ "updated": "2026-11-23T22:43:38+00:00",
+ "started": "2026-11-23T22:43:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T22:38:29+00:00"
+   "checked": "2026-11-23T22:43:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-23T22:38:29+00:00"
+   "hits": 46,
+   "checked": "2026-11-23T22:43:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-23T22:38:30+00:00"
+   "hits": 70,
+   "checked": "2026-11-23T22:43:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T22:38:30+00:00"
+   "checked": "2026-11-23T22:43:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T22:38:30+00:00"
+   "checked": "2026-11-23T22:43:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T22:38:30+00:00"
+   "checked": "2026-11-23T22:43:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T22:38:31+00:00"
+   "checked": "2026-11-23T22:43:33+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T22:38:31+00:00"
+   "checked": "2026-11-23T22:43:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T22:38:32+00:00"
+   "checked": "2026-11-23T22:43:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T22:38:32+00:00"
+   "checked": "2026-11-23T22:43:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T22:38:33+00:00"
+   "checked": "2026-11-23T22:43:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T22:38:33+00:00"
+   "checked": "2026-11-23T22:43:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T22:38:33+00:00"
+   "checked": "2026-11-23T22:43:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T22:38:33+00:00"
+   "checked": "2026-11-23T22:43:35+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi can hit 60 fps on xbox series x thanks to a quick resume bug though with a few catches",
+   "title": "GTA VI can hit 60 FPS on Xbox Series X thanks to a Quick Resume bug, though with a few catches",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVTg3V1VDNmE4RG9jOXJrX0RBUEFnd0IyUmFyZ3BFekV3RzNkSnV3cTlKY2wyTDlISkNLa3BVbHZ4ZzAtQi1PeDZsQnhkdHhWcGRyM05VZDBhNURMU2E2N2pBS2RtdVppQlFwdjBOVmZ0LWZhNGkyQ1ZLTEFkY2ZNNkZwZ1NLNjd6OXIybDNVRE1Zb0s1WXZCWFppLTJsdGIwUUlDQXkwLVhsc3FtNXctU3NMVThqbmNKNzdVUEt4bE12NG12a1FBUThsZ0tLNXBxeDRRd0s1TklIdw?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-23T22:40:03+00:00",
+   "seen": "2026-11-23T22:43:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Story reports that GTA VI can hit 60 FPS on Xbox Series X due to a Quick Resume bug, with some catches."
+  },
+  {
+   "id": "grand theft auto vi earns nearly 4 billion in sales",
+   "title": "‘Grand Theft Auto VI’ earns nearly $4 billion in sales",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXUtbmdkRHNFYWxIZUtxUkt4U2JpS0VDN2lhMXhsSnp1dWNWSDlUb3gwc0x2dlc3d0hnUGJTTjlFendPaUF0MV8yOHpGRUx2T3hoeEFoZlkzZjZIVS1udGZ6b29GQmV1STgtUGhPU3lRQlI2ZGpBQzZ5elgxQVRNcHRPRVIwTjZya3FFUG1vMlF5U0N0cTdfTHdydWR3WmZZ?oc=5",
+   "outlet": "KYMA",
+   "via": "Google News",
+   "published": "2026-11-23T22:36:22+00:00",
+   "seen": "2026-11-23T22:43:31+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Story reports that Grand Theft Auto VI earns nearly four billion dollars in sales."
+  },
   {
    "id": "gta 6 players figure out a way to remove its framerate cap but 60fps ain t happening anytime soon",
    "title": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
@@ -168,6 +194,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The story reports GTA VI players feel harmed by Sony and YouTube."
+  },
+  {
+   "id": "grand theft auto vi players are learning that no good screenshot goes unpunished",
+   "title": "‘Grand Theft Auto VI’ Players Are Learning That No Good Screenshot Goes Unpunished",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkZHSUt2RDR0ZnFuVW9PSEJmN3RXekRuX3VGbzY1LUR5WnBjY3hsR2QwdEF6ekJrM0VRQXQ0SXBmS3VSc1c1aFRMVWpXS0xvM2t1eTF2SWZaYmEyejI5MS1WMElKZG9WVk1nV3kxS2JEb0gxaUo1MXJzNHEyaGdnaHJvc2lpZW1MZDNrMzdQa3ZjRkhNSjVBZ3pLT2NSYVFDX1RweW9KYVVCaC16aDVPTQ?oc=5",
+   "outlet": "Gizmodo",
+   "via": "Google News",
+   "published": "2026-11-23T22:25:57+00:00",
+   "seen": "2026-11-23T22:43:31+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Story reports that GTA VI players are learning that no good screenshot goes unpunished."
   },
   {
    "id": "5 embarrassingly stupid ways gta 6 players have gotten themselves killed",
@@ -248,6 +287,19 @@
    "ai_summary": "The story reports that Rockstar Games released a bug fix update for GTA IV."
   },
   {
+   "id": "gta 6 players discover fan favorite character is actually this beloved netflix show star",
+   "title": "GTA 6 Players Discover Fan-Favorite Character Is Actually This Beloved Netflix Show Star",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTldiZ1R1cmtDZGU1MUlrbDZJX2cwSy04TWRoY1pCSDVQMFV3UE5iYTFvZnZPNHNWNmtiZlhncG1zVy1pMEU0VGZOaXF6anpvTUtVeE1vM0RtaGhYYjdEZ3pXMWJQV1ZpQ3I5elBybHJjRVhxNjBDRDBKMFR2WDBTYmdkazlqZklGLUVaRFN4Vk5JcW93LVV6akVn0gGfAUFVX3lxTE5HTzF6eHRZckpjdm4wR2YtRTdmWFlsUjB3UjVQa2ZsX1BaVnY0Y3JZQ0NjZ0NWMnZhZmpjU05uSU45N0ZNUXREbFpialE4TEozQ2Uybnc1bUd0VXVHUzNrZEM3ZDNtQkR5NVVjMWlvTXcwRlhWLTJscmF1TWpTT2ZOVTM1NG15QWtOWGVJNm5LalQzeFFNM2ZxMkZCYm52OA?oc=5",
+   "outlet": "PlayStation LifeStyle",
+   "via": "Google News",
+   "published": "2026-11-23T22:08:13+00:00",
+   "seen": "2026-11-23T22:43:31+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Story reports that a fan-favorite GTA 6 character is actually this beloved Netflix show star."
+  },
+  {
    "id": "d angelo s unheard gta vi song hits streaming",
    "title": "D’Angelo’s Unheard ‘GTA VI’ Song Hits Streaming",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkZuNm45RGw5SGpFN04zMDlUcnlfaTluNllrYS0tbmhYRHZLNzVzRlhPUzB6bVBsM2NkX0FlNEM2YWphU3ROSExsWVlsT2MtOWZUZDJFN0c0cHBKT0p5NVlxaHpxQVdnMzZRa3R2bmtHSlRhN21SOWdzRUREZXFvaDFrcG5qajNVX0Q1WWdJWlR6MlZvT3FJUjI4NG9UckFGVVE?oc=5",
@@ -285,6 +337,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 is playable in a browser, but only for those who are extremely patient."
+  },
+  {
+   "id": "weekly recap gta vi sales boost shares and uk tribunal dismisses claim",
+   "title": "Weekly Recap: GTA VI sales boost shares and UK tribunal dismisses claim",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRGdqSE9RLWk2T2toQjFWV1BRUi15SjhTdVVwS3hkbWw4R3ViRzBwYV9tSjh5QWYxVlltR19tRlVyX29XZWl4MFVsaTZwYW1GRFU3dEJBRXZJcGJNYUVsYXBJMnhkYmZna1U1bVYwMlRHLTcyT01fMXF6SDlOYkg5Nm9LWnNEZ1VPMmdVMDByTzJfUWVlbG1VWExSdERvV29MQkVlV3pFc1ZHbTh6Y0dBWnhfV1lLQ1hhbW1kOW1KS2p4X0w3d2tqZnJYYzA?oc=5",
+   "outlet": "TradingView",
+   "via": "Google News",
+   "published": "2026-11-23T22:00:00+00:00",
+   "seen": "2026-11-23T22:43:31+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Story reports a weekly recap noting GTA VI sales boost shares and a UK tribunal dismisses a claim."
   },
   {
    "id": "is there a casino in gta 6 gambling explained",
