@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T15:10:52+00:00",
- "started": "2026-11-23T15:10:46+00:00",
+ "updated": "2026-11-23T15:15:48+00:00",
+ "started": "2026-11-23T15:15:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T15:10:46+00:00"
+   "checked": "2026-11-23T15:15:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-23T15:10:46+00:00"
+   "hits": 41,
+   "checked": "2026-11-23T15:15:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-23T15:10:47+00:00"
+   "hits": 74,
+   "checked": "2026-11-23T15:15:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T15:10:47+00:00"
+   "checked": "2026-11-23T15:15:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T15:10:47+00:00"
+   "checked": "2026-11-23T15:15:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-23T15:10:47+00:00"
+   "checked": "2026-11-23T15:15:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 29,
-   "checked": "2026-11-23T15:10:48+00:00"
+   "checked": "2026-11-23T15:15:42+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T15:10:48+00:00"
+   "checked": "2026-11-23T15:15:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T15:10:48+00:00"
+   "checked": "2026-11-23T15:15:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T15:10:49+00:00"
+   "checked": "2026-11-23T15:15:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T15:10:49+00:00"
+   "checked": "2026-11-23T15:15:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T15:10:49+00:00"
+   "checked": "2026-11-23T15:15:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T15:10:49+00:00"
+   "checked": "2026-11-23T15:15:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T15:10:49+00:00"
+   "checked": "2026-11-23T15:15:44+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 just gave a platinum selling 2000s rapper an unparalleled comeback and he didn t even drop a new song",
+   "title": "GTA 6 Just Gave a Platinum-Selling 2000s Rapper an Unparalleled Comeback, and He Didn't Even Drop a New Song",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUHNlTEVrTmczYmN6dTdNR09iemZ2emZoNEtvUXJQaWpnbDFYWk5wUnFHMjY3Q2gySGtNbzhDSnJYX0ZpOGt4LWV2WTNfVURXczRLcTlOS2hCemZUeEt4cEdHYXlEbHZ2UmtkT2dfcXJ2dVNROFhuZ0lGUzNIenBsWDJyZVlQRVd3d1hFdTFwSmlKSEZ2YUZhc2pmbS1XckRNTEJHVHZueldZSGFvdTgyd3FKZC1DMzVEakhsQzJoMXI2SUh3T3hINGNFd0RGN3IySjhuU0pn?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-23T15:13:05+00:00",
+   "seen": "2026-11-23T15:15:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 gave a platinum-selling 2000s rapper an unparalleled comeback, without releasing a new song."
+  },
+  {
+   "id": "your child wants to play gta 6 what parents need to know",
+   "title": "Your Child Wants to Play ‘GTA 6’: What Parents Need to Know",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczVsaFdYUDlXc3k2QkNFd2xOWS1pckZ5amd4bzAwbHJza2VlanpYVVRzU0x6ME0zTFRsYW9obUZobUQ0WE9MNlFvZ2hlSVRUbGNjZjRmY1VNblRNS2pIS3Z1ZFNPMVlISmE1ZDduajJmSlM0bXBvVFhvd3hxaTh0TVJUNDBUQXY2dFctS25TaDNVbXNkZ3ZB?oc=5",
+   "outlet": "TODAY.com",
+   "via": "Google News",
+   "published": "2026-11-23T15:11:11+00:00",
+   "seen": "2026-11-23T15:15:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Parents are advised about GTA 6 and what they need to know."
+  },
+  {
+   "id": "gta 6 update fixes phone call bugs that blocked story progress",
+   "title": "GTA 6 Update Fixes Phone Call Bugs That Blocked Story Progress",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TZm1YMkJpN0pDSGhzYkNMMWRUOWpyZ3VNdGdrTGJGS1BOX1RyNzg5Z3Bma2MxQUxuWFlFdVZmeGp5Mi1qWkEtMUFxS1FfYl9QZUdwdUUzRzFWZi01dFo1V1RmWkYtcWdFNkM0THBodHYtOFpFc2tLM3NyMzQ?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-23T15:10:35+00:00",
+   "seen": "2026-11-23T15:15:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 update fixes phone call bugs that blocked story progress."
+  },
   {
    "id": "focus on africa what it s like to play gta 6",
    "title": "Focus on Africa | What it's like to play GTA 6",
@@ -3041,6 +3080,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story says Kodak and Brun create a secret Haitian music station in GTA VI."
+  },
+  {
+   "id": "commentary as a floridian gta 6 feels like home",
+   "title": "Commentary: As a Floridian, 'GTA 6' feels like home",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEV3NjFiNHhHT1F4MzdEVWF5OVNuVlFCbDRXYkhVaU9Pd1VSNzJGMjRnZTJIci1kMXB1T3I2VTFYeXIzQnFqWmFRbUR5WnhNeFRXWlVZc0pLQ1NlNUFPUGxjc0o3LWlzVFozaXo3SzJmZ1JwQXhCTklVaWo3QkpKem1jSHVkdEVDUEdOaXVBc2xwUQ?oc=5",
+   "outlet": "Lodinews.com",
+   "via": "Google News",
+   "published": "2026-11-23T11:00:00+00:00",
+   "seen": "2026-11-23T15:15:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A commentary reflects on GTA 6 feeling like home for a Floridian."
   },
   {
    "id": "gta 6 sneaks in a red hulk parody with a helicopter moment straight out of captain america brave new world",
