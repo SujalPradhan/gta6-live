@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T10:39:12+00:00",
- "started": "2026-11-23T10:39:05+00:00",
+ "updated": "2026-11-23T10:44:14+00:00",
+ "started": "2026-11-23T10:44:08+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-23T10:39:06+00:00"
+   "checked": "2026-11-23T10:44:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 37,
-   "checked": "2026-11-23T10:39:06+00:00"
+   "hits": 39,
+   "checked": "2026-11-23T10:44:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-23T10:39:07+00:00"
+   "hits": 57,
+   "checked": "2026-11-23T10:44:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T10:39:07+00:00"
+   "checked": "2026-11-23T10:44:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T10:39:07+00:00"
+   "checked": "2026-11-23T10:44:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T10:39:07+00:00"
+   "checked": "2026-11-23T10:44:10+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T10:39:08+00:00"
+   "checked": "2026-11-23T10:44:10+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T10:39:08+00:00"
+   "checked": "2026-11-23T10:44:10+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:39:08+00:00"
+   "checked": "2026-11-23T10:44:10+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T10:39:09+00:00"
+   "checked": "2026-11-23T10:44:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T10:39:09+00:00"
+   "checked": "2026-11-23T10:44:11+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T10:39:09+00:00"
+   "checked": "2026-11-23T10:44:11+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:39:09+00:00"
+   "checked": "2026-11-23T10:44:11+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T10:39:09+00:00"
+   "checked": "2026-11-23T10:44:11+00:00"
   }
  },
  "items": [
+  {
+   "id": "justice give gta 6 anthems their live debut at festival launch event",
+   "title": "Justice give ‘GTA 6’ anthems their live debut at festival launch event",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWVwRndIbjN3ejlCZUM1UWVtT0pFRS1HWjFncDFIZlFPeVFwY2otMUs0UmNMMklRVUZERTh1aF91Y1JKRFdTdkhWaXZLTUo5TmNVcVNVS0VPSnJrRVpXanpIeVdyWHVTSFd5NHkxbWt3aEVzNzRscllZQl96dkd5VHpHRWhDZ0s1aldqRU5IZThjNEJCV0IwRzNWUUZreVJWbVc1STNjZE1mZHU4SEk0Z2JDZw?oc=5",
+   "outlet": "NME",
+   "via": "Google News",
+   "published": "2026-11-23T10:41:01+00:00",
+   "seen": "2026-11-23T10:44:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Justice give ‘GTA 6’ anthems their live debut at a festival launch event."
+  },
+  {
+   "id": "gta 6 is already getting backlash on metacritic over boring gameplay",
+   "title": "GTA 6 is already getting backlash on Metacritic over ‘boring’ gameplay",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjJoNDVEMUFfa0lxcERteG1USWI2a0E1Q2VqZ2U4X0Z1dVQ1bzY2M25hM3ZZaENleHBWdU9HZ1gybDQtUmpSWjdMam1fel9hUjkzOEFCc0JodUFFYmZydDlHZGFtZURwWFl4TXFKTVQ0cXhDSmRiVE85M1Q0bzRJdktsZmRoZmQyYkhOaWE1QXlLMzU4X0Y3eG5pNFpPdG_SAaQBQVVfeXFMTXpmSmNQUF9aekZnSEhSQ1NwMGpQNFNoUF9TYWluUHN3OUd2MmxEVkdYMHJQdjZpVFJzQjNzQUNHNTFmS0ZDMUg0c1ZRTlZDcFBKTkdFWjBfQVlNdnZmbFNHWXc3S0h3Y0E0b1VVclJYem5penpxZEJCSlhrOXZxdW1LOXF0bkJsTWc0bk8wc3hOTkJJdnZCcVZYQ1NTXzZfZWtPeVo?oc=5",
+   "outlet": "Metro.co.uk",
+   "via": "Google News",
+   "published": "2026-11-23T10:39:00+00:00",
+   "seen": "2026-11-23T10:44:08+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports backlash on Metacritic over ‘boring’ gameplay for GTA 6."
+  },
   {
    "id": "gta 6 story leak 6 l a noire 2 claims 0 confirmed",
    "title": "GTA 6 Story Leak: 6 L.A. Noire 2 Claims, 0 Confirmed",
@@ -220,6 +246,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "A GTA 6 player receives a 30-day PSN suspension for sharing a photo of an in-game nudist colony."
+  },
+  {
+   "id": "gta 6 online release update what we know about when it comes out",
+   "title": "'GTA 6' Online release update: What we know about when it comes out.",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWG11LWRsYmdvWVpjRWp4VlVEZ2JOYW1zRTRWcVFCQ1dNRTFCSDJaR1JZV3UxZXZsN3N6OFAwWVJJdVB0WkQ1SVdod2QtTGFmcjFKczVxcXpQaUNRSWdzbTNMZlVXRXhLZklrSzlRcEpzVnZfR01JYm4yNEpIdWhfOVloNG1Nc2t2d2RHR3VJZ1ozNVZMamNiWUdDd1pGQzR6TTFR?oc=5",
+   "outlet": "Mashable SEA",
+   "via": "Google News",
+   "published": "2026-11-23T10:16:43+00:00",
+   "seen": "2026-11-23T10:44:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports information about when the GTA 6 online release comes out."
   },
   {
    "id": "gta vi reveals the voices behind vice city",
@@ -1026,6 +1065,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6’s adult rating putting parents on the spot."
+  },
+  {
+   "id": "gta 6 s mandy actress lexie shoaibi calls herself super woke on hasanabi s stream",
+   "title": "GTA 6’s Mandy Actress Lexie Shoaibi Calls Herself \"Super Woke\" On HasanAbi’s Stream",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0N1dGpRdFJrOE5rYV9uYWN0OVVZaklacUlIRmlhWk1EX3hJcmJmZjVCR3p5dUkxUF9nTjZ4STFTZVpKanlmTU9wOEROblRTTGJ6S2tJNU1YcVh1b3ZSdEdaOFhoYzZNSW9XRjJpQ3hOYjlrXzJSMjEtcmNTLUVad2NaM2d2ZDFmNmhPREhkM3VyczdMX3RUZy1OcEhFYlVTMnNUek5SRlF6Y2FBb1hqcXhNdTh4cnpKaTJROVhVWGJTc0otNm4tRXhB?oc=5",
+   "outlet": "NDTV Sports",
+   "via": "Google News",
+   "published": "2026-11-23T07:58:55+00:00",
+   "seen": "2026-11-23T10:44:08+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports Mandy actress Lexie Shoaibi calling herself \"Super Woke\" on HasanAbi’s stream."
   },
   {
    "id": "naughty dog dev gta 6 appears to him as as a bugatti veyron would to a nervous victorian child",
