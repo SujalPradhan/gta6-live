@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T22:33:33+00:00",
- "started": "2026-11-23T22:33:27+00:00",
+ "updated": "2026-11-23T22:38:35+00:00",
+ "started": "2026-11-23T22:38:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T22:33:27+00:00"
+   "checked": "2026-11-23T22:38:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-23T22:33:28+00:00"
+   "hits": 52,
+   "checked": "2026-11-23T22:38:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 70,
-   "checked": "2026-11-23T22:33:28+00:00"
+   "hits": 97,
+   "checked": "2026-11-23T22:38:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T22:33:28+00:00"
+   "checked": "2026-11-23T22:38:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T22:33:29+00:00"
+   "checked": "2026-11-23T22:38:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T22:33:29+00:00"
+   "checked": "2026-11-23T22:38:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T22:33:29+00:00"
+   "checked": "2026-11-23T22:38:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T22:33:30+00:00"
+   "checked": "2026-11-23T22:38:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T22:33:30+00:00"
+   "checked": "2026-11-23T22:38:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T22:33:30+00:00"
+   "checked": "2026-11-23T22:38:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T22:33:31+00:00"
+   "checked": "2026-11-23T22:38:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T22:33:31+00:00"
+   "checked": "2026-11-23T22:38:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T22:33:31+00:00"
+   "checked": "2026-11-23T22:38:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T22:33:31+00:00"
+   "checked": "2026-11-23T22:38:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 players figure out a way to remove its framerate cap but 60fps ain t happening anytime soon",
+   "title": "GTA 6 Players Figure Out A Way To Remove Its Framerate Cap, But 60FPS Ain’t Happening Anytime Soon",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDdKOEVlNWlTUEZyQW4zcHRMa3pGZXR1NXlkUVIzYWdZMDNvd3VQMkRrcE03OVJwTXFueXExeUJxZHJYbWFDMHVJVUhmbVdWbEM2SFFoVnEwXy03aWpMYmhHVVVNN2xINlYxTXZKYjRJY0Y4M0NHcTlVY0pJZ1pjZkxvaE9XbEdET0Rfc0VBc1dESVJzTGt2M3lhTkZXSmlsT2F1QnVNcmxYS0VNTGpOLWRQajQ4NGZzeHM1dDhjWEs2d2Ra?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-23T22:30:19+00:00",
+   "seen": "2026-11-23T22:38:29+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that players have found a method to remove the framerate cap, but achieving 60 FPS is not imminent."
+  },
+  {
+   "id": "10 hidden controls every gta 6 player should know",
+   "title": "10 Hidden Controls Every 'GTA 6' Player Should Know",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX29VbDdpZlJBYmM3aE9jdENwSkY4cmZZQTlncUdoLUgxWlpWdk1Zb05reEp1d2hzQTZYU2ZFR1JQb3Z2UjJ3MGc5NWJqeUhiSkQtUzVtWTZvWDNYbGJUQy1VWjNNZmFtVGN6TlYzR3dkcjVHWGhXaGNOVjFDTmhtSlpwTzdEY1JDZGljX09uYWN2Q1VWNEw4?oc=5",
+   "outlet": "Lifehacker",
+   "via": "Google News",
+   "published": "2026-11-23T22:30:00+00:00",
+   "seen": "2026-11-23T22:38:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that there are ten hidden controls every GTA 6 player should know."
+  },
   {
    "id": "do gta 6 and red dead redemption take place in the same universe the fan theory explained",
    "title": "Do GTA 6 and Red Dead Redemption Take Place in the Same Universe? The Fan Theory Explained.",
