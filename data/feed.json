@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T11:49:42+00:00",
- "started": "2026-11-23T11:49:33+00:00",
+ "updated": "2026-11-23T11:54:38+00:00",
+ "started": "2026-11-23T11:54:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-23T11:49:34+00:00"
+   "checked": "2026-11-23T11:54:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-23T11:49:34+00:00"
+   "checked": "2026-11-23T11:54:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-23T11:49:35+00:00"
+   "hits": 62,
+   "checked": "2026-11-23T11:54:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T11:49:35+00:00"
+   "checked": "2026-11-23T11:54:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T11:49:35+00:00"
+   "checked": "2026-11-23T11:54:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T11:49:36+00:00"
+   "checked": "2026-11-23T11:54:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-23T11:49:36+00:00"
+   "checked": "2026-11-23T11:54:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T11:49:36+00:00"
+   "checked": "2026-11-23T11:54:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T11:49:36+00:00"
+   "checked": "2026-11-23T11:54:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T11:49:37+00:00"
+   "checked": "2026-11-23T11:54:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T11:49:37+00:00"
+   "checked": "2026-11-23T11:54:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T11:49:37+00:00"
+   "checked": "2026-11-23T11:54:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T11:49:38+00:00"
+   "checked": "2026-11-23T11:54:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T11:49:38+00:00"
+   "checked": "2026-11-23T11:54:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi review scarface meets the sims in a giant leap forward for gaming",
+   "title": "Grand Theft Auto VI review — Scarface meets The Sims in a giant leap forward for gaming",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yZmJ4YnE2UVE4OU12Wk1rdFBCY2pJellLelhNYmlBU25KTUlmcmdpVmlfeGdsMTIzWnZXeWhjbTlOd1hPelV4eTdkVEw5MFNjX3ozOURCMmVnOE9CNy13eE50UnNQLTZHZUNYa0RVUE0?oc=5",
+   "outlet": "Financial Times",
+   "via": "Google News",
+   "published": "2026-11-23T11:53:22+00:00",
+   "seen": "2026-11-23T11:54:32+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports a GTA VI review describing the game as a Scarface meets The Sims and a major leap forward for gaming."
+  },
+  {
+   "id": "gta 6 day release guide from the rusty anchor to nine1nine and the pool jump",
+   "title": "GTA 6 Day Release guide: from the Rusty Anchor to Nine1Nine and the pool jump",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0tFdG1TNGFqaEZQY3lXVXFkRkpsMlNhRDlOUEFjTDZUdHE4MmVMeFNRalF6b25ZZW5CMWZpbmlfc0xDdm5mYXNEeklXTHk1bi1MeUI3Q2h3X29ZcmprbmhVbkdTNmg0YlYydlBzalhhZWdTM0o4SmdHWFlCMXRHOFJteG1NLUNzeUZzZng1eFF4VGhZSXFfWnlXQnU?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T11:51:44+00:00",
+   "seen": "2026-11-23T11:54:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a day release guide for GTA 6 covering locations from the Rusty Anchor to Nine1Nine and the pool jump."
+  },
+  {
+   "id": "gta 6 update 01 002 002 all changes download size",
+   "title": "GTA 6 Update 01.002.002—All Changes & Download Size",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE5fd0ZXSmFSb0x3dS1MRTV3Y0lVeFNqQUxCemcwQXc0aDlURUlHMjlhUDlIT3lBbVFmVWtjT2xQVFNDWmptUlNPN2NqNHktanB0TEViQUJZclhaZmdHVDJ0YVJFYVBsbFhFSExFb0sycnNlbjlJNUlITWRtQ3VzRktSbw?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-23T11:48:24+00:00",
+   "seen": "2026-11-23T11:54:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 Update 01.002.002 with all changes and download size details."
+  },
+  {
+   "id": "how to get a key cloner in gta 6",
+   "title": "How To Get A Key Cloner In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yV3F1WEM3ZFRtNFI4d2Q2cER1ajM1UW1pTUJjd0xQNUl2V2xUcmdHalloQlhTRElTOGJaejB1aUc3cGFmdlVVMlF1eHVNc1FSbVhhZWVuaUdmZ0s5UEdoblJ3dVhDYkM4amRmMWxEMDFXMU5CV0E?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-23T11:48:20+00:00",
+   "seen": "2026-11-23T11:54:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how to get a key cloner in GTA 6."
+  },
+  {
+   "id": "i play rocky is the spiritual antithesis of gta vi",
+   "title": "I Play Rocky is the spiritual antithesis of GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzlNNVA2M2FrZFJQcXJrd0V4MXFUeDlmZEE2UXBsa09CNTdiektoSzgyVUNManc4NVhBaXJwbl9UX2hsOS02MGMwY2pxeUZFdl9WVm1WamhXRGNfTThrV1lGZlluOU5OS3J4YUtDZzk2aU84TkZ5ZTEzYjdfZ05ZOGVocURGSXhMdUhhejNFZw?oc=5",
+   "outlet": "WORLD News Group",
+   "via": "Google News",
+   "published": "2026-11-23T11:48:13+00:00",
+   "seen": "2026-11-23T11:54:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports I Play Rocky as the spiritual antithesis of GTA VI."
+  },
   {
    "id": "wow forever breaks records while pc players wait for gta 6",
    "title": "WoW Forever Breaks Records While PC Players Wait for GTA 6",
@@ -194,6 +259,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that GTA 6’s free pre-order bonus is now offered as a paid store purchase."
+  },
+  {
+   "id": "gta 6 s free pre order bonus is now a paid store purchase",
+   "title": "GTA 6’s Free Pre-Order Bonus is Now a Paid Store Purchase",
+   "link": "https://insider-gaming.com/gta-6s-free-pre-order-bonus-now-being-offered-as-paid-store-purchase/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-23T11:34:01+00:00",
+   "seen": "2026-11-23T11:54:35+00:00",
+   "summary": "If you pre-ordered GTA 6 because you didn't want to miss out on the pre-order bonus, Rockstar has made it available for all players anyway. The post GTA 6’s Free Pre-Order Bonus is Now a Paid Store Purchase appeared first on Insider Gaming .",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports the GTA 6 free pre-order bonus is now a paid store purchase."
   },
   {
    "id": "gta 6 first update 1 002 002 released on november 23",
