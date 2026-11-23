@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:42:16+00:00",
- "started": "2026-11-23T18:42:10+00:00",
+ "updated": "2026-11-23T18:47:09+00:00",
+ "started": "2026-11-23T18:47:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,167 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-23T18:42:10+00:00"
+   "hits": 99,
+   "checked": "2026-11-23T18:47:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-23T18:42:11+00:00"
+   "hits": 50,
+   "checked": "2026-11-23T18:47:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-23T18:42:11+00:00"
+   "hits": 97,
+   "checked": "2026-11-23T18:47:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T18:42:11+00:00"
+   "checked": "2026-11-23T18:47:04+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T18:42:12+00:00"
+   "checked": "2026-11-23T18:47:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T18:42:12+00:00"
+   "checked": "2026-11-23T18:47:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:42:12+00:00"
+   "checked": "2026-11-23T18:47:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:42:12+00:00"
+   "checked": "2026-11-23T18:47:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T18:42:13+00:00"
+   "checked": "2026-11-23T18:47:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T18:42:13+00:00"
+   "checked": "2026-11-23T18:47:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T18:42:14+00:00"
+   "checked": "2026-11-23T18:47:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T18:42:14+00:00"
+   "checked": "2026-11-23T18:47:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T18:42:14+00:00"
+   "checked": "2026-11-23T18:47:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T18:42:14+00:00"
+   "checked": "2026-11-23T18:47:06+00:00"
   }
  },
  "items": [
+  {
+   "id": "don t waste those talents gta vi hacker released on licence",
+   "title": "'Don't waste those talents': GTA VI hacker released on licence",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWxNbF9HdlhHNVBZMnZXeWxkWEFUY2ZDU25MRVZMWTdoVkQ5SU9GaTNIelZzS2EtZWxPeHZYM2l4Y2huTXdrMDg1Wk5UaU1Ea1ZmMnhfWHE2UWZ2aGdFblNFNllJYmZPUzdJRkVPZ1FHQTdkX2dNYmhZVGxMYjVOUU93VzN0N3NnU01Xc0ltSEh4cWt2ZVdYSFh3?oc=5",
+   "outlet": "Euronews.com",
+   "via": "Google News",
+   "published": "2026-11-23T18:42:34+00:00",
+   "seen": "2026-11-23T18:47:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI hacker is released on licence after caution or condition, per Euronews."
+  },
+  {
+   "id": "the latine artists shaping vice city in gta vi",
+   "title": "The Latine Artists Shaping Vice City in 'GTA VI'",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNW1ocWFsX3lGNS14ekF5V1VLdlRiODVIVU1ubVlSOXAxMUVHTHotc25vdlRZRlFOeHRLRUZEOVI0REJaMFo0Q3prMHhxVklrMUpVN3RRREFfSnJaVlF3TEJUazYtS3pzUnU1Vjk4YmJydEN4QV9pRl81Y00teFVFbnFpSjBBSDl2VElTdWhoaE9EVDcxeC1FVnBBX2NpemdMYUVJNDdZY0dDZw?oc=5",
+   "outlet": "Remezcla",
+   "via": "Google News",
+   "published": "2026-11-23T18:42:23+00:00",
+   "seen": "2026-11-23T18:47:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Latine artists are shaping Vice City in GTA VI, per Remezcla."
+  },
+  {
+   "id": "how to work out the laptop password in gta 6",
+   "title": "How to work out the laptop password in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43RVBXdnlTeUd4NC1hU2k5UFlFNi13NTRWeXpvVFRxY1N3b2U4bFJaNXI5S0llZU5zOG1sWVFuYi1UaHk4TkFocDhFenlCS2JDLXNYOFNRMWxHd01idkN1aDlBZ3hqVTIzSkdQc1E0bEJJTmlpWjF4bWc0a1RtZw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T18:42:19+00:00",
+   "seen": "2026-11-23T18:47:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Article explains how to work out the laptop password in GTA 6, per Polygon."
+  },
+  {
+   "id": "where to find auntie s place in la perle in gta 6",
+   "title": "Where to find Auntie's Place in La Perle in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUE1RTWxZVUlBV1FMUEhiV0toS18zUWpMRmxwUnNKWTh1ZVFUT2txMVBZTzdYM01SbzJQXzJNZzFZZ3k1aXVEUkxqdFhlTEFlQUpCUUwyX3hXcjRJbE5HUnpyTXFTeGg5SnI0UWpxbkRNb1RMeE16ZElLX003QWdYR2dWM1dsaHJzd0gyUg?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T18:42:19+00:00",
+   "seen": "2026-11-23T18:47:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Guide on where to find Auntie's Place in La Perle in GTA 6, per Polygon."
+  },
+  {
+   "id": "grand theft auto vi playlist 15 great songs by artists from d angelo to cardi b",
+   "title": "Grand Theft Auto VI Playlist: 15 Great Songs by Artists, From D’Angelo to Cardi B",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORUVvUWZSWS04X0ZHejRtdkR5OEQ4elZJam8xYjlSV281SzF3eHY1TTdMakszMXRrVW43dEllQnQxMnZYR3BBYzJ5eVJFNUtLdVFhU2V4UWp0OF8wQXRtSGZIOVl0Q3pDVnV4SGdPcWhGeUFwUElrZVdKdmN2VVRyVGdMa1dqaXN4VzFfNHA4aWtoNjQ?oc=5",
+   "outlet": "The Root",
+   "via": "Google News",
+   "published": "2026-11-23T18:41:52+00:00",
+   "seen": "2026-11-23T18:47:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Playlist highlights fifteen songs by various artists featured in Grand Theft Auto VI, per The Root."
+  },
   {
    "id": "i streamed gta vi to my pc it was awesome even with lag",
    "title": "I streamed GTA VI to my PC – it was awesome, even with lag",
@@ -129,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses what in GTA 6 PC rumors is real and what is hype."
+  },
+  {
+   "id": "previously unreleased d angelo song kamikazi premieres exclusively in gta vi",
+   "title": "Previously Unreleased D’Angelo Song “Kamikazi” Premieres Exclusively In GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZFpIRUk5YmVObjFXWHVqbU05NnVPaG5RYmpkM2VKOGhjd1RILTcwOUpRTlBOLU83dEs3LXNMR1JvN3FNUnNWY1FBOWhlX3pQRUI3XzhES2xYdlB5SmppdVJkbW9vUTI5UHVOX3FuLWhqZDFpaUUtc09DMlM4UUZqZWthZHFRaHN2cVFieXJjcmI2UUlGLWFXcUxfdkVRMjZWR0czbGhJVjI0cVZldzVWcjVSNjRad1HSAbwBQVVfeXFMTzlMQ0hFMnI2c1k1RjVBaXlzWVBWNkNJcWxFVGpiZ000R2FNdEd6Y2NEVnVld3oyRjhTTURWWVhkMnZ5WHU3Z2F6YzRoSlB5N1VVb3lkODlKUUdwd0lwVFkwc29UR190LS1mQzZyR0l5bzllY3dKZXZLNnBralVxTTdKczFZcThmUmppS2Uycmt0b0UxZlBNekp2Ujdrbk85aEVPY3pka0VNX2tlZGViX3dZbWVjbFRLbWt3Z2c?oc=5",
+   "outlet": "mxdwn Music",
+   "via": "Google News",
+   "published": "2026-11-23T18:35:48+00:00",
+   "seen": "2026-11-23T18:47:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Unreleased D’Angelo song 'Kamikazi' premieres exclusively in GTA VI, per mxdwn Music."
   },
   {
    "id": "10 best early game vehicles in gta vi",
@@ -688,6 +766,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story proclaims Alex Consani as the ultimate vice city girl among emerging designers."
+  },
+  {
+   "id": "briton sentenced for gta vi hack but judge lets him walk free daily sabah",
+   "title": "Briton sentenced for GTA VI hack but judge lets him walk free | Daily Sabah",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1Atc1hWcmRELWFOeVkyWlJSWHg2b3FvNy10eWxLRlNSdG05MXAyZjFKTWw0TmJneFY5OVF4dGRoa3REYkRQZTNIM2hMM1BwU0NONUFfODl6d01SYkxLYnR5bm1NdExrbktLUGM3ZS1vTVFXNDJBNXFiSWRhUlEtUDF0NDAtc0tXWFVlbjNrSTNXeUpUOTRINkNxcm5wUjTSAaQBQVVfeXFMTlZPMHR0eFFLd215MGUwLXBXczNnVEpMMFJ5SlFxVmd2dHlaMnF5RVJ6aHpXdGhHVFVQaFFOU19xV01nY2QzX0tXaURhV0dHemRqOGR4bHpvWTh4UklFcjg0SnJjUXg2M3FGeThVSWMteHhGaGlDZDRKY0NDRTNMMi13WmQtZG9sdDhiWVdkQ1kyenhBUDk3bEhZRWRpdEs0RVFvck4?oc=5",
+   "outlet": "Daily Sabah",
+   "via": "Google News",
+   "published": "2026-11-23T17:28:00+00:00",
+   "seen": "2026-11-23T18:47:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Briton sentenced for GTA VI hack but released by judge, per Daily Sabah."
   },
   {
    "id": "gta 6 is officially making boyfriends and husbands step up their game",
@@ -1416,6 +1507,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 leads off CNET's first Gift of the Year Awards, with other top tech products mentioned."
+  },
+  {
+   "id": "gta 6 sells 44 9 million copies generates more than 4 billion in four days alinea estimates",
+   "title": "GTA 6 Sells 44.9 Million Copies, Generates More Than $4 Billion in Four Days, Alinea Estimates",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdjZnU3lHdjlWZjR3SmdMekhjQ3U4QU1PclBKaGpwOVkzdHJ5ZUgwMmYzNXdnRVdFYVU1ZWpMczhndEVZczdQQ0NHa1VpaHh0YWNJb1ZWNFkxa0JzMlI0LThfWk1QY0JvXzJ0NVkySGpLNnFqUnJsZzh3bkQzOVc5bjZtbzZlaDRwenpYMURpUm5Cd040dTl4bTNPcmFSN1BCaFBpWlZpdjhhbGxLd0RNT1A3QmV0b05GZkl3Rw?oc=5",
+   "outlet": "news.lavx.hu",
+   "via": "Google News",
+   "published": "2026-11-23T16:27:50+00:00",
+   "seen": "2026-11-23T18:47:04+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 allegedly sells forty-four point nine million copies and earns over four billion in four days, per Alinea estimate."
   },
   {
    "id": "all illegal operations locations key valuables in gta 6",
