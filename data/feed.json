@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:21:19+00:00",
- "started": "2026-11-23T16:21:12+00:00",
+ "updated": "2026-11-23T16:26:21+00:00",
+ "started": "2026-11-23T16:26:13+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T16:21:12+00:00"
+   "checked": "2026-11-23T16:26:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-23T16:21:13+00:00"
+   "hits": 45,
+   "checked": "2026-11-23T16:26:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-23T16:21:13+00:00"
+   "hits": 75,
+   "checked": "2026-11-23T16:26:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:21:14+00:00"
+   "checked": "2026-11-23T16:26:15+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T16:21:14+00:00"
+   "checked": "2026-11-23T16:26:15+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T16:21:14+00:00"
+   "checked": "2026-11-23T16:26:15+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T16:21:14+00:00"
+   "checked": "2026-11-23T16:26:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T16:21:14+00:00"
+   "checked": "2026-11-23T16:26:16+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-23T16:21:15+00:00"
+   "hits": 5,
+   "checked": "2026-11-23T16:26:16+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T16:21:15+00:00"
+   "checked": "2026-11-23T16:26:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T16:21:15+00:00"
+   "checked": "2026-11-23T16:26:17+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T16:21:15+00:00"
+   "checked": "2026-11-23T16:26:17+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T16:21:15+00:00"
+   "checked": "2026-11-23T16:26:17+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T16:21:15+00:00"
+   "checked": "2026-11-23T16:26:17+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi gets review bombed and fans have decided to review bomb other titles on metacritic",
+   "title": "GTA VI gets review-bombed, and fans have decided to review-bomb other titles on Metacritic",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ0hDVU1GTmpoZy1xN0Jab1QyRjUwaWxCSHBYbm5hc2tzclRndF9xXzZuRF9YS1B1bkozdU13eEJuLXZOTzNVa2tkMXFSOUFvZGIyMFBtS3k4VUtHcUpsYkVnbjB6Z3NTTkpXaGp2M3R5c2U1UUJBTDB6cWhja3o3X0lvRUNra28xMWQ5U2pzYlBpS0RCZTBsRnl4a29OX0QxVWlEZ2VOZ2dremFmU2VIbWNwSDhKSlE1czROaEZ4NWFPT25nbF9XMjkzcUgtRkoxWWU2eUF3?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-23T16:23:33+00:00",
+   "seen": "2026-11-23T16:26:13+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI is being review-bombed and fans are review-bombing other titles on Metacritic."
+  },
+  {
+   "id": "gta 6 at 79 99 rings up near 86 82 in new york after sales tax",
+   "title": "GTA 6 At $79.99 Rings Up Near $86.82 In New York After Sales Tax",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uVkhIWjhxV2g5T1FkZTV1VVNoSEd3QlR4OFNBczAxMmlBWG1wN3hRMldhNFBqazNUNndpRkdZeHRzNHFLNm96elFPekNzZW9PcV85UnV4N3phUW52N0ZDeg?oc=5",
+   "outlet": "CNY News",
+   "via": "Google News",
+   "published": "2026-11-23T16:22:09+00:00",
+   "seen": "2026-11-23T16:26:13+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 price includes a $79.99 listing and taxes raise the total near $86.82 in New York."
+  },
   {
    "id": "you can visit the original vice city in gta 6 with this hidden easter egg",
    "title": "You Can Visit The Original Vice City in GTA 6 With This Hidden Easter Egg",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that the original Vice City can be visited in GTA 6 via a hidden Easter Egg."
+  },
+  {
+   "id": "gta 6 players face crashes and ce 108255 error code on ps5",
+   "title": "GTA 6 Players Face Crashes And CE-108255 Error Code On PS5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXdVT09QZDFvaFpGdXhremt5YTRaZzdQUFlMaFJZdHdhU1ZlVHNiMHVaMGpUS2VjTHZrQVBIVVBpUVBqaDc2Y296MWVQVm1OOF9td3R4Si01eXI3U0tQXzJpdUZ3cV94YzlhbWZGX0NRbkZzcFBNOUdEMmhNMDVoZ1hmRmNlOXdXdVg3V2gtWURUcllLdVRaWm8ydkh0U1JrNnhha3hTN1Q2MUE2TGR5ZHYyU09MUQ?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-23T16:15:08+00:00",
+   "seen": "2026-11-23T16:26:13+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 players on PS5 are facing crashes and the CE-108255 error code."
   },
   {
    "id": "gta 6 drew more than half of active ps5 and xbox players on launch day",
@@ -649,6 +688,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 performances on Xbox Series S remain impressive without needing a PS5 Pro."
+  },
+  {
+   "id": "gta 6 hacker released with a stern warning so he can actually go home and play it now",
+   "title": "GTA 6 hacker released with a stern warning, so he can actually go home and play it now",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQlFkV0VacTRwcGRmSzU1MXNudXJkWE5jUW8zT2VhRE9WYU85aEo3ZmJpdnlnWksycXR5UUhNNGRNbDBmbDRTbW90czhKTnhTRWphWnZBQmNlcmFtcFd6X19HUDRrN253US1VWVV6UE5rVG41X3Njc1JfSXVSUzkzOEF6cXdpQWxzNlB2VA?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-23T15:18:38+00:00",
+   "seen": "2026-11-23T16:26:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 hacker was released with a stern warning, allowing him to go home and play the game."
   },
   {
    "id": "gta 6 sees first post launch patch but don t expect big changes",
