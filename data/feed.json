@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T07:13:02+00:00",
- "started": "2026-11-23T07:12:58+00:00",
+ "updated": "2026-11-23T07:18:03+00:00",
+ "started": "2026-11-23T07:17:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T07:12:58+00:00"
+   "checked": "2026-11-23T07:17:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-23T07:12:59+00:00"
+   "checked": "2026-11-23T07:17:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-23T07:12:59+00:00"
+   "hits": 63,
+   "checked": "2026-11-23T07:17:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T07:13:00+00:00"
+   "checked": "2026-11-23T07:18:00+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T07:13:00+00:00"
+   "checked": "2026-11-23T07:18:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T07:13:00+00:00"
+   "checked": "2026-11-23T07:18:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T07:13:01+00:00"
+   "checked": "2026-11-23T07:18:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T07:13:01+00:00"
+   "checked": "2026-11-23T07:18:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T07:13:01+00:00"
+   "checked": "2026-11-23T07:18:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T07:13:01+00:00"
+   "checked": "2026-11-23T07:18:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T07:13:02+00:00"
+   "checked": "2026-11-23T07:18:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T07:13:02+00:00"
+   "checked": "2026-11-23T07:18:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T07:13:02+00:00"
+   "checked": "2026-11-23T07:18:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T07:13:02+00:00"
+   "checked": "2026-11-23T07:18:01+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 launch eve psn sign in outage unverified glitch clips and how to get the game running",
+   "title": "GTA 6 launch eve: PSN sign-in outage, unverified glitch clips and how to get the game running",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1JfcGxfMy1MbG9Odmg1anNuQzRRUlNCblZsNTZfMjBnLXNSLWlaTUpzLUViUndDUFl0MnVPemV1WHRQXy1zSzNBblQ0dEpzakJ0eHlJM3pHTmxoOTBBR0ZOeUhEbFRZMDNxb2FqZFYyamE0U01BVlRLd3ZCTldidEs4OVpxU3pXdVMxWVVMU0dqWjF3anlwemk2OTdFbEotel9rUHFJREVWY1RWQkRaNQ?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T07:10:14+00:00",
+   "seen": "2026-11-23T07:17:59+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports details about a GTA 6 launch eve including PSN sign-in outage, unverified glitch clips, and how to get the game running."
+  },
+  {
+   "id": "gta 6 made 3 79 billion on day one here s every record it broke",
+   "title": "GTA 6 Made $3.79 Billion on Day One. Here’s Every Record It Broke",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnd0UmVtOFN6UUhWSWlMOHc2eUJfcW5zeF8xTnN0VEhvaGptMnZzM1dubm5jeC1aMklOeGM0OVAxY1F5SU9hWHVzZXR5WnR6bjZvUDBsbGRwVkZBNEh1cU1CMkw4Qzcyb3FaanQ1UDllT1ZDamRsMWwtZ2RDUGUySU13LTVpYjNOQkVkV2dnWWtKRDlUOV9GNE5tV3U?oc=5",
+   "outlet": "NAG",
+   "via": "Google News",
+   "published": "2026-11-23T07:09:31+00:00",
+   "seen": "2026-11-23T07:17:59+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 made $3.79 billion on day one and describes every record it broke."
+  },
   {
    "id": "elon musk reacts as stealing a tesla in gta vi goes horribly wrong after car calls the cops and drives pl",
    "title": "Elon Musk Reacts as Stealing a Tesla in GTA VI Goes Horribly Wrong After Car Calls the Cops and Drives Pl",
@@ -129,6 +155,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 sales near $4 billion after record-breaking opening weekend."
+  },
+  {
+   "id": "gta 6 unwanted attention guide stealing the phoenix from the hamlet impound",
+   "title": "GTA 6 Unwanted Attention guide: stealing the Phoenix from the Hamlet impound",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1FGTFoyYk94ZmliNks0dnJESTRmdXVnWDRzTGJHMENLMnY4MWQ1MmhaNWI3U1FFNlVZUFNFSGtGMEFFNWMzVWl1VjJCQ2puZUxPS04zT0VIVk82MUwwVzMyeDkzUUY4VXYzMHdtTmZiZlBzOG5laDRpZWJhZk5mR3B4Z0h3WFlvcGpKazE5Y3lrbWlEU29qbnlaaw?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T06:51:44+00:00",
+   "seen": "2026-11-23T07:17:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a guide on stealing the Phoenix from the Hamlet impound as part of an unwanted attention guide."
   },
   {
    "id": "robbing banks is a blast but i wish there were more houses to repair in gta 6",
