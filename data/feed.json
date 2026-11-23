@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T11:44:34+00:00",
- "started": "2026-11-23T11:44:28+00:00",
+ "updated": "2026-11-23T11:49:42+00:00",
+ "started": "2026-11-23T11:49:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-23T11:44:29+00:00"
+   "hits": 98,
+   "checked": "2026-11-23T11:49:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 38,
-   "checked": "2026-11-23T11:44:29+00:00"
+   "hits": 40,
+   "checked": "2026-11-23T11:49:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-23T11:44:29+00:00"
+   "hits": 61,
+   "checked": "2026-11-23T11:49:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T11:44:30+00:00"
+   "checked": "2026-11-23T11:49:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T11:44:30+00:00"
+   "checked": "2026-11-23T11:49:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T11:44:30+00:00"
+   "checked": "2026-11-23T11:49:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 33,
-   "checked": "2026-11-23T11:44:30+00:00"
+   "hits": 32,
+   "checked": "2026-11-23T11:49:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 22,
-   "checked": "2026-11-23T11:44:31+00:00"
+   "hits": 21,
+   "checked": "2026-11-23T11:49:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T11:44:31+00:00"
+   "checked": "2026-11-23T11:49:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T11:44:31+00:00"
+   "checked": "2026-11-23T11:49:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T11:44:31+00:00"
+   "checked": "2026-11-23T11:49:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T11:44:32+00:00"
+   "checked": "2026-11-23T11:49:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T11:44:32+00:00"
+   "checked": "2026-11-23T11:49:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T11:44:32+00:00"
+   "checked": "2026-11-23T11:49:38+00:00"
   }
  },
  "items": [
+  {
+   "id": "wow forever breaks records while pc players wait for gta 6",
+   "title": "WoW Forever Breaks Records While PC Players Wait for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ya3ZPREcxTTlkTWEtWFV4RVY3anRqSHlUUFp6NEVlWjRBRkd4NDNHV0llSXZCSjVxTzNfVk10UDY5cnNEdGhvTERVLXVXN212RXZMRWhDbFVFZEF3VEdMcGxId3hZcjRWMU12RHZn?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-23T11:42:40+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "WoW Forever reportedly breaks records while PC players wait for GTA 6."
+  },
+  {
+   "id": "a player has been permanently banned from grand theft auto vi on playstation 5 for attempting an early launch through new zealand",
+   "title": "A player has been permanently banned from Grand Theft Auto VI on PlayStation 5 for attempting an early launch through New Zealand.",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdm5sWTMxTDkwNGxZNGdrTnBYcXItM091NzVRQzhNeWg0Q1V0aUtDYkJZNjV1OTFmVTBrYVdBYUpoMlZHZWVJczIxc05QQXh3VDVxaWc0N3NzM3hydENvZEhVdHBnY2w0TThfMUpDYU1DVjlQdmJGQi1NNTBieHBmN3Nvb3lxbmRhYVBJdVJ2bnRkMFp0aE45NjFvR0E5dkJpVElRd0lNcnRiSUJQSFRNTlBrNi0yYmZfajc0STIySkQ3V0dLem91Y3MxSFFEc1hmdDhOcDZTTjluRFZjQ0dYbk1PMA?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-23T11:42:14+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A player was permanently banned from Grand Theft Auto VI on PlayStation 5 for attempting an early launch through New Zealand."
+  },
   {
    "id": "grand theft auto vi shatters records with 3 79 billion day one sales",
    "title": "Grand Theft Auto VI shatters records with $3.79 billion day-one sales",
@@ -116,6 +142,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA VI shattering records with day-one sales totaling $3.79 billion."
+  },
+  {
+   "id": "gta 6 sells 44 9m copies makes 4 0b",
+   "title": "GTA 6 sells 44.9M copies, makes $4.0B+",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84cnZHQmNMY0czcTRIaS1ObVJ2dDhGNzVpZ3VMOVJBZ0ZMZ3lpeGVYc3N1MGFiQjRUaEhlZTc0ZUlxYW5ERVF4WDZhejczUmFWX2FobkQ3TVlfejBRZ0F4czdiMGotaWc0REU5eEhfTlg1OUdYVEpDN2RPa3U?oc=5",
+   "outlet": "The Alinea Insight newsletter",
+   "via": "Google News",
+   "published": "2026-11-23T11:39:58+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 sells 44.9 million copies and earns over four billion dollars."
   },
   {
    "id": "gta 6 s billboard takes aim at anti trans panic",
@@ -274,6 +313,19 @@
    "ai_summary": "GTA 6 players panic after a warning about a missable trophy in Chapter 1."
   },
   {
+   "id": "bhpians share their review of the new gta vi gameplay story and more team bhp",
+   "title": "BHPians share their review of the new GTA VI: Gameplay, story and more - Team-BHP",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzZYc2tRV3k5Zmx1X3N3dkhLTzlTUlFnMHNuRVFhSzVHRExDN0ZKaWFPc0VlaExmZXJldENPeVBQYy1pLUlON01VZTZoWlEweUdxQktDTWctcDZCZWhXX3FBcm9PUDQyb2NDUmlPMlZpb2VNdE1FbEQxOWFGZGxzZDJSX0tzY3VSZW11cVB4ekdhSENsVFHSAZsBQVVfeXFMTXl3bUZ6bjZYcjJCd1NQbW5EajVsRjBHVXN4ZHJOcjFHT21KZ2x0RzFsSGJ4akNoVzlWWlU1WHE3NjllYm5kem5pYkpOcW9OQUF4ZENrTkROQWlTUHdCTFVRRTdaYnRXeE4xTjVzRFpqaVdnVkI3UEkwWFJiZ1ZGNzBlZVNKVUd4blVSUXppUWFTUjR5LVJESlhFOG8?oc=5",
+   "outlet": "Team-BHP",
+   "via": "Google News",
+   "published": "2026-11-23T11:30:00+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "Team-BHP outlines their review of GTA VI including gameplay and story."
+  },
+  {
    "id": "grand theft auto vi turns weather into blockbuster game appeal",
    "title": "Grand Theft Auto VI Turns Weather Into Blockbuster Game Appeal",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWZDU3JCelVoUVQwcTVmRVJvZWs5YnlBVk42T21CbnV3Smk1c0I4dml0cnVMa0FoeHIwaTA2NVU1N2RNUENpTmpUVExSN3pTSk8zZF9JSy1IczlXbkVmMUpicVJ3VHBIZnB2T05DbUJnUVhHcVk5ZDhwd29kTW1NYS1nUGZyZHNxQ2YxaERxamlZV3loNXA0cTBCZV8xRTc1U2FVdHh5aVIxRE1WWVlrUw?oc=5",
@@ -285,6 +337,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Grand Theft Auto VI turns weather into a blockbuster game appeal."
+  },
+  {
+   "id": "gta 6 first day sales break all records at 3 79 billion but is the game worth the hype",
+   "title": "GTA 6 First-Day Sales Break All Records At $3.79 Billion, But Is The Game Worth The Hype?",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaklUZ2lTZ3NiZ2ZvcksyRFF3NE1lT1NGazN3cEN3dTVDbzZPNUtneUxTeUh5RGxoUUdkSGhzVHJ0Zmw1R1FBRV9tUWdQeU1nLXd3cE04UURpYTVaTEpkemtxeE15cm1VN202eUNyRGtIb002RXN2YXZ0TGZLODBOREN5ZXJNZV9oVExRTktBZUpQNWU2ajdfRGlqcTB1X2FHaFhnNmdXRHFpUG9ORXJCZUpNY0pZdzZvMmZHdWFNcXFwZll5RkM3XzB1LXpTaThzanRvUEJkVdIB3gFBVV95cUxPT0hoc3dFUi1jOVFkQ0pIS0s3ZFd5U1pwSVdnbTVFdzhZVG1IX09aR1Vicm1RWm1HVFZ3dFJuOExLSFJOSjNfRXlyWmxoSm0yTGdzOEZxaE0weDRvTTBaMlIycVNZMDhpY2VqcHEzOWtRVWxIWFBBTjhDMGktOHVJVDVjWk5BNHdOYm5wN2JNbmowbUp0Q0thU3BhRlJHalJsczRPOFJud2pqSElkYVZFemJhamZVRmRJVXpGcUY5RFhERVpqYzl2YVdCWDlwODBUNVpTVGdhamJ3RzJRMlE?oc=5",
+   "outlet": "The Daily Jagran",
+   "via": "Google News",
+   "published": "2026-11-23T11:26:00+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 first-day sales reach record levels, totaling three point seven nine billion dollars, amid questions about its value."
   },
   {
    "id": "raymond james reiterates take two stock strong buy on gta vi sales",
@@ -584,6 +649,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Hyperallergic covers Miami through a GTA VI lens."
+  },
+  {
+   "id": "gta 6 has a cool fast and furious easter egg",
+   "title": "GTA 6 Has a Cool Fast and Furious Easter Egg",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QZ19HQmV2cDhmS1NpeC1YeWhhMXNuNmlDNGFOdkJqa0lrcjZ6OGNLTml4NVpNNWdnV0ZNUnF3dVNSXy03aEF1STdsNTV1cXcyLTdrQkZwbmh3ZzdSdDBpX053?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-23T11:03:32+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 includes a Cool Fast and Furious Easter Egg."
   },
   {
    "id": "gta 6 fragile masculinity and the crime of being a decent boyfriend",
@@ -1366,6 +1444,19 @@
    "ai_summary": "Lana Del Rey celebrates ‘GTA 6’ launch with a Miami tour and Vice City Birkin."
   },
   {
+   "id": "the weeknd and justice reunite for gta vi soundtrack",
+   "title": "The Weeknd and Justice Reunite for GTA VI Soundtrack",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjFXQUMydkhTTnY0a01JcEFfZ3duUGVxb1NsOUxGcTZmNGFIc0F6N0cwcE8zdmItSHl1SXhVQ0tDZjZNakNfbkM0Z0FtaDZWZGR0UDgxNy1sQ25GbmR3Q3ZlOV81eUFBUzF4cTZKd3oxLUxPUUhlRWFnd08wcFhtYkZfbEpHcEROc2VBVVZzczlhUQ?oc=5",
+   "outlet": "Your EDM",
+   "via": "Google News",
+   "published": "2026-11-23T09:39:55+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Weeknd and Justice reunite for the GTA VI soundtrack."
+  },
+  {
    "id": "durov deems gta 6 less realistic as crime gangs don t use telegram",
    "title": "Durov deems GTA 6 less realistic as crime gangs don’t use Telegram",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVmNXSG9EWXU1ZUhfbDV5MnZMbzRLYWNCOWI3MFlMSHNSeWVka1NOZW1hNVNacklXMkFVWWNUVEFmSEpxaVBIWUJnSkhwcnJ0c205Smo5cjBPOTExaVVXeGRHZHc3bzNFQ2VN?oc=5",
@@ -1390,6 +1481,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "GTA 6 fever grips Bengaluru with leading sales on Zepto and busy gaming cafés, as reported by The Times of India."
+  },
+  {
+   "id": "travis scott gives us a look at gta 6 nike air force 1 limited edition sneaker",
+   "title": "Travis Scott Gives Us A Look At ‘GTA 6’ Nike Air Force 1 Limited-Edition Sneaker",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWxzQTVVMVIyTVNBVzQwUThvdUl0aWYyYmdDWXpGbmpPZjZnNlFKMi1DM01DWXVzU1R6QlpMS25PSDZvWXFrWlpCS0VDY3ctR2Q2dlZ3S1R5OTM3WFh2YWg5SFN2eFZmaDZhYjA3NjRYRnhlTHRVRzNZSE1hWFYxYkJQNzZPazRVNnQtMkU2TnN0b2R6REFsbWRKcXFoZ2xsbkxXc25hYkPSAa4BQVVfeXFMT3lwREwyVFdDbDJOaWhMcl9vQlJsZ2FVejlVT3RyWHhseDJ1UjRoVzhSVWxxaE1ZcGFiMFVJaWJwM3E0TXhTaXFrdmJqZzFCVkZCTlFiUEpCVExWS3huRUw4Yk9pYVhZNzRXaHBVVzJsOHVPanVJQ2JQcUJvb1EyOGhZemVPUEdZT2pJdUVDNWFuT3ptMVE3TnR6SkxEQ1NHRDNwdURtek9UZ1hoSlN3?oc=5",
+   "outlet": "AugustMan Singapore",
+   "via": "Google News",
+   "published": "2026-11-23T09:32:52+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Travis Scott previews a GTA 6 Nike Air Force 1 limited-edition sneaker."
   },
   {
    "id": "naughty dog dev gta 6 appears to him as a bugatti veyron would to a nervous victorian child",
@@ -1442,6 +1546,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports Cardi B celebrating the release of Grand Theft Auto VI with a Rolex Daytona worth three million dollars."
+  },
+  {
+   "id": "cyberpunk 2 creative director praises gta vi calling it the greatest artistic achievement in history",
+   "title": "Cyberpunk 2 creative director praises GTA VI, calling it the 'greatest artistic achievement in history'",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR3N3SlFIS3Q4ZHNQTmZRRG14Q2J0aTBabEdtM1pUd0hEamlGYWQxSGc1NVlaMDlEekpMcWtvajc5ZDZrbU8zYVVZcXU1UnVDUThmQlBKWE5sU3haU0RGdVRZRXkxZXczc2ZDbFgxMmVIakRzWks5Y2VFV3UyVUIxSm9KVTIyZTA2aGJhX3NIZHVWaWYyQi1uUnlJOVBrTVBMZFRGRjFtOXhybDFxQWhJYmZpNlVncldkYTk5UURqUEZsUU5tVEVjMTdmd29FeXhCLWFFdG9feHpsM1RnSWhlRm92MVg?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-23T09:28:13+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Cyberpunk 2 creative director praises GTA VI as a greatest artistic achievement in history."
   },
   {
    "id": "gta 6 sets historic entertainment launch record with billions in first day sales",
@@ -1689,6 +1806,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to identify which houses you can enter in GTA 6, per DualShockers."
+  },
+  {
+   "id": "gta 6 walkthrough gameplay part 2 no commentary unwanted attention mission grandtheftauto6 gta6",
+   "title": "GTA 6 Walkthrough Gameplay Part 2 (No Commentary)|UNWANTED ATTENTION Mission #grandtheftauto6 #gta6",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PZ3I1TERuVHJVekFDNUtPeGlJVVU3ajU3RmhyczgzakVxY1JBVmhBSzc1WFV2REItdGpjY2s3SmdjZw?oc=5",
+   "outlet": "YouTube",
+   "via": "Google News",
+   "published": "2026-11-23T08:43:47+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Walkthrough gameplay Part 2 for GTA 6, No Commentary, featuring UNWANTED ATTENTION mission."
   },
   {
    "id": "gta vi is being review bombed on metacritic",
@@ -2066,6 +2196,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story lists every GTA VI racing track and their real-world inspirations."
+  },
+  {
+   "id": "gta 6 just a scratch guide how to get the free ganado repair and respray",
+   "title": "GTA 6 Just a Scratch guide: how to get the free Ganado repair and respray",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlp1STlCRGcxcmhSSmt1VnI3eVpZYTRtWkVQbUxDYXZnTDhlcTJXRVlrTlZ2eDNtclU5MlFGRkE4d0xIaWlvN3gyVjN5ajJTY3B5MWFtUE5kYldmLUY3akJERFFoN3hhOTdIQ1RXNnlpWmE3UG5wNkdkUVJZWDJ6QmFzel9VYmVuY1YxZ283dWdBUVNLcktR?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T07:30:14+00:00",
+   "seen": "2026-11-23T11:49:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 Just a Scratch guide explains how to get the free Ganado repair and respray."
   },
   {
    "id": "rockstar went all in on the details in gta 6 right down to how a boat goes under slow quiet and low key terrifying writers daniyal oliver",
