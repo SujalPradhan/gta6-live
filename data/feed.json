@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:01:15+00:00",
- "started": "2026-11-23T16:01:05+00:00",
+ "updated": "2026-11-23T16:06:24+00:00",
+ "started": "2026-11-23T16:06:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T16:01:06+00:00"
+   "checked": "2026-11-23T16:06:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-23T16:01:06+00:00"
+   "checked": "2026-11-23T16:06:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-23T16:01:07+00:00"
+   "hits": 74,
+   "checked": "2026-11-23T16:06:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:01:07+00:00"
+   "checked": "2026-11-23T16:06:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:01:07+00:00"
+   "checked": "2026-11-23T16:06:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T16:01:08+00:00"
+   "checked": "2026-11-23T16:06:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T16:01:08+00:00"
+   "checked": "2026-11-23T16:06:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T16:01:08+00:00"
+   "checked": "2026-11-23T16:06:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T16:01:09+00:00"
+   "checked": "2026-11-23T16:06:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T16:01:09+00:00"
+   "checked": "2026-11-23T16:06:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 12,
-   "checked": "2026-11-23T16:01:09+00:00"
+   "hits": 11,
+   "checked": "2026-11-23T16:06:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T16:01:10+00:00"
+   "checked": "2026-11-23T16:06:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 2,
-   "checked": "2026-11-23T16:01:10+00:00"
+   "hits": 3,
+   "checked": "2026-11-23T16:06:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T16:01:10+00:00"
+   "checked": "2026-11-23T16:06:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "an absurd little immersion breaking hiccup that reminded me gta 6 isn t perfect",
+   "title": "An Absurd Little Immersion-Breaking Hiccup That Reminded Me GTA 6 Isn’t Perfect",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVG1JQl9kQjhJa1pYYnNBTm0wOXFiNFdWZEl6R2FMV0MyNDVhTVVnakJyRjVNSTk4YjMydDhWY3Z5aE8tTzRQbWJlNV9nUkFwaDhETDZMQUJXSDhqczI3YmdaeW5yMXlyV1VNUmVjcktRSE1ESFBhT05LOVVrNVkyUmhzWl9HVEtlbjZxSTJzYzd2cmRYSDlaVzlHaUc4cmJOUFJoY3dHVVdacVBr?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-23T16:01:06+00:00",
+   "seen": "2026-11-23T16:06:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes that GTA 6 isn’t perfect and uses an immersion-breaking hiccup as a point of critique."
+  },
+  {
+   "id": "gta 6 s secret hell mission rewards players with a permanent health upgrade for fighting satan",
+   "title": "GTA 6's secret 'Hell' mission rewards players with a permanent health upgrade for fighting Satan",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZF9CRlhHNDc1TVdvekZZQ3NzblpHeEM3Vnc5amotTVUzQ1BOMHYxb0FsSEJSRS12UVF5RTY2b09qT29XMjJHeXg5MzE4eU9NaWZuQXpQX3o3b3N6OV84TmsxSHJ5UVBDb1hmLUJtaTBlSVp6VGxfcFBQcHhfT3Y0VnB5SllRdzdVQ1djRzI0WUpxZ184S2I1bmduZWd6UQ?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-23T16:00:00+00:00",
+   "seen": "2026-11-23T16:06:17+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The piece reports that a secret 'Hell' mission grants a permanent health upgrade for fighting Satan."
+  },
+  {
+   "id": "video kevin holland calls for mike perry fight with creative gta 6 scene",
+   "title": "Video: Kevin Holland calls for Mike Perry fight with creative GTA 6 scene",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkxZbW1pNE1RTWU1WnA2WkJRNUd5OFdiNVlnUGZRMEM3TjdnZy1uM2p2bk9mSzNVZ3dBX2dWaVhtb1UtT2IwYTlsX1d1ZkNIQWxmck04bGtLVzZKSU5jTUthVEgtVlpRUVg0WnllVERtSkJPU2F6LWNQcjM2em9GWGZRa3RiNkZrV1EwcG9lYkY3XzNEUGQ2QU5oajdjWXdDbnNERmRLcjZ1ZFVHdkFHVg?oc=5",
+   "outlet": "MMA Fighting",
+   "via": "Google News",
+   "published": "2026-11-23T16:00:00+00:00",
+   "seen": "2026-11-23T16:06:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A video shows Kevin Holland calling for a Mike Perry fight with a creative GTA 6 scene."
+  },
+  {
+   "id": "do you need the key cloner to steal all of gta 6 s cars how to get it and how it works",
+   "title": "Do You Need the Key Cloner to Steal All of GTA 6’s Cars? How to Get it and How It Works",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BLVpJVlg0QkUwbmM3cklEUTlKbUZhT0ZVc1Q3Um14YzlxQWNPZUlvaHpkUnNQUWIxUmhSdFhMcVF1RjM0UkJsMkVaS3VVMmoxSS1ubkFxbjM?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-23T16:00:00+00:00",
+   "seen": "2026-11-23T16:06:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article explains whether you need the Key Cloner to steal all GTA 6 cars, and how it works."
+  },
   {
    "id": "some men are melting down because gta 6 asks them to be decent boyfriends",
    "title": "Some Men Are Melting Down Because GTA 6 Asks Them to Be Decent Boyfriends",
@@ -144,6 +196,19 @@
    "ai_summary": "GTA 6 unofficial PC requirements: Ryzen 5 5600X, 8GB RTX 30."
   },
   {
+   "id": "gta 6 s first big patch finally fixes a major fan complaint",
+   "title": "GTA 6's First Big Patch Finally Fixes A Major Fan Complaint",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMW03NXUtZS1MM2w1Y1RMQW1rS2VScllhVHJ0bTAxb1NMVDh4OUFfblJsa0p2YzNYZTVvMVExb0hNYjVFV3lKSjNTa2IzNGdLaTFBTUhCUzNMWjhGcDRSX2JwcDhCYVpLYWt3dUVreGt5VHZab1lsa2hOczZLZlBrbm5MRmo0UQ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T15:58:03+00:00",
+   "seen": "2026-11-23T16:06:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The report states that GTA 6's first big patch fixes a major fan complaint."
+  },
+  {
    "id": "rockstar games and atlantic records share gta vi the album deluxe edition featuring 23 new tracks",
    "title": "Rockstar Games and Atlantic Records share GTA VI: The Album (Deluxe Edition), featuring 23 new tracks",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWUJUR1JBaEp1QzRqOWdlZi1Gblhycl9RckZySWdLZENaNjFyc3duSWVpeklBTHdXWFQxX2psaGpXS2dPWWNoQ1BpLU5QNGk3ekVwUy1tVkNZSTRmRVU1eUE5TlI3THhVSnFfTGktSFNwWHg3UElJZXBoYXhWcHhPa2M1MFYyUlQ5SGxHajJKcjU5RlJIRl83QjFNbVNRY0M2LXlUNmZ4TENsX2w4azE1aE1wSTNNQ2MxZFJaUDN5azhSM0dUZ0swTEUteG5VT2Zia0lnR2R3?oc=5",
@@ -168,6 +233,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "D’Angelo’s previously unheard GTA VI song Kamikazi is now on streaming services."
+  },
+  {
+   "id": "power trip stream new track mutual death warrant from gta 6",
+   "title": "POWER TRIP stream new track \"Mutual Death Warrant\" (from GTA 6)",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlYzQU5hYWpNeHFPVUhQbjBsYVJURnhkdVVXbkFmYUlNNFpNb3BoZXFHWHFDdm82MmFvVTNfZWhpUE0wS1VXZmhjY2tQYTJpTUpVNmFkNlpkaWRpVTUtQmw3V0FXd05qdWtOZTRQdEJoa01QWXFfeDFnazhZczhYVi16eVJWLXhwclpCVWFjV1RLQzlPWThv?oc=5",
+   "outlet": "Lambgoat",
+   "via": "Google News",
+   "published": "2026-11-23T15:47:00+00:00",
+   "seen": "2026-11-23T16:06:17+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The post promotes a new track titled Mutual Death Warrant, associated with GTA 6."
   },
   {
    "id": "grand theft auto vi generates 3 79 billion biggest entertainment launch ever",
