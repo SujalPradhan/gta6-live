@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T13:35:11+00:00",
- "started": "2026-11-23T13:35:04+00:00",
+ "updated": "2026-11-23T13:40:21+00:00",
+ "started": "2026-11-23T13:40:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-23T13:35:04+00:00"
+   "hits": 98,
+   "checked": "2026-11-23T13:40:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-23T13:35:04+00:00"
+   "checked": "2026-11-23T13:40:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-23T13:35:05+00:00"
+   "checked": "2026-11-23T13:40:15+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T13:35:05+00:00"
+   "checked": "2026-11-23T13:40:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T13:35:05+00:00"
+   "checked": "2026-11-23T13:40:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 53,
-   "checked": "2026-11-23T13:35:05+00:00"
+   "checked": "2026-11-23T13:40:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 28,
-   "checked": "2026-11-23T13:35:06+00:00"
+   "checked": "2026-11-23T13:40:16+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T13:35:06+00:00"
+   "checked": "2026-11-23T13:40:16+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T13:35:06+00:00"
+   "checked": "2026-11-23T13:40:16+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T13:35:06+00:00"
+   "checked": "2026-11-23T13:40:17+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T13:35:07+00:00"
+   "checked": "2026-11-23T13:40:17+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T13:35:07+00:00"
+   "checked": "2026-11-23T13:40:17+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-23T13:35:07+00:00"
+   "hits": 3,
+   "checked": "2026-11-23T13:40:17+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T13:35:07+00:00"
+   "checked": "2026-11-23T13:40:17+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi day one sales of 3 79 billion set a record",
+   "title": "Grand Theft Auto VI day-one sales of $3.79 billion set a record",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZlM1UzJnREtqNmVDVkRzazV0WjBCWnB1eDBDMWxDOS1NQkg2WWJDNlRjeXdzcEU2cWFNT2ZQOC1NOEZMeld2VUtKQWlNdXJmeXBINVRoZ1hVTDUta29nYjV1MURnZ1kzd0E?oc=5",
+   "outlet": "qz.com",
+   "via": "Google News",
+   "published": "2026-11-23T13:38:18+00:00",
+   "seen": "2026-11-23T13:40:15+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA VI day-one sales set a record at $3.79 billion."
+  },
+  {
+   "id": "every npc in gta 6 has a story of their own",
+   "title": "Every NPC in GTA 6 has a story of their own",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Ecjdzb0QzS09DNDlkbUJSNXdzSXhwaXdMXzBnV2RhaExZcjQyRy0xRnJHd2R1dDVGY0hXUXkxQkQxNnpxbDd3N1R1WVk?oc=5",
+   "outlet": "mobidevices.com",
+   "via": "Google News",
+   "published": "2026-11-23T13:34:50+00:00",
+   "seen": "2026-11-23T13:40:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece claims every NPC in GTA 6 has a story of their own."
+  },
+  {
+   "id": "gta 6 motion capture actor has no idea who he is in the game sparks social media hunt to find his character",
+   "title": "GTA 6 Motion Capture Actor Has No Idea Who He Is in the Game, Sparks Social Media Hunt to Find His Character",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpalBmVU15S2RtM2NncmlScTBxc25VdmhkNllLbE9jRkJiVEJrWHpqaXhrTzVKYklydFZUT19kdW1vMmkxd3VTTnFINzM4Nm9fUWdsVGFOdmhpdjBESWJzaVh5WkxJMjJyZEs3LWx2eFF3d2tNQmFocWhhWm4?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-23T13:33:20+00:00",
+   "seen": "2026-11-23T13:40:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A motion capture actor for GTA 6 is unsure who his character is, prompting a social media search."
+  },
   {
    "id": "sony and microsoft are blocking public access to gta 6 and demanding 70 to launch it on another profile",
    "title": "Sony and Microsoft are blocking public access to GTA 6 and demanding $70 to launch it on another profile.",
@@ -233,6 +272,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story states GTA 6 sales outpaced every other 2026 entertainment release, detailing its sales performance."
+  },
+  {
+   "id": "the system is not good vs evil why gta 6 s criminal profile mechanic is dividing fans",
+   "title": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
+   "link": "https://www.ign.com/articles/gta-6-criminal-profile-system-self-defense-penalties",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-23T13:10:30+00:00",
+   "seen": "2026-11-23T13:40:16+00:00",
+   "summary": "GTA 6 players are debating the game's Criminal Profile system, and how it operates with more depth than just a straightforward \"good vs. evil\" morality system.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Fans debate GTA 6's Criminal Profile mechanic and its depth beyond simple good vs. evil."
   },
   {
    "id": "grand theft auto vi update 1 0 2 2 increased the client s size on xbox to 209 86 gb",
@@ -1221,6 +1273,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports undisclosed AI-generated music pulled from a game update as a satirical GTA 6 launch day stunt goes wrong."
+  },
+  {
+   "id": "ps5 pro live restock tracker where to buy the best console for gta 6",
+   "title": "PS5 Pro live restock tracker: Where to buy the best console for 'GTA 6'",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JTnRBcTB2N05XMzl3QmV2Y3JMMHVOVEEzZlVDTWEtSHpMZFJWd2tqUE1oLTN0U1lOSHZwWUx4WW1GUFpwNlZjSzJmajRKdHRWaGd4Nnp1NFNudFFad0pUTnZpRHlRa09BVWFzTTE1Nmc?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-23T11:45:09+00:00",
+   "seen": "2026-11-23T13:40:15+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The article suggests PS5 Pro restock tracking to buy a console for GTA 6."
   },
   {
    "id": "fans believe gta 6 seemingly cooked jake paul",
