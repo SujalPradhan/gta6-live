@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T11:59:40+00:00",
- "started": "2026-11-23T11:59:34+00:00",
+ "updated": "2026-11-23T12:04:41+00:00",
+ "started": "2026-11-23T12:04:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T11:59:34+00:00"
+   "checked": "2026-11-23T12:04:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-23T11:59:35+00:00"
+   "hits": 39,
+   "checked": "2026-11-23T12:04:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-23T11:59:35+00:00"
+   "hits": 61,
+   "checked": "2026-11-23T12:04:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T11:59:35+00:00"
+   "checked": "2026-11-23T12:04:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T11:59:35+00:00"
+   "checked": "2026-11-23T12:04:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T11:59:36+00:00"
+   "checked": "2026-11-23T12:04:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-23T11:59:36+00:00"
+   "checked": "2026-11-23T12:04:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T11:59:36+00:00"
+   "checked": "2026-11-23T12:04:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T11:59:36+00:00"
+   "checked": "2026-11-23T12:04:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T11:59:36+00:00"
+   "checked": "2026-11-23T12:04:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T11:59:37+00:00"
+   "checked": "2026-11-23T12:04:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T11:59:37+00:00"
+   "checked": "2026-11-23T12:04:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T11:59:37+00:00"
+   "checked": "2026-11-23T12:04:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T11:59:37+00:00"
+   "checked": "2026-11-23T12:04:37+00:00"
   }
  },
  "items": [
+  {
+   "id": "how smart network planning helped clemson handle the gta 6 launch",
+   "title": "How smart network planning helped Clemson handle the GTA 6 launch",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjZ1OGJhV2NmNUVhZ0tBV2d5U2dCN295ZlNMR1IwNVRmV2lzQjQ0blBZT2VQQVlQVUwwbVdTZkZtR1BJVnYtMnd4dDlCOHQtcE1zMkdSYUloczFNZUpkUkpQM3JJN3k0SUFXSC1GcnB4RVd5SHFBdkJQTTcyRnRTYUZ0dzhCQlpPelZxY01sY3dTN3JWSnc?oc=5",
+   "outlet": "Clemson News",
+   "via": "Google News",
+   "published": "2026-11-23T12:02:49+00:00",
+   "seen": "2026-11-23T12:04:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how smart network planning aided Clemson during the GTA 6 launch."
+  },
+  {
+   "id": "gta 6 is already the most preordered game ever on playstation and xbox and launch day hasn t even arrived",
+   "title": "GTA 6 is already the most preordered game ever on PlayStation and Xbox — and launch day hasn't even arrived",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0w0a3JfRHhMUXlyX2x2SVloY0NUZFYyZm9EUndVdUhYcnZ3LUhHYlp0cHlTMmNkSmtwdXNlYVZBd200RFU3X1lKZFlpYVZMVG44TGhsdFNQRV9LQUxwWXhVNkNZVmlJX3pRelZMZTN4c3FJNmNPUGQ5UkhPV2Mta2lTbDBobVA0b29mMzZUVmhJTHdfNlMtMzQtdWNpbWw4SXBDR2U1SVFXcE1vdHhIcHFDNHhjS2kyNjhBQ2RhN1hzUEw3WkhfRjdjeW0?oc=5",
+   "outlet": "Cleveland.com",
+   "via": "Google News",
+   "published": "2026-11-23T12:00:00+00:00",
+   "seen": "2026-11-23T12:04:34+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 is already the most preordered game on PlayStation and Xbox, ahead of launch."
+  },
+  {
+   "id": "gta 6 shows up on steam with a blank listing but nothing about the free to play game looks legit",
+   "title": "GTA 6 shows up on Steam with a blank listing, but nothing about the \"Free To Play\" game looks legit",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0tNWlgxMXJud1JGVGViOFB6cjl5d3dScWJON1Z2VlNsR1ZXZ3FieWpuWndlSk9FTEliM0t4YzR5cEtGLWhTTzh2a2tNLUZIaFNTX0lHYlVCSXBVZEwyc3cyckQxNm1vTUcwNWlmWWJLTGdJMWhVSWdaUFRmQzd1VTFvTU5zaHJ0a0VPcndNdEFabTEwTmlBOHY2SUtPVnB5aHJiWUU3UGdURVZMeEdYaVFzaHgyLXdxdmpTQXVYdDVjTzda?oc=5",
+   "outlet": "PC Guide",
+   "via": "Google News",
+   "published": "2026-11-23T11:58:58+00:00",
+   "seen": "2026-11-23T12:04:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 appears on Steam with a blank listing, with no legitimacy to the Free To Play claim."
+  },
+  {
+   "id": "how to flip cars in gta 6 step by step guide",
+   "title": "How to Flip Cars in GTA 6: Step-By-Step Guide",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwY2JoNTB2bXJUUVBJN2tBSU5DemJERW1fZENPbDFEcVQ3ZkRBREl1eS1kZklXdWo3Z3VBNDJuVXA5SEhib1FEOFlCVVNFYnpLaUtmU3U0MC1qR254aGc?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-23T11:58:40+00:00",
+   "seen": "2026-11-23T12:04:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a step-by-step guide on how to flip cars in GTA 6."
+  },
   {
    "id": "gta 6 update 01 002 002 is 603 mb and rolling out now",
    "title": "GTA 6 Update 01.002.002 Is 603 MB and Rolling Out Now",
@@ -142,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a day release guide for GTA 6 covering locations from the Rusty Anchor to Nine1Nine and the pool jump."
+  },
+  {
+   "id": "rockstar reports 3 79b in gta 6 launch sales",
+   "title": "Rockstar reports $3.79B in GTA 6 launch sales",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTTEwRlBHZXNOZGhidE9oMGM5SEhiWnA0NURmUFFIWWo0TmdPbDZuR2xlV21UdEtRaTVENWI1bjhIemxWbjQ2LWxmTVJoaDZ2SUtQLW8yOXU0R3cxRGJNZWpLdUVjOGlZa0E?oc=5",
+   "outlet": "The Rundown AI",
+   "via": "Google News",
+   "published": "2026-11-23T11:51:11+00:00",
+   "seen": "2026-11-23T12:04:34+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports Rockstar's launch sales totaling $3.79B for GTA 6."
   },
   {
    "id": "gta 6 update 01 002 002 all changes download size",
@@ -194,6 +259,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports a GTA 6 review noting Rockstar raises the bar but not perfect."
+  },
+  {
+   "id": "fans believe gta 6 seemingly cooked jake paul",
+   "title": "Fans believe GTA 6 seemingly ‘cooked’ Jake Paul",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUk5BY0FaT2x5Qm5ubEs4Z2ZrcHcxTTdzMG5zUWZRWFVUd2RHaFdRR1UxSVpSb0hiRkc2UzdsVTBxUG1zbWswODFLRW4zN0RCVFJmU1hMcVJrdWFiNmlJd3QzYk9NZFktTDVGY2pqWkpUajdNVVM1V0ZEc3QxaWNIVnM3cTUtaDRwaVE?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T11:45:01+00:00",
+   "seen": "2026-11-23T12:04:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports fans believe GTA 6 appears to have influenced Jake Paul."
   },
   {
    "id": "viral claim says gta 6 profiles players for insurers and employers but proof is missing",
@@ -272,6 +350,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6's Billboard taking aim at anti-trans panic."
+  },
+  {
+   "id": "a gta 6 player stole a tesla here s how ceo elon musk reacted",
+   "title": "A GTA 6 player stole a ‘Tesla’; Here’s how CEO Elon Musk reacted",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVWs4VWNKRHptRDJ1NWFUN3l2MkVLWWZYeHlyQkFMSTdTOThfUWpOcUhoa0E4ZHloLV9GanRVcGRJSWRYSExDa2RBYU1ZdUd2Rmt4VU54M181V2FxWFFfUXIzX1VSSXJLQ0xUbHdldmN2UElaSExYSFkyMVBPRXNZNlUyblN3Z1lLZ3B3Nk5UWjNCa3lETXRfWXFydzVvRnZ5MDZXczdVdDBDbUZqc3ZmOXVfMHpfc2kway1wQjE1aVVtU0cycWhDdTB3X29URG43RjhzLVd6ZDF5c3fSAeABQVVfeXFMUGRVNjl4ODhDZTFLbkN6MERDVjJDcXpxZGxoTThjc09xTnNlTkxtNV9Kbmk5WGpiTzNYbzd4Q0hBd2dSZjZidXFCR3puTEl6Y3E0ZmgyYWkzcG8waHFHcmItSm04UEtySEFSR2NVYzVMd1RURTlmenl3WW8zcDkxaVNSVFc4cm5ZdzlRSENVVlktMjdTazZrU19vN2ptY1cxV3VEdFN3YXhCUU5GQWlJNi1ndDBGX2xoTGJGTkpUY2Jtbm11ZXVjdHVZNVJwMC1SazFiRmpsd2M5UnhQYXVQUUs?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-23T11:35:00+00:00",
+   "seen": "2026-11-23T12:04:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 player stole a Tesla and the CEO Elon Musk's reaction."
   },
   {
    "id": "how to rob atms in gta 6 explained get the car upgrade you need",
@@ -599,6 +690,19 @@
    "ai_summary": "The story reports a GTA 6 actor stating her non-binary character could not be hurt to combat anti-trans violence."
   },
   {
+   "id": "gta 6 kit car capri",
+   "title": "GTA 6 Kit Car - Capri",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Sek9WYTVSNnNGRF9FUHVfNUdoX0RqQi01b1JHOWxfRXpXZmZ2eG12V3dhRjVfeHlsSWJ3UFFmakxwODNYVVh4Y0VrWGlhOUI1TloxeEtlN05xbmpVNEJucENqTDdrUVBrQjVOSGgwcFNUQQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T11:14:08+00:00",
+   "seen": "2026-11-23T12:04:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports about the GTA 6 Kit Car - Capri."
+  },
+  {
    "id": "gta 6 kit car watson bay",
    "title": "GTA 6 Kit Car - Watson Bay",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MRXk2aGFHQXlpQWRPODRQelItaFhxVlVhaERfVTkzRXYwTmU2Qm5udGZzbmljazlvR002VzBfU0Y4NzdxNW9vdUdWUEptSno2bmhjYktHbUxFV0QtNk40Wk84aXl6V2RnSlRYU2FzNjZ5Vk0?oc=5",
@@ -766,6 +870,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Hyperallergic covers Miami through a GTA VI lens."
+  },
+  {
+   "id": "leonida s gta vi pc launch project has reached 75 51 progress",
+   "title": "Leonida's GTA VI PC launch project has reached 75,51% progress.",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzZFemJwbDBxdjVTMnViRlJzSW1zUDJ5MTdPNkgybDFja2ducFh4eWlUWHVsUFdOVmlvUnlrbTV4SXBXc1RaeEVYNTRVTnJMcUx5RkMweGUxMlpTS3pOcmo5emhvbDVBajVxMEpHLU85SVljV3pxZ3MwMHpOeTRCR2FiWnlMMGlRaDZVUS1hZTZwZTB6MzRQVWg5Sm4?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-23T11:04:21+00:00",
+   "seen": "2026-11-23T12:04:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Leonida's GTA VI PC launch project progress at 75.51 percent."
   },
   {
    "id": "gta 6 has a cool fast and furious easter egg",
