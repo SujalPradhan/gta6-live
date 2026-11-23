@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T19:02:17+00:00",
- "started": "2026-11-23T19:02:10+00:00",
+ "updated": "2026-11-23T19:07:20+00:00",
+ "started": "2026-11-23T19:07:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T19:02:11+00:00"
+   "checked": "2026-11-23T19:07:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-23T19:02:11+00:00"
+   "hits": 49,
+   "checked": "2026-11-23T19:07:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-23T19:02:11+00:00"
+   "hits": 73,
+   "checked": "2026-11-23T19:07:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T19:02:12+00:00"
+   "checked": "2026-11-23T19:07:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T19:02:12+00:00"
+   "checked": "2026-11-23T19:07:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T19:02:12+00:00"
+   "checked": "2026-11-23T19:07:13+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T19:02:13+00:00"
+   "checked": "2026-11-23T19:07:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T19:02:13+00:00"
+   "checked": "2026-11-23T19:07:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-23T19:02:13+00:00"
+   "hits": 3,
+   "checked": "2026-11-23T19:07:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T19:02:14+00:00"
+   "checked": "2026-11-23T19:07:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T19:02:14+00:00"
+   "checked": "2026-11-23T19:07:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T19:02:14+00:00"
+   "checked": "2026-11-23T19:07:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 2,
-   "checked": "2026-11-23T19:02:14+00:00"
+   "hits": 3,
+   "checked": "2026-11-23T19:07:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T19:02:15+00:00"
+   "checked": "2026-11-23T19:07:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "lionsgate kept the hunger games opposite gta vi s launch that paid off with a 120 million opening",
+   "title": "Lionsgate kept ‘The Hunger Games’ opposite GTA VI’s launch. That paid off with a $120 million opening",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLV9wU1NQZWM4eTZ4Wkc0UnhDSTBabTMySFl4VGFRMXdUdTJrTlhNdngwZ1NWTFlaWVZzYldNRW5hbEI2T0tfb3l4bUg1OFlXNDBKX3B3ZDUzdXE4WG1UWDVXcllTVFFfdFNwMFBmR0xlSFNQVWd5RmVzc0tBTk9hZGxRX3E4aWRGakdnTUtVQUtiUDB4enc?oc=5",
+   "outlet": "Fortune",
+   "via": "Google News",
+   "published": "2026-11-23T19:04:00+00:00",
+   "seen": "2026-11-23T19:07:12+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that Lionsgate's release of The Hunger Games alongside GTA VI's launch paid off with a large opening."
+  },
+  {
+   "id": "gta vi is more than a video game it s a branding lesson for entrepreneurs",
+   "title": "GTA VI Is More Than a Video Game. It’s a Branding Lesson for Entrepreneurs",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjk4Mm1pMEdmeWdrb2ZwRVgxODJDSzFDUzlrVHZKRG93Z0s4ZEI4czBYTTN1Vk9MZEtoVFk2cUlRbThNVTBZanVqQWl2dThjVkJSRFlaSjA3X0I2anF6TGEzQXo1enNJQTZMTzlVWGI2TFhkYjctak9tc0g2QjU1T1V2b25nWlpmY2tVSlpNbDlUWWo4NjJGOWlnbUQ3bHZHU2NZNXdNVmRvWUtoVHBELXh1TGFwZ08yVnJj?oc=5",
+   "outlet": "Inc.com",
+   "via": "Google News",
+   "published": "2026-11-23T19:01:28+00:00",
+   "seen": "2026-11-23T19:07:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI is presented as more than a game and serves as a branding lesson for entrepreneurs."
+  },
+  {
+   "id": "gta 6 introduces the series first ever nonbinary character",
+   "title": "GTA 6 Introduces The Series' First Ever Nonbinary Character",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEZoRDY0bEdvSGRLdWpFN3lPOTBPQnFUYWJUVGVqWER5OHNSQWhzMnUxamlNMjBBaTlpdDQyU201U1ZuSHJoT3dyWkdrc3RERWhYR2NTbWhFa1NHaGRRNDhmMVNJMjVDNEhNZ2pYOVpmVnhmX2VPSnhiRlZuNWZkTDRxWEF6VXY5eTgwR2diNU1xMkwxUDhCdWdwUkZSSmp3cmF5OGRPVTZsOFhpWFB0MUVFRHhydVE?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-23T19:00:06+00:00",
+   "seen": "2026-11-23T19:07:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 introduces the series' first ever nonbinary character."
+  },
+  {
+   "id": "from scoffing chips to snapmatic sh tposts gta 6 is filled with brilliant little details",
+   "title": "From scoffing chips to Snapmatic sh*tposts, GTA 6 is filled with brilliant little details",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/from-scoffing-chips-to-snapmatic-sh-tposts-gta-6-is-filled-with-brilliant-little-details-here-are-our-favorites/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-23T19:00:00+00:00",
+   "seen": "2026-11-23T19:07:14+00:00",
+   "summary": "Keep your eyes peeled, and Leonida is a thriving open-world",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 includes detailed features like chips and Snapmatic sh*tposts, with a note to watch for Leonida in the open world."
+  },
   {
    "id": "enthusiasts launched the gta 6 prologue on pc several hours after the exe file leaked",
    "title": "Enthusiasts launched the GTA 6 prologue on PC several hours after the EXE file leaked.",
@@ -350,6 +402,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a GTA VI festival set times were revealed and proceeds will go to Miami charities."
+  },
+  {
+   "id": "rockstar games announces grand theft auto vi updates including a fix for weather issue",
+   "title": "Rockstar Games Announces 'Grand Theft Auto VI' Updates, Including a Fix for Weather Issue",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDJ3amt6SVE0MHFGN3Y0TExRVVlZWlZ6am8xMkI4SmxtSklLWmxCRV9YX1dVU0hKN3RPSzB2V3RUM1ctVllEajJBQ0FhOV9LcUx3bUpxU2w3Y3ZybW9sVVZ3RjJaRzZ0Wlpxa01KQUFiakxsdnp5QkFqcUFQaHh2U19uZUFWQWM?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-23T18:21:54+00:00",
+   "seen": "2026-11-23T19:07:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Rockstar Games announced GTA VI updates, including a fix for a weather issue."
   },
   {
    "id": "gta 6 s mind blowing easter egg is 5 years in the making",
