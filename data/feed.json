@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T17:06:37+00:00",
- "started": "2026-11-23T17:06:28+00:00",
+ "updated": "2026-11-23T17:11:43+00:00",
+ "started": "2026-11-23T17:11:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T17:06:28+00:00"
+   "checked": "2026-11-23T17:11:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-23T17:06:28+00:00"
+   "hits": 44,
+   "checked": "2026-11-23T17:11:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-23T17:06:29+00:00"
+   "checked": "2026-11-23T17:11:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T17:06:29+00:00"
+   "checked": "2026-11-23T17:11:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T17:06:29+00:00"
+   "checked": "2026-11-23T17:11:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T17:06:30+00:00"
+   "checked": "2026-11-23T17:11:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T17:06:30+00:00"
+   "checked": "2026-11-23T17:11:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T17:06:30+00:00"
+   "checked": "2026-11-23T17:11:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T17:06:31+00:00"
+   "checked": "2026-11-23T17:11:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T17:06:31+00:00"
+   "checked": "2026-11-23T17:11:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T17:06:31+00:00"
+   "checked": "2026-11-23T17:11:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T17:06:32+00:00"
+   "checked": "2026-11-23T17:11:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T17:06:32+00:00"
+   "checked": "2026-11-23T17:11:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T17:06:32+00:00"
+   "checked": "2026-11-23T17:11:34+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is causing playstation bans of up to 30 days and you could be the next player punished if you do this",
+   "title": "GTA 6 Is Causing PlayStation Bans of Up to 30 Days, and You Could Be the Next Player Punished If You Do This",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkdiS1UtYl95OE11U0h2UnJfUjg0Z1liakQxSkRudXpraG1MMkwxREkzSXo1Y0pJcmtKMXF1dXI5SGN0OUtXY3ZyeXdDVmZTS2NIdFNVNE5yNy1lcWg0MEptQmpONC1VUkJheHIwRmxiWWpJeEhjWTlJSnlQZDZQbjh0MWJmU0VZeUcwZzRHZUJZQ29vVTNFRDdMRkk3QXRVYmFfMktidGFYMDNDMS1ad3NQNEo3MUs0eUFURW5LOE1TUk5JUGxHSU96aVlMamNmRlpTY3FxZw?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-23T17:06:38+00:00",
+   "seen": "2026-11-23T17:11:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is causing PlayStation bans of up to 30 days, and warns players they could be punished for certain actions."
+  },
   {
    "id": "last thing you need from gta 6 soundtrack climbing hot 100",
    "title": "'Last Thing You Need' From 'GTA 6' Soundtrack Climbing Hot 100",
@@ -181,6 +194,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A poll asks if GTA 6 has lived up to the hype over its first weekend as players report broad online visibility."
+  },
+  {
+   "id": "gta vi the album deluxe edition announced features 23 bonus tracks",
+   "title": "GTA VI The Album Deluxe Edition Announced, Features 23 Bonus Tracks",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHM4b1VwclpndEVhbEh4eExSekxTcld2VjliV2RKejNCUlFyQ3g5UTBVeWthLVU0ZGF3V2MweXBvSS0tRXpRTC1YUGhuTTB3QjVFWXBDYTg2VWNDUkRnaFpNdmx5YXVXRmxPRnN1TTNjS2pCMHZ0NEpNajJwRnhZaTZkdVFod0FZUnNkREUxZXktV19wQ2lKQQ?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-23T16:59:29+00:00",
+   "seen": "2026-11-23T17:11:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI The Album Deluxe Edition has been announced and includes 23 bonus tracks."
+  },
+  {
+   "id": "gta vi breaks records with 3 79 billion in first day sales with justice behind the score",
+   "title": "GTA VI Breaks Records With $3.79 Billion in First-Day Sales, With Justice Behind the Score",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelVqY2M1SjhiV3ZnMmZqemV5TWpQT3RQaVVfUDBISXhyRkhLay1VTjBJVThLUk5XaTdkalZJcnZXLUJpMXplUW5WZFp5U3VSWEpQM3J2NVVGSUZxVk9rakhfRkpSMHdPMnBzMXF0NWNpbm9UbWR3eEcyZy0wVFJVY1k1MGdBQzZPcVF5WWU4ZlJ1aUZkYVpvNkp3dGZZdWF4OUNYNGRiOGxmbnUxM21XNXFpUUtOWE84azJhSGcxMzV1TDQ?oc=5",
+   "outlet": "EDMTunes",
+   "via": "Google News",
+   "published": "2026-11-23T16:59:11+00:00",
+   "seen": "2026-11-23T17:11:29+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI breaks records with first-day sales totaling $3.79 billion and mentions Justice behind the score."
   },
   {
    "id": "travis scott slayyyter the dare feature on deluxe gta vi soundtrack",
