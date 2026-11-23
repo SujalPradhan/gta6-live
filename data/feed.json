@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-23T02:52:04+00:00",
- "started": "2026-11-23T02:51:36+00:00",
+ "updated": "2026-11-23T02:56:41+00:00",
+ "started": "2026-11-23T02:56:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-23T02:51:45+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-23T02:56:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-23T02:51:54+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 40,
+   "checked": "2026-11-23T02:56:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-23T02:52:02+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 66,
+   "checked": "2026-11-23T02:56:36+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T02:52:02+00:00"
+   "checked": "2026-11-23T02:56:36+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T02:52:02+00:00"
+   "checked": "2026-11-23T02:56:36+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T02:52:03+00:00"
+   "checked": "2026-11-23T02:56:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T02:52:03+00:00"
+   "checked": "2026-11-23T02:56:37+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T02:52:03+00:00"
+   "checked": "2026-11-23T02:56:37+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T02:52:03+00:00"
+   "checked": "2026-11-23T02:56:37+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T02:52:04+00:00"
+   "checked": "2026-11-23T02:56:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T02:52:04+00:00"
+   "checked": "2026-11-23T02:56:38+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T02:52:04+00:00"
+   "checked": "2026-11-23T02:56:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T02:52:04+00:00"
+   "checked": "2026-11-23T02:56:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T02:52:04+00:00"
+   "checked": "2026-11-23T02:56:38+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi includes a nod to gta online s ghostbusters parody",
+   "title": "Grand Theft Auto VI Includes a Nod to GTA Online’s Ghostbusters Parody",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU1JBcDlMU281WGFrNmhSeUlsb2lTb2lMMnBibjJXaDNYZzVMMzVubzdxQmdhdGVOTHFBZnVNb2VpZjl4YWd4b1BjLTl5SjFHTzV3U0FtLXAxTVl2T0lsN29jMTRwOE1MM2tFdDFpYm9BdkFlczlMdmtvbWlFUzh2ZW12RUtlRXNCbDl5SmJjd0owVG1hblhpZjg3WWNuLUhac3BGU2tldGZSZ0FjUFJz?oc=5",
+   "outlet": "Ghostbusters News",
+   "via": "Google News",
+   "published": "2026-11-23T02:46:08+00:00",
+   "seen": "2026-11-23T02:56:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI includes a nod to GTA Online’s Ghostbusters parody, as noted by Ghostbusters News."
+  },
+  {
+   "id": "gta vi leak vs launch 99 metacritic after 4 years",
+   "title": "GTA VI Leak vs Launch: 99 Metacritic After 4 Years",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFlkYV9TMEJYYVdXV3NJVDEyODBJamhKN3dvcl9WN21iRkE4MTM0eWtVa2N5c21hLWRqX2ZocTFkMVRmOWNNMTdYV2JUenNjRzdKUWY5NzB2dmk3aEpDTk5wQkxENlZSeTdPRmlxYm1GOEVwQU5iZ2JyN214U2YwNnFRTUw5dFFiSEphWG40aFprQQ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-23T02:44:26+00:00",
+   "seen": "2026-11-23T02:56:35+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "The story reports a comparison between GTA VI leak outcomes and launch, with a Metacritic score reference after four years, as stated by shattered.io."
+  },
   {
    "id": "grand theft auto vi launch in bangkok",
    "title": "Grand Theft Auto VI launch in Bangkok",
@@ -259,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The headline reports that GTA 6's Alex Jones radio host rant about MOBY DICK is unhinged and that Rockstar understands American talk radio."
+  },
+  {
+   "id": "chris russo has a hilarious response to gta vi fans choosing gaming over nfl",
+   "title": "Chris Russo Has A Hilarious Response To GTA VI Fans Choosing Gaming Over NFL",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZlFxT1Znd3N5enV3b2ZkTDVtR1VERW5UYU1scHR0YXE1RHN2OVZxNFJhX2lRdEl3YUFiSWNNZW5SZjlKQVZBalVfT2xGWHctY01ZVUc1WEQ3Z00xc1FYekVOOEpxTEY5UUl6Zk1RTW16MVNLOTZHQm1zbnJ2YllNY0h3T2hRUXFsQTZpTnVoTm1RTDlpNW5mOHo2RllhWnF4QXpMaHhSaHkxTV9wVURnLTJkenRmNVU?oc=5",
+   "outlet": "NDTV Sports",
+   "via": "Google News",
+   "published": "2026-11-23T01:59:37+00:00",
+   "seen": "2026-11-23T02:56:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Chris Russo's humorous response to GTA VI fans choosing gaming over the NFL, as covered by NDTV Sports."
   },
   {
    "id": "gta 6 hidden memorial rockstar developer honors late mother who bought him vice city",
