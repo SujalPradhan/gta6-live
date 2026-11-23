@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T22:23:31+00:00",
- "started": "2026-11-23T22:23:24+00:00",
+ "updated": "2026-11-23T22:28:31+00:00",
+ "started": "2026-11-23T22:28:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T22:23:25+00:00"
+   "checked": "2026-11-23T22:28:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 47,
-   "checked": "2026-11-23T22:23:25+00:00"
+   "hits": 52,
+   "checked": "2026-11-23T22:28:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 71,
-   "checked": "2026-11-23T22:23:25+00:00"
+   "checked": "2026-11-23T22:28:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T22:23:25+00:00"
+   "checked": "2026-11-23T22:28:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T22:23:26+00:00"
+   "checked": "2026-11-23T22:28:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T22:23:26+00:00"
+   "checked": "2026-11-23T22:28:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T22:23:26+00:00"
+   "checked": "2026-11-23T22:28:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T22:23:27+00:00"
+   "checked": "2026-11-23T22:28:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T22:23:27+00:00"
+   "checked": "2026-11-23T22:28:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T22:23:27+00:00"
+   "checked": "2026-11-23T22:28:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T22:23:28+00:00"
+   "checked": "2026-11-23T22:28:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T22:23:28+00:00"
+   "checked": "2026-11-23T22:28:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T22:23:28+00:00"
+   "checked": "2026-11-23T22:28:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T22:23:28+00:00"
+   "checked": "2026-11-23T22:28:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "5 embarrassingly stupid ways gta 6 players have gotten themselves killed",
+   "title": "5 Embarrassingly Stupid Ways GTA 6 Players Have Gotten Themselves Killed",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEdCb3lZT1oxYnUzdzNINmRqMVYzQ2xOb2FDU0paZWlOeWtDVjJBX0J3ZkxBQ2VpeW9ldk91bGtFelU3SFctUklPYmF0elJyd3BFMGtId3dUOFFsbkh5MzhZTE9uaFpURDgyUkYydG1hekxfX2Yyei1GemhzU2tRU2M4UkZOcmNvT0FrNnd5VDN5VXg3bE05Wkc3STUyNl9zOHcwRllfWkk?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-23T22:24:46+00:00",
+   "seen": "2026-11-23T22:28:25+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports embarrassing, stupid ways GTA 6 players have gotten themselves killed."
+  },
+  {
+   "id": "there s a hidden portal to gta vice city in gta 6",
+   "title": "There’s a Hidden Portal to ‘GTA: Vice City’ in ‘GTA 6’",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUtOVVlxNUotb0tWbUF4T0pGV3R1OS1ybnhPTzZ2Z2NlNlVfdUNQV1Y1endlQ0tRVHpsWDhKcUxiamlvVk9DdVVOU2NiT2k3TkZxRFNoQ0YyNDRZZkxfQjRsME1qMlU2dHAxTGJTRG5FYkZpbk1wOGNMc1JJbmNtWloxa2MzUUVz?oc=5",
+   "outlet": "Men's Journal",
+   "via": "Google News",
+   "published": "2026-11-23T22:20:13+00:00",
+   "seen": "2026-11-23T22:28:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a hidden portal to GTA: Vice City in GTA 6."
+  },
   {
    "id": "gta vi does what most video games with choice and morality systems don t",
    "title": "GTA VI Does What Most Video Games With Choice And Morality Systems Don't",
@@ -155,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Rockstar Games released a bug fix update for GTA IV."
+  },
+  {
+   "id": "d angelo s unheard gta vi song hits streaming",
+   "title": "D’Angelo’s Unheard ‘GTA VI’ Song Hits Streaming",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkZuNm45RGw5SGpFN04zMDlUcnlfaTluNllrYS0tbmhYRHZLNzVzRlhPUzB6bVBsM2NkX0FlNEM2YWphU3ROSExsWVlsT2MtOWZUZDJFN0c0cHBKT0p5NVlxaHpxQVdnMzZRa3R2bmtHSlRhN21SOWdzRUREZXFvaDFrcG5qajNVX0Q1WWdJWlR6MlZvT3FJUjI4NG9UckFGVVE?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-23T22:05:21+00:00",
+   "seen": "2026-11-23T22:28:25+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports D’Angelo’s unheard GTA VI song being released to streaming."
   },
   {
    "id": "the new playstation 5 crashed after three days of playing gta vi",
