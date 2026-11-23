@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T21:48:17+00:00",
- "started": "2026-11-23T21:48:12+00:00",
+ "updated": "2026-11-23T21:53:30+00:00",
+ "started": "2026-11-23T21:53:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T21:48:12+00:00"
+   "checked": "2026-11-23T21:53:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-23T21:48:13+00:00"
+   "hits": 56,
+   "checked": "2026-11-23T21:53:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-23T21:48:13+00:00"
+   "hits": 73,
+   "checked": "2026-11-23T21:53:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T21:48:13+00:00"
+   "checked": "2026-11-23T21:53:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T21:48:13+00:00"
+   "checked": "2026-11-23T21:53:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T21:48:14+00:00"
+   "checked": "2026-11-23T21:53:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 21,
-   "checked": "2026-11-23T21:48:14+00:00"
+   "hits": 20,
+   "checked": "2026-11-23T21:53:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T21:48:14+00:00"
+   "checked": "2026-11-23T21:53:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T21:48:14+00:00"
+   "checked": "2026-11-23T21:53:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T21:48:14+00:00"
+   "checked": "2026-11-23T21:53:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T21:48:14+00:00"
+   "checked": "2026-11-23T21:53:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T21:48:15+00:00"
+   "checked": "2026-11-23T21:53:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T21:48:15+00:00"
+   "checked": "2026-11-23T21:53:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T21:48:15+00:00"
+   "checked": "2026-11-23T21:53:27+00:00"
   }
  },
  "items": [
@@ -118,6 +118,19 @@
    "ai_summary": "The story reports a walkthrough guide for completing Crosstown Traffic in GTA 6."
   },
   {
+   "id": "the missing piece needed to get the leaked gta 6 xbox build running on pc has reportedly surfaced online",
+   "title": "The missing piece needed to get the leaked GTA 6 Xbox build running on PC has reportedly surfaced online",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcGpyaVQ3b1Byc2NGZ2FLMEZUYmFscXJuT0J5bE9zVkE4aUg3TFA5VWRNejB6QjhwdGtsSE5rcHkwUUlsQ1p0S0JickxoZHhTODJDRXlhVmdTcHVFUVJOYldOWTJfc0lmRkloSXFKcVVobHMtUGEySGpmdG9kYmZPbTZ1MHN0OHBiNWFXU0RrZWdacHZZS0wwWklvTk5CNXBrdWJ4a2dNb0Q5YVZSWWNNeVA4UkQ2MHRLeWZjeXFMVDFjbnBQMV9mSU9ROUljODlYZFdhaDhLRmg3WGN4a2FjY3Y4UnRhYkhp?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-23T21:45:13+00:00",
+   "seen": "2026-11-23T21:53:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The missing piece to get the leaked GTA 6 Xbox build running on PC has reportedly surfaced online."
+  },
+  {
    "id": "gta 6 is something close to a miracle says a writer of the original game",
    "title": "GTA 6 is “something close to a miracle,” says a writer of the original game",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2Flc19aY0JiemE0OFptSEI2NGhNbmNadjRzaWt5SHd5eC0xREtqY3BQaFM4eHpvTUNCZVJJd0NYbW1zNlpYdE41OURvX2NCWFMydm43enM2VUptRG1kWVBlNW9BcDlqeHJqSE51aG5HUW9zSTg4djNUZWZKS1BDNQ?oc=5",
@@ -129,6 +142,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is described as something close to a miracle by a writer of the original game."
+  },
+  {
+   "id": "should christians play gta 6 ruslan warns about nudity violence and wasting time",
+   "title": "Should Christians Play GTA 6? Ruslan Warns About Nudity, Violence and Wasting Time",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXg4c2g4V2FyekhlN1Q1SHVudFZvVDBKWXBVV1JLcUVkX0NOcG81bURhOUVTT1ZGcHVndEVhUWlMU1ktY2pCMHFvQUpiZTBlMy1MY1hfWmloN2dTYTBmR3dJc2ptRkZJQ0ZQd3RLdUdLcnpmbkM2dkdaSlVOSllrT0lGRDNKZUNsczBNbUJFUGRYakt1UjlzSkxUU2lsbXBKd2NwekNYRUh4XzJr?oc=5",
+   "outlet": "ChurchLeaders",
+   "via": "Google News",
+   "published": "2026-11-23T21:43:20+00:00",
+   "seen": "2026-11-23T21:53:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Christians are advised about playing GTA 6 due to nudity, violence, and wasting time."
+  },
+  {
+   "id": "how to play grand theft auto vi in the cloud and with remote play",
+   "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1hHaFNKenloc0xyaG1vVWpJZFR4SlZOcF8taGNRWlk1TUUtTEg3Um5vSkZMQ3BWbTNraFNhWUNIalVmaHVvbFhXWmgxQ1pSOTdHZlN3SDMtMzJmVk5xeURpZ0ZSd3BES244cWhPb3otQmtJUHhqNFZVN3lnUDhwQlJNa1B5M0pacDl1cTAtNNIBlAFBVV95cUxQRnBQa0tCc245S0pfV1JoUl9WS1NWeF9uc2ZyZGhsZi1JazNuN2FYUndVcVpCRFR0a0xpSktQT1ZicEFFenNzOV9aX3ctU1I4ekNhb1o4NkJiVGVEa0F6NGtZY0VGRXZWSjZ1NU5MSUNnZ3dXRnZJVHlMUEQ0Q1RraDktX2RMajVNLXF1WEJzajRzQVJB?oc=5",
+   "outlet": "XBOX Wire",
+   "via": "Google News",
+   "published": "2026-11-23T21:40:27+00:00",
+   "seen": "2026-11-23T21:53:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Guidance on playing Grand Theft Auto VI in the cloud and with remote play is provided."
   },
   {
    "id": "best early game locations for easy cash in gta 6 fast money making explained",
