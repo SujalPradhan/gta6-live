@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T22:18:27+00:00",
- "started": "2026-11-23T22:18:22+00:00",
+ "updated": "2026-11-23T22:23:31+00:00",
+ "started": "2026-11-23T22:23:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T22:18:23+00:00"
+   "checked": "2026-11-23T22:23:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-23T22:18:23+00:00"
+   "hits": 47,
+   "checked": "2026-11-23T22:23:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-23T22:18:24+00:00"
+   "hits": 71,
+   "checked": "2026-11-23T22:23:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T22:18:24+00:00"
+   "checked": "2026-11-23T22:23:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T22:18:24+00:00"
+   "checked": "2026-11-23T22:23:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T22:18:24+00:00"
+   "checked": "2026-11-23T22:23:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 20,
-   "checked": "2026-11-23T22:18:24+00:00"
+   "hits": 19,
+   "checked": "2026-11-23T22:23:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T22:18:24+00:00"
+   "checked": "2026-11-23T22:23:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T22:18:25+00:00"
+   "checked": "2026-11-23T22:23:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T22:18:25+00:00"
+   "checked": "2026-11-23T22:23:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T22:18:25+00:00"
+   "checked": "2026-11-23T22:23:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T22:18:25+00:00"
+   "checked": "2026-11-23T22:23:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T22:18:25+00:00"
+   "checked": "2026-11-23T22:23:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T22:18:25+00:00"
+   "checked": "2026-11-23T22:23:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi does what most video games with choice and morality systems don t",
+   "title": "GTA VI Does What Most Video Games With Choice And Morality Systems Don't",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmcxaFFaU0hxUElGc0dIT1IxbEpFV0s3cy1yT0o2Tjh1cENiS1BiLTFrMUROTWx3OG9CQk1Hb0g4dmtKd1VxazNJb2hJU3lSNE5YdmVTTFc2cnRFNlZEalpHcDdYb2JkTHVVck5XV25qYjVqRnRiNzQ1bzMtRFVYemhDdVdFODF6QUFNaDBLdnRFazFWTENTWGZWbHE?oc=5",
+   "outlet": "Aftermath",
+   "via": "Google News",
+   "published": "2026-11-23T22:18:45+00:00",
+   "seen": "2026-11-23T22:23:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA VI does what most games with choice and morality systems do not."
+  },
+  {
+   "id": "there s an npc in gta 6 who knows he s in a video game here s how to find his house",
+   "title": "There’s an NPC in GTA 6 Who Knows He’s in a Video Game. Here’s How to Find His House.",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmdUZjFOdXpzMFc3Y2J5UzhVRlItNmxMdS1pYml2cG1HLUNwNHdfWGVmYTJweWZjNVNOdDNkT0lnZWg0UmNFOTlHcFdjU1FWNG9sbVFxWEljcm1adDBpR2sxQnF5dWF4RDNFbUxwTWJUcWpyd2JBdVZ0UnFjQ2pOcHlCN3RYYVdTNEZjN0x6R3Q2c0FzSWVjYmJTY2FIVHNHOU1mSXZwdjE0akpkSnUzOTJGaw?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-23T22:17:54+00:00",
+   "seen": "2026-11-23T22:23:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports there is an NPC in GTA 6 who knows he is in a video game and explains how to find his house."
+  },
   {
    "id": "7 cool cars we d rock in grand theft auto vi",
    "title": "7 Cool Cars We’d Rock in Grand Theft Auto VI",
@@ -1286,6 +1312,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6's Lucia actress had a role on Law & Order: Special Victims Unit."
+  },
+  {
+   "id": "d angelo estate issues statement on grand theft auto vi track kamikazi announces vinyl",
+   "title": "D'Angelo Estate Issues Statement on 'Grand Theft Auto VI' Track \"Kamikazi,\" Announces Vinyl",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkFYdUQyZVJnbXhPamZmSWFBZ1psQ0JGbFNXdk9WeFl2RHJ1bEdyejh2UjhfSFJhZWNaTnMtQ2hCMHBVR0JxWXY4Ql92WDk3N2E2RnVCQmJsQWtSbkswb2VIRmFTU0ZrU0E2SWJZOTdpUDlya25oTTlSWmt1eHBldDFyN3F0WXlONDJn?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-23T19:30:02+00:00",
+   "seen": "2026-11-23T22:23:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes the D'Angelo Estate issued a statement on GTA VI's track Kamikazi and announces a vinyl release."
   },
   {
    "id": "gta 6 all unique weapons where to find them",
