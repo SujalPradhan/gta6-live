@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T23:48:57+00:00",
- "started": "2026-11-23T23:48:52+00:00",
+ "updated": "2026-11-23T23:54:07+00:00",
+ "started": "2026-11-23T23:54:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T23:48:52+00:00"
+   "checked": "2026-11-23T23:54:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 48,
-   "checked": "2026-11-23T23:48:52+00:00"
+   "hits": 54,
+   "checked": "2026-11-23T23:54:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-23T23:48:53+00:00"
+   "checked": "2026-11-23T23:54:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T23:48:53+00:00"
+   "checked": "2026-11-23T23:54:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T23:48:53+00:00"
+   "checked": "2026-11-23T23:54:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T23:48:53+00:00"
+   "checked": "2026-11-23T23:54:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T23:48:54+00:00"
+   "checked": "2026-11-23T23:54:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T23:48:54+00:00"
+   "checked": "2026-11-23T23:54:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T23:48:54+00:00"
+   "checked": "2026-11-23T23:54:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T23:48:54+00:00"
+   "checked": "2026-11-23T23:54:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T23:48:54+00:00"
+   "checked": "2026-11-23T23:54:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T23:48:55+00:00"
+   "checked": "2026-11-23T23:54:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T23:48:55+00:00"
+   "checked": "2026-11-23T23:54:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T23:48:55+00:00"
+   "checked": "2026-11-23T23:54:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "call of duty s player count dropped by over 40 following gta 6 s release according to analysts",
+   "title": "Call of Duty's Player Count Dropped by Over 40% Following GTA 6's Release, According to Analysts",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSFpXbkFlR2k1cnlqZm1td1Z0azNvdGJGMzZSbmwzNXlxTzE4Q2FYUE9tOU5kY3RhRG54WEJVdHoyNkNPNVk3UUZwV3pDdVVrUTczZEhuaXVub1VKS0lzM2t2ZkI0QjJHN0pBYTNCUVlIT3F2dUpBMHRZWjRBVVQ1YXE3WmFMTnlaSFgwSHlSZU51dDV5R196UFNwTTBwQkVOSDJTQk9DZGNpS3NZamcxdkZnWThpZ3VjS181NXVMU3Z1YzY3Ti1WeFV6T2t5ejNlRHNmZGtZRXZ0OVFDSVpIamxES3BQRTA?oc=5",
+   "outlet": "IGN India",
+   "via": "Google News",
+   "published": "2026-11-23T23:51:42+00:00",
+   "seen": "2026-11-23T23:54:01+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports analysts say Call of Duty's player count dropped by over 40% following GTA 6's release."
+  },
   {
    "id": "gta 6 celebrates launch with miami music festival and deluxe 57 track album",
    "title": "GTA 6 Celebrates Launch With Miami Music Festival and Deluxe 57-Track Album",
@@ -1988,6 +2001,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Using FSR 4.1.2 in GTA 6 on Xbox Series X may cause frame rates to drop below 30 FPS."
+  },
+  {
+   "id": "jake paul responds after paul vs tyson easter egg discovered in gta 6",
+   "title": "Jake Paul Responds After Paul vs Tyson Easter Egg Discovered in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUF82VzRVZ0tvOVM3SFdHeXNRTVk3X1hza2oxenpPaTAxX0JRSGNmYkJLX0JFc0NHWnNxcWM5UTVnRjVVUndxVlFoWmxLaVE3TGlSM0pFT1FwbWxmRnJudmt5NEZDZF9Xb2ZsSmd3Ulo2dDVkbWp3eUlTV1FjQXFGWg?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-23T19:17:49+00:00",
+   "seen": "2026-11-23T23:54:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Jake Paul responds after a Paul vs Tyson Easter Egg is discovered in GTA 6."
   },
   {
    "id": "gta vi hype more than doubled sony s us ps5 and microsoft s xbox weekly sales circana says",
