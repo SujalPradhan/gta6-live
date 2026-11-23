@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-23T04:37:16+00:00",
- "started": "2026-11-23T04:37:12+00:00",
+ "updated": "2026-11-23T04:42:18+00:00",
+ "started": "2026-11-23T04:42:13+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-23T04:37:12+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-23T04:42:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 37,
-   "checked": "2026-11-23T04:37:13+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-23T04:42:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-23T04:37:13+00:00"
+   "hits": 59,
+   "checked": "2026-11-23T04:42:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T04:37:14+00:00"
+   "checked": "2026-11-23T04:42:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T04:37:14+00:00"
+   "checked": "2026-11-23T04:42:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T04:37:14+00:00"
+   "checked": "2026-11-23T04:42:15+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T04:37:15+00:00"
+   "checked": "2026-11-23T04:42:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T04:37:15+00:00"
+   "checked": "2026-11-23T04:42:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T04:37:15+00:00"
+   "checked": "2026-11-23T04:42:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T04:37:15+00:00"
+   "checked": "2026-11-23T04:42:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T04:37:16+00:00"
+   "checked": "2026-11-23T04:42:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T04:37:16+00:00"
+   "checked": "2026-11-23T04:42:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T04:37:16+00:00"
+   "checked": "2026-11-23T04:42:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T04:37:16+00:00"
+   "checked": "2026-11-23T04:42:16+00:00"
   }
  },
  "items": [
+  {
+   "id": "locals get in on the grand theft auto vi fun",
+   "title": "Locals get in on the Grand Theft Auto VI fun",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNblNLZV8yZG9qR0JuMUpRR09udk9DZmd1TTZJQWRxTko3b1pPQlNGVE1lLW9DYWJXdzV0UnF2cC1Od1ZDVk1qT3hLR05zemE5M0ZSZzU4ZDJMRmdBa3E0WUZ3LTRJZEpad1JXM3MtMEJhVWZnYUk2UTM1MWVBZWVibUp5UGR2ZTR6V0ZwRk5ETjRyblczVnJGLW5ndlRDYnBNaUFaWFFJa25pMUVpancxT3ZaOFJOdGNFOC02VEVnU0lEa3c?oc=5",
+   "outlet": "WHAS11",
+   "via": "Google News",
+   "published": "2026-11-23T04:31:00+00:00",
+   "seen": "2026-11-23T04:42:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Locals participate in Grand Theft Auto VI fun according to WHAS11."
+  },
+  {
+   "id": "game on packers running back and grand theft auto vi aficionado kaleb johnson ready to carry run game against rams",
+   "title": "Game on: Packers running back — and Grand Theft Auto VI aficionado — Kaleb Johnson ready to carry run game against Rams",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQ2ZCMDhmRXRLZm1BVW14ZlNxZVFWMk5SM0pVX0ZiODBTRklSdWJiLUZOUGNiaGo4R3pZSnZSWEFBZmtpQ3FJNlBSblZVY2hQdzYxMzZ0bkN6RVFEYmZqaXlHSTBVbXNjLXNKdTU3aEN2c010UEJpNkdFSTFfMUdYaWh0X1g3ZEpUWmMtb2w0UTBnMDMzVGZtUWlpdmllcDJoTEdRTlpOLUk0cFN6bWdpSm1TVzhKMEU2R1NPV01nckU5LXRCV01odml2MTFiUjRZUTNpY3NWalpLdzBicndmWUZualVxZDhmeTVPbHVCbTRDbG9VZVV1Qko2R2VnUQ?oc=5",
+   "outlet": "Channel 3000",
+   "via": "Google News",
+   "published": "2026-11-23T04:20:00+00:00",
+   "seen": "2026-11-23T04:42:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Packers running back who is a Grand Theft Auto VI aficionado is ready to carry the run game against the Rams, as reported by Channel 3000."
+  },
   {
    "id": "gta 6 lets you rob an atm by ripping the entire machine out of the wall with a tow truck just hook it up drag it away smash it open and coll",
    "title": "GTA 6 lets you rob an ATM by ripping the ENTIRE MACHINE out of the wall with a tow truck. Just hook it up, drag it away, smash it open, and collect your money. Some people are going to spend 200 hours in this game without completing a single mission. Writ",
