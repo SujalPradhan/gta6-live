@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T10:54:17+00:00",
- "started": "2026-11-23T10:54:11+00:00",
+ "updated": "2026-11-23T10:59:18+00:00",
+ "started": "2026-11-23T10:59:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-23T10:54:11+00:00"
+   "checked": "2026-11-23T10:59:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-23T10:54:12+00:00"
+   "hits": 40,
+   "checked": "2026-11-23T10:59:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 79,
-   "checked": "2026-11-23T10:54:12+00:00"
+   "hits": 61,
+   "checked": "2026-11-23T10:59:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T10:54:12+00:00"
+   "checked": "2026-11-23T10:59:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T10:54:12+00:00"
+   "checked": "2026-11-23T10:59:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T10:54:13+00:00"
+   "checked": "2026-11-23T10:59:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 35,
-   "checked": "2026-11-23T10:54:13+00:00"
+   "checked": "2026-11-23T10:59:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T10:54:13+00:00"
+   "checked": "2026-11-23T10:59:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:54:13+00:00"
+   "checked": "2026-11-23T10:59:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T10:54:13+00:00"
+   "checked": "2026-11-23T10:59:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T10:54:13+00:00"
+   "checked": "2026-11-23T10:59:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T10:54:14+00:00"
+   "checked": "2026-11-23T10:59:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:54:14+00:00"
+   "checked": "2026-11-23T10:59:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T10:54:14+00:00"
+   "checked": "2026-11-23T10:59:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "wells fargo reiterates take two stock rating on strong gta 6 sales by investing com",
+   "title": "Wells Fargo reiterates Take-Two stock rating on strong GTA 6 sales By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmY5VjYtTHVrYXhVX1pyZ0Y3bmNlTkVlSGxkVW1kSlE5ZFZXT0V0U1llTDZqU3ppMjViUTZpczZLYlZDMTNaXzQtT0JUOHQtT3gyaVpiWTJDOUlENW1NbEU2d2w5T05SdGpISXFUaDk5MGwyTTJHUFBqbjIya0dMMTNoa3JoeVk1MnpjY3RwQkRkT1prcnJWcmZhSkh2RkVOZmVyTGJOVHVvSHNqUDNhSHh4TXRuS29QTU82eldVOHBMRHJq?oc=5",
+   "outlet": "Investing.com India",
+   "via": "Google News",
+   "published": "2026-11-23T10:56:14+00:00",
+   "seen": "2026-11-23T10:59:13+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Wells Fargo maintains a positive stock rating for Take-Two based on strong GTA 6 sales."
+  },
   {
    "id": "gta 6 down to earth mission guide seaplane drug drops and a parole officer visit",
    "title": "GTA 6 Down to Earth mission guide: seaplane drug drops and a parole officer visit",
@@ -285,6 +298,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that Grand Theft Auto 6's day one sales reached three point seven nine billion and shatters entertainment records."
+  },
+  {
+   "id": "rupa biswas sen delighted as aaj shanibar features in gta 6",
+   "title": "Rupa Biswas Sen delighted as ‘Aaj Shanibar’ features in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkJuX1NNaWNkYkI0RUZZOE02eE12alhNMk1QTUQ1VHpCQjIzeFl1Ni1RLVF4MGxWVk1Bek10UXV0dzVTNjVhT2JRNk44VlJrNnh3NHdRU1JXNWNLNWYtWkI2dllibGZHSktQZU1YOTB3Nno1R2VxdnU3OVpaOVFpWTM4LTJ5Y2tLZ2NYbE9TTTZncHVpa2xOQkMzdDBQZDQ?oc=5",
+   "outlet": "Newsband",
+   "via": "Google News",
+   "published": "2026-11-23T10:22:58+00:00",
+   "seen": "2026-11-23T10:59:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rupa Biswas Sen is delighted that 'Aaj Shanibar' features in GTA 6."
   },
   {
    "id": "shashi tharoor compares gta 5 and gta 6 to india s political changes",
@@ -753,6 +779,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 breaks sales records while the Trump administration co-opts the game and is ridiculed online."
+  },
+  {
+   "id": "parvathy thiruvothu slams misogyny in gaming culture amid backlash against gta 6 s female protagonist",
+   "title": "Parvathy Thiruvothu slams misogyny in gaming culture amid backlash against GTA 6's female protagonist",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN2dURHc4bjlnUDZZVEpKYzZpN0lXdklRTDhQLW9qNkl1cG4ybnFEd2E4X1FsVHA0eFFGWnFodE85VnpzYmpLaC0tRGxfMjUxRVJWeTJMc1lBOS1CNGt1MzR1YlZzVzRkWUVhQWRhMlgwVDlQMm0wVjVkdHpIcEZualBMbjl2RzRodzkyb0xWMkpVRG5BbWE5NlcyYUl1N3k4TGdUT2p3T2JYVmxKZEhHZGZIYlprdWhBb29jSmVGTURvemZnU2ZiMzJqYWVxWHh2bGItalREXzZxeUJ3cFUxakp2c2dsM2ZXNU1mNlF30gH7AUFVX3lxTE1mVVNIQVZSRTJMZ3FNV3lIcjhtSU5mdmtJeXFjNmxrR2tDcjhyQW9YbUZwbXF2Mk1XRjhZMWZMbHV4SXlMcFFob0ZFZ19JRVBiYlBpMUhGZS1fUkNWNzVWbXJ4dFpkcnlYcm5sdlZlUVRPZWp4NWlfRldueUwtdTdxUGNJVnBKTExNWW05UFZYTG5KWkFHWkJfQ2liTWdZejMzcjIxa0o5dHVyZUFObnc4MXVKSmRUV1U3dUhoUHY0bnVIZGlSNEVybC1JeDhTcXM1LVpOOXRLSUd5NU5mcV9xdF9HbGtiX2hiMW9zTTRsRjlzYUNuWDNjZzJJ?oc=5",
+   "outlet": "Cinema Express",
+   "via": "Google News",
+   "published": "2026-11-23T09:16:03+00:00",
+   "seen": "2026-11-23T10:59:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Parvathy Thiruvothu criticizes misogyny in gaming culture amid backlash against GTA 6's female protagonist."
   },
   {
    "id": "gta 6 fake pc version surfaces online contains malware",
@@ -1364,6 +1403,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks what happens if Jason and Lucia stay just friends and mentions an ending you may miss."
+  },
+  {
+   "id": "singer rupa biswas sen reacts as bengali disco track aaj shanibar features in gta 6 extremely happy",
+   "title": "Singer Rupa Biswas Sen Reacts As Bengali Disco Track 'Aaj Shanibar' Features In GTA 6: \"Extremely Happy\"",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjZ1SktwRExqSGNOSW9uTVNMU2xmWE95VlJQZXZXdWIzUlluOGF3YnFPLXV6eXZGQmljQmNCbEVqUnhoV0hBNU54THl5UzBneG91czZyd0NlTUhCUWdCLXpFMzd3eEdnb05CbE1oZjJHQ0cxWWtPVTFGX1VlU0FlZ05lOFRuNU5KWE1URnBLWmFCVURDa2FNV3RLUTgyeXhsWkVCSXNGV2g4cjl1RzdEbnlBTzFCeEpjRmJ0ZUZ4a1BlTFBXT0hTaFZTTnZkNHJuejlz?oc=5",
+   "outlet": "NDTV",
+   "via": "Google News",
+   "published": "2026-11-23T07:19:08+00:00",
+   "seen": "2026-11-23T10:59:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Singer Rupa Biswas Sen expresses happiness over Bengali disco track 'Aaj Shanibar' featured in GTA 6."
   },
   {
    "id": "gta 6 tesla theft clip did musk react 0 confirmed replies",
