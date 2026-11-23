@@ -1,109 +1,122 @@
 {
- "updated": "2026-11-23T04:07:09+00:00",
- "started": "2026-11-23T04:07:05+00:00",
+ "updated": "2026-11-23T04:12:15+00:00",
+ "started": "2026-11-23T04:12:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 99,
-   "checked": "2026-11-23T04:07:06+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-23T04:12:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-23T04:07:06+00:00"
+   "checked": "2026-11-23T04:12:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-23T04:07:06+00:00"
+   "hits": 64,
+   "checked": "2026-11-23T04:12:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T04:07:07+00:00"
+   "checked": "2026-11-23T04:12:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T04:07:07+00:00"
+   "checked": "2026-11-23T04:12:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T04:07:07+00:00"
+   "checked": "2026-11-23T04:12:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T04:07:07+00:00"
+   "checked": "2026-11-23T04:12:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T04:07:08+00:00"
+   "checked": "2026-11-23T04:12:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T04:07:08+00:00"
+   "checked": "2026-11-23T04:12:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T04:07:08+00:00"
+   "checked": "2026-11-23T04:12:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T04:07:08+00:00"
+   "checked": "2026-11-23T04:12:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T04:07:09+00:00"
+   "checked": "2026-11-23T04:12:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T04:07:09+00:00"
+   "checked": "2026-11-23T04:12:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T04:07:09+00:00"
+   "checked": "2026-11-23T04:12:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks entertainment record with 3 79 billion debut",
+   "title": "GTA 6 Breaks Entertainment Record With $3.79 Billion Debut",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzN2VHF5eHluRS1NS3RjLU01VURSdEJaY1g1LXhOaTk2bmlHWTdFcTJ4dGtXc1hpbzNoZ0RMVzh4XzZsY1JJOWh1ekFCbjRMWDE4R1JGNWdYU2kwWTZCallXR2xGamhOcDVNeE0ybUNhU2ZSNTJMU0tTT3hJNElMNkt3OWdvWkpwN0dtRA?oc=5",
+   "outlet": "NewsBricks",
+   "via": "Google News",
+   "published": "2026-11-23T04:09:50+00:00",
+   "seen": "2026-11-23T04:12:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 breaks an entertainment record with a debut of $3.79 billion."
+  },
   {
    "id": "gta vi doesn t have darts because even rockstar doesn t have unlimited money or unlimited time",
    "title": "GTA VI doesn't have darts because even Rockstar doesn't have \"unlimited money or unlimited time\"",
@@ -753,6 +766,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "VICE asks how long Chapter 3 lasts in GTA 6 and provides missables and mission list."
+  },
+  {
+   "id": "gta 6 faces review bombing as zelda fans join rating war",
+   "title": "GTA 6 Faces Review Bombing as Zelda Fans Join Rating War",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OSkVJMFY1Q05oV0lmX0Y4ZUVRaC1wTzdMdkwwRWk2LTVrZjJXYXVJR3c1Y0xpZzhTS1EyVTRSelEzbEs1ZkFMdzRxamlPYWszN2NJWjd6azZYTkdGcFRBeTJ5Y0JIRWpEQXVv?oc=5",
+   "outlet": "www.suaralandak.co.id",
+   "via": "Google News",
+   "published": "2026-11-23T00:35:34+00:00",
+   "seen": "2026-11-23T04:12:10+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 faces review bombing as Zelda fans join a rating war."
   },
   {
    "id": "ishowspeed loses 98 gta 6 progress after 52 hour marathon while attempting to unlock a different ending",
