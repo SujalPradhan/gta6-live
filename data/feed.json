@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T09:33:44+00:00",
- "started": "2026-11-23T09:33:39+00:00",
+ "updated": "2026-11-23T09:38:52+00:00",
+ "started": "2026-11-23T09:38:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T09:33:40+00:00"
+   "checked": "2026-11-23T09:38:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-23T09:33:40+00:00"
+   "hits": 39,
+   "checked": "2026-11-23T09:38:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-23T09:33:40+00:00"
+   "hits": 79,
+   "checked": "2026-11-23T09:38:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T09:33:40+00:00"
+   "checked": "2026-11-23T09:38:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T09:33:40+00:00"
+   "checked": "2026-11-23T09:38:48+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T09:33:41+00:00"
+   "checked": "2026-11-23T09:38:48+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T09:33:41+00:00"
+   "checked": "2026-11-23T09:38:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T09:33:41+00:00"
+   "checked": "2026-11-23T09:38:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T09:33:41+00:00"
+   "checked": "2026-11-23T09:38:48+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T09:33:41+00:00"
+   "checked": "2026-11-23T09:38:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T09:33:42+00:00"
+   "checked": "2026-11-23T09:38:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T09:33:42+00:00"
+   "checked": "2026-11-23T09:38:49+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T09:33:42+00:00"
+   "checked": "2026-11-23T09:38:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T09:33:42+00:00"
+   "checked": "2026-11-23T09:38:49+00:00"
   }
  },
  "items": [
@@ -220,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims GTA 6 is powering a gaming cafe revival in Mumbai."
+  },
+  {
+   "id": "rockstar s next game is l a noire 2 will be the best looking game ever made said the 2023 leaker who got most of gta vi s plot right",
+   "title": "Rockstar’s Next Game Is L.A. Noire 2, Will Be the Best-Looking Game Ever Made, Said the 2023 Leaker Who Got Most of GTA VI’s Plot Right",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORTlObTc2aDFkZXZPRXdscS1RR05aOERTN0thNkpQdVU5NGRDNUNXMzZfRGVRVk1oWkxESG5ZcXV5SVVBeVBSNEhMTEdvSE9CQVNlLTQxemw3T1JwVV9fZ0dZdDVwOGQ4Q3dBUWZ0UTg1TUZWSm5mZWtmb1FRM19tRV9B0gGHAUFVX3lxTE5qRlF5dVRuZTZ6bnFnaGJFZE84V1VxV1Q4dTMzUnNHVGZna2F4SXN5emhNMmdxTWNYajNDcV8yTGhuaEhBT1BMSllETnB4U2ZERXF1cWJfWnY1dHNPeHNTQUxVMGRMUUtmUXVLOUItVG9kNXJZalJyRG85cmhDc0hNUUhZZjFNcw?oc=5",
+   "outlet": "Wccftech",
+   "via": "Google News",
+   "published": "2026-11-23T09:00:00+00:00",
+   "seen": "2026-11-23T09:38:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story claims Rockstar's next game is L.A. Noire 2 and will be the best-looking game ever made, according to a 2023 leaker who reportedly got GTA VI's plot mostly right."
   },
   {
    "id": "the gta 6",
