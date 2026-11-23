@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T11:29:28+00:00",
- "started": "2026-11-23T11:29:21+00:00",
+ "updated": "2026-11-23T11:34:32+00:00",
+ "started": "2026-11-23T11:34:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,193 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-23T11:29:22+00:00"
+   "hits": 99,
+   "checked": "2026-11-23T11:34:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-23T11:29:22+00:00"
+   "hits": 39,
+   "checked": "2026-11-23T11:34:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 61,
-   "checked": "2026-11-23T11:29:22+00:00"
+   "checked": "2026-11-23T11:34:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T11:29:22+00:00"
+   "checked": "2026-11-23T11:34:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T11:29:22+00:00"
+   "checked": "2026-11-23T11:34:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T11:29:23+00:00"
+   "checked": "2026-11-23T11:34:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-23T11:29:23+00:00"
+   "checked": "2026-11-23T11:34:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T11:29:23+00:00"
+   "checked": "2026-11-23T11:34:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T11:29:23+00:00"
+   "checked": "2026-11-23T11:34:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T11:29:23+00:00"
+   "checked": "2026-11-23T11:34:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T11:29:24+00:00"
+   "checked": "2026-11-23T11:34:29+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T11:29:24+00:00"
+   "checked": "2026-11-23T11:34:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T11:29:24+00:00"
+   "checked": "2026-11-23T11:34:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T11:29:24+00:00"
+   "checked": "2026-11-23T11:34:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "update 01 002 002 for gta vi is currenty being rolled out",
+   "title": "Update 01.002.002 for GTA VI is currenty being rolled out",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVDgwRGg5cmhIbDVWcDZmUEg5X2dtakxnRlpZZU5zTnpaR3FJcEtmXy1WWlVmd1FCS29DNW9NQ2RIRF8zdlBaRThEdUhCUUl6cEw2bUlKTllZVU1aQUVBcFhKenFjVDI3dDRCeW1uZ243QjdKeXZnbmxoaUtSVmZ0eUFPNGY3bDB4cXc5SnhxUzdXdGE3UEVhMGRDWnlMTXlsLUMyRmhJOWtIX00?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-23T11:33:16+00:00",
+   "seen": "2026-11-23T11:34:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The update 01.002.002 for GTA VI is currently being rolled out."
+  },
+  {
+   "id": "gta 6 reportedly runs above 60 fps on xbox series x through quick resume glitch",
+   "title": "GTA 6 Reportedly Runs Above 60 FPS on Xbox Series X Through Quick Resume Glitch",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZkt6MUZQUWZkajJtZzVXYU1oeFRZbmJTZVQyYktYbVdWM2wzYTl5dFgwdDRwMnZYX0hWbFJkM1R6X19rNjYyRUxwTW16ZWYzUUVPNDgtY1BtRkdORFdKSFhjdkVKVkIzWVl3QTBuVTd6WW96c2lSTmY2S25DWlVaVVd0WWR5Z1ZpOWs4VnNtX1hnSWlOd0ZTLVZQb0J0X1FyNFlrXzhHVjdtVXBxV0Q3S095VnJPQnE4Y0hvMVhmQ1kzVEE?oc=5",
+   "outlet": "IGN India",
+   "via": "Google News",
+   "published": "2026-11-23T11:31:34+00:00",
+   "seen": "2026-11-23T11:34:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 reportedly runs above 60 FPS on Xbox Series X via a Quick Resume glitch."
+  },
+  {
+   "id": "new music monday playing the numbers game with gta vi 9th wonder and more",
+   "title": "New Music Monday: Playing the numbers game with GTA VI, 9th Wonder and more",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS0tJSmVQdlNoSEx5N010aXhWRXYxSl8tU1UtUjJnbURacW5NV0JrUDlMVDFheVJWU01xNFpubElEQUpJLVJvT0ZCZU1kU0ltVWdWd2xQdGRoRGR3YVhpN2NhZUYzb241S1VwUXlQS3NCcUJveE93RzZySlE1VENQanZYMUx5UQ?oc=5",
+   "outlet": "Radio Milwaukee",
+   "via": "Google News",
+   "published": "2026-11-23T11:31:33+00:00",
+   "seen": "2026-11-23T11:34:26+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "New Music Monday discusses numbers, GTA VI, 9th Wonder and more."
+  },
+  {
+   "id": "gta 6 find and break into freddie gibbs doomsday compound in grand theft auto 6",
+   "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWlJODRZU01oRDlXR1A5YmlaRDhTRExVYnAtRXNkcEhtaEViMi1rYjNrZGp5SjNJRkNGQWJYSExTS0xJMDVJaDhla25DZzZWS0lkSDRxSG5fTEVNYVN6aGNZUzc1X3FrbjJuQUcyTE1Xcm5CRk40WnZFd2dBbDZJVzdJWTF0cDhBRlJOTGJueFJKNmZYaUktYW1MVWdhSTNOUTJzYUpCb3M?oc=5",
+   "outlet": "Video Games Chronicle",
+   "via": "Google News",
+   "published": "2026-11-23T11:31:32+00:00",
+   "seen": "2026-11-23T11:34:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 features find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6."
+  },
+  {
+   "id": "gta 6 save for the future guide every buckme savings tier limit and perk",
+   "title": "GTA 6 Save for the Future guide: every BuckMe savings tier, limit and perk",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3pPWWx0TWY1OThjeG1Vd3RRdkFvVGFMdTN2NUZCN0l4X1B0MEtfeVlXc3BZbHcxLUxIMnBsTHJHMHdleW9sWFBrV1M0R1FOWXFsYzlkWFNHNnRscE5aX0tXbDlVNnBHZHdYb1AxZ1dWZnlZeTRuT3QwdEZVMDYxQ2JsR1ktNE5obWFvNndTTk1Za3BQS2hr?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T11:30:19+00:00",
+   "seen": "2026-11-23T11:34:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 Save for the Future guide covers every BuckMe savings tier, limit and perk."
+  },
+  {
+   "id": "gta 6 players panic following warning over missable trophy in chapter 1",
+   "title": "GTA 6 players panic following warning over ‘missable’ trophy in Chapter 1",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNENQcHBIMHFrdi14TE11UE1LWGdXelF4cWVOR1YtZkEzQkhhdlVPWWNlU3pZRU1aazJqaTBfSnV5YlNoeW5ZdVJtbVhqbW9oMlRHNWVLZDVMS0p5WnJCRTVsTkF4SkRTbUZsc3RIVElCekNOdTl3WDdpamZSbVJjSmhjRWNZMFJPbUlHSHRZdlg2ZnRyNDlOUWdPM1R0WVN6dW12TA?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-23T11:30:00+00:00",
+   "seen": "2026-11-23T11:34:26+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players panic after a warning about a missable trophy in Chapter 1."
+  },
+  {
+   "id": "grand theft auto vi turns weather into blockbuster game appeal",
+   "title": "Grand Theft Auto VI Turns Weather Into Blockbuster Game Appeal",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWZDU3JCelVoUVQwcTVmRVJvZWs5YnlBVk42T21CbnV3Smk1c0I4dml0cnVMa0FoeHIwaTA2NVU1N2RNUENpTmpUVExSN3pTSk8zZF9JSy1IczlXbkVmMUpicVJ3VHBIZnB2T05DbUJnUVhHcVk5ZDhwd29kTW1NYS1nUGZyZHNxQ2YxaERxamlZV3loNXA0cTBCZV8xRTc1U2FVdHh5aVIxRE1WWVlrUw?oc=5",
+   "outlet": "Bloomberg.com",
+   "via": "Google News",
+   "published": "2026-11-23T11:28:50+00:00",
+   "seen": "2026-11-23T11:34:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI turns weather into a blockbuster game appeal."
+  },
   {
    "id": "raymond james reiterates take two stock strong buy on gta vi sales",
    "title": "Raymond James reiterates Take-Two stock Strong Buy on GTA VI sales",
@@ -285,6 +376,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a GTA 6 actor urged developers to stop anti-trans violence in the game."
+  },
+  {
+   "id": "gta 6 kit car casanova island",
+   "title": "GTA 6 Kit Car - Casanova Island",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pUEZMb0dsMTR6MUJscGtMY2VHWFE2b1AwNGx2NUF6LXEtQ0dGV2E5NkttMk1qMUdmNEtWMVhQNl83Y0plbG5QNTd1SWpkSFFTYk9KYVgxeHllSUU5UE9nVXVDQXAyNVo4b0QyclUxR3hDOFhGSEE?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T11:08:56+00:00",
+   "seen": "2026-11-23T11:34:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 Kit Car - Casanova Island."
   },
   {
    "id": "gta 6 review bomb somehow sees zelda ocarina of time catch strays",
