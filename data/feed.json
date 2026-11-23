@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:52:10+00:00",
- "started": "2026-11-23T18:52:04+00:00",
+ "updated": "2026-11-23T18:57:11+00:00",
+ "started": "2026-11-23T18:57:05+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T18:52:04+00:00"
+   "checked": "2026-11-23T18:57:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-23T18:52:05+00:00"
+   "hits": 50,
+   "checked": "2026-11-23T18:57:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 74,
-   "checked": "2026-11-23T18:52:05+00:00"
+   "checked": "2026-11-23T18:57:06+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T18:52:05+00:00"
+   "checked": "2026-11-23T18:57:06+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T18:52:06+00:00"
+   "checked": "2026-11-23T18:57:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T18:52:06+00:00"
+   "checked": "2026-11-23T18:57:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:52:06+00:00"
+   "checked": "2026-11-23T18:57:07+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:52:06+00:00"
+   "checked": "2026-11-23T18:57:07+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T18:52:06+00:00"
+   "checked": "2026-11-23T18:57:07+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T18:52:06+00:00"
+   "checked": "2026-11-23T18:57:08+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T18:52:07+00:00"
+   "checked": "2026-11-23T18:57:08+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T18:52:07+00:00"
+   "checked": "2026-11-23T18:57:08+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 2,
-   "checked": "2026-11-23T18:52:07+00:00"
+   "hits": 3,
+   "checked": "2026-11-23T18:57:08+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T18:52:07+00:00"
+   "checked": "2026-11-23T18:57:08+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi s pretentious puzzler makes indie developers feel part of larger culture",
+   "title": "GTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaEpEQW9hZV9BT1FiN25HVklGWi1pZFlycFYzb0IxbzhtOXJPdms4T3hVXzJ6c3FDOWZITmZFMnVwYmRmYkFKVWNROHVYYVZDUjA5U0RJYk9pTVF3M1BjQmFFZHlsTjZicWtQYThJUWpvRlZUcktYZ1dfTGtObjc0TA?oc=5",
+   "outlet": "The Verge",
+   "via": "Google News",
+   "published": "2026-11-23T18:55:06+00:00",
+   "seen": "2026-11-23T18:57:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA VI’s puzzler being seen as part of a larger culture by indie developers."
+  },
   {
    "id": "gta 6 first person gameplay with the dlss 5 filter enabled has been released online",
    "title": "GTA 6 first-person gameplay with the DLSS 5 filter enabled has been released online.",
@@ -209,6 +222,19 @@
    "ai_summary": "The story discusses what in GTA 6 PC rumors is real and what is hype."
   },
   {
+   "id": "gta vi hacker sentenced to 7 years for major cyberattacks",
+   "title": "GTA VI Hacker Sentenced To 7 Years For Major Cyberattacks",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0hlRk9hb1dnUDdfN0NZbWNlbVdoSkRQd2NLVEZZVjV0NEMtdFJpclhsVGEwQzNhSndrYUpOSlFBUmVYSUFnU2ZZRmZoSFhHLWVHS2tmdmhuLTBibDdCZGRxYTMyNjZxdnFJZndkUkg1X3BpZzJoZDhKRW5Nc2Y5a19OU29mREFUOEV6SUVpQlVkYUQwV0RzTHR3dUQ3b03SAVZBVV95cUxQTE94aHNwUGpObVJwX0x1UFcwZElsQXVuQTFPaFlybENBdDB1Sy1fTjJzLUhPS012TGM2NU04VjE1ckNiazUtSmpiY29oU0JuVm5VMTZ1QQ?oc=5",
+   "outlet": "Law360",
+   "via": "Google News",
+   "published": "2026-11-23T18:37:14+00:00",
+   "seen": "2026-11-23T18:57:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a GTA VI hacker was sentenced to seven years for major cyberattacks."
+  },
+  {
    "id": "previously unreleased d angelo song kamikazi premieres exclusively in gta vi",
    "title": "Previously Unreleased D’Angelo Song “Kamikazi” Premieres Exclusively In GTA VI",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZFpIRUk5YmVObjFXWHVqbU05NnVPaG5RYmpkM2VKOGhjd1RILTcwOUpRTlBOLU83dEs3LXNMR1JvN3FNUnNWY1FBOWhlX3pQRUI3XzhES2xYdlB5SmppdVJkbW9vUTI5UHVOX3FuLWhqZDFpaUUtc09DMlM4UUZqZWthZHFRaHN2cVFieXJjcmI2UUlGLWFXcUxfdkVRMjZWR0czbGhJVjI0cVZldzVWcjVSNjRad1HSAbwBQVVfeXFMTzlMQ0hFMnI2c1k1RjVBaXlzWVBWNkNJcWxFVGpiZ000R2FNdEd6Y2NEVnVld3oyRjhTTURWWVhkMnZ5WHU3Z2F6YzRoSlB5N1VVb3lkODlKUUdwd0lwVFkwc29UR190LS1mQzZyR0l5bzllY3dKZXZLNnBralVxTTdKczFZcThmUmppS2Uycmt0b0UxZlBNekp2Ujdrbk85aEVPY3pka0VNX2tlZGViX3dZbWVjbFRLbWt3Z2c?oc=5",
@@ -272,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes you can buy AirPods knockoffs in GTA 6 and listen to the radio on foot."
+  },
+  {
+   "id": "gta 6 has made more than 4x that of gta 5 s day one revenue",
+   "title": "GTA 6 has made more than 4x that of GTA 5's day one revenue",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEZDdlF2MTlPZVNaLUpKQnBhMFIzV0xFNE5uRmZiX1NOOGpmOWhldHhaMWJ4T2s5b1B5SWtNNzcyeUxVb1VXSkQ0QWlUVlNqOUJCX2ViRlpKX0Z1SXgxMHVReU9sVzdibDZSd01tblFHeS1NaUxENDBNRTRCM0NvcEY4eFlwUjhJNEJCWTAzSUdZVXZhTEpWMExnT2RzTG5iMmRDcFd3SQ?oc=5",
+   "outlet": "Android Headlines",
+   "via": "Google News",
+   "published": "2026-11-23T18:32:43+00:00",
+   "seen": "2026-11-23T18:57:06+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 has earned more than four times GTA 5's day one revenue."
   },
   {
    "id": "first gta 6 update fixes weather game crashes wanted level glitches and more",
