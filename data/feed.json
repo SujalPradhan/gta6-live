@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:47:09+00:00",
- "started": "2026-11-23T18:47:02+00:00",
+ "updated": "2026-11-23T18:52:10+00:00",
+ "started": "2026-11-23T18:52:04+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-23T18:47:03+00:00"
+   "hits": 100,
+   "checked": "2026-11-23T18:52:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-23T18:47:03+00:00"
+   "hits": 57,
+   "checked": "2026-11-23T18:52:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-23T18:47:04+00:00"
+   "hits": 74,
+   "checked": "2026-11-23T18:52:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-23T18:47:04+00:00"
+   "hits": 5,
+   "checked": "2026-11-23T18:52:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T18:47:04+00:00"
+   "checked": "2026-11-23T18:52:06+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T18:47:04+00:00"
+   "checked": "2026-11-23T18:52:06+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:47:05+00:00"
+   "checked": "2026-11-23T18:52:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:47:05+00:00"
+   "checked": "2026-11-23T18:52:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T18:47:05+00:00"
+   "checked": "2026-11-23T18:52:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T18:47:05+00:00"
+   "checked": "2026-11-23T18:52:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T18:47:06+00:00"
+   "checked": "2026-11-23T18:52:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T18:47:06+00:00"
+   "checked": "2026-11-23T18:52:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T18:47:06+00:00"
+   "checked": "2026-11-23T18:52:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T18:47:06+00:00"
+   "checked": "2026-11-23T18:52:07+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 first person gameplay with the dlss 5 filter enabled has been released online",
+   "title": "GTA 6 first-person gameplay with the DLSS 5 filter enabled has been released online.",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcU5tMmxSNFNXemtwR2VuMGJEZGFaX2RmN2NKX3B1a01JYXJMUTRwaVo0RVRtYzNPcndiODZaNUR0SDkwME4tRndDaktXVm5IejdscnNVZWpXcUJHVjR2VFcwNXQ3dDFmVDBIR3JnU2xZd3lqeUN1NmNORUU0ejZmWGFOWEp4MnJ4OGhFc3M1SWdocFhIQTBWZmhXcGxOckhWXzM4RklkOXNmX24zZ3Rn?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-23T18:47:45+00:00",
+   "seen": "2026-11-23T18:52:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 first-person gameplay with the DLSS 5 filter enabled has been released online."
+  },
   {
    "id": "don t waste those talents gta vi hacker released on licence",
    "title": "'Don't waste those talents': GTA VI hacker released on licence",
@@ -233,6 +246,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "The story states a post-launch patch fixes GTA 6's biggest issues."
+  },
+  {
+   "id": "gta 6 vice city pre order dlc now available for all but there s a catch",
+   "title": "GTA 6 Vice City pre-order DLC now available for all, but there’s a catch",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUkRxVEhEU2Y3LTBjeEhqbEZpa2wxYUljM2J3bTVUbnoxVUVBb1FnSkJpZS1HcW10dExpdjUwTlBEZVVBd0tmYXh5T3gxb3pUcmdrV0VRT3FzWE0wN0RHRmtTTHNUbzJUazUydEpIb1h0cWhUVnNweW4tYTAxQTZYeQ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T18:34:15+00:00",
+   "seen": "2026-11-23T18:52:04+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 Vice City pre-order DLC is now available for all, with a caveat mentioned."
   },
   {
    "id": "you can buy airpods knockoffs in gta 6 and listen to the radio on foot",
@@ -2105,6 +2131,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Take-Two stock was targeted by Wedbush after the GTA VI debut valued at several billions."
+  },
+  {
+   "id": "grand theft auto vi generates 3 79 billion the biggest entertainment launch ever",
+   "title": "‘Grand Theft Auto VI’ generates $3.79 billion, the biggest entertainment launch ever",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNEVSTDU4OHF0clFiZVVEbEJRekQ4djNoU2NWMkRway1NUGl6dS1OQUFmeTc3YUhCbXhPb29YbUF0UFZaSGIwei0tUGdmb1hfbDh3djlZV0NLZWY3amhTNkltN2FqXzlVRjhIR0pUUzhXSXBGelZGRHBMWEctbGZoMVZEbDl4d3daZ1dtUTBqZEVHME5palhxNGdtYTNFNmJ6MTBlYXdUeUVlMVEwbDBtXzY1eGdJaE1TNnUyV2dQc3NPcTV5?oc=5",
+   "outlet": "Los Angeles Times",
+   "via": "Google News",
+   "published": "2026-11-23T15:44:00+00:00",
+   "seen": "2026-11-23T18:52:04+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI has generated $3.79 billion and is described as the biggest entertainment launch ever."
   },
   {
    "id": "gta 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again",
