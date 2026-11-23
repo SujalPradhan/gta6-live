@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T12:34:50+00:00",
- "started": "2026-11-23T12:34:43+00:00",
+ "updated": "2026-11-23T12:39:53+00:00",
+ "started": "2026-11-23T12:39:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T12:34:43+00:00"
+   "checked": "2026-11-23T12:39:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 38,
-   "checked": "2026-11-23T12:34:43+00:00"
+   "checked": "2026-11-23T12:39:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 63,
-   "checked": "2026-11-23T12:34:44+00:00"
+   "checked": "2026-11-23T12:39:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T12:34:44+00:00"
+   "checked": "2026-11-23T12:39:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T12:34:44+00:00"
+   "checked": "2026-11-23T12:39:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T12:34:44+00:00"
+   "checked": "2026-11-23T12:39:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-23T12:34:45+00:00"
+   "checked": "2026-11-23T12:39:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T12:34:45+00:00"
+   "checked": "2026-11-23T12:39:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-23T12:34:45+00:00"
+   "hits": 5,
+   "checked": "2026-11-23T12:39:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T12:34:45+00:00"
+   "checked": "2026-11-23T12:39:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T12:34:46+00:00"
+   "checked": "2026-11-23T12:39:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T12:34:46+00:00"
+   "checked": "2026-11-23T12:39:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T12:34:46+00:00"
+   "checked": "2026-11-23T12:39:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T12:34:46+00:00"
+   "checked": "2026-11-23T12:39:50+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 has already sold 45 million copies says research firm",
+   "title": "GTA 6 Has Already Sold 45 Million Copies, Says Research Firm",
+   "link": "https://insider-gaming.com/gta-6-45-million-copies/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-23T12:37:07+00:00",
+   "seen": "2026-11-23T12:39:49+00:00",
+   "summary": "A research firm claims GTA 6 has already sold nearly 45 million copies in its launch weekend, amounting to over $4 billion in revenue. The post GTA 6 Has Already Sold 45 Million Copies, Says Research Firm appeared first on Insider Gaming .",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A research firm claims GTA 6 has sold nearly 45 million copies in its launch weekend, totaling over $4 billion in revenue."
+  },
   {
    "id": "us education dept uses gta 6 to challenge trans girls in sports",
    "title": "US Education Dept. Uses GTA 6 to Challenge Trans Girls in Sports",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The Education Department uses GTA 6 to challenge trans girls in sports, according to PinkNews."
+  },
+  {
+   "id": "us education department uses gta 6 and google gemini to argue against trans kids in sports",
+   "title": "US Education Department uses GTA 6 and Google Gemini to argue against trans kids in sports",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IM3EzdFh2TDAzLVNIR2R6SDhfa0M0NU1GQkF1QmJOcGFtNF9WcmtZY3RwU29KSkNqcVlmY0FHRUwtNXFENzdTYk9fQ0pYTnFfaFdONGlsanNQaEdmb0VUdUNtQ3dkaG9QWVJCdlJvT2tpZGM?oc=5",
+   "outlet": "PinkNews",
+   "via": "Google News",
+   "published": "2026-11-23T12:31:51+00:00",
+   "seen": "2026-11-23T12:39:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The US Education Department uses GTA 6 and Google Gemini to argue against trans kids in sports."
   },
   {
    "id": "first gta 6 ps5 patch live now get all the details here",
@@ -532,6 +558,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a GTA 6 update version rolling out, sized at 603 MB."
+  },
+  {
+   "id": "first gta vi patch release time revealed download size confirmed",
+   "title": "First GTA VI Patch Release Time Revealed, Download Size Confirmed",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHhuQkR0ZUcxd3RWSFhQdlBiek5QOGlWMkR6ZDdYbFE5WW0yai1XRldRZl9JQ00wdUkwVDZVNnFSZWNHd2d2NnhYUkt1ZFJoUDJhWEs3WFdURm5vT3dpWjlSWmRmY1JJUWlHaG1vQURrSVMzVEU4MnJrTTFRNWNrYlZYWnZYek5vZ2wwb1RtbGE3ekxaLXc?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-23T11:53:46+00:00",
+   "seen": "2026-11-23T12:39:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The first GTA VI patch release time has been revealed, and the download size is confirmed."
   },
   {
    "id": "grand theft auto vi review scarface meets the sims in a giant leap forward for gaming",
@@ -1013,6 +1052,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story provides a list of GTA 6 Chapter 3 missions in order, including the point of no return."
+  },
+  {
+   "id": "gta 6 100 percent guide",
+   "title": "GTA 6 100 Percent Guide",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oVGhUX0dFN0ZXLV9Hc2YyV2VRcUFfQy16cDduT2lUNGVOWnZZWXBGcVJ0UXB2ejJrYVFOUDhkV0JFTElZTVR2aE5jRkdiOThmQnBJOENPS2paMWVmSGJ6S29lY3g4QQ?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-23T11:23:10+00:00",
+   "seen": "2026-11-23T12:39:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A guide titled GTA 6 100 Percent Guide is presented."
   },
   {
    "id": "as gta 6 gets review bombed on metacritic gta fans have started review bombing ocarina of time in response",
