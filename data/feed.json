@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T12:19:44+00:00",
- "started": "2026-11-23T12:19:38+00:00",
+ "updated": "2026-11-23T12:24:49+00:00",
+ "started": "2026-11-23T12:24:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T12:19:38+00:00"
+   "checked": "2026-11-23T12:24:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-23T12:19:38+00:00"
+   "hits": 39,
+   "checked": "2026-11-23T12:24:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-23T12:19:39+00:00"
+   "hits": 64,
+   "checked": "2026-11-23T12:24:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T12:19:39+00:00"
+   "checked": "2026-11-23T12:24:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T12:19:39+00:00"
+   "checked": "2026-11-23T12:24:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T12:19:40+00:00"
+   "checked": "2026-11-23T12:24:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-23T12:19:40+00:00"
+   "checked": "2026-11-23T12:24:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T12:19:41+00:00"
+   "checked": "2026-11-23T12:24:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T12:19:41+00:00"
+   "checked": "2026-11-23T12:24:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T12:19:41+00:00"
+   "checked": "2026-11-23T12:24:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T12:19:41+00:00"
+   "checked": "2026-11-23T12:24:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T12:19:41+00:00"
+   "checked": "2026-11-23T12:24:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T12:19:42+00:00"
+   "checked": "2026-11-23T12:24:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T12:19:42+00:00"
+   "checked": "2026-11-23T12:24:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "wedbush raises take two stock price target on gta vi sales record",
+   "title": "Wedbush raises Take-Two stock price target on GTA VI sales record",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQk5CVWo2XzFHZThEWlFHdFZHTHMtYWNzUEdCNW1pNHY3b2tYRWZtVVd2bjdtWTFHYjdBU1BKb0VtUDdHUlhlTmxiZTdYVzl0VEFIYVIxVG94R3pOTXRnNzdhQ0g4Z3RIclNaTTJNUlZNZ0w2bl95OGVRVlhHaDFKNnNmZW1jVElXZEpSWURRRm1oTUduTXAxVHZFaHNiUnBJQVRubm9wbnctd0pra1dkRmxwZkZlRVdpWFcyTUZUeTlMUQ?oc=5",
+   "outlet": "Investing.com",
+   "via": "Google News",
+   "published": "2026-11-23T12:23:52+00:00",
+   "seen": "2026-11-23T12:24:42+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Wedbush raises Take-Two stock target based on GTA VI sales record."
+  },
+  {
+   "id": "gta 6 recover jason s stash from key lento in grand theft auto 6",
+   "title": "GTA 6: Recover Jason’s stash from Key Lento in Grand Theft Auto 6",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-recover-jasons-stash-grand-theft-auto/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-23T12:23:24+00:00",
+   "seen": "2026-11-23T12:24:43+00:00",
+   "summary": "How to recover Jason's Key Lento Rainy-Day Fund stash in Grand Theft Auto 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to recover Jason's Key Lento stash in Grand Theft Auto 6."
+  },
+  {
+   "id": "what grand theft auto vi can teach us about virtual romance",
+   "title": "What Grand Theft Auto VI can teach us about virtual romance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTdrWTdvWFdQbTNXT2d5OFJlalRMckRkN2htV3EySFFLeElKYldKT3R2d1VuQzRaN0JrNktETWtfOC1NTXB3aUczc09qUFNGb2tndHJJSkpUcG9KaFZRbDN4WUdGOGFYb21jS3ZLMnM0eXVzMEVUS3FhbldUZmtTRjBjMlVJcHdDek9rRjkwRzRBbDJSaVFaTk1R?oc=5",
+   "outlet": "The Conversation",
+   "via": "Google News",
+   "published": "2026-11-23T12:18:36+00:00",
+   "seen": "2026-11-23T12:24:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses what Grand Theft Auto VI can teach us about virtual romance."
+  },
+  {
+   "id": "grand theft auto vi backlash engulfs greek leader mitsotakis",
+   "title": "Grand Theft Auto VI backlash engulfs Greek leader Mitsotakis",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTNWU196SVZadzhSSFRsVEpkQnd2bDk4Yzh4QlJUbThCM05NVDJZWm9LLS1HN3pOdnNiMUNsbk1CaVFON1ptSTV3VjZhQkwwOHJwRFdkMHFSSGhLaE93U05nV1VWelZyNWt0cXR5YVJQb2JpeUtBb0VlZGo1OENKREhvMEZRRnE3VDFJUHNUaUlDdw?oc=5",
+   "outlet": "POLITICO.eu",
+   "via": "Google News",
+   "published": "2026-11-23T12:18:00+00:00",
+   "seen": "2026-11-23T12:24:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A backlash against Grand Theft Auto VI affects Greek leader Mitsotakis."
+  },
   {
    "id": "someone has already managed to unlock gta 6 s platinum trophy",
    "title": "Someone Has Already Managed To Unlock GTA 6's Platinum Trophy",
@@ -168,6 +220,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports GameStop CEO Ryan Cohen criticizing GTA 6 skipping physical discs and arguing players should be able to sell, trade, or lend games."
+  },
+  {
+   "id": "gta 6 user score falls to 5 6 on metacritic amid player backlash",
+   "title": "GTA 6 user score falls to 5.6 on Metacritic amid player backlash",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2Izb2c1MEhqc3pRSjZ4akxOTnRkQ2xkZU9uaXdDT3FaT2xmN0tlaGxtRlRBXzl2N0VkWmpWOW5rR20tRko2dXJwZEdTZDE1N1RaeHpPZ1cxTDJBdXY3eXN2ZDhBdkw0dWI4a1I3UHhnRm9VMG8xbkxuTTZuTTVpV05FbWxPaEtieUI1TFViUmNjd0E2S1dXRXVhYW9WOEFYdEE?oc=5",
+   "outlet": "The Express Tribune",
+   "via": "Google News",
+   "published": "2026-11-23T12:09:57+00:00",
+   "seen": "2026-11-23T12:24:43+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 user score drops to 5.6 on Metacritic amid player backlash."
   },
   {
    "id": "gta 6 ps5 players suffering game crashes with some consoles even dying on players",
@@ -285,6 +350,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA 6 is already the most preordered game on PlayStation and Xbox, ahead of launch."
+  },
+  {
+   "id": "gta vi rakes in billions of dollars on pre orders first day sales",
+   "title": "'GTA VI' rakes in billions of dollars on pre-orders, first day sales",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaElvQ2FPV1hDbjh6QVpPb2R5OWlrUWEwVFJ1bE5BNzRXUXREZ2o1blE1YVk5WFNUZGw4em1YbTlVNi03S2tqM0ZjakdNTW4xMXlodXZ4amN1Qmx6cDF3WEpLODhIQ21MVmQ2Q1g3Q0FzU2NieFlBRzd3V2NmMDBhSHA2TW5NX1VnNENpVnB2aXlQZno3cXRSbFI4dnlZN2hJTWpobHRtaWhCNl9XX0tqYXMwTkJLZjJmdFc5TmpZeUhsM0pJelI5VzFyQU93RG8tcUNjdS1zV0paakNRMVFfOWNNd29NRVhfZWtFaGFR?oc=5",
+   "outlet": "WTHR",
+   "via": "Google News",
+   "published": "2026-11-23T12:00:00+00:00",
+   "seen": "2026-11-23T12:24:42+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI earns billions from pre-orders and first day sales."
   },
   {
    "id": "gta 6 shows up on steam with a blank listing but nothing about the free to play game looks legit",
@@ -454,6 +532,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports a viral claim that GTA 6 profiles players for insurers and employers, but proof is missing."
+  },
+  {
+   "id": "the 15 biggest things that happened before gta vi",
+   "title": "The 15 Biggest Things That Happened Before GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMmdGekp0a0JlbnhZQXZiV2F3UWdNN1lwaUJVVU5hdTNTcU1mZE5kQmR3VzFjR0FlOEpSbE9wNXNldmVmelFzZmR4bHBZT2VHc25yUkI2X19id3VVU3lzNmJnOEFJbXd3NW9odzNHQ1pYQXdOUnFjaXFqZjhqV1BKZ1QzUTJhRTBBbThpejVEYy1KSDd0?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-23T11:45:00+00:00",
+   "seen": "2026-11-23T12:24:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "A list of the 15 biggest things that happened before GTA VI."
   },
   {
    "id": "wow forever breaks records while pc players wait for gta 6",
