@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T22:28:31+00:00",
- "started": "2026-11-23T22:28:25+00:00",
+ "updated": "2026-11-23T22:33:33+00:00",
+ "started": "2026-11-23T22:33:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T22:28:25+00:00"
+   "checked": "2026-11-23T22:33:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-23T22:28:26+00:00"
+   "hits": 46,
+   "checked": "2026-11-23T22:33:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-23T22:28:26+00:00"
+   "hits": 70,
+   "checked": "2026-11-23T22:33:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T22:28:26+00:00"
+   "checked": "2026-11-23T22:33:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T22:28:27+00:00"
+   "checked": "2026-11-23T22:33:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T22:28:27+00:00"
+   "checked": "2026-11-23T22:33:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T22:28:27+00:00"
+   "checked": "2026-11-23T22:33:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T22:28:27+00:00"
+   "checked": "2026-11-23T22:33:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T22:28:28+00:00"
+   "checked": "2026-11-23T22:33:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T22:28:28+00:00"
+   "checked": "2026-11-23T22:33:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T22:28:28+00:00"
+   "checked": "2026-11-23T22:33:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T22:28:29+00:00"
+   "checked": "2026-11-23T22:33:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T22:28:29+00:00"
+   "checked": "2026-11-23T22:33:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T22:28:29+00:00"
+   "checked": "2026-11-23T22:33:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "do gta 6 and red dead redemption take place in the same universe the fan theory explained",
+   "title": "Do GTA 6 and Red Dead Redemption Take Place in the Same Universe? The Fan Theory Explained.",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVmlmeU91MjBwcHdjcUVMVEVFUlJJbzcyTUJDbjhhcjJSc19weTJJNHBVZjItblBrRUw1eDh6VzM2YjJZaEFyNC1YZTFIN3FVaDhuWG1UVkxzSXRDT1U5WkhmVlJ6TlRTMDlEcDBpcWU4SVp5aTd5Q3RMS1FtVW5oS3hVZkhFal83TjdheVVGakFSMVNWMEJaSjBkdzdKYW02WTRPY29vNkRtYU1URVQ1VmxXUnhjdzFTUjhFc0pKSQ?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-23T22:29:44+00:00",
+   "seen": "2026-11-23T22:33:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains a fan theory about whether GTA 6 and Red Dead Redemption share the same universe."
+  },
+  {
+   "id": "rockstar games unveils deluxe edition of grand theft auto vi the album featuring 23 new songs from travis",
+   "title": "Rockstar Games Unveils Deluxe Edition Of Grand Theft Auto VI: The Album Featuring 23 New Songs From Travis ...",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVkd2Z1dBdlN6YWhSV3FfR1ZPellhOHVmZ1lwakh4SDloUTc0ZHFnaXRvcGtUOVRRWlluYjBCSU9DMjk2S1U5aF8tRnVTeFlVU3ctX0lDM0NqWnRyTGxyazN0R3BEYmxnZ0tCLUhrSnBIQ2liUDBINkpoSlVhXzVfaTRFajVEemNxRlRLWUk5dTRGeTFrcGRLQW5hS2tQaUtETVl6SXVPUkY0U1l6Q3pLa3dfOVZ0eHlqaWV6MjU0QXE1TGxaZU1VdXVac3NPLVV6U0VSRnRmNWUzUnFleUFvbW9XMkFrREFscmh2cWZlUk9KY3pDUERqbnVXOTRVd2hOeGFiONIBigJBVV95cUxPcFp0a1J0VUpCYjBQZUQ0SW9QUDhzQlY4ZVZRTTVaNTdWcXZSbjBpcDVmcjRxcFZsb3RybHgzVF9ET1pnVE5YeFoyV0MySHNYLWRMVmE2cmh4N1hmUk1sbmk2UG54UmNRMkRZZlZSeWlqM2h6N0FXTFFURE9NQ0dXQS15NDdlemNPckpFUmFHaFkxTlQydzBTc0VTaEVOMkR5YnA5NXhiYlFVNnpWVXBvd285VVJYZkc2YmQzMHFWN2tXWWxjSjd2YXZ5aFZnQzJGMnQ2MGktTnpjM2FZd3NfWjdaUktOVkVaXzBBVkMyY3pZYk44ZXZtM3BPZjdpelFHVFhreTRia2lPZw?oc=5",
+   "outlet": "mxdwn Music",
+   "via": "Google News",
+   "published": "2026-11-23T22:27:00+00:00",
+   "seen": "2026-11-23T22:33:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Rockstar Games releasing a Deluxe Edition of GTA VI titled The Album with 23 new songs from Travis."
+  },
+  {
+   "id": "gta vi players are getting screwed by sony and youtube",
+   "title": "GTA VI Players Are Getting Screwed by Sony and YouTube",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkZHSUt2RDR0ZnFuVW9PSEJmN3RXekRuX3VGbzY1LUR5WnBjY3hsR2QwdEF6ekJrM0VRQXQ0SXBmS3VSc1c1aFRMVWpXS0xvM2t1eTF2SWZaYmEyejI5MS1WMElKZG9WVk1nV3kxS2JEb0gxaUo1MXJzNHEyaGdnaHJvc2lpZW1MZDNrMzdQa3ZjRkhNSjVBZ3pLT2NSYVFDX1RweW9KYVVCaC16aDVPTQ?oc=5",
+   "outlet": "Gizmodo",
+   "via": "Google News",
+   "published": "2026-11-23T22:25:57+00:00",
+   "seen": "2026-11-23T22:33:27+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports GTA VI players feel harmed by Sony and YouTube."
+  },
   {
    "id": "5 embarrassingly stupid ways gta 6 players have gotten themselves killed",
    "title": "5 Embarrassingly Stupid Ways GTA 6 Players Have Gotten Themselves Killed",
