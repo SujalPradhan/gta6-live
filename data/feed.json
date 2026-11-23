@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T23:28:50+00:00",
- "started": "2026-11-23T23:28:44+00:00",
+ "updated": "2026-11-23T23:33:54+00:00",
+ "started": "2026-11-23T23:33:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T23:28:44+00:00"
+   "checked": "2026-11-23T23:33:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-23T23:28:45+00:00"
+   "checked": "2026-11-23T23:33:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-23T23:28:45+00:00"
+   "hits": 66,
+   "checked": "2026-11-23T23:33:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T23:28:45+00:00"
+   "checked": "2026-11-23T23:33:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T23:28:46+00:00"
+   "checked": "2026-11-23T23:33:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T23:28:46+00:00"
+   "checked": "2026-11-23T23:33:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T23:28:46+00:00"
+   "checked": "2026-11-23T23:33:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T23:28:46+00:00"
+   "checked": "2026-11-23T23:33:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T23:28:46+00:00"
+   "checked": "2026-11-23T23:33:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T23:28:47+00:00"
+   "checked": "2026-11-23T23:33:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T23:28:47+00:00"
+   "checked": "2026-11-23T23:33:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T23:28:47+00:00"
+   "checked": "2026-11-23T23:33:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T23:28:47+00:00"
+   "checked": "2026-11-23T23:33:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T23:28:47+00:00"
+   "checked": "2026-11-23T23:33:51+00:00"
   }
  },
  "items": [
@@ -142,6 +142,32 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "A YouTuber has discovered one of GTA 6's biggest secrets, solving one of its most elaborate Easter eggs."
+  },
+  {
+   "id": "gta 6 breaks sales records across all media gets cars broadly right",
+   "title": "'GTA 6' breaks sales records across all media, gets cars broadly right",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeExpU0F3RW1EVE1KVXFmb3pEeGhWWG9mZXBadGE0a1BESkFvaG1WVzZQN2ZKaTVoaGRlR2Y3Z0VWZkhWUVhPUUk4X0o5LWl5MGFRY1BnemdMVmswVTQ2alFNWk5nN3dudWlGbENxeWU1R01uWFJfYW1ISzNBYzZIVFpCS0RwMWl1Z1JFM1l2MXh4dk5Ucy1Va0xOQQ?oc=5",
+   "outlet": "Driving",
+   "via": "Google News",
+   "published": "2026-11-23T23:18:17+00:00",
+   "seen": "2026-11-23T23:33:49+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "'GTA 6' breaks sales records across all media, gets cars broadly right"
+  },
+  {
+   "id": "recommended grand theft auto vi controller settings for playstation 5",
+   "title": "Recommended Grand Theft Auto VI Controller Settings for PlayStation 5",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlBRdnRDN0ZUZE5SNTdsX3RraDBUV0dXTWtkOU05YWRhSFRzY21WZ0Y2WEVjci1GWjZWTlFYU3pEUzZ5Qm1oZHFmQnZpVmxxRE9xd1o1RThmSVBhd2dTbW15YUI5UUFVSWR5cHpJOWtxNFlBWWc1bkdBVFVLQW5DLUhLMTdnS3pXQVhTTGt1Ty1KMXVUN080cG5zZWdEcklJMl9MS0Nn?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-23T23:15:32+00:00",
+   "seen": "2026-11-23T23:33:48+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "Recommended Grand Theft Auto VI Controller Settings for PlayStation 5"
   },
   {
    "id": "gta 6 is giving an 80s new wave classic a second life four decades after its original release",
