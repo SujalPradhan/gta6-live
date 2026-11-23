@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T11:14:22+00:00",
- "started": "2026-11-23T11:14:17+00:00",
+ "updated": "2026-11-23T11:19:25+00:00",
+ "started": "2026-11-23T11:19:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-23T11:14:18+00:00"
+   "checked": "2026-11-23T11:19:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 38,
-   "checked": "2026-11-23T11:14:18+00:00"
+   "hits": 36,
+   "checked": "2026-11-23T11:19:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-23T11:14:18+00:00"
+   "checked": "2026-11-23T11:19:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T11:14:18+00:00"
+   "checked": "2026-11-23T11:19:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T11:14:18+00:00"
+   "checked": "2026-11-23T11:19:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T11:14:19+00:00"
+   "checked": "2026-11-23T11:19:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 34,
-   "checked": "2026-11-23T11:14:19+00:00"
+   "checked": "2026-11-23T11:19:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T11:14:19+00:00"
+   "checked": "2026-11-23T11:19:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T11:14:19+00:00"
+   "checked": "2026-11-23T11:19:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T11:14:19+00:00"
+   "checked": "2026-11-23T11:19:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T11:14:19+00:00"
+   "checked": "2026-11-23T11:19:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T11:14:19+00:00"
+   "checked": "2026-11-23T11:19:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T11:14:19+00:00"
+   "checked": "2026-11-23T11:19:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T11:14:19+00:00"
+   "checked": "2026-11-23T11:19:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 may be stealing the spotlight but nex playground just stole black friday with a record low price on amazon",
+   "title": "GTA 6 May Be Stealing the Spotlight, but Nex Playground Just Stole Black Friday With a Record Low Price on Amazon",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb01JQmJMckxNWk1HUkYyWUVteW9MSmxtU2NqcXRtNXpseUs4X0FjWXNyT1JnOUxuZVhvekdMT3ZlT0NRMENmQXNpcjRLTURvTVlESDA1aEFrMGJpcjE0ME5FRnRva21VUlQwT0FWNWFjODRtQXpwNXhxcGZyR3AwYjg1dVpRY3FpNkt1VnZxVlI0NHE1Ylk3Y2t5MndnRnlkUnotU0w1WHBJQ3BpaHN6R0MxNExKRVd0ZVkxQWVPNTc0UXdiYm9maktqdWg?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-23T11:15:54+00:00",
+   "seen": "2026-11-23T11:19:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that Nex Playground offered a Black Friday record low price on Amazon, drawing attention away from GTA 6."
+  },
+  {
+   "id": "grand theft auto vi 01 002 002 update has started rolling out but some users will reportedly have to wait 6 hours to get it",
+   "title": "Grand Theft Auto VI 01.002.002 Update Has Started Rolling Out, But Some Users Will Reportedly Have to Wait 6 Hours To Get It",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OV3d3SGtyRnRmN19kdUtLem9uYUpMWjdVVW00bTJWODlEbi1TTDlOX1pLZ040RjVjYkpEQk1TbWlmRUlFdjNhWTdwYURncnpVcTIxMFN0Z3AwaS10QWpHVEpxN1BUb1lIOFlz0gFwQVVfeXFMTmJGcDJMX1FOXzlCU2xZSWdZVF9qSHVBUlVDRnJLWEZ4SXhNOU03ci1pY0YxUDBHcHlpWUdXV3c0SDJjV2JHYW4wWFRUOWtLU2h0RDZRV3gwSldoeTJFLWZ1UHFPaHQtQzh3RGZhMTZaVA?oc=5",
+   "outlet": "Wccftech",
+   "via": "Google News",
+   "published": "2026-11-23T11:13:29+00:00",
+   "seen": "2026-11-23T11:19:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI update 01.002.002 has started rolling out, but some users may have to wait six hours to receive it."
+  },
+  {
+   "id": "gta 6 girlfriend simulator complaints are real at first ex rockstar lead says",
+   "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-girlfriend-simulator-complaints-are-real-at-first-ex-rockstar-lead-says-but-chapter-2-is-where-the-grand-theft-auto-magic-kicks-in/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-23T11:10:18+00:00",
+   "seen": "2026-11-23T11:19:20+00:00",
+   "summary": "Obbe Vermeij says he's \"having loads of fun now\" he's further into the game",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that initial complaints about GTA 6 'girlfriend simulator' are real, according to an ex-Rockstar lead, though he says he's enjoying the game now."
+  },
   {
    "id": "gta 6 actor told developers put stop to anti trans violence in game",
    "title": "GTA 6 actor told developers put stop to anti-trans violence in game",
