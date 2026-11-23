@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T19:52:36+00:00",
- "started": "2026-11-23T19:52:28+00:00",
+ "updated": "2026-11-23T19:57:35+00:00",
+ "started": "2026-11-23T19:57:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T19:52:28+00:00"
+   "checked": "2026-11-23T19:57:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-23T19:52:28+00:00"
+   "checked": "2026-11-23T19:57:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 75,
-   "checked": "2026-11-23T19:52:29+00:00"
+   "checked": "2026-11-23T19:57:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T19:52:29+00:00"
+   "checked": "2026-11-23T19:57:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T19:52:29+00:00"
+   "checked": "2026-11-23T19:57:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T19:52:29+00:00"
+   "checked": "2026-11-23T19:57:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T19:52:30+00:00"
+   "checked": "2026-11-23T19:57:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T19:52:30+00:00"
+   "checked": "2026-11-23T19:57:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:52:31+00:00"
+   "checked": "2026-11-23T19:57:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T19:52:31+00:00"
+   "checked": "2026-11-23T19:57:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T19:52:32+00:00"
+   "checked": "2026-11-23T19:57:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T19:52:32+00:00"
+   "checked": "2026-11-23T19:57:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:52:32+00:00"
+   "checked": "2026-11-23T19:57:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T19:52:32+00:00"
+   "checked": "2026-11-23T19:57:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi the culture the past and vice city",
+   "title": "Grand Theft Auto VI | The culture, the past and Vice City",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaUdvaDJCV0JaUTdDTktPbk9TY2JBcF93UkgyR1dMRzN1d1h0NlUtX1RwY0hURjJaT0NSb2F3Z3hKdGZ2TEZUczByUW1vajBjQjJBVXRvN3ZDSXZoUV9oOVdiUGxnWDJ5TURiYm0zcFZIck42MjJZTV9RVzhkWTFZUTZLWlZ5bnl6S0F6NkVvamJsR29iZnJBUE9n?oc=5",
+   "outlet": "Kansas State Collegian",
+   "via": "Google News",
+   "published": "2026-11-23T19:54:43+00:00",
+   "seen": "2026-11-23T19:57:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses culture, the past, and Vice City related to Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 breakfast run guide how to rob all five stores and escape the 2 star chase",
+   "title": "GTA 6 Breakfast Run guide: how to rob all five stores and escape the 2-star chase",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObU5tdVJreFNrZkVHQmF4ajVFdEs2WExCQ0MyeWFMNU56blpJcEJ6MlhGS3lqeVgxNGUtVWFHRjZEZHFhM0JHUmdyQkhlaGx2blkzUnJwajFNUm5QQzdZeV8wblF0eUlyOWtiWHhoRWlId2RkTGtkVVVHMkpHYjFJRDk3MUxJeVVDSlM1d0N5eUNmUmtsZl9PSGxHc1RVYUhJdHc?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T19:51:47+00:00",
+   "seen": "2026-11-23T19:57:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to rob five stores and escape a two-star chase in GTA 6."
+  },
   {
    "id": "cyberpunk 2 is canceled jokes cdpr creative director after playing gta 6",
    "title": "“Cyberpunk 2 is Canceled” Jokes CDPR Creative Director After Playing GTA 6",
@@ -142,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A glitch unlocks GTA 6's frame rate on Xbox Series X and suggests a 60fps mode was not planned."
+  },
+  {
+   "id": "a glitch unlocks gta 6 s frame rate on xbox series x but it just proves a 60fps mode was out of the question",
+   "title": "A Glitch Unlocks GTA 6's Frame Rate on Xbox Series X, but It Just Proves a 60fps Mode Was Out of the Question",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0I4TTRWLV9xLTU5RHdET1ZpcThoMEtZYVVOV2poajZJWXVZcXVlX2VmQUpGQlhSbXE4cGE0WUZVdnZCWGJnQVF2NUthX1RXR1ctQ1F2UU5wUHhYT0ptalkzZWp5TnpWTi0xMFV1TEFVRUNOOTFDbEdHX3ZlS2FRTVhCWUR5UmN3M25zbkdUZW1GNjQ3MHpRSnFzMTlHR09fT0VBV0J6UmdWNFJPaDlv?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-23T19:47:44+00:00",
+   "seen": "2026-11-23T19:57:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A glitch unlocks GTA 6's frame rate on Xbox Series X, suggesting a 60fps mode was unlikely."
   },
   {
    "id": "gta 6 leaker reportedly releases file needed to run leaked xbox build",
