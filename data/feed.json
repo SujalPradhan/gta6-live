@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T11:39:35+00:00",
- "started": "2026-11-23T11:39:28+00:00",
+ "updated": "2026-11-23T11:44:34+00:00",
+ "started": "2026-11-23T11:44:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T11:39:29+00:00"
+   "checked": "2026-11-23T11:44:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-23T11:39:29+00:00"
+   "hits": 38,
+   "checked": "2026-11-23T11:44:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-23T11:39:29+00:00"
+   "checked": "2026-11-23T11:44:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T11:39:30+00:00"
+   "checked": "2026-11-23T11:44:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T11:39:30+00:00"
+   "checked": "2026-11-23T11:44:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T11:39:30+00:00"
+   "checked": "2026-11-23T11:44:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-23T11:39:31+00:00"
+   "checked": "2026-11-23T11:44:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T11:39:31+00:00"
+   "checked": "2026-11-23T11:44:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T11:39:31+00:00"
+   "checked": "2026-11-23T11:44:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T11:39:31+00:00"
+   "checked": "2026-11-23T11:44:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T11:39:32+00:00"
+   "checked": "2026-11-23T11:44:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T11:39:32+00:00"
+   "checked": "2026-11-23T11:44:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T11:39:32+00:00"
+   "checked": "2026-11-23T11:44:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T11:39:32+00:00"
+   "checked": "2026-11-23T11:44:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi shatters records with 3 79 billion day one sales",
+   "title": "Grand Theft Auto VI shatters records with $3.79 billion day-one sales",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY3BNZHpTUm4ta0FMbWg3WlgzaDdvamI0eXVnR3FEa0t6VzROYlVGWVF3dXZZbFU4N1dQVzE5OGE5cWFRdW1IbkFiTW5NMEgtRTFCTzlJMlhnZ25iT180MklFN255STd1RWNveW4xQzJkVDdZRGJJZDV0aTU4c2JjMUN6S3hjbVZLeGt1VU1XbXNVZw?oc=5",
+   "outlet": "Traxion.GG",
+   "via": "Google News",
+   "published": "2026-11-23T11:40:50+00:00",
+   "seen": "2026-11-23T11:44:29+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA VI shattering records with day-one sales totaling $3.79 billion."
+  },
+  {
+   "id": "gta 6 s billboard takes aim at anti trans panic",
+   "title": "GTA 6's Billboard Takes Aim at Anti-Trans Panic",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zZzhOOExuenVvRnVqNThCUlZOeEd4aWdsTG9mWFNaWUZEaV8ydXdVSzJkODdPRXlGRDJmeWRtZER5dnNyWF80MURwSHRpUWFaanlIanBzZWp0VFdWX2kzZ2F1d1I1Q3hOR1dVOHZFYWcwU1Ns?oc=5",
+   "outlet": "PinkNews",
+   "via": "Google News",
+   "published": "2026-11-23T11:37:49+00:00",
+   "seen": "2026-11-23T11:44:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6's Billboard taking aim at anti-trans panic."
+  },
   {
    "id": "how to rob atms in gta 6 explained get the car upgrade you need",
    "title": "How to rob ATMs in GTA 6 explained: Get the car upgrade you need",
@@ -376,6 +402,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "The story reports that over 30 million GTA 6 players on PS5 have overloaded the PS App servers."
+  },
+  {
+   "id": "gta 6 actor told her non binary character could not be hurt to combat anti trans violence",
+   "title": "GTA 6 actor told her non-binary character could not be hurt to combat anti-trans violence",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlNWNi1rZ0xocnY5YnJiZHY4X0YxU2dVclVXcjdIX3BBT0hZV1lkQzhTZHJXQklOM3BwN3lrNFQwaUVITkVVNjhtRDNFOVpjaFNUN3VWcU1ydEx5M2RFRFZqN3A5Rmd5djFPd0R5TzRtQzVFRjNDekVKMFNfcXBibVpvcjlGUHFZRnlCTGtWN3BzV3lxSzlV?oc=5",
+   "outlet": "PinkNews",
+   "via": "Google News",
+   "published": "2026-11-23T11:15:00+00:00",
+   "seen": "2026-11-23T11:44:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 actor stating her non-binary character could not be hurt to combat anti-trans violence."
   },
   {
    "id": "gta 6 kit car watson bay",
