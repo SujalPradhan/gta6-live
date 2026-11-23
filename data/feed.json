@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T03:06:40+00:00",
- "started": "2026-11-23T03:06:36+00:00",
+ "updated": "2026-11-23T03:11:49+00:00",
+ "started": "2026-11-23T03:11:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T03:06:37+00:00"
+   "checked": "2026-11-23T03:11:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 41,
-   "checked": "2026-11-23T03:06:37+00:00"
+   "hits": 42,
+   "checked": "2026-11-23T03:11:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 66,
-   "checked": "2026-11-23T03:06:37+00:00"
+   "checked": "2026-11-23T03:11:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T03:06:38+00:00"
+   "checked": "2026-11-23T03:11:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T03:06:38+00:00"
+   "checked": "2026-11-23T03:11:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T03:06:38+00:00"
+   "checked": "2026-11-23T03:11:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T03:06:39+00:00"
+   "checked": "2026-11-23T03:11:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T03:06:39+00:00"
+   "checked": "2026-11-23T03:11:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T03:06:39+00:00"
+   "checked": "2026-11-23T03:11:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T03:06:39+00:00"
+   "checked": "2026-11-23T03:11:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T03:06:40+00:00"
+   "checked": "2026-11-23T03:11:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T03:06:40+00:00"
+   "checked": "2026-11-23T03:11:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T03:06:40+00:00"
+   "checked": "2026-11-23T03:11:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T03:06:40+00:00"
+   "checked": "2026-11-23T03:11:45+00:00"
   }
  },
  "items": [
@@ -326,6 +326,19 @@
    "ai_summary": "A person tapped a car in GTA 6 thinking NPCs would let it go, but they wrecked her ride, signaling a new level of road rage."
   },
   {
+   "id": "grand theft auto vi is the biggest game of all time will games get any bigger",
+   "title": "Grand Theft Auto VI is the biggest game of all time — will games get any bigger?",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblpsZURfX2Z5NUlZY240Z21rNTJfN2FzZHkwOW9sZ2R3enE0cTJoWHJfRkw3SnRETExCdUtZb1lHX21RLXVJUnJYeEVoSjh2NnhRdFNuQkZGNmktLXZXQkhsS09CZS1jS2FnUnV1MVJ4UkRiU0VCSWY4TkwwVkZ1TVRTc0cxZmU4X3BhdmVtNjlRZ082TFg1Sg?oc=5",
+   "outlet": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "via": "Google News",
+   "published": "2026-11-23T01:45:17+00:00",
+   "seen": "2026-11-23T03:11:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story questions whether Grand Theft Auto VI will become the biggest game of all time."
+  },
+  {
    "id": "the weeknd finds his 50 million mansion inside gta vi",
    "title": "The Weeknd finds his $50 million mansion inside GTA VI",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenZjRHZQX0JIUHdMNjR4cmExaDRmamhDU3YzaldiSkN0T0NveWNpUWNLZlhFTzAzMll5WjZUNXFkOFlMQk9XMlRoOUR4and2TXZMVkRHbGlEVFNmU09oUndLM01zNGltd1JGWWdGYk1CcnZnUzhJSjhUMTl0X1pzT0hxTGhjU0ZlbWViOWNJTUpxbU1hUEtYWmxvNXczeHNDVDF0X0trX2VSTnpVaHJobjVlbFRYdGfSAbcBQVVfeXFMUHp2Y0R2UF9CSFB3TDY0eHJhMWg0ZmpoQ1N2M2pXYkpDdE9Db3ljaVFjS2ZYRU8wMzJZeVo2VDVxZDhZTEJPVzJUaDlEeGp3dk12TFZER2xpRFRTZlNPaFJ3SzNNczRpbXdSRllnRmJNQnJ2Z1M4SUo4VDE5dF9ac09IcUxoY1NGZW1lYjljSU1KcW1NYVBLWFpsbzV3M3hzQ1QxdF9La19lUk56VWhyaG41ZWxUWHRn?oc=5",
@@ -337,6 +350,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The Weeknd finds his $50 million mansion inside GTA VI."
+  },
+  {
+   "id": "gta 6 how to catch a bigger parrotfish for cal",
+   "title": "GTA 6: How to Catch a Bigger Parrotfish for Cal",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96LWRkdGxXcWRFMEx3Rm85Qmh4bXBCWTdWRzlYdDQtSnc2LUtuY2YxQ2pCcDJOSDhEN294YzlWcGkyejBBQ3hteld2RXdQMVVIXy1jNnBKUjFwYnJUWDJkVV9KLXU?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-23T01:41:17+00:00",
+   "seen": "2026-11-23T03:11:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to Catch a Bigger Parrotfish for Cal in relation to GTA 6."
   },
   {
    "id": "grand theft auto vi marks a turning point for the series",
@@ -961,6 +987,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions whether Daft Punk is involved in GTA 6 and mentions the producer behind Travis Scott’s RHYNO."
+  },
+  {
+   "id": "gta 6 tops playstation store charts in every country but one",
+   "title": "GTA 6 Tops PlayStation Store Charts in Every Country But One",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnaFo5Zks3ZTVFR21XYTB6WkZyRFlmWTRvMGI4UHp1dUlDWGpHN0VyN0NuTnFiZGw5dEptUzlRTjEtTEFSZWQzbmM3a1VtRE1JSzBJYW1YVTk4N1JPRDFOSDQ4Yl8?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-22T22:49:59+00:00",
+   "seen": "2026-11-23T03:11:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 tops PlayStation Store charts in every country except one."
   },
   {
    "id": "who plays brian heder in gta 6",
