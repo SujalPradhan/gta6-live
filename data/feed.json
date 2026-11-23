@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T23:38:53+00:00",
- "started": "2026-11-23T23:38:46+00:00",
+ "updated": "2026-11-23T23:43:54+00:00",
+ "started": "2026-11-23T23:43:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T23:38:47+00:00"
+   "checked": "2026-11-23T23:43:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-23T23:38:47+00:00"
+   "hits": 47,
+   "checked": "2026-11-23T23:43:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-23T23:38:48+00:00"
+   "hits": 97,
+   "checked": "2026-11-23T23:43:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T23:38:48+00:00"
+   "checked": "2026-11-23T23:43:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T23:38:48+00:00"
+   "checked": "2026-11-23T23:43:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T23:38:48+00:00"
+   "checked": "2026-11-23T23:43:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T23:38:49+00:00"
+   "checked": "2026-11-23T23:43:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T23:38:49+00:00"
+   "checked": "2026-11-23T23:43:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T23:38:49+00:00"
+   "checked": "2026-11-23T23:43:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T23:38:50+00:00"
+   "checked": "2026-11-23T23:43:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T23:38:50+00:00"
+   "checked": "2026-11-23T23:43:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T23:38:50+00:00"
+   "checked": "2026-11-23T23:43:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T23:38:50+00:00"
+   "checked": "2026-11-23T23:43:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T23:38:50+00:00"
+   "checked": "2026-11-23T23:43:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 celebrates launch with miami music festival and deluxe 57 track album",
+   "title": "GTA 6 Celebrates Launch With Miami Music Festival and Deluxe 57-Track Album",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDZNRkFwb0E1NWdOejFTUWItNllSVXFrM2Jlb2Y0RUlTR0JXTVhSNkRkcGp3N1kxa1lsY1RHeG52cFRTbFNRbGs4MlBObWRISDFqTWlZNDZ1ZUVDaV81a1N1V3B1Mm85cFc0UWZlYkJTNU92VndLZnY0VmZDX1NQc1dwWVAwN1g0NnBKOW9mck0zLU5sTERaam9uX3dLSGdsd2JNMWJibS1aSE0?oc=5",
+   "outlet": "ChannelNews.com.au",
+   "via": "Google News",
+   "published": "2026-11-23T23:38:15+00:00",
+   "seen": "2026-11-23T23:43:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 celebrates its launch with a Miami music festival and a deluxe 57-track album."
+  },
+  {
+   "id": "gta 6 results in call of duty losing nearly half of its player base during launch weekend",
+   "title": "GTA 6 Results in Call of Duty Losing Nearly Half of Its Player Base During Launch Weekend",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnRiZVBBdGFlbVNza1loSldZXzFwakg1X3JLTHYxQ2lvSThUeWtWeHpGazM4TzFQYy16QlROV1JtZ0x0YlNReG9iM0VwNURNTkZDOHdmTGtmU0lDMFFUSVJOSVctOWVYZDVqTTNPck5xM0ZWTFNqZTZNZHlSQkFDRk1YN2plSVJqNFRkUzNDMS1LTjcyZ2lQWXE3aXF4OWp6NGh3YWotTkpZeW85TUJFeXdwR0wxenEtLTB3WjhB?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-23T23:37:03+00:00",
+   "seen": "2026-11-23T23:43:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 causes Call of Duty to lose nearly half of its player base during launch weekend."
+  },
   {
    "id": "thank you for making grand theft auto vi the biggest launch in playstation history",
    "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history",
@@ -168,6 +194,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "A YouTuber has discovered one of GTA 6's biggest secrets, solving one of its most elaborate Easter eggs."
+  },
+  {
+   "id": "a singular genius d angelo s estate confirms unreleased song found in gta vi announces vinyl release",
+   "title": "'A singular genius': D'Angelo's estate confirms unreleased song found in 'GTA VI,' announces vinyl release",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXMtcXZCWVpLSTRQWG9BTzdnYTE0TE9Da1BQTlRaMXg0Ykw0Z283MlBROGh1UTVlYm9TQXJGV18tNDVNRDlzbVJreHVxcUZSRTNOSWhaNFE2UUFMZXFGWGJRazF4QlNMQW1DNnlfNDlseFczS2RGS2o4VTFhajh2VGxhUUtmNFB4SURtZg?oc=5",
+   "outlet": "TheGrio",
+   "via": "Google News",
+   "published": "2026-11-23T23:20:20+00:00",
+   "seen": "2026-11-23T23:43:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that D'Angelo's estate confirms an unreleased song found in GTA VI and announces a vinyl release."
   },
   {
    "id": "gta 6 breaks sales records across all media gets cars broadly right",
