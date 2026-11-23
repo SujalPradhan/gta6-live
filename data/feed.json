@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T17:36:44+00:00",
- "started": "2026-11-23T17:36:38+00:00",
+ "updated": "2026-11-23T17:41:49+00:00",
+ "started": "2026-11-23T17:41:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-23T17:36:39+00:00"
+   "hits": 99,
+   "checked": "2026-11-23T17:41:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-23T17:36:39+00:00"
+   "checked": "2026-11-23T17:41:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 74,
-   "checked": "2026-11-23T17:36:40+00:00"
+   "checked": "2026-11-23T17:41:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T17:36:40+00:00"
+   "checked": "2026-11-23T17:41:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T17:36:40+00:00"
+   "checked": "2026-11-23T17:41:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T17:36:40+00:00"
+   "checked": "2026-11-23T17:41:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T17:36:40+00:00"
+   "checked": "2026-11-23T17:41:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T17:36:40+00:00"
+   "checked": "2026-11-23T17:41:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T17:36:40+00:00"
+   "checked": "2026-11-23T17:41:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T17:36:41+00:00"
+   "checked": "2026-11-23T17:41:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T17:36:41+00:00"
+   "checked": "2026-11-23T17:41:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T17:36:41+00:00"
+   "checked": "2026-11-23T17:41:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T17:36:41+00:00"
+   "checked": "2026-11-23T17:41:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T17:36:41+00:00"
+   "checked": "2026-11-23T17:41:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "need a gta vi headset use headphones you own today with quick settings tweaks",
+   "title": "Need a GTA VI headset? Use headphones you own today – with quick settings tweaks",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1Z4anJ6TGN6UHBjOTU3RGd5aFRLWFI4bmU4Qk5WTXdQUF9oZ0s1NTJyUjlNT2dSclczM0Zkb1ZjLXpudUZERGZHUHVoZjF4RDE0bTV5ekV2SG1HMDFfaHExYnFGNzN0M1ZTWS1NbDRrM0NhZ19iLVpoVFQxSENxMGdIeEM?oc=5",
+   "outlet": "ZDNET",
+   "via": "Google News",
+   "published": "2026-11-23T17:36:29+00:00",
+   "seen": "2026-11-23T17:41:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story advises using your own headphones with quick settings tweaks for GTA VI headset use."
+  },
   {
    "id": "how to unlock gta 6 s amazing ps2 vice city easter egg",
    "title": "How To Unlock GTA 6's Amazing PS2 Vice City Easter Egg",
@@ -168,6 +181,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The report states GTA 6’s launch numbers are insane with 45 million copies sold in four days."
+  },
+  {
+   "id": "hear power trip s gta vi soundtrack single mutual death warrant",
+   "title": "Hear Power Trip's 'GTA VI' Soundtrack Single \"Mutual Death Warrant\"",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2NoY0dydzFIUTUzQXljYzRrSGdPSGY1OFkxRjFrS3l2UldUQkRORFNPX0dEalB1MUtKZGRqdS1ONWQ5Nk4yRkRDeW5BQXN4Z1RsZFBkdDMxUXM4VGlKZXFtendNdUphTktraUg2N1lkcGNncG9HS1FndlVmdlFEWGpUZ0RSdEduU25ZQw?oc=5",
+   "outlet": "Metal Injection",
+   "via": "Google News",
+   "published": "2026-11-23T17:26:15+00:00",
+   "seen": "2026-11-23T17:41:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Power Trip's GTA VI soundtrack single 'Mutual Death Warrant'."
   },
   {
    "id": "uk grand theft auto vi hacker gets 7 year sentence",
@@ -287,6 +313,19 @@
    "ai_summary": "D’Angelo’s GTA VI song Kamikaze is released as a brother teases future posthumous tracks."
   },
   {
+   "id": "gta 6 has reportedly sold more than 44 million copies and its revenue nearly matches the combined box office earnings of spider man and the ",
+   "title": "GTA 6 Has Reportedly Sold More Than 44 Million Copies, and Its Revenue Nearly Matches the Combined Box Office Earnings of Spider-Man and The Odyssey",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVDBNVnZnTUw2MXJZSVhhTklFd3Q2ZHRLWi1DX19XeTRrOUdpempoeTJ2a2E2NGI1M0ZLX3RaZGR5SUV5bVR4SnFsMkl0OHFYUDU4eGFLREpDeWlkZ0txQ21uZzdEd09USmc4OHN0MXdEUFZYSVJGUURYY1phcUptN05qS1I2VDNXNFJJeTBGMzlJdDk2OHdWeHd5d0JSRUlkZ0xiSWM2X19UYWtsYnJNUDJVWkgxZ0RZaWFkTEwxOGlzZDJRTXR3RWUzeFowNzJJZXJGY3VKVGkzWmNQa0VaNGNpbHBkT1JKT3NQbExMazZjYzJUY3JRZm5sMVhuV1dmVkQ2d25VSkk1cVdK?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-23T17:13:36+00:00",
+   "seen": "2026-11-23T17:41:42+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 has sold more than 44 million copies and nearly matches Spider-Man and The Odyssey box office revenue combined."
+  },
+  {
    "id": "gta 6 the album deluxe edition offset travis scott slayyyter more",
    "title": "'GTA 6: The Album' Deluxe Edition: Offset, Travis Scott, Slayyyter, More",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTlydEJYeEVNZUMyNy1XNl9oNU85eEhiYWgtV2J3Xy1obG1vMm5BTk1kQmhySXRFV0EwZmxSQ2RiMDduMkhFT2NOc0VRWVYzTXpYbmZjdXVQb193TjFBTVl0SHNDMUUxTHc1OVF3MkZyclJwTE9ZZVFQYmt2c01RVUJjNDQ0Y25Cb3RhejNVcGZLT2IxaFFRY1NRSHBLODlUMkNGTlFJdDBkbzRWRGxB?oc=5",
@@ -298,6 +337,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6: The Album Deluxe Edition includes new material from Offset, Travis Scott, Slayyyter, and more."
+  },
+  {
+   "id": "travis scott slayyyter offset anitta more power grand theft auto vi the album deluxe edition stream it now",
+   "title": "Travis Scott, Slayyyter, Offset, Anitta & More Power ‘Grand Theft Auto VI: The Album’ Deluxe Edition: Stream It Now",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTlydEJYeEVNZUMyNy1XNl9oNU85eEhiYWgtV2J3Xy1obG1vMm5BTk1kQmhySXRFV0EwZmxSQ2RiMDduMkhFT2NOc0VRWVYzTXpYbmZjdXVQb193TjFBTVl0SHNDMUUxTHc1OVF3MkZyclJwTE9ZZVFQYmt2c01RVUJjNDQ0Y25Cb3RhejNVcGZLT2IxaFFRY1NRSHBLODlUMkNGTlFJdDBkbzRWRGxB?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-23T17:12:28+00:00",
+   "seen": "2026-11-23T17:41:42+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story notes a lineup including Travis Scott, Slayyyter, Offset, and Anitta contributing to GTA VI: The Album Deluxe Edition."
   },
   {
    "id": "a gta 6 player finds tommy vercetti s shirt and portal to original vice city",
@@ -818,6 +870,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A leaker releases all files for an alleged Xbox build of GTA 6."
+  },
+  {
+   "id": "bitcast 405 the big gta 6 episode",
+   "title": "Bitcast 405 : The Big GTA 6 Episode",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fWnQ0VVg5cC1TaXg5NXFDM2ktWVRrUnNjcTZHWWFjRXNVWFhGQ2NTdC1XVXM0UmZQbkZSRkVka3dNMnNlZmltM3FGZXZoZnJqMVdjZHpYU0E4SEVIblNnQ3ZqbEdWbmF4SnNobzMxZWhnMjlwcWZzOHRaczTSAYIBQVVfeXFMTUJETFdybFRGSkhxTVQzOFhXWnNRclhMRm1MLS03SjY1OEVKTjJ3ZE16SGV2aGVBNjlZSms2XzROcjdMSnUzd3ZoSGdSOGp5Z1BYSEhzd1lSNVJiZU51ckZfZndCZGw1Z19xdHhoVi0xLVNSMGtRV0U5UXBxNWJuNjFmQQ?oc=5",
+   "outlet": "Seasoned Gaming",
+   "via": "Google News",
+   "published": "2026-11-23T16:26:28+00:00",
+   "seen": "2026-11-23T17:41:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story presents Bitcast 405 as a big GTA 6 episode."
   },
   {
    "id": "gta 6 sales 3 79b day one 32 5m units official numbers",
@@ -1470,6 +1535,19 @@
    "ai_summary": "Grand Theft Auto VI features Bigfoot and a dog riding a jet ski."
   },
   {
+   "id": "gta 6 hides a supercharged el camino in the last place you d ever look",
+   "title": "GTA 6 Hides A Supercharged El Camino In The Last Place You'd Ever Look",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wem5HZDhRV0xwa2NuaHFvMl92QXRidWV2VEJQbUlaUTRpdGVjeFluTkFDekEyd0R3b081M3ItVEZDMDN1bUNHQmN4WElDaDFVSEJnTjZUeHJHLU1zZ1dPc2h4cWN4dw?oc=5",
+   "outlet": "HotCars",
+   "via": "Google News",
+   "published": "2026-11-23T15:28:36+00:00",
+   "seen": "2026-11-23T17:41:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story states GTA 6 hides a supercharged El Camino in the last place you'd look."
+  },
+  {
    "id": "cyberpunk 2 director jokes game is cancelled after seeing gta 6",
    "title": "Cyberpunk 2 director jokes game is “cancelled” after seeing GTA 6",
    "link": "https://www.dexerto.com/gta/cyberpunk-2-director-jokes-game-is-cancelled-after-seeing-gta-6-3430664/",
@@ -1481,6 +1559,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The director joked that Cyberpunk 2 is cancelled after seeing GTA 6."
+  },
+  {
+   "id": "heineken invites gta vi players to visit the real miami instead of vice city media marketing com",
+   "title": "Heineken Invites GTA VI Players to Visit the Real Miami Instead of Vice City - media-marketing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFl3X3ZHdmNfR1V5X2FYaGNzM0VLN1Ffa3BkQjlPOTZ3cmlISXRmRFhhVTBVRl9BS043V0I0Z2trV3I5RkQ4S1ltbVgxenRaS3M5Q2dNc0g5M1lJcUY1dmU1Y3lYaUlueGhrU0FOZlRMQUFNanJYa3Bfdnl6eWY5VTN4ODNGNGxyeW5jVkN4b19kdW9ScEJSaGFybUhoQzJpQU1Pajh5TjBhNFJobW91RVlxbXVqOXVV?oc=5",
+   "outlet": "media-marketing.com",
+   "via": "Google News",
+   "published": "2026-11-23T15:26:25+00:00",
+   "seen": "2026-11-23T17:41:42+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story says Heineken invites GTA VI players to visit the real Miami instead of Vice City."
   },
   {
    "id": "how to get a rocket launcher early in gta 6",
@@ -1546,6 +1637,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "A patch for GTA 6 on PS5 and Xbox Series X/S fixes a progression bug."
+  },
+  {
+   "id": "gta 6 is here finally we can escape capitalism into another capitalism",
+   "title": "GTA 6 is here! Finally, we can escape capitalism—into another capitalism",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTJTVzFIRzh3Ulp3STRhM2dUVk92ZURXdW51TFF5aEpseHBwdjZqYUdvejNtSkg3TUxuVmdnQnhRYVhmLXZFN0tEbzRXUW8yWWFiUjVNby1jZm5JenhzWjYybGxfRjhSbFo3S0Q4NVlRVXZrUlFkWDh3eHUyYm5sdHhYOVhzS253c2tPbHE5SnowTTJFMjBWLTlqVW5DQW9GR2dJMUxB?oc=5",
+   "outlet": "mronline.org",
+   "via": "Google News",
+   "published": "2026-11-23T15:22:30+00:00",
+   "seen": "2026-11-23T17:41:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 is here and comments on escaping capitalism into another capitalism."
   },
   {
    "id": "gta 6 players urged to avoid major glitch which softlocks your save",
@@ -2404,6 +2508,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story questions whether GTA 6 lives up to players' expectations after launch weekend."
+  },
+  {
+   "id": "grand theft auto vi the album released",
+   "title": "Grand Theft Auto VI: The Album Released",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVDdiMlYwWDJXWjI4dC1SRGM4NEhLcENNQTlxRklxb3NnVWZfdzRXZ2xIeElMWVVaUFozTEZfMmZWNkZ5MmtnY2NVdmRSeVBuMkFFeHFYOUJmeE5Hdm5tV3JCQzhaX2piazFZUXJIMkk0SVdFcmJTZVprZ3FaNmJtVERlZVNPdw?oc=5",
+   "outlet": "GameSpace.com",
+   "via": "Google News",
+   "published": "2026-11-23T14:00:37+00:00",
+   "seen": "2026-11-23T17:41:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes the release of Grand Theft Auto VI: The Album."
   },
   {
    "id": "grand theft auto vi the album deluxe adds 23 original songs from travis scott slayyyter offset sexyy red and more",
