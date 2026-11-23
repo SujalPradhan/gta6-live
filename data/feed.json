@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T21:33:14+00:00",
- "started": "2026-11-23T21:33:12+00:00",
+ "updated": "2026-11-23T21:38:18+00:00",
+ "started": "2026-11-23T21:38:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T21:33:13+00:00"
+   "checked": "2026-11-23T21:38:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-23T21:33:13+00:00"
+   "hits": 55,
+   "checked": "2026-11-23T21:38:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-23T21:33:13+00:00"
+   "hits": 75,
+   "checked": "2026-11-23T21:38:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T21:33:13+00:00"
+   "checked": "2026-11-23T21:38:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T21:33:14+00:00"
+   "checked": "2026-11-23T21:38:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 boots on pc only 3 hours after xbox executable leaked",
+   "title": "GTA 6 boots on PC only 3 hours after Xbox executable leaked",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPV1lWMGdZV3FaWHNqZktJX3dhdldTZUljZlY1SDB6SFlKdjRjZnBHX2t1bGhjQm9oNzRTdUctdjZIcUlMaFBQM3RXVl80U1NyNDk5S0VJdmpOaGlGTTBtVTlZSlZIOEJWMEcwNDk1SWxQazR0V1VTTVlMSUJGRzBXVlpzTVBDWWI2VHdIMTJxS0dQZy1KNzhjR21oU3FWZFZyMjJETUNBWExDSEJ4bi1DdXliN181QzVyM1FBVEcySjJ6NlIxM2YzTHpkS0JPWXFPekxHWWRHOFR1akxGQ0FZYklXdlp2Y3JiVnVpdXZzaEVpQQ?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-23T21:33:10+00:00",
+   "seen": "2026-11-23T21:38:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 boots on PC shortly after an Xbox executable leaked."
+  },
+  {
+   "id": "i m playing gta 6 at 60fps on pc without paying for anything extra",
+   "title": "I'm playing GTA 6 at 60fps on PC without paying for anything extra",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FZy0yQU9ral9EdkdvMkJLRDJjaHdnanRpbjFHMWRYOGtXa3MwcFR0ZUs2eEtDQXhoeEQ0c0xfenNiM1J5dUhTQXR6MC1OQkZha3FzUVhyYmdaaUlmNkE?oc=5",
+   "outlet": "MakeUseOf",
+   "via": "Google News",
+   "published": "2026-11-23T21:30:16+00:00",
+   "seen": "2026-11-23T21:38:11+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports playing GTA 6 at 60fps on PC without paying for anything extra."
+  },
+  {
+   "id": "goodbye mandy gta 6 players are already obsessed with someone else",
+   "title": "Goodbye, Mandy: GTA 6 Players Are Already Obsessed With Someone Else",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbFNxOHZhVzdWVjVEbkZGZThqYjdTNTNfaFJzRER2Zk1OVWlXUTBXZE43R08wREx0SW1hSE8wc2dTdmlYa0FLU2pheV9IeS1BYlZ6U01BWVU0cGFzU1ZiUUVOZ2NMaXhG?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T21:29:19+00:00",
+   "seen": "2026-11-23T21:38:11+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports players are obsessed with someone else after saying goodbye to Mandy."
+  },
+  {
+   "id": "power trip is releasing new music in gta vi",
+   "title": "Power Trip is releasing new music… in GTA VI.",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHkyQ3liSHBWT3JITGZ0bG9ubVpXRUFuZ3Bxcm1DS2lzdm5VSDEtbTBNY09HMVFzTGlybldDTmRibmNlbVJjalNoTnFYcDFJQXJwTU81TWNNdTI4MDBDWWFmRkZfcV9HQUFLdzhaRlVJdWM4cFJWTXdvNHB6V3VVeGpDT2hTNTQ?oc=5",
+   "outlet": "D Magazine",
+   "via": "Google News",
+   "published": "2026-11-23T21:26:18+00:00",
+   "seen": "2026-11-23T21:38:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Power Trip is releasing new music in GTA VI."
+  },
   {
    "id": "gta 6 hype sends ps5 and xbox series sales soaring ahead of launch circana reports",
    "title": "GTA 6 Hype Sends PS5 and Xbox Series Sales Soaring Ahead of Launch, Circana Reports",
@@ -272,6 +324,19 @@
    "topic": "Reviews",
    "record": true,
    "ai_summary": "People highlights the biggest stars who made cameos in GTA 6."
+  },
+  {
+   "id": "gta 6 lets players revisit the original vice city here s how",
+   "title": "GTA 6 Lets Players Revisit the Original Vice City, Here’s How",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUNVN3p2cmVYYlRQSmRYa0F4NFc3RUxYSEJtWDh0bElkT21oYjRFcmo3ZzJqT0JwZ05ZZUZIZ0JyU05IVzNPQm5xOGhVRWRFTnZ1UG81el9qS2pMcWVMOEs5Tm85MTJRUGVwY3hDUjhiV292ZEhxT3VLQ2M5M0xpN25ueUlQS3poY21B0gGQAUFVX3lxTE1iMW1ULXZDNlEtWWZTckM2Z1gtUEtnSExtS1FuT0ZrbVpONUNLVkxlWmpiRnQwdUthX0d3U09wNU9IYk9oMFdwT2cwdFUzZ0ZlMlotT2JIQzhvT0FTLUxQb1ZGek8zNFVSbDF2Qk9VU21tR0dseGdObkF3dGZjeE9xMGNpQ0FGeERrQXkxanJUag?oc=5",
+   "outlet": "PlayStation LifeStyle",
+   "via": "Google News",
+   "published": "2026-11-23T20:53:40+00:00",
+   "seen": "2026-11-23T21:38:11+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 lets players revisit the original Vice City and explains how."
   },
   {
    "id": "gta 6 includes a mario and luigi easter egg",
