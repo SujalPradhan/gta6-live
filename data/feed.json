@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T09:23:42+00:00",
- "started": "2026-11-23T09:23:36+00:00",
+ "updated": "2026-11-23T09:28:47+00:00",
+ "started": "2026-11-23T09:28:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T09:23:37+00:00"
+   "checked": "2026-11-23T09:28:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-23T09:23:37+00:00"
+   "checked": "2026-11-23T09:28:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 61,
-   "checked": "2026-11-23T09:23:37+00:00"
+   "checked": "2026-11-23T09:28:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T09:23:38+00:00"
+   "checked": "2026-11-23T09:28:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T09:23:38+00:00"
+   "checked": "2026-11-23T09:28:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T09:23:38+00:00"
+   "checked": "2026-11-23T09:28:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T09:23:38+00:00"
+   "checked": "2026-11-23T09:28:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T09:23:38+00:00"
+   "checked": "2026-11-23T09:28:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T09:23:38+00:00"
+   "checked": "2026-11-23T09:28:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T09:23:39+00:00"
+   "checked": "2026-11-23T09:28:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T09:23:39+00:00"
+   "checked": "2026-11-23T09:28:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T09:23:39+00:00"
+   "checked": "2026-11-23T09:28:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T09:23:40+00:00"
+   "checked": "2026-11-23T09:28:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T09:23:40+00:00"
+   "checked": "2026-11-23T09:28:45+00:00"
   }
  },
  "items": [
@@ -155,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Naughty Dog’s Michael Barclay saying GTA 6 astonished him."
+  },
+  {
+   "id": "gta 6 s mandy actress lexie shoaibi joins hasanabi s livestream and makes a surprising comment",
+   "title": "GTA 6's Mandy actress Lexie Shoaibi joins HasanAbi's livestream and makes a surprising comment",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQektTX0JYVjZrNHdFX19LM2hmNmZOeWJuMHhFcU94RlFSckpmQTU2SDhhRk1nX0F0d3hxOXZ2SklRNE5zRnBNWG02aDkxU1ZGN1haRkJjbDZGcFBqV2VNSXJiSEpBZThsZHpOc2FRblNHWmJZSHNwcGtTWFcwbEdiWUt5aXp2S3hDTzc2RkNha3ZDdWZoNDdqckpLalhMUWU3bzFUeEE1SXk3c05NcjBpV0g5c0VLSzAyckgtdFBFR28tT25ieVpaR24ycTJHbnhYaXEtd1E2dVBKam1iR002YTdEYV9nR2NaaVExUHdXV0I4ZEtjOGZBWktfNnA2LUdVNFhB0gGIAkFVX3lxTFBlcll2ZVhPVTBETWxvekwyM2s4UkVhRFg4UTBwYUJjQzl0TUt2d0x2LVFPM1J2ZTJ5Ykd1Y2NwMm8xelYzUFFaWVg4TzUwbS1nTTBmQmR2bnB3OFhrUmlaRzJHWkVmXzR6MHJ5YjRQVU5XNlBOZHhKOXRDaWhrSUtFd0w3N2FydkdGdFlvcjFRNnhYWHdqSmVVc3pmbTJKTGVTemsySms5dUF2c2NFT1EzUzV6UGs3bkdyUGVRN2lzRFVkc3RBcjFqMUJrQzNYSGFfa09vaVVVMHI0SUpUUTZZVmtLTl9IdUJSbW1kcnk2SDNHUmZWSDBDNUYxeEoxTlFSRGdCVUV1Qw?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-23T09:04:00+00:00",
+   "seen": "2026-11-23T09:28:39+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The Times of India reports that GTA 6's Mandy actress Lexie Shoaibi joins HasanAbi's livestream and makes a surprising comment."
   },
   {
    "id": "gta 6 how to get inside the airport",
