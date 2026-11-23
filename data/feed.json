@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T21:43:18+00:00",
- "started": "2026-11-23T21:43:11+00:00",
+ "updated": "2026-11-23T21:48:17+00:00",
+ "started": "2026-11-23T21:48:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T21:43:12+00:00"
+   "checked": "2026-11-23T21:48:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-23T21:43:12+00:00"
+   "hits": 50,
+   "checked": "2026-11-23T21:48:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-23T21:43:12+00:00"
+   "hits": 75,
+   "checked": "2026-11-23T21:48:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T21:43:13+00:00"
+   "checked": "2026-11-23T21:48:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-23T21:43:13+00:00"
+   "hits": 8,
+   "checked": "2026-11-23T21:48:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T21:43:13+00:00"
+   "checked": "2026-11-23T21:48:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T21:43:13+00:00"
+   "checked": "2026-11-23T21:48:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T21:43:14+00:00"
+   "checked": "2026-11-23T21:48:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T21:43:14+00:00"
+   "checked": "2026-11-23T21:48:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T21:43:14+00:00"
+   "checked": "2026-11-23T21:48:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T21:43:15+00:00"
+   "checked": "2026-11-23T21:48:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T21:43:15+00:00"
+   "checked": "2026-11-23T21:48:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T21:43:15+00:00"
+   "checked": "2026-11-23T21:48:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T21:43:15+00:00"
+   "checked": "2026-11-23T21:48:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 crosstown traffic walkthrough",
+   "title": "GTA 6 Crosstown Traffic walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-crosstown-traffic-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-23T21:46:33+00:00",
+   "seen": "2026-11-23T21:48:13+00:00",
+   "summary": "How to complete Crosstown Traffic in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a walkthrough guide for completing Crosstown Traffic in GTA 6."
+  },
+  {
+   "id": "gta 6 is something close to a miracle says a writer of the original game",
+   "title": "GTA 6 is “something close to a miracle,” says a writer of the original game",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2Flc19aY0JiemE0OFptSEI2NGhNbmNadjRzaWt5SHd5eC0xREtqY3BQaFM4eHpvTUNCZVJJd0NYbW1zNlpYdE41OURvX2NCWFMydm43enM2VUptRG1kWVBlNW9BcDlqeHJqSE51aG5HUW9zSTg4djNUZWZKS1BDNQ?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-23T21:43:22+00:00",
+   "seen": "2026-11-23T21:48:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is described as something close to a miracle by a writer of the original game."
+  },
   {
    "id": "best early game locations for easy cash in gta 6 fast money making explained",
    "title": "Best Early Game Locations For Easy Cash in GTA 6—Fast Money-Making, Explained",
@@ -7851,6 +7877,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports Grand Theft Auto 6 launch record with $3.79B day-one sales."
+  },
+  {
+   "id": "grand theft auto 6 breaks record with 3 79b day one sales https www businesstimes bd com",
+   "title": "Grand Theft Auto 6 Breaks Record with $3.79B Day-One Sales - https://www.businesstimes-bd.com/",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hd1JfVXp6aElyenJNTFZBUFozaUtlUmZyMWk1dGlXM3pub0doOGtzVDFyblF2NXg5QXhFaTdybEVSanhSbjVCblJaSUZLYl9TbllRNkJ1Rjk4X0UyRGV1OFZJUjBheFJ6d2V3?oc=5",
+   "outlet": "https://www.businesstimes-bd.com/",
+   "via": "Google News",
+   "published": "2026-11-23T09:45:59+00:00",
+   "seen": "2026-11-23T21:48:13+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto 6 breaks a day-one sales record with $3.79B."
   },
   {
    "id": "mark zuckerberg turned his wife priscilla chan into a gta 6 character who asks him to bring groceries an",
