@@ -1,109 +1,174 @@
 {
- "updated": "2026-11-23T10:09:07+00:00",
- "started": "2026-11-23T10:09:04+00:00",
+ "updated": "2026-11-23T10:14:05+00:00",
+ "started": "2026-11-23T10:13:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-23T10:09:04+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-23T10:14:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 39,
-   "checked": "2026-11-23T10:09:05+00:00"
+   "checked": "2026-11-23T10:14:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-23T10:09:05+00:00"
+   "checked": "2026-11-23T10:14:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T10:09:05+00:00"
+   "checked": "2026-11-23T10:14:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T10:09:05+00:00"
+   "checked": "2026-11-23T10:14:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T10:09:06+00:00"
+   "checked": "2026-11-23T10:14:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T10:09:06+00:00"
+   "checked": "2026-11-23T10:14:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T10:09:06+00:00"
+   "checked": "2026-11-23T10:14:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:09:06+00:00"
+   "checked": "2026-11-23T10:14:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T10:09:07+00:00"
+   "checked": "2026-11-23T10:14:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T10:09:07+00:00"
+   "checked": "2026-11-23T10:14:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T10:09:07+00:00"
+   "checked": "2026-11-23T10:14:02+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T10:09:07+00:00"
+   "checked": "2026-11-23T10:14:02+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T10:09:07+00:00"
+   "checked": "2026-11-23T10:14:02+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 actor has no idea who he plays asks fans to find his character",
+   "title": "GTA 6 actor has no idea who he plays & asks fans to find his character",
+   "link": "https://www.dexerto.com/gta/gta-6-actor-has-no-idea-who-he-plays-asks-fans-to-find-his-character-3430573/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-23T10:13:24+00:00",
+   "seen": "2026-11-23T10:14:02+00:00",
+   "summary": "The actor behind an NPC in GTA 6 is sending players on a manhunt to find him, as he has no idea who his character actually is.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The actor behind a GTA 6 NPC is asking fans to identify his character because he does not know who it is."
+  },
+  {
+   "id": "gta 6 coming home mission guide picking up lucia and the night at the rusty anchor",
+   "title": "GTA 6 Coming Home mission guide: picking up Lucia and the night at the Rusty Anchor",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlBwLWlLTWF1SHVxMDZpWEc0SG5GOUh6YkhoTXRJWHJPX2lLYS1BQU9QYmJqaGtVb2lVd1NjTWtTUjBjUERxOWplTlJSRTF1MF9uZ1RZZV9SR0J1aUVTVzBqbE4wUEltdUQ2enpucFA1QjBfY2xMUjJfYUl0WUw2MUpuQzFvTmRxcl9BbXN6MFkzQXFiOWhwYUlhMzRyZTNBOXpRYQ?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T10:11:44+00:00",
+   "seen": "2026-11-23T10:14:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 Coming Home mission guide covers picking up Lucia and the night at the Rusty Anchor."
+  },
+  {
+   "id": "what real estate agents can learn from serhant s gta 6 day off",
+   "title": "What real estate agents can learn from SERHANT’s GTA 6 day off",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zNFI0dkVxbzJ1VDBaWndKUVVTaGpySkQ3QkFCM1N2MnVMaHdsWndLdl9uLVB2S1FyRjhwSm5ZdzJaTWFKWExMZUpiQVZsYmN1X3hON0dDYUh4Y2Z0UDF3X2lDQ2F2aWhuQ1VhRVh3?oc=5",
+   "outlet": "Inman Real Estate News",
+   "via": "Google News",
+   "published": "2026-11-23T10:07:07+00:00",
+   "seen": "2026-11-23T10:14:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Real estate lessons from SERHANT’s GTA 6 day off are discussed by Inman Real Estate News."
+  },
+  {
+   "id": "gta 6 capped at 30 fps on ps5 pro due to cpu limits rockstar games confirms",
+   "title": "GTA 6 capped at 30 FPS on PS5 Pro due to CPU limits, Rockstar Games confirms",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTYyYVMwV1JwV29VYjVpQkp4eWNzNjhJMVNtVlhNQVJDWG5BdGJpanFjZWhLb01NUERBOEUzS3dHMFBjeFBxeG1FV1l2Sm56cDk0cEhFSS1EdmVaaU1ENFNQZnI4aHV0bXFtLVlIWjRmQTFfN21hZUFuenZ2ZTZqY0x1Z0tsSkJkZXBBX09KU3VfelVfbU83Vzg2Tm5uZ0JOQlNsV1V6c2hzR1ExcFZzanVYRWpoYVU?oc=5",
+   "outlet": "IOL",
+   "via": "Google News",
+   "published": "2026-11-23T10:02:56+00:00",
+   "seen": "2026-11-23T10:14:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 runs at 30 FPS on PS5 Pro due to CPU limits, according to Rockstar Games."
+  },
+  {
+   "id": "a few hours inside gta vi and you know this is a groundbreaking game",
+   "title": "A few hours inside GTA VI and you know this is a groundbreaking game",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd01mRGJDMEJiOTZVYmN4Uno3cWw5Njk4ZUtBSktxbTFZZUFCT3FWNHZDbjlTdE5RZkgwdzdYaFdGVGJhczg0THZpVGF5dWRweHlSN3pnYkh0ZVpBb3h0Q3I2eG1rZzhMck92N0FLRTRKSnVfc21jRjFOdmIzMkxpNEtlOWtXWmgyejJFa25aQXhvckJkckN3WFE1cFRLaDgtZlNSQlFaM19PS1k?oc=5",
+   "outlet": "Techgoondu",
+   "via": "Google News",
+   "published": "2026-11-23T10:00:30+00:00",
+   "seen": "2026-11-23T10:14:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A few hours with GTA VI show this is a groundbreaking game."
+  },
   {
    "id": "gta 6 s story seemingly confirms leak revealing rockstar s next game",
    "title": "GTA 6's story seemingly confirms leak revealing Rockstar's next game",
@@ -116,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6's story seemingly confirms a leak about Rockstar's next game."
+  },
+  {
+   "id": "was gta 6 worth the 13 year wait",
+   "title": "Was GTA 6 worth the 13-year wait?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzBoNkRiTzRmSnE1alBhSEY4Vjh6Q01fSEdoU2FBNjhtQ3JTVkNYbFd6UkJob2F6NndISVlRMEhSeDJheGkwU3dVT0UxdE9aenlJZU5XNzI4Ymp5Zlk3MXdobTJHc1ZpYW5TUzdtRXY3ZThLeUp0UnhpdmRncW1nMWc4OA?oc=5",
+   "outlet": "WUSF",
+   "via": "Google News",
+   "published": "2026-11-23T10:00:00+00:00",
+   "seen": "2026-11-23T10:14:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Discussion on whether GTA 6 was worth the 13-year wait."
   },
   {
    "id": "gta 6 drew 61 of active us ps5 players on launch day circana says",
