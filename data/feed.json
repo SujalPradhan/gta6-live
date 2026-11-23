@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:31:23+00:00",
- "started": "2026-11-23T16:31:15+00:00",
+ "updated": "2026-11-23T16:36:22+00:00",
+ "started": "2026-11-23T16:36:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T16:31:15+00:00"
+   "checked": "2026-11-23T16:36:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-23T16:31:15+00:00"
+   "hits": 42,
+   "checked": "2026-11-23T16:36:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 76,
-   "checked": "2026-11-23T16:31:16+00:00"
+   "checked": "2026-11-23T16:36:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:31:16+00:00"
+   "checked": "2026-11-23T16:36:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T16:31:16+00:00"
+   "checked": "2026-11-23T16:36:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T16:31:16+00:00"
+   "checked": "2026-11-23T16:36:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T16:31:17+00:00"
+   "checked": "2026-11-23T16:36:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 22,
-   "checked": "2026-11-23T16:31:17+00:00"
+   "hits": 21,
+   "checked": "2026-11-23T16:36:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T16:31:17+00:00"
+   "checked": "2026-11-23T16:36:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T16:31:18+00:00"
+   "checked": "2026-11-23T16:36:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 11,
-   "checked": "2026-11-23T16:31:18+00:00"
+   "hits": 10,
+   "checked": "2026-11-23T16:36:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T16:31:18+00:00"
+   "checked": "2026-11-23T16:36:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T16:31:18+00:00"
+   "checked": "2026-11-23T16:36:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T16:31:18+00:00"
+   "checked": "2026-11-23T16:36:18+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 s first patch fixes some crashes and bugs",
+   "title": "GTA 6's First Patch Fixes Some Crashes And Bugs",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ycUdTbjdlUHlZUXAxcVdMSnVMcWF5b3FnZTRQV2s4Ukp1VEE4OS1JalJQVENUVHdSRTBndFVXOEZjWUh1NmZ1RllRSUtjZmNxNFVQQmFkT0VQM0FWUDhmNkhYeGdvczlSWTM2cGNPRUVwR3VhU19zY0VLd1A5ZTA?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-23T16:30:02+00:00",
+   "seen": "2026-11-23T16:36:16+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The patch fixes some crashes and bugs in GTA 6."
+  },
+  {
+   "id": "every player now knows gta 6 s best kept secret but that surprise is actually the key to the game s entire design",
+   "title": "Every Player Now Knows GTA 6’s Best-Kept Secret, but That Surprise Is Actually the Key to the Game’s Entire Design",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV2pSUUg2V2hTZ2xSLXVsTWg1VTVwN0VkWUNzMTloaGgwdE1sR2lodTZKT0lvODYzVkJfRFlYdzBISGdDdFhTUDdsREtUUWYza3NkbVJkc2hEaXRvMHVNc0l1azlrc19fZElaZzgybVg0QmdsdEhDNV9na2tSUlExSWh1UWw1Mk9pWEJv?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-23T16:30:00+00:00",
+   "seen": "2026-11-23T16:36:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims every player knows GTA 6's best-kept secret, which is said to be the key to the game's design."
+  },
+  {
+   "id": "gta 6 is a last of its kind aaa game execs won t be trying to copy analyst says",
+   "title": "GTA 6 is a \"last of its kind\" AAA game execs won't be trying to copy, analyst says",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-last-of-its-kind-aaa-game-execs-wont-be-trying-to-copy-analyst-says-because-theyve-learned-you-cant-make-the-next-fortnite-or-a-world-of-warcraft-killer/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-23T16:28:47+00:00",
+   "seen": "2026-11-23T16:36:17+00:00",
+   "summary": "Rockstar's always a tough act to follow, anyway",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Analysts say GTA 6 is a last of its kind AAA game that executives won't try to copy."
+  },
   {
    "id": "all illegal operations locations key valuables in gta 6",
    "title": "All Illegal Operations Locations & Key Valuables In GTA 6",
@@ -183,6 +222,19 @@
    "ai_summary": "The story reports GTA 6 price includes a $79.99 listing and taxes raise the total near $86.82 in New York."
   },
   {
+   "id": "how to start and complete the creepy photos missing persons side mission in gta 6 chapter 2",
+   "title": "How to start and complete the \"Creepy Photos\" Missing Persons side mission in GTA 6 Chapter 2",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa0UxVDNSZUwwYkhnRDdaQ0Q2LXNYcURJUlExMmJlWmE1S3BSNXJXc1BOUU5TZFJ0dDBOWlRMVU5wbFZjTC1td2FFaUFCNTlMMHVZMzVUYWZIWFVPN0Z6R01CelF0XzRWd0xWeV9TaWEwcWdaRDNqZFZIUENDbzhpZHp3WGhhYndETFhodm13WVI1czc4WDE2ZzFadjA2N1hpenJjU2d3amhpYkxzaWtzLXgtYWV3OG1pQ3dLcnNKUklwMUNCYlVjRA?oc=5",
+   "outlet": "Windows Central",
+   "via": "Google News",
+   "published": "2026-11-23T16:22:03+00:00",
+   "seen": "2026-11-23T16:36:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Instructions explain how to start and complete the Creepy Photos Missing Persons side mission in GTA 6 Chapter 2."
+  },
+  {
    "id": "how to find the serial killer in gta 6",
    "title": "How to find the serial killer in GTA 6",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-missing-persons-locations-and-how-to-find-the-serial-killer/",
@@ -220,6 +272,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A judge frees the hacker behind the 2022 GTA 6 leak with a warning to avoid repeats."
+  },
+  {
+   "id": "gta 6 update 01 002 002 patch notes rockstar confirms 7 fixes",
+   "title": "GTA 6 Update 01.002.002 Patch Notes: Rockstar Confirms 7 Fixes",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUEd5bDM0MzRLSFczVkdTRzN4cnlkeWs3cnZGV3daMWdNeHlWdl8tRzh6WnhhajllTE0zTUk5ZXVhS3RrOGxLSE9wS1ZSR0ttZVRpQUwwOFRpSUtaZXNmRHZoQTRGYWFuRUFyYmFiZ29Hc1BXeTZaUUVTZVpaeWl3dG5DV0dpU2NaMi1ZRjVHLUxDX3VkRWRqeFd0ZFFjWk0?oc=5",
+   "outlet": "Game News Plus",
+   "via": "Google News",
+   "published": "2026-11-23T16:18:24+00:00",
+   "seen": "2026-11-23T16:36:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Patch notes for Update 01.002.002 list seven fixes confirmed by Rockstar."
   },
   {
    "id": "you can visit the original vice city in gta 6 with this hidden easter egg",
