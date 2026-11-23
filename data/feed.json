@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:01:56+00:00",
- "started": "2026-11-23T18:01:49+00:00",
+ "updated": "2026-11-23T18:06:58+00:00",
+ "started": "2026-11-23T18:06:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T18:01:49+00:00"
+   "checked": "2026-11-23T18:06:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-23T18:01:50+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 49,
+   "checked": "2026-11-23T18:06:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-23T18:01:50+00:00"
+   "checked": "2026-11-23T18:06:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T18:01:50+00:00"
+   "checked": "2026-11-23T18:06:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T18:01:51+00:00"
+   "checked": "2026-11-23T18:06:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T18:01:51+00:00"
+   "checked": "2026-11-23T18:06:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:01:51+00:00"
+   "checked": "2026-11-23T18:06:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T18:01:51+00:00"
+   "checked": "2026-11-23T18:06:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T18:01:51+00:00"
+   "checked": "2026-11-23T18:06:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T18:01:52+00:00"
+   "checked": "2026-11-23T18:06:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 10,
-   "checked": "2026-11-23T18:01:52+00:00"
+   "hits": 11,
+   "checked": "2026-11-23T18:06:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T18:01:52+00:00"
+   "checked": "2026-11-23T18:06:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T18:01:53+00:00"
+   "checked": "2026-11-23T18:06:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T18:01:53+00:00"
+   "checked": "2026-11-23T18:06:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 leaker cyberleek reportedly releases exe file for xbox build sparking concern an unofficial pc port could be around the corner",
+   "title": "GTA 6 Leaker Cyberleek Reportedly Releases .exe File for Xbox Build, Sparking Concern an Unofficial PC Port Could Be Around the Corner",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcVlpdlBVRkRqdEhQck56cThUd0NyeXZXRngwNXFVNmZTaTVzdVM1b0dBQzhuaFNhMGZ4Q2lrM1ZjbHczUXYzek5HX2hIdGhZeXl1TFBqckc1UUc3Z2NSWFNzaVZqbXpGYXktOTgtc0REUzBCS1daRUpSZXoycXJrVGwzb1VsMGEtNEdFeWJTVi05b3lucHFRVUF5UmZ5SzA2NmppQlFLNzZoQ0VEMTBrUVhCczRkSEV0NURUOTJDTjd5YnMwWDBSMTJBSmdqYmtfcS1kcWMwRjVNS2Q4SGJZT3YtTDgtbml4Y29Xa291R2RocG8?oc=5",
+   "outlet": "IGN Southeast Asia",
+   "via": "Google News",
+   "published": "2026-11-23T18:02:09+00:00",
+   "seen": "2026-11-23T18:06:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An unofficial PC port concern arises as a .exe file for an Xbox build is reportedly released by a GTA 6 leaker."
+  },
+  {
+   "id": "gta 6 and zelda ocarina of time are gaming s barbenheimer and their releases will define an era",
+   "title": "GTA 6 and Zelda: Ocarina of Time Are Gaming’s Barbenheimer, and Their Releases Will Define an Era",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVHFjamlheFE1blU5a20xY0NqNzNXWlZfbU9OZW03TzlRQ0kwRzF0ZkxaLWpJbzdrN1JHamRzUlJrTWU2bUhjZWM4dWEwOFBsNDk2TS1KU2gwVTNpTFdOUkxFV0tJS1owVEU5RG1MTHh6Y0JValZEeUV1TmNUQTY1MUFTeUNweGd0bkQzVENSLXJNZFkwbnE0MGExUENnX2trSGpPNTVhazRoaUFCX2d5MFdTWFJiaEJYYnJpb2FjLUdTaFI1bW4yTTQ1SEE?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-23T18:02:01+00:00",
+   "seen": "2026-11-23T18:06:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 and Zelda: Ocarina of Time are described as gaming’s Barbenheimer, with releases expected to define an era."
+  },
+  {
+   "id": "gta 6 easter egg takes you back to vice city in 2002",
+   "title": "GTA 6 easter egg takes you back to Vice City in 2002",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0EwUmExWlpPMVhzbFJjTWRrd1ctQ3RYM1BvOGpQUVFFdDBmM0xYcDZraTExYkVZdU1oY1NqLUxvaEtESWVVeE9BUzI5eHpxTHhXVnotOXpISmZjM2lma0dKTm1LOFhIVHJ1NDBDNEdRcmZJSUhiVXdtbmRsLTJPRzZXV2xRcnBINDN3T3hjQk94UDVYZ0xCcjB2UVJYdw?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-23T18:01:00+00:00",
+   "seen": "2026-11-23T18:06:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 easter egg apparently leads players back to Vice City in 2002."
+  },
+  {
+   "id": "gta vi just outdid every festival with the year s most exciting music lineup",
+   "title": "GTA VI just outdid every festival with the year’s most exciting music lineup",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ncGI2RXhrQWlId0ZnQ3ZfS0Z5OVYwbzhIWVNGQmUzV2w3aW4tT1J6aGRfd2g4ZEU3ZXlWYlVyc1FqX2dDY0hkSjNCRmRlUkVFdVFOYnQ5WlVlcTlnd29FZGxBXzg5UmdIb1E?oc=5",
+   "outlet": "Vogue Adria",
+   "via": "Google News",
+   "published": "2026-11-23T18:00:06+00:00",
+   "seen": "2026-11-23T18:06:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI is highlighted for its music lineup, described as the year's most exciting."
+  },
   {
    "id": "quote of the day from telegram ceo gta 6 s hardened criminals should be using my product",
    "title": "Quote of the Day from Telegram CEO: GTA 6's hardened criminals should be using my product",
@@ -116,6 +168,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a quote from the Telegram CEO suggesting GTA 6's hardened criminals should be using his product, described as fascinating advertising."
+  },
+  {
+   "id": "gta 6 s unlocked frame rate glitch tested is there a case for 40fps",
+   "title": "GTA 6's Unlocked Frame-Rate Glitch Tested: Is There a Case for 40fps?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEFROUtiM3lQNVI3VDNRMXdRMkhIOG5rNl9ZczNmUmpUWmtsc2xyb0pvNjc1SFE5UXhSbmc0a3h5b0dvM0FQOVF1QVRGRGgxVTdlRUk1eURRdktFbkUzSDFjY2pMalB6UXVrNG8zQ2NpQ2daV0hROXIxSXgtVUlNRDNXWjRPSjNCQy15VHhoamhGcUdXNjBGV0xDR3JpN1VvOEF1MG8wQktfZw?oc=5",
+   "outlet": "Digital Foundry",
+   "via": "Google News",
+   "published": "2026-11-23T18:00:00+00:00",
+   "seen": "2026-11-23T18:06:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Discussion on GTA 6’s unlocked frame-rate glitch and potential case for 40fps."
+  },
+  {
+   "id": "gta 6 vintage vice city pack now available to all players on xbox and it s pretty cheap",
+   "title": "GTA 6 Vintage Vice City Pack Now Available To All Players On Xbox, And It's Pretty Cheap",
+   "link": "https://www.purexbox.com/news/2026/11/gta-6-vintage-vice-city-pack-now-available-to-all-players-on-xbox-and-its-pretty-cheap",
+   "outlet": "Pure Xbox",
+   "via": "Pure Xbox",
+   "published": "2026-11-23T18:00:00+00:00",
+   "seen": "2026-11-23T18:06:53+00:00",
+   "summary": "\"Flash back to when the neon burned brightest\". Ahead of the release of GTA 6 , there were three types of content made available for it - the standard game, the Ultimate Edition content, and the Vintage Vice City Pack. The latter was intended as a pre-order bonus across Xbox and PS5. Now that the game is out in the wild though, Rockstar Games has decided to make the Vintage Vice City Pack availabl",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The Vintage Vice City Pack for GTA 6 is now available to all Xbox players at a low price, following prior pre-order bonuses."
   },
   {
    "id": "gta 6 should you get in the chamber in the final flush",
