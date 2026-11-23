@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T15:25:52+00:00",
- "started": "2026-11-23T15:25:43+00:00",
+ "updated": "2026-11-23T15:31:03+00:00",
+ "started": "2026-11-23T15:30:56+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T15:25:44+00:00"
+   "checked": "2026-11-23T15:30:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-23T15:25:44+00:00"
+   "hits": 41,
+   "checked": "2026-11-23T15:30:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-23T15:25:45+00:00"
+   "hits": 73,
+   "checked": "2026-11-23T15:30:57+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T15:25:45+00:00"
+   "checked": "2026-11-23T15:30:57+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T15:25:45+00:00"
+   "checked": "2026-11-23T15:30:58+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T15:25:45+00:00"
+   "checked": "2026-11-23T15:30:58+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 27,
-   "checked": "2026-11-23T15:25:45+00:00"
+   "checked": "2026-11-23T15:30:59+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T15:25:45+00:00"
+   "checked": "2026-11-23T15:30:59+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T15:25:46+00:00"
+   "checked": "2026-11-23T15:30:59+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T15:25:46+00:00"
+   "checked": "2026-11-23T15:31:00+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T15:25:47+00:00"
+   "checked": "2026-11-23T15:31:00+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T15:25:47+00:00"
+   "checked": "2026-11-23T15:31:00+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T15:25:47+00:00"
+   "checked": "2026-11-23T15:31:00+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T15:25:47+00:00"
+   "checked": "2026-11-23T15:31:01+00:00"
   }
  },
  "items": [
+  {
+   "id": "cyberpunk 2 director jokes game is cancelled after seeing gta 6",
+   "title": "Cyberpunk 2 director jokes game is “cancelled” after seeing GTA 6",
+   "link": "https://www.dexerto.com/gta/cyberpunk-2-director-jokes-game-is-cancelled-after-seeing-gta-6-3430664/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-23T15:27:51+00:00",
+   "seen": "2026-11-23T15:30:59+00:00",
+   "summary": "Cyberpunk 2’s creative director has joked that the sequel is “cancelled” after seeing what Rockstar has achieved with GTA 6.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The director joked that Cyberpunk 2 is cancelled after seeing GTA 6."
+  },
+  {
+   "id": "these are the road rage moments most mirrored gta 6 in your real life",
+   "title": "These Are The Road Rage Moments Most Mirrored GTA 6 In Your Real Life",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanRKOEZ2YmJNQWhDWGNRWVFqQUd6dWt1Wl9NTFJjVlN6a3NVZFA4eGVQMk5GMU1yZnhvN3VpNDJBN256UjVhYnFvRW02WTRYY2tjT1YxN1dDT040TFhla3Rxb05HZWVqVGV3WkNKUi1nRGJQZC1CTFJNVG1MQ3h1ZXZyRFRMZkN3T1E?oc=5",
+   "outlet": "Jalopnik",
+   "via": "Google News",
+   "published": "2026-11-23T15:25:00+00:00",
+   "seen": "2026-11-23T15:30:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses road rage moments most mirrored GTA 6 in real life."
+  },
   {
    "id": "is carly rae jepsen the true winner of grand theft auto vi",
    "title": "Is Carly Rae Jepsen The True Winner Of Grand Theft Auto VI…?",
@@ -233,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A GTA 6 update fixes phone call bugs that blocked story progress."
+  },
+  {
+   "id": "gta 6 players demand refunds only to discover they don t actually own their digital games",
+   "title": "GTA 6 Players Demand Refunds, Only to Discover They Don’t Actually Own Their Digital Games",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzVWU0ZITTlsel85U2wwV0N5U1JTdUtmUVFyVDZWUzNhbUVwZGdCV2dnTEdxdG1UOVJ0WW1lYnJjVWJYcmpEWURyY00wd0l1QllydHFEMjAtUVFtMzZnZmQ3b1BLNGpnNnE0SG9PaUlUY1dDZjdYOFU5LVYtbzJxc1VqY2l0U1N6Y3c?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T15:09:52+00:00",
+   "seen": "2026-11-23T15:30:56+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players demand refunds and learn they don’t actually own their digital games."
   },
   {
    "id": "stavros halkias explains his politics after gta 6 cameo",
