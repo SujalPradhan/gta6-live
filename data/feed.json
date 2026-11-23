@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T19:27:31+00:00",
- "started": "2026-11-23T19:27:25+00:00",
+ "updated": "2026-11-23T19:32:34+00:00",
+ "started": "2026-11-23T19:32:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T19:27:25+00:00"
+   "checked": "2026-11-23T19:32:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-23T19:27:26+00:00"
+   "hits": 49,
+   "checked": "2026-11-23T19:32:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 75,
-   "checked": "2026-11-23T19:27:26+00:00"
+   "checked": "2026-11-23T19:32:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T19:27:26+00:00"
+   "checked": "2026-11-23T19:32:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T19:27:27+00:00"
+   "checked": "2026-11-23T19:32:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T19:27:27+00:00"
+   "checked": "2026-11-23T19:32:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T19:27:27+00:00"
+   "checked": "2026-11-23T19:32:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T19:27:27+00:00"
+   "checked": "2026-11-23T19:32:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:27:27+00:00"
+   "checked": "2026-11-23T19:32:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T19:27:28+00:00"
+   "checked": "2026-11-23T19:32:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T19:27:28+00:00"
+   "checked": "2026-11-23T19:32:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T19:27:28+00:00"
+   "checked": "2026-11-23T19:32:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:27:28+00:00"
+   "checked": "2026-11-23T19:32:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T19:27:28+00:00"
+   "checked": "2026-11-23T19:32:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi broke every record in 24 hours so why did take two shareholders sell",
+   "title": "GTA VI Broke Every Record in 24 Hours, So Why Did Take-Two Shareholders Sell?",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXpaelllZ20yUFlCRkxhREt6c0o2cE1YZTkyRjZtUXItckQ1NmpISk5JY1RJeU9mblN1M0hqcXRhcXFneHBlTmU2eHZyYTJ0b0NRYnVmRFZFZ2ltUW8xa2dabmlYaW5xNElDdE9xV09takNoQ3o2M05TSmxaZFVmbW9NZnBRQnRoQWdOZ3BVZmRnaGtCenc2UmM1TVFiNEFreU1WWk5la3RWbDZmQ0hEX1VuUmw0YkVqcXRR?oc=5",
+   "outlet": "24/7 Wall St.",
+   "via": "Google News",
+   "published": "2026-11-23T19:28:00+00:00",
+   "seen": "2026-11-23T19:32:28+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI set records in the first 24 hours and questions why Take-Two shareholders sold."
+  },
   {
    "id": "gta 6 first day sales 3 79b and an 8 hour average",
    "title": "GTA 6 First-Day Sales: $3.79B and an 8-Hour Average",
@@ -207,6 +220,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that Lionsgate's release of The Hunger Games alongside GTA VI's launch paid off with a large opening."
+  },
+  {
+   "id": "gta vi hacker sentenced to seven years released same day",
+   "title": "GTA VI Hacker Sentenced to Seven Years, Released Same Day",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeEcxYUdGVlhUWk9UQWVnUVNLenQ4Z0tqUGotMzVfcFJKWlo5cjIyejRWcWtVRXY0NzlIWlhKa21wQXdVc2MyUDFjS29rMUlld3hsMWYtTXFMaElDXzFQRkxLcGFHcDlfTmRjQV9TUURCRjQ4RWJNaVA5Vnd5T1FBUG5RVFpkU3FQbHJwY1AzQQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-23T19:02:46+00:00",
+   "seen": "2026-11-23T19:32:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a GTA VI hacker was sentenced to seven years and released the same day."
   },
   {
    "id": "gta vi is more than a video game it s a branding lesson for entrepreneurs",
@@ -1390,6 +1416,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story says an unofficial GTA 6 Windows port called Leonida would require nearly 350 GB of disk space."
+  },
+  {
+   "id": "gta vi s design took miami and florida as its precedents",
+   "title": "GTA VI’s design took Miami and Florida as its precedents",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91Sk0tWExBYkZoYXZiQ2pMM1B4OWxUZmhQN2U4MGkxTlV5QlBmLUN1QXgyeHJwcXRvNGxMc3E0d3Y1NVdvM3lUT1BYaDhrYTJmdEZGak51OXNnb1VYZzJINA?oc=5",
+   "outlet": "The Architect’s Newspaper",
+   "via": "Google News",
+   "published": "2026-11-23T17:05:35+00:00",
+   "seen": "2026-11-23T19:32:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI’s design drew on Miami and Florida as precedents."
   },
   {
    "id": "why is my plane beeping in gta 6",
