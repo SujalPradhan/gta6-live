@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T19:17:23+00:00",
- "started": "2026-11-23T19:17:14+00:00",
+ "updated": "2026-11-23T19:22:21+00:00",
+ "started": "2026-11-23T19:22:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T19:17:15+00:00"
+   "checked": "2026-11-23T19:22:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-23T19:17:15+00:00"
+   "checked": "2026-11-23T19:22:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-23T19:17:16+00:00"
+   "hits": 75,
+   "checked": "2026-11-23T19:22:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T19:17:16+00:00"
+   "checked": "2026-11-23T19:22:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T19:17:16+00:00"
+   "checked": "2026-11-23T19:22:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T19:17:16+00:00"
+   "checked": "2026-11-23T19:22:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T19:17:17+00:00"
+   "checked": "2026-11-23T19:22:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T19:17:17+00:00"
+   "checked": "2026-11-23T19:22:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:17:17+00:00"
+   "checked": "2026-11-23T19:22:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T19:17:18+00:00"
+   "checked": "2026-11-23T19:22:17+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T19:17:18+00:00"
+   "checked": "2026-11-23T19:22:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T19:17:18+00:00"
+   "checked": "2026-11-23T19:22:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:17:18+00:00"
+   "checked": "2026-11-23T19:22:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T19:17:18+00:00"
+   "checked": "2026-11-23T19:22:18+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 first day sales 3 79b and an 8 hour average",
+   "title": "GTA 6 First-Day Sales: $3.79B and an 8-Hour Average",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOFZaN005c3Z0OGNPR0hibnUtZXcyWndUX0xUTjlHc2hfT05pb1VUQkJTakhUSVpwekpkRzc3dzhmU1NOaTBmdG1oU3RLX3F3aTk4TGlkdTlGNnZlbEMxTTFpeXNwQXlVcWRNRDh1SW52Q010OS16UHlKU01sRUNEVWtjZG1vcDg?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-23T19:20:32+00:00",
+   "seen": "2026-11-23T19:22:15+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 first-day sales totaling $3.79B with an eight-hour average."
+  },
   {
    "id": "gta vi gave florida a mountain the real state is literally flatter than a pancake",
    "title": "GTA VI Gave Florida a Mountain. The Real State Is Literally Flatter Than a Pancake",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Digital Foundry discusses whether GTA 6 could benefit from a 40 FPS mode on Xbox Series X, noting VRR and frame-rate variability."
+  },
+  {
+   "id": "what s the fastest car in gta 6",
+   "title": "What's the fastest car in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWUV6Q01QSzRUZTlPZU1FeVVacWs4VHVhZXRWMnUtZU9YU0prUmYzaGw2Nk9fRExUUlJ6Wk9qZGVveGwteFhpZUF0M1g5OVI4ZWZYaklCWGsxamx4U1M0?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-23T19:08:30+00:00",
+   "seen": "2026-11-23T19:22:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story asks which is the fastest car in GTA 6."
   },
   {
    "id": "mario easter egg discovered in gta vi",
@@ -454,6 +480,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes you can buy AirPods knockoffs in GTA 6 and listen to the radio on foot."
+  },
+  {
+   "id": "ps5 and xbox series sales increase over 2 3 times year on year in the us ahead of gta 6 launch",
+   "title": "PS5 and Xbox Series Sales Increase Over 2.3 Times Year-on-Year in the US Ahead of GTA 6 Launch",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFNxTVFEekJzQWhmbkZkNTJPM09PUUtremh3b3FFRERyMkZCRWhQZUJWa3k1LUtLVEtYSlBNTTlQSzVmSE00d1otOW9sUHZUTnR2dDFpX2prbnozTV9WWkgxTk9oLVpqV0NDSEx3UExBNWYxc1RXMHVleWVKNmxidkNpQnR0bUdZM3lzNnVDUG1WVWNTdFpVenVtdV8yaU0yVFpNd3FnRHB4b2JueWZJVHFRblNteWJSRnl3SDNraGFfRUZKMmkyNXV5bmlHVjg?oc=5",
+   "outlet": "VGChartz",
+   "via": "Google News",
+   "published": "2026-11-23T18:33:09+00:00",
+   "seen": "2026-11-23T19:22:16+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story notes PS5 and Xbox Series sales increased year-on-year in the US ahead of GTA 6 launch."
   },
   {
    "id": "gta 6 has made more than 4x that of gta 5 s day one revenue",
