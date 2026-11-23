@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T15:00:42+00:00",
- "started": "2026-11-23T15:00:34+00:00",
+ "updated": "2026-11-23T15:05:44+00:00",
+ "started": "2026-11-23T15:05:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T15:00:35+00:00"
+   "checked": "2026-11-23T15:05:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-23T15:00:35+00:00"
+   "checked": "2026-11-23T15:05:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-23T15:00:36+00:00"
+   "hits": 74,
+   "checked": "2026-11-23T15:05:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T15:00:36+00:00"
+   "checked": "2026-11-23T15:05:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T15:00:36+00:00"
+   "checked": "2026-11-23T15:05:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-23T15:00:36+00:00"
+   "hits": 54,
+   "checked": "2026-11-23T15:05:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 29,
-   "checked": "2026-11-23T15:00:37+00:00"
+   "checked": "2026-11-23T15:05:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T15:00:37+00:00"
+   "checked": "2026-11-23T15:05:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-23T15:00:37+00:00"
+   "hits": 7,
+   "checked": "2026-11-23T15:05:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 19,
-   "checked": "2026-11-23T15:00:38+00:00"
+   "hits": 18,
+   "checked": "2026-11-23T15:05:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T15:00:38+00:00"
+   "checked": "2026-11-23T15:05:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T15:00:38+00:00"
+   "checked": "2026-11-23T15:05:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T15:00:38+00:00"
+   "checked": "2026-11-23T15:05:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T15:00:39+00:00"
+   "checked": "2026-11-23T15:05:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "it s not just a song on the radio how music became a main character in grand theft auto vi",
+   "title": "‘It’s Not Just a Song on the Radio’: How Music Became A Main Character In ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0R6ZEtaN01CTFpEMmNnZWRFMlZEM3hBTGdrdDlIUzFsVWRocVRFaGxKQTRXX2FvOXFWREN6NU55aVQ0c215M1JYbnhsa0xiWEJoSWVWa2xrUVdFX1lSSktDbDNNZUlxVDR3MGhKNzRqNWN1VzBvWVF3elJjdU1wV1hpaWlRU1QtUWVxYi13eEo4ejduYmZnRXNfV2FEUE4zM0I3OVVsT08?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-23T15:00:09+00:00",
+   "seen": "2026-11-23T15:05:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses music becoming a main character in Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 how to get donnie s revolver",
+   "title": "GTA 6: How To Get Donnie’s Revolver",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NUjJNNWVFbmhEZF9hS2x6YkFGVEcxMGwwUTdOU0VVRGYzQ0ZPOVUzbFlsRjZBY0lmOTR6QVR1SDRmNlNVVkE2bExhTGFDcHJKdWZROFFYMVdnOUhMZDM1VERNS2cyV1ZrZlJaTFhxREE?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-23T15:00:01+00:00",
+   "seen": "2026-11-23T15:05:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece explains how to obtain Donnie’s revolver in GTA 6."
+  },
+  {
+   "id": "the secret controls gta 6 doesn t tell you about how to flip your car flip the bird and much more",
+   "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVmlDSnRvT2FSTmNmcUtZQUE1U3Eta2pVNTRBR0RXVFRTOVN2eHdVZFJBMjJ2V1g1YTBNdU5LVDNlbWxURTk3NHlPZll3blNEcUFEOWU0cDdpQS1tdzRyWTZiUUVIT01ZRWc?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-23T15:00:00+00:00",
+   "seen": "2026-11-23T15:05:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article reveals secret GTA 6 controls for flipping cars and more."
+  },
+  {
+   "id": "how to unlock hidden radio stations in gta 6",
+   "title": "How to Unlock Hidden Radio Stations in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGtEZVVDM3VaeTAtZFpueUNDRlY2cXFSNmw1djJ0VXNSTnYtRHQ1Q1U4WVZBZzFNbHltSnRoZGQ4a2hwd05VRDdlREpqeWZOR3NNaUNwcVphUTY5MmJWSGcyZmpFaWJLdk5pSktKaTdlVEZDR2I2UnZ2OXRfc0pFX0FXVm9leWtvdnkxbEZR?oc=5",
+   "outlet": "GameTyrant",
+   "via": "Google News",
+   "published": "2026-11-23T15:00:00+00:00",
+   "seen": "2026-11-23T15:05:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to unlock hidden radio stations in GTA 6."
+  },
   {
    "id": "rockstar s mobile downloads more than quadrupled thanks to gta vi",
    "title": "Rockstar’s mobile downloads more than quadrupled thanks to GTA VI",
@@ -3964,6 +4016,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story claims Rockstar's next game is L.A. Noire 2 and will be the best-looking game ever made, according to a 2023 leaker who reportedly got GTA VI's plot mostly right."
+  },
+  {
+   "id": "gta 6 rakes in approximately 3 8 billion on day one players average 8 hours each as games push back against the short form era",
+   "title": "GTA 6 Rakes In approximately $3.8 Billion on Day One; Players Average 8 Hours Each as Games Push Back Against the Short-Form Era",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnYU5xTEFpaHN5VlFXVUJlazZHUlRuUHdPU0xQZW5hUUdIY1JXMUdtMC1PWTgwQ1pxTWc3VWM2SUZtUWpib09tRUVNbFlwQVJtalZacHdGcWpHc3RlYkZDbWZtaE1qTlhvdnkzWHMtbF9ONWJjeFE?oc=5",
+   "outlet": "BigGo Finance",
+   "via": "Google News",
+   "published": "2026-11-23T08:55:00+00:00",
+   "seen": "2026-11-23T15:05:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The report notes GTA 6 earned about $3.8 billion on day one and players averaged eight hours."
   },
   {
    "id": "the gta 6",
