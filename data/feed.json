@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T06:47:55+00:00",
- "started": "2026-11-23T06:47:49+00:00",
+ "updated": "2026-11-23T06:52:58+00:00",
+ "started": "2026-11-23T06:52:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T06:47:49+00:00"
+   "checked": "2026-11-23T06:52:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-23T06:47:49+00:00"
+   "hits": 36,
+   "checked": "2026-11-23T06:52:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-23T06:47:50+00:00"
+   "hits": 79,
+   "checked": "2026-11-23T06:52:53+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T06:47:50+00:00"
+   "checked": "2026-11-23T06:52:53+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T06:47:50+00:00"
+   "checked": "2026-11-23T06:52:53+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T06:47:50+00:00"
+   "checked": "2026-11-23T06:52:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T06:47:51+00:00"
+   "checked": "2026-11-23T06:52:54+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T06:47:51+00:00"
+   "checked": "2026-11-23T06:52:55+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T06:47:51+00:00"
+   "checked": "2026-11-23T06:52:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T06:47:51+00:00"
+   "checked": "2026-11-23T06:52:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T06:47:51+00:00"
+   "checked": "2026-11-23T06:52:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T06:47:51+00:00"
+   "checked": "2026-11-23T06:52:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T06:47:51+00:00"
+   "checked": "2026-11-23T06:52:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T06:47:52+00:00"
+   "checked": "2026-11-23T06:52:56+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "GTA VI actress Lexie Shoaibi streams with Hasan Piker."
+  },
+  {
+   "id": "gta 6 xbox build leak what we know about the 209 gb files and pc port talk",
+   "title": "GTA 6 Xbox Build Leak: What We Know About the 209 GB Files and PC Port Talk",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnJqX2Q3V0dfZE42VXJXeEE1YkVHeEJCSHZaTmNpWEhGcDE2eUdwZHJ6MWRPSmxVS1J4NHdBTlp6bE9qcEV1aXVVZE9zSFRjMWltNFBUeUc3VE9EOWp5VnhVVWZVVkNMR3pMc3NpU3JaWk8tb2RSa0FpV0QweEY0WTJaYWVxSFEwSUJmdEN5Xy1PUzNZMEFfa0NWOHJKbkJqQy0tZUw3LURNa0d6VGc?oc=5",
+   "outlet": "Around Prague",
+   "via": "Google News",
+   "published": "2026-11-23T06:40:21+00:00",
+   "seen": "2026-11-23T06:52:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on a GTA 6 Xbox build leak and discusses the 209 GB files and PC port talk."
   },
   {
    "id": "gta 6 safehouses explained when each one unlocks and what you can do inside",
@@ -298,6 +311,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Shashi Tharoor plays GTA 6 and calls demonetisation 'grand theft without auto.'"
+  },
+  {
+   "id": "caseoh delights fans with chaotic gta 6 streams",
+   "title": "CaseOh Delights Fans with Chaotic GTA 6 Streams",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JV1RKOWFmZkxPUDVsR2F4MmFYNUswWHdoLUY3U2NzYlM4WEpKYUlJRXRsaWE4OTFKR3B5Z005anpoQy1kNDd4SlEtT0tZN285emx1TXpwbw?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-23T04:48:04+00:00",
+   "seen": "2026-11-23T06:52:52+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports that CaseOh delights fans with chaotic GTA 6 streams."
   },
   {
    "id": "gta 6 xbox quick resume glitch hits 60fps but runs gameplay at double speed",
@@ -4094,6 +4120,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece notes a Red Dead Redemption Easter Egg in GTA 6 that serves as a subtle nod to Arthur Morgan."
+  },
+  {
+   "id": "take two interactive software inc ttwo stock price news quote and history",
+   "title": "Take-Two Interactive Software, Inc. (TTWO) stock price, news, quote and history",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aVUZHZTdGNHl0MXZ4b0toZDBtZFRJUXYzZmNEZ3RfWlNXNTkwU3gyRF90TXFFSXBSNkhOQnE4WEVzUkVHMWY5czRNTWJTUDJweGc?oc=5",
+   "outlet": "Yahoo Finance UK",
+   "via": "Google News",
+   "published": "2026-11-22T15:15:35+00:00",
+   "seen": "2026-11-23T06:52:53+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports stock price, news, quote, and history for Take-Two Interactive Software, Inc."
   },
   {
    "id": "gta 6 early pc port rumors grow as xbox build leaked online",
