@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T19:12:19+00:00",
- "started": "2026-11-23T19:12:12+00:00",
+ "updated": "2026-11-23T19:17:23+00:00",
+ "started": "2026-11-23T19:17:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T19:12:12+00:00"
+   "checked": "2026-11-23T19:17:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-23T19:12:13+00:00"
+   "hits": 49,
+   "checked": "2026-11-23T19:17:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-23T19:12:13+00:00"
+   "checked": "2026-11-23T19:17:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T19:12:13+00:00"
+   "checked": "2026-11-23T19:17:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T19:12:14+00:00"
+   "checked": "2026-11-23T19:17:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T19:12:14+00:00"
+   "checked": "2026-11-23T19:17:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 22,
-   "checked": "2026-11-23T19:12:14+00:00"
+   "hits": 21,
+   "checked": "2026-11-23T19:17:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T19:12:15+00:00"
+   "checked": "2026-11-23T19:17:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:12:15+00:00"
+   "checked": "2026-11-23T19:17:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T19:12:15+00:00"
+   "checked": "2026-11-23T19:17:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T19:12:16+00:00"
+   "checked": "2026-11-23T19:17:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T19:12:16+00:00"
+   "checked": "2026-11-23T19:17:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T19:12:16+00:00"
+   "checked": "2026-11-23T19:17:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T19:12:16+00:00"
+   "checked": "2026-11-23T19:17:18+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi gave florida a mountain the real state is literally flatter than a pancake",
+   "title": "GTA VI Gave Florida a Mountain. The Real State Is Literally Flatter Than a Pancake",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSm5FVHQ3eU5mOS1aTlduYUdTX0ROdlZ2Z05SRk9BbHMxQ3hnaHpWWDIyMmtIOXhfNFRScFZ1RXBrTzdMVHBLNmY4TzV3WElKbllJMGhXUk93dDhKRGdyUjdWQjA3YVdtY2hQZW1ja19oWmJSZm84YnJrSWhNTWZxMVM5QUF3eFBVVkJDRWU0RmNnS0VtYzZYQlU2LW1MUUg1WE9XNWp4X2hpcHYxUkluaDREUUgxM1p0OWMtUDh0WGJQT0dfOGxMQVN3?oc=5",
+   "outlet": "ZME Science",
+   "via": "Google News",
+   "published": "2026-11-23T19:12:58+00:00",
+   "seen": "2026-11-23T19:17:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI reportedly created a mountain in Florida while the real state is flatter than a pancake."
+  },
+  {
+   "id": "digital foundry analyses whether gta 6 could benefit from 40fps on xbox series x",
+   "title": "Digital Foundry Analyses Whether GTA 6 Could Benefit From 40FPS On Xbox Series X",
+   "link": "https://www.purexbox.com/news/2026/11/digital-foundry-analyses-whether-gta-6-could-benefit-from-40fps-on-xbox-series-x",
+   "outlet": "Pure Xbox",
+   "via": "Pure Xbox",
+   "published": "2026-11-23T19:10:00+00:00",
+   "seen": "2026-11-23T19:17:18+00:00",
+   "summary": "\"A 40fps mode with VRR could still make sense\". Over the weekend, there was a whole lot of buzz amongst the GTA 6 community about a Quick Resume glitch that unlocks the game's frame rate on Xbox Series X and S , potentially allowing it to reach 60FPS and higher. Follow-up tests showed that the results were averaging more around the 30-35FPS range consistently, and some of the game's animations app",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Digital Foundry discusses whether GTA 6 could benefit from a 40 FPS mode on Xbox Series X, noting VRR and frame-rate variability."
+  },
   {
    "id": "mario easter egg discovered in gta vi",
    "title": "Mario Easter egg discovered in GTA VI",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a Mario Easter egg discovered in GTA VI."
+  },
+  {
+   "id": "gta vi launch weekend sales estimated at 44 9 million copies",
+   "title": "GTA VI Launch Weekend Sales Estimated at 44.9 Million Copies",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkNDTm9KdkJsTjhSQkd6TVExcUZtdFJsaVBnenRHMzhPekw3Y2VSR0FRa1htbHhZeDY4bDJYYTBINGxJT3ZKX1ItRGVXc3dCcjM3M05NMlBRcW1jc0FPNThjdG1nZW9rMUdEXzUtaURlZWF6QjlWYU9jb3VHV0ktbE0wTmV2Z25rY1NqdTRLRUs1N1djXzJ4OXNCRQ?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-23T19:04:18+00:00",
+   "seen": "2026-11-23T19:17:15+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Launch weekend sales for GTA VI are estimated at forty-four point nine million copies."
   },
   {
    "id": "lionsgate kept the hunger games opposite gta vi s launch that paid off with a 120 million opening",
@@ -194,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports how to get a plane in GTA 6."
+  },
+  {
+   "id": "listen power trip unleash blistering new song mutual death warrant from gta 6",
+   "title": "LISTEN: Power Trip Unleash Blistering New Song “Mutual Death Warrant” from ‘GTA 6’",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHhVMDdHa2l5MVFYQUM1NWNMZFpqUEJGQmdTQUJTOTlVVTVKbzdwMEU4Wnk4SjRFWEpWNV9YZmY3b1J1RnRMMnREeUNhbmkxUVdQSjU3OTlMWmxEUEtkQlIwQi1xZWRjT0s4Rk1namxVYjUxT3V4Qlp3ck1oX29pT1ZpQnZMN0dNY205RTh3TmZjWmhUYXc?oc=5",
+   "outlet": "The Rock Revival",
+   "via": "Google News",
+   "published": "2026-11-23T18:57:17+00:00",
+   "seen": "2026-11-23T19:17:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Power Trip releases a new song titled Mutual Death Warrant from GTA 6."
   },
   {
    "id": "enthusiasts launched the gta 6 prologue on pc several hours after the exe file leaked",
@@ -610,6 +662,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "First impressions of Grand Theft Auto VI describe a love story within the game."
+  },
+  {
+   "id": "grand theft auto vi first impressions a love story in my gta yakima herald republic",
+   "title": "‘Grand Theft Auto VI’ first impressions: A love story, in my ‘GTA’? - Yakima Herald-Republic",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRWVsU2xHc0ZILTkxTWxwdVQyVHZ6aldtZ3VJUlBqY20zV2tKSU5nZldkSzlDcUdLM3ZyUk00UjVQZVVoWW9vaWdtUlRkWUZMSjRab1I2anRnV2NPSDAzWFhCU0hMNG51cmNaVlVHS1dqdmhQM2R2Ri1GVzQxeXN5dGF3UnJtNHdFb1NKNFhKVzJCNVU2Q0c0RjkwMGk2TG45OW43Q0RFNHZ1SW5uenF6bHdDSVZEdU1UQXlSWWo2WWRkNjNOQ2RjUS1OcG1vTGJadW1LTWJOWi1kTWdnTnd4Vjl1SEU1R1lMbmE2NGcyMVdTdktRSnZRSkVOQm5ja3E0UHB3dTF30gGLAkFVX3lxTFBnTURTUTZ2OXdqRnlSZUNVVmx2R0RZN0J6QWsxaS0tNWdLZVZvMHRmSjUybTltRC1ST1A5aFA1OGU5OVlnUEZHd2VtdmlDaWZucnBweUpHNkNPdXUwenpyVjFHWmxyOWNXNUR4Z3I0YlQyOXJfbTVDUUU5UkgyUDduV3pla2l5MGhVVkhLWFBlaHhKR050UTFlVmtGM2Z3S1NNQTVmZlI0d0xBS2VXaUZ5TDlxVUZ1WUllOXhLT0NkbFFZanRXRHJkWG1jYzhnZi1GLUM1M2pVQkxzd1lxM0JFQkRaem1oZ04zdmhaLTBSdTZOQ2NraFBnRzhReTMyUmdSYWRxWFhHQmlhaw?oc=5",
+   "outlet": "Yakima Herald-Republic",
+   "via": "Google News",
+   "published": "2026-11-23T18:09:36+00:00",
+   "seen": "2026-11-23T19:17:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI first impressions describe a love story in the game."
   },
   {
    "id": "gta vi handles better because actual racing drivers made it",
