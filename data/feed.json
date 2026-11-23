@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T22:03:28+00:00",
- "started": "2026-11-23T22:03:22+00:00",
+ "updated": "2026-11-23T22:08:25+00:00",
+ "started": "2026-11-23T22:08:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T22:03:22+00:00"
+   "checked": "2026-11-23T22:08:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-23T22:03:23+00:00"
+   "hits": 53,
+   "checked": "2026-11-23T22:08:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-23T22:03:23+00:00"
+   "hits": 73,
+   "checked": "2026-11-23T22:08:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T22:03:23+00:00"
+   "checked": "2026-11-23T22:08:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T22:03:24+00:00"
+   "checked": "2026-11-23T22:08:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T22:03:24+00:00"
+   "checked": "2026-11-23T22:08:21+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-23T22:03:24+00:00"
+   "checked": "2026-11-23T22:08:21+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T22:03:24+00:00"
+   "checked": "2026-11-23T22:08:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T22:03:24+00:00"
+   "checked": "2026-11-23T22:08:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T22:03:24+00:00"
+   "checked": "2026-11-23T22:08:22+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T22:03:25+00:00"
+   "checked": "2026-11-23T22:08:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T22:03:25+00:00"
+   "checked": "2026-11-23T22:08:23+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T22:03:25+00:00"
+   "checked": "2026-11-23T22:08:23+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T22:03:25+00:00"
+   "checked": "2026-11-23T22:08:23+00:00"
   }
  },
  "items": [
@@ -142,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims a couples therapist says GTA 6 is ruining relationships."
+  },
+  {
+   "id": "gta 6 s jason actor had a small role on modern family",
+   "title": "GTA 6's Jason Actor Had A Small Role On Modern Family",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmVLQmZqMjBEQWRpaFY5RnpsS2ZPakFMMGRpbnNvUi1NaEFlVFZ6RFRZaXRGTllNb20tZzBEOXF2Qk5EU2NLcEhodEhWSGFCYWY2VndtVE5GQW1nQVdaYnhSakU4VVpVMEhmZWswSzJMTFA5c0M0dkh5elNleGpnVXNsSWoxUXh6?oc=5",
+   "outlet": "TVLine",
+   "via": "Google News",
+   "published": "2026-11-23T21:47:50+00:00",
+   "seen": "2026-11-23T22:08:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's Jason actor had a small role on Modern Family."
   },
   {
    "id": "gta 6 crosstown traffic walkthrough",
@@ -2107,6 +2120,19 @@
    "ai_summary": "A former Rockstar environment artist says GTA 6 is stunning, but prefers Red Dead Redemption 2’s rivers."
   },
   {
+   "id": "gta 6 radio mocks jake paul for boxing geezers paul responds",
+   "title": "GTA 6 radio mocks Jake Paul for boxing geezers, Paul responds",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWXdTVnZ6ZTI2UU5rWGE0Yk1XenZrSkZzenU4am05Z2lQckYwcW11czhuam9fTFYxVlluQlJ1bTFFRkoxNmVmZ0JJWUdOYzZJdTNjQ3psdnA0VWs0TWM0SVYzMDhibkNUdWR5S2VQQWJ3UVJ0VG1ROG5Waw?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-23T17:53:21+00:00",
+   "seen": "2026-11-23T22:08:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 radio mocks Jake Paul for boxing geezers, and Paul responds."
+  },
+  {
    "id": "gta 6 has a terrifying unkillable npc here s how to find him",
    "title": "GTA 6 Has A Terrifying Unkillable NPC, Here’s How To Find Him",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk8tZE5OTkdwMnJTTTJ5WGJkcjZjZTQzN2tPWG84VkZGV01va2lwZnJ6a2tNc3BEZW9Kd2IwZzRodllINlNOaUNwVTc3ZzYtbFFaWFlzWVcySVlDakNMOEZ4Zm5keUhCWENjbktFMU8tWk85TldKLURzMEphWnUtel9yeWhoRHAzY0xCUndOMXBHQmt6ekhjY1hR?oc=5",
@@ -3483,6 +3509,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Rockstar releases a 23-track bonus on the GTA 6 deluxe album."
+  },
+  {
+   "id": "rockstar just dropped a gta 6 deluxe album with 23 new tracks",
+   "title": "Rockstar Just Dropped a GTA 6 Deluxe Album With 23 New Tracks",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLUROd1V2UGNTcHJCUVREemhFc3UtT1R3RlZ1ZmlIY2p3XzhYajFkcmhBM0hpVTFqWkE0NWttU0Eyb2dEU1MyeG9Cbi1XZmVYbU80Wjc4aFdSbUFPNUpFOWwwcnJOT25qQlJDbE5YRTVVcmlzbnRvX0ZDRHNZcTVGOW83d1N3NjMxelFTWkdiMWtUcGFV?oc=5",
+   "outlet": "GTA BOOM",
+   "via": "Google News",
+   "published": "2026-11-23T16:03:06+00:00",
+   "seen": "2026-11-23T22:08:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Rockstar released a GTA 6 Deluxe Album with 23 new tracks."
   },
   {
    "id": "60 hours in gta 6 has me yearning for an online leonida",
