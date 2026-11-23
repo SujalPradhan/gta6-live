@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T11:24:29+00:00",
- "started": "2026-11-23T11:24:21+00:00",
+ "updated": "2026-11-23T11:29:28+00:00",
+ "started": "2026-11-23T11:29:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-23T11:24:21+00:00"
+   "checked": "2026-11-23T11:29:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 37,
-   "checked": "2026-11-23T11:24:22+00:00"
+   "hits": 54,
+   "checked": "2026-11-23T11:29:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-23T11:24:22+00:00"
+   "hits": 61,
+   "checked": "2026-11-23T11:29:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T11:24:22+00:00"
+   "checked": "2026-11-23T11:29:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T11:24:22+00:00"
+   "checked": "2026-11-23T11:29:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T11:24:23+00:00"
+   "checked": "2026-11-23T11:29:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 34,
-   "checked": "2026-11-23T11:24:23+00:00"
+   "hits": 33,
+   "checked": "2026-11-23T11:29:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T11:24:23+00:00"
+   "checked": "2026-11-23T11:29:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T11:24:23+00:00"
+   "checked": "2026-11-23T11:29:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T11:24:24+00:00"
+   "checked": "2026-11-23T11:29:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T11:24:24+00:00"
+   "checked": "2026-11-23T11:29:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T11:24:25+00:00"
+   "checked": "2026-11-23T11:29:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T11:24:25+00:00"
+   "checked": "2026-11-23T11:29:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T11:24:25+00:00"
+   "checked": "2026-11-23T11:29:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "raymond james reiterates take two stock strong buy on gta vi sales",
+   "title": "Raymond James reiterates Take-Two stock Strong Buy on GTA VI sales",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaWhPMHFYSjBSUjR5YTREMnhLbmxmZHBQSTZIWVF5dVRveFlqa1I0aHR4Y2M5LTFMT2NsUmFPTk5KSlZQWkV6UlVpOXBfc0RneC1BZmF4U0hiUlJCbmNTUnlQLUVTazNockY0eGt0NWNQRnZMd2pIZ2pXTVFHVnZrRVZiRWl4QXNsVEtlakY3NlFrcDV5eUQxNGxoX0dwTV8tV2ZmZ1ZoWlhnbTl6ZHRDQmF6LS1SUEF2clplX01qS1l0bUU?oc=5",
+   "outlet": "Investing.com",
+   "via": "Google News",
+   "published": "2026-11-23T11:25:05+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that Raymond James reiterates Take-Two stock as a Strong Buy on GTA VI sales."
+  },
+  {
+   "id": "oppenheimer raises roblox stock price target on gta vi impact data",
+   "title": "Oppenheimer raises Roblox stock price target on GTA VI impact data",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYm5qSXlZWW1odzdSQVY4c3Nmdm1USURHVXlJdjMyM0pxWVVGc0lkZ19zMnZ1dGFTMzRFNEdCNE1DZ2FybzVEU0VyM2pRWFhOMm9QOTNQQWdDU0RCVUYwNUxJRWYtRzREZEV6bXozQndaMEF6XzNYVXo2Q182TTdtaGRUX0FkNjJFYll3R2kyNlJjNFRycG5EMXhCQ2tlVS1makN2STJHNDB2UlI4cjRCanRUU2FCLTloNEZ0czJ5YXZHbWRu?oc=5",
+   "outlet": "Investing.com",
+   "via": "Google News",
+   "published": "2026-11-23T11:25:05+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that Oppenheimer raises Roblox stock price target due to GTA VI impact data."
+  },
+  {
+   "id": "gta 6 chapter 3 mission list every mission in order point of no return",
+   "title": "GTA 6 Chapter 3 Mission List: Every Mission in Order & Point of No Return",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uR3hDNUp6VFdmajJzMlE2R1RYbUd6eU9XZmJza1dsNWNEVDVpeGtIVHNxZUpjQVpWT0xGeXQxU0hNT3puSzhlSWY4dXpOYjVCcjJpdWx3cTNUMXhQcWctSTVCWW9iX1NfcUZJNV85bnFtdURVNHRFNnZsaw?oc=5",
+   "outlet": "Video Games Chronicle",
+   "via": "Google News",
+   "published": "2026-11-23T11:24:24+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides a list of GTA 6 Chapter 3 missions in order, including the point of no return."
+  },
   {
    "id": "as gta 6 gets review bombed on metacritic gta fans have started review bombing ocarina of time in response",
    "title": "As GTA 6 gets review-bombed on Metacritic, GTA fans have started review-bombing Ocarina of Time in response",
@@ -116,6 +155,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is receiving negative reviews on Metacritic and fans are responding by review-bombing Ocarina of Time."
+  },
+  {
+   "id": "the gta vi earthquake shakes the internet and offices but may not save its industry",
+   "title": "The GTA VI earthquake shakes the internet and offices, but may not save its industry",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0JLa2NQVDE2NVRBdDV2VHROQmpVNURDbkhlcHVBai1nOUg0cS1SR3ZaMDFpbWFFN0sta0p2bUZtbEE0eDkxTkJQYWZiMjBDTFduUlFXREpMY2RoUmNZVTAyZkJtRHB4ejUzQVdPUUt1N1YtYWpqQXhBVVZGaVAxdncxeWdlRVpHaGk0?oc=5",
+   "outlet": "El Mundo America",
+   "via": "Google News",
+   "published": "2026-11-23T11:20:52+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses the GTA VI earthquake's effect online and in offices and its possible industry impact."
   },
   {
    "id": "gta 6 system requirements for unofficial pc port reveal it should run fine on an 8gb graphics card",
@@ -183,6 +235,32 @@
    "ai_summary": "The story reports that GTA VI update 01.002.002 has started rolling out, but some users may have to wait six hours to receive it."
   },
   {
+   "id": "gta 6 kit car wild hog point",
+   "title": "GTA 6 Kit Car - Wild Hog Point",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wRV94U2w4SFpucWpHWU10OWl0dXdNWmt3RVRMdW9yLVNKOGpwLWxxRGxzeXVxYVIzUUkzUGZmOERWbVNfdDEyYXBSdlRfNWZRekZZbFRPeTRZWXkxdmc1V01JTnFlTVpYX2V5dUNPMUU?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T11:11:46+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story features the GTA 6 Kit Car - Wild Hog Point."
+  },
+  {
+   "id": "gta 6 auntie s place in la perle",
+   "title": "GTA 6 - Auntie's Place In La Perle",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kX3h0MDNhV0VUUXo0UlVReUpCUk9vbUVYMmpUNnVidFdiMlkyMnF6UmtweVZUR2VhaDBoMmEwbE9PSVNOUk1XUGZyN2w4V0xDQ1FuLWV3NjhHZkdSNndFZEJvdFhtZEF4aHRLLXQ0YS13WWVycFE?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T11:10:24+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story features GTA 6 Auntie's Place In La Perle."
+  },
+  {
    "id": "gta 6 girlfriend simulator complaints are real at first ex rockstar lead says",
    "title": "GTA 6 \"girlfriend simulator\" complaints \"are real\" at first, ex-Rockstar lead says",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-girlfriend-simulator-complaints-are-real-at-first-ex-rockstar-lead-says-but-chapter-2-is-where-the-grand-theft-auto-magic-kicks-in/",
@@ -246,6 +324,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Official voice actor for GTA 6 is part of the game, described as not a gimmick or lie by 80 Level."
+  },
+  {
+   "id": "hot five gta 6 s blockbuster launch layoffs at jam city and google play s best of play 2026 winners",
+   "title": "Hot Five: GTA 6’s blockbuster launch, layoffs at Jam City, and Google Play’s Best of Play 2026 winners",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHZFVGZrbUY2QWFmbnpKMExZakhwSDZhRkRORHI0QWFuUi16dmtJdHp2Z0w0cmxrblJ2YS1sck9NR2FOdFRaT01sOVoxN3JCcmJUVDNQY3FEb2pMZVdVeFY1RWVNUVc0aGFMTlVGSmVjRmdKNUFPQkI5MGk2ZkMtdURTUXpqYUNsU0VaZHBiZEpYOXNidk9vR3dMRGdva1JITmtyNWxndVU5M290VGFKWFJyNnl5bTJOQjRLYzh0RFhzQUFn?oc=5",
+   "outlet": "PocketGamer.biz",
+   "via": "Google News",
+   "published": "2026-11-23T11:05:00+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story highlights GTA 6’s launch, layoffs at Jam City, and Google Play Best of Play 2026 winners."
+  },
+  {
+   "id": "grand theft auto vi gameplay",
+   "title": "Grand Theft Auto VI – Gameplay",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pczVZRTVpTXVHR0pQUXJoa1dUTXl1TjF5elBmTUZLaXRUb2Y0Vi0tNE1pWjdTU0dKZXNZVmkwMG9TYURld0Ezck1TUXNlT19Vb1ppeE1YQ0hDcmExQXM0NHRlOXIybVg1T0ZSSE1Wb2F5UUx4VlJrb0VKa3hSdw?oc=5",
+   "outlet": "Capsule Computers",
+   "via": "Google News",
+   "published": "2026-11-23T11:04:45+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story presents GTA 6 gameplay."
   },
   {
    "id": "miami through the gta vi looking glass",
@@ -337,6 +441,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports an article about what it’s like to go birding in Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 generates 3 79bn in day one sales to become the biggest entertainment launch in history",
+   "title": "GTA 6 generates $3.79bn in day one sales to become the biggest entertainment launch in history",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMlZSWHF3S0NRNHA3azlnTXgzNG1SNlZ2S2JBVV9zU2N3cnBMM21Vc3lZNXQ4emNDNTk5SmVWb0FCZFFFUWZ2QU8yLWdNNGZja2RzVVVtQU9TZjJEQzNUd3BCVUlZbEIwTUVOMUZ3YzRseUtUSVY4aUZNMlo0OGExZGNRTW5tMmNaQURDX1lPM2ZkUEU1RVMycDVyN256WVJPRzNLcHYtTUg2OF8tOFVMMmo0YlFPdkxjR3U1eTRn?oc=5",
+   "outlet": "PocketGamer.biz",
+   "via": "Google News",
+   "published": "2026-11-23T11:00:00+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 day one sales of 3.79b, making it the biggest entertainment launch in history."
+  },
+  {
+   "id": "gta 6 online rumors say you ll need to complete the game to play don t believe them",
+   "title": "'GTA 6 Online' rumors say you'll need to complete the game to play. Don't believe them.",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa1lDU2s1VU8yYWdGNkRZelU2bzgzdEhRS0NHeU5MQU9lbjJwUTM3VHdJeEViS0xQN0VmTDNQM05ocGFOS25VXy1GYlVwZy16TWo0TWs3Q0RucUt5T21iWi04NWVTQldMdnhZb20xSjlsSTlBU0hLRzV3MEd6ZXR1M0IxVHBJSHFhZWF1eFRfc3JmN3VNNlJkS0VncDNILU9YbHlMWGQ1QnJXS0dYYWZ6NXhMcF9PT0UzLUE?oc=5",
+   "outlet": "Mashable SEA",
+   "via": "Google News",
+   "published": "2026-11-23T10:57:39+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story debunks online rumors claiming you must complete GTA 6 to play Online."
   },
   {
    "id": "over half of console players in the us played gta 6 on launch day according to circana",
@@ -742,6 +872,19 @@
    "ai_summary": "Real estate lessons from SERHANT’s GTA 6 day off are discussed by Inman Real Estate News."
   },
   {
+   "id": "grand theft auto 6 sets entertainment launch record with us 3 79b in first day sales",
+   "title": "Grand Theft Auto 6 sets entertainment launch record with US$3.79b in first-day sales",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGw2c2d0VlQwUGVmLVp1TEJsWHQydWJtUzIweF9pcFpnbzlGbU50elR2RC1HMXNSQUtwZlFSUzdtQTIxcGNBZVJpZDUxQi14azV1VXV4RWxZdlFfMzJZRnU3VHF6OW9jOU14aUo1Z05obnVubEEtT085OE5hNGw5dEItM2Z2NE5OUzUzaVBJMG9WUkY4aHk3UVhQZnllZ0tvWXR4eGlZVkVPVzNBZ1pjMGFMelVGd3BWYV9XelRfZk5RdXJTcGc?oc=5",
+   "outlet": "The Malaysian Reserve",
+   "via": "Google News",
+   "published": "2026-11-23T10:05:40+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 sets an entertainment launch record with US$3.79b in first-day sales."
+  },
+  {
    "id": "gta 6 capped at 30 fps on ps5 pro due to cpu limits rockstar games confirms",
    "title": "GTA 6 capped at 30 FPS on PS5 Pro due to CPU limits, Rockstar Games confirms",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTYyYVMwV1JwV29VYjVpQkp4eWNzNjhJMVNtVlhNQVJDWG5BdGJpanFjZWhLb01NUERBOEUzS3dHMFBjeFBxeG1FV1l2Sm56cDk0cEhFSS1EdmVaaU1ENFNQZnI4aHV0bXFtLVlIWjRmQTFfN21hZUFuenZ2ZTZqY0x1Z0tsSkJkZXBBX09KU3VfelVfbU83Vzg2Tm5uZ0JOQlNsV1V6c2hzR1ExcFZzanVYRWpoYVU?oc=5",
@@ -922,6 +1065,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports PlaqueBoyMax calls GTA 6 story mode 'A*s' after skipping the opening cutscene and faces backlash."
+  },
+  {
+   "id": "grand theft auto 6 breaks launch record with 3 79b day one sales https www businesstimes bd com",
+   "title": "Grand Theft Auto 6 Breaks Launch Record with $3.79B Day-One Sales - https://www.businesstimes-bd.com/",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hd1JfVXp6aElyenJNTFZBUFozaUtlUmZyMWk1dGlXM3pub0doOGtzVDFyblF2NXg5QXhFaTdybEVSanhSbjVCblJaSUZLYl9TbllRNkJ1Rjk4X0UyRGV1OFZJUjBheFJ6d2V3?oc=5",
+   "outlet": "https://www.businesstimes-bd.com/",
+   "via": "Google News",
+   "published": "2026-11-23T09:45:59+00:00",
+   "seen": "2026-11-23T11:29:22+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports Grand Theft Auto 6 launch record with $3.79B day-one sales."
   },
   {
    "id": "mark zuckerberg turned his wife priscilla chan into a gta 6 character who asks him to bring groceries an",
