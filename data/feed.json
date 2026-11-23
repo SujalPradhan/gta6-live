@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:17:10+00:00",
- "started": "2026-11-23T18:17:02+00:00",
+ "updated": "2026-11-23T18:22:02+00:00",
+ "started": "2026-11-23T18:21:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-23T18:17:03+00:00"
+   "hits": 100,
+   "checked": "2026-11-23T18:21:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-23T18:17:03+00:00"
+   "hits": 50,
+   "checked": "2026-11-23T18:21:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-23T18:17:04+00:00"
+   "hits": 76,
+   "checked": "2026-11-23T18:21:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T18:17:05+00:00"
+   "checked": "2026-11-23T18:21:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T18:17:05+00:00"
+   "checked": "2026-11-23T18:21:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T18:17:05+00:00"
+   "checked": "2026-11-23T18:21:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T18:17:05+00:00"
+   "checked": "2026-11-23T18:21:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T18:17:06+00:00"
+   "checked": "2026-11-23T18:21:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T18:17:06+00:00"
+   "checked": "2026-11-23T18:21:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T18:17:06+00:00"
+   "checked": "2026-11-23T18:21:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T18:17:07+00:00"
+   "checked": "2026-11-23T18:21:58+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T18:17:07+00:00"
+   "checked": "2026-11-23T18:21:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T18:17:07+00:00"
+   "checked": "2026-11-23T18:21:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T18:17:07+00:00"
+   "checked": "2026-11-23T18:21:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "10 legendary gta 6 easter eggs no one should miss",
+   "title": "10 Legendary GTA 6 Easter Eggs No One Should Miss",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92a0Nud19RQlFlTGppRHV4NU5acHZ3bEhmMXBENlZ5LWJxWHlPMGpFenBxdUNDTHZyb1E2QVFQSGUxOU5CZmlucFB6R05wUmd4NDJjUmgtLVhxQjdKdHJ6b3VCWnpRTDZp?oc=5",
+   "outlet": "Comic Book Resources",
+   "via": "Google News",
+   "published": "2026-11-23T18:17:46+00:00",
+   "seen": "2026-11-23T18:21:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists ten legendary GTA 6 Easter eggs that should not be missed."
+  },
+  {
+   "id": "the 8 best classic rock songs on gta 6 s soundtrack ranked",
+   "title": "The 8 Best Classic Rock Songs on ’GTA 6’s Soundtrack, Ranked",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nTFJqVW85OGp0VXozWFkzQTdSS01LZUVYN0lWY2htaG44S01wRUgwbnVwMml6Uy1hYXljQUo0SDg5aEZyWnduUDlzdHNneGdrak1aR2VES3ZWWmNyRDV1eVFOMmY5emYyTUt1d25NaVNZRjYyM25VVw?oc=5",
+   "outlet": "Collider",
+   "via": "Google News",
+   "published": "2026-11-23T18:15:12+00:00",
+   "seen": "2026-11-23T18:21:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece ranks the eight best classic rock songs on GTA 6's soundtrack."
+  },
   {
    "id": "voice actor joins in on grand theft auto vi s release",
    "title": "Voice actor joins in on Grand Theft Auto VI's release",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a voice actor joins Grand Theft Auto VI's release."
+  },
+  {
+   "id": "grand theft auto vi sets 3 79 billion first day sales record",
+   "title": "Grand Theft Auto VI sets $3.79 billion first-day sales record",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnFfajdLUGdkLThibk9lUEYxcng5amFBY3V5YlkzYzFORVZmWWJPUktubXZaeXo2M0R6aDZKMkJVUFhNbHJscEJlY25oa29zSlZqQ29MZHg3eUxOdGRHNGI0T3NscHgyMEVEZ0FGQWQtUzduVWVXV1EzQXBNTzlJV04xQU5tbE5qTS1ZOWZTbXlZalhRMldaMnRaYlg0d1k4dFNZdUxpb1I3OXBoejhKUnNn?oc=5",
+   "outlet": "The American Bazaar",
+   "via": "Google News",
+   "published": "2026-11-23T18:14:36+00:00",
+   "seen": "2026-11-23T18:21:54+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA VI sets a first-day sales record of three point seven nine billion."
   },
   {
    "id": "what impact is playing grand theft auto vi having on elite athletes performances sean ingle",
@@ -142,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a guide for a GTA 6 New Look mission involving getting a haircut at Pearl House in Port Gellhorn."
+  },
+  {
+   "id": "grand theft auto vi first impressions a love story in my gta",
+   "title": "‘Grand Theft Auto VI’ first impressions: A love story, in my ‘GTA’?",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHBVY0ZEM2JndE1GZEVOTW1UaUNaOW50cjVxTWtXcW54emtWQldLSlUxZ3g4M3BabGtBRVlna25nWU9zbGlDdW1JRHZJV3ZydkpqaW1LNW0xT1V6M3ZMekZsNTlhbnRNNnc2alNxdUJZN2h1dlY0NUZPMUQ2cFJmR3dsTVBGc29DVFFGYzRHXzkwQ0lOeTJvbHFOX3hsSG9LSC00OUNZWW91TjdhS3lSR0pBU0VNOFE?oc=5",
+   "outlet": "The Seattle Times",
+   "via": "Google News",
+   "published": "2026-11-23T18:09:36+00:00",
+   "seen": "2026-11-23T18:21:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "First impressions of Grand Theft Auto VI describe a love story within the game."
   },
   {
    "id": "gta vi handles better because actual racing drivers made it",
@@ -391,6 +443,19 @@
    "ai_summary": "GTA 6: All Main Story Missions."
   },
   {
+   "id": "gta vi 10 movies that inspired jason and lucia",
+   "title": "‘GTA VI’: 10 movies that inspired Jason and Lucia",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yN0Z4ZktkOUhPQ3dOY2FMOG5tM0tJRnVWWnpMT3NvUlBLeUs4OGljcFZXemNMZmpZSnMySjVkbktybi1zdXFjcThpcUlvYlhJMWRyakh5UERTNU1FQmc?oc=5",
+   "outlet": "Entertainment Weekly",
+   "via": "Google News",
+   "published": "2026-11-23T17:45:32+00:00",
+   "seen": "2026-11-23T18:21:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI features ten movies that inspired the characters Jason and Lucia."
+  },
+  {
    "id": "meet manni l p rez the voice face behind gta vi s lucia",
    "title": "Meet Manni L. Pérez: The Voice & Face Behind ‘GTA VI’s Lucia",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT3lzZE94UzV3d0phNU5tX3Y3azdJdktGeXNQRHlpZW50NUY0QmZlVk1OVGtadllRQ24yaUpHVnhJTXBIZDFZeW1oVThfWTA3VnkwcVVUbEhPOXpVNlJzWnNZNmYyRnBoMnRYZEtIT0F6a0JSQkpFS3ZmbnRVNHFaMTFXbw?oc=5",
@@ -428,6 +493,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story advises using your own headphones with quick settings tweaks for GTA VI headset use."
+  },
+  {
+   "id": "need a gta vi headset use headphones you own today with settings tweaks",
+   "title": "Need a GTA VI headset? Use headphones you own today – with settings tweaks",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1Z4anJ6TGN6UHBjOTU3RGd5aFRLWFI4bmU4Qk5WTXdQUF9oZ0s1NTJyUjlNT2dSclczM0Zkb1ZjLXpudUZERGZHUHVoZjF4RDE0bTV5ekV2SG1HMDFfaHExYnFGNzN0M1ZTWS1NbDRrM0NhZ19iLVpoVFQxSENxMGdIeEM?oc=5",
+   "outlet": "ZDNET",
+   "via": "Google News",
+   "published": "2026-11-23T17:36:29+00:00",
+   "seen": "2026-11-23T18:21:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Advice on using any existing headset for GTA VI with settings tweaks."
   },
   {
    "id": "how to unlock gta 6 s amazing ps2 vice city easter egg",
