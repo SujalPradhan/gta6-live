@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T23:54:07+00:00",
- "started": "2026-11-23T23:54:00+00:00",
+ "updated": "2026-11-23T23:59:09+00:00",
+ "started": "2026-11-23T23:59:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T23:54:00+00:00"
+   "checked": "2026-11-23T23:59:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-23T23:54:01+00:00"
+   "hits": 55,
+   "checked": "2026-11-23T23:59:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-23T23:54:01+00:00"
+   "checked": "2026-11-23T23:59:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T23:54:01+00:00"
+   "checked": "2026-11-23T23:59:04+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T23:54:01+00:00"
+   "checked": "2026-11-23T23:59:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T23:54:02+00:00"
+   "checked": "2026-11-23T23:59:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T23:54:02+00:00"
+   "checked": "2026-11-23T23:59:04+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T23:54:02+00:00"
+   "checked": "2026-11-23T23:59:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T23:54:03+00:00"
+   "checked": "2026-11-23T23:59:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T23:54:03+00:00"
+   "checked": "2026-11-23T23:59:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T23:54:04+00:00"
+   "checked": "2026-11-23T23:59:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T23:54:04+00:00"
+   "checked": "2026-11-23T23:59:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T23:54:04+00:00"
+   "checked": "2026-11-23T23:59:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T23:54:04+00:00"
+   "checked": "2026-11-23T23:59:06+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 was the biggest launch in playstation history with over 39 million players",
+   "title": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVXpGQ1k0NExobkxtTFVxRXJoY3RqeEIzNEZEZ3ZBYUR3eDd0aXhvTWxqX0JMM0tRbnB4NjdCMElqUlMyR3NHOEdYNnNYWlVJdkQ4NDh4TW41WEJLVWxRS2VDbk5obHBja2pnUm4wd0FxSXBmcUJVanhrQ0FUbTVWcmtrZ3RPZVJMVHBlQ2duYkZaTTNlQlh2Yml0YWJkLXNSWjJkNGh5NHBwZ085TjJjR0JodzhPOUhFM3ZCVXRERQ?oc=5",
+   "outlet": "Video Games Chronicle",
+   "via": "Google News",
+   "published": "2026-11-23T23:55:23+00:00",
+   "seen": "2026-11-23T23:59:03+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 was the biggest launch in PlayStation history with over 39 million players."
+  },
   {
    "id": "call of duty s player count dropped by over 40 following gta 6 s release according to analysts",
    "title": "Call of Duty's Player Count Dropped by Over 40% Following GTA 6's Release, According to Analysts",
@@ -467,6 +480,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Story reports that Grand Theft Auto VI earns nearly four billion dollars in sales."
+  },
+  {
+   "id": "gta 6 should i sell to donnie or brian",
+   "title": "GTA 6: Should I sell to Donnie or Brian?",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLSUZkSElIT2tKUDRXclVsdUdmZVNETk1LTGZVMkpyU1NvNHJYeUlmR3ZWVGxub0dacl9xT29vMnhYZG9hNzlaU1lQaUt1emt4QUsyWE1zYlRNVFNwekh1MFVBaUlvdzVORHFlSnBZTQ?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-23T22:35:40+00:00",
+   "seen": "2026-11-23T23:59:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses whether to sell to Donnie or Brian in GTA 6."
   },
   {
    "id": "gta 6 s waink app can unlock new hairstyles and makeup",
