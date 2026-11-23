@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:16:17+00:00",
- "started": "2026-11-23T16:16:10+00:00",
+ "updated": "2026-11-23T16:21:19+00:00",
+ "started": "2026-11-23T16:21:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T16:16:11+00:00"
+   "checked": "2026-11-23T16:21:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 45,
-   "checked": "2026-11-23T16:16:11+00:00"
+   "hits": 44,
+   "checked": "2026-11-23T16:21:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-23T16:16:11+00:00"
+   "hits": 74,
+   "checked": "2026-11-23T16:21:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:16:12+00:00"
+   "checked": "2026-11-23T16:21:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-23T16:16:12+00:00"
+   "hits": 7,
+   "checked": "2026-11-23T16:21:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T16:16:12+00:00"
+   "checked": "2026-11-23T16:21:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T16:16:12+00:00"
+   "checked": "2026-11-23T16:21:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T16:16:12+00:00"
+   "checked": "2026-11-23T16:21:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T16:16:13+00:00"
+   "checked": "2026-11-23T16:21:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T16:16:13+00:00"
+   "checked": "2026-11-23T16:21:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T16:16:14+00:00"
+   "checked": "2026-11-23T16:21:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T16:16:14+00:00"
+   "checked": "2026-11-23T16:21:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-23T16:16:14+00:00"
+   "checked": "2026-11-23T16:21:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T16:16:14+00:00"
+   "checked": "2026-11-23T16:21:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "you can visit the original vice city in gta 6 with this hidden easter egg",
+   "title": "You Can Visit The Original Vice City in GTA 6 With This Hidden Easter Egg",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT1pSbnZyMFhDTDJoTXhTNVh5ZHdSX0F4Vk1pSm1ZQ1E0Y2tLemNKNlZxRHZvRTAwQ0VUVFZtZVJaVVRVbWF6bVNSZklaZ0VkbkV5MFc0R1B0TmFzN1JqelhVd2E3SmlVRkxUV1BVTk1pdUZfanlCSXRRdGxlQ0ZBVVlJcEh1b18zRUlFODQxcWNfbG9Mc3JwY1pFR3JrVklsVFQweVRn?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-23T16:18:02+00:00",
+   "seen": "2026-11-23T16:21:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that the original Vice City can be visited in GTA 6 via a hidden Easter Egg."
+  },
+  {
+   "id": "gta 6 drew more than half of active ps5 and xbox players on launch day",
+   "title": "GTA 6 Drew More Than Half of Active PS5 and XBOX Players on Launch Day",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaERmY0dnUTZPRFY0TVA0eXpoX0c2Uk9PendodXM2c0c2anNaUkJ1bk4tcVdBTjJfT0dzYXpnZ2tINW1JcnFfWm1yRUg1S0F6OXB4MHMwTlc0MlpnNXplMzdpVXVGMGRGWDNqZi05LUdNNFd5SXl6RlAtQ3JOWXgxR3Fjd0lOYnBYeXNnSHJlVFZLTGhnZEhHeFNxR05xV0dBeUE?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-23T16:14:56+00:00",
+   "seen": "2026-11-23T16:21:12+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 drew more than half of active PS5 and Xbox players on launch day."
+  },
   {
    "id": "do you need the key cloner to steal all of gta 6 s cars",
    "title": "Do You Need the Key Cloner to Steal All of GTA 6's Cars?",
@@ -337,6 +363,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Rockstar Games and Atlantic Records share GTA VI: The Album (Deluxe Edition), featuring 23 new tracks."
+  },
+  {
+   "id": "how to find paul walker s fast and furious car in gta 6",
+   "title": "How to find Paul Walker's Fast and Furious car in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBraXJHUk5OV1JiRkRnTmJYaWN1U0o0N3FhUWhfRmhnSVZscFlLT1ZmbnZ1M2lUT3BEZUEyNTVkNjB1ZkNObDZxeHFLYnZZbDQtdU1YOWc4b3lDejdfS2JWdTRXOFo?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-23T15:50:40+00:00",
+   "seen": "2026-11-23T16:21:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports instructions or information on finding Paul Walker's Fast and Furious car in GTA 6."
   },
   {
    "id": "d angelo s previously unheard gta vi song kamikazi hits streaming services",
@@ -1182,6 +1221,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "How to sell stolen cars and bikes in GTA 6."
+  },
+  {
+   "id": "gta 6 s mandy actress confirms she s super woke on hasan piker s stream",
+   "title": "GTA 6’s Mandy Actress Confirms She’s ‘Super Woke’ On Hasan Piker’s Stream",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQU5LeldfVGpQeDVIYVVqckdxMlNmMFFQclNaLWJZa1hlekxUUWRhRko4cWxrX05QdzFNMnhsbDloUmRwWnpZQ1NJOXFTOXY0dy1nVWN6VU5OVGxtX0pfNXVPSXVqNDlnT0o3Wk92VlYwUHFOa2Z4NlNpVHp5S1IxaDkxT3QzUkVhakVPQTVwYmpnX0VobVZ0dkltM3I0S2UzNGhlUGl5TE45VmJlWGc?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-23T14:19:00+00:00",
+   "seen": "2026-11-23T16:21:12+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports that Mandy, the GTA 6 actress, said she is 'super woke' on Hasan Piker’s stream."
   },
   {
    "id": "how to find jet ski dog in gta 6 and get rescued at sea",
