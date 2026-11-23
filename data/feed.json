@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:41:26+00:00",
- "started": "2026-11-23T16:41:19+00:00",
+ "updated": "2026-11-23T16:46:29+00:00",
+ "started": "2026-11-23T16:46:20+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T16:41:19+00:00"
+   "checked": "2026-11-23T16:46:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-23T16:41:19+00:00"
+   "checked": "2026-11-23T16:46:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-23T16:41:20+00:00"
+   "checked": "2026-11-23T16:46:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:41:20+00:00"
+   "checked": "2026-11-23T16:46:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T16:41:20+00:00"
+   "checked": "2026-11-23T16:46:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T16:41:20+00:00"
+   "checked": "2026-11-23T16:46:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T16:41:21+00:00"
+   "checked": "2026-11-23T16:46:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T16:41:21+00:00"
+   "checked": "2026-11-23T16:46:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T16:41:21+00:00"
+   "checked": "2026-11-23T16:46:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T16:41:21+00:00"
+   "checked": "2026-11-23T16:46:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T16:41:21+00:00"
+   "checked": "2026-11-23T16:46:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T16:41:21+00:00"
+   "checked": "2026-11-23T16:46:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-23T16:41:22+00:00"
+   "hits": 2,
+   "checked": "2026-11-23T16:46:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T16:41:22+00:00"
+   "checked": "2026-11-23T16:46:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "17 things you didn t know you could do with vehicles in gta 6",
+   "title": "17 Things You Didn’t Know You Could Do With Vehicles in GTA 6",
+   "link": "https://insider-gaming.com/gta-6-car-bike-boat-systems/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-23T16:45:20+00:00",
+   "seen": "2026-11-23T16:46:24+00:00",
+   "summary": "This guide will explain everything you need to know about GTA 6's car/bike/boat systems, including vehicle and camera options. The post 17 Things You Didn’t Know You Could Do With Vehicles in GTA 6 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A guide explains car, bike, and boat systems in GTA 6, including vehicle and camera options."
+  },
+  {
+   "id": "how to steal an atm with tow trucks in gta 6",
+   "title": "How to Steal an ATM With Tow Trucks in GTA 6",
+   "link": "https://insider-gaming.com/how-to-steal-an-atm-with-tow-trucks-in-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-23T16:45:16+00:00",
+   "seen": "2026-11-23T16:46:24+00:00",
+   "summary": "Here's a step-by-step guide on how to find a tow truck and steal an entire ATM off the wall in Grand Theft Auto 6. The post How to Steal an ATM With Tow Trucks in GTA 6 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A step-by-step guide describes how to find a tow truck and steal an ATM in GTA 6."
+  },
+  {
+   "id": "gta 6 s best kept secret is the key to its whole design",
+   "title": "GTA 6’s Best-Kept Secret Is the Key to Its Whole Design",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpkVHNEZmhFMGhaMFRZZ2ZBWGhsQ0MtQlhJeGZMSkY1MjhqeFZNaGVqM3doVHhtT2RkVmVwV05yWjlOM2FpOFRkOWR1VVVpYTlvdHFWdWYwU0hMWFhmY2FNUWNQZFJkUjE0MlkwUno4a19OSU9GYWFWeWRNUHM2d245a29wUU1xNzZTQVNIa2k5V2VOTEpEX2tPSDFaYU9jcmlGVDc5UQ?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-23T16:44:12+00:00",
+   "seen": "2026-11-23T16:46:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6’s best-kept secret is the key to its whole design."
+  },
+  {
+   "id": "living the vice city effect how gta vi is transforming miami",
+   "title": "Living the Vice City Effect: How GTA VI Is Transforming Miami",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalNjQ3FNNmlURjE5bVdDNGd0NjV0ZFlhOTFuSTU1NHlWZ2ZZQ1NiVnloNlhaR21YWGFTb1RXOWZzdGRNZXJfOVdSV3E2QWFkSEFvZk8tRmRFMXpNb2hrTUg4TUxHY2tIS1gzV3hoWDVQR3Nlb2ZhQW85WnI4NXRSNHdTdEZlMnZmY0toQ0xFLTdYb2NtdkJaZlVSemJZS0JkeXB0c3lYOWtHYzJfU2tiU3ZZWWs4ckRPSWc?oc=5",
+   "outlet": "Miami’s Community News",
+   "via": "Google News",
+   "published": "2026-11-23T16:40:25+00:00",
+   "seen": "2026-11-23T16:46:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses how GTA VI is transforming Miami, referencing the Vice City effect."
+  },
   {
    "id": "gta 6 becomes xbox s most played game following record breaking launch",
    "title": "GTA 6 becomes Xbox's most-played game following record-breaking launch",
@@ -168,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Analysts say GTA 6 is a last of its kind AAA game that executives won't try to copy."
+  },
+  {
+   "id": "gta 6 leads off cnet s first gift of the year awards which other top tech products made the list",
+   "title": "GTA 6 Leads Off CNET's First Gift of the Year Awards. Which Other Top Tech Products Made the List?",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoNlNGSTN0WG5jTVZ2QmQwY3lnNWQwM0lwd3JHdHowQ3dSQ1hPdUw4cHpjSjJfSk1YdDBJM1ZvZ01uNXItVTNKTGo2MDhSUy1SNlZlZlNaTk1BVmE4TDFrRQ?oc=5",
+   "outlet": "CNET",
+   "via": "Google News",
+   "published": "2026-11-23T16:28:38+00:00",
+   "seen": "2026-11-23T16:46:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 leads off CNET's first Gift of the Year Awards, with other top tech products mentioned."
   },
   {
    "id": "all illegal operations locations key valuables in gta 6",
