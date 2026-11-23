@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T14:40:35+00:00",
- "started": "2026-11-23T14:40:27+00:00",
+ "updated": "2026-11-23T14:45:34+00:00",
+ "started": "2026-11-23T14:45:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,179 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T14:40:28+00:00"
+   "checked": "2026-11-23T14:45:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 40,
-   "checked": "2026-11-23T14:40:28+00:00"
+   "checked": "2026-11-23T14:45:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-23T14:40:29+00:00"
+   "hits": 69,
+   "checked": "2026-11-23T14:45:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T14:40:29+00:00"
+   "checked": "2026-11-23T14:45:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-23T14:40:29+00:00"
+   "hits": 8,
+   "checked": "2026-11-23T14:45:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-23T14:40:29+00:00"
+   "checked": "2026-11-23T14:45:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 29,
-   "checked": "2026-11-23T14:40:30+00:00"
+   "checked": "2026-11-23T14:45:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T14:40:30+00:00"
+   "checked": "2026-11-23T14:45:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T14:40:31+00:00"
+   "checked": "2026-11-23T14:45:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T14:40:31+00:00"
+   "checked": "2026-11-23T14:45:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T14:40:31+00:00"
+   "checked": "2026-11-23T14:45:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T14:40:32+00:00"
+   "checked": "2026-11-23T14:45:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T14:40:32+00:00"
+   "checked": "2026-11-23T14:45:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T14:40:32+00:00"
+   "checked": "2026-11-23T14:45:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto 6 has received a new update which fixes autosaving",
+   "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
+   "link": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-23T14:44:32+00:00",
+   "seen": "2026-11-23T14:45:30+00:00",
+   "summary": "The new patch fixes other bugs, including being unable to lose Wanted Levels",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The update fixes autosaving and other bugs including an issue with losing Wanted Levels."
+  },
+  {
+   "id": "deluxe grand theft auto vi album adds 23 tracks listen",
+   "title": "Deluxe 'Grand Theft Auto VI' Album Adds 23 Tracks: Listen",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWpnMmg1NHY5UWZSVXRpX3hrTHp4eXFOWjhvcGZ3Y2QtSDc3Tzhad2djbFJtTmNEM0Q1cTRpZk5JMmk5ejQ1TXBwMlZ0N2Q4MG11Mjg4XzJ3ZWVTUTh3UDNRQ2ZvcXoxMGJqQzFQdndkV29GYW5wLUVGa2pPQkVycy1TWktWWTMwWmpiU3haYVJwTEdZZG1zTmg2RDA5Ymt2MGpQMGp6Ni10WUVzMmxIT1oxZ1FrV1JjTENXdHVPcDUydnM2?oc=5",
+   "outlet": "Stereogum",
+   "via": "Google News",
+   "published": "2026-11-23T14:42:00+00:00",
+   "seen": "2026-11-23T14:45:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Deluxe Grand Theft Auto VI album adds 23 tracks; listen."
+  },
+  {
+   "id": "gta 6 s first official post release update has a catch",
+   "title": "GTA 6's First Official Post-Release Update Has A Catch",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnk1YUFqZF9PU1R3bHg2dzRjeEc4UUtiX2toUWszZjNSVGMwNjM2YXFIYzBiOWxHY1hldzhzQlBlYjlObVNFb1Naa25tTXFMeXNiN2lEeWV2d1BzLW1HdXpHNEVGOTNyQjhzTm92U2J6NnZBV2ZHN3hkLXc2ZjNvYUFZM3RXNGVNc2tyTEsxTGhQSTczNzFGZEpqSG1yNHJFQnc?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T14:41:35+00:00",
+   "seen": "2026-11-23T14:45:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's first official post-release update has a catch."
+  },
+  {
+   "id": "gta 6 goth girl vicki already has thirsty fans forgetting about possible serial killer mandy",
+   "title": "GTA 6 goth girl Vicki already has thirsty fans forgetting about possible serial killer Mandy",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-vicki-already-has-thirsty-fans-forgetting-about-possible-serial-killer-mandy-we-love-our-swamp-goth/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-23T14:38:51+00:00",
+   "seen": "2026-11-23T14:45:30+00:00",
+   "summary": "Rockstar's got players a little distracted",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 goth girl Vicki fans distract from potential serial killer Mandy."
+  },
+  {
+   "id": "i benched my gaming pc for grand theft auto 6 on xbox series s here s the 30 fps reality",
+   "title": "I benched my gaming PC for Grand Theft Auto 6 on Xbox Series S. Here's the 30 FPS reality.",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUmIyZm9LT2J2blFyZE9nTll6MkMxaUZqeDdZRzFuakk2cUZKMkRyTGxWREFuVWVZMWVzbnJ6b1VJdDAwZ2J0eElWTTl5ZFZoU2xTQ1daQzhsZEVLb0UwVGlkRlFFWXY3YS1nVWpSSmRMc1BBLWJXYV9xLTI1WmlpaEpEaVY0RkZiazFlRTJiSFF3V1d0?oc=5",
+   "outlet": "Windows Central",
+   "via": "Google News",
+   "published": "2026-11-23T14:38:29+00:00",
+   "seen": "2026-11-23T14:45:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "I benched my gaming PC for GTA 6 on Xbox Series S; here’s the 30 FPS reality."
+  },
+  {
+   "id": "rockstar releases deluxe edition of grand theft auto vi the album",
+   "title": "Rockstar Releases Deluxe Edition of Grand Theft Auto VI: The Album",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVZNZWhGXy1GREo0WHNGUlpIMGtlRUxCTjRRNEFxMHFoWGNSaENiNHljZzVXY2Z1bmc1N0xUU2NVeTRBSzNSNXNmNGZLYWJkdllsdGxCY3ZHYlBYcUtuSVRnbXdfcWdoX1MxRS1YZUxpcVF0eXpZVkJ3MWtQcG1xV2xyY1Q5dUwxZEt5LUg3Y0FTY19Kc2NOa2tNWEg4X2c?oc=5",
+   "outlet": "Consequence of Sound",
+   "via": "Google News",
+   "published": "2026-11-23T14:35:18+00:00",
+   "seen": "2026-11-23T14:45:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar releases a Deluxe Edition of Grand Theft Auto VI: The Album."
+  },
   {
    "id": "gta 6 update now live on xbox series x s players share their first impressions",
    "title": "GTA 6 Update Now Live On Xbox Series X|S, Players Share Their First Impressions",
@@ -131,6 +209,19 @@
    "ai_summary": "Forbes reports clearing up false information about the GTA 6 criminal profile system."
   },
   {
+   "id": "what s on the gta 6 album deluxe edition all 23 new songs from travis scott to overmono",
+   "title": "What's on the GTA 6 album deluxe edition? All 23 new songs, from Travis Scott to Overmono",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFFfRnppOHhWQWdseC1paTdBR0tJNnpYZjVyeVhvb3BQNWlwdUp4QkF5ek5UcFdqRmJXSm84Mko1QjYyN2s3eVFfQ1pkYTd6dEp0OU9MUEtoRjFmdlBTM3B6Q19YMFJVR3Z0YnBWM2RWQWlReURhMjhCdzdmeUpRZU5KVDNWc3g5djcxanNaLWM0N1ByZmF2cHZzSnoyWEpGcjNMMG9ncmJjb2tieGNz?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-23T14:34:16+00:00",
+   "seen": "2026-11-23T14:45:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "What’s on the GTA 6 album deluxe edition? All 23 new songs, from Travis Scott to Overmono."
+  },
+  {
    "id": "gta 6 missing persons every missing person location and how to find them",
    "title": "GTA 6 Missing Persons: Every Missing Person Location and How to Find Them",
    "link": "https://www.videogameschronicle.com/guide/gta-6-serial-killer-missing-persons-locations/",
@@ -155,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article states an official age for GTA 6's Jason and Lucia based on in-game ID assets."
+  },
+  {
+   "id": "gta 6 hacker given prison sentence after leaking clips online",
+   "title": "GTA 6 hacker given prison sentence after leaking clips online",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMeWRlanVWRnEtcmMzaEhzVTl1QmJIUVZXU2l5cU5neHRXeEpodWE3TUhRQU95d1FFWGwwMF8ycDViSlQ5OHhuSkxyOTRFSFFUajdUOFc0UW91RzNfU19JdDc5ZjFEbGF1cEFSdWVjb0hHQWFG?oc=5",
+   "outlet": "Yahoo News New Zealand",
+   "via": "Google News",
+   "published": "2026-11-23T14:25:08+00:00",
+   "seen": "2026-11-23T14:45:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 hacker sentenced to prison for leaking clips online."
   },
   {
    "id": "how to find jet ski dog in gta 6 and get rescued at sea",
@@ -636,6 +740,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI sales reached 45 million units at the end of the launch weekend, according to Alinea, with more than 40 million users active on Sunday."
+  },
+  {
+   "id": "gta 6 reportedly sold 45 million copies and grossed 4 billion in revenue within four days",
+   "title": "GTA 6 Reportedly Sold 45 Million Copies And Grossed $4 Billion In Revenue Within Four Days",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxNE1kSkc1bWVqX3EyTnlocmdjMWZBdmpaR0xzUE5pRC1Ia1pFYWo4bEF5X0ZlVlhWcmhKTUtIR1F4c3l3THViLWRsdkxMSkRwTFVHWklwOGdCdUVWWll3aA?oc=5",
+   "outlet": "Tech4Gamers",
+   "via": "Google News",
+   "published": "2026-11-23T13:28:18+00:00",
+   "seen": "2026-11-23T14:45:29+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 reportedly sold 45 million copies and grossed $4 billion in revenue in four days."
   },
   {
    "id": "gta vi inspires arapahoe county game mashups",
