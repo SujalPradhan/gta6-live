@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T01:11:07+00:00",
- "started": "2026-11-23T01:11:03+00:00",
+ "updated": "2026-11-23T01:16:09+00:00",
+ "started": "2026-11-23T01:16:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-23T01:11:03+00:00"
+   "checked": "2026-11-23T01:16:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-23T01:11:04+00:00"
+   "hits": 41,
+   "checked": "2026-11-23T01:16:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 69,
-   "checked": "2026-11-23T01:11:04+00:00"
+   "checked": "2026-11-23T01:16:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T01:11:04+00:00"
+   "checked": "2026-11-23T01:16:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-23T01:11:05+00:00"
+   "checked": "2026-11-23T01:16:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T01:11:05+00:00"
+   "checked": "2026-11-23T01:16:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 36,
-   "checked": "2026-11-23T01:11:05+00:00"
+   "checked": "2026-11-23T01:16:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T01:11:06+00:00"
+   "checked": "2026-11-23T01:16:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T01:11:06+00:00"
+   "checked": "2026-11-23T01:16:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T01:11:06+00:00"
+   "checked": "2026-11-23T01:16:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-23T01:11:07+00:00"
+   "checked": "2026-11-23T01:16:05+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T01:11:07+00:00"
+   "checked": "2026-11-23T01:16:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T01:11:07+00:00"
+   "checked": "2026-11-23T01:16:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T01:11:07+00:00"
+   "checked": "2026-11-23T01:16:06+00:00"
   }
  },
  "items": [
+  {
+   "id": "binding of isaac dlc adds ai music in gta 6 parodying update despite not having an ai disclosure steam reviews drop to overwhelmingly negati",
+   "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNa1FFNXk1Rm9hLW54eWhYRjA0bmU1SWo5S2pYUGxENGliTUZVYjdoTnVPNU1DaGlkMFNBRHhYZW9lRk5DRm94VkZDMUNsTzlkRmw5bTdzbFR4OElCMG1BeUYxelhnbjhOOTU0ODEwbFRpei0xZVFZekxxZ0VBS1A3X1U1R0VTRHI2ZEk3VzVTVlU1cXhLT3YzdktNdFJSS0lQTGVWM1BheFZEbkt6Nl9TWWdPeXJGLUpJNUxCWXFtQ19laWowS09NTzNzZUppTzJ5d2VDdGJsb0NkZ3ZlLU5JTFNWTFJTZzZKZkllTlRTVkdJajVhYVdQY05GTFlnTE9NVHJrLUtuVlloTGMzM0Z1dzdIS2J1S0hFZEVIOGhXOEJTbEZiTUxiZg?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-23T01:14:32+00:00",
+   "seen": "2026-11-23T01:16:02+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 parody update that adds AI music, lacks an AI disclosure, and coincides with Steam reviews dropping to a negative level and music being pulled."
+  },
+  {
+   "id": "gta 6 cars and vehicles every class and the real models behind them",
+   "title": "GTA 6 cars and vehicles: every class and the real models behind them",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZm1uRUFQd2pwS00tODJ3eWRWT05hN0d4LUh6S2pWVHk3YS1sN0NxNWtXcl9zVHh3OFJncnhocG5TVHhNY1hHaTJOWEhQRDdwNjV6cTJFenlJbjJWX29GMjBsel8xakFNb3NWVm4zcVdBZ1ZrX2pwUElqdW9VNEZOMDh0dGJ5MnBXRHNkODZ5cFg?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T01:11:43+00:00",
+   "seen": "2026-11-23T01:16:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports all GTA 6 car classes and the real models behind them."
+  },
+  {
+   "id": "ishowspeed was just exploring gta vi when a random garage door revealed something straight out of dexter a hidden kill room complete with pl",
+   "title": "iShowSpeed was just exploring GTA VI when a random garage door revealed something straight out of DEXTER. A hidden kill room, complete with plastic-covered walls and creepy tools 💀 Writer: Sol",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DRlZKU2Q5OXlUWnRpWmJ1LW5jOHN2TjBiRjV2OEZvY1VjVkpONUVzS1Q2NVZIQzVLWndvOFZWdjlmbURSLWdMVTVNMjc0WXFkNUhGR3RQUlo4QjA3alkxb3dmMWlaS3gyN0xMMA?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-23T01:05:00+00:00",
+   "seen": "2026-11-23T01:16:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports iShowSpeed exploring GTA VI and encountering a hidden kill room revealed by a garage door, described with Dexter-like details."
+  },
   {
    "id": "oh yeah gta vi is the good stuff for streamers",
    "title": "Oh yeah, GTA VI is the good stuff for streamers",
