@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T14:35:36+00:00",
- "started": "2026-11-23T14:35:28+00:00",
+ "updated": "2026-11-23T14:40:35+00:00",
+ "started": "2026-11-23T14:40:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-23T14:35:28+00:00"
+   "checked": "2026-11-23T14:40:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-23T14:35:29+00:00"
+   "hits": 40,
+   "checked": "2026-11-23T14:40:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-23T14:35:29+00:00"
+   "hits": 67,
+   "checked": "2026-11-23T14:40:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T14:35:29+00:00"
+   "checked": "2026-11-23T14:40:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T14:35:30+00:00"
+   "checked": "2026-11-23T14:40:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-23T14:35:30+00:00"
+   "checked": "2026-11-23T14:40:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 29,
-   "checked": "2026-11-23T14:35:30+00:00"
+   "checked": "2026-11-23T14:40:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T14:35:30+00:00"
+   "checked": "2026-11-23T14:40:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T14:35:31+00:00"
+   "checked": "2026-11-23T14:40:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T14:35:31+00:00"
+   "checked": "2026-11-23T14:40:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 11,
-   "checked": "2026-11-23T14:35:32+00:00"
+   "hits": 12,
+   "checked": "2026-11-23T14:40:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T14:35:32+00:00"
+   "checked": "2026-11-23T14:40:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T14:35:32+00:00"
+   "checked": "2026-11-23T14:40:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T14:35:32+00:00"
+   "checked": "2026-11-23T14:40:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 update now live on xbox series x s players share their first impressions",
+   "title": "GTA 6 Update Now Live On Xbox Series X|S, Players Share Their First Impressions",
+   "link": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-players-share-their-first-impressions",
+   "outlet": "Pure Xbox",
+   "via": "Pure Xbox",
+   "published": "2026-11-23T14:35:00+00:00",
+   "seen": "2026-11-23T14:40:31+00:00",
+   "summary": "\"It's definitely smoother\". GTA 6 only officially launched late last week, but Rockstar Games has already pushed out a new update (01.002.002) for the game across Xbox Series X and Xbox Series S (along with PS5), rolling out as of a few hours ago. You're looking at a download size of around 1.6GB for update 1.0.2 on Xbox Series X and S. Read the full article on purexbox.com",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 has a new update live on Xbox Series X|S with user impressions that it feels smoother."
+  },
+  {
+   "id": "clearing up false info about the gta 6 criminal profile system",
+   "title": "Clearing Up False Info About The ‘GTA 6’ Criminal Profile System",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkdoTkNnR1ZzZTE2dnRmRF9zaG1OT0IwM3p1cGtQRFBlcFlkVEViR3dkS1RCb294QTJkX21SQUxLR21oTkVtOEhUSVh2ZmFheTY3TmhTWE5CLVB6S091YzhzT3dnc2JHWVYyQWJ2ZU9GVWdIZ2tZRGdwNmg0Y096YTh0Q1JlZ1hvRTROTnhsUGZ5RVRxTllJaGlCU0NCNzdFOXg4LXZ6WENjcUIySEhKZW43WQ?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-23T14:34:48+00:00",
+   "seen": "2026-11-23T14:40:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Forbes reports clearing up false information about the GTA 6 criminal profile system."
+  },
   {
    "id": "gta 6 missing persons every missing person location and how to find them",
    "title": "GTA 6 Missing Persons: Every Missing Person Location and How to Find Them",
@@ -441,6 +467,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "Players notice something unique about GTA 6's version of a Tesla."
+  },
+  {
+   "id": "grand theft auto 6 launch sets australian internet traffic records",
+   "title": "Grand Theft Auto 6 launch sets Australian internet traffic records",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTUVvXzF3U1NTeGFzVnAxYmZiQjkyb1NTQ29uQ1A4VXlTclk1RXJpd0gxR3FpOW9HUHFic3VtZlhhaFUyZ3FRR0x1ZUczOWRrVkpoZUFsYXBDaEVvNnM4eGVnaVBWTXJvVnl3VlBUNjR4cHczRjhBcGVSak1oeDgxblZlVWhoRG51WXFid0dEZUVOYjA?oc=5",
+   "outlet": "games.gg",
+   "via": "Google News",
+   "published": "2026-11-23T13:47:48+00:00",
+   "seen": "2026-11-23T14:40:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 launch sets Australian internet traffic records as reported by games.gg."
   },
   {
    "id": "gta vi success causes spike in flight searches to miami",
