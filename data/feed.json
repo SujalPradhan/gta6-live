@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T13:20:05+00:00",
- "started": "2026-11-23T13:19:58+00:00",
+ "updated": "2026-11-23T13:25:13+00:00",
+ "started": "2026-11-23T13:25:04+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-23T13:19:59+00:00"
+   "hits": 100,
+   "checked": "2026-11-23T13:25:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-23T13:19:59+00:00"
+   "checked": "2026-11-23T13:25:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 69,
-   "checked": "2026-11-23T13:19:59+00:00"
+   "hits": 70,
+   "checked": "2026-11-23T13:25:06+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T13:19:59+00:00"
+   "checked": "2026-11-23T13:25:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-23T13:20:00+00:00"
+   "hits": 7,
+   "checked": "2026-11-23T13:25:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 53,
-   "checked": "2026-11-23T13:20:00+00:00"
+   "checked": "2026-11-23T13:25:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 29,
-   "checked": "2026-11-23T13:20:00+00:00"
+   "checked": "2026-11-23T13:25:07+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T13:20:01+00:00"
+   "checked": "2026-11-23T13:25:08+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-23T13:20:01+00:00"
+   "hits": 6,
+   "checked": "2026-11-23T13:25:08+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T13:20:01+00:00"
+   "checked": "2026-11-23T13:25:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T13:20:02+00:00"
+   "checked": "2026-11-23T13:25:09+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T13:20:02+00:00"
+   "checked": "2026-11-23T13:25:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T13:20:02+00:00"
+   "checked": "2026-11-23T13:25:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T13:20:02+00:00"
+   "checked": "2026-11-23T13:25:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "from lan parties to gta 6 how to belong when you don t play",
+   "title": "From LAN parties to GTA 6: How to belong when you don’t play",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2JuUjl2Ynk2eUN2QjJ3VVJmTHVBcmtxbXFBb1pZdzhSRG13b0hVVkx4ckVoM2hIYkVaNk1aQzU5N0xlNUdqdGJsbzdvbHB5NEZFTkw4d21nQ195czdNbGlDbzIxMFlqY25mQm92akMtbmFrZFFLMWhoX0hNWTRxWW5lT242ZlJMUFZ5ZmNTQW5zTzZhT2VOVU1LdGx5dGdFaXc?oc=5",
+   "outlet": "Spiceworks",
+   "via": "Google News",
+   "published": "2026-11-23T13:21:11+00:00",
+   "seen": "2026-11-23T13:25:05+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses belonging in gaming communities when you don’t play."
+  },
   {
    "id": "gta 6 didn t include darts because it needed a lot of work to get it tuned right",
    "title": "GTA 6 Didn’t Include Darts Because It Needed “A Lot of Work” to “Get It Tuned Right”",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 did not include darts because it required a lot of work to get it tuned right."
+  },
+  {
+   "id": "cyberleek says final file from gta 6 leak is due today",
+   "title": "Cyberleek says final file from GTA 6 leak is due today",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTURNdm5ZVGt2VmJ1NlZkc1hPZ29QSWJfQlJmWmdnTXF2d2dYako5djcxZXJ3LTNvbDlkblhnd0F3TUNZVWpGUjZrd2ppYWRYeFo3U1hqaUg5QVp3LXN2b05Lc1VYdXRIVXRWRFdrRGs4VnFSUDZ0YkZnY2RTWXc3YzFtMzk4Zw?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-23T13:15:13+00:00",
+   "seen": "2026-11-23T13:25:05+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Cyberleek claims the final GTA 6 leak file is due today."
   },
   {
    "id": "gta vi launch breaks records wish tv",
@@ -339,6 +365,19 @@
    "ai_summary": "The story reports the first major update for GTA 6 has been officially released."
   },
   {
+   "id": "gta 6 first major post launch update officially released",
+   "title": "GTA 6 First Major Post-Launch Update Officially Released",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BaXJmTXNHMWp5TGlia05zNWpiRG1IM01rVmJkVHk4dTd6b2VKTmt2OEZtdnVhY093bWxkV09mNER5MEE3TzNWZkdXVktyR0pfdmhnc0dfbUpCY1JiOXQ0b1pZLWZZX0t3U3hCNWVtNA?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-23T12:58:44+00:00",
+   "seen": "2026-11-23T13:25:05+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6’s first major post-launch update has officially released."
+  },
+  {
    "id": "grand theft auto vi s 60 fps unlock bug on xbox series x only results in 33 fps",
    "title": "Grand Theft Auto VI's 60 FPS unlock bug on Xbox Series X only results in 33 FPS.",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYThORWZqRnVyVnoyWjNNNGR1LXlJNU04SEJiQ1dDYk5JUjR4TE40OEZMeHdBelFySUJ5eWVrbXo3ekppYXpoNmM5dWlmNUNUeEhmLWVaR0hielYyQmhjcGplNmhnTjVQdEVrUENVVnBPajdhWFhYNGpmTDRJT0cwQkVsbEI2dlJSVlVrdU1FZThjQ25aZFNkMXV5M3pPdDdoSEVxeTZlSVVsRlNlV2lOVlI5Ty0tR25qdGc?oc=5",
@@ -454,6 +493,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story covers Justice’s GTA VI sunrise set at Club Space as described by Miami New Times."
+  },
+  {
+   "id": "gta 6 update today patch notes on ps5 xbox all gamers are not receiving grand theft auto vi first update",
+   "title": "GTA 6 Update today patch notes on PS5, Xbox: All gamers are not receiving Grand Theft Auto VI first update",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZEk5alNJc1AwUVZQeWFHODh2UlFoWFV1MWd2YmF4VzdhNS1JQ1ktdUxuWDVQcXZmQ2t2OU54cFNIQmxhMHRXVUktakJvaUttNjBWb2lEZUp6LS15VVZpNDI1OTRKUzZUQTJvY1Y1NHVQUWtXbUtMZDdxYXlDdkVad3dfMDFSY2RNVU1tUVN5YU4zYlhFdEhaNWNEbWtvUy01em9nSHBHckloM1FTOVNpSzVKS0t0aGdkTHpQbFhMWm5VbTdlbldmY3pEWkV2YUZ2TlIxNF9UVXFuNk8tUG1QYm5vcFpQdW9VSUllUzAwX3pqNmNaMUJQOVBxalFfODFZZnBJdktTeVFMV092OVJGcVQxaVdncFRwV2s2dk93a9IBpAJBVV95cUxNSFBsNHVrejNMSEY0LVBaZkZmMkZ0NjkzMzFtYVphcnl5MTY2NGZvR2hSNTdLTk1DSEdaNWIyYVZYb3NhaVdCMmwwNmJ4dW9TQnlkQTNMa3hIeWJZY1BEbXA3UXhtVmJuXzYxYmo0WU5SWDVaV29yZG9za05ZakZQVkV3cUFGd25tcUZDcUhhOGhpNjdtc1dIcHExQzRDdUVjYVBMRU1sY3R1c0hXMGRxcEJyS1JPMmQzcjJxdHVMS19TSFZ6MnpjcHdtM2RJaHF2NDhSMW5oMlhsUUxocldsM1NLY1BnNjB3WlRVZ1NGSGdkX2dUUUhBWHdrQlhiVy13aEkzcDlaVTVMYVY0bVJvTk5MVy1VMDBIZ0RzRG9JMnJCaVVL?oc=5",
+   "outlet": "The Economic Times",
+   "via": "Google News",
+   "published": "2026-11-23T12:42:03+00:00",
+   "seen": "2026-11-23T13:25:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The update notes indicate PS5 and Xbox users are not all receiving the first GTA VI update."
   },
   {
    "id": "gta 6 has given carly rae jepsen s most underrated song another shot in the charts",
