@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T12:16:58+00:00",
- "started": "2026-11-23T12:16:52+00:00",
+ "updated": "2026-11-23T12:19:44+00:00",
+ "started": "2026-11-23T12:19:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T12:16:53+00:00"
+   "checked": "2026-11-23T12:19:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-23T12:16:53+00:00"
+   "hits": 40,
+   "checked": "2026-11-23T12:19:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 63,
-   "checked": "2026-11-23T12:16:53+00:00"
+   "checked": "2026-11-23T12:19:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T12:16:54+00:00"
+   "checked": "2026-11-23T12:19:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-23T12:16:54+00:00"
+   "checked": "2026-11-23T12:19:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-23T12:16:54+00:00"
+   "checked": "2026-11-23T12:19:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-23T12:16:54+00:00"
+   "checked": "2026-11-23T12:19:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T12:16:54+00:00"
+   "checked": "2026-11-23T12:19:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T12:16:54+00:00"
+   "checked": "2026-11-23T12:19:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T12:16:55+00:00"
+   "checked": "2026-11-23T12:19:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T12:16:55+00:00"
+   "checked": "2026-11-23T12:19:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T12:16:55+00:00"
+   "checked": "2026-11-23T12:19:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-23T12:16:55+00:00"
+   "checked": "2026-11-23T12:19:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T12:16:55+00:00"
+   "checked": "2026-11-23T12:19:42+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that someone has already unlocked GTA 6's Platinum Trophy."
+  },
+  {
+   "id": "take two can retest 265 in 2026 with this december gta vi announcement",
+   "title": "Take Two Can Retest $265 in 2026 With This December GTA VI Announcement",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXVBWUVLNlNueFZHX0dOckxzSmFGS0VqanRHdG41TENPbEZ4SE03SENFaDBqQllJUkdhY1RUMTF6OXBFTjBmSkgtQzhmaC1BUGhEOVU5aWhjc0dkNk9QS3ZkRUxQeWJ6VGxMS1lKdzdraE5qc0Z5Y2Jwa21VRi11d1psTzBVUU05VmE0YUhHak9lazcxYUNMUUN6a0RwUldldHBSbjZ5N2FEUnQ0N25fUVVyZVk?oc=5",
+   "outlet": "24/7 Wall St.",
+   "via": "Google News",
+   "published": "2026-11-23T12:15:00+00:00",
+   "seen": "2026-11-23T12:19:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Take Two can retest $265 in 2026 with this December GTA VI announcement."
   },
   {
    "id": "here s how to get vanessa s laptop password and find auntie s place in la perle in gta 6",
@@ -480,6 +493,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story states that Rockstar Rolls Out GTA 6 Update 01.002.002 in phases."
+  },
+  {
+   "id": "gta 6 fans spot hidden anti trans billboard mocking right wing panic",
+   "title": "GTA 6 fans spot hidden ‘anti-trans’ billboard mocking right-wing panic",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zZzhOOExuenVvRnVqNThCUlZOeEd4aWdsTG9mWFNaWUZEaV8ydXdVSzJkODdPRXlGRDJmeWRtZER5dnNyWF80MURwSHRpUWFaanlIanBzZWp0VFdWX2kzZ2F1d1I1Q3hOR1dVOHZFYWcwU1Ns?oc=5",
+   "outlet": "PinkNews",
+   "via": "Google News",
+   "published": "2026-11-23T11:40:56+00:00",
+   "seen": "2026-11-23T12:19:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 fans spot hidden ‘anti-trans’ billboard mocking right-wing panic."
   },
   {
    "id": "grand theft auto vi shatters records with 3 79 billion day one sales",
@@ -896,6 +922,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA VI update 01.002.002 has started rolling out, but some users may have to wait six hours to receive it."
+  },
+  {
+   "id": "gta 6 kit car willie s service center",
+   "title": "GTA 6 Kit Car - Willie's Service Center",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VZjFOYkZvLW9mMlRGdl9zMENQSVRRdzcxcWVPclBNNFJycVVyejUxRmJCSzJaanMweXJZOXg0dFBYZEpVakgzMmc4OTZuQUhDSktXeFVlb1MwSkJUN29TeVpzQXZveEMzU1hnQ2dSWW1YaVB1?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T11:12:37+00:00",
+   "seen": "2026-11-23T12:19:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 Kit Car - Willie’s Service Center."
   },
   {
    "id": "fastest cars in gta 6 and where to find them",
@@ -2417,6 +2456,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports all the safe and door codes for GTA 6."
+  },
+  {
+   "id": "why gta vi s shift toward the sims style gameplay threatens its identity as a crime game",
+   "title": "Why GTA VI’s shift toward The Sims-style gameplay threatens its identity as a crime game",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0dNaE1VS3J0TVdZTGlKV1N0T3RTdHFoVk5VUVhKRlhlV1JJU1U4M1FaYnVYd1BQcnJJVV9LQktBOUxJSUhMbDVjbnhQWHBsZ0NaNVNvM18wQUU3SDRMWDRfZE5UM0EzZW1veVM2TlVoWE1oMjBibkloSGdHOHAyQndpdjFHODhha2UwWkhpVjl3Z0p2WUpfYW9KMzMtZkFyV3hrSWI0Q3RvZlFxWThySHp5NGVKUjdqQlpKOFpwTFF2UVBKMms5V0lRelZWVDRNQVE?oc=5",
+   "outlet": "IOL",
+   "via": "Google News",
+   "published": "2026-11-23T08:14:36+00:00",
+   "seen": "2026-11-23T12:19:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Why GTA VI’s shift toward The Sims-style gameplay threatens its identity as a crime game."
   },
   {
    "id": "gta 6 feng shui mission guide moving furniture with cal and two arcade games you can t win",
