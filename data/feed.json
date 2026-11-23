@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:06:24+00:00",
- "started": "2026-11-23T16:06:17+00:00",
+ "updated": "2026-11-23T16:11:15+00:00",
+ "started": "2026-11-23T16:11:08+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T16:06:17+00:00"
+   "checked": "2026-11-23T16:11:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-23T16:06:18+00:00"
+   "hits": 43,
+   "checked": "2026-11-23T16:11:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-23T16:06:18+00:00"
+   "hits": 75,
+   "checked": "2026-11-23T16:11:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:06:18+00:00"
+   "checked": "2026-11-23T16:11:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T16:06:19+00:00"
+   "checked": "2026-11-23T16:11:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T16:06:19+00:00"
+   "checked": "2026-11-23T16:11:09+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-23T16:06:19+00:00"
+   "checked": "2026-11-23T16:11:10+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T16:06:19+00:00"
+   "checked": "2026-11-23T16:11:10+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T16:06:19+00:00"
+   "checked": "2026-11-23T16:11:10+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-23T16:06:20+00:00"
+   "checked": "2026-11-23T16:11:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T16:06:20+00:00"
+   "checked": "2026-11-23T16:11:11+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T16:06:20+00:00"
+   "checked": "2026-11-23T16:11:11+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-23T16:06:20+00:00"
+   "hits": 2,
+   "checked": "2026-11-23T16:11:11+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T16:06:21+00:00"
+   "checked": "2026-11-23T16:11:11+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi review the cult of immensity",
+   "title": "‘Grand Theft Auto VI’ Review: The Cult of Immensity",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclMtZGJ5X1dncFJRRllsYk5oc0FtbXlfMHRFRVZOR3BuUkZMaURBU2czT3hRRDlGanNjM3dQWG5NSlZOQjhDNHRlLVdBbEZKb1dIaEhJVTM1WkdRM0VPeFU1cVpua2p2OWduNXBsZzVQVFd6YjJtOEtESXlUZm1JdXg2bmU5c1BRQVNQQQ?oc=5",
+   "outlet": "ArtReview",
+   "via": "Google News",
+   "published": "2026-11-23T16:06:39+00:00",
+   "seen": "2026-11-23T16:11:08+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The review label for Grand Theft Auto VI as a phenomenon-focused piece from ArtReview."
+  },
+  {
+   "id": "grand theft auto vi the album gets 23 track deluxe with slayyyter tana and more",
+   "title": "'Grand Theft Auto VI: The Album' gets 23-track deluxe with Slayyyter, tana, and more",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNblU3MmdtU0djd2FoNUFScDdRN3dlZzVEMXBqb0dUSUNrUjdocThfNGQ0N2NRSXk0Ujc3TmJUbmZWNlN0aVJwbS16X09hZVFxRFhCT29aN2dTcGM0Z1A5eXJuSVdBZDBvY0Y4blBqc1hQeHBUNjJUdkVMY0ZFZlkxa29mVE1KYjZRU1dnekt1SVh2N01XaUE?oc=5",
+   "outlet": "The Fader",
+   "via": "Google News",
+   "published": "2026-11-23T16:05:40+00:00",
+   "seen": "2026-11-23T16:11:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The album version of Grand Theft Auto VI adds a 23-track deluxe featuring Slayyyter, tana, and more."
+  },
+  {
+   "id": "grand theft auto vi lives up to its hype with compelling characters and spectacular action",
+   "title": "'Grand Theft Auto VI' lives up to its hype with compelling characters and spectacular action",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPejJOVG1oRXp0RjdmaUcwcGRPczBSX0dqa2lsM2xtSllQcVVEZEtpaG9hSzNTbzBUbThEUUJQM09VSDdpaWM3MldaVktSVE1ydThibEtQOVV0ZFp0Q2dGZHBON2dfbGV1azFBTEdrbkJzdnVESjVCYlpfakg0UTNOM2VpVVh0UQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T16:03:53+00:00",
+   "seen": "2026-11-23T16:11:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI meets expectations with engaging characters and impressive action, per Yahoo Tech."
+  },
+  {
+   "id": "rockstar surprise drops 23 bonus tracks on the gta 6 deluxe album",
+   "title": "Rockstar Surprise Drops 23 Bonus Tracks on the GTA 6 Deluxe Album",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLUROd1V2UGNTcHJCUVREemhFc3UtT1R3RlZ1ZmlIY2p3XzhYajFkcmhBM0hpVTFqWkE0NWttU0Eyb2dEU1MyeG9Cbi1XZmVYbU80Wjc4aFdSbUFPNUpFOWwwcnJOT25qQlJDbE5YRTVVcmlzbnRvX0ZDRHNZcTVGOW83d1N3NjMxelFTWkdiMWtUcGFV?oc=5",
+   "outlet": "GTA BOOM",
+   "via": "Google News",
+   "published": "2026-11-23T16:03:06+00:00",
+   "seen": "2026-11-23T16:11:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar releases a 23-track bonus on the GTA 6 deluxe album."
+  },
+  {
+   "id": "60 hours in gta 6 has me yearning for an online leonida",
+   "title": "60 hours in GTA 6 has me yearning for an online Leonida",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFdJQ184Ml9ZRTJzVWF6dWVUM3pwWjBpTjZCck9HODRweS1vay1QTk8yZDkyb3BaTjZpQndHWXBXZ19oam9uSDBIdDEyak9QMDlVZlBVb3NEUG9VOVFtSXljWnB6QklOYTFUb1N3Zk1uMGFJSmNVR0dhemZTb2dRZnpWZl9EOWZ2TVRjSVVDNW9MWlc3SmVPb1JFM2dwbnpEekpkWG93?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-23T16:02:42+00:00",
+   "seen": "2026-11-23T16:11:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A PC Gamer piece describes spending 60 hours in GTA 6 and longing for online content."
+  },
   {
    "id": "an absurd little immersion breaking hiccup that reminded me gta 6 isn t perfect",
    "title": "An Absurd Little Immersion-Breaking Hiccup That Reminded Me GTA 6 Isn’t Perfect",
@@ -259,6 +324,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "Grand Theft Auto VI generates the biggest entertainment launch ever in reported figures."
+  },
+  {
+   "id": "take two target raised by wedbush after 3 79 billion gta vi debut",
+   "title": "Take-Two target raised by Wedbush after $3.79 billion GTA VI debut",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSGRnTHJsbE5VQ1JzdC0wTjhjR1NjZk4xUG5KOElpaDFHakNrMGM0ZUdZRTY3c2tnQUxNR3Z3YldKaHFnS0xVZlB1dUduSGdVVXF5ZXNCOEh6V1FiSnJ6azlUai1FT1h1YV9Da0hkbjQ5NUtIUldwb2xMNTc2Qm1TcjAxaE9qa0RiVDdHTF96c3phMVVNd2h2TXFZa295SDNjUHRDQ1lOUURoN2Q3eTRUODNoTlhVT25FOEFjWUVaVG5oVjh0RlF5MzVjQlVSbGg2RXc?oc=5",
+   "outlet": "Proactive financial news",
+   "via": "Google News",
+   "published": "2026-11-23T15:44:00+00:00",
+   "seen": "2026-11-23T16:11:08+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Take-Two stock was targeted by Wedbush after the GTA VI debut valued at several billions."
   },
   {
    "id": "gta 6 hacker who leaked footage in 2022 has been released on licence and told not to do it again",
