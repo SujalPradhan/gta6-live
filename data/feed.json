@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T22:08:25+00:00",
- "started": "2026-11-23T22:08:19+00:00",
+ "updated": "2026-11-23T22:13:25+00:00",
+ "started": "2026-11-23T22:13:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T22:08:20+00:00"
+   "checked": "2026-11-23T22:13:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-23T22:08:20+00:00"
+   "hits": 48,
+   "checked": "2026-11-23T22:13:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-23T22:08:21+00:00"
+   "hits": 72,
+   "checked": "2026-11-23T22:13:20+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T22:08:21+00:00"
+   "checked": "2026-11-23T22:13:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T22:08:21+00:00"
+   "checked": "2026-11-23T22:13:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T22:08:21+00:00"
+   "checked": "2026-11-23T22:13:21+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-23T22:08:21+00:00"
+   "checked": "2026-11-23T22:13:21+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T22:08:22+00:00"
+   "checked": "2026-11-23T22:13:21+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T22:08:22+00:00"
+   "checked": "2026-11-23T22:13:21+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T22:08:22+00:00"
+   "checked": "2026-11-23T22:13:22+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T22:08:23+00:00"
+   "checked": "2026-11-23T22:13:22+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T22:08:23+00:00"
+   "checked": "2026-11-23T22:13:22+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T22:08:23+00:00"
+   "checked": "2026-11-23T22:13:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T22:08:23+00:00"
+   "checked": "2026-11-23T22:13:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "the new playstation 5 crashed after three days of playing gta vi",
+   "title": "The new PlayStation 5 crashed after three days of playing GTA VI.",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTJFS0dQVHJrQWd6cDlfUmNNVGhxX3BNUjdqM041cVFWVzNNbEdfblN0WFBJSkpuWDJXUVBhZm50LXFyYWRWMXp5MmFRc2NNOWhiNXczYl9KbF93M2R1RS1janM4d1dJUE5hNEl5LXl2RzQxNElXVURCZDhSX3BjNkdKRFZjd3pveXBmWi1JNjlLbno0Si1JOWtvY3JOTVZUZi04?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-23T22:05:13+00:00",
+   "seen": "2026-11-23T22:13:20+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports that the new PlayStation 5 crashed after three days of playing GTA VI."
+  },
   {
    "id": "gta 6 is already playable in your browser but only if you re extremely patient",
    "title": "GTA 6 is already playable in your browser, but only if you're extremely patient",
@@ -142,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims a couples therapist says GTA 6 is ruining relationships."
+  },
+  {
+   "id": "gta 6 meet the heders guide dinner with brian the scoop container and the highway chase",
+   "title": "GTA 6 Meet the Heders guide: dinner with Brian, the SCOOP container and the highway chase",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3E0dzBTblkzSk5sbHpFUlY4N2NsOWlUbl9rUU1wenVDN0RNMzlBbjdxZlNYLUdIa3kzUFNULXVqY1QwdEs5ZWNUYV9YOHdOQVJXajA2SG5sR3FoUkZNck5abW9tUGhTQmJVVnhuV3RydS1GSnNtMkRnTEx2QVUwTHNONVJmdHlINTVMbG5BSXNORkRfejJHWlRhekU2NEJlVVVBZ00tVTBwX0k?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-23T21:51:47+00:00",
+   "seen": "2026-11-23T22:13:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a guide titled Meet the Heders, including dinner with Brian, the SCOOP container, and a highway chase."
   },
   {
    "id": "gta 6 s jason actor had a small role on modern family",
@@ -1910,6 +1936,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a guide for a GTA 6 New Look mission involving getting a haircut at Pearl House in Port Gellhorn."
+  },
+  {
+   "id": "gta 6 just received a major addition featuring some big names",
+   "title": "GTA 6 Just Received a Major Addition Featuring Some Big Names",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWRvT2hwRzV1X1U4OFBfYXNlTzRiZnYxS29KbWJkcF90YXg2RmtqQW5uNnFmU0V4VnlHYm9kVU9BWklCb0hEQ2kwY0l4RENqUGxDdXFfR3VuV25CSTRuZlY4Mm5QM2J5SnVoS1BLVEpPOGhNVWZVbzdoaERkcm5YTGozdjRxQQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-23T18:10:19+00:00",
+   "seen": "2026-11-23T22:13:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 just received a major addition featuring big names."
   },
   {
    "id": "gta 6 alien dreams quest guide how to get abducted solve the ufo puzzles and rescue the alien",
