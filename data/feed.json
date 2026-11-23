@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T13:10:04+00:00",
- "started": "2026-11-23T13:09:56+00:00",
+ "updated": "2026-11-23T13:15:07+00:00",
+ "started": "2026-11-23T13:15:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-23T13:09:56+00:00"
+   "hits": 99,
+   "checked": "2026-11-23T13:15:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-23T13:09:57+00:00"
+   "checked": "2026-11-23T13:15:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-23T13:09:57+00:00"
+   "hits": 66,
+   "checked": "2026-11-23T13:15:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T13:09:58+00:00"
+   "checked": "2026-11-23T13:15:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-23T13:09:58+00:00"
+   "checked": "2026-11-23T13:15:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 53,
-   "checked": "2026-11-23T13:09:58+00:00"
+   "checked": "2026-11-23T13:15:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 29,
-   "checked": "2026-11-23T13:09:59+00:00"
+   "checked": "2026-11-23T13:15:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T13:09:59+00:00"
+   "checked": "2026-11-23T13:15:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T13:09:59+00:00"
+   "checked": "2026-11-23T13:15:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T13:10:00+00:00"
+   "checked": "2026-11-23T13:15:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T13:10:00+00:00"
+   "checked": "2026-11-23T13:15:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T13:10:00+00:00"
+   "checked": "2026-11-23T13:15:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T13:10:00+00:00"
+   "checked": "2026-11-23T13:15:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T13:10:00+00:00"
+   "checked": "2026-11-23T13:15:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "where to find the snap gun in gta 6 lockpick doors and avoid alarms during robberies",
+   "title": "Where To Find the Snap Gun in GTA 6—Lockpick Doors and Avoid Alarms During Robberies",
+   "link": "https://insider-gaming.com/gta-6-snap-gun-how-to-lockpick-doors/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-23T13:11:26+00:00",
+   "seen": "2026-11-23T13:15:03+00:00",
+   "summary": "In GTA 6, you'll often be faced with locked and alarmed doors. Getting the Snap Gun eliminates that concern, but where is it? The post Where To Find the Snap Gun in GTA 6—Lockpick Doors and Avoid Alarms During Robberies appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses locating the Snap Gun in GTA 6 to bypass locked doors and alarms during robberies."
+  },
+  {
+   "id": "gta 6 sales left every 2026 entertainment release in the dust here s how much",
+   "title": "'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much.",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPclpoUWRtN19FVHdrX2YxWTNCWFVwTlU0UG5JdHhmTndGb1NkYkhHVUgyYUgxQlZlNV9iTzFwNzVMbThkSE1kbUp2VkhJcEVMTzU4REZyTjRHVmdqQWR1a0ZrOXJpWnR6Q3NkelQyWnNCQ1EyWFBHUFJNMTlhV2NGWTN3Qk12Zw?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-23T13:11:00+00:00",
+   "seen": "2026-11-23T13:15:01+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story states GTA 6 sales outpaced every other 2026 entertainment release, detailing its sales performance."
+  },
+  {
+   "id": "grand theft auto vi update 1 0 2 2 increased the client s size on xbox to 209 86 gb",
+   "title": "Grand Theft Auto VI update 1.0.2.2 increased the client's size on Xbox to 209.86 GB.",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmJ4LUdVaENHX0Y3eXhCOVhxVDM3RW5RLVVvYjNySGZYWjgtNVJGUXMyWXZoMnV1ajF3YTZqRUN5NVc2cnJVS1o5TnYtNmVBcFNreXVlVXVtYUxoTG9kT1ItUWpLX3BHV05sem0zTVoxQnA1N2lwRW85TWpZek0yTTk1MW56SGFQUHJyQUtOdzZZTld5SVhpQ3RIZmhBVWkxMU5PUklKT1QyNFF0S2xRMnRkTXp0U2hFc2dHN0Jn?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-23T13:10:06+00:00",
+   "seen": "2026-11-23T13:15:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that update 1.0.2.2 increased GTA VI's client size on Xbox to a large size."
+  },
+  {
+   "id": "this community will have it emulated inside a week cyberleek is set to release the final piece of their gta 6 leak today here s what that me",
+   "title": "'This community will have it emulated inside a week': Cyberleek is set to release the final piece of their GTA 6 leak today — here's what that means for the PC version",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeG5ZQS1nLTkzVlBBTjl1bVVqaUtxNHdZUlNYMFNveUtSRHlrMDhVdVM4d05XamV6Y0ktVktjTnFva2Y0Z1h5SnhFNHF3a2tFOGlPUlBBbnZQR0l5YWJCd0toVFRuZ1RrQXEyS1QtVlJIMVlpRFo1TE9EUVVhLVpuVUhmc2lFOU9ONXhFazdDeDZQZ1JkalBvN3Q0SGVUVDQycE42TnI5MEhDaURDcW1tUVhFdmt0OHVjVDlERWNhTHRwTTMwWWlRa3pHTEFnRDVHa2taWGZWazZVS3g0dnVDRE1UbHVNRHF2?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-23T13:07:36+00:00",
+   "seen": "2026-11-23T13:15:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says Cyberleek plans to emulate the final GTA 6 leak within a week and discusses implications for the PC version."
+  },
   {
    "id": "gta 6 update 01 002 002 rolling out now although there are no patch notes yet",
    "title": "GTA 6 Update 01.002.002 Rolling Out Now, Although There Are No Patch Notes Yet",
@@ -116,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The update GTA 6 Update 01.002.002 is rolling out now, with no patch notes yet."
+  },
+  {
+   "id": "gta 6 easter eggs the best secrets and where to find them",
+   "title": "GTA 6 Easter eggs: The best secrets and where to find them",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wV1Vha21COFh0dzJUaEF2QXVrNzYtcEg1TVBLeWdwUE1VR1Rya2tsYzRIWlBQZkpxbWpqZjRudzMwdWpIOGZfbTljOVFCcERRZ0pNYnk2MV84YjA?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-23T13:07:02+00:00",
+   "seen": "2026-11-23T13:15:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story highlights GTA 6 Easter eggs and where to find the best secrets."
   },
   {
    "id": "gta vi has reportedly already sold about 45 million copies",
