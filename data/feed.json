@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T21:23:08+00:00",
- "started": "2026-11-23T21:23:05+00:00",
+ "updated": "2026-11-23T21:28:18+00:00",
+ "started": "2026-11-23T21:28:13+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-23T21:23:06+00:00"
+   "checked": "2026-11-23T21:28:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-23T21:23:06+00:00"
+   "hits": 49,
+   "checked": "2026-11-23T21:28:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-23T21:23:06+00:00"
+   "hits": 97,
+   "checked": "2026-11-23T21:28:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-23T21:23:06+00:00"
+   "checked": "2026-11-23T21:28:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-23T21:23:07+00:00"
+   "checked": "2026-11-23T21:28:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-23T21:23:07+00:00"
+   "checked": "2026-11-23T21:28:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-23T21:23:07+00:00"
+   "checked": "2026-11-23T21:28:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-23T21:23:07+00:00"
+   "checked": "2026-11-23T21:28:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-23T21:23:07+00:00"
+   "checked": "2026-11-23T21:28:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-23T21:23:07+00:00"
+   "checked": "2026-11-23T21:28:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-23T21:23:07+00:00"
+   "checked": "2026-11-23T21:28:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-23T21:23:08+00:00"
+   "checked": "2026-11-23T21:28:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-23T21:23:08+00:00"
+   "checked": "2026-11-23T21:28:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-23T21:23:08+00:00"
+   "checked": "2026-11-23T21:28:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 hype sends ps5 and xbox series sales soaring ahead of launch circana reports",
+   "title": "GTA 6 Hype Sends PS5 and Xbox Series Sales Soaring Ahead of Launch, Circana Reports",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5teTNEWm0wemtUR1VkM09yajhsRm1VckpqMEI0dTdESklTcC1LdTBrRUFzcnVicDBxVGlmLXllZlJKbGFndHY4eldBSHZoZkhmUjZ5d0EtV29uMm1zZno0ZGw2SFVjNkJxLXE3bw?oc=5",
+   "outlet": "TwistedVoxel",
+   "via": "Google News",
+   "published": "2026-11-23T21:25:26+00:00",
+   "seen": "2026-11-23T21:28:14+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The report says PS5 and Xbox Series sales are rising ahead of GTA 6's launch according to Circana."
+  },
+  {
+   "id": "grand theft auto vi sets record for comcast internet traffic",
+   "title": "Grand Theft Auto VI sets record for Comcast internet traffic",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3pLUWEzR1lET1gyY2VoS19QU2RXSXFOZ1FLMHJLZG9aS2lfZnJtLWZfaTdaQUs4TENwd05qUExxSV8tSzhPSTZxNHVWSWphLWVub0pOZ0I0a2lIUldwcFpJTFpJODN5U3B6WjBoRkRMQkkxVkxPeGpIV2lraWlqd2l2Yng4UHVLZkt3eW53bFljTDMtVHVseW0tYUhVdVpnbTNiUnlR?oc=5",
+   "outlet": "Concord Monitor",
+   "via": "Google News",
+   "published": "2026-11-23T21:23:38+00:00",
+   "seen": "2026-11-23T21:28:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story notes GTA VI sets a record for Comcast internet traffic."
+  },
   {
    "id": "carly rae jepsen s run away with me surges on streaming following grand theft auto vi placement",
    "title": "Carly Rae Jepsen's 'Run Away With Me' Surges On Streaming Following Grand Theft Auto VI Placement",
@@ -168,6 +194,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Headline states every playable video game in GTA 6 is ranked from worst to best, with no snippet provided."
+  },
+  {
+   "id": "this gta 6 glitch almost ruined the game s most iconic scene",
+   "title": "This GTA 6 Glitch (Almost) Ruined The Game’s Most Iconic Scene",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3VRY0JmZXdVN2duVzhYUHg4YWVYa0NDZkY1bVN2NU43NFBVbE8xam5yRkN2dExLbWxZWWFOY2JvbGlwcWVySzRMTkVqWWNOakdaU1ppTm5rRHRLQnQzaGllSERIaWtSNGlwcVVjcUhXb1R1b0NEOEdjVW5oMGh2WWd1SC12dUZ5Yko2YVJCVkFxbGw3QjNYazJ3?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-23T21:01:22+00:00",
+   "seen": "2026-11-23T21:28:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses a GTA 6 glitch that nearly ruined the game’s most iconic scene."
+  },
+  {
+   "id": "gta 6 s criminal profiles explained",
+   "title": "GTA 6's Criminal Profiles Explained",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qRUpjMVhmWjMzWnlMalNJR3loRUJ0aHNjeDRnNjcwUndLRnY0MU1wOFFhRDNMZ05BRDRZM0lDdWlyRGhLOU1QX2tnMWdscEI4d0VDVDJKbHFfYVpfdXFtbDBRamxJTUFZNDhDT2Nqaw?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-23T21:00:00+00:00",
+   "seen": "2026-11-23T21:28:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article explains GTA 6's criminal profiles."
   },
   {
    "id": "gta 6 surprise releases 23 more songs from travis scott slayyyter and major rock acts",
@@ -235,6 +287,19 @@
    "ai_summary": "GTA 6 includes a Mario and Luigi Easter Egg."
   },
   {
+   "id": "gta 6 player gets social ban on psn after sending a photo of in game nudity",
+   "title": "GTA 6 Player Gets Social Ban On PSN After Sending A Photo Of In-Game Nudity",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlQzUS1oQjJWNDNBblRFVWRTWTNqS2xncG5jYTdvYTBBNkJNTzJhUTdFZzc1NDhsOUNOVzJQYVBfenRFUUtUNVNBb29yUGZtcVZ4YmRLOTNURlFNcWZwOVNPS1JGY0VpYlRJQnZTaDI5QUg4b2hWT3JVemZzWEFOUi0xU0p6TnhLT2owNVNTWkRjYS1jaVhfSV9yOXdaUXh0aTJhVHBGRnhwdjREdlE?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-23T20:46:23+00:00",
+   "seen": "2026-11-23T21:28:13+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "A GTA 6 player received a social ban on PSN after sharing an in-game nude photo."
+  },
+  {
    "id": "gta 6 update fixes crashes autosaving and story progress bugs",
    "title": "GTA 6 update fixes crashes, autosaving and story-progress bugs",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDVTQU9qemxmN2R1eGl2c2p6NmRYQWJhTV9CaWw3U0dvall1MG1XMzFNSG45a3YtcE1hUEhSOEwtclhDcGswM3NzdnBNbGZjSDJxSEpkR1lfQzl5VUFCTzNUcDljVEdCMklmTV84SVhVbldnUTRiQi1WOVB1dUpET3licWxINnR3M3FVQ0YtTHFseDZISHBwLXlBR3ZEQlhZNnJPUkNHOFl2Y0E?oc=5",
@@ -246,6 +311,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "The update fixes crashes, autosaving problems, and story-progress bugs."
+  },
+  {
+   "id": "how gta 6 made 3 79 billion on launch day",
+   "title": "How GTA 6 made $3.79 billion on launch day",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OaUhQRE9xY2FDQ0JWYnRIR3ZqblN3b0psTkhheWJ4LTk1VnVhdXBrcTlZNC1SX1lKVVREd3ZfQVF4SXZ6VVFZcFFlemlCenl6Q1VMT3pqbnBFWWRWUmlydnpGWWFJUdIBa0FVX3lxTE5TZzh4YklzUF9oTjA2aVlBU1QtOU85b3VKVl95UzBpUkhRTUxlblN0WUM4RlFEYlVMQ0VGY0Uwb3lUUlFEUllLSE9EWDZRTVVJSm9nMTdVczYtQ1ZyZURPYXZvbFV2cXdtdVpR?oc=5",
+   "outlet": "FOX 35 Orlando",
+   "via": "Google News",
+   "published": "2026-11-23T20:43:39+00:00",
+   "seen": "2026-11-23T21:28:13+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The report states GTA 6 made three-point-seven-nine billion dollars on launch day."
   },
   {
    "id": "first gta 6 update fixes major open world issue",
@@ -2131,6 +2209,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article explains how to use auto drive in GTA 6 to cruise around Leonida."
+  },
+  {
+   "id": "gta 6 may push ps6 short of a stable 60 fps leaker kepler l2 says",
+   "title": "GTA 6 may push PS6 short of a stable 60 FPS, leaker Kepler_L2 says",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0tickprcDZqYkRQNVdGbmN3bUN5YWNWVW43aVRNUndWS0l2NjhTd1NLdmttbjhBX0dWcVF3VGJnbGlsQTZTckx4TW8yTkxKQ250OEo2LU5LZVA0V2lMaHBrMlMydDRCZ1VVUGpxeHJqR0Nzb2RRUmF3MkVaazVMZE51SXJhNG5TblYxMVdZT19sRDJvWWlLYjdR?oc=5",
+   "outlet": "news.lavx.hu",
+   "via": "Google News",
+   "published": "2026-11-23T17:15:46+00:00",
+   "seen": "2026-11-23T21:28:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 may prevent PS6 from maintaining a stable 60 FPS, per leaker Kepler_L2."
   },
   {
    "id": "random gta 6 hides an adorable mario luigi easter egg in its massive world",
@@ -8891,6 +8982,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on Rockstar discussing real-life inspirations for the character Jason Duval in GTA VI."
+  },
+  {
+   "id": "rockstar games gta 6 sets first day sales record",
+   "title": "Rockstar Games' GTA 6 sets first-day sales record",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wZC1rUUw4ZTIxZWhycG1JLWV1T056M1VONWwyTEVGRjhYYW0wSzA1T045MjBtTldBLWJTbG9TQTlpYmhGa2hxTThBZjlpc01kd2pNWGRSbHVRWjQ?oc=5",
+   "outlet": "Aju Press",
+   "via": "Google News",
+   "published": "2026-11-23T05:35:51+00:00",
+   "seen": "2026-11-23T21:28:14+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Rockstar Games' GTA 6 sets first-day sales record."
   },
   {
    "id": "gta 6 cannot switch to jason after missing persons reported chapter 3 softlock",
