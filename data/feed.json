@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T18:35:40+00:00",
- "started": "2026-11-24T18:35:34+00:00",
+ "updated": "2026-11-24T18:40:42+00:00",
+ "started": "2026-11-24T18:40:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T18:35:34+00:00"
+   "checked": "2026-11-24T18:40:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-24T18:35:35+00:00"
+   "hits": 60,
+   "checked": "2026-11-24T18:40:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-24T18:35:35+00:00"
+   "hits": 67,
+   "checked": "2026-11-24T18:40:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-24T18:35:36+00:00"
+   "hits": 3,
+   "checked": "2026-11-24T18:40:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-24T18:35:36+00:00"
+   "hits": 7,
+   "checked": "2026-11-24T18:40:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-24T18:35:36+00:00"
+   "hits": 58,
+   "checked": "2026-11-24T18:40:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T18:35:36+00:00"
+   "checked": "2026-11-24T18:40:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T18:35:36+00:00"
+   "checked": "2026-11-24T18:40:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T18:35:36+00:00"
+   "checked": "2026-11-24T18:40:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T18:35:37+00:00"
+   "checked": "2026-11-24T18:40:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T18:35:37+00:00"
+   "checked": "2026-11-24T18:40:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T18:35:38+00:00"
+   "checked": "2026-11-24T18:40:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T18:35:38+00:00"
+   "checked": "2026-11-24T18:40:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T18:35:38+00:00"
+   "checked": "2026-11-24T18:40:40+00:00"
   }
  },
  "items": [
@@ -339,6 +339,19 @@
    "ai_summary": "GTA 6's launch reduced Call of Duty's daily players by the amount estimated by Alinea Analytics, and four days later the numbers have not recovered."
   },
   {
+   "id": "community efforts to port gta 6 to pc and mac show early success",
+   "title": "Community Efforts to Port GTA 6 to PC and Mac Show Early Success",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGxvdlo0QzBpZlBuNjdBVTMycDQ2M0ttemRyTG8zeTJHbUM1bkE4NUFFdHlmeVpwOFYtWEpreEtWZjdVTEVxc0hlZmZObmp6dk12MWk2TlhIZW9qN1VvUnBFY0F0RWRzMUdTSjJkN0U2U291dkNaSnkwa3dNQWRtZW02blAxbHRXWGxmeTBBZHA5UkNERVE?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-24T17:55:56+00:00",
+   "seen": "2026-11-24T18:40:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Community efforts to port GTA 6 to PC and Mac show early success."
+  },
+  {
    "id": "gta 6 rakes in approximately 3 7 billion on launch day hacked leak raises specter of unofficial pc version",
    "title": "GTA 6 Rakes In approximately $3.7 Billion on Launch Day; Hacked Leak Raises Specter of Unofficial PC Version",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uaDcyTi0xRWgxRTFPb0hHV25YRlFCZXpWQy0yMjVtZmlUNFBlMUtBVllxU0RIa0N2dXpmcXJURkMzaUpCMjlMeHJBLWE1R3E5ZVdLN2tMWldOWWRFVUtMOVNDWldFZm1jSXItMDV6RWZQRHVJWlE?oc=5",
@@ -428,6 +441,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Strip club chain recreates GTA 6 lap dances with a choreographer."
+  },
+  {
+   "id": "real life strip club says it s had hundreds of inquiries from gta 6 fans as pornhub traffic plummets",
+   "title": "Real Life Strip Club Says It's Had 'Hundreds of Inquiries' From GTA 6 Fans, as Pornhub Traffic Plummets",
+   "link": "https://www.ign.com/articles/real-life-strip-club-says-its-had-hundreds-of-inquiries-from-gta-6-fans-as-pornhub-traffic-plummets",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-24T17:46:32+00:00",
+   "seen": "2026-11-24T18:40:37+00:00",
+   "summary": "Strip clubs are part of the very DNA of GTA 6, and exotic dance chain Spearmint Rhino is making the most of it, hiring a choreographer to recreate the moves of the in-game dancers for its patrons. According to the club, it's in response to a wave of requests from visitors and people sliding into its DMs.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A real life strip club reports hundreds of inquiries from GTA 6 fans as Pornhub traffic drops."
+  },
+  {
+   "id": "gta 6 recomp leaders bail out as take two cracks down on illicit efforts to get the game running on pc",
+   "title": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWlRaWWx0Ykcxdm03ZlVrVm5hdDFoTGJfQm12Y1BKM1VpN3lBLWp0R3pJdjdlcjQtMXRObi1FWFItVmJlZ1Zkc1hpckpJeVhfbmFXLWU1anZrWmZsVlNnNVBYcGhvekp1LXNUblloQXgwLVNqOVNkcHlqYndpUmh3TEFCZk8zLVJUMXZXQ3dTeEVjUzNMYU8wYzg1Q294QnVNOHRmVHoyOGp4b09uYlpZRXNIY0YyM1Z5NFcxZk5WcGFGWHREOU11bWlGOHh0SWh0b3NONW1YS2dOWmJ1alZnbGxxa2o?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-24T17:42:34+00:00",
+   "seen": "2026-11-24T18:40:36+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to run the game on PC."
   },
   {
    "id": "gta 6 players spam zelda with bad reviews over false blame",
