@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T10:57:42+00:00",
- "started": "2026-11-24T10:57:35+00:00",
+ "updated": "2026-11-24T11:02:51+00:00",
+ "started": "2026-11-24T11:02:45+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T10:57:36+00:00"
+   "checked": "2026-11-24T11:02:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 66,
-   "checked": "2026-11-24T10:57:36+00:00"
+   "checked": "2026-11-24T11:02:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-24T10:57:37+00:00"
+   "hits": 98,
+   "checked": "2026-11-24T11:02:46+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T10:57:37+00:00"
+   "checked": "2026-11-24T11:02:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T10:57:37+00:00"
+   "checked": "2026-11-24T11:02:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T10:57:37+00:00"
+   "checked": "2026-11-24T11:02:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 17,
-   "checked": "2026-11-24T10:57:38+00:00"
+   "hits": 18,
+   "checked": "2026-11-24T11:02:47+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T10:57:38+00:00"
+   "checked": "2026-11-24T11:02:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T10:57:38+00:00"
+   "checked": "2026-11-24T11:02:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:57:39+00:00"
+   "checked": "2026-11-24T11:02:48+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T10:57:39+00:00"
+   "checked": "2026-11-24T11:02:48+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T10:57:39+00:00"
+   "checked": "2026-11-24T11:02:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T10:57:40+00:00"
+   "checked": "2026-11-24T11:02:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T10:57:40+00:00"
+   "checked": "2026-11-24T11:02:48+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi s cars handle like real ones its physics chief won a class at the n rburgring",
+   "title": "GTA VI’s Cars Handle Like Real Ones—Its Physics Chief Won a Class at the Nürburgring",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEVwdlgwU2ZRLVBUTlZkeU1lbUIyenlxdzAtXzhFSWpyZGxOM1FXd3dWRld6QUpCX0gtU21YeUdHU3B4bVJMb2YydUpTRWxjWURDaWFVejVmMHpwZFdBZlRHamhFRjFNbHZXNEppNDRjbzBKX0IzdGZpcWNiQU1xaXNzSTY0dnl3RVQ3ZXJWWnBLb2hyaXhtTEtnUkdJN0Nr?oc=5",
+   "outlet": "MotorBiscuit",
+   "via": "Google News",
+   "published": "2026-11-24T11:01:35+00:00",
+   "seen": "2026-11-24T11:02:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI’s cars handle like real ones and its physics chief won a class at the Nürburgring."
+  },
+  {
+   "id": "gta vi launch has broken even more playstation records",
+   "title": "GTA VI launch has broken even more PlayStation records",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHJ6UlAwbTVRM2tIYnh0Q0VJd005VUxuenp5d1dORmlJVFV3OUZOVm5hdW8zOGxwMkxwbl9CYW9INmJ2TExSaE5BSGxlU3BPSWNMWlZURHJFYnFtclM5dzlJOHZYdGtpLVdIeDdWMEE4dHdIR3JOM3NXam9FLTloMmFMS0JFZFVVQVZoNEoxa2M4MjhsOXcwY2dmWmYxQWk5dThsdg?oc=5",
+   "outlet": "KitGuru",
+   "via": "Google News",
+   "published": "2026-11-24T11:00:23+00:00",
+   "seen": "2026-11-24T11:02:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI launch has broken even more PlayStation records."
+  },
+  {
+   "id": "gta 6 is biggest launch in playstation history with sony reporting over 39 million players on ps5",
+   "title": "GTA 6 is \"biggest launch in PlayStation history,\" with Sony reporting over 39 million players on PS5",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T10:56:24+00:00",
+   "seen": "2026-11-24T11:02:47+00:00",
+   "summary": "Grand Theft Auto 6 is the \"first game played on 70% of new PS5 consoles\"",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 is the biggest launch in PlayStation history, with Sony reporting over 39 million players on PS5."
+  },
   {
    "id": "gta 6 s album adds 23 tracks and overmono is moving in",
    "title": "GTA 6’s album adds 23 tracks, and Overmono is moving in",
@@ -1000,6 +1039,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A leaker claims even the PS6 may struggle to reach stable 60 FPS in GTA 6 on Sony hardware."
+  },
+  {
+   "id": "miami beach to clewiston real life gta 6 locations you can easily explore",
+   "title": "Miami Beach To Clewiston: Real-Life GTA 6 Locations You Can Easily Explore",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalpndGJ4Nzg3czNHMUszMU5mWElJSXRqdVpxdGplRkNlXzZKUzNmeFVYRzFNZ1lfMmNXQ2FuRVlmVXJodmdMWXBoZm5nWkZpcGx1cERIWFBReVNYa3FJMDROdlc3cXdLV0FjQnR6WEdvbVl5TGlERmRSTk5YM1EwWW05QnV1SlFwQ1Qzc0hENHM1ZWxaYlJvSjExenNmdWw0VmZHN2R5enp1Y3FseFVxMWg2QngyaVpxM25JYm9sdzlEQdIBxwFBVV95cUxPM09GdTlmaGdSaDl6Q2FQYUtjN0RrMHdKMkF1REZCVTROeEQ5UWdxVUVUOS1NWVpMLVhRaDh6UXNJcEtSUEN1SHpYZjNjaTM0bFZZVFFSNmFZVE8zcmFzVm5ZQzdpNlVSbkFYQnZUc0NxanRpMExJLVd6MUpLZGg3ZC1pYU4tbEd0ZUExcFdUWVVlamF4T2I5OGMzck1qRjg1Y0tzN0I4bm1TZUkydFFxaHB5X1dJWXlpNFpZS0FxN2htTVEtSlR3?oc=5",
+   "outlet": "Travel and Leisure Asia",
+   "via": "Google News",
+   "published": "2026-11-24T08:10:00+00:00",
+   "seen": "2026-11-24T11:02:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports real-life GTA 6 locations you can easily explore from Miami Beach to Clewiston."
   },
   {
    "id": "5 games to play while everyone else is playing gta 6",
