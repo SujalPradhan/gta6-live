@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T18:25:36+00:00",
- "started": "2026-11-24T18:25:29+00:00",
+ "updated": "2026-11-24T18:30:38+00:00",
+ "started": "2026-11-24T18:30:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T18:25:29+00:00"
+   "checked": "2026-11-24T18:30:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 75,
-   "checked": "2026-11-24T18:25:30+00:00"
+   "checked": "2026-11-24T18:30:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 90,
-   "checked": "2026-11-24T18:25:30+00:00"
+   "hits": 66,
+   "checked": "2026-11-24T18:30:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T18:25:31+00:00"
+   "checked": "2026-11-24T18:30:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T18:25:31+00:00"
+   "checked": "2026-11-24T18:30:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-24T18:25:31+00:00"
+   "checked": "2026-11-24T18:30:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T18:25:32+00:00"
+   "checked": "2026-11-24T18:30:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 21,
-   "checked": "2026-11-24T18:25:32+00:00"
+   "hits": 20,
+   "checked": "2026-11-24T18:30:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T18:25:32+00:00"
+   "checked": "2026-11-24T18:30:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T18:25:32+00:00"
+   "checked": "2026-11-24T18:30:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T18:25:33+00:00"
+   "checked": "2026-11-24T18:30:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T18:25:33+00:00"
+   "checked": "2026-11-24T18:30:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T18:25:33+00:00"
+   "checked": "2026-11-24T18:30:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T18:25:33+00:00"
+   "checked": "2026-11-24T18:30:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "japanese vtuber actually escapes gta 6 s impossible 6 star wanted level",
+   "title": "Japanese VTuber actually escapes GTA 6’s “impossible” 6-star Wanted level",
+   "link": "https://www.dexerto.com/gta/japanese-vtuber-actually-escapes-gta-6s-impossible-6-star-wanted-level-3431071/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-24T18:27:40+00:00",
+   "seen": "2026-11-24T18:30:34+00:00",
+   "summary": "Japanese VTuber Haigure Tamao has managed to escape GTA 6’s supposedly impossible six-star Wanted level by using an elaborate Easter egg.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Japanese VTuber escaped GTA 6’s six-star Wanted level using an elaborate Easter egg."
+  },
+  {
+   "id": "10 greatest gta 6 cameos ranked",
+   "title": "10 Greatest GTA 6 Cameos, Ranked",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93SXRRX05OZUhRSGxlckxaYjZRNzduWDNKejdiT2dhc1RRUnV3YUVGbnc0ZDNxajVKZVc1bzMySkdaWDVfcDM4ZmN5X0p1cmlSZDEzTFJ0dDZ1Z1lJZXc?oc=5",
+   "outlet": "Comic Book Resources",
+   "via": "Google News",
+   "published": "2026-11-24T18:26:50+00:00",
+   "seen": "2026-11-24T18:30:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists the ten greatest GTA 6 cameos, ranked."
+  },
+  {
+   "id": "catastrophic gta 6 leak officially kickstarts race for pc port",
+   "title": "Catastrophic GTA 6 leak officially kickstarts race for PC port",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWdwSHRyMk81NWhEWE5RaGpyXzh6azhnWWVva2ZoaFFZN3RqNGU3cWpjSHVuWnBFd2RlWlhxWU5JSThBRGFNS1E1Z2Q3M0RCTklUQmxlcU9CWnVLNGxLdHhveF9MY0MtZHVtN2RCdEdZamdvb3EwU2hmUjduZkhhS2M4cnVlMWpyNjY4WXgwYXZHWUUxZnV3cXE2SQ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T18:24:27+00:00",
+   "seen": "2026-11-24T18:30:31+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "A GTA 6 leak officially begins the race for a PC port."
+  },
   {
    "id": "gta 6 reportedly reaches in game rendering on pc just a day after xbox executable leak",
    "title": "GTA 6 reportedly reaches in-game rendering on PC just a day after Xbox executable leak",
@@ -116,6 +155,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 reportedly reaching in-game rendering on PC a day after an Xbox executable leak."
+  },
+  {
+   "id": "gta 6 review scores our readers gave it a 7 8",
+   "title": "GTA 6 review scores: our readers gave it a 7.8",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVTEEyZ3RSbjBCWVhzNWxhT3h2ekQ0b2MzS0Ruc09TYTZCUXdhXzFEb3dwc3JVVEUya3BITTBKSHBJNGpvdVVadEFDZkg0QVNNNFEzTUl2MXU0S2xVRDBfM0lydng4RkJ2TUVWT1JRTXMya2M0SnVab1ZLbw?oc=5",
+   "outlet": "GGRecon",
+   "via": "Google News",
+   "published": "2026-11-24T18:19:32+00:00",
+   "seen": "2026-11-24T18:30:32+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 review scores are reported as a 7.8 from readers."
+  },
+  {
+   "id": "gta 6 cloud streaming comes to ps5 and playstation portal",
+   "title": "GTA 6 Cloud Streaming Comes To PS5 And PlayStation Portal",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSld6Vlk5ZjIxZTVvUUwtMDdYNWd1QURfUzhieTQ0R01YLU9pcTFMa0ZDeWJsLWNmZFBGQ0QtRTNkZEtPZEc1c1dHaWtySElyLUUzcXJOTnA0ek9FRGgtbmdZdUFMR0Z6V1ZBMW9Wbkl4LW1HbkVLendfeVV6OHpOZnpMTGVRRWJuSDhqMFNJbDNUOXFtN2c?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-24T18:15:41+00:00",
+   "seen": "2026-11-24T18:30:31+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "GTA 6 cloud streaming arrives on PS5 and PlayStation Portal."
   },
   {
    "id": "you can expect a similar leap between the witcher 3 and the witcher 4 as there is between gta 5 and gta 6 cd projekt red says",
@@ -545,6 +610,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "The story reports the locations of Peewee Billboards in GTA 6's Vice City map and mentions a reward."
+  },
+  {
+   "id": "judge frees gta 6 hacker immediately after handing him 7 year sentence",
+   "title": "Judge Frees GTA 6 Hacker Immediately After Handing Him 7-Year Sentence",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVJvWHgwVDJaZmplTGpLU0p1cE5yZlJNMXY0R0RTeVMydVd0aDMzZnFfTmFlaEVQZWdaRFhsMU1DTnVlMmFSWmJoNDloQnJTcWFsbHgzUkxGNFMyWjZqV2l3eGMzX2tvdlF6cWotQ2lDRFF0bFR1UnBxa3Rla01rZFBxN2JlOHls?oc=5",
+   "outlet": "HotHardware",
+   "via": "Google News",
+   "published": "2026-11-24T17:25:00+00:00",
+   "seen": "2026-11-24T18:30:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 hacker is freed after a seven-year sentence."
   },
   {
    "id": "official gta 6 trading cards are coming next month",
