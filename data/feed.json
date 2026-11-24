@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T00:05:11+00:00",
- "started": "2026-11-24T00:05:04+00:00",
+ "updated": "2026-11-24T00:09:02+00:00",
+ "started": "2026-11-24T00:08:57+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T00:05:04+00:00"
+   "checked": "2026-11-24T00:08:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-24T00:05:05+00:00"
+   "checked": "2026-11-24T00:08:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-24T00:05:05+00:00"
+   "hits": 70,
+   "checked": "2026-11-24T00:08:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T00:05:05+00:00"
+   "checked": "2026-11-24T00:08:58+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T00:05:05+00:00"
+   "checked": "2026-11-24T00:08:59+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T00:05:06+00:00"
+   "checked": "2026-11-24T00:08:59+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T00:05:06+00:00"
+   "checked": "2026-11-24T00:08:59+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T00:05:06+00:00"
+   "checked": "2026-11-24T00:08:59+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T00:05:06+00:00"
+   "checked": "2026-11-24T00:08:59+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T00:05:06+00:00"
+   "checked": "2026-11-24T00:08:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T00:05:07+00:00"
+   "checked": "2026-11-24T00:09:00+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T00:05:07+00:00"
+   "checked": "2026-11-24T00:09:00+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T00:05:07+00:00"
+   "checked": "2026-11-24T00:09:00+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T00:05:07+00:00"
+   "checked": "2026-11-24T00:09:00+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a request for readers to hold multiple thoughts in their heads about a complex video game release."
+  },
+  {
+   "id": "gta 6 receives mixed review from twitch streamer lacy as he rates the story 6 5 out of 10",
+   "title": "GTA 6 receives mixed review from Twitch streamer Lacy as he rates the story 6.5 out of 10",
+   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPdy11Zko4MUN1SXJyV1I3U3FIMmx5c0dxMEw1RzlQZ2l2Y2NFSWVHUjZ0aXVialNIUjg1Z0Y0a0ZNT3hrWFVLdVA2VUN5a1VJMEFjQTR0NXBlZGE0S3dyaGRpVkpUWDhQbS1ZQ1VFRzBSVTdGLTEwZHJuM2JpZmtjemRqQ0cwTXNzYUJjWGJKN196OGhMTWZ2NUZPU1BFR0lIMXNVckhhYlRBTDZ1YzkwZ2c3TDVBM2dPSUxsUXdxSkVRa29VVnhYYXgtZWdXdVJPZ3dEMUtBMVdBVUZzclhHV0NLcHcyV19BdVk5T1Z5eXhIZ2p3Xy1uQ3FrVDE0Wk00c0ozbG1VSlFlZnRuOE0tQk1SR0xZSXcxM2NwUmtrQ3k1cU9UUG80TE5ZbFBrR2ZockdQc0FnVGdPYTdpSmpkSWxsSWxwQl9xMUQyTnNtRdIBhAJBVV95cUxNUzVPZU4ySEpmenc0cjRhQW5nNThqNUlXaElrR1ItQWR3QkcwRG9aMWtvbkZLZ3RReHFCZjIxdElsSkYzaUtsaU9feW5FV1I0YWViQlNLcGowU0RiVmRYQUE5ajZxTTh2M01rRnpSWVlvMTNZTzNySzBXdHAxRThXT0k2RlpRbmw0Qk8tbkctVm5odGhuTHJYUW0zMUE0eWE5SWVkc0pDNkI1S1JkWlJWeUllUjBZc0dBXzZSbmktTV9CeThWczBUdFpFcHdRSHRaNkVSU2xqcTQ0UFlBUGRXb2FjSmZMejI4UHJKNXpRbFhRb3Rfck85YVAyeEptU1dTb01BVg?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-24T00:02:00+00:00",
+   "seen": "2026-11-24T00:08:58+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports a mixed review of GTA 6 from a Twitch streamer named Lacy, rating it 6.5 out of 10."
   },
   {
    "id": "gta 6 boss strauss zelnick among first raft of sxsw london 2027 speakers",
@@ -157,6 +170,19 @@
    "ai_summary": "The story reports GTA 6 officially being the biggest launch in PlayStation history with over 39 million players."
   },
   {
+   "id": "gta 6 is so unstoppable it s even made nickelback go viral",
+   "title": "GTA 6 Is So Unstoppable It's Even Made Nickelback Go Viral",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZzRKbnUxbExrZ1FGbm5rd1dlOW90d211emdPR2lsVDExeFBQb3U1WlROTndRRk1WV291Sm1leUgxdi1OQl9ESThlMHBwcWl3X25KVTNaTXpwUUk?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T00:00:00+00:00",
+   "seen": "2026-11-24T00:08:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 becoming so unstoppable that it even made Nickelback go viral."
+  },
+  {
    "id": "gta 6 was the biggest launch in playstation history with over 39 million players",
    "title": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVXpGQ1k0NExobkxtTFVxRXJoY3RqeEIzNEZEZ3ZBYUR3eDd0aXhvTWxqX0JMM0tRbnB4NjdCMElqUlMyR3NHOEdYNnNYWlVJdkQ4NDh4TW41WEJLVWxRS2VDbk5obHBja2pnUm4wd0FxSXBmcUJVanhrQ0FUbTVWcmtrZ3RPZVJMVHBlQ2duYkZaTTNlQlh2Yml0YWJkLXNSWjJkNGh5NHBwZ085TjJjR0JodzhPOUhFM3ZCVXRERQ?oc=5",
@@ -168,6 +194,19 @@
    "topic": "Players",
    "record": true,
    "ai_summary": "The story claims GTA 6 was the biggest launch in PlayStation history with over 39 million players."
+  },
+  {
+   "id": "gta vi hits 39m unique players on ps5 sets playstation launch record",
+   "title": "GTA VI hits 39M unique players on PS5, sets PlayStation launch record",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcFk2NVFtamxudDduT09IZmtEZlUyc0NNa0RMcjJKcVlIcm5CLXVWYldaTDREdTJDTFVNdWk2a1dlV0prZUE0T3NwZkU1ZHVtNzhlX3RPX1JVdGxXRGE5OWJHTVdEakt6bTN6a05fNU9Qa0puaUhxSGFsMWhjc01NLS1fWkNUOWFmbnJCa1JGenFjeVRCbjVld20wa2w?oc=5",
+   "outlet": "Crypto Briefing",
+   "via": "Google News",
+   "published": "2026-11-23T23:53:49+00:00",
+   "seen": "2026-11-24T00:08:57+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports GTA VI reaching 39 million unique players on PS5 and setting a PlayStation launch record."
   },
   {
    "id": "call of duty s player count dropped by over 40 following gta 6 s release according to analysts",
