@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T16:50:04+00:00",
- "started": "2026-11-24T16:49:57+00:00",
+ "updated": "2026-11-24T16:55:05+00:00",
+ "started": "2026-11-24T16:54:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T16:49:57+00:00"
+   "checked": "2026-11-24T16:54:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 78,
-   "checked": "2026-11-24T16:49:58+00:00"
+   "hits": 79,
+   "checked": "2026-11-24T16:54:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-24T16:49:58+00:00"
+   "hits": 68,
+   "checked": "2026-11-24T16:54:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T16:49:58+00:00"
+   "checked": "2026-11-24T16:54:59+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T16:49:59+00:00"
+   "checked": "2026-11-24T16:54:59+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T16:49:59+00:00"
+   "checked": "2026-11-24T16:54:59+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-24T16:50:00+00:00"
+   "hits": 19,
+   "checked": "2026-11-24T16:55:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T16:50:00+00:00"
+   "checked": "2026-11-24T16:55:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:50:00+00:00"
+   "checked": "2026-11-24T16:55:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T16:50:00+00:00"
+   "checked": "2026-11-24T16:55:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:50:01+00:00"
+   "checked": "2026-11-24T16:55:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T16:50:01+00:00"
+   "checked": "2026-11-24T16:55:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T16:50:01+00:00"
+   "checked": "2026-11-24T16:55:02+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T16:50:01+00:00"
+   "checked": "2026-11-24T16:55:02+00:00"
   }
  },
  "items": [
@@ -131,6 +131,19 @@
    "ai_summary": "The story reports a walkthrough for the Sinfrontera National Bank mission focusing on how to scope out the bank in GTA 6."
   },
   {
+   "id": "how to steal the gta 6 schafter v12",
+   "title": "How to steal the GTA 6 Schafter v12",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-schafter-v12/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T16:46:59+00:00",
+   "seen": "2026-11-24T16:55:00+00:00",
+   "summary": "The GTA 6 Schafter v12 is not what you might think, which is what makes this theft tricky at first",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses why stealing the GTA 6 Schafter v12 is tricky at first and what makes it different from initial expectations."
+  },
+  {
    "id": "should you trust halifax in gta 6",
    "title": "Should You Trust Halifax in GTA 6?",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iaDhaOVFYUDkwSDlvTjZ4Ql9PX2hNTVgzUGF6bTJIUlVkOEtQUGI3SW42RFdmZFZqZHlrRnZBcWlXN1JFR3RCZUZWVkhZVldORUxqWlMxamlnVDNCbFluanpTbmlaRmpfLXhYZmdEZw?oc=5",
@@ -142,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses whether you should trust Halifax in GTA 6."
+  },
+  {
+   "id": "all gta 6 endings explained and how to get each one",
+   "title": "All GTA 6 endings explained, and how to get each one",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15OW15cFp3VVNtV3VKTjRzYy1hM183V01xeFRsUmotSnJvNmJoREZ3d3VmSjR2TXlLNFBtamFkMkJQR3VpU19KaHh0d3VvQVptNG52Y1ZablNKOGRxaDl4TGVSTDRsQUNrZDloZQ?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-24T16:44:40+00:00",
+   "seen": "2026-11-24T16:54:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains all GTA 6 endings and how to achieve each one."
   },
   {
    "id": "gta 6 players are discovering who needs a gun when it s easier to rob a store with a crate of beer",
@@ -1221,6 +1247,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The story reports YouTube celebrating the launch and cultural impact of Grand Theft Auto VI."
+  },
+  {
+   "id": "gta vi lucia s main stunt double on bringing character to life",
+   "title": "'GTA VI': Lucia's Main Stunt Double on Bringing Character to Life",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXlwTjVDLTNUM1d4cGtxQ2drbXo2X0JYeXhWLU11Zi15SWx4UW4xYmlxX2trcm9uZ2xELTdqbHN3bUdXcmxFemN1ZkVjZ2tMOElFMnNpdUd0SjBXb2FSRWxkcGkwckhRRk91V1FLTEUzZzlvRFVkSThsNDhfbUVUX1h1bmJSUjlQNnBibQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-24T14:52:32+00:00",
+   "seen": "2026-11-24T16:54:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers Lucia's main stunt double on bringing the character to life for GTA VI."
   },
   {
    "id": "gta 6 breaks records and has richmond connects",
