@@ -1,109 +1,161 @@
 {
- "updated": "2026-11-24T20:46:26+00:00",
- "started": "2026-11-24T20:46:23+00:00",
+ "updated": "2026-11-24T20:51:34+00:00",
+ "started": "2026-11-24T20:51:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T20:46:24+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-24T20:51:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 80,
-   "checked": "2026-11-24T20:46:24+00:00"
+   "hits": 81,
+   "checked": "2026-11-24T20:51:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-24T20:46:24+00:00"
+   "hits": 87,
+   "checked": "2026-11-24T20:51:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T20:46:24+00:00"
+   "checked": "2026-11-24T20:51:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T20:46:25+00:00"
+   "checked": "2026-11-24T20:51:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T20:46:25+00:00"
+   "checked": "2026-11-24T20:51:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T20:46:25+00:00"
+   "checked": "2026-11-24T20:51:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T20:46:25+00:00"
+   "checked": "2026-11-24T20:51:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T20:46:25+00:00"
+   "checked": "2026-11-24T20:51:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T20:46:25+00:00"
+   "checked": "2026-11-24T20:51:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T20:46:26+00:00"
+   "checked": "2026-11-24T20:51:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T20:46:26+00:00"
+   "checked": "2026-11-24T20:51:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T20:46:26+00:00"
+   "checked": "2026-11-24T20:51:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T20:46:26+00:00"
+   "checked": "2026-11-24T20:51:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "crazy secretive gta 6 voice actor reveals details of rockstar s humongous nda",
+   "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWI1R1VuaDBkR3RFLWZ3dEw2aFItN3plN0I2NzMxOG1fNHVZcHlkTk9FWDRWdWFwMzlHVUpScTZHbzUzUDhOczcxQVpYRVR5Z3dxQUdIdEZTN1J6eWVOa0pJX0dVQk96SWNrZTVFeW1lb1JGcmhCUzV4UHR0TXJLZjVPTlJSU3lyNnVBVlVScGJoNUp6XzFtbHNyY1pqU0lhYnhMakFtR2pzUGFzOHJBNmlvOXJSd1ZFMVVXQnc5YzF1VjdVNjhVX2JVOHh2R3Nwa0E?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-24T20:49:30+00:00",
+   "seen": "2026-11-24T20:51:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on a voice actor describing Rockstar's NDA as secretive and large."
+  },
+  {
+   "id": "call of duty and fortnite engagement plunges after gta vi release report says",
+   "title": "‘Call of Duty’ And ‘Fortnite’ Engagement Plunges After ‘GTA VI’ Release, Report Says",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ3IwaVlIRWlQWGVBb3ZxY2UzS3Y0aE1aS1RUNWdlUlo0SktZNGZmMnhxaVdGOEdoeWpsQmZDYjFSV0ZxT2Z1VGk0ZVU0UEYzQnRwbmxFOXdxanlsUzExcUlfMEY0Zm1TaFVMSV8ycy1UNWZtY0QtN2txQ3V3V19WeU9VM3gtQWJlbksyaHE4VmlsR1hhdkRVc3h0R1EtbTZYYkE3N09fTmlKMUpBR1FJclg1N0R4X1g3TVFRRF8yUVJrNEJBVjJqd2hteUNYSXQzVVBtUl8zdk81QW54VkdGZU9TMmc?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-24T20:48:25+00:00",
+   "seen": "2026-11-24T20:51:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that engagement with Call of Duty and Fortnite declines after GTA VI's release, according to a report."
+  },
+  {
+   "id": "gta 6 player finds a hidden vice city throwback after spending three days following power lines",
+   "title": "GTA 6 player finds a hidden Vice City throwback after spending three days following power lines",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDFiY2E0dGc1WHUyeVhnTWJuVmlqTlg4TGgyRzU0UFJVOXJ3NjVJS0Q0NFFWcExWY0JxbEdab1lpMzAyc2JydnZkUi14YjV6Z19DVk8yLU41ZzRoVUd5b2pDam12T2V0VTU1M0djcGkyTG9IcFpnOUwxR3Z0TEJMVURlcjlMdw?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-24T20:43:22+00:00",
+   "seen": "2026-11-24T20:51:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 player discovers a hidden Vice City throwback after following power lines for three days."
+  },
+  {
+   "id": "gta 6 cloud streaming hits ps5 and playstation portal sparing your hard drive a 212gb install",
+   "title": "GTA 6 cloud streaming hits PS5 and PlayStation Portal, sparing your hard drive a 212GB install",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEl2djRmSVozZVh6YXdNSnJwVV9DLVBZd0pHa3p1U2JfNXVpa1loZkliOC03ZHlyU2tXektnb2c3SC1ZcDhCOTU2akx0RXEzVWRLUnNHS0tmVURuTWxqYnZHSkhyZ0FPelJEQkNaQmVvb095VHpleDhuWXhsUktIX002UUtaQl84cFZqRDQ1c012aUhyT3Ixd0pLRnJTdDc2OF9XZnFwQnBBR3pjQVdVVWdkaTZzeTVwbmZyUA?oc=5",
+   "outlet": "Stuff",
+   "via": "Google News",
+   "published": "2026-11-24T20:31:09+00:00",
+   "seen": "2026-11-24T20:51:27+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "GTA 6 cloud streaming becomes available on PS5 and PlayStation Portal, avoiding a large local install."
+  },
   {
    "id": "here s how to get a banshee in gta 6 and unlock a gta 3 inspired trophy",
    "title": "Here’s How To Get A Banshee In GTA 6 And Unlock A GTA 3 -Inspired Trophy",
@@ -129,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The guide shows how to find and complete the La Cascara Motel Illegal Operation and collect all key valuables quickly."
+  },
+  {
+   "id": "gta vi just achieved something completely unexpected",
+   "title": "‘GTA VI’ Just Achieved Something Completely Unexpected",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OTWY2SVdrcmtYaEtiSk02R1Q2aDF5cjNZUkxnY193RjByM2NVUVJ2ejRlMDdPWkRadEdmd3Y3VE4wNWozdUFIcTJiTDRXX3RzdDdENnRiSmhjam4yZnpfWVBKaHpncFRqWnVjQ2stRmNpTEM3eFY3SjAzaw?oc=5",
+   "outlet": "Yahoo News Singapore",
+   "via": "Google News",
+   "published": "2026-11-24T20:30:01+00:00",
+   "seen": "2026-11-24T20:51:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI achieved something completely unexpected."
   },
   {
    "id": "hacker who leaked gta 6 released",
@@ -298,6 +363,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The Autopian reports the sighting of a real car included in Grand Theft Auto VI."
+  },
+  {
+   "id": "gta vi adin ross kai cenat and more react to first time playing game",
+   "title": "‘GTA VI’: Adin Ross, Kai Cenat, and More React to First Time Playing Game",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zUXFiNVBRUVN4bGFpZWtLUTBXZ0wyNlYzUzcxci1uLWZ3ZG5ST190V0dpazVaM0ZIXzNDMFdQMU0zUmEtcmR2R0daWGFHZS0ydHpfYnNSM0JOMnpaSjZHMnJaajFWOEViS3pxRGlURDRZNU9SS1VmeUJxZnZyalU?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-24T19:56:32+00:00",
+   "seen": "2026-11-24T20:51:27+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA VI: Adin Ross, Kai Cenat, and others react to their first time playing the game."
   },
   {
    "id": "missed gta 6 s vintage vice city bonus rockstar is now selling the pack separately for 4 99",
