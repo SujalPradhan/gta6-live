@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T10:07:24+00:00",
- "started": "2026-11-24T10:07:18+00:00",
+ "updated": "2026-11-24T10:12:25+00:00",
+ "started": "2026-11-24T10:12:20+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T10:07:19+00:00"
+   "checked": "2026-11-24T10:12:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-24T10:07:19+00:00"
+   "hits": 61,
+   "checked": "2026-11-24T10:12:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T10:07:19+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 72,
+   "checked": "2026-11-24T10:12:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T10:07:19+00:00"
+   "checked": "2026-11-24T10:12:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T10:07:20+00:00"
+   "checked": "2026-11-24T10:12:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-24T10:07:20+00:00"
+   "hits": 57,
+   "checked": "2026-11-24T10:12:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:07:20+00:00"
+   "checked": "2026-11-24T10:12:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T10:07:20+00:00"
+   "checked": "2026-11-24T10:12:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T10:07:20+00:00"
+   "checked": "2026-11-24T10:12:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:07:20+00:00"
+   "checked": "2026-11-24T10:12:22+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T10:07:21+00:00"
+   "checked": "2026-11-24T10:12:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T10:07:21+00:00"
+   "checked": "2026-11-24T10:12:23+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T10:07:21+00:00"
+   "checked": "2026-11-24T10:12:23+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T10:07:21+00:00"
+   "checked": "2026-11-24T10:12:23+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is the biggest launch in playstation history",
+   "title": "GTA 6 Is the Biggest Launch in PlayStation History",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkFtbWpjeS1ZTUJnck81OENRaHNwM0JvN0tDVzNpdFJwMUZITG1jMGdFZFE4SFRYRC10emNDSkloNTZnREJreUFSRjdoWVFFcUtsNVlfTGpDdlo2d0Q1dDV4NkFjWjNsZTljOVBtbk4xU1RrSy1UT1NCaEhoWEhubTFFZFN3Y3FKRWZENA?oc=5",
+   "outlet": "Everything Edinburgh",
+   "via": "Google News",
+   "published": "2026-11-24T10:10:30+00:00",
+   "seen": "2026-11-24T10:12:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 is described as the biggest launch in PlayStation history."
+  },
+  {
+   "id": "more than 39 million people have played gta 6 on playstation alone sony says as the game breaks all time player numbers on the platform",
+   "title": "More than 39 million people have played GTA 6 on PlayStation alone, Sony says, as the game breaks all-time player numbers on the platform",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTHNCVHViblJxSW1pOXV6bUl4U2lmb2RUemk2N0FNWmhWNHhISUNIU0l1LXNkeFZjekYzd25MQnpvU3BYM3hZMEM1RGdLckVWWU5sWmNmdGNtS29UUjZranhSSGQ4My1MOGgwQ0xuZ1FzX2NEdGxjQXZidmhxeGxOV0ZEVDd6Y2tQNEFBNTY0NUVxdDAtV0RNcE1RR3EzWXp0RVl0alVSS2FUSzhSVk4xelZvcUl3MlNCdnVaSldOUmlSYTl2SkVJQWNqOFU2dmJyZ1JTU3FNTHRpZ0VMSmF4azM0U00zcXlrdlI1c2hYc3NRUFE?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-24T10:08:20+00:00",
+   "seen": "2026-11-24T10:12:21+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "More than 39 million people have played GTA 6 on PlayStation, according to Sony."
+  },
+  {
+   "id": "grand theft auto vi is a historic success it could also be the last of its kind",
+   "title": "‘Grand Theft Auto VI’ is a historic success. It could also be the last of its kind",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUtVN01rZHFOWk5RUkwweXpIa2VreFlqQWRxaWVlOHVJZldBZnlabklKME9iTUV2SnJvWm5fbm5PUkkyMmVaX1h3UE1peVdWUTl2bzNLNFBNVlhrRUhCQXNoUGhLYnRNc2ROa3A2S0JPZkRBS2Rsa0dUNjRmWEZmdndnbE4wT1ZMTmc?oc=5",
+   "outlet": "Fast Company",
+   "via": "Google News",
+   "published": "2026-11-24T10:07:55+00:00",
+   "seen": "2026-11-24T10:12:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI is noted as a historic success and possibly the last of its kind."
+  },
+  {
+   "id": "gta 6 is officially the biggest launch in playstation history",
+   "title": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1X2ZDX3kxM0E3WmRBVXY5SGdZcnpnNnBqNTRzdDVUNV9aeWVxWU8yVEN1MlpLU0VUS0txbG1FZWRTcG94UGZDaUo3cmZaN1JFcFIxdUdwUzF0ckNNWl8wdzZrUzRyemx1emQw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T10:04:01+00:00",
+   "seen": "2026-11-24T10:12:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 is officially the biggest launch in PlayStation history."
+  },
   {
    "id": "rockstar games reveals 23 extra tracks in gta 6 s deluxe edition soundtrack featuring denzel curry health and more",
    "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more",
@@ -207,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports all 57 GTA 6 gas station locations and details."
+  },
+  {
+   "id": "gta 6 rakes in s 4 9 billion on first day setting global entertainment sales record",
+   "title": "GTA 6 rakes in S$4.9 billion on first day, setting global entertainment sales record",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFhTZm4xSkJ2aEl2QkxhbldwdmdHZG9XazUzZC16VkFwelRmbG1UTUpJbTNZXy1Qa0stSVh3TF9uQVRVSjJFdGxKX1dNMjV5LTZDWkxRSFhsZHFGcURqN3ZxVWdzLUpBcVMyWWtrYk5ONFAzcDg2SlpDT0lZclZqR0ZLU09SMk9yT1hWalN6MlI2Q1BneFZraTl5Q0pQUEZkaVI2VEdPWHc4M2lpQ2dWdFZJM1JyVGc?oc=5",
+   "outlet": "联合早报",
+   "via": "Google News",
+   "published": "2026-11-24T09:34:25+00:00",
+   "seen": "2026-11-24T10:12:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 first day sales total S$4.9 billion, setting a global entertainment sales record."
   },
   {
    "id": "gta vi scam steals passwords through fake pc client",
