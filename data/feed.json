@@ -1,109 +1,148 @@
 {
- "updated": "2026-11-24T08:12:14+00:00",
- "started": "2026-11-24T08:11:44+00:00",
+ "updated": "2026-11-24T08:16:43+00:00",
+ "started": "2026-11-24T08:16:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T08:11:54+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-24T08:16:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T08:12:03+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 66,
+   "checked": "2026-11-24T08:16:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T08:12:12+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 77,
+   "checked": "2026-11-24T08:16:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T08:12:12+00:00"
+   "checked": "2026-11-24T08:16:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T08:12:12+00:00"
+   "checked": "2026-11-24T08:16:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T08:12:12+00:00"
+   "checked": "2026-11-24T08:16:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T08:12:12+00:00"
+   "checked": "2026-11-24T08:16:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T08:12:13+00:00"
+   "checked": "2026-11-24T08:16:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T08:12:13+00:00"
+   "checked": "2026-11-24T08:16:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T08:12:13+00:00"
+   "checked": "2026-11-24T08:16:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T08:12:13+00:00"
+   "checked": "2026-11-24T08:16:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T08:12:13+00:00"
+   "checked": "2026-11-24T08:16:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T08:12:13+00:00"
+   "checked": "2026-11-24T08:16:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T08:12:14+00:00"
+   "checked": "2026-11-24T08:16:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 boss delivers brilliant response to gta 7 question",
+   "title": "GTA 6 Boss Delivers Brilliant Response To GTA 7 Question",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObnFXYzRrQUtsSG4xcXlWUnhKMndZQWdtMzNhdW1WTThWSDdhQjFYd2M1MVBueF9iRkZrZzRDNllyY3M5Vkd3T0lnQVFYMG1idzFqVzItMzBuWWlpekZoR0NtYzJ1N013c2tEZjdjQi1jWDVSNC1WcHVGYXZyNlRXVEJDNTFtTTM0VU41bm1hZDBqZkY5?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-24T08:14:58+00:00",
+   "seen": "2026-11-24T08:16:37+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 Boss delivering a brilliant response to a GTA 7 question."
+  },
+  {
+   "id": "there s an unofficial pc version of gta vi coming thanks to recompilation",
+   "title": "There's an unofficial PC version of GTA VI coming thanks to recompilation",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORHRwMHRiRnZvZ1FvYl9kRW1xdWNKMWg4VVlXcEFfR1p6MWRmc2lDakRrWGNrM2NHRFBRdjJhd05tMVdJTS14RGU1YjgzNUUxQWVJS1J0YXhQRlBwR1FXZFpOaUpmMmhUclV5VnBqRUlGU0prdnlRc0J3ZkkzY0h3V18yVnFLcF9jWWh0c3dFNUpkUm5OdDhiVW1XZTlpcUhXeGdfMThPS1lmaHpyU2pPQnZVdGIxT3k2OW1PN3NoMS0?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-24T08:06:18+00:00",
+   "seen": "2026-11-24T08:16:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports an unofficial PC version of GTA VI coming thanks to recompilation."
+  },
+  {
+   "id": "hunger games sunrise on the reaping opens to 120 million despite gta vi and its audience explains why",
+   "title": "Hunger Games: Sunrise on the Reaping opens to $120 million despite GTA VI—and its audience explains why",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeG1qeTl0SC15UlM5Zkl2b0JMTEFtbVBtTWtfT0tiMUI5SVB2bEQyZFh1T3RZMmZkU0NpYjNRUFZ2dENBNFBrVndGazdvQmQ3SWhEbUlQM2cwYmR2VHR0cWpNQXhzQXlMY2RhQ3B6d29Dd0k0YUJIREV1YWxQcDdjTk8wa0I4UFU2NlUwdFhR?oc=5",
+   "outlet": "Fortune",
+   "via": "Google News",
+   "published": "2026-11-24T08:05:00+00:00",
+   "seen": "2026-11-24T08:16:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports Hunger Games: Sunrise on the Reaping opening to $120 million despite GTA VI, and its audience explains why."
+  },
   {
    "id": "gta 6 boss gives official update on gta 7",
    "title": "GTA 6 Boss Gives Official Update On GTA 7",
@@ -129,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 technical director explains rewriting the vehicle simulation to add detail, realism, authenticity, and believability."
+  },
+  {
+   "id": "gta vi record apple s siri glasses and tesla without a steering wheel tech world highlights",
+   "title": "GTA VI record, Apple's Siri glasses and Tesla without a steering wheel: tech world highlights",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTk5QTd4aXhMNzFOR2xuMC1DZnRIWlFtUWxMU0RHOTZQZGcwRDliZEljS0JteHZZMEw0VHh1WGxfa1B0YjljcVdmRWQ3VmFkQkxsck1hUlQ4aVZ5cklNOFVRR3hqcTlibjZMS09kaEpJZlJIN1BBLWhMZW45Y1RnUmxpaV9JSWJJdThDckhYZHFNTkFJaTlKYU5adTFtdw?oc=5",
+   "outlet": "realnoevremya.com",
+   "via": "Google News",
+   "published": "2026-11-24T07:59:31+00:00",
+   "seen": "2026-11-24T08:16:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports tech world highlights including GTA VI, Apple’s Siri glasses, and a Tesla without a steering wheel."
   },
   {
    "id": "gta 6 was the first game played on 70 of new ps5s",
