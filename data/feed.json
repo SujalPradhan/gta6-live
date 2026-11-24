@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-24T07:11:23+00:00",
- "started": "2026-11-24T07:11:20+00:00",
+ "updated": "2026-11-24T07:16:24+00:00",
+ "started": "2026-11-24T07:16:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T07:11:21+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-24T07:16:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-24T07:11:21+00:00"
+   "hits": 61,
+   "checked": "2026-11-24T07:16:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 96,
-   "checked": "2026-11-24T07:11:21+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-24T07:16:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T07:11:22+00:00"
+   "checked": "2026-11-24T07:16:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T07:11:22+00:00"
+   "checked": "2026-11-24T07:16:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T07:11:22+00:00"
+   "checked": "2026-11-24T07:16:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T07:11:22+00:00"
+   "checked": "2026-11-24T07:16:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T07:11:22+00:00"
+   "checked": "2026-11-24T07:16:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T07:11:22+00:00"
+   "checked": "2026-11-24T07:16:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T07:11:22+00:00"
+   "checked": "2026-11-24T07:16:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T07:11:23+00:00"
+   "checked": "2026-11-24T07:16:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T07:11:23+00:00"
+   "checked": "2026-11-24T07:16:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T07:11:23+00:00"
+   "checked": "2026-11-24T07:16:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T07:11:23+00:00"
+   "checked": "2026-11-24T07:16:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "can you take the birds behind three sheets liquor in gta 6 s shirley s rum mission",
+   "title": "Can You Take the Birds Behind Three Sheets Liquor in GTA 6’s Shirley’s Rum Mission?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1JlaHFZMmFBemxqQ0xaM1hxY2d0TVppX0ZaSDBGUzRiSEtGVWhhWFVEWFRnTmhnc2JiSDZFdG5FanF4NXNBWWdfbFRoeFNGZkU3eDM1WmVUWThiRTN4cFc2aTlyVVVOcWdaMHF4TXdqUi0tLUIxZjNqcUQxeXBldDlkX3JudjFiZDdhcUFHai1MTDBaQmMwT283WVZkLVZBYkE?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T07:11:48+00:00",
+   "seen": "2026-11-24T07:16:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks if players can take the birds behind Three Sheets Liquor in GTA 6’s Shirley’s Rum mission."
+  },
+  {
+   "id": "over 39 million ps5 users have launched grand theft auto vi in the first days",
+   "title": "Over 39 million PS5 users have launched Grand Theft Auto VI in the first days.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVURYMmNTbVdubkQtWTV3d050Z3llVDRZd0I2blo5TEgyeTFuWFFVdGtzSkJ5OTBlRGVyRUtSbExEcXA3dF92MHhNbFFjbktVSi00WXFrOWpBX1d5cUhqM0prUi13ZjBGN0xOWGI1QnVDYjA5NV93enNhaHByVXNmdERBRTM5RVlOMTFsOFoxTjVYSFZxVWNKekpfdFVhR3NVZWdvS2Z6SHZkazNDSTNNQkl3?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-24T07:07:51+00:00",
+   "seen": "2026-11-24T07:16:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Over 39 million PS5 users have launched Grand Theft Auto VI in the first days."
+  },
   {
    "id": "telegram ceo pavel durov says gta 6 is unrealistic without telegram",
    "title": "Telegram CEO Pavel Durov Says GTA 6 Is Unrealistic Without Telegram",
@@ -220,6 +246,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that GTA 6 drew more than 39 million players on PlayStation 5."
+  },
+  {
+   "id": "bills troll dolphins with a grand theft auto vi cover they teased before kickoff",
+   "title": "Bills Troll Dolphins With a Grand Theft Auto VI Cover They Teased Before Kickoff",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWZETnBhcm1jY3pDN3ZaZ1BjUnlMOTNCUEVic256M0ladUFrcTFPY0tFQ1NEeldkak1tcUZsbUtFVFR5WDlVVUVfWklDODg3d1dJN0pIaVBiZHMxSmE2dXF5VHpDYWZMNFU4TW5qNW9Gd0Q2dmRhMVpZVE9aa0E2a1dWWTctbEdtLU11V1dOSmdEb19OTWc?oc=5",
+   "outlet": "Martin Cid Magazine",
+   "via": "Google News",
+   "published": "2026-11-24T06:14:27+00:00",
+   "seen": "2026-11-24T07:16:18+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The article claims Bills troll Dolphins with a Grand Theft Auto VI cover they teased before kickoff."
   },
   {
    "id": "gta 6 had the highest number of new ps5s connected since the console s 2020 launch",
