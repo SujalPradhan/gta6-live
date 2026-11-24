@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T20:01:21+00:00",
- "started": "2026-11-24T20:01:14+00:00",
+ "updated": "2026-11-24T20:06:20+00:00",
+ "started": "2026-11-24T20:06:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T20:01:14+00:00"
+   "checked": "2026-11-24T20:06:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-24T20:01:15+00:00"
+   "hits": 61,
+   "checked": "2026-11-24T20:06:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 68,
-   "checked": "2026-11-24T20:01:15+00:00"
+   "checked": "2026-11-24T20:06:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T20:01:15+00:00"
+   "checked": "2026-11-24T20:06:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T20:01:16+00:00"
+   "checked": "2026-11-24T20:06:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T20:01:16+00:00"
+   "checked": "2026-11-24T20:06:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T20:01:16+00:00"
+   "checked": "2026-11-24T20:06:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-24T20:01:17+00:00"
+   "hits": 19,
+   "checked": "2026-11-24T20:06:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T20:01:17+00:00"
+   "checked": "2026-11-24T20:06:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T20:01:17+00:00"
+   "checked": "2026-11-24T20:06:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T20:01:18+00:00"
+   "checked": "2026-11-24T20:06:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T20:01:18+00:00"
+   "checked": "2026-11-24T20:06:17+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T20:01:18+00:00"
+   "checked": "2026-11-24T20:06:17+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T20:01:18+00:00"
+   "checked": "2026-11-24T20:06:17+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar is turning gta 6 s in game trading cards into real collectibles",
+   "title": "Rockstar is turning GTA 6’s in-game trading cards into real collectibles",
+   "link": "https://www.dexerto.com/gta/rockstar-is-turning-gta-6s-in-game-trading-cards-into-real-collectibles-3431102/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-24T20:05:49+00:00",
+   "seen": "2026-11-24T20:06:15+00:00",
+   "summary": "Rockstar Games has partnered with Panini to release real-life GTA 6 trading cards based on the collectibles players can find scattered throughout Leonida.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Rockstar partners with Panini to release real-life GTA 6 trading cards based on in-game collectibles."
+  },
+  {
+   "id": "over half of gta 6 watch time came from viewers under 25 years old",
+   "title": "Over Half of GTA 6 Watch Time Came From Viewers Under 25 Years Old",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb2JPUE82M1l0TkJ3TWdLV050d0ptUGxaRTN5SGNGZDVQZW95MzJ4TDBhaVc5aDAwa0ZLQTF3cjg0c1ZFV3I1QXFGV1B6dDhqMHdXS1BFS0RGMXB4SnU5ME5hVkFEQW12Vm9lTTVsVHdVcVB0alRka1A2SHc4SXNFNkh4eUtnaHNFb0t1dlk0YkMtcjJwTU1INnFtMng1NFlFbnJGazlqSFhTMjNJbER6U2Y4OEJuZm8?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-24T20:04:20+00:00",
+   "seen": "2026-11-24T20:06:12+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Over half of GTA 6 watch time came from viewers under 25 years old."
+  },
   {
    "id": "cdpr claims leap to witcher 4 is comparable to leap from gta 5 to gta 6",
    "title": "CDPR claims leap to Witcher 4 is ‘comparable’ to leap from GTA 5 to GTA 6",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "CDPR says The Witcher 4's leap is comparable to the jump from GTA V to GTA VI, as stated by investors asking about the comparison."
+  },
+  {
+   "id": "playstation plus drops 4 more games including a must play gta 6 alternative",
+   "title": "PlayStation Plus drops 4 more games, including a must-play GTA 6 alternative",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcDR3RnljbEx6M2VQdkRaR1RDOGpqdy1teWlpWUpwRlN3VEF6VnFjc1BCc21FWTJ6RmJTMk9CSUozOFVtaUNrb0oxSUREdWF3dVJQb1ViOFhtQkV5TGNMSlJzWVhWeHBEYVUzejNsbTNSVXRESXpyR25XRUdzVDNpa0M0V0RQQnRPOGVFeVVWQXg5UVpaZUM3aWJ4aGpkV0NPeEZ2T0VTUnBBYWh0NGtxQ1Vpa1RqSHlkbzNV?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-24T20:00:02+00:00",
+   "seen": "2026-11-24T20:06:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "PlayStation Plus adds four games, including a GTA 6 alternative."
   },
   {
    "id": "sony will support the witcher 4 s marketing much like gta 6",
@@ -168,6 +207,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "More than half of GTA 6 watch time on streaming platforms came from viewers under 25."
+  },
+  {
+   "id": "gta vi launch weekend pulled players away from call of duty fortnite and more",
+   "title": "GTA VI launch weekend pulled players away from Call of Duty, Fortnite and more",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXA0UmVWc3FzNmxoek5oSjhlMWZ6NXExUmNqMktTVWwtT2RUcTNBZzRQUTYxOGJlOFV6d3Z3Um9SNWd4dEgtX3MtTlRkRkRzcVBqUnR3V2p0dFlGSTFwblBONnZqTG1jbGFURm9tblJ0SHdYcVQxYmFnNHZRaWxRekNuVFp0clJXb0dDNDBoSkNzZDZGbzJTOVFTRXlXbTRiSzlCQlY4NnZGdEtRbUdoM2ZCM2FBbG9md211SndqY3pQZw?oc=5",
+   "outlet": "KitGuru",
+   "via": "Google News",
+   "published": "2026-11-24T19:45:46+00:00",
+   "seen": "2026-11-24T20:06:12+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA VI launch weekend drew players away from Call of Duty and Fortnite and more."
   },
   {
    "id": "gta 6 just resurrected a 70s pop duo s forgotten song sending its streams soaring more than 130 000",
@@ -623,6 +675,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 releasing real trading cards based on in-game collectibles."
+  },
+  {
+   "id": "gta vi jason lucia actors call game a testament to human creativity",
+   "title": "'GTA VI': Jason, Lucia Actors Call Game a 'Testament to Human Creativity'",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVBpbDUtX2h4RFlEQmc1NG5lMlp6VkVKSUMwWURWRFFPRWVtNU5hNmZqT2ZqcXdjdmVnMVZHZzN3V09fYkZOOTVlQ1RGTGRqWWFfZW9scEY4MVdrU2dkd3pqRHV4UjVCSF9ZQldtNWhPZkI2c19jb3oxVHVGR1ZYd1hBLXprdGxLSnNDTlhyM2FlVGJUT2c?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-24T18:49:43+00:00",
+   "seen": "2026-11-24T20:06:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Actors Jason and Lucia call GTA VI a testament to human creativity."
   },
   {
    "id": "panini scores grand theft auto vi trading card deal",
