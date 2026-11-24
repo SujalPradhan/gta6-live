@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T12:43:21+00:00",
- "started": "2026-11-24T12:43:13+00:00",
+ "updated": "2026-11-24T12:48:19+00:00",
+ "started": "2026-11-24T12:48:13+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T12:43:13+00:00"
+   "checked": "2026-11-24T12:48:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-24T12:43:14+00:00"
+   "hits": 76,
+   "checked": "2026-11-24T12:48:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T12:43:14+00:00"
+   "hits": 73,
+   "checked": "2026-11-24T12:48:15+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T12:43:15+00:00"
+   "checked": "2026-11-24T12:48:15+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T12:43:15+00:00"
+   "checked": "2026-11-24T12:48:15+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T12:43:17+00:00"
+   "checked": "2026-11-24T12:48:15+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T12:43:18+00:00"
+   "checked": "2026-11-24T12:48:16+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T12:43:18+00:00"
+   "checked": "2026-11-24T12:48:16+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-24T12:43:18+00:00"
+   "checked": "2026-11-24T12:48:16+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T12:43:18+00:00"
+   "checked": "2026-11-24T12:48:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T12:43:19+00:00"
+   "checked": "2026-11-24T12:48:17+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T12:43:19+00:00"
+   "checked": "2026-11-24T12:48:17+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T12:43:19+00:00"
+   "checked": "2026-11-24T12:48:17+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T12:43:19+00:00"
+   "checked": "2026-11-24T12:48:17+00:00"
   }
  },
  "items": [
@@ -131,6 +131,19 @@
    "ai_summary": "The story reports a leaker released the Xbox build executable for GTA 6."
   },
   {
+   "id": "gta 6 red hulk quest guide",
+   "title": "GTA 6: Red Hulk Quest Guide",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uZG84YkE4OHctVDQtOE1UV0lSRlJONlZVd01FQXltLS1PMVJIUFI0QXI4aVpDdVlVSEVUNnlmUkdldjNlQ0JBdzdFamJMSGR5dDZqdDNkZDl6VW15T0RaaUp3MGIySVk?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-24T12:38:00+00:00",
+   "seen": "2026-11-24T12:48:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6: Red Hulk Quest Guide is reported as the headline topic by DualShockers."
+  },
+  {
    "id": "best legendary weapon variants in gta 6 all locations walkthrough",
    "title": "Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsWmZ5c2ZDV1V4b1dZQVpwTmE1b2lJWG9iZ2pGWlhJWHRLNnRZaVpCellNS0g5UGpiUnV2bDYzSFVjQ2dsZ1lhRUFxbHdKOVE3Vld3ak5XaDBHVE9scEcxTQ?oc=5",
@@ -155,6 +168,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "Rockstar shuts down a Discord server aiming to create an unofficial GTA 6 PC port amid leaks."
+  },
+  {
+   "id": "sony has a thank you message for gta 6 players playstation says thank you for making grand theft auto",
+   "title": "Sony has a 'thank you' message for GTA 6 players; PlayStation says: Thank you for making Grand Theft Auto",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYWMwNDZUSGdNVTFJYnJJSVFybnRXaGhmSldYTGdndktlekFiUFh0S1lwOXZOZTQ0QzZKSHg2a2FFSDNuYWg0TzFGWGY5MHRrUzV5WWVVSnVobzFhdDZLbC1UQzd4WjZ4andfUFJoMTZIWWV5TndxdnBQczBWQTNycm5GS2ZvNjRNQUtTVkU3OFdVYW1BTk9mX1RYNUFxS25FNnNzZGtpS0I5bTE1RUVESm1ITG9ETnpjbm40WkluTC1rSlZucDlqUEhsbDBNYzZLQnoycUtYMGJsdklIVms5NHRnMzFCUk5MVEZZWFBlVjF0eHlWXy1uQVJ1ZTRfX0wzV1ZtdnRsRUZQQjhtMElDSUFNeHlPWEVt0gGeAkFVX3lxTE9abHlVMXFuVEI0WUlMLVVVcS00WkFXV0pmQ2t3dlBUR2RHdGRxQlhTUndWZmF6V2JObUJwRlZMWDl6UXNleW42REs3R043YTl1Z19QcFRGYjVJbU56R0FHdUJXRngyYVpnMWRVeUhTajZTZS1hR21hakZqTFpyVVRvTE1tVjZaZ1U1UHNaVUxZOWFrczBpZlM3SG1tOXlvRkFoUThYNjA1X0ZSeEw2SmE5ZDBLRHVTTXJvODFnTGl1TU9mUDVveDduN2lxS08waXUzMm9semJOTy1jNXNiTWtPM2FxSDU3VVROSGRwQjRRcmh6RGpWakpNRVBzS045bUNlOU5pMmJaWjFQWWNJdldaczZpUnYxLTZZeFYzNkE?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-24T12:33:00+00:00",
+   "seen": "2026-11-24T12:48:14+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The Times of India reports Sony offers a thank you message for GTA 6 players."
   },
   {
    "id": "gta 6 has a hidden 60fps setting you can access now",
