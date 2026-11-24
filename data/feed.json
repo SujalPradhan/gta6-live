@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T16:24:52+00:00",
- "started": "2026-11-24T16:24:46+00:00",
+ "updated": "2026-11-24T16:30:04+00:00",
+ "started": "2026-11-24T16:29:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T16:24:47+00:00"
+   "checked": "2026-11-24T16:29:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 80,
-   "checked": "2026-11-24T16:24:47+00:00"
+   "hits": 66,
+   "checked": "2026-11-24T16:29:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 69,
-   "checked": "2026-11-24T16:24:47+00:00"
+   "hits": 96,
+   "checked": "2026-11-24T16:29:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T16:24:48+00:00"
+   "checked": "2026-11-24T16:29:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T16:24:48+00:00"
+   "checked": "2026-11-24T16:29:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T16:24:48+00:00"
+   "checked": "2026-11-24T16:29:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found",
-   "hits": 0,
-   "checked": "2026-11-24T16:24:48+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 18,
+   "checked": "2026-11-24T16:29:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T16:24:48+00:00"
+   "checked": "2026-11-24T16:29:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:24:48+00:00"
+   "checked": "2026-11-24T16:29:59+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-24T16:24:49+00:00"
+   "checked": "2026-11-24T16:29:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:24:49+00:00"
+   "checked": "2026-11-24T16:30:00+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T16:24:49+00:00"
+   "checked": "2026-11-24T16:30:00+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T16:24:49+00:00"
+   "checked": "2026-11-24T16:30:00+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T16:24:49+00:00"
+   "checked": "2026-11-24T16:30:00+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar is reportedly looking into turning red dead redemption into a movie or tv show",
+   "title": "Rockstar is reportedly looking into turning Red Dead Redemption into a movie or TV show",
+   "link": "https://www.gamesradar.com/entertainment/live-action-movies/rockstar-is-reportedly-looking-into-turning-red-dead-redemption-into-a-movie-or-tv-show/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T16:24:35+00:00",
+   "seen": "2026-11-24T16:29:58+00:00",
+   "summary": "The studio is supposedly shopping the rights for $100 million",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Rockstar is reportedly exploring turning Red Dead Redemption into a movie or TV show, with rights reportedly being shopped."
+  },
   {
    "id": "comparing gta 6 graphics on ps5 pro and xbox series s reveals a generational difference",
    "title": "Comparing GTA 6 graphics on PS5 Pro and Xbox Series S reveals a generational difference.",
@@ -142,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on the eight Stranger Strands trophies for GTA 6 and which ones are confirmed."
+  },
+  {
+   "id": "gta 6 declasse vamos garage door code",
+   "title": "GTA 6 Declasse Vamos garage door code",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T16:11:27+00:00",
+   "seen": "2026-11-24T16:29:58+00:00",
+   "summary": "To steal the Declasse Vamos for Moses in GTA 6, you'll need to hunt around for the code to the garage",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "To steal the Declasse Vamos in GTA 6, you must find the garage code."
   },
   {
    "id": "rockstar reportedly open to selling red dead redemption tv rights",
@@ -259,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The creator of an unofficial GTA 6 PC project says they quit, with other community developers continuing the work."
+  },
+  {
+   "id": "where to find auntie s place in gta 6",
+   "title": "Where to find Auntie’s Place in GTA 6",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-aunties-place/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T15:56:39+00:00",
+   "seen": "2026-11-24T16:29:58+00:00",
+   "summary": "Breaking into Boogie’s laptop doesn’t help you locate your reward",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Finding Auntie’s Place in GTA 6 is related to Boogie’s laptop and locating a reward."
   },
   {
    "id": "gellhorn s missing tourists walkthrough in gta 6 serial killer mission location guide",
@@ -547,6 +586,19 @@
    "ai_summary": "The story questions whether GTA VI is prompting a wave of real-life flower purchases in Philly."
   },
   {
+   "id": "how to find the laptop password in gta 6",
+   "title": "How to find the laptop password in GTA 6",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-laptop-password/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T15:30:59+00:00",
+   "seen": "2026-11-24T16:29:58+00:00",
+   "summary": "Break into Boogie’s laptop using clues found in the apartment",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "To find the laptop password in GTA 6, break into Boogie’s laptop using clues from the apartment."
+  },
+  {
    "id": "gta vi is out see how miami is promoting it",
    "title": "GTA VI is out. See how Miami is promoting it",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNem5YSEhzZEJrdnAtT2d2LVBiVHpHNUFTbGVMc2ZaYXZVd3BqWGdJZkpyN240UHpMZEsyWlJ3YkxmN0xnRXI2eWloclJNUTFtUG5OWG9vYlRGYkx0eUFXM0JXb0Y4NHU1dEl5a09XWVBSaDJVLUFkRl9mOERubVRfTGktSjRNZlk?oc=5",
@@ -599,6 +651,32 @@
    "ai_summary": "The story reports Naughty Dog director calling GTA 6 the great pyramids of game development."
   },
   {
+   "id": "gta 6 pc port boots 3 hours after exe leak looks rough",
+   "title": "GTA 6 PC Port Boots 3 Hours After Exe Leak, Looks Rough",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaURtSHVmT0lLcFJyQjdtd1FFRU5BclJZZ0xFaS1HV0psVWtiQ0Zsd1o0aEpEeGI2YldGVGhQRkdxUk8taGN5UmRKczdYZGYzMkJRVHFMeDV6NUFzNmZ5QldwcXowWGNSMERJZVJxTk9yOU5vbEZJaUZTLXExZHJFSFlYSm82Mkdq?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-24T15:28:21+00:00",
+   "seen": "2026-11-24T16:29:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 PC port reportedly boots three hours after an exe leak and looks rough."
+  },
+  {
+   "id": "palworld 1 1 and palfarm updates teased by pocketpair lead who previously blamed silence on gta 6",
+   "title": "Palworld 1.1 and Palfarm updates teased by Pocketpair lead who previously blamed silence on GTA 6",
+   "link": "https://www.gamesradar.com/games/survival/palworld-1-1-and-palfarm-updates-teased-by-pocketpair-lead-who-previously-blamed-silence-on-gta-6-stealing-everyones-attention/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T15:27:44+00:00",
+   "seen": "2026-11-24T16:29:58+00:00",
+   "summary": "People are emerging from Leonida",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Pocketpair teased Palworld 1.1 and Palfarm updates as people speculate about GTA 6 silence."
+  },
+  {
    "id": "the best tv show easter eggs in gta 6 so far",
    "title": "The Best TV Show Easter Eggs In GTA 6 (So Far)",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CSWVfSXdmQTlIa2NJblFqcVZMOVJXVDFmZ2RlaW5paU8wWE95ZWNRbGd0TTR0WWl3Mkh6TFBNVkc0c0lucXVFSUR4YkpVVzFXdVFEMXhDVXBjS0pZZUVRR2QxNElvZw?oc=5",
@@ -610,6 +688,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports the best GTA 6 Easter eggs in TV shows so far."
+  },
+  {
+   "id": "how to get vanessa s pink porsche growler in gta 6",
+   "title": "How to get Vanessa's Pink Porsche Growler in GTA 6",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-growler-pink-porsche/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T15:26:17+00:00",
+   "seen": "2026-11-24T16:29:58+00:00",
+   "summary": "Don't miss Vanessa's Growler, a gorgeous pink GTA 6 Porsche - or Pfister, to use its legally-distinct name",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Guidance on obtaining Vanessa's Pink Porsche Growler in GTA 6, also referred to as Pfister."
   },
   {
    "id": "we might as well cancel it cyberpunk 2 director says gta 6 s quality and open world left the development team depressed",
