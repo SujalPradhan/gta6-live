@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T20:11:28+00:00",
- "started": "2026-11-24T20:11:23+00:00",
+ "updated": "2026-11-24T20:16:23+00:00",
+ "started": "2026-11-24T20:16:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-24T20:11:23+00:00"
+   "checked": "2026-11-24T20:16:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-24T20:11:24+00:00"
+   "hits": 76,
+   "checked": "2026-11-24T20:16:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 89,
-   "checked": "2026-11-24T20:11:24+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-24T20:16:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T20:11:24+00:00"
+   "checked": "2026-11-24T20:16:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T20:11:25+00:00"
+   "checked": "2026-11-24T20:16:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T20:11:25+00:00"
+   "checked": "2026-11-24T20:16:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T20:11:25+00:00"
+   "checked": "2026-11-24T20:16:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-24T20:11:25+00:00"
+   "hits": 19,
+   "checked": "2026-11-24T20:16:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-24T20:11:25+00:00"
+   "checked": "2026-11-24T20:16:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T20:11:25+00:00"
+   "checked": "2026-11-24T20:16:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T20:11:26+00:00"
+   "checked": "2026-11-24T20:16:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T20:11:26+00:00"
+   "checked": "2026-11-24T20:16:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T20:11:26+00:00"
+   "checked": "2026-11-24T20:16:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T20:11:26+00:00"
+   "checked": "2026-11-24T20:16:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "just like gta 6 the witcher 4 has a playstation deal",
+   "title": "Just Like GTA 6, The Witcher 4 Has A PlayStation Deal",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWkw0blpBOUp1eEl5WWJYOFRKYU94Vktodm94Q0dzWWQ2bTVDaDVBRjNPQ013ZnU3RE9uTzNwVGJuYm5veGVPNmJEa3FLXzdMTGZyTjdEN1h4SWxJTVZlcE13RmdPX2VDVDI0c0dNMmNKcmM2dzBpdnE2TG5nUjNkUm5MS3E3NXNRZWxSTEhDYVY?oc=5",
+   "outlet": "GameSpot",
+   "via": "Google News",
+   "published": "2026-11-24T20:13:07+00:00",
+   "seen": "2026-11-24T20:16:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that The Witcher 4 has a PlayStation deal, similarly to GTA 6."
+  },
+  {
+   "id": "gta vi reclaims the car radio as a music discovery machine",
+   "title": "'GTA VI' reclaims the car radio as a music discovery machine",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15QUwySXZWWWQ5RDRlVUp2QXMweHNGdjhsblVrbHkxdWZnZTEyUWRxUTB5SEE0QWNRR0pQU2xwckI3M3NiMWZJd3lOUkJiaWw1TW51b2l4VHplT3U5QkNkSzhXWDN0TkdnREUzSTR3RnNTenA1LUZ1LW5KdkRGQQ?oc=5",
+   "outlet": "NPR",
+   "via": "Google News",
+   "published": "2026-11-24T20:12:17+00:00",
+   "seen": "2026-11-24T20:16:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI reclaims the car radio as a music discovery machine."
+  },
   {
    "id": "rockstar is turning gta 6 s in game trading cards into real collectibles",
    "title": "Rockstar is turning GTA 6’s in-game trading cards into real collectibles",
@@ -129,6 +155,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "Over half of GTA 6 watch time came from viewers under 25 years old."
+  },
+  {
+   "id": "justice and fred again bring electronic music to vice city on official gta 6 album listen",
+   "title": "Justice and Fred again.. Bring Electronic Music to Vice City on Official ‘GTA 6’ Album’: Listen",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iMlFHeEtRYkV3X256eTNWNnJXMU9ZRVNnOFpLX2pQMVBzb0MxbTc4TDR1X3RScnd0b3hFTFh4WWx1bFBrNjFUX2RyZGJYRUtuXzJlLVJB?oc=5",
+   "outlet": "EDM.com",
+   "via": "Google News",
+   "published": "2026-11-24T20:03:05+00:00",
+   "seen": "2026-11-24T20:16:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Justice and Fred again.. bring electronic music to Vice City on an official GTA 6 album, for listening."
   },
   {
    "id": "cdpr claims leap to witcher 4 is comparable to leap from gta 5 to gta 6",
