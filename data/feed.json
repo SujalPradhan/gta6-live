@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T19:00:49+00:00",
- "started": "2026-11-24T19:00:41+00:00",
+ "updated": "2026-11-24T19:05:57+00:00",
+ "started": "2026-11-24T19:05:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T19:00:42+00:00"
+   "checked": "2026-11-24T19:05:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-24T19:00:42+00:00"
+   "hits": 75,
+   "checked": "2026-11-24T19:05:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 91,
-   "checked": "2026-11-24T19:00:43+00:00"
+   "hits": 89,
+   "checked": "2026-11-24T19:05:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:00:43+00:00"
+   "checked": "2026-11-24T19:05:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T19:00:43+00:00"
+   "checked": "2026-11-24T19:05:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T19:00:44+00:00"
+   "checked": "2026-11-24T19:05:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T19:00:44+00:00"
+   "checked": "2026-11-24T19:05:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 20,
-   "checked": "2026-11-24T19:00:44+00:00"
+   "hits": 19,
+   "checked": "2026-11-24T19:05:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-24T19:00:45+00:00"
+   "checked": "2026-11-24T19:05:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T19:00:45+00:00"
+   "checked": "2026-11-24T19:05:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T19:00:46+00:00"
+   "checked": "2026-11-24T19:05:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T19:00:46+00:00"
+   "checked": "2026-11-24T19:05:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T19:00:46+00:00"
+   "checked": "2026-11-24T19:05:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T19:00:46+00:00"
+   "checked": "2026-11-24T19:05:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 gets officially licensed trading cards based on in game collectibles",
+   "title": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPblVKMWdQY04xNklIR0NPRzBfc0JRM0E4TW1ZOXNDRjhKNHFqLVJzRGlIMTB5aEJIbmFFSWtkX2tTTG5SalB1dV9DTVVNZEFKdlNGTnpyT0kwZDd5NVY0UVJtQ2IyU3JiTE9IVkdzUVNDaUtZdVZHdEdNNkFhNjJXY2xKTTctQXZ3aUlLTWVKVFJEalpJdHZhRFdhRUNJa0ZEX3JHSTlUODhYdjlqdDJBeWVnU0l0TjY4Y3MzN3RCbTVNQQ?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-24T19:04:20+00:00",
+   "seen": "2026-11-24T19:05:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 has official licensed trading cards based on in-game collectibles."
+  },
+  {
+   "id": "gta vi has wild monkeys the real florida has them too and there s a bizarre story behind them",
+   "title": "GTA VI Has Wild Monkeys. The Real Florida Has Them Too — and There's a Bizarre Story Behind Them",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRjJ4Um9MbUNjLXJpY1RSZ0pRZ1dTSVdIb0UtZU9Vc2lTazNheFdoNFhNMkNvYVNraTlBaE9MZEdZQm1Tby1iM1NQaUI2UE9wNS16YkRyQWEtNHNvbUxtWWpRVVViTE1MeWk0SVQzTGQ4MmNBbkl6TGcwWXVsUTA1cnlRTVVIYjVWUjVjT1BuMUtvTDNqZUlvdmRfNFhZdy1aWndST3RJVDlzRXQ5M1pBWG1vWmtGbjNlRlhUd1pVaTRkcmE4S1ZRZnNtUlFyYkNkalVRU2ljWW4?oc=5",
+   "outlet": "ZME Science",
+   "via": "Google News",
+   "published": "2026-11-24T18:59:34+00:00",
+   "seen": "2026-11-24T19:05:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI has wild monkeys and a related story in Florida."
+  },
   {
    "id": "a month in and i thought i d seen all of gta 6 i was so wrong",
    "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports an initial impression that GTA 6 surprises the author despite a month of play."
+  },
+  {
+   "id": "should christians play gta vi christian rappers pastors creators weigh in",
+   "title": "Should Christians Play GTA VI? Christian Rappers, Pastors, & Creators Weigh In",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkxDNWVXYkFKUnpvQkNSNlR2NDFhYkFuS1ZacG5KQnpJc1U4WThpcFJzblBnMTVpUmdzSGNyUXQzMk9WenNGOUxWUElJd083dmJTVnJVbHgxSXJEdTh4VXdwcGZ3TEtiaGlrRlR4MkR3eHpMbTItQWdfNk5jeHdGM1NZaVJTTERqUTJJdnNoZUZfQzJD?oc=5",
+   "outlet": "Rapzilla",
+   "via": "Google News",
+   "published": "2026-11-24T18:55:45+00:00",
+   "seen": "2026-11-24T19:05:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Christians, including rappers, pastors, and creators, discuss whether Christians should play GTA VI."
   },
   {
    "id": "gta 6 shatters playstation records with 39 million players and 683 million hours played in 3 days",
@@ -142,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 releasing real trading cards based on in-game collectibles."
+  },
+  {
+   "id": "panini scores grand theft auto vi trading card deal",
+   "title": "Panini Scores ‘Grand Theft Auto VI’ Trading Card Deal",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DbFRWem5GY3NZWHlyUnlUWGtIcGE0RlZVRk5kNFoyXy05X1VDM0xvZklXTHF4NUpkUThET1JmbjZ6SU9aZ1NCVDFWUk82T2dkZm85MjlhdDhaQzlVQ0tJN1U3Y1JEeEFFeGJuWEdiWnc?oc=5",
+   "outlet": "The Toy Book",
+   "via": "Google News",
+   "published": "2026-11-24T18:49:01+00:00",
+   "seen": "2026-11-24T19:05:50+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that Panini secured a trading card deal for Grand Theft Auto VI."
   },
   {
    "id": "gta vi netflix trailer tripled the weekly sales pace while launch week drove nearly three quarters of campaign gmv",
@@ -521,6 +573,19 @@
    "ai_summary": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to run the game on PC."
   },
   {
+   "id": "miami heat vice city night on eve of gta vi release what went down",
+   "title": "Miami Heat Vice City Night on Eve of ‘GTA VI’ Release: What Went Down",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2FlanNyRjBWZHBWN0haSGE2VGxJdms0Q1FkMDNaZGJDejZ6VTlLdDR3eThYQXEtT3BoV1FFRkdjQUFRQ2toby1TNUdFSUZwakhqWlhvWFNsOTRpb1I3Ull5UjZQVERzN2NheHBCYTd3a2llOF82SUxvX2hUanBwNA?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-24T17:42:34+00:00",
+   "seen": "2026-11-24T19:05:50+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports on an event at the Miami Heat Vice City Night on the eve of GTA VI’s release."
+  },
+  {
    "id": "gta 6 players spam zelda with bad reviews over false blame",
    "title": "GTA 6 Players Spam Zelda With Bad Reviews Over False Blame",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01MVhJZkU4T0RqZnBFWWFRRHhnVVpBcTJYY1QyczJVNWNrdUZza3EwaXFlTHVOcWZweHoxenNUR3dhQXBZWlhhUW5FdDF1N3pXTURjZ2ZwTU52eEdHQld5SWJTWDJTaHk3SU5pUllMZEFsb1Bw?oc=5",
@@ -532,6 +597,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports players giving negative reviews to Zelda due to a false blame associated with GTA 6."
+  },
+  {
+   "id": "texas band joins grand theft auto vi soundtrack",
+   "title": "Texas band joins Grand Theft Auto VI soundtrack",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nUzZuWUlFV3N0N0ZTTzhFeXNoanlvRTdxVnNtaUQ4YWxfMzAtUE8yTzhQTlZLeWJaLUNMdWZNWHR2ZU9RcGlTZUZCQ3FybTY4UjR0X3g5eEliVjYtaVppcXFUaVFHTFHSAWxBVV95cUxPajhiVHNHdFRSMF9EZjY2MU9rOXQ4N29BdTIwSHRnQVphTkNHczdIT21XUElMdUc1XzJIRU5SZWRNZXl2dWotRWxucS1tTzNEZXJSZnZNUV9ELTN5LWJRTW53c1lCVG9JQjNxN0Q?oc=5",
+   "outlet": "CW39 Houston",
+   "via": "Google News",
+   "published": "2026-11-24T17:40:51+00:00",
+   "seen": "2026-11-24T19:05:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a Texas band joined the Grand Theft Auto VI soundtrack."
   },
   {
    "id": "gta 6 alien abduction how to access the alien storyline explained",
@@ -883,6 +961,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports Sony announcing players logged nearly seventy-eight thousand years on PS5 for GTA 6."
+  },
+  {
+   "id": "sony says gta 6 players logged nearly 78 000 years of playstation time in 4 days",
+   "title": "Sony says 'GTA 6' players logged nearly 78,000 years of PlayStation time in 4 days",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNek9vSU5tV2dFQkhqVHhYZ281aEQ0MDIxWEIyVkxPN1hxeERYUGNJLWE2VlpsSDJheXd0cHlpNjJ3Rko2TlJkSWNybU9fTE9NSk85V0tUV2FQYUJFcVZEYmlLbVRaYlZJVHRiOF84X2hlUDlqNERGcTR2Q21iejdjZ05QalhNY29JVlQ3RTlWMEwyQQ?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-24T17:11:00+00:00",
+   "seen": "2026-11-24T19:05:50+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that Sony says GTA 6 players logged nearly 78,000 years of PlayStation time in four days."
   },
   {
    "id": "cyberpunk 2 director jokes that the sequel is canceled after gta 6 s 3 79 billion launch",
