@@ -1,109 +1,200 @@
 {
- "updated": "2026-11-24T15:39:58+00:00",
- "started": "2026-11-24T15:39:31+00:00",
+ "updated": "2026-11-24T15:44:41+00:00",
+ "started": "2026-11-24T15:44:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T15:39:38+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-24T15:44:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T15:39:46+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 64,
+   "checked": "2026-11-24T15:44:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T15:39:56+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-24T15:44:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:39:56+00:00"
+   "checked": "2026-11-24T15:44:36+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:39:56+00:00"
+   "checked": "2026-11-24T15:44:36+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T15:39:56+00:00"
+   "checked": "2026-11-24T15:44:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:39:57+00:00"
+   "checked": "2026-11-24T15:44:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T15:39:57+00:00"
+   "checked": "2026-11-24T15:44:37+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:39:57+00:00"
+   "checked": "2026-11-24T15:44:37+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-24T15:39:58+00:00"
+   "checked": "2026-11-24T15:44:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T15:39:58+00:00"
+   "checked": "2026-11-24T15:44:38+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T15:39:58+00:00"
+   "checked": "2026-11-24T15:44:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T15:39:58+00:00"
+   "checked": "2026-11-24T15:44:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:39:58+00:00"
+   "checked": "2026-11-24T15:44:38+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 comparison reveals two advantages of xbox series x over ps5",
+   "title": "GTA 6 Comparison Reveals Two Advantages Of Xbox Series X Over PS5",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzRyMG1NWFlsUDgtSHNRMV82UTBram4wVlo0M1FEdFE3UmRERkV5Nnp3VVlhSjhfTXVaWTlvMGdfYnJPUFFCenBTeHlqcWRaWDJrLVk5aFlGRk9rczFwRzl6QnhUVC1pTEdSNFNmd3VSWW8tYVk1UjlQbndVSGpTRFJlVVhaZnZWOGpHbVh1dDVEaHJ5MU94czRvY1ZFOUxZcVl0M1NuSTRVYjQ?oc=5",
+   "outlet": "Pure Xbox",
+   "via": "Google News",
+   "published": "2026-11-24T15:38:00+00:00",
+   "seen": "2026-11-24T15:44:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 comparison highlights two advantages of Xbox Series X over PS5."
+  },
+  {
+   "id": "so how impactful was the launch of grand theft auto vi",
+   "title": "So, How Impactful Was the Launch of Grand Theft Auto VI?",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFhqRTBOMU94QUd0TnpXOGVIWWQ3VkZVMElQVzlVM1gwX3RwcFg0T1lOU29IRTNFc25RYzhvUjI0S1NKUlRucTV5NHRxSExmVlhyTnctRXhmNzYzc09ZU3pmZTdyS05KYUoxMXY1VGJfRFJrem9HbDAwTlMyYWE1MC1iOVJTZEtWMGE4?oc=5",
+   "outlet": "Circana",
+   "via": "Google News",
+   "published": "2026-11-24T15:37:45+00:00",
+   "seen": "2026-11-24T15:44:34+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story discusses how impactful the launch of Grand Theft Auto VI was."
+  },
+  {
+   "id": "richmond s bunny machine on keeping her gta 6 secret",
+   "title": "Richmond’s Bunny Machine on Keeping Her GTA 6 Secret",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTVIVnJuQnVTdkdLTWJxZ1FuYkRmNXZXS0N0SkVxdjRLX2h2ZUdKM1U2d3hvanh3dkRhQWtPREJsb3BiM2ZJQnRBUTFUODlMc2N3MVdHMzg1bDJpemZMdU91YWR5OFhXV1EyMjh0U3RwZ1pMQXR5dXNiQ2hrNmhUa1U1dElQejA5OWtMSGVZcUU?oc=5",
+   "outlet": "RVA Mag",
+   "via": "Google News",
+   "published": "2026-11-24T15:34:27+00:00",
+   "seen": "2026-11-24T15:44:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers Richmond’s Bunny Machine keeping GTA 6 secret."
+  },
+  {
+   "id": "the hacker who leaked gta 6 in 2022 has been sentenced judge calls him a very talented young man before handing down his punishment",
+   "title": "The Hacker Who Leaked GTA 6 in 2022 Has Been Sentenced: Judge Calls Him “A Very Talented Young Man” Before Handing Down His Punishment",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTDhIeE9VSmJSSEZxbG1TQW8zam54MlJPSWlqU3FZWEdXTWdaLWdsRzFXbndURXBKQ0pUMVFlYW5xWXE5RmtyWXVwRDlEOXdHZlIzSXFuek9Ya0thVXVRSXpLa2FndkZyRjA1SEhsRUlLcWJmR3RtMXRwbENUU0ZDQzc1Sm5qR2pIS0xZcHR3ZHF3TlpDdkFZMDctUTY1ZDlpNTJ3VURtVDNwcTQ4NjNmVEp0ckpra0pzdnktck5kWXc2N1ItTHY2RFdGcmpGVEoyUnBqMm05cF9QakE4SDZyZEJFV2tLeUgtbVlHRFEwUVBjNS1ORDEw?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-24T15:34:10+00:00",
+   "seen": "2026-11-24T15:44:34+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports the hacker who leaked GTA 6 in 2022 has been sentenced, with the judge calling him a talented young man before handing down punishment."
+  },
+  {
+   "id": "rauw alejandro is fulfilling a childhood dream with rockstar games gta has been part of my life",
+   "title": "Rauw Alejandro Is Fulfilling a Childhood Dream With Rockstar Games: ”GTA’ Has Been Part of My Life’",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVdCblM1cmQ2bzcwX1VXbUFGT0ZmeTVHenlyMU02bEI3TUJLQ0NWZ2FiM21ieVdVUnZacjREVHdodk1RdTNXSC1FZk1GZENpa0JNRTJmczY1RnFYZDItWWZ2dUQ0bXJCMkt1SC1QZE9vaGljSTVLUkN2ZjBHUHJpdlVKM3FkTGtqRnFXT0FCZjdyZ2VMS3BYcHpTSTI1THFGUTQ2SnN3M1JZbEk?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-24T15:33:54+00:00",
+   "seen": "2026-11-24T15:44:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states Rauw Alejandro is fulfilling a childhood dream with Rockstar Games and GTA has been part of his life."
+  },
+  {
+   "id": "gta 6 is playstation s biggest launch of all time with over 39 million players",
+   "title": "GTA 6 Is PlayStation’s Biggest Launch Of All Time, With Over 39 Million Players",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0phTVE4S2oxSzNKa1JETzF4dWt3RzdpQmZuUXg0VlhJRzduWEZud3E0RkhJd0hvTFNCdXhzNzR6Q1ZZZl9hV0VXLVdNalFJVkk2ai1oZ3JFblRPa3FLd3FuaThEVVUzVDJDUU1aY0l1YWd2U2pyTzVfUG1QTHVSR3Jlbm9aQW1CanlLbnpTWjE?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-24T15:33:18+00:00",
+   "seen": "2026-11-24T15:44:34+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 is PlayStation’s biggest launch of all time, with over 39 million players."
+  },
+  {
+   "id": "is grand theft auto vi prompting a wave of real life flower purchases in philly",
+   "title": "Is ‘Grand Theft Auto VI’ prompting a wave of real-life flower purchases in Philly?",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0U4ZGwxNXl2SU9UVEFYcGxtQXVzSmFUWHI2cWgycG5HSW1heVNobUhxV2lFN1h6YVRvQUZtN1VhTVlEaUppcWRTYUZTemlya0h5Wi0talV0U3pyNXpwVzVoZ0dfRmF6djc3Rzc3ZXJrZTZ1LUxFRWtDSFVOaWt1QTZLM05ocEpQZm1qSEhEYmFGN0RHR01B?oc=5",
+   "outlet": "Inquirer.com",
+   "via": "Google News",
+   "published": "2026-11-24T15:30:59+00:00",
+   "seen": "2026-11-24T15:44:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA VI is prompting a wave of real-life flower purchases in Philly."
+  },
   {
    "id": "grand theft auto vi review a bloody boundary shifting reclamation of the american dream",
    "title": "‘Grand Theft Auto VI’ Review: A Bloody, Boundary-Shifting Reclamation of the American Dream",
@@ -3366,6 +3457,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "Exclusive: estimated figures for the number of GTA 6 copies sold in India are provided."
+  },
+  {
+   "id": "gta vi sales forecast climbs to 60 million as pc release could unlock another 20 million buyers",
+   "title": "GTA VI sales forecast climbs to 60 million as PC release could unlock another 20 million buyers",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmhtU2MyM0dacnU1UWlLRzhmMFo3WDVVYTBVTmtabldxUmQ0VW9tSUwzaG5fTC14am9jSXRtbmtZSGhfMUZtTERQcGZXTVBmUjZ5cjhsbTZVcjRBX3hsT0x1X2lhazhWdHJrNTYtUkR5WWhSR08wMUx4ZXJ3Ymp4Ujg5UmxZbGE3VER4SmZhM0VNMm5LOEhRd3JKcjlWRFIybzBfTmg5WU40Z00yN3pGMFJLSDN2NXVJaVdYR0tUSmlibk9ScDJaTHhCZS1EeXBUZ1ZMRUlvM3lxZUlfb19Da2hn?oc=5",
+   "outlet": "Business Upturn",
+   "via": "Google News",
+   "published": "2026-11-24T09:37:00+00:00",
+   "seen": "2026-11-24T15:44:35+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story notes GTA VI sales forecast climbing to 60 million as a PC release could unlock another 20 million buyers."
   },
   {
    "id": "there s a secret super mario easter egg hidden in gta vi with hats as rewards",
