@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T13:33:37+00:00",
- "started": "2026-11-24T13:33:29+00:00",
+ "updated": "2026-11-24T13:38:37+00:00",
+ "started": "2026-11-24T13:38:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-24T13:33:30+00:00"
+   "hits": 100,
+   "checked": "2026-11-24T13:38:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 78,
-   "checked": "2026-11-24T13:33:31+00:00"
+   "hits": 79,
+   "checked": "2026-11-24T13:38:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T13:33:31+00:00"
+   "hits": 97,
+   "checked": "2026-11-24T13:38:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:33:31+00:00"
+   "checked": "2026-11-24T13:38:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:33:32+00:00"
+   "checked": "2026-11-24T13:38:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T13:33:32+00:00"
+   "checked": "2026-11-24T13:38:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 20,
-   "checked": "2026-11-24T13:33:32+00:00"
+   "hits": 19,
+   "checked": "2026-11-24T13:38:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T13:33:33+00:00"
+   "checked": "2026-11-24T13:38:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:33:33+00:00"
+   "checked": "2026-11-24T13:38:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T13:33:34+00:00"
+   "checked": "2026-11-24T13:38:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T13:33:34+00:00"
+   "checked": "2026-11-24T13:38:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T13:33:34+00:00"
+   "checked": "2026-11-24T13:38:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:33:34+00:00"
+   "checked": "2026-11-24T13:38:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T13:33:34+00:00"
+   "checked": "2026-11-24T13:38:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 hacker sentenced to seven years and released the same day",
+   "title": "GTA 6 hacker sentenced to seven years and released the same day",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVNKSl9ONzdZTkhBbkxabVNqZGY2emVTeDJlQW1reTFmYUtDSGU4Q2x3TEUwaTJ6UzdYU0FQWEpOZ04zZzVHdHRSTTN2elMxY3hEOXp5SzRrRk04V1BJdDBTWFBmTFppVTk5dXIyWVNsSVdJWWZ6RHJoNXMxczNaSUFjUWV6NWYzQUM2R0kyeUtRN0EwajRFYS13dzlLTTJm?oc=5",
+   "outlet": "Help Net Security",
+   "via": "Google News",
+   "published": "2026-11-24T13:35:37+00:00",
+   "seen": "2026-11-24T13:38:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 hacker is sentenced to seven years and released on the same day."
+  },
   {
    "id": "gta 6 free parachute the key lento tower spot you can reach in your first hours",
    "title": "GTA 6 free parachute: the Key Lento tower spot you can reach in your first hours",
@@ -129,6 +142,32 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports GTA 6 as the biggest PlayStation launch ever."
+  },
+  {
+   "id": "what is gta vi trying to say about the manosphere",
+   "title": "What Is GTA VI Trying to Say About the Manosphere?",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuc1MyRy1lV1FHdENTdjJyZFRzel9CaGxHamhWMHFWVENPUDkwSVM5T001cHFId3hMM1BiVVhOQXB6alFrLVh4MVBCdVhFNEFIRDFQbzM5aFZNYXFteDR1SllzM0F0OUYyM0RJT3EwYUliY0NrR2NXYjkwM2E3UQ?oc=5",
+   "outlet": "GQ",
+   "via": "Google News",
+   "published": "2026-11-24T13:30:00+00:00",
+   "seen": "2026-11-24T13:38:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece questions what GTA VI communicates about the manosphere."
+  },
+  {
+   "id": "guide gta 6 vice city easter egg walkthrough tommy vercetti shirt unlock",
+   "title": "Guide: GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock",
+   "link": "https://www.pushsquare.com/guides/gta-6-vice-city-easter-egg-walkthrough",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-24T13:30:00+00:00",
+   "seen": "2026-11-24T13:38:31+00:00",
+   "summary": "Find the portal and get your Tommy Vercetti rewards. GTA 6 is hiding an extremely cool Easter egg related to 2002's GTA: Vice City . While it's a really fun reward and absolutely worth looking for, it involves quite a complex set of steps to make it happen. In this GTA 6 guide , we're going to explain how to find the Vice City Easter egg. Full credit to Memeio for discovering this secret! Read the",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A guide explains how to find a Vice City Easter egg and unlock the Tommy Vercetti shirt in GTA 6."
   },
   {
    "id": "all gta 6 casinos map locations gambling explained",
@@ -10048,6 +10087,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 hacker sentenced to prison for leaking clips online."
+  },
+  {
+   "id": "cyberleek leaks lucia customization gta 6 npc density",
+   "title": "Cyberleek Leaks Lucia Customization & GTA 6 NPC Density",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYU91VnJldnVFcV9OZ1p6NHNoM3FJZFFJbGpWWnVoUmEtM3h3ellYa0xnZ2Y0UDA2R2JkU0N6YW9LVXpiNGxRMWNrMFNUUGcyaDFyWWo0MkdxTEtaOTc3bTBUWUNOTjVILUxZSmZIdEd0eVZ3cWJXVnlHYTA5aTRicDNkNmVlUQ?oc=5",
+   "outlet": "TechJuice",
+   "via": "Google News",
+   "published": "2026-11-23T14:24:44+00:00",
+   "seen": "2026-11-24T13:38:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Cyberleek leaks information about Lucia customization and GTA 6 NPC density."
   },
   {
    "id": "how to sell stolen cars and bikes in gta 6",
