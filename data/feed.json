@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T22:52:11+00:00",
- "started": "2026-11-24T22:52:05+00:00",
+ "updated": "2026-11-24T22:57:12+00:00",
+ "started": "2026-11-24T22:57:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-24T22:52:06+00:00"
+   "checked": "2026-11-24T22:57:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 78,
-   "checked": "2026-11-24T22:52:06+00:00"
+   "checked": "2026-11-24T22:57:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-24T22:52:07+00:00"
+   "hits": 87,
+   "checked": "2026-11-24T22:57:08+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T22:52:07+00:00"
+   "checked": "2026-11-24T22:57:08+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T22:52:07+00:00"
+   "checked": "2026-11-24T22:57:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T22:52:07+00:00"
+   "checked": "2026-11-24T22:57:09+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T22:52:08+00:00"
+   "checked": "2026-11-24T22:57:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T22:52:08+00:00"
+   "checked": "2026-11-24T22:57:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T22:52:08+00:00"
+   "checked": "2026-11-24T22:57:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-24T22:52:08+00:00"
+   "checked": "2026-11-24T22:57:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T22:52:09+00:00"
+   "checked": "2026-11-24T22:57:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T22:52:09+00:00"
+   "checked": "2026-11-24T22:57:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T22:52:09+00:00"
+   "checked": "2026-11-24T22:57:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T22:52:09+00:00"
+   "checked": "2026-11-24T22:57:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "witcher 4 s evolution similar to gta 5 s leap to gta 6 cd projekt says",
+   "title": "Witcher 4's evolution similar to GTA 5's leap to GTA 6, CD Projekt says",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnN6QXo5UXFmMVk1NlJvRk80c09SR3loczFkdzExbE1xdHRSaEMzaGY2VTNZVkF6TXAweVZBOHJQWVMwN3huTUFoWmpVV1BjMDF0dHFJaEpJaXVveXp4VVByODd1Sk9Fdzl2Qlp3WXh3QWhNT2RfdW1raEhqeG5XLXRIV0xTMWlGMGZBZFJaSElUNV9HQkU4OEhMNXVtbUV6ZVVYdWFhZXNlWlNqamJ4MlFPNkxsVW53?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-24T22:53:11+00:00",
+   "seen": "2026-11-24T22:57:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Witcher 4's evolution is compared to GTA 5's leap to GTA 6 by CD Projekt."
+  },
   {
    "id": "gta 6 runs better on xbox series x than base ps5",
    "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 runs better on Xbox Series X than base PS5, according to Digital Foundry tested by Insider Gaming."
+  },
+  {
+   "id": "gta 6 chapter 1 is hooking players so much with its slice of life content that they aren t even doing any crime",
+   "title": "GTA 6 Chapter 1 Is Hooking Players So Much With Its Slice of Life Content That They Aren't Even Doing Any Crime",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaktsZU9xbTBrNmVubFVmdzUxQTdva0p3WC1DeG9FV05tSndQRy14RUx4RDE4Q0tvVjA4bU4tVnY4dWI1YmFRX2s5YUFzbTQ2X2ttZHo4Tkt3dGpYVm5JNVdkSkdjbWhZNjFnSmZUTnFLb2dRZ2V0SWxVQk5iN2U0NUh2VEZXNUY4UDgtQXlBbnZVTkhrNjJmR0VURm1zNkdLUTAwQUM3QkhfMTlyZ1B2VFJtU1hpQXYzLVN2Mnp3bGhXZVlHQS1kVFBR?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T22:50:26+00:00",
+   "seen": "2026-11-24T22:57:07+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 Chapter 1 is engaging players with slice of life content to the point they are not committing crimes."
   },
   {
    "id": "forget gta 6 rockstar s best open world game movie adaptation reportedly in works for 100m",
