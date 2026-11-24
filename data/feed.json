@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T17:55:33+00:00",
- "started": "2026-11-24T17:55:27+00:00",
+ "updated": "2026-11-24T18:00:30+00:00",
+ "started": "2026-11-24T18:00:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-24T17:55:28+00:00"
+   "hits": 99,
+   "checked": "2026-11-24T18:00:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-24T17:55:28+00:00"
+   "hits": 74,
+   "checked": "2026-11-24T18:00:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-24T17:55:28+00:00"
+   "hits": 92,
+   "checked": "2026-11-24T18:00:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T17:55:29+00:00"
+   "checked": "2026-11-24T18:00:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T17:55:29+00:00"
+   "checked": "2026-11-24T18:00:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T17:55:29+00:00"
+   "checked": "2026-11-24T18:00:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T17:55:29+00:00"
+   "checked": "2026-11-24T18:00:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T17:55:29+00:00"
+   "checked": "2026-11-24T18:00:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T17:55:29+00:00"
+   "checked": "2026-11-24T18:00:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T17:55:30+00:00"
+   "checked": "2026-11-24T18:00:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T17:55:30+00:00"
+   "checked": "2026-11-24T18:00:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T17:55:31+00:00"
+   "checked": "2026-11-24T18:00:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T17:55:31+00:00"
+   "checked": "2026-11-24T18:00:26+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T17:55:31+00:00"
+   "checked": "2026-11-24T18:00:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 launch knocked call of duty s daily players down 42 percent alinea estimates",
+   "title": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
+   "link": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-24T17:59:50+00:00",
+   "seen": "2026-11-24T18:00:25+00:00",
+   "summary": "Grand Theft Auto 6 's launch took a big bite out of Call of Duty’s player base, according to new estimates from Alinea Analytics, and four days on, it still hasn't recovered. Read more",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "GTA 6's launch reduced Call of Duty's daily players by the amount estimated by Alinea Analytics, and four days later the numbers have not recovered."
+  },
   {
    "id": "highland man faces charges after gta vi threats at walmart",
    "title": "Highland man faces charges after GTA VI threats at Walmart",
@@ -246,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI: The Album adds four more songs after the Deluxe Edition."
+  },
+  {
+   "id": "who knows what surprises life has waiting for me next in conversation with bengali singer rupa biswas sen on her recent virality of her song",
+   "title": "“Who knows what surprises life has waiting for me next?”: In Conversation with Bengali singer Rupa Biswas Sen on her recent virality of her song ‘Aaj Shanibar’ after its feature in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDZmTlBXOGEtbHN3WkJDd25VOHF1N0JDTnVyZnVqNURVVE5VVW1HT3EyZXBkem5OdVI3Z2QtOTRSQW0xcXBqVE9xZ2hBdFBiMVhmOGNPeWcydS02d2Y2dXZYN2lxeWlfdlhINGpUcVFZU1U1Y1VXYXFKeWJCbG82bHd5cVpIdEs3alY5bHJLaXFfbkFYY25YZmlDaFVzUFd4cWpRcTViQWtiWEd1OFJXdVNwaExheHQ2QUHSAccBQVVfeXFMUGFRUWhmTzRxS3gySkJhSGhubmZOYVByRDhZZEJwTzFWTEwzV2x4WU5GdWJycHRNZDdyQkhMa09TMUg3el9XZVlrN1drV2JWQUNSbnJ1Y1R5TEprUUpUWlRzMl9hSnB6Q1RSc3Nnak00RDdyX3poZEMtM2UyZk8wLVVIVXlod0k5cE9sRHlsUDVTTC1pT2FxZWxvWTA2dnFiZURRSEY5YjNTcW4xeHFoalYyMmNsQzhJS2ItZVhLb1R3Vy0xbklvWQ?oc=5",
+   "outlet": "NewsGram",
+   "via": "Google News",
+   "published": "2026-11-24T17:30:52+00:00",
+   "seen": "2026-11-24T18:00:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Bengali singer's virality for her song 'Aaj Shanibar' followed its feature in GTA 6, discussed in an in-depth conversation."
   },
   {
    "id": "hackers crack gta 6 with ai after record 3 8 billion debut",
@@ -1312,6 +1338,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes GTA VI is out and describes how Miami is promoting it."
+  },
+  {
+   "id": "grand theft auto vi review two american kids doin the best they can",
+   "title": "‘Grand Theft Auto VI’ Review: Two American Kids Doin’ the Best They Can",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kdjV6VVFGRkRCSV8wSHNIdUtId0dLWVhxRlhnT0JUMmNEUXRIdTMwbFphdkVyeHIyLW5nZnlleVd2QVJhdElETWhBTzlpdw?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-24T15:30:07+00:00",
+   "seen": "2026-11-24T18:00:23+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "IMDb's review of Grand Theft Auto VI centers on two American kids doing their best."
   },
   {
    "id": "grand theft auto vi review a bloody boundary shifting reclamation of the american dream",
