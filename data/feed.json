@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T18:10:33+00:00",
- "started": "2026-11-24T18:10:25+00:00",
+ "updated": "2026-11-24T18:15:33+00:00",
+ "started": "2026-11-24T18:15:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T18:10:25+00:00"
+   "checked": "2026-11-24T18:15:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-24T18:10:26+00:00"
+   "hits": 59,
+   "checked": "2026-11-24T18:15:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-24T18:10:26+00:00"
+   "hits": 92,
+   "checked": "2026-11-24T18:15:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T18:10:26+00:00"
+   "checked": "2026-11-24T18:15:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T18:10:27+00:00"
+   "checked": "2026-11-24T18:15:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-24T18:10:27+00:00"
+   "hits": 59,
+   "checked": "2026-11-24T18:15:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T18:10:27+00:00"
+   "checked": "2026-11-24T18:15:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T18:10:27+00:00"
+   "checked": "2026-11-24T18:15:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T18:10:27+00:00"
+   "checked": "2026-11-24T18:15:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T18:10:28+00:00"
+   "checked": "2026-11-24T18:15:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T18:10:28+00:00"
+   "checked": "2026-11-24T18:15:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T18:10:28+00:00"
+   "checked": "2026-11-24T18:15:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T18:10:28+00:00"
+   "checked": "2026-11-24T18:15:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T18:10:28+00:00"
+   "checked": "2026-11-24T18:15:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "you can expect a similar leap between the witcher 3 and the witcher 4 as there is between gta 5 and gta 6 cd projekt red says",
+   "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
+   "link": "https://www.eurogamer.net/cd-projekt-red-cdpr-witcher-3-4-gta-5-6",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-24T18:13:30+00:00",
+   "seen": "2026-11-24T18:15:28+00:00",
+   "summary": "CD Projekt Red has said people can expect a similar qualitative and technological leap from The Witcher 3 to The Witcher 4 as has been witnessed between Grand Theft Auto 5 and Grand Theft Auto 6 . Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "CD Projekt Red says the leap from Witcher 3 to Witcher 4 will be similar to the leap from GTA 5 to GTA 6."
+  },
+  {
+   "id": "gta 6 heavy lifting mission guide the hard drive ajax gym and the bodybuilder tail",
+   "title": "GTA 6 Heavy Lifting mission guide: the hard drive, Ajax Gym and the bodybuilder tail",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRklXYjdib1lZZDdLeFdNdEd0ZHFlSF8zVUp6VHUwSXdXOTJYQTBIamV2czN6X2pqQnFJcmRfX3VvSWIwZ3JzWUgyY3Z4M29IS3h4UnFzc20zZks1Y3lGYjZHajlXV0dqNVRzSWpZMDRzYm5CUTAtM3RLNWpERmJyWVNNaFExVzNNUGxhWm9KUXVYTTQtcm8wSTk1ZmZEUHhwamhDVw?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T18:11:55+00:00",
+   "seen": "2026-11-24T18:15:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists a GTA 6 mission guide featuring the hard drive, Ajax Gym, and the bodybuilder tail."
+  },
+  {
+   "id": "how to download gta vi faster 4 ways to boost your speed",
+   "title": "How to download GTA VI faster – 4 ways to boost your speed",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3EyVlB5RnlqNkhtYks1VHhIWksybzA5bk5xaXF5UjZJX0NKb3k2RnNhczdSUjJON3pMalJWRVZjSUtydmFtbkJDc0xGV255aVdSNDEwUVBvdUk4ZzJvWXRJaVVIaVF0VVc1TVZfR3VKLTJLWE5SOXlJcC1aQUVsRHh3?oc=5",
+   "outlet": "ZDNET",
+   "via": "Google News",
+   "published": "2026-11-24T18:09:43+00:00",
+   "seen": "2026-11-24T18:15:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story promises four ways to download GTA VI faster and boost speed."
+  },
   {
    "id": "chatting with people in gta online about why they re not playing gta 6 80 is too much for me bro",
    "title": "Chatting With People In GTA Online About Why They’re Not Playing GTA 6: “$80 Is Too Much For Me, Bro”",
