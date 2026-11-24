@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T23:02:14+00:00",
- "started": "2026-11-24T23:02:08+00:00",
+ "updated": "2026-11-24T23:07:17+00:00",
+ "started": "2026-11-24T23:07:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-24T23:02:08+00:00"
+   "checked": "2026-11-24T23:07:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T23:02:09+00:00"
+   "hits": 79,
+   "checked": "2026-11-24T23:07:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-24T23:02:09+00:00"
+   "hits": 61,
+   "checked": "2026-11-24T23:07:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T23:02:09+00:00"
+   "checked": "2026-11-24T23:07:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T23:02:10+00:00"
+   "checked": "2026-11-24T23:07:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T23:02:10+00:00"
+   "checked": "2026-11-24T23:07:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T23:02:10+00:00"
+   "checked": "2026-11-24T23:07:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T23:02:10+00:00"
+   "checked": "2026-11-24T23:07:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T23:02:11+00:00"
+   "checked": "2026-11-24T23:07:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-24T23:02:11+00:00"
+   "checked": "2026-11-24T23:07:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T23:02:11+00:00"
+   "checked": "2026-11-24T23:07:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T23:02:11+00:00"
+   "checked": "2026-11-24T23:07:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T23:02:12+00:00"
+   "checked": "2026-11-24T23:07:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T23:02:12+00:00"
+   "checked": "2026-11-24T23:07:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "some gta 6 fans love chapter 1 for its slower pace and are spending dozens of hours roleplaying in it",
+   "title": "Some GTA 6 Fans Love Chapter 1 for Its Slower Pace and Are Spending Dozens of Hours Roleplaying in It",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeEJ5bW1jSm8zcVlMbHhwbnhOeHE0WVgzT0E5djVLU2lxY2xRWlltTXR5OEZPbTZva3VJSUtjdXNsY3A2U1ZtbXhxcHJ0UXVMbVl5bVFHWlRsLVF2c1htc1dqMlRDdTR6am1fc0FpaGR1dTl1U3FHTWJLcXluRWVIc0M5ZEpWWDF4YU9KWkNWR1JwVUlyTGg5ZTBBbm1UR1pDNjJ0bTZISmhXanR0NHJqcDFQT09GaF9wcEZraEFscU5sLW9XeW1UNmE5M0tpdkVnZTBFWVlIRXRBMGhOVlZucUpvdVU?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-24T23:03:29+00:00",
+   "seen": "2026-11-24T23:07:11+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Some GTA 6 fans love Chapter 1 for its slower pace and spend hours roleplaying in it."
+  },
+  {
+   "id": "rockstar reportedly kills project leonida a 15 year old s gta 6 pc port effort along with its 180 000 member discord",
+   "title": "Rockstar reportedly kills Project Leonida, a 15-year-old's GTA 6 PC port effort, along with its 180,000-member Discord",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRDM3eFh6Qnp6VTdnM0hmOXdBQ3VvLXNFT25qN2pkRmk4ZHZnYkpsd3FGc1Jhb2Q0Q2xGTV90Y21oR3ctZVZ5cnZ4ZDlPYTNMX1lzRW5FZmt1QzRySlQxdXRxczJ6SG5WOWZPVnBXY3ptQ1hmdFFLeDk5Zkt4T215LXY2TUVDTjdDZUhQdmpJM21LRk5XbU05eUZBMENtcG9RRHpfeEhHVU9yc0J2VE5ZQmlPM2dlTkIyZ01pOGRBWmJlbFNzYmVsckMtR3Bzb09RMWthZXhHS0xzTS05bGdIRF9Ydm9zeFRtZnBQSXA1ZHZSR2N3T3c?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-24T23:03:10+00:00",
+   "seen": "2026-11-24T23:07:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar reportedly kills Project Leonida, a GTA 6 PC port effort, along with its Discord community."
+  },
+  {
+   "id": "grand theft auto vi focuses on a couple trying to succeed at crime",
+   "title": "‘Grand Theft Auto VI’ focuses on a couple trying to succeed at crime",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaml6bVhNZjR1ZEZyMnpqUG5FQ1o2SzJTZzBFVVB0RncwdmJSUU5TN0RqX3hXSlA3Q1FIY05LeGZzd2I5cVo4NjZCSzByUjZ2SDZHYkxSdGJfTVdoM3c5YjZOOEJpdmI1WFYxdHp1cHFiUnlpdlVpUGxQUkRrcjVJT3dTdFpULTdmTWQ1Ulg2OTlPeDl5b2JyUERyR28zTndtZkgzeGJxUWpleVdwblJUUWczSDZzQjRXeEYtNGo2a3FFX0U?oc=5",
+   "outlet": "Iron Mountain Daily News",
+   "via": "Google News",
+   "published": "2026-11-24T23:01:04+00:00",
+   "seen": "2026-11-24T23:07:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI centers on a couple trying to succeed at crime."
+  },
   {
    "id": "rockstar games kills unauthorized gta 6 pc port for obvious reasons",
    "title": "Rockstar Games kills unauthorized 'GTA 6' PC port, for obvious reasons",
