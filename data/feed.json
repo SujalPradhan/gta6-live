@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T09:07:07+00:00",
- "started": "2026-11-24T09:07:00+00:00",
+ "updated": "2026-11-24T09:12:17+00:00",
+ "started": "2026-11-24T09:12:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T09:07:00+00:00"
+   "checked": "2026-11-24T09:12:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-24T09:07:01+00:00"
+   "hits": 67,
+   "checked": "2026-11-24T09:12:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T09:07:01+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-24T09:12:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:07:01+00:00"
+   "checked": "2026-11-24T09:12:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T09:07:02+00:00"
+   "checked": "2026-11-24T09:12:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-24T09:07:02+00:00"
+   "hits": 56,
+   "checked": "2026-11-24T09:12:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:07:02+00:00"
+   "checked": "2026-11-24T09:12:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T09:07:03+00:00"
+   "checked": "2026-11-24T09:12:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:07:03+00:00"
+   "checked": "2026-11-24T09:12:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:07:03+00:00"
+   "checked": "2026-11-24T09:12:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T09:07:04+00:00"
+   "checked": "2026-11-24T09:12:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T09:07:04+00:00"
+   "checked": "2026-11-24T09:12:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T09:07:04+00:00"
+   "checked": "2026-11-24T09:12:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T09:07:04+00:00"
+   "checked": "2026-11-24T09:12:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "modders already have gta 6 running on pc after cyberleek released a full xbox build of the game",
+   "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
+   "link": "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-24T09:09:20+00:00",
+   "seen": "2026-11-24T09:12:12+00:00",
+   "summary": "A PC version of Grand Theft Auto 6 - one from unofficial sources, at least - may be closer than we thought. After suddenly returning last week with a near-full build of the Xbox version , notorious leaker CyberLeek has now posted the missing piece they intentionally held back: the game's executable (.exe) file. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Modders have GTA 6 running on PC after an Xbox build was released by CyberLeek."
+  },
   {
    "id": "i ve spent 100 hours in gta 6 and i have some complaints about the complaints",
    "title": "I’ve spent 100 hours in GTA 6 and I have some complaints about the complaints",
@@ -168,6 +181,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that GTA 6 developers hope players avoid focusing on tasks and guides and let the game unfold, noting the world is immense and varied."
+  },
+  {
+   "id": "gta 6 devs say bringing every detail together in leonida to feel like a directed whole was a huge challenge and hope players stop thinking i",
+   "title": "GTA 6 devs say bringing every detail together in Leonida ‘to feel like a directed whole was a huge challenge’ and ‘hope’ players ‘stop thinking in tasks, completion percentages, online guides, and rather let the game unfold in front of them’",
+   "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNaWVuWnY3ZlVRY1NLbXB2WXlnelo1UkdxT3oyUVJTYjNfaUxncFc3SzU3SnhuNTc5MUZKWE1PMTVaMWpnNTd3RXloYVo2bXpaNWsyd3pDdjhfUmtYQzJQY0ttSElhRGYzM2lsVlh2Zzh0T245SnZib2ZFcV9GZGhBcktLcjFhOFBLSmpvU1QyM0lzWnJkTXdPRkNNMW80SWlTOFRpREhzcXQtWEozREo1SlprMjVURktLUHRiMXBDZ0dHUEFiQnVvbnF4Q2pSTnlLdy1hTWRmNEwydlJ4SWtrUE9wMWNUUzMtRG1UaXptUG15Q19fVkZ3NERDSm9ELUJuWkRYN1VMV3E5RFBsckRmVUR6U1hwbU9KOV96UFpiT1U1SUFTazVlb09zMEtKRDc3aGFiSmhKbUs5RWlrNFJ1MnBreDRVNEU2Yk91SUNUbTVadkw0Uk1hcjJYUEh6TXhiMEpNS3Itb2lUMjdsYWJPSk5CbmQyZFRFUlIwNHFB?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-24T08:51:23+00:00",
+   "seen": "2026-11-24T09:12:11+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Developers describe the challenge of making every detail feel like a directed whole and hope players let the game unfold without focusing on tasks or guides."
   },
   {
    "id": "grand theft auto vi hacker sentenced to seven years released the same day",
@@ -454,6 +480,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 sparks debate on athletes' performance."
+  },
+  {
+   "id": "from the vice city portal to a hidden mario block gta 6 mysteries so wild players thought they had to be fake",
+   "title": "From the Vice City Portal to a Hidden Mario Block: GTA 6 mysteries so wild, players thought they had to be fake",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByRW9pZTFDS1c3c0hVWE9pS212aTFUd2V2TUQweVlkQkZLY1BMdWx0VnZwbzc3b0xoZFVzcng1MFVwNDMwMTVyakd5eXpOaGphZks3NDhEQjAwei1kWnBwbGx3RjNUQ1Q5NThOM254UVlmMDdhMmlUeTNobkZDZw?oc=5",
+   "outlet": "AOL.com",
+   "via": "Google News",
+   "published": "2026-11-24T07:26:00+00:00",
+   "seen": "2026-11-24T09:12:11+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Stories discuss GTA 6 mysteries from the Vice City Portal to a hidden Mario Block and let readers consider them as possibly fake."
   },
   {
    "id": "gta 6 players have already spent almost 80 000 years in leonida on ps5 alone",
