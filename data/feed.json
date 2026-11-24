@@ -1,109 +1,161 @@
 {
- "updated": "2026-11-24T22:01:54+00:00",
- "started": "2026-11-24T22:01:51+00:00",
+ "updated": "2026-11-24T22:06:56+00:00",
+ "started": "2026-11-24T22:06:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T22:01:51+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 98,
+   "checked": "2026-11-24T22:06:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T22:01:52+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 67,
+   "checked": "2026-11-24T22:06:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-24T22:01:52+00:00"
+   "hits": 62,
+   "checked": "2026-11-24T22:06:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T22:01:52+00:00"
+   "checked": "2026-11-24T22:06:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T22:01:53+00:00"
+   "checked": "2026-11-24T22:06:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T22:01:53+00:00"
+   "checked": "2026-11-24T22:06:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T22:01:53+00:00"
+   "checked": "2026-11-24T22:06:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T22:01:53+00:00"
+   "checked": "2026-11-24T22:06:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T22:01:53+00:00"
+   "checked": "2026-11-24T22:06:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T22:01:54+00:00"
+   "checked": "2026-11-24T22:06:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T22:01:54+00:00"
+   "checked": "2026-11-24T22:06:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T22:01:54+00:00"
+   "checked": "2026-11-24T22:06:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T22:01:54+00:00"
+   "checked": "2026-11-24T22:06:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T22:01:54+00:00"
+   "checked": "2026-11-24T22:06:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "yes despite what some say online there are thunderstorms in gta 6",
+   "title": "Yes, Despite What Some Say Online, There Are Thunderstorms In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWx5OWRoMVI2VGpqQ01oLTVSNjRveVlaWFpMV3pwSUpmcmJYTkdLTVdoU2pNSFVXaC1wNFlsYWZ2VlZPdW8wTkF4UzYxdVZHbWQzcmxJWWJsanFwZngtU3ZIbHBJT1VuemlWVTAzLWo1a0VLd3kxQ3dxd2pGVXdXMHR5b0NjdW1SVzFZcjFsZzktWmtyWUEzRW0zMA?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-24T22:02:53+00:00",
+   "seen": "2026-11-24T22:06:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that there are thunderstorms in GTA 6, contrary to some online claims."
+  },
+  {
+   "id": "gta vi is great on playstation 5 but it could be better on pc 4 things i m hoping for",
+   "title": "GTA VI is great on PlayStation 5, but it could be better on PC – 4 things I’m hoping for",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYTAtbUdQYlVrMXppUkhRYkR3UWRMSHNwS253LTJ0NHJnck9rcEt4dWRnb0hTSkhuRHNoMW5NcWxtQzNVSFBXWlVBeG16Z20yRS1pMWZ3MWk0QmxIUGhsOGpjcGkyUFZieVdwZ2NCVUlLbk1vTUlzbnNCcjhteUhsQWw2ZExoLTN1OXlpMg?oc=5",
+   "outlet": "ZDNET",
+   "via": "Google News",
+   "published": "2026-11-24T22:00:03+00:00",
+   "seen": "2026-11-24T22:06:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI is great on PlayStation 5 but could be better on PC, with four hoped-for improvements."
+  },
+  {
+   "id": "rockstar games releases four new songs from grand theft auto vi as itunes exclusives featuring 100 gecs",
+   "title": "Rockstar Games Releases Four New Songs From Grand Theft Auto VI As iTunes Exclusives Featuring 100 gecs",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaGRHbXdkVW43eVZXTWNFYUUybDNxSFVDNDNmUThrSEtCYXNqLXZLU0ZkaGRQN3NGLW8wVU9SODM5OGg0ZW51dE5HX3hvUkJNdE5Sai1xUWlFd2VPVUlWQzVfNTZFT24tbTFlTmRpN1gxaHZrQmxfZlUtUHI4ejg4SktPbmVSNTVyY2hpQ1doMUZyUWpkSFJkNzVSTVZJQkRaa3U4QUtSTXRZUFhwd0NvcHNPaEoxNE43MDhPQllsejFPenJvaXRiUHFlcGpWcEt0eFNlNjJjc19LeXZG0gHiAUFVX3lxTE91V1UzNEFDaHlOcmRKSVptZU94aFZ5MHBXbzAzUXNVX1V5bjdIWUF4c0ZCbUdISzBLV05LOHlZSUY2blhLZUktRWdkRFo3R3E0RTF0cEQ0UlY2SGtta2FtVzd1WW9IVVhuUElkc1dseUctNzhOZkk3NHUwSnpncFY1LVR0VldiQWtSWDVCVkp5Vkh0SW9KUzJYX1dWUzZQcWdYaXRSclVYN0FvMmdGbTlZNXRza2JFczg3VW1KZ3czd215OWpDdnJ0ZTFVMTh2dG1oN2t5UzRwQS0yOTZQVTNTekE?oc=5",
+   "outlet": "mxdwn Music",
+   "via": "Google News",
+   "published": "2026-11-24T21:56:07+00:00",
+   "seen": "2026-11-24T22:06:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Rockstar releases four new GTA VI songs as iTunes exclusives featuring 100 gecs."
+  },
+  {
+   "id": "tom petty stephen root and cedar key the local ties hidden in gta vi",
+   "title": "Tom Petty, Stephen Root and Cedar Key: The local ties hidden in GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbUswTjBPWExZU1pBLUpIUWVDdkQtVVVQQ3pfTjZMZXVZdjlmY0RGal9xZENIQkc1SHVNcktNOWtkOWJ1ZHZ4VmpBWnhmYUliOU1qTXMzLUZ2OVc3YWlRelVuM2ZnNDJkRVpJMUQ2R0U4V2lGX0hjZ0tiSUJjak1JUkd1VlpVLThianpQXzkwc2NCM096NjhoZVVkcnZ3NUlRZGZReGRFTkZwWlMxc2FVUVRDM3NXUUstTmZ0S2N5NExWLVhMWGhxQW1Vdkk3UFVVZHN1bC05Z21fVGRURlhB?oc=5",
+   "outlet": "Gainesville Sun",
+   "via": "Google News",
+   "published": "2026-11-24T21:55:00+00:00",
+   "seen": "2026-11-24T22:06:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports local ties in GTA VI involving Tom Petty, Stephen Root, and Cedar Key."
+  },
   {
    "id": "gta 6 has more framerate drops on ps5 than xbox series x according to analysis",
    "title": "GTA 6 has more framerate drops on PS5 than Xbox Series X, according to analysis",
