@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T00:09:02+00:00",
- "started": "2026-11-24T00:08:57+00:00",
+ "updated": "2026-11-24T00:14:11+00:00",
+ "started": "2026-11-24T00:14:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T00:08:57+00:00"
+   "checked": "2026-11-24T00:14:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-24T00:08:58+00:00"
+   "hits": 59,
+   "checked": "2026-11-24T00:14:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 70,
-   "checked": "2026-11-24T00:08:58+00:00"
+   "hits": 96,
+   "checked": "2026-11-24T00:14:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T00:08:58+00:00"
+   "checked": "2026-11-24T00:14:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T00:08:59+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T00:08:59+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T00:08:59+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T00:08:59+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T00:08:59+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T00:08:59+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T00:09:00+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T00:09:00+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T00:09:00+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T00:09:00+00:00"
+   "checked": "2026-11-24T00:14:08+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi reaches more than 39m unique ps5 players sie says",
+   "title": "Grand Theft Auto VI reaches more than 39m unique PS5 players, SIE says",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTFmVEhQc3hLTk85NnNOak9fUTRqbHpfRHZpbWllR0dtUG53c196QWdjWFpYUy1mVkNRMjd6NUhVRVdMUXBBVzYxUVhDVl9xdzI5ZzNEOVY1VGNveUVLa1lDOVVwUXlKc3lGSEczbWhwZ0pfZi1DNTBxZ1NCS0h5b2FEOHhhbmNWdDhMb1VZVjl5MWRoWk1weTVhRVJhbGtXS3JlOHVEQ0dGc3FPeVF3aVdB?oc=5",
+   "outlet": "Inven Global",
+   "via": "Google News",
+   "published": "2026-11-24T00:10:40+00:00",
+   "seen": "2026-11-24T00:14:06+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The headline reports GTA VI has more than 39 million unique PS5 players according to SIE."
+  },
+  {
+   "id": "gta 6 breaks playstation s launch record",
+   "title": "GTA 6 Breaks PlayStation’s Launch Record",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSMHZ1b0E1WDFCMm4xNFdCZXQ2S3IzcGw1YU4ySUJRd1U5RHBoMmNRWTNBOTNDd1gtNVplbGNwWjZ0c1pzVE9WQkdtRHNOT3V3SkstNjZlZXpHamtkbE1uei1YRm1TZktLb1czM2stWEt2dFZVWWVZZE43OHZJUQ?oc=5",
+   "outlet": "iPhone in Canada",
+   "via": "Google News",
+   "published": "2026-11-24T00:10:13+00:00",
+   "seen": "2026-11-24T00:14:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The headline reports GTA 6 breaks PlayStation’s launch record."
+  },
+  {
+   "id": "gta 6 soundtrack songs 23 tracks in deluxe edition",
+   "title": "GTA 6 soundtrack songs: 23 tracks in Deluxe Edition",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wdHhFTkFiNGtpSE9RQUU2aEwyWWl6WTJMRjRpUEdSTVZPOExqa3lMZldwN2VrNjViTUtFZ3VrUGFIbjBuMGN5eWhDSGRxQkxhWHUtaVVFQi1WYWZhVVBoejNZQzQ3eWxBUllIM29XcGlRS0dFYTlYRDRITlA?oc=5",
+   "outlet": "NeoTeo",
+   "via": "Google News",
+   "published": "2026-11-24T00:09:52+00:00",
+   "seen": "2026-11-24T00:14:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports GTA 6 soundtrack includes 23 tracks in the Deluxe Edition."
+  },
+  {
+   "id": "gta 6 has a hidden mario and luigi easter egg that lets jason and lucia dress like nintendo s iconic plumbers",
+   "title": "GTA 6 has a hidden Mario and Luigi Easter egg that lets Jason and Lucia dress like Nintendo's iconic plumbers",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWDJGVmtCQXN1OHJ2cnRqcmhZU2JaTko3WUd0WmVEcVRFTkdfaC1uZXQ4Z2dNcHA0cDJMODhyRDVqUGNXMVpsRzM1bDZKdGlYQ3FYd2lodlJENnRvaFltZTAtdzZmcm5odEctWUNibzZRT3paZkpCTWQ5eUxRNnU1Q1FlT2F4UVRBWUQ3YjAtYjdIbi1uYTN6elVjX0lkSDhpSGxHeldLUWhDWWJ5c2daNlhDMi1xUThabjVqSTJjTWVCeUhYdG93TnpiM3NIQ2JaSUFWNW45VTVSSE5UdnozNDFpalJxbmpFUW5MMzZB?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-24T00:09:04+00:00",
+   "seen": "2026-11-24T00:14:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports GTA 6 has a hidden Mario and Luigi Easter egg with outfits for Jason and Lucia."
+  },
   {
    "id": "grand theft auto vi is asking you to hold multiple thoughts in your head at once about a complex video game release",
    "title": "Grand Theft Auto VI Is Asking You To Hold Multiple Thoughts In Your Head At Once About A Complex Video Game Release",
@@ -142,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Strauss Zelnick, GTA 6 boss, is among the first speakers announced for SXSW London 2027."
+  },
+  {
+   "id": "does gta 6 have a 60 fps mode ps5 ps5 pro and xbox explained",
+   "title": "Does GTA 6 Have a 60 FPS Mode? PS5, PS5 Pro and Xbox Explained",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmIwblRodjhQTHE0RXVZUVI0N1cwVkJGSDRxczRvaElGbVFMUlBuYV95eHBWNnZaZmxLSkpOUkpHU0h4dmZWOWZVOWtxT3ppYWlpakpObHg1RWU1S2VQYy14WXNVTTlLSDVhM0otalJpSGRKRFZDMEw2MzlhelhWWk9ZMmMtMGJmcnNJVmQ2Tm1Xa2RySnlQb3FfNkNSTUZkZzd0OFJR?oc=5",
+   "outlet": "Game News Plus",
+   "via": "Google News",
+   "published": "2026-11-24T00:00:25+00:00",
+   "seen": "2026-11-24T00:14:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline reports a 60 FPS mode for GTA 6 and explains PS5, PS5 Pro, and Xbox compatibility."
   },
   {
    "id": "gta 6 zelda and resident evil fans caught up in bizarre metacritic ratings war",
@@ -2547,6 +2612,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that GTA 6 Vice City pre-order DLC is now available for all, with a caveat mentioned."
+  },
+  {
+   "id": "gta 6 vice city pre order dlc now available for all with one catch",
+   "title": "GTA 6 Vice City Pre-Order DLC Now Available for All, With One Catch",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUkRxVEhEU2Y3LTBjeEhqbEZpa2wxYUljM2J3bTVUbnoxVUVBb1FnSkJpZS1HcW10dExpdjUwTlBEZVVBd0tmYXh5T3gxb3pUcmdrV0VRT3FzWE0wN0RHRmtTTHNUbzJUazUydEpIb1h0cWhUVnNweW4tYTAxQTZYeQ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T18:34:15+00:00",
+   "seen": "2026-11-24T00:14:06+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The headline reports GTA 6 Vice City pre-order DLC is now available for all, with one catch."
   },
   {
    "id": "you can buy airpods knockoffs in gta 6 and listen to the radio on foot",
