@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T19:56:07+00:00",
- "started": "2026-11-24T19:56:01+00:00",
+ "updated": "2026-11-24T20:01:21+00:00",
+ "started": "2026-11-24T20:01:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T19:56:01+00:00"
+   "checked": "2026-11-24T20:01:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-24T19:56:02+00:00"
+   "hits": 76,
+   "checked": "2026-11-24T20:01:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 90,
-   "checked": "2026-11-24T19:56:02+00:00"
+   "hits": 68,
+   "checked": "2026-11-24T20:01:15+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:56:02+00:00"
+   "checked": "2026-11-24T20:01:15+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-24T19:56:02+00:00"
+   "hits": 9,
+   "checked": "2026-11-24T20:01:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T19:56:03+00:00"
+   "checked": "2026-11-24T20:01:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T19:56:03+00:00"
+   "checked": "2026-11-24T20:01:16+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T19:56:03+00:00"
+   "checked": "2026-11-24T20:01:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:56:03+00:00"
+   "checked": "2026-11-24T20:01:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T19:56:03+00:00"
+   "checked": "2026-11-24T20:01:17+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T19:56:04+00:00"
+   "checked": "2026-11-24T20:01:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T19:56:04+00:00"
+   "checked": "2026-11-24T20:01:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T19:56:04+00:00"
+   "checked": "2026-11-24T20:01:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T19:56:04+00:00"
+   "checked": "2026-11-24T20:01:18+00:00"
   }
  },
  "items": [
+  {
+   "id": "cdpr claims leap to witcher 4 is comparable to leap from gta 5 to gta 6",
+   "title": "CDPR claims leap to Witcher 4 is ‘comparable’ to leap from GTA 5 to GTA 6",
+   "link": "https://www.videogameschronicle.com/news/cdpr-claims-leap-to-witcher-4-is-comparable-to-leap-from-gta-5-to-gta-6/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-24T20:01:10+00:00",
+   "seen": "2026-11-24T20:01:16+00:00",
+   "summary": "CDPR investors asked bosses how The Witcher 4 compares to GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "CDPR says The Witcher 4's leap is comparable to the jump from GTA V to GTA VI, as stated by investors asking about the comparison."
+  },
   {
    "id": "sony will support the witcher 4 s marketing much like gta 6",
    "title": "Sony Will Support The Witcher 4's Marketing, Much Like GTA 6",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The Witcher 4's marketing will be supported by Sony in a collaboration similar to GTA 6’s promotion."
+  },
+  {
+   "id": "i can t believe it they put one of our cars in grand theft auto vi",
+   "title": "I Can’t Believe It, They Put One Of Our Cars In Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHdSYzIzM1F3dndBOV84U2pRdHVpMGhEeDE4S2NWUWlsWlh0ckd5S3V1alpseERFcENXcWFFTS1zRnJ6d3RJRFhSTHQ5WHl2WVFZdGlYX3BlWGxGVHp3c3Zvd2Ywcm9SRE9oMVMwNzY1X0I2N0tkNUpITU9UQzlxQjdsYzFXSlZlTjV6Mm9tU1daUkxZNFhsME93?oc=5",
+   "outlet": "The Autopian",
+   "via": "Google News",
+   "published": "2026-11-24T19:58:06+00:00",
+   "seen": "2026-11-24T20:01:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Autopian reports the sighting of a real car included in Grand Theft Auto VI."
   },
   {
    "id": "missed gta 6 s vintage vice city bonus rockstar is now selling the pack separately for 4 99",
@@ -155,6 +181,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "GTA 6 revived a 70s pop duo's forgotten song, causing its streams to surge dramatically."
+  },
+  {
+   "id": "gta vi s mandy actress is unbothered by people being weird about her online",
+   "title": "GTA VI’s Mandy Actress Is Unbothered by People Being Weird About Her Online",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWwtQjBkYjlRSlNSR0pvdnA0R3EyQ1NVSWNuOGdYUFJkTzlYTGxQdEFoRFJKdGF1bWwxbGZYVmF0NzZUYkhudzUybjdpLW8wUG9ZR0p5aVc5SG9oWjhLNEVTZk4tU2tMd2hpM1JoZFN2aXpkcE44VGthVFdJcU9rMzF5djUyY19RODU2YlFqOFpySGRvUGUzZ1JB?oc=5",
+   "outlet": "Vulture",
+   "via": "Google News",
+   "published": "2026-11-24T19:38:34+00:00",
+   "seen": "2026-11-24T20:01:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Vulture notes the Mandy actress in GTA VI is unbothered by online attention."
   },
   {
    "id": "top 20 fastest cars in gta 6 all locations how to get them",
@@ -220,6 +259,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports privacy concerns over what Rockstar Games and Take-Two know about players."
+  },
+  {
+   "id": "gta 6 chapter 1 is so good that i m afraid to move on to chapter 2",
+   "title": "'GTA 6' chapter 1 is so good that I'm afraid to move on to chapter 2",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnpiSnI0Ui0tS0syVEQwZF94a1NyV0dYRGdhSEd6WWpMdTdnRVZZdFItWU5tQklrVmlmTHZlZmw0M2locjVDUzZUalczc01keUtZR3hKa3AxRUlOOU55NXlIZVltT2NUMERqN013TFFCRG1fdXlfcGpNdGtMMEdubVJtQlZWVmRsMTlqSG01UFVxMWtfM29ocEtoU3dSYWJnWXVCYg?oc=5",
+   "outlet": "Mashable SEA",
+   "via": "Google News",
+   "published": "2026-11-24T19:30:55+00:00",
+   "seen": "2026-11-24T20:01:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Mashable SEA says GTA VI chapter 1 is so good that moving to chapter 2 feels difficult."
   },
   {
    "id": "grand theft auto vi album s secret weapon the barbie soundtrack creator",
@@ -844,6 +896,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "GTA 6's launch reduced Call of Duty's daily players by the amount estimated by Alinea Analytics, and four days later the numbers have not recovered."
+  },
+  {
+   "id": "gta 6 has taken a huge bite out of call of duty s player numbers and it hasn t bounced back yet",
+   "title": "GTA 6 has taken a huge bite out of Call of Duty’s player numbers, and it hasn't bounced back yet",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUnhnTC1wTjhtQzBDR2REbEl3QTdfazFhWTExVjZvM1F2cUZFRjdtcTAwUFk1U2wtUE1BcHBjVFRTZENuakRSbWs4YmJOQ3RJVGVrVGk2aGtHUnZSaTYxZnduekI3YjlqaDVqb3R3WS1qd2g4eHcyaWpSMlNlVjN4eHJxdmlyelE?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-24T17:59:50+00:00",
+   "seen": "2026-11-24T20:01:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Eurogamer.net reports GTA 6 has significantly reduced Call of Duty’s player numbers and has not recovered."
   },
   {
    "id": "community efforts to port gta 6 to pc and mac show early success",
