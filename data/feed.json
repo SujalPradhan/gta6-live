@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T10:17:27+00:00",
- "started": "2026-11-24T10:17:22+00:00",
+ "updated": "2026-11-24T10:22:31+00:00",
+ "started": "2026-11-24T10:22:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-24T10:17:23+00:00"
+   "hits": 99,
+   "checked": "2026-11-24T10:22:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-24T10:17:23+00:00"
+   "hits": 62,
+   "checked": "2026-11-24T10:22:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-24T10:17:23+00:00"
+   "hits": 97,
+   "checked": "2026-11-24T10:22:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T10:17:24+00:00"
+   "checked": "2026-11-24T10:22:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T10:17:24+00:00"
+   "checked": "2026-11-24T10:22:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T10:17:24+00:00"
+   "checked": "2026-11-24T10:22:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:17:24+00:00"
+   "checked": "2026-11-24T10:22:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T10:17:24+00:00"
+   "checked": "2026-11-24T10:22:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T10:17:24+00:00"
+   "checked": "2026-11-24T10:22:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:17:24+00:00"
+   "checked": "2026-11-24T10:22:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T10:17:25+00:00"
+   "checked": "2026-11-24T10:22:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T10:17:25+00:00"
+   "checked": "2026-11-24T10:22:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T10:17:25+00:00"
+   "checked": "2026-11-24T10:22:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T10:17:25+00:00"
+   "checked": "2026-11-24T10:22:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 sets playstation concurrent player record with more than 39 million unique players",
+   "title": "GTA 6 sets PlayStation concurrent-player record, with more than 39 million unique players",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15ejdQZEZtUE9ScHVNZWU5b0J6OW9wa0tYTEhlUWhPWUgyM2lBcGdodkhFeGtTWEdNLUo2VnVwOHpDTkFONzhHZXZuOXdfaVE5R0gwLUVwUkJ4Z1JCbDI3N0swMjEtUEViU0Z5U2lxSkYwUkxOWk9jTw?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-24T10:17:17+00:00",
+   "seen": "2026-11-24T10:22:25+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 setting a PlayStation concurrent-player record with more than 39 million unique players."
+  },
+  {
+   "id": "uk charts no disc no problem gta 6 shoves zelda further down the ranking",
+   "title": "UK Charts: No Disc, No Problem - GTA 6 Shoves Zelda Further Down The Ranking",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9JYlBlZUZlNUxSR2F2S1Q2ck1heUtIT3dxZUJtNmFOZ3BFTGpwaUtrV0g0VjNwWTJrcEsycEoyTGV2NEg5NmJOckhqaWJHYlJKeFRERjl6QVViTE9tX0NTVTVrOTZXa0hscnRlalIxTFQyWXVTNVB4cjZjNjMtdTd6cm1YZnN0TUFDYkZpUHR1MG5CMTR4dzZ3TVdvTXNWN0dLZXJJMlowWEYxQThTNDJnNjc?oc=5",
+   "outlet": "Nintendo Life",
+   "via": "Google News",
+   "published": "2026-11-24T10:15:00+00:00",
+   "seen": "2026-11-24T10:22:25+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 ranking on UK charts with focus on Zelda dropping in ranking and GTA 6 performing well."
+  },
   {
    "id": "gta 6 wasted or busted what you lose including your pocket cash",
    "title": "GTA 6 Wasted or Busted: What You Lose, Including Your Pocket Cash",
@@ -181,6 +207,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "GTA VI review asserts that the best stories begin with a wrong turn, per the headline."
+  },
+  {
+   "id": "gta 6 gets surprise playstation plus perk that lets you play without a ps5",
+   "title": "GTA 6 gets surprise PlayStation Plus perk that lets you play without a PS5",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXVQcWgtQXh2MEpBZ25EaUozLWt3VWl1c21ZMXBxbGNyNGhza29Ibm9pci04MGR6c0RIMmcyZjM3Rm4weUtMV2JIVE95VXdwdVlDcWFZNndKcDZuVEVnbmF1dkpCZHhkX1IzMnFPbUhUU3FpTGI1ZEVYNlN1enphcWtFUW1IWXdMVmRkcFBtYmtmZE1GRlZNc3U3ek1lenUwR0ZsdjRRTzVCcV9LMkkyTA?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-24T10:04:41+00:00",
+   "seen": "2026-11-24T10:22:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 offering a surprise PlayStation Plus perk that allows playing without a PS5."
   },
   {
    "id": "gta 6 is officially the biggest launch in playstation history",
