@@ -1,109 +1,174 @@
 {
- "updated": "2026-11-24T06:15:59+00:00",
- "started": "2026-11-24T06:15:56+00:00",
+ "updated": "2026-11-24T06:21:04+00:00",
+ "started": "2026-11-24T06:20:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T06:15:57+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-24T06:20:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-24T06:15:57+00:00"
+   "hits": 70,
+   "checked": "2026-11-24T06:20:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-24T06:15:58+00:00"
+   "checked": "2026-11-24T06:20:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T06:15:58+00:00"
+   "checked": "2026-11-24T06:20:59+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T06:15:58+00:00"
+   "checked": "2026-11-24T06:21:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T06:15:58+00:00"
+   "checked": "2026-11-24T06:21:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T06:15:58+00:00"
+   "checked": "2026-11-24T06:21:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T06:15:58+00:00"
+   "checked": "2026-11-24T06:21:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T06:15:58+00:00"
+   "checked": "2026-11-24T06:21:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T06:15:59+00:00"
+   "checked": "2026-11-24T06:21:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T06:15:59+00:00"
+   "checked": "2026-11-24T06:21:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T06:15:59+00:00"
+   "checked": "2026-11-24T06:21:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T06:15:59+00:00"
+   "checked": "2026-11-24T06:21:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T06:15:59+00:00"
+   "checked": "2026-11-24T06:21:01+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 draws more than 39 million players on playstation 5",
+   "title": "‘GTA 6’ draws more than 39 million players on PlayStation 5",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZHBnYnI5QVVQRmExZlI5MHZodFUtRHZiUTVIZkZJUm5kOG9TSl9IWXVtc1RoRUJtZDFnVWxLQ3FqZWR6WndCUkdUaHN3YkpRdnlVeDhoWE85M01uMFdUcUZKOVpxOTRITjBNTUd1SWJrdzNweExEOFlMWkRLQ1pqWm9oREx3aFJ6U09MbmZaWlNFN2dvQTZQOWozM2liZ0VBajJ2di03cmYwUQ?oc=5",
+   "outlet": "Kursiv Media",
+   "via": "Google News",
+   "published": "2026-11-24T06:19:27+00:00",
+   "seen": "2026-11-24T06:20:59+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 drew more than 39 million players on PlayStation 5."
+  },
+  {
+   "id": "gta 6 had the highest number of new ps5s connected since the console s 2020 launch",
+   "title": "GTA 6 Had the Highest Number of New PS5s Connected Since the Console’s 2020 Launch",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmlzNWxUZFcycWdBWmNrWkZTQ280Q3JHZVYyZWFQMUtnYkI1UGpYNHFMZFd4RDl2N1Utck1ORjdmdXMtekhzUWtxalUyZ1hPNGJjRHJ2RWpNanp3RUU1eUVxckJRRzNEQkh5SzdOSllkUVhWT3hLT3p6dFo2NkJxWC1tNnRzbG95X241THJEYmlGRHhHaDFBOThtd1NlaVdkTnhuSE4tOA?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-24T06:13:40+00:00",
+   "seen": "2026-11-24T06:20:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 had the highest number of new PS5s connected since the console’s 2020 launch."
+  },
+  {
+   "id": "for 60 fps at 1440p in gta 6 on pc you ll need a ryzen 7 9700x and a geforce rtx 5070",
+   "title": "For 60 FPS at 1440p in GTA 6 on PC, you'll need a Ryzen 7 9700X and a GeForce RTX 5070.",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMU9JZjlvTHF4RUptYklaT0VuZmViX1B4LW13RHMzOWRyMlh0LVJZdF84aWpqR1V4Ym9GaGJLejBud1FzS3h2dmRYUWNiOV91dFZ3b2dOUVFuSjBHbG9uV0RQYldoMEU5U3NGWEFyaTE2STNydURmS0RSNkZtZjVxUElnbGJlSHppVGRwSUdXXzlFNEdfY0hKZ05sVHlPREhxNWF3LXZHRjJuTHo5V0ZJOWhaYjZRZw?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-24T06:12:54+00:00",
+   "seen": "2026-11-24T06:20:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "For 60 FPS at 1440p in GTA 6 on PC, a Ryzen 7 9700X and a GeForce RTX 5070 are required."
+  },
+  {
+   "id": "gta vi is the biggest launch in playstation history with over 39 million unique players",
+   "title": "GTA VI is the biggest launch in PlayStation history, with over 39 million unique players",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS19sLWlyYTZGckJob0F6eVhQalNPUVUwODQ2bFJaVTJOdEZ1QzJxazkxbE01UHJQRE50dXEyUlpYZXVobm9wOVZaUjhORV82U1VmMGhPY0JtSWxpMS1aRG94NzBXNkFQOG92UkZacGFFSlo1QnAtMHpnUUt5NEQ2Qmd1X0tMOHJ3RkFnN0RJa3dEbFNDQkxVVWtLMWZjZS1qc1dXUzViT1BMSUlIY2FQZC1jSXkycFljTC0yTmZrUWZ0NUNhRnhocVFYdDdGSkpHNFl0VEpB?oc=5",
+   "outlet": "GosuGamers",
+   "via": "Google News",
+   "published": "2026-11-24T06:09:51+00:00",
+   "seen": "2026-11-24T06:20:58+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "GTA VI is described as the biggest launch in PlayStation history with over 39 million unique players."
+  },
+  {
+   "id": "gta 6 can now be launched from the cloud on playstation portal without a ps5 console",
+   "title": "GTA 6 can now be launched from the cloud on PlayStation Portal without a PS5 console.",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYTZxVGxnRW9mcHJPZXp2V3RiNzJqYWhDcFhXWUhXNjZab2U4VkxsWnlYaVQxQjh5bC1DVXlqcE5fSTZrNlBqbkk4akZiRXdIVnk3LU9OZm1pRndOd1AyRDNJZFEzc3dpMzhodFNpV3dEaE1wQTJiN1NkTlJKb3NuNl9GMUs2N05xdFIyLVRHdDdGM05Bc1JWQkYxdWY5S1BwY1dQcDF3MUJXeVBx?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-24T06:01:48+00:00",
+   "seen": "2026-11-24T06:20:58+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 can now be launched from the cloud on PlayStation Portal without a PS5 console."
+  },
   {
    "id": "gta 6 becomes biggest game launch in playstation history with 39 million players",
    "title": "GTA 6 becomes biggest game launch in PlayStation history with 39 million players",
@@ -545,6 +610,19 @@
    "topic": "Players",
    "record": true,
    "ai_summary": "The story claims GTA 6 was the biggest launch in PlayStation history with over 39 million unique players."
+  },
+  {
+   "id": "gta 6 was the biggest launch in playstation history with over 39 million unique players sales",
+   "title": "GTA 6 Was the Biggest Launch in PlayStation History With Over 39 Million Unique Players - Sales",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXl0aGVvZEZfeVJEUTY2eUtZLWdUbFJOdkpoZkpGRVZtN1JHR182T0llNHJJeEtKeFA5SVFOcXJzWERBV29oaE1GZXVQeHpLRFdmNlJzVENGXzRMQ3BNS3FCV3hfV0hQNGNHek5vRWVweEtLTWMtdUV4b3hJQnY1SGIyelJRMV8yWWRGalYxMTM4N0JTUDc0OGVha2VidlFGZTlrYlhROXBkZUtnY3RiZ1NSemtGTENxQ2xYb2hTdjVRX3haT1NR?oc=5",
+   "outlet": "VGChartz",
+   "via": "Google News",
+   "published": "2026-11-24T02:31:26+00:00",
+   "seen": "2026-11-24T06:20:58+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story states GTA 6 was the biggest launch in PlayStation history with over 39 million unique players."
   },
   {
    "id": "bro gta 6 npcs are actually terrifying they ll just teleport behind you out of nowhere and delete you rockstar cooked too hard with these de",
