@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T11:53:03+00:00",
- "started": "2026-11-24T11:52:56+00:00",
+ "updated": "2026-11-24T11:58:03+00:00",
+ "started": "2026-11-24T11:57:56+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T11:52:57+00:00"
+   "checked": "2026-11-24T11:57:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 69,
-   "checked": "2026-11-24T11:52:57+00:00"
+   "hits": 76,
+   "checked": "2026-11-24T11:57:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T11:52:57+00:00"
+   "hits": 73,
+   "checked": "2026-11-24T11:57:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T11:52:58+00:00"
+   "checked": "2026-11-24T11:57:58+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T11:52:58+00:00"
+   "checked": "2026-11-24T11:57:58+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T11:52:58+00:00"
+   "checked": "2026-11-24T11:57:58+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T11:52:58+00:00"
+   "checked": "2026-11-24T11:57:59+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T11:52:59+00:00"
+   "checked": "2026-11-24T11:57:59+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T11:52:59+00:00"
+   "checked": "2026-11-24T11:57:59+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T11:52:59+00:00"
+   "checked": "2026-11-24T11:58:00+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T11:53:00+00:00"
+   "checked": "2026-11-24T11:58:00+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T11:53:00+00:00"
+   "checked": "2026-11-24T11:58:00+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T11:53:00+00:00"
+   "checked": "2026-11-24T11:58:00+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T11:53:00+00:00"
+   "checked": "2026-11-24T11:58:00+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar is actively shopping read dead redemption movie and tv rights around just don t expect the same for grand theft auto",
+   "title": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
+   "link": "https://www.eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-24T11:54:00+00:00",
+   "seen": "2026-11-24T11:57:58+00:00",
+   "summary": "Rockstar Games is seemingly interested in expanding Red Dead Redemption beyond video games, after years of Hollywood knocking on its doors. According to a new report, the company is looking for someone to pick up the movie and TV rights for its open-world Westerner series. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar is looking to sell Red Dead Redemption movie and TV rights, while Grand Theft Auto rights are not expected to be pursued."
+  },
+  {
+   "id": "a 2 000 pc with a ryzen 7 9700x and rtx 5070 could run gta 6 at 1440p and 60 fps",
+   "title": "A $2,000 PC with a Ryzen 7 9700X and RTX 5070 could run GTA 6 at 1440p and 60 FPS",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUlESE9tMlVuOE1QVEo1LXBYTlJ3Yy1VbF9DeXhNMTgxSjQ3a3JYbHYtMDN4N1pkV1BGWFVfZ3YxNTUxc2xCenJ4OTlld3A0MUlvSjdDdW9oODZ2anV0WmxkWlg1MGdUeWpSbHpaQjgzR3V0YlU3MGVSc1dlOTFZOGxoc3ZaWlVFZHF0cV92QkVLM2NtaEduT01xN2ZmbnJjUVp0c0tpWGhWUE1xa0xsWXFzeTBDVjZSWEZCSGhYMDFzUGtobExfV252eWhBUDBu?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-24T11:50:05+00:00",
+   "seen": "2026-11-24T11:57:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A PC with Ryzen 7 9700X and RTX 5070 could run GTA 6 at 1440p and 60 FPS."
+  },
   {
    "id": "playstation plus officially adds gta 6 to premium streaming library",
    "title": "PlayStation Plus Officially Adds GTA 6 To Premium Streaming Library",
@@ -768,6 +794,19 @@
    "ai_summary": "The story reports tensions related to GTA VI launch priced at $79.99."
   },
   {
+   "id": "gta 6 drops bonus playstation plus benefit as plays best on ps5 campaign continues",
+   "title": "GTA 6 drops bonus PlayStation Plus benefit as 'plays best on PS5' campaign continues",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXVQcWgtQXh2MEpBZ25EaUozLWt3VWl1c21ZMXBxbGNyNGhza29Ibm9pci04MGR6c0RIMmcyZjM3Rm4weUtMV2JIVE95VXdwdVlDcWFZNndKcDZuVEVnbmF1dkpCZHhkX1IzMnFPbUhUU3FpTGI1ZEVYNlN1enphcWtFUW1IWXdMVmRkcFBtYmtmZE1GRlZNc3U3ek1lenUwR0ZsdjRRTzVCcV9LMkkyTA?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-24T10:34:41+00:00",
+   "seen": "2026-11-24T11:57:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 drops a bonus PlayStation Plus benefit as part of a campaign that says it plays best on PS5."
+  },
+  {
    "id": "polymarket traders bet 172k on when gta 6 streamers will finish the game",
    "title": "Polymarket Traders Bet $172K on When GTA 6 Streamers Will Finish the Game",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ09uaXNaNHBlNXJMbWw4dEx6Z0w0V242bGRabXRfdHBRTUJGdEZmcU5MVGFKUGJYMXRlUjNibVotTWpGdS1oc0ROU0RNa0hTcEJrN2ZHNVRWS2pRNzhZc3J6RG5HNTlPWnQ3OEd4UGU5dWdrRmRnOUJKelAwdEczSzhJM2NvdW5KeTZLZ2dyZ1ZuREdQTzFkUjZkdjE4Y1R1dkVFNktPRFg?oc=5",
@@ -883,6 +922,19 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "The story reports GTA 6 setting a PlayStation concurrent-player record with more than 39 million unique players."
+  },
+  {
+   "id": "gta 6 posts biggest launch in playstation history 39m players",
+   "title": "GTA 6 Posts Biggest Launch in PlayStation History: 39M Players",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWlF2ZE9lYWxJS3p6dlVIeUQ1NW91bUpZTUVCS1BubnlWVzVXS0ZvVTZDMjFwUnpBUnlOR2JwaWVWbGNka200NGV0X3MwaW9PVVo4ZWRpcTlDaWQwdm1PelNmcHdWdkVaN3FCekFib1o5RE84UGNMYjJkdlV4SEtaVHZDUEJmemo4NTdEZnB5Y1NWZUZmT3RPOHZ1OA?oc=5",
+   "outlet": "www.explosion.com",
+   "via": "Google News",
+   "published": "2026-11-24T10:15:24+00:00",
+   "seen": "2026-11-24T11:57:57+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "GTA 6 posts the biggest launch in PlayStation history with 39 million players."
   },
   {
    "id": "uk charts no disc no problem gta 6 shoves zelda further down the ranking",
