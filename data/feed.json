@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T03:45:14+00:00",
- "started": "2026-11-24T03:45:07+00:00",
+ "updated": "2026-11-24T03:50:24+00:00",
+ "started": "2026-11-24T03:50:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T03:45:08+00:00"
+   "checked": "2026-11-24T03:50:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-24T03:45:08+00:00"
+   "hits": 58,
+   "checked": "2026-11-24T03:50:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-24T03:45:09+00:00"
+   "hits": 74,
+   "checked": "2026-11-24T03:50:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T03:45:09+00:00"
+   "checked": "2026-11-24T03:50:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T03:45:09+00:00"
+   "checked": "2026-11-24T03:50:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T03:45:09+00:00"
+   "checked": "2026-11-24T03:50:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T03:45:10+00:00"
+   "checked": "2026-11-24T03:50:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T03:45:10+00:00"
+   "checked": "2026-11-24T03:50:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T03:45:10+00:00"
+   "checked": "2026-11-24T03:50:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T03:45:10+00:00"
+   "checked": "2026-11-24T03:50:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T03:45:11+00:00"
+   "checked": "2026-11-24T03:50:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T03:45:11+00:00"
+   "checked": "2026-11-24T03:50:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T03:45:11+00:00"
+   "checked": "2026-11-24T03:50:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T03:45:11+00:00"
+   "checked": "2026-11-24T03:50:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "the voice of channel 5 joins grand theft auto vi s star studded radio lineup",
+   "title": "The voice of Channel 5 joins Grand Theft Auto VI’s star-studded radio lineup",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkk1b0V0RU5DVmpRbGpLN2U2d2ZRa214TmktSC11TnN0TEZVZk1kY2NZNjc4bnFLempiaURhcEliMjRtd1huOUN1cmNuNktKakt5eTdfa1dlNmM3TUkwR2VFcU9HRXgyRlZjY3pWUERjSW5zWUx2Y3V0enVvendubVFIY3IyeE1MZHpNcDRuUQ?oc=5",
+   "outlet": "WCVB",
+   "via": "Google News",
+   "published": "2026-11-24T03:44:00+00:00",
+   "seen": "2026-11-24T03:50:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that the voice of Channel 5 joins Grand Theft Auto VI’s star-studded radio lineup."
+  },
+  {
+   "id": "gta vi soundtrack projected to debut with 140 160k units",
+   "title": "GTA VI Soundtrack Projected to Debut With 140–160K Units",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMU9iVkhGaWI5T0g3bEpvLWFwb0lSdXkyNFVkV1BMODhVejhWT2wybXJodlZUOWJYYzVpNkc0V25XQlFiYWQ0dENKNXBIUkVEUi1OTXdwM2VwOGtGb0lQRF9ZRHdxNnNCc1ItbXZHcXY0ZXZuYnJVbGFnSDJoa0d4dHNHbGhiaTdoNVQ3THduYlUtNHhYdjNKcGlGWmxDOEtxVmc?oc=5",
+   "outlet": "Ratings Game Music",
+   "via": "Google News",
+   "published": "2026-11-24T03:43:11+00:00",
+   "seen": "2026-11-24T03:50:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI soundtrack is projected to debut with 140–160K units."
+  },
   {
    "id": "sound has been added to the unofficial gta vi pc port",
    "title": "Sound has been added to the unofficial GTA VI PC port.",
@@ -155,6 +181,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that Justice and Michael McDonald collaboration 'Starting From Zero' is from the Grand Theft Auto VI original score."
+  },
+  {
+   "id": "gta 6 achieves record sales of 3 79 billion on its first day",
+   "title": "GTA 6 achieves record sales of $3.79 billion on its first day",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXNtX21vOFhrU29vcXo4Unlsd0g1Y051QkhPWExEdGtTczREZFlXS3o5SjhoSUxjNnBUNlptSGFKazFyVVEwQXhIb3JoXzlzWXZGTEhGajFlQWVIWUdTU2RhbGxwd1hxMG8yU2tnSk8tM1dOalN5Yll4OGFtZEFzRmwxZ1dOemtQdldCeFMyUnRUd3FZdFlWSTRvZ18?oc=5",
+   "outlet": "arabcanadanews.ca",
+   "via": "Google News",
+   "published": "2026-11-24T03:13:31+00:00",
+   "seen": "2026-11-24T03:50:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 achieves record sales of $3.79 billion on its first day."
   },
   {
    "id": "kfc offers a fried chicken gta 6 replacement disc",
