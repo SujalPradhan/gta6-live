@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T10:52:41+00:00",
- "started": "2026-11-24T10:52:35+00:00",
+ "updated": "2026-11-24T10:57:42+00:00",
+ "started": "2026-11-24T10:57:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T10:52:35+00:00"
+   "checked": "2026-11-24T10:57:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-24T10:52:36+00:00"
+   "hits": 66,
+   "checked": "2026-11-24T10:57:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-24T10:52:36+00:00"
+   "hits": 97,
+   "checked": "2026-11-24T10:57:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T10:52:36+00:00"
+   "checked": "2026-11-24T10:57:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T10:52:37+00:00"
+   "checked": "2026-11-24T10:57:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T10:52:37+00:00"
+   "checked": "2026-11-24T10:57:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T10:52:37+00:00"
+   "checked": "2026-11-24T10:57:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T10:52:38+00:00"
+   "checked": "2026-11-24T10:57:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T10:52:38+00:00"
+   "checked": "2026-11-24T10:57:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:52:38+00:00"
+   "checked": "2026-11-24T10:57:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T10:52:39+00:00"
+   "checked": "2026-11-24T10:57:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T10:52:39+00:00"
+   "checked": "2026-11-24T10:57:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T10:52:39+00:00"
+   "checked": "2026-11-24T10:57:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T10:52:39+00:00"
+   "checked": "2026-11-24T10:57:40+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6's album adds 23 tracks and Overmono is moving in."
+  },
+  {
+   "id": "gta 6 is playstation s biggest launch ever with 39 million players",
+   "title": "GTA 6 Is PlayStation's Biggest Launch Ever With 39 Million Players",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmgyZ0kwakV3WF9uS19VUXoxVFdTM2U5endZZEwyVmtjc3lvQS1uSWd4TkNBTXVNNGgzZjIzZ2dMZGM2T01kZktrS2p5SVJZUzlFN0pBR2t4a1NVSERaUlk5UjM2VmdBWXNMNVJNSTZWYzdVTFNScF9BQmdYV1BWamU5OFNkaXNDUkplMDMtdUoyX1BFSXVER3Z3?oc=5",
+   "outlet": "Game Watcher",
+   "via": "Google News",
+   "published": "2026-11-24T10:50:00+00:00",
+   "seen": "2026-11-24T10:57:36+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 is PlayStation's biggest launch ever, with 39 million players."
   },
   {
    "id": "gta vi the album deluxe edition features travis scott slayyyter",
@@ -155,6 +168,32 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The story reports that GTA 6 owners can access PS5 and Portal cloud streaming."
+  },
+  {
+   "id": "gta 6 hunting guide all animals where to find them and target decks",
+   "title": "GTA 6 hunting guide: All animals, where to find them and Target Decks",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFVTNZMm9JVXhkbXgyVXRLRnRCaEpSUEdKQnRnN1I5cXdNQmVFWjNnRl9XUml0ZmRiNjJsRXJBNm9pNjFPZzJsT0FSbFM1Nndxb2Q0M2RtQklWZUdhdksxMWVBeGxwZDBaakZxZXE0Nmt4WmM?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-24T10:46:46+00:00",
+   "seen": "2026-11-24T10:57:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story is a GTA 6 hunting guide detailing all animals, their locations, and target decks."
+  },
+  {
+   "id": "a woman in gta vi asks for your help because something has happened to her husband you re not prepared for what that something is writer sam",
+   "title": "A woman in GTA VI asks for your help because something has happened to her husband. You're not prepared for what that \"something\" is... 😭 Writer: Samuel",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EeGFaTVNyakpHRHlGVFJQc0g2YlFYck1iM1plUzNxOGxDbVVuQTRMT2NvWVN6bk1mYkxONzNWRWMwM25UU1cycGVTaE5NZ2xqRlBoaEc0UlNVanc5ODIwR1duMlZ4QllCbkVvcQ?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-24T10:45:00+00:00",
+   "seen": "2026-11-24T10:57:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story describes a woman in GTA VI asking for help after an event affecting her husband."
   },
   {
    "id": "gta vi at 79 99 5 tensions in one launch",
@@ -922,6 +961,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Rockstar is accused of artificially limiting GTA 6 performance to 30 FPS."
+  },
+  {
+   "id": "watch viral video aishah sofey left her gta 6 stream running overnight what happened to her custom nissan gt r was caught on camera",
+   "title": "WATCH VIRAL VIDEO: Aishah Sofey Left Her GTA 6 Stream Running Overnight – What Happened to Her Custom Nissan GT-R Was Caught on Camera",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNLUFVeWdmWml5OU56WHUzdy11cFMtVHhPREZIUkJBWnhDeFFOM05nb0k0OFlmMVZsRDA1bWlrdF9vQ2JTWWtQWlZGTnJYaTRlaTdoMGt6TllkNXc5aUFCUkt6cmdfQVJ0bzh0ZUN5dEc2Sm1WbW1aN0RCTVExdlJzUUQxMUVaU2tITnJLQzVHclBkZ3haZERQanVvZ3ZaOWdPQ3ZfTWZ1SnJqemJsX2toM1cxc0hKdE5RYnVsVS1BR3ZMSk4tYURfdVdZMVhudFhzUHJ0NThOWGdqc2dhaWFEN0RNZV84eEZyUkpuUjJZeEE5ZlB5VHJhWFNjM25FdFNlcWlDYU41aWJzSFHSAZACQVVfeXFMUDJJVUMyTWlVZTJXQS1Qd1NlcmRhZG1xc1UtTU1TalFzMEc0c2R1VHQ2OUROUXFDcEVaTkVmNXVGSHlwd1JkaDBCVFdsTXVIeFNEcEczblA5OXNkZkFYaWFkTTZyQ2d6VnFsWTNMeUk4empCbDk2dnZDUDNYVVhtNnRkY2hTU2pRbGVyeXZrQ1pGWTl2MGVlUWI3S0hCbkV2OUFQQ3FNd28wd3Jjalc3UXp0UVRKMEhtT3l6YWJpcktMQml2SHlOMFRXbC1GNHpScm10N1FIcGRvQTRFNkZGZnlJZlhiNWFYX2FlMFZvcDc0d2U2Zk1IM0VUZXpTY3BsYldlREdVcG9sMWJxVi12djk?oc=5",
+   "outlet": "The Sunday Guardian",
+   "via": "Google News",
+   "published": "2026-11-24T08:16:17+00:00",
+   "seen": "2026-11-24T10:57:37+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story discusses a viral video about Aishah Sofey leaving a GTA 6 stream running and something captured on camera about her Nissan GT-R."
   },
   {
    "id": "gta 6 boss delivers brilliant response to gta 7 question",
