@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T16:45:04+00:00",
- "started": "2026-11-24T16:44:59+00:00",
+ "updated": "2026-11-24T16:50:04+00:00",
+ "started": "2026-11-24T16:49:57+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T16:45:00+00:00"
+   "checked": "2026-11-24T16:49:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-24T16:45:00+00:00"
+   "hits": 78,
+   "checked": "2026-11-24T16:49:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-24T16:45:01+00:00"
+   "hits": 95,
+   "checked": "2026-11-24T16:49:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T16:45:01+00:00"
+   "checked": "2026-11-24T16:49:58+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T16:45:01+00:00"
+   "checked": "2026-11-24T16:49:59+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T16:45:01+00:00"
+   "checked": "2026-11-24T16:49:59+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T16:45:01+00:00"
+   "checked": "2026-11-24T16:50:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T16:45:02+00:00"
+   "checked": "2026-11-24T16:50:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:45:02+00:00"
+   "checked": "2026-11-24T16:50:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T16:45:02+00:00"
+   "checked": "2026-11-24T16:50:00+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:45:03+00:00"
+   "checked": "2026-11-24T16:50:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T16:45:03+00:00"
+   "checked": "2026-11-24T16:50:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T16:45:03+00:00"
+   "checked": "2026-11-24T16:50:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T16:45:03+00:00"
+   "checked": "2026-11-24T16:50:01+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 security expert mission walkthrough how to find and rescue nicole",
+   "title": "GTA 6 Security Expert Mission Walkthrough: How To Find And Rescue Nicole",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-security-expert-mission-walkthrough-how-to-find-and-rescue-nicole/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-24T16:48:14+00:00",
+   "seen": "2026-11-24T16:49:59+00:00",
+   "summary": "Recruit Nicole in the Security Expert mission in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a walkthrough for the Security Expert mission in GTA 6 including finding and rescuing Nicole."
+  },
+  {
+   "id": "gta 6 sinfrontera national bank walkthrough how to scope out the bank",
+   "title": "GTA 6 Sinfrontera National Bank Walkthrough: How To Scope Out The Bank",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-sinfrontera-national-bank-walkthrough-how-to-scope-out-the-bank/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-24T16:48:09+00:00",
+   "seen": "2026-11-24T16:49:59+00:00",
+   "summary": "Scope out the Sinfrontera National Bank in this GTA 6 mission",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a walkthrough for the Sinfrontera National Bank mission focusing on how to scope out the bank in GTA 6."
+  },
+  {
+   "id": "should you trust halifax in gta 6",
+   "title": "Should You Trust Halifax in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iaDhaOVFYUDkwSDlvTjZ4Ql9PX2hNTVgzUGF6bTJIUlVkOEtQUGI3SW42RFdmZFZqZHlrRnZBcWlXN1JFR3RCZUZWVkhZVldORUxqWlMxamlnVDNCbFluanpTbmlaRmpfLXhYZmdEZw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T16:45:00+00:00",
+   "seen": "2026-11-24T16:49:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses whether you should trust Halifax in GTA 6."
+  },
   {
    "id": "gta 6 players are discovering who needs a gun when it s easier to rob a store with a crate of beer",
    "title": "GTA 6 players are discovering, who needs a gun when it's easier to rob a store with a crate of beer?",
@@ -155,6 +194,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA VI is described as the biggest launch in PlayStation history."
+  },
+  {
+   "id": "the blood of dawnwalker and grand theft auto vi lead the ap s list of 2026 top video games news press now",
+   "title": "'The Blood of Dawnwalker' and 'Grand Theft Auto VI' lead the AP's list of 2026 top video games - News-Press NOW",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbTM5bDI1bmVnVlhtb1RwXzdTZ2stOEhiZGJ5YlVjVlcwX0xBbkVybFRSb2FoOTBHUnM4cW1rSTA3VWswaVp1S3R3bnZabG9xT3ZTWXVvb2J0UElnc1UtckJ0aWpyd1dfWFBHeTdFeDktam9PRHdTSHBueHV1SllIdGV4YTE2NWxyLVNDYktEV2pkdUZOdXQ4aXNIYXN1VFFibTg2LUV1RmJ6bDV4Z2cwVjQzMm5BWDVRWDcxcDAwaFA0Ul9xOU9HM1o5dDQwcjg0dXlNcXBWTXpNWkFoX21zY0lud0RKNjNIR1dhSmw5dEhmUGxoTFlYZkxn?oc=5",
+   "outlet": "News-Press NOW",
+   "via": "Google News",
+   "published": "2026-11-24T16:26:19+00:00",
+   "seen": "2026-11-24T16:49:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story notes that The Blood of Dawnwalker and Grand Theft Auto VI are on News-Press NOW's list of 2026 top video games."
   },
   {
    "id": "rockstar is reportedly looking into turning red dead redemption into a movie or tv show",
