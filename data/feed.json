@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T13:13:29+00:00",
- "started": "2026-11-24T13:13:21+00:00",
+ "updated": "2026-11-24T13:18:36+00:00",
+ "started": "2026-11-24T13:18:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-24T13:13:22+00:00"
+   "hits": 98,
+   "checked": "2026-11-24T13:18:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-24T13:13:23+00:00"
+   "hits": 73,
+   "checked": "2026-11-24T13:18:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-24T13:13:23+00:00"
+   "checked": "2026-11-24T13:18:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:13:24+00:00"
+   "checked": "2026-11-24T13:18:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:13:24+00:00"
+   "checked": "2026-11-24T13:18:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T13:13:24+00:00"
+   "checked": "2026-11-24T13:18:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T13:13:25+00:00"
+   "checked": "2026-11-24T13:18:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T13:13:25+00:00"
+   "checked": "2026-11-24T13:18:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:13:25+00:00"
+   "checked": "2026-11-24T13:18:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T13:13:25+00:00"
+   "checked": "2026-11-24T13:18:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T13:13:26+00:00"
+   "checked": "2026-11-24T13:18:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T13:13:26+00:00"
+   "checked": "2026-11-24T13:18:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:13:26+00:00"
+   "checked": "2026-11-24T13:18:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T13:13:26+00:00"
+   "checked": "2026-11-24T13:18:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 playstation 5 pro vs base playstation 5 graphics comparison",
+   "title": "GTA 6 - PlayStation 5 Pro Vs Base PlayStation 5 | Graphics Comparison",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZm5Gd2FNVHZSQWEyYVh6VnFoT2dTeC13YkJnWnJSRGttUTRyYzJqVTMtMG1wN2k2cW1Pay10QUZ6WXlwNS1LSThNZmVMQno0SDAzb3NmNXMyRldJZTU4dTFfWXZkNkRQb3llRTZKNmxxWFc2b1pQMlNadXNEdmVHWU9TNHNQdzFRQ2gtYkRqWnotQ0R3SjJJ?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T13:15:00+00:00",
+   "seen": "2026-11-24T13:18:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a graphics comparison between PlayStation 5 Pro and base PlayStation 5 for GTA 6."
+  },
   {
    "id": "does gta 6 have darts or bowling",
    "title": "Does GTA 6 Have Darts or Bowling?",
@@ -376,6 +389,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The report notes increased travel interest to Miami aka Vice City linked to GTA 6."
+  },
+  {
+   "id": "gta 6 fuels jump in travel interest to miami aka vice city",
+   "title": "GTA 6 Fuels Jump in Travel Interest to Miami aka \"Vice City\"",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDk0ZU9leUxFUm1FZ2lyMFZzZktaQkwxUXE4dlg2eGlBM19xLVB4RG9tRHlyZkR3NHdNVW9heXNrVnBhQ3VYVkNEN3NUTUVzLWNCTk1pSnA1MUFtRjFTRVZJa2tXejNXNEkyMDM1MXhYa21La2cwQ2U5ZnM4cFlIbGphZXhidEdOdmdqdk9peG1KM2g0bnVYb09iZFF3Rmk2ZVAyQThjVWlMazJTZndoSGV1LW9fUVlhOVdFNElJTFdPd0pwLWtF?oc=5",
+   "outlet": "NewsRadio WFLA",
+   "via": "Google News",
+   "published": "2026-11-24T12:48:00+00:00",
+   "seen": "2026-11-24T13:18:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 fueling a jump in travel interest to Miami aka 'Vice City'."
   },
   {
    "id": "should you free the bear in gta 6",
