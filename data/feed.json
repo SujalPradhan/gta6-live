@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T11:17:49+00:00",
- "started": "2026-11-24T11:17:42+00:00",
+ "updated": "2026-11-24T11:22:59+00:00",
+ "started": "2026-11-24T11:22:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T11:17:43+00:00"
+   "checked": "2026-11-24T11:22:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 67,
-   "checked": "2026-11-24T11:17:43+00:00"
+   "checked": "2026-11-24T11:22:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T11:17:44+00:00"
+   "hits": 74,
+   "checked": "2026-11-24T11:22:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T11:17:44+00:00"
+   "checked": "2026-11-24T11:22:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T11:17:44+00:00"
+   "checked": "2026-11-24T11:22:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T11:17:45+00:00"
+   "checked": "2026-11-24T11:22:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-24T11:17:45+00:00"
+   "hits": 19,
+   "checked": "2026-11-24T11:22:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T11:17:45+00:00"
+   "checked": "2026-11-24T11:22:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T11:17:46+00:00"
+   "checked": "2026-11-24T11:22:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T11:17:46+00:00"
+   "checked": "2026-11-24T11:22:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T11:17:46+00:00"
+   "checked": "2026-11-24T11:22:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T11:17:47+00:00"
+   "checked": "2026-11-24T11:22:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T11:17:47+00:00"
+   "checked": "2026-11-24T11:22:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T11:17:47+00:00"
+   "checked": "2026-11-24T11:22:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "unofficial gta 6 pc port scrapped as rockstar allegedly takes down discord server",
+   "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T11:15:25+00:00",
+   "seen": "2026-11-24T11:22:52+00:00",
+   "summary": "But there are others waiting to take its place",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports that an unofficial GTA 6 PC port was scrapped as Rockstar allegedly takes down a Discord server, with others waiting to replace it."
+  },
   {
    "id": "this is the difference between playing gta vi on ps5 and xbox series x which platform do you think it looks better on and why once it arrive",
    "title": "This is the difference between playing GTA VI on PS5 and Xbox Series X. Which platform do you think it looks better on, and why? Once it arrives on PC, there will be no room for debate. Writer: Samuel",
@@ -155,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A GTA 6 hacker who pleaded guilty is released on license."
+  },
+  {
+   "id": "why isn t gta 6 on pc rockstar s console first habit and why fans got it booting anyway",
+   "title": "Why isn't GTA 6 on PC? Rockstar's console-first habit, and why fans got it booting anyway",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1A3NDFQakZMcGJ5MXFQanUwRG5MZGJFMnl0X1BTTWxFSVIyRWRHbmJtTlpxNTNoWElOVEV6RTNpXzhsNXEtQXRpZFN0QUN1cXo1QmxIbGlqQ3BWbHZ5WFp6M1A4RW9TQkV2dV9tSnlCMUhwOWZWbEdFTllfNTdXb1FPa0ZyT3I5XzhDMkpycUl5cVZXcmRKcG5DXy1mbGFxMXE4azU5c044OWNvWGplYQ?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-24T11:11:30+00:00",
+   "seen": "2026-11-24T11:22:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains why GTA 6 isn’t on PC, citing Rockstar’s console-first approach and fans’ attempts to boot it anyway."
   },
   {
    "id": "d angelo s estate releases grand theft auto vi track kamikazi music news com",
@@ -259,6 +285,32 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA VI launch has broken even more PlayStation records."
+  },
+  {
+   "id": "the blood of dawnwalker and grand theft auto vi lead the ap s list of 2026 top video games morning times com",
+   "title": "'The Blood of Dawnwalker' and 'Grand Theft Auto VI' lead the AP's list of 2026 top video games - morning-times.com",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVl81V0Mxd0Q1NWZRNGhoakM5OUZlS1p3NXp0bzBrcm02MndrUGNfWVFsTUFQdU9LbzBIYkdIc1lDVF9ZbWthMmYxUzFoYXhnRXl3VEJRNm9UbTdpcHpyNHFpeHdNd2podVMwSzlBSVZHNXpLdHQ1YUVtbC1OdTNhWjJRY3k3RlpzZmtTNmJnZHR1Q0kyQXRES2VDLVNJZ3pyWDEyaXduUndGLUhLc1FEM0hPeWw0NzFmTU5pS3lVV3NycGYzOVFxbHZBMEVmUTA1cW5pa3YxbWFGakpuZTBMcmdVeFVlc3Z2S2ZkQmtCZmJ3T0JlNWEtTA?oc=5",
+   "outlet": "morning-times.com",
+   "via": "Google News",
+   "published": "2026-11-24T11:00:08+00:00",
+   "seen": "2026-11-24T11:22:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story notes that 'The Blood of Dawnwalker' and 'Grand Theft Auto VI' lead AP’s list of 2026 top video games."
+  },
+  {
+   "id": "the blood of dawnwalker and grand theft auto vi lead the ap s list of 2026 top video games traverse city record eagle",
+   "title": "'The Blood of Dawnwalker' and 'Grand Theft Auto VI' lead the AP's list of 2026 top video games - Traverse City Record-Eagle",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY1RjMTN4M3BiWXlrYV95RW9yYkxhaVRJNm9qTV9NUjF2NWRuZnNjczduRVpjVGZJLS16Wk9Vdmd4eE9MSW4yLUVMZ0ZwTVVuRGdJZHdlVFJmYmpjQmNENURwcGlzV0NVVUt1QTNOQVFfRVJKcm81bGRuWktJeXFMQUdwVy11YmlNVVpiUGdqdTNxTmp6a3dZS0xOSlhMM1RORHVxTlpZZ0h0Z0lNT0JrMm5pNHpuZDZheFJYX1ZOYWZ6RlRGZmhZZXNpc0JmaWVUQ29ibjdhNmxIRURZbVBBNHlLeGZscFE1dG5Lc0M4TmZQRTJxWW5V?oc=5",
+   "outlet": "Traverse City Record-Eagle",
+   "via": "Google News",
+   "published": "2026-11-24T11:00:08+00:00",
+   "seen": "2026-11-24T11:22:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story notes that 'The Blood of Dawnwalker' and 'Grand Theft Auto VI' lead the AP’s list of 2026 top video games, as reported by Traverse City Record-Eagle."
   },
   {
    "id": "man theft auto why did so few women review gta vi the biggest video game of the decade",
