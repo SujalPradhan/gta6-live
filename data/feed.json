@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T07:56:30+00:00",
- "started": "2026-11-24T07:56:28+00:00",
+ "updated": "2026-11-24T08:01:43+00:00",
+ "started": "2026-11-24T08:01:39+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T07:56:28+00:00"
+   "checked": "2026-11-24T08:01:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-24T07:56:28+00:00"
+   "hits": 59,
+   "checked": "2026-11-24T08:01:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-24T07:56:29+00:00"
+   "hits": 97,
+   "checked": "2026-11-24T08:01:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T07:56:29+00:00"
+   "checked": "2026-11-24T08:01:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T07:56:29+00:00"
+   "checked": "2026-11-24T08:01:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T07:56:29+00:00"
+   "checked": "2026-11-24T08:01:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T07:56:29+00:00"
+   "checked": "2026-11-24T08:01:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T07:56:29+00:00"
+   "checked": "2026-11-24T08:01:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T07:56:30+00:00"
+   "checked": "2026-11-24T08:01:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T07:56:30+00:00"
+   "checked": "2026-11-24T08:01:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T07:56:30+00:00"
+   "checked": "2026-11-24T08:01:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T07:56:30+00:00"
+   "checked": "2026-11-24T08:01:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-24T07:56:30+00:00"
+   "hits": 4,
+   "checked": "2026-11-24T08:01:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T07:56:30+00:00"
+   "checked": "2026-11-24T08:01:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 was the first game played on 70 of new ps5s",
+   "title": "GTA 6 was the first game played on 70% of new PS5s",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcU44dHluMDJzb3pQaWtWbm42Rk5vNUd4NjltcC1lc25IbDNNblBTdmVvdVh4ajgtNmlyZE5tV245cVlsZlF5Tko3OTQ4d19EdG9zcnZZOWRJNlVXX0xZbUlEckNBcVNDSXN5azBDWkpqb1RRaHNad1M1YjhadFZHMlg5LWRzYzNob2s4aTRvel9lOEtFSXNQX3N3?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-24T07:59:00+00:00",
+   "seen": "2026-11-24T08:01:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 was reported as the first game played on a majority of new PS5 consoles."
+  },
+  {
+   "id": "gta 6 sells nearly 45m copies in 4 days report",
+   "title": "'GTA 6' sells nearly 45M copies in 4 days: Report",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEhDakNxc1M0ZDFuTjNkTVRfX0VnMldkckJ5ZEhHcVBCNlJXejlqU0RVSmdhUXdaNnMtMWRjemRzWVhwdWRqTV9zY0I0WVRmem1sWEt1QVBWeU45ZXlya0RzMlVLTk15OS1qZXNNR0xZeXRkVlhCN0E3c1ZlNEZCU3pqWVcwYlpRclBnZy1DZmVMNnd0QVBZ?oc=5",
+   "outlet": "NewsBytes",
+   "via": "Google News",
+   "published": "2026-11-24T07:57:40+00:00",
+   "seen": "2026-11-24T08:01:40+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "'GTA 6' sales nearly reached forty-five million copies in four days, according to the report."
+  },
   {
    "id": "gta vi hides a huge easter egg referencing gta vice city",
    "title": "GTA VI hides a huge Easter Egg referencing GTA: Vice City",
