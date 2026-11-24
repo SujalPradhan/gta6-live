@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T18:20:33+00:00",
- "started": "2026-11-24T18:20:26+00:00",
+ "updated": "2026-11-24T18:25:36+00:00",
+ "started": "2026-11-24T18:25:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T18:20:27+00:00"
+   "checked": "2026-11-24T18:25:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-24T18:20:27+00:00"
+   "hits": 75,
+   "checked": "2026-11-24T18:25:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-24T18:20:27+00:00"
+   "hits": 90,
+   "checked": "2026-11-24T18:25:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T18:20:27+00:00"
+   "checked": "2026-11-24T18:25:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T18:20:28+00:00"
+   "checked": "2026-11-24T18:25:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-24T18:20:28+00:00"
+   "checked": "2026-11-24T18:25:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T18:20:28+00:00"
+   "checked": "2026-11-24T18:25:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T18:20:28+00:00"
+   "checked": "2026-11-24T18:25:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-24T18:20:28+00:00"
+   "hits": 6,
+   "checked": "2026-11-24T18:25:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T18:20:29+00:00"
+   "checked": "2026-11-24T18:25:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T18:20:29+00:00"
+   "checked": "2026-11-24T18:25:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T18:20:29+00:00"
+   "checked": "2026-11-24T18:25:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T18:20:29+00:00"
+   "checked": "2026-11-24T18:25:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T18:20:29+00:00"
+   "checked": "2026-11-24T18:25:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 reportedly reaches in game rendering on pc just a day after xbox executable leak",
+   "title": "GTA 6 reportedly reaches in-game rendering on PC just a day after Xbox executable leak",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUERCeGRvZHFhb0dZYlkwZ0pfYjBlakhSazZEUTdBT3NlWFRMUjRiMXQ2OGg0anIyYVV4RGEwcno0NUdqbnZzYTloOVd6VWxELWJvclg3aFgwYVp1d3I1dXlTSmhaSXJOb3Z1QmI2a0o0Y2Jadk5ncURnU3hjT3ExVDhNaEZFejVkNXNhMzNUM1A4TDVkRkpvY0ttZ0l2cnVhR0diRXE4V3JicjMzTTZJNmRQWkN0MTg0WUJwc2Z5ZDZ3TElpeDNyM2pBeFRsOU1L?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-24T18:20:15+00:00",
+   "seen": "2026-11-24T18:25:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 reportedly reaching in-game rendering on PC a day after an Xbox executable leak."
+  },
   {
    "id": "you can expect a similar leap between the witcher 3 and the witcher 4 as there is between gta 5 and gta 6 cd projekt red says",
    "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
@@ -259,6 +272,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "CD Projekt Red remains on The Witcher 4 and Cyberpunk 2, saying their stance hasn’t changed after GTA 6’s success."
+  },
+  {
+   "id": "gta 6 is giving carly rae jepsen s run away with me a second life",
+   "title": "'GTA 6' is giving Carly Rae Jepsen's 'Run Away With Me' a second life",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamRwZXdaRy1nZFBLWVpWUExXZ1hqQVQ0anE2M29pc1lOVWc5dTZXMkx0Z3BjZVpZbXloa3JKUHl4RDIxcElqUXZjM0FZcV9sZllVMkt6S2ZXVXZkSXZzS0FiMjcyQ3ZJWmFFTEViWUNFb1dMWHRveEdjM005OEdlbDlOZzhlOTV2bDNubU1rSFhJMmdRSThsNDI5MHdTRUNLMDV3?oc=5",
+   "outlet": "Mashable SEA",
+   "via": "Google News",
+   "published": "2026-11-24T17:51:15+00:00",
+   "seen": "2026-11-24T18:25:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 is giving Carly Rae Jepsen's Run Away With Me a second life."
   },
   {
    "id": "highland man faces charges after gta vi threats at walmart",
@@ -1652,6 +1678,19 @@
    "ai_summary": "The story reports the best GTA 6 Easter eggs in TV shows so far."
   },
   {
+   "id": "gta 6 decompile market sits at a coin flip after xbox exe leak",
+   "title": "GTA 6 Decompile Market Sits at a Coin Flip After Xbox .exe Leak",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5WlB3eXpKQkZURS00c1lNZkUxb3FMT1hBRFRkcHF3LV9KUVJIMWl1V3BGcEFNSnVGT3RoS1ZCQVpLOHB0djhmcXk1VVRhZXp3MktkakpjbHIyeGFYSWV6elJqRmdESjAtZFJhNFdHbFZmQmtzaW4yWkhqQQ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-24T15:26:22+00:00",
+   "seen": "2026-11-24T18:25:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 decompile market sits at a coin flip after an Xbox executable leak."
+  },
+  {
    "id": "how to get vanessa s pink porsche growler in gta 6",
    "title": "How to get Vanessa's Pink Porsche Growler in GTA 6",
    "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-growler-pink-porsche/",
@@ -1741,6 +1780,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 has the second biggest retail launch in French history with over one million sold."
+  },
+  {
+   "id": "gta 6 exe leak 57 mb file 0 playable pc builds",
+   "title": "GTA 6 EXE Leak: 57 MB File, 0 Playable PC Builds",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXk2Yjl3UGFiN0llRG93MzByQk5SYy1hMGQ1aXZKV21Zb3UxN2dlV0RNcWFPbVZjQTFqRjhPZE1EbmJaSGVDclVheVJpRmQ5cXR2c2Nrbmp2ZXBoOXVzcDVTakFXZkppUnV2RFpaZzZVWlVnekRuMTNuNV9ZamFGOTZsQ2dTVnc?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-24T15:17:09+00:00",
+   "seen": "2026-11-24T18:25:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 executable leak with a 57 MB file and zero playable PC builds."
   },
   {
    "id": "how many cars can you own in gta 6 all garage locations",
