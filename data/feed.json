@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T08:47:05+00:00",
- "started": "2026-11-24T08:46:59+00:00",
+ "updated": "2026-11-24T08:52:00+00:00",
+ "started": "2026-11-24T08:51:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T08:46:59+00:00"
+   "checked": "2026-11-24T08:51:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-24T08:47:00+00:00"
+   "hits": 67,
+   "checked": "2026-11-24T08:51:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 78,
-   "checked": "2026-11-24T08:47:00+00:00"
+   "hits": 97,
+   "checked": "2026-11-24T08:51:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T08:47:01+00:00"
+   "checked": "2026-11-24T08:51:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T08:47:01+00:00"
+   "checked": "2026-11-24T08:51:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T08:47:01+00:00"
+   "checked": "2026-11-24T08:51:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T08:47:01+00:00"
+   "checked": "2026-11-24T08:51:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T08:47:01+00:00"
+   "checked": "2026-11-24T08:51:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T08:47:01+00:00"
+   "checked": "2026-11-24T08:51:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T08:47:02+00:00"
+   "checked": "2026-11-24T08:51:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T08:47:02+00:00"
+   "checked": "2026-11-24T08:51:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T08:47:03+00:00"
+   "checked": "2026-11-24T08:51:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T08:47:03+00:00"
+   "checked": "2026-11-24T08:51:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T08:47:03+00:00"
+   "checked": "2026-11-24T08:51:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi hacker sentenced to seven years released the same day",
+   "title": "‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwQ1FXQUJwVjVlSS12X2Rqc0dBbXRYSzRFYVJLVDZxbFhieFItLXJqV1BVQkl4M3dXak5CaUNTeFd6Z2Q5d0R5UTgydmcyb1hab3dETmRqdUJ6WXpWOEkyZDJWWkFZLUQ3TjlpWXcyM2JETFBqNEVoNGJ3?oc=5",
+   "outlet": "The Record from Recorded Future News",
+   "via": "Google News",
+   "published": "2026-11-24T08:50:40+00:00",
+   "seen": "2026-11-24T08:51:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that a Grand Theft Auto VI hacker was sentenced to seven years and released the same day."
+  },
   {
    "id": "gta 6 hits 3 79b on day one as comcast sets a traffic record",
    "title": "GTA 6 Hits $3.79B on Day One as Comcast Sets a Traffic Record",
@@ -116,6 +129,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6 achieving a $3.79B day one and Comcast setting a traffic record."
+  },
+  {
+   "id": "bombed debut dusty record in loft gta 6 comeback the aaj shanibar journey",
+   "title": "Bombed debut, dusty record in loft, GTA 6 comeback: The ‘Aaj Shanibar’ journey",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlhQbjU3Sml5aldXNmpfY3RFampDT1FGWGJFdV9NcU9yZG1ZRXM5U1dZQUE4NEswaFR1Zzd5V1prR19NV2hiWDBwR2dhSU5VbWx3bW1Gbzd2cWlsZGRsVjJFZGl1ZmFOVHE4eHNJdnoxX1VvVGpRNTBvRlZSUWFXNGZpQzhzcGlsbEloQk9aMXJrT09CVjBjeXVHYllBaWfSAaYBQVVfeXFMT0VObTVMTG1JVDJxaWo2MFF6bjNRUDR6dUNhbDAxbjNWRzQ5ZU5VVFNuSUtYellKc0R3UjFXMjlsUkJZUm54eU5PaWRUUDhLX1p1aXJORWg4UTl5UXd3eURIc29kb3ZkbUNrSnlybVM4RU5rbi1Kb3UyX2xNQjVIVmZESm93cnU3SVpLQjAxcjVKR3JEOXk5UlJYZmdNOUJjb3dDOEJ0QQ?oc=5",
+   "outlet": "The Indian Express",
+   "via": "Google News",
+   "published": "2026-11-24T08:36:59+00:00",
+   "seen": "2026-11-24T08:51:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports a tainted debut and a dusty record in a loft as part of GTA 6 comeback coverage titled The ‘Aaj Shanibar’ journey."
   },
   {
    "id": "gta 6 will hit 30 fps on consoles and the cpu is why",
@@ -506,6 +532,32 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports transforming a living room into GTA 6's Vice City with a tiny camera placed on top of a TV."
+  },
+  {
+   "id": "i turned my living room into gta 6 s vice city with this tiny camera",
+   "title": "I turned my living room into GTA 6's Vice City with this tiny camera",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVZ5blRqTHBtUXJ5cWgySTBFNERDQnFBWEVUWXNORzZ1dF9QOVdrMnNwaHNqTU9SbnoxX29IbkxUUkpwWlZLTkNGSmdXRFZfUzBfdnBuaGN0OTZ5UEdZZjcyNmNlNEo3MUhkR2dIWEhuVjViUEtScEN1eFpCRGlJWFJDdnVMalNrbzlQUzk3RkpYbTdQVHc?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-24T06:30:00+00:00",
+   "seen": "2026-11-24T08:51:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports turning a living room into GTA 6's Vice City using a tiny camera."
+  },
+  {
+   "id": "gta 6 day 6 live updates news fixes best clips and guides",
+   "title": "GTA 6 Day 6 Live Updates: News, Fixes, Best Clips and Guides",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HWXhTZUlhYjdvRnFiMTRvVzJIYy1xVlBCNjlCX0dSZ2d2VW1NQUtybW1YS3FJTUwtQWpOeHR6TG0yUnNLZ0JNTzhFbnFfeWFrVGVhcTZuOTNTSm5wbV9NNG1VNURWQQ?oc=5",
+   "outlet": "Happy Gamer",
+   "via": "Google News",
+   "published": "2026-11-24T06:29:43+00:00",
+   "seen": "2026-11-24T08:51:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Day 6 live updates for GTA 6, including news, fixes, best clips and guides."
   },
   {
    "id": "gta 6 becomes biggest launch in playstation history with over 39 million players",
