@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T14:39:20+00:00",
- "started": "2026-11-24T14:39:10+00:00",
+ "updated": "2026-11-24T14:44:19+00:00",
+ "started": "2026-11-24T14:44:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T14:39:11+00:00"
+   "checked": "2026-11-24T14:44:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 76,
-   "checked": "2026-11-24T14:39:12+00:00"
+   "checked": "2026-11-24T14:44:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-24T14:39:12+00:00"
+   "hits": 95,
+   "checked": "2026-11-24T14:44:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-24T14:39:12+00:00"
+   "hits": 7,
+   "checked": "2026-11-24T14:44:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T14:39:13+00:00"
+   "checked": "2026-11-24T14:44:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T14:39:13+00:00"
+   "checked": "2026-11-24T14:44:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T14:39:13+00:00"
+   "checked": "2026-11-24T14:44:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T14:39:15+00:00"
+   "checked": "2026-11-24T14:44:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T14:39:16+00:00"
+   "checked": "2026-11-24T14:44:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T14:39:16+00:00"
+   "checked": "2026-11-24T14:44:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T14:39:17+00:00"
+   "checked": "2026-11-24T14:44:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T14:39:17+00:00"
+   "checked": "2026-11-24T14:44:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T14:39:17+00:00"
+   "checked": "2026-11-24T14:44:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T14:39:17+00:00"
+   "checked": "2026-11-24T14:44:16+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 first played on 70 of new ps5 consoles",
+   "title": "GTA 6 First Played on 70% of New PS5 Consoles",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CWXBLSUpmSFJ6T1FON282bldvY0xVc0ZWMHdXOXhyb05aMm5Ib0EyTld6dDhSOVFza0VkOUtJMnJ3blN1bmlWRENsN2R3VWdmSjZ6ZGpfMF9uOVk4YkpxSjB5WW5wUnM5aXNIS1c0VnRQbmJaNFlv?oc=5",
+   "outlet": "NewzTodays",
+   "via": "Google News",
+   "published": "2026-11-24T14:38:57+00:00",
+   "seen": "2026-11-24T14:44:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 was first played on 70% of new PS5 consoles."
+  },
+  {
+   "id": "why take two shares have yet to spike from gta 6 s meteoric success",
+   "title": "Why Take-Two shares have yet to spike from GTA 6's meteoric success",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFZGTnFhRk5KTFNRNlNieUJYS0MzeUM3LXBVQ3psQzgyOGdZMC15ajJrVUQxd19nSXBkc0JQbmZiSHhOckxmdkZEclctX05tVUxFTEc0djBOUGdIbDUxZ0h2Q0ZOYll1S0pSVzhDZmFERWxWOWxfZlpoZDU3NFFGMlZoR0NpaHZUS0VrYW5CR2R4NnpyQk5EaXk2dUFqeFhnTi1aRURaWEVlVjF4MEhOUjhvNEpDUQ?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-24T14:38:09+00:00",
+   "seen": "2026-11-24T14:44:12+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story discusses why Take-Two shares have not spiked despite GTA 6's perceived success."
+  },
+  {
+   "id": "gta 6 pre order bonus wasn t exclusive now available separately for 5",
+   "title": "GTA 6: Pre-order bonus wasn't exclusive, now available separately for $5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1JweU5ERzJEMWdXUGVkQTF6SDNCZnRWbnQ0aUtmN0RyMVUwcUhNMzJXUkN3ZHBITEpSUDR3RWtEeVg1bm80ai1KcTAwWF9NTmRlQUxnamVvdHRyUDNNMEhSTUs4emhlV2NvLW9EZVBudEhDREN5MFFpT2VZakQzcVZRb2tKbGJwX2dkeDlwNFQ0Mk9KZGlRaUFIZTAzc3h4eHUtUmwwN2lHYTBHNERpZEdDaEU?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-24T14:37:00+00:00",
+   "seen": "2026-11-24T14:44:12+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story notes a pre-order bonus is no longer exclusive and is now available separately for $5."
+  },
   {
    "id": "where to find lucia s best hairstyle in gta 6",
    "title": "Where To Find Lucia’s Best Hairstyle In ‘GTA 6’",
@@ -2040,6 +2079,19 @@
    "topic": "Players",
    "record": true,
    "ai_summary": "PlayStation reports GTA VI has the platform's biggest launch ever with a high player count."
+  },
+  {
+   "id": "gta 6 hidden controls shortcuts and secret mechanics you probably missed",
+   "title": "GTA 6: Hidden Controls, Shortcuts and Secret Mechanics You Probably Missed",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HdEl0eW9LMzhXTlVwWXBjbHg3N2FaUTBhWEJ3YkpORnJXV2l5REZMcFNMM3dpV1R2VDZNMDN0RHBwTjNfOUZTOTFja1FaZXM2WTE4NTNCRDVRVmJwRmFYMzJsaFVpR3lLVllUWlJjVk1mZEJrX1NYVVl3?oc=5",
+   "outlet": "PlayDayOne",
+   "via": "Google News",
+   "published": "2026-11-24T11:05:06+00:00",
+   "seen": "2026-11-24T14:44:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story highlights hidden controls, shortcuts, and secret mechanics in GTA 6 you may have missed."
   },
   {
    "id": "where to get the mitsubishi eclipse in gta 6",
