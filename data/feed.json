@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T13:18:36+00:00",
- "started": "2026-11-24T13:18:30+00:00",
+ "updated": "2026-11-24T13:23:40+00:00",
+ "started": "2026-11-24T13:23:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T13:18:30+00:00"
+   "hits": 99,
+   "checked": "2026-11-24T13:23:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-24T13:18:31+00:00"
+   "hits": 65,
+   "checked": "2026-11-24T13:23:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T13:18:31+00:00"
+   "hits": 67,
+   "checked": "2026-11-24T13:23:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:18:31+00:00"
+   "checked": "2026-11-24T13:23:36+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:18:31+00:00"
+   "checked": "2026-11-24T13:23:36+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T13:18:32+00:00"
+   "checked": "2026-11-24T13:23:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T13:18:32+00:00"
+   "checked": "2026-11-24T13:23:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T13:18:32+00:00"
+   "checked": "2026-11-24T13:23:37+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:18:32+00:00"
+   "checked": "2026-11-24T13:23:37+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T13:18:32+00:00"
+   "checked": "2026-11-24T13:23:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T13:18:33+00:00"
+   "checked": "2026-11-24T13:23:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T13:18:33+00:00"
+   "checked": "2026-11-24T13:23:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:18:33+00:00"
+   "checked": "2026-11-24T13:23:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T13:18:33+00:00"
+   "checked": "2026-11-24T13:23:38+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a graphics comparison between PlayStation 5 Pro and base PlayStation 5 for GTA 6."
+  },
+  {
+   "id": "k pop songs in gta 6 jennie jisoo katseye and more",
+   "title": "K-pop songs in GTA 6: JENNIE, JISOO, KATSEYE and more",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanVtRjJzY0hBbmtPYUtrdm1UZXlhN3BGQmgyc29kYm1mQ1o0N21nMl9fVVhJeGpFcnh4ZUNJVURTbmIzVlU2OUNhMXNyQnUxNUJya01DdVllbWNWUDY3ZlgxTHZVNU1iel9rVVlTMFRfYlU1UWRvSU5BYTVVRVdLam80Y2NBZw?oc=5",
+   "outlet": "RouteNote",
+   "via": "Google News",
+   "published": "2026-11-24T13:15:00+00:00",
+   "seen": "2026-11-24T13:23:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims K-pop songs in GTA 6 include JENNIE, JISOO, KATSEYE and more."
   },
   {
    "id": "does gta 6 have darts or bowling",
@@ -935,6 +948,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "PlayStation Plus adds GTA 6 to its premium streaming library."
+  },
+  {
+   "id": "gta 6 release time revealed what time can you start playing grand theft auto vi",
+   "title": "‘GTA 6’ Release Time Revealed: What Time Can You Start Playing ‘Grand Theft Auto VI’?",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oRldPRGN2SU8wcDZlUHRielFuZE1fQ2V6djNaaVJ2NE43YXNodzl1clFWUEx0SEhxdm9feUpGNFNaQUdsUVBQUlVaZWRTS01iS1E?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-24T11:48:06+00:00",
+   "seen": "2026-11-24T13:23:35+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story claims the release time for GTA 6 is revealed and asks what time players can start playing."
   },
   {
    "id": "gta 6 players are already starting to get very good at heists despite all the new challenges rockstar has added to the game",
