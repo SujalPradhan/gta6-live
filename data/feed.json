@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T14:49:23+00:00",
- "started": "2026-11-24T14:49:16+00:00",
+ "updated": "2026-11-24T14:54:22+00:00",
+ "started": "2026-11-24T14:54:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T14:49:16+00:00"
+   "checked": "2026-11-24T14:54:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-24T14:49:17+00:00"
+   "hits": 76,
+   "checked": "2026-11-24T14:54:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T14:49:17+00:00"
+   "hits": 96,
+   "checked": "2026-11-24T14:54:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T14:49:17+00:00"
+   "checked": "2026-11-24T14:54:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-24T14:49:18+00:00"
+   "hits": 7,
+   "checked": "2026-11-24T14:54:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T14:49:18+00:00"
+   "checked": "2026-11-24T14:54:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T14:49:18+00:00"
+   "checked": "2026-11-24T14:54:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T14:49:18+00:00"
+   "checked": "2026-11-24T14:54:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T14:49:18+00:00"
+   "checked": "2026-11-24T14:54:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T14:49:19+00:00"
+   "checked": "2026-11-24T14:54:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T14:49:19+00:00"
+   "checked": "2026-11-24T14:54:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T14:49:19+00:00"
+   "checked": "2026-11-24T14:54:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T14:49:19+00:00"
+   "checked": "2026-11-24T14:54:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T14:49:20+00:00"
+   "checked": "2026-11-24T14:54:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 breaks records and has richmond connects",
+   "title": "GTA 6 Breaks Records and Has Richmond Connects",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSC0zZTI5ZmNXMTdHTGZjYVdhM1JIWUJfT0JSYlRIb3M1NnNOclZWVlBHU3ZQUU1faVlxRndlTUZncFhfcU5naVg0eHRUSVlnTkxJblA4QTE3UUNmY1l2Q0Jhc0FMUlVqcDQtcmJFMlV6RFpmTGc?oc=5",
+   "outlet": "RVA Mag",
+   "via": "Google News",
+   "published": "2026-11-24T14:50:22+00:00",
+   "seen": "2026-11-24T14:54:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 breaks records and has Richmond connects."
+  },
+  {
+   "id": "grand theft auto vi update addresses bugs affecting autosaving weather story progression and more",
+   "title": "Grand Theft Auto VI Update Addresses Bugs Affecting Autosaving, Weather, Story Progression, And More",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2FKcW15aDhTYkJzTGw4SzVKRlUwb3NrZHVGRWxNSjkwOXdiWjYtVkNvbWZGWDNIckVOdko0RlBrZUhKU3dKVUl5aF9FaFNUOENaeU1ROUwxaV9qTUdvcTRlYUd2Y0RTMjA3aG1NN0dMRld3d01XcGlTeF96UktkZkpBQWxTQTFPSkNjREdBX2dfNWpzYzRxUDVGb1ROaWx5MHVCaUNZei1qcWlab0xyV096YkJMZ0lLam4xeFBpYS1EUQ?oc=5",
+   "outlet": "Game Informer",
+   "via": "Google News",
+   "published": "2026-11-24T14:48:00+00:00",
+   "seen": "2026-11-24T14:54:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a Grand Theft Auto VI update addresses bugs affecting autosaving, weather, story progression, and more."
+  },
+  {
+   "id": "gta 6 will never get an adaptation but red dead redemption is fair game",
+   "title": "GTA 6 Will Never Get An Adaptation, But Red Dead Redemption Is Fair Game",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3NzeHdoWEFRYVQ2M0hxa2xlMzBEeW8xRlpheEQ4eU9HLXM3TlRzTi13OVpCWFVCcTN3bzE5bWlqZDk5N2tWUmJfWmY4TWhnb3JRUGtqcS1FYjFqdER5d0g0Q3BXQ2d6alVKX0x6Q2ZpV2hwSXB3c1NzNUtoeGx0WU1ENTZHak9ReDB5NV9yS3VqZmR1aENwWjhmLUstZ2ZOcTQ2ZmtELUs?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-24T14:45:31+00:00",
+   "seen": "2026-11-24T14:54:17+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 will never get an adaptation, but Red Dead Redemption is fair game."
+  },
   {
    "id": "gta 6 first played on 70 of new ps5 consoles",
    "title": "GTA 6 First Played on 70% of New PS5 Consoles",
