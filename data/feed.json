@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T18:45:44+00:00",
- "started": "2026-11-24T18:45:38+00:00",
+ "updated": "2026-11-24T18:50:44+00:00",
+ "started": "2026-11-24T18:50:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-24T18:45:38+00:00"
+   "checked": "2026-11-24T18:50:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-24T18:45:39+00:00"
+   "hits": 60,
+   "checked": "2026-11-24T18:50:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-24T18:45:39+00:00"
+   "hits": 91,
+   "checked": "2026-11-24T18:50:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T18:45:39+00:00"
+   "checked": "2026-11-24T18:50:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T18:45:40+00:00"
+   "checked": "2026-11-24T18:50:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T18:45:40+00:00"
+   "checked": "2026-11-24T18:50:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T18:45:40+00:00"
+   "checked": "2026-11-24T18:50:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T18:45:40+00:00"
+   "checked": "2026-11-24T18:50:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-24T18:45:40+00:00"
+   "hits": 5,
+   "checked": "2026-11-24T18:50:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T18:45:40+00:00"
+   "checked": "2026-11-24T18:50:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T18:45:41+00:00"
+   "checked": "2026-11-24T18:50:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T18:45:41+00:00"
+   "checked": "2026-11-24T18:50:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T18:45:41+00:00"
+   "checked": "2026-11-24T18:50:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T18:45:41+00:00"
+   "checked": "2026-11-24T18:50:41+00:00"
   }
  },
  "items": [
@@ -194,6 +194,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "GTA 6 review scores are reported as a 7.8 from readers."
+  },
+  {
+   "id": "listen to grand theft auto vi the album deluxe edition",
+   "title": "Listen to ‘Grand Theft Auto VI: The Album’ deluxe edition",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZjg4SmdBSUJCZnlaRnhkOWxzWnJwN3RpUUVSWTlfcHJqb2RQMEFUdnN3REVBLWYwQldfaHM1TU1vdkpob1ExODhRUFNUTTRHcWMtSWItZG04d2MtZHdQZmlIa3k2QWVsSnlYcmlEZnhBU0swNlNBSFpmdmlMOXYwODNoWk1MRm9N?oc=5",
+   "outlet": "Electronic Groove",
+   "via": "Google News",
+   "published": "2026-11-24T18:19:08+00:00",
+   "seen": "2026-11-24T18:50:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on listening to Grand Theft Auto VI: The Album deluxe edition."
   },
   {
    "id": "gta 6 cloud streaming comes to ps5 and playstation portal",
