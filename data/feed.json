@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T15:49:43+00:00",
- "started": "2026-11-24T15:49:35+00:00",
+ "updated": "2026-11-24T15:54:46+00:00",
+ "started": "2026-11-24T15:54:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T15:49:36+00:00"
+   "checked": "2026-11-24T15:54:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 79,
-   "checked": "2026-11-24T15:49:37+00:00"
+   "hits": 64,
+   "checked": "2026-11-24T15:54:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-24T15:49:37+00:00"
+   "hits": 99,
+   "checked": "2026-11-24T15:54:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:49:37+00:00"
+   "checked": "2026-11-24T15:54:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:49:38+00:00"
+   "checked": "2026-11-24T15:54:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T15:49:38+00:00"
+   "checked": "2026-11-24T15:54:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:49:38+00:00"
+   "checked": "2026-11-24T15:54:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T15:49:38+00:00"
+   "checked": "2026-11-24T15:54:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:49:38+00:00"
+   "checked": "2026-11-24T15:54:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-24T15:49:39+00:00"
+   "checked": "2026-11-24T15:54:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T15:49:39+00:00"
+   "checked": "2026-11-24T15:54:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T15:49:39+00:00"
+   "checked": "2026-11-24T15:54:42+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T15:49:39+00:00"
+   "checked": "2026-11-24T15:54:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:49:39+00:00"
+   "checked": "2026-11-24T15:54:42+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 waink scans every confirmed landmark sculpture and curiosity so far",
+   "title": "GTA 6 WAiNK scans: every confirmed landmark, sculpture and curiosity so far",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGxWNVdRVWg3QmItZVRqd19kM0w3ZUM0YUhob2NCdGJvQVZsVUw5X1lHSG5xOFZjU1hhUk9aeFlEQU5QU29xQ1lOWmJGb2dVd0FwSnZnTU5lZnJGeENvSlhEWDhpVmFlNEt3R3M4TUowMWRzWmJfano4TTVfMHVvN01PQ1JuMU1iUmgwQ3AwOVFHZm9fZGhWRg?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T15:51:55+00:00",
+   "seen": "2026-11-24T15:54:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article reports on confirmed landmarks, sculptures, and curiosities in GTA 6 through scans."
+  },
+  {
+   "id": "how to get ocelot jugular in gta 6 explained",
+   "title": "How to get Ocelot Jugular in GTA 6 explained",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXlEMVMwc05tYXI2dURXbjdMc2g4UzlKT3ExX0x0R0JMdXdFSXhwcE45VjZvTEwtNUk2QTBWbkRvQ3FWMy1jMk56UjJ5TE1jdWhXZWxPb0p5dFdpcVVac2dvbmNzdnE3cEw1NGROWk9iLWM5ZXlKUDg1RmRYVWFIR0tKZkxmQm9FMmFCaV9rdHU?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-24T15:51:51+00:00",
+   "seen": "2026-11-24T15:54:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece explains how to obtain the Ocelot Jugular in GTA 6."
+  },
+  {
+   "id": "can you buy houses in gta 6 property garages and safehouses explained",
+   "title": "Can you buy houses in GTA 6? Property, garages and safehouses explained",
+   "link": "https://www.videogameschronicle.com/guide/can-you-buy-houses-in-gta-6-property-garages-and-safehouses-explained/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-24T15:51:45+00:00",
+   "seen": "2026-11-24T15:54:39+00:00",
+   "summary": "Here's how buying houses works in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains whether players can buy houses and covers property, garages, and safehouses in GTA 6."
+  },
+  {
+   "id": "gta 6 where to find a free rocket launcher",
+   "title": "GTA 6: Where To Find A Free Rocket Launcher",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KQkJDY09fRHF4aDNmdm5UR0RneDM3RUVaS0Y0TC1DVnQ0Mi1BV1hBVGN1a1doUDhXRmVDN2toTDdtelpsbzV3VFZGN0U2WmptMmtzd0t6aUlMRlh5Ri1oRWZ5dXZ0dnpBYTVDUVJRbC1BRTFOMGJoUGw1RlU?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-24T15:50:39+00:00",
+   "seen": "2026-11-24T15:54:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article shows locations to find a free rocket launcher in GTA 6."
+  },
   {
    "id": "gta 6 interactive map already has more than 6 800 points of interest as fans discover leonida",
    "title": "GTA 6 interactive map already has more than 6,800 points of interest as fans discover Leonida",
@@ -129,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "An opinion piece argues GTA VI and World of Warcraft: Forever show mundanity is having a moment."
+  },
+  {
+   "id": "grand theft auto vi is finally here is take two stock a buy",
+   "title": "Grand Theft Auto VI Is Finally Here. Is Take-Two Stock a Buy?",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHFOeGdtb2YycDUxQ3BZMVM3aS1RTmg1X0NSVXMtazJ3U3hQUXVseFM2RDk1WjFFb19reWxpM2trN0VjYjFjelBuTnBMR3ZrT2pTSHJqRklIc0RudWtUYjBLQ0pnZ3RoWlkwNk02dVB5dnkxZzBWN3Ffa3pycTMybnU3RU9DUmhqaWptdUtIN1NWbnlBT2pCZHd5R3RBVzZW?oc=5",
+   "outlet": "The Motley Fool",
+   "via": "Google News",
+   "published": "2026-11-24T15:45:02+00:00",
+   "seen": "2026-11-24T15:54:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story discusses whether Take-Two stock is a buy following GTA VI's release."
   },
   {
    "id": "the definitive proof that gta 6 and red dead redemption share the same universe",
@@ -168,6 +233,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story discusses how impactful the launch of Grand Theft Auto VI was."
+  },
+  {
+   "id": "save manually all the time if you don t want this to happen to you gamers have been frustrated by gta 6 s buggy autosaves but the first upda",
+   "title": "'Save manually all the time if you don't want this to happen to you': gamers have been frustrated by GTA 6's buggy autosaves — but the first update just arrived with a fix",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbXQzRFNJdEtsc0JqRzl0cS01T1FaWXM5UklUWE9WNm1JZ3VSc2tua2k1S25rd3FPZktlc05sVEhJWkIwM011VXQydG5MZnhNWVdfdFh4a0M1NlE0LUtfUFE0VFZkYXl4dzRUQVN6cS02Tnc2bGRuOGU2Q3JfNXBndXJ6TnlvZ09xQmR3ZTl0cGY0VDBVOE1vY1hLUnFCNS1KTHl2Q29KT2thN0VDZ1duV0Z0UGEzOXJoWWhwanJzQm41SkFIVDJuSUpDa3U5dVBRY2lOYXk4ZlZtVTJWRWJrdW5paWRyVUU3ZjNHZWNYWFU4RXJrbWk5aUJLbTU3RTRKTnFRM3hqdTE?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-24T15:36:26+00:00",
+   "seen": "2026-11-24T15:54:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece notes GTA 6 autosave bugs and reports that the first update provides a fix."
   },
   {
    "id": "richmond s bunny machine on keeping her gta 6 secret",
@@ -285,6 +363,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports the best GTA 6 Easter eggs in TV shows so far."
+  },
+  {
+   "id": "we might as well cancel it cyberpunk 2 director says gta 6 s quality and open world left the development team depressed",
+   "title": "“We Might as Well Cancel It”: Cyberpunk 2 Director Says GTA 6’s Quality and Open World Left the Development Team Depressed",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcHNJbXZZaUhSWHFmR0lIRzJTb1FZYjhBYWFUVk9FZFFNbHhaMWNSOXFDd2JndUthSzdJU3gtbERtQjcwMnlrSjZROVF4eG5fbEdaQUZkT25HdlFKVVNSOExVUVZpSDN0Qm5JZ0VqTW9DZnhRMVBKYlZkMkVxOVY0ZDQ1NTNJZEREVlc1djltTU1tSVV5LTd5N2NXVU9Vd1dIeWtqaGZwa1NNb21BVHdRNExLa0phNjRiZUpYMzNkRW9YMW43TDRqZ1o4Q2plVU8wM3VnSVYzYzRXYkp4UnBVVm9iU1JSZw?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-24T15:24:53+00:00",
+   "seen": "2026-11-24T15:54:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article quotes the director of Cyberpunk 2 expressing disappointment over GTA 6’s quality and open world affecting development."
   },
   {
    "id": "rockstar nukes 15 year old s gta 6 recompilation project discord and github servers taken down project leonida had almost 180 000 discord me",
@@ -2573,6 +2664,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "The story discusses whether Cyberpunk 2 is cancelled and explains the viral GTA 6 breakdown by the developer."
+  },
+  {
+   "id": "gta 6 studio s next game seemingly confirmed by leaker",
+   "title": "GTA 6 Studio's Next Game Seemingly Confirmed By Leaker",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3VEUVJVZEZxS2hOR1pfNjNmSGd2N2FyOFNUbDNicTFHbVM2RW56YTJZbHg2bi1fUjUyMXBtakl0QmIwd08tVjdDekhhUThOdTl5YVZNNzdzY0VCRmg4b0JpdFRkckU3clJhS2d0dHpLNUYtZW94SmtSSTEzV2VRNkp3Smkwbzk4aXAtdUp6dlI?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-24T11:19:58+00:00",
+   "seen": "2026-11-24T15:54:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The piece suggests GTA 6 Studio's next game is seemingly confirmed by a leaker."
   },
   {
    "id": "5 ways gta 6 revolutionises the open world genre",
