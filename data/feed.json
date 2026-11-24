@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T00:04:11+00:00",
- "started": "2026-11-24T00:04:05+00:00",
+ "updated": "2026-11-24T00:05:11+00:00",
+ "started": "2026-11-24T00:05:04+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T00:04:06+00:00"
+   "checked": "2026-11-24T00:05:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-24T00:04:06+00:00"
+   "hits": 50,
+   "checked": "2026-11-24T00:05:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-24T00:04:07+00:00"
+   "checked": "2026-11-24T00:05:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T00:04:07+00:00"
+   "checked": "2026-11-24T00:05:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T00:04:07+00:00"
+   "checked": "2026-11-24T00:05:05+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T00:04:07+00:00"
+   "checked": "2026-11-24T00:05:06+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T00:04:07+00:00"
+   "checked": "2026-11-24T00:05:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T00:04:08+00:00"
+   "checked": "2026-11-24T00:05:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T00:04:08+00:00"
+   "checked": "2026-11-24T00:05:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-24T00:04:08+00:00"
+   "hits": 19,
+   "checked": "2026-11-24T00:05:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T00:04:09+00:00"
+   "checked": "2026-11-24T00:05:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T00:04:09+00:00"
+   "checked": "2026-11-24T00:05:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T00:04:09+00:00"
+   "checked": "2026-11-24T00:05:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T00:04:09+00:00"
+   "checked": "2026-11-24T00:05:07+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi is asking you to hold multiple thoughts in your head at once about a complex video game release",
+   "title": "Grand Theft Auto VI Is Asking You To Hold Multiple Thoughts In Your Head At Once About A Complex Video Game Release",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DMlpJeWpxVVVTdzdKX195NDdiQ2g4bDJTakJFbW1pY204YW85SE1OYW84RHpaYXh1M2xab3YydllDZ3BaYXh4MDNfeUxjY1YxcDYwdGt1amhGY0FDRERzUnlpNlFXUTA4M1pqck9QNllOMzRy?oc=5",
+   "outlet": "Aftermath",
+   "via": "Google News",
+   "published": "2026-11-24T00:03:45+00:00",
+   "seen": "2026-11-24T00:05:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a request for readers to hold multiple thoughts in their heads about a complex video game release."
+  },
+  {
+   "id": "gta 6 boss strauss zelnick among first raft of sxsw london 2027 speakers",
+   "title": "‘GTA 6’ Boss Strauss Zelnick Among First Raft of SXSW London 2027 Speakers",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmRCeDF5OHN5dEtYdmwwcVVCdzU4M1pScjZadU0tWURjQkhSYVBydnNyWjkyMEk3NUh4TnI5Tkh6VXJ5SXZHaHQyMmJGTUROcHdkX3pSX29JeEpRS2o4M0dqWDlhNTk2aFRlc2VKaUNDNEx4WW40R1JYUGNpaVRWVEkyMmNiTXBJa1hPTnF3SjhDV0dONGlwVVR1NVJXMU15TTROX1RDSHR3bkpPR1dacGpKSW55ZFBFcmp6UU5GMUsxc1U?oc=5",
+   "outlet": "The Hollywood Reporter",
+   "via": "Google News",
+   "published": "2026-11-24T00:01:33+00:00",
+   "seen": "2026-11-24T00:05:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Strauss Zelnick, GTA 6 boss, is among the first speakers announced for SXSW London 2027."
+  },
   {
    "id": "gta 6 zelda and resident evil fans caught up in bizarre metacritic ratings war",
    "title": "GTA 6, Zelda and Resident Evil fans caught up in bizarre Metacritic ratings war",
@@ -116,6 +142,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports fans of GTA 6, Zelda, and Resident Evil are involved in a bizarre Metacritic ratings war."
+  },
+  {
+   "id": "gta 6 officially the biggest launch in playstation history with over 39 million players",
+   "title": "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-officially-the-biggest-launch-in-playstation-history-with-over-39-million-players",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-24T00:00:00+00:00",
+   "seen": "2026-11-24T00:05:06+00:00",
+   "summary": "Highest number of concurrent players ever on PlayStation. Sony has shared a selection of staggering statistics relating to the launch of GTA 6 on PS5. From launch on 19th November through to the end of the title's opening weekend, Sony recorded over 39 million unique players. Read the full article on pushsquare.com",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 officially being the biggest launch in PlayStation history with over 39 million players."
   },
   {
    "id": "gta 6 was the biggest launch in playstation history with over 39 million players",
