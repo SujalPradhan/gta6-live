@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T21:01:36+00:00",
- "started": "2026-11-24T21:01:29+00:00",
+ "updated": "2026-11-24T21:06:43+00:00",
+ "started": "2026-11-24T21:06:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-24T21:01:30+00:00"
+   "hits": 97,
+   "checked": "2026-11-24T21:06:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 79,
-   "checked": "2026-11-24T21:01:30+00:00"
+   "hits": 68,
+   "checked": "2026-11-24T21:06:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 86,
-   "checked": "2026-11-24T21:01:31+00:00"
+   "hits": 66,
+   "checked": "2026-11-24T21:06:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T21:01:31+00:00"
+   "checked": "2026-11-24T21:06:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T21:01:31+00:00"
+   "checked": "2026-11-24T21:06:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T21:01:31+00:00"
+   "checked": "2026-11-24T21:06:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T21:01:31+00:00"
+   "checked": "2026-11-24T21:06:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T21:01:32+00:00"
+   "checked": "2026-11-24T21:06:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T21:01:32+00:00"
+   "checked": "2026-11-24T21:06:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T21:01:32+00:00"
+   "checked": "2026-11-24T21:06:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T21:01:32+00:00"
+   "checked": "2026-11-24T21:06:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T21:01:33+00:00"
+   "checked": "2026-11-24T21:06:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T21:01:33+00:00"
+   "checked": "2026-11-24T21:06:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T21:01:33+00:00"
+   "checked": "2026-11-24T21:06:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "even the cyberpunk 2 director is shaken by gta 6",
+   "title": "Even the Cyberpunk 2 director is shaken by GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWhNcGZZQXdST1lRRmJlckNNbFIwZ3dzS2VhWnBxMXV3RGVaNmkwY3Nta3BqQWlqcWd3enA0bU1Ec2ZMd212RlpVaXpYdjJmaFJhS0VZMTVVVnNyYW5ueGxUX1lvbzc3QXdScTUzb1JaRjVjNU4zOHVKZXZ0SGJYMTdhTnVucHlhUURTY3lVWVA2WHBDWHVNdUs2dGhyV1k0WnoxNFJOb3lVRFFLVHgw?oc=5",
+   "outlet": "Creative Bloq",
+   "via": "Google News",
+   "published": "2026-11-24T21:01:15+00:00",
+   "seen": "2026-11-24T21:06:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that even the director of Cyberpunk 2 is shaken by GTA 6."
+  },
+  {
+   "id": "gta 6 s staggering sales still might never catch gta 5",
+   "title": "GTA 6's Staggering Sales Still Might Never Catch GTA 5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93anp5TzY1NDdWanFYOEYzdElDWWZ3SEVUNk5ucDhNR2QtZG5zMVVJTm5KTWxjYkdKbTJaQUpiN29QVlJSQVc0dGhqWVk5bm1HU2EwT1k5Q1h1Z1R3a2c?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T20:56:41+00:00",
+   "seen": "2026-11-24T21:06:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6's staggering sales still might never catch GTA 5."
+  },
   {
    "id": "gta 6 mod shop locations how to customize your car and more",
    "title": "GTA 6 - Mod Shop Locations, How to Customize Your Car and More",
@@ -376,6 +402,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "PlayStation Plus adds four games, including a GTA 6 alternative."
+  },
+  {
+   "id": "playstation plus drops 4 new games today including a gloriously chaotic gta 6 alternative",
+   "title": "PlayStation Plus drops 4 new games today, including a gloriously chaotic GTA 6 alternative",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcDR3RnljbEx6M2VQdkRaR1RDOGpqdy1teWlpWUpwRlN3VEF6VnFjc1BCc21FWTJ6RmJTMk9CSUozOFVtaUNrb0oxSUREdWF3dVJQb1ViOFhtQkV5TGNMSlJzWVhWeHBEYVUzejNsbTNSVXRESXpyR25XRUdzVDNpa0M0V0RQQnRPOGVFeVVWQXg5UVpaZUM3aWJ4aGpkV0NPeEZ2T0VTUnBBYWh0NGtxQ1Vpa1RqSHlkbzNV?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-24T20:00:02+00:00",
+   "seen": "2026-11-24T21:06:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that PlayStation Plus adds four new games today, including a GTA 6 alternative."
   },
   {
    "id": "sony will support the witcher 4 s marketing much like gta 6",
@@ -1845,6 +1884,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 with 60 FPS glitch reports issues may affect performance and physics."
+  },
+  {
+   "id": "can gta vi really cost america 1 billion experts say probably not",
+   "title": "Can GTA VI Really Cost America $1 Billion? Experts Say Probably Not",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSDlPSEtsd205T3BxMUFmdmZmem9RaHJuZkZtczhQR19ncnNhQS1ZRjFVQ05lYkFkR1hCb19wakZZclQ5MUNnUy11WmtxRXg0NTN5U2lfakRMODNIakdmNlhlVFNhOVdWQjlZQjk2b1JqcUduWENfVk50SG5qcDBFVXhIWE1jVEZYZ2lTSQ?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-24T17:00:42+00:00",
+   "seen": "2026-11-24T21:06:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that experts say GTA VI probably cannot cost America one billion dollars."
   },
   {
    "id": "gta 6 runs smoother on xbox series x than ps5",
