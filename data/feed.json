@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T17:30:15+00:00",
- "started": "2026-11-24T17:30:09+00:00",
+ "updated": "2026-11-24T17:35:20+00:00",
+ "started": "2026-11-24T17:35:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T17:30:10+00:00"
+   "checked": "2026-11-24T17:35:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-24T17:30:10+00:00"
+   "hits": 60,
+   "checked": "2026-11-24T17:35:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 92,
-   "checked": "2026-11-24T17:30:11+00:00"
+   "checked": "2026-11-24T17:35:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T17:30:11+00:00"
+   "checked": "2026-11-24T17:35:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T17:30:11+00:00"
+   "checked": "2026-11-24T17:35:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T17:30:11+00:00"
+   "checked": "2026-11-24T17:35:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T17:30:12+00:00"
+   "checked": "2026-11-24T17:35:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T17:30:12+00:00"
+   "checked": "2026-11-24T17:35:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T17:30:12+00:00"
+   "checked": "2026-11-24T17:35:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T17:30:12+00:00"
+   "checked": "2026-11-24T17:35:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T17:30:12+00:00"
+   "checked": "2026-11-24T17:35:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T17:30:12+00:00"
+   "checked": "2026-11-24T17:35:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T17:30:12+00:00"
+   "checked": "2026-11-24T17:35:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T17:30:12+00:00"
+   "checked": "2026-11-24T17:35:16+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi the album adds 4 more songs following deluxe edition",
+   "title": "‘Grand Theft Auto VI: The Album’ Adds 4 More Songs Following Deluxe Edition",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1VFMDFvbGJtUVNLNGtLbDlCZkRQT1ZYZ3Z2TG9DZWtyUDdFNXNCcFp3anQ5cnFSOVkwVlFSdE5aX0pwOEtiTUFPQnNIREVET3I2Z2FBVF9XVXhydFJFQnpkWEQyTGM2OC1mNzFtTWwxVWdpSHdMbHZKYnZoM2lUUWN3ckh0RHducEF2YTh1VnE3ZlhwMFVWY0tJNlo4N3FJZnlxZ0xLbFVOcVZLVks1SW1n?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-24T17:31:56+00:00",
+   "seen": "2026-11-24T17:35:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI: The Album adds four more songs after the Deluxe Edition."
+  },
+  {
+   "id": "modders have launched gta 6 on pc at around 4 fps",
+   "title": "Modders have launched GTA 6 on PC at around 4 FPS.",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXI2WEJINHFWdlc1Q0NEeUUzVzYzdWVfSG8xZlBCemZFS0tqcVRJSHdROGJ4c2FLWTdlQVk5cXlsN01jTV9XRkNuTjJBZnpYUDZzcXhDQmhzaTg5QlR3Njc0WGt3X3FlZHg4N3A4U1pkX0k1dExqMUVTSWlhWWZIX0g3bm9IdlZoZEtQQS13dFg?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-24T17:27:30+00:00",
+   "seen": "2026-11-24T17:35:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that modders have launched GTA 6 on PC at around four frames per second."
+  },
   {
    "id": "all peewees billboards locations in gta 6 reward",
    "title": "All Peewees Billboards Locations in GTA 6 & Reward",
@@ -246,6 +272,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports Sony announcing players logged nearly seventy-eight thousand years on PS5 for GTA 6."
+  },
+  {
+   "id": "cyberpunk 2 director jokes that the sequel is canceled after gta 6 s 3 79 billion launch",
+   "title": "Cyberpunk 2 director jokes that the sequel is canceled after GTA 6's $3.79 billion launch",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGpMWU8yeUdZSjMwbmNtOFIxdTkxVzdkNVJDWmlqdmN1Njg2MUlxeWd3NlM1OEgwakY1dWtEWW1MNDI1UjhfaFlUMHBITi1pdFVwY3ZHTHJTZVllTE0yWFg0U281OFpqVWw1RGJGZjAyalZRanlrX25TbmM5ekN2THNaVDNybUxScHVIRXhhQmhHMkZzNFFKNEd3T1Y0Si1GUVIxUXBJdHNXSWxWalJZaXljSFB2VlBwSlhtLVF5ak1KdjJtbm9DOUNJbjBhZw?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-24T17:08:00+00:00",
+   "seen": "2026-11-24T17:35:13+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that the Cyberpunk 2 director jokes the sequel is canceled after GTA 6's launch."
   },
   {
    "id": "how to get truffade thrax in gta 6 explained",
@@ -987,6 +1026,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece notes GTA 6 autosave bugs and reports that the first update provides a fix."
+  },
+  {
+   "id": "gta 6 kitty litter southeast of the jack of hearts",
+   "title": "GTA 6 Kitty Litter - Southeast Of The Jack Of Hearts",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VamxEUUtXOGt4OTVNS0N6ZjdSSGRENWdrMFhGZ0NZMjliSGpXU1gtXzUwZWRnT29YdjdxT2FYWTlSZVl2ZldyaVh1VUFUX1U1WjJMeXVNUWkzRUVORGUyUk5oSFJNbWVnV1I3ZzA5cG9YWmNPX2RtblY2Y3VDQQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-24T15:35:27+00:00",
+   "seen": "2026-11-24T17:35:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a headline about GTA 6 Kitty Litter with a location reference to Southeast Of The Jack Of Hearts."
   },
   {
    "id": "richmond s bunny machine on keeping her gta 6 secret",
