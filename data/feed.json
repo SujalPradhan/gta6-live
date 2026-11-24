@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T09:12:17+00:00",
- "started": "2026-11-24T09:12:10+00:00",
+ "updated": "2026-11-24T09:17:16+00:00",
+ "started": "2026-11-24T09:17:11+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T09:12:11+00:00"
+   "checked": "2026-11-24T09:17:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T09:12:11+00:00"
+   "hits": 66,
+   "checked": "2026-11-24T09:17:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-24T09:12:12+00:00"
+   "hits": 78,
+   "checked": "2026-11-24T09:17:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:12:12+00:00"
+   "checked": "2026-11-24T09:17:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T09:12:12+00:00"
+   "checked": "2026-11-24T09:17:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-24T09:12:12+00:00"
+   "checked": "2026-11-24T09:17:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:12:13+00:00"
+   "checked": "2026-11-24T09:17:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T09:12:13+00:00"
+   "checked": "2026-11-24T09:17:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:12:13+00:00"
+   "checked": "2026-11-24T09:17:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:12:14+00:00"
+   "checked": "2026-11-24T09:17:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T09:12:14+00:00"
+   "checked": "2026-11-24T09:17:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T09:12:14+00:00"
+   "checked": "2026-11-24T09:17:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T09:12:14+00:00"
+   "checked": "2026-11-24T09:17:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T09:12:14+00:00"
+   "checked": "2026-11-24T09:17:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 bumper to bumper walkthrough yago s nitrous build race and police escape",
+   "title": "GTA 6 Bumper to Bumper walkthrough: Yago’s nitrous build, race and police escape",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVG10TDlnWTQyWkVMNngyYS1CVDRDdC0yY3ZhTnFhemFMVk5CV0dSTHRkMVByc3QwYXRxVDUtaEliX05tOS13RXdmS0t1X2ZRVWtCQ00zc1RHcm5zT1AweHBaeFdTbzFPaEk0bjlFN2tJbWVmVTNfQ292Y2VZUk1NcUZXLTJaMVB6dHpSdnZBMEVMeUdVQkJZOVM4MEtmZw?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T09:11:49+00:00",
+   "seen": "2026-11-24T09:17:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 bumper to bumper walkthrough featuring Yago’s nitrous build, race, and police escape."
+  },
   {
    "id": "modders already have gta 6 running on pc after cyberleek released a full xbox build of the game",
    "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Modders have GTA 6 running on PC after an Xbox build was released by CyberLeek."
+  },
+  {
+   "id": "5 south asian gamers making waves with gta 6",
+   "title": "5 South Asian gamers making waves with GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzdQbWxtY0tYT2JnSkEtTmloRDJySE10ZEtVMGRYZnZWMzZDekdVQXpmRUlueExRRzRvTVRkWUxyeHYzYlJ2dDFEalNHRW9HMnZHa2xhTEFkTkU1bi1RS043a2ZwQmFYZnRHYUxLMmRoVjlid3B3ZUtudVlqRUN3aW1B?oc=5",
+   "outlet": "samaa tv",
+   "via": "Google News",
+   "published": "2026-11-24T09:05:36+00:00",
+   "seen": "2026-11-24T09:17:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story highlights five South Asian gamers making waves with GTA 6."
   },
   {
    "id": "i ve spent 100 hours in gta 6 and i have some complaints about the complaints",
@@ -168,6 +194,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "GTA 6 features an unkillable NPC that hunts players, with a possible method to kill him mentioned."
+  },
+  {
+   "id": "why are men treating their gta 6 girlfriends better than their real ones cosmopolitan india",
+   "title": "Why are men treating their GTA 6 girlfriends better than their real ones? - Cosmopolitan India",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcTE1bmRUTG9OUnp5T1E3Rlp5Z0VPcHlNZGlOc2lTRjd6WlRRT3ZPQW1xeUZEWjZ6Y3hhMmktLXg0dnNrczh1OUE5REFHcW1RdmRqUzJRU0lqQlJWaUZGejVmcWtiX2tDNEo0OW9VVklmSUtXMC1reDNvRnd4SkJ3UFNRc3M4dDVoM0ptS1JZZTlKMXZWRy1wYUF2MWtqMF83WXNDMzlseXpJeVBvWGRYS0RuUEs2X1B4R3FRdzFqYnJ6N1IyeGN1ZEJwcW5hT2hSazdWX0VEcHBEOXdUbWNpQ1BnRVlPbkXSAecBQVVfeXFMTnExNW5kVExvTlJ6eU9RN0ZaeWdFT3B5TWRpTnNpU0Y3elpUUU92T0FtcXlGRFo2emN4YTJpLS14NHZza3M4dTlBOURBR3FtUXZkalMyUVNJakJSVmlGRno1ZnFrYl9rQzRKNDlvVVZJZklLVzAta3gzb0Z3eEpCd1BTUXNzOHQ1aDNKbUtSWWU5SjF2VkctcGFBdjFrajBfN1lzQzM5bHl6SXlQb1hkWEtEblBLNl9QeEdxUXcxamJyejdSMnhjdWRCcHFuYU9oUms3Vl9FRHBwRDl3VG1jaUNQZ0VZT25F?oc=5",
+   "outlet": "Cosmopolitan India",
+   "via": "Google News",
+   "published": "2026-11-24T08:53:53+00:00",
+   "seen": "2026-11-24T09:17:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions why men treat their GTA 6 girlfriends better than their real ones."
   },
   {
    "id": "gta 6 devs hope players stop thinking in tasks completion percentages online guides and rather let the game unfold in front of them the most",
