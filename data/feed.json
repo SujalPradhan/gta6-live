@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T16:30:04+00:00",
- "started": "2026-11-24T16:29:54+00:00",
+ "updated": "2026-11-24T16:34:58+00:00",
+ "started": "2026-11-24T16:34:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T16:29:55+00:00"
+   "checked": "2026-11-24T16:34:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-24T16:29:55+00:00"
+   "hits": 64,
+   "checked": "2026-11-24T16:34:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-24T16:29:56+00:00"
+   "hits": 94,
+   "checked": "2026-11-24T16:34:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T16:29:56+00:00"
+   "checked": "2026-11-24T16:34:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T16:29:56+00:00"
+   "checked": "2026-11-24T16:34:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T16:29:56+00:00"
+   "checked": "2026-11-24T16:34:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T16:29:58+00:00"
+   "checked": "2026-11-24T16:34:54+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T16:29:58+00:00"
+   "checked": "2026-11-24T16:34:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:29:59+00:00"
+   "checked": "2026-11-24T16:34:54+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-24T16:29:59+00:00"
+   "hits": 14,
+   "checked": "2026-11-24T16:34:54+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:30:00+00:00"
+   "checked": "2026-11-24T16:34:54+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T16:30:00+00:00"
+   "checked": "2026-11-24T16:34:55+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T16:30:00+00:00"
+   "checked": "2026-11-24T16:34:55+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T16:30:00+00:00"
+   "checked": "2026-11-24T16:34:55+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 players are discovering who needs a gun when it s easier to rob a store with a crate of beer",
+   "title": "GTA 6 players are discovering, who needs a gun when it's easier to rob a store with a crate of beer?",
+   "link": "https://www.eurogamer.net/grand-theft-auto-6-beer-robberies",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-24T16:33:50+00:00",
+   "seen": "2026-11-24T16:34:53+00:00",
+   "summary": "Guns might be the weapon of choice for most Grand Theft Auto 6 players, but it turns out some enterprising digital criminals are taking a more inventive approach to robberies. Who needs a gun by their side when you've got a crate of beer? Read more",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 players are reportedly using a crate of beer to commit robberies instead of guns."
+  },
+  {
+   "id": "gta vi dubbed biggest launch in playstation history",
+   "title": "GTA VI Dubbed \"Biggest Launch In PlayStation History\"",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnWHRmd2VzMXV0cVFKSU1YX3pLTnNFNzhGTms1ZWt3QU5CZ2VMMkczb25HeThZNUEtLTIwaTktNVhSTTcxYnNrSWZ2Q0t2NThVLVJ0TmxwQUhTZUVaTWx0TUhJY1RVQ3JmNGlBX3Blb0hMZHlDMElsbl9n?oc=5",
+   "outlet": "PSX Extreme",
+   "via": "Google News",
+   "published": "2026-11-24T16:28:12+00:00",
+   "seen": "2026-11-24T16:34:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA VI is described as the biggest launch in PlayStation history."
+  },
   {
    "id": "rockstar is reportedly looking into turning red dead redemption into a movie or tv show",
    "title": "Rockstar is reportedly looking into turning Red Dead Redemption into a movie or TV show",
@@ -142,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story states that Overmono created about 50 original songs for GTA VI, according to BMG."
+  },
+  {
+   "id": "d angelo s gta vi song released brother teases future posthumous songs",
+   "title": "D’Angelo’s ‘GTA VI’ Song Released, Brother Teases Future Posthumous Songs",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOHQ3aEk2cnlzdm83MFlrYktfUFNpS1BkeUpxZ0xVYlNaVmdFUUZtWXRMQXJ3b3hURDZxbUJRVmVVX0pseUUxOUE1SzV5ZjdRWmdKSG5MUkJCOE92YmRaRDNPTzdDNjBLYUpjMjJGVWpfd0ZyOFFMaGtqNkpIUGZZSTFjMEVBdlpoQjlMWjF2bFU1MkRhRkE?oc=5",
+   "outlet": "VIBE.com",
+   "via": "Google News",
+   "published": "2026-11-24T16:15:00+00:00",
+   "seen": "2026-11-24T16:34:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "D’Angelo’s GTA VI song is released, with a brother hinting at future posthumous songs."
   },
   {
    "id": "gta 6 strangers freaks trophy the 8 stranger strands and which ones are confirmed",
