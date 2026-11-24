@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T19:05:57+00:00",
- "started": "2026-11-24T19:05:49+00:00",
+ "updated": "2026-11-24T19:10:52+00:00",
+ "started": "2026-11-24T19:10:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-24T19:05:50+00:00"
+   "hits": 100,
+   "checked": "2026-11-24T19:10:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-24T19:05:50+00:00"
+   "hits": 77,
+   "checked": "2026-11-24T19:10:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-24T19:05:51+00:00"
+   "hits": 87,
+   "checked": "2026-11-24T19:10:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:05:51+00:00"
+   "checked": "2026-11-24T19:10:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T19:05:51+00:00"
+   "checked": "2026-11-24T19:10:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T19:05:52+00:00"
+   "checked": "2026-11-24T19:10:46+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T19:05:52+00:00"
+   "checked": "2026-11-24T19:10:46+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T19:05:52+00:00"
+   "checked": "2026-11-24T19:10:46+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-24T19:05:52+00:00"
+   "checked": "2026-11-24T19:10:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T19:05:53+00:00"
+   "checked": "2026-11-24T19:10:47+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T19:05:53+00:00"
+   "checked": "2026-11-24T19:10:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T19:05:53+00:00"
+   "checked": "2026-11-24T19:10:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T19:05:53+00:00"
+   "checked": "2026-11-24T19:10:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T19:05:53+00:00"
+   "checked": "2026-11-24T19:10:47+00:00"
   }
  },
  "items": [
@@ -118,6 +118,19 @@
    "ai_summary": "The story reports that GTA 6 has official licensed trading cards based on in-game collectibles."
   },
   {
+   "id": "here s how to listen to the radio on foot in gta 6 using headphones",
+   "title": "Here’s How To Listen To The Radio On Foot In GTA 6 Using Headphones",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM25KYy1SSW4weEZxMlpwQ1BWUDZscjdZVkF4bEZsbm13TFBuX3NWTkFyNFh4ZE9FODlQVEN3Q3pYWnN2TVQ4X1FYTFVqOHZ0OHh5OEhtN29GOU81RnFXVHNBNjN5MnA5S08wOVl0X3p1ckhEZlJpY2VnbEV6M0ZybGFWTjk1dXNfUVlyT1VyajFRTmg0SEVJNFhEUDI?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-24T19:00:08+00:00",
+   "seen": "2026-11-24T19:10:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to listen to the radio on foot in GTA 6 using headphones."
+  },
+  {
    "id": "gta vi has wild monkeys the real florida has them too and there s a bizarre story behind them",
    "title": "GTA VI Has Wild Monkeys. The Real Florida Has Them Too — and There's a Bizarre Story Behind Them",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRjJ4Um9MbUNjLXJpY1RSZ0pRZ1dTSVdIb0UtZU9Vc2lTazNheFdoNFhNMkNvYVNraTlBaE9MZEdZQm1Tby1iM1NQaUI2UE9wNS16YkRyQWEtNHNvbUxtWWpRVVViTE1MeWk0SVQzTGQ4MmNBbkl6TGcwWXVsUTA1cnlRTVVIYjVWUjVjT1BuMUtvTDNqZUlvdmRfNFhZdy1aWndST3RJVDlzRXQ5M1pBWG1vWmtGbjNlRlhUd1pVaTRkcmE4S1ZRZnNtUlFyYkNkalVRU2ljWW4?oc=5",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA VI has wild monkeys and a related story in Florida."
+  },
+  {
+   "id": "temple owls appear in the virtual world of grand theft auto vi",
+   "title": "Temple Owls appear in the virtual world of ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHVkUDFwUFlJS3FoVWJXZ1U3dHN0WEhvZXRuV2VEOU0xaE56OWJQc1ZDbWZzME9PYi0tMWlEeGdSSEViTDhvU1RMNzVnd3BHWkNhOG9Bd2poX0lnSXRYT3NhRmdVcldEbnQ4LUs3RUJibUotWXBOWk5ZQ2IxdHVMSnlWdW1VRl80dFhQcllCTG8zTkh4bkE?oc=5",
+   "outlet": "Temple Now",
+   "via": "Google News",
+   "published": "2026-11-24T18:58:41+00:00",
+   "seen": "2026-11-24T19:10:45+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Temple Owls appear in the virtual world of Grand Theft Auto VI."
   },
   {
    "id": "a month in and i thought i d seen all of gta 6 i was so wrong",
@@ -1078,6 +1104,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports information about GTA 6 radio including all stations and songs and compatibility with user music."
+  },
+  {
+   "id": "gta 6 is dominating ps5 39 million players record engagement and a surge in console activations",
+   "title": "GTA 6 is dominating PS5: 39 million players, Record engagement, and a surge in console activations",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVVB6V1NSdFROVVc1Vy1ETjRSWmFXV1dlQ2RmSWhWYXZmM01BMmwzbUVjNWptWFFteXN3b0FKZDlkRGl4VHJHM0VuR3NTSWtxQ1RQTW0weVdCYXpDdGdrSnlfOEk0NDVIeThYYXBEZjBPQ0N3UGxEcm9VdTVaanU2SW1CeFRVWlpyMFg0NkV3eHRIckVoSndTYWgtOGhhNkVHZURhY0MwcnhpVmRDYjR5S2tINzJ2UHkxSWdnTDI1ZmNmbmtUODRKX091TGdvSHdEZFRpUGFGWjA0RjFCZVUxNHZxQzZwV3AwelhsUdIB7AFBVV95cUxPVVB6V1NSdFROVVc1Vy1ETjRSWmFXV1dlQ2RmSWhWYXZmM01BMmwzbUVjNWptWFFteXN3b0FKZDlkRGl4VHJHM0VuR3NTSWtxQ1RQTW0weVdCYXpDdGdrSnlfOEk0NDVIeThYYXBEZjBPQ0N3UGxEcm9VdTVaanU2SW1CeFRVWlpyMFg0NkV3eHRIckVoSndTYWgtOGhhNkVHZURhY0MwcnhpVmRDYjR5S2tINzJ2UHkxSWdnTDI1ZmNmbmtUODRKX091TGdvSHdEZFRpUGFGWjA0RjFCZVUxNHZxQzZwV3AwelhsUQ?oc=5",
+   "outlet": "Diario AS",
+   "via": "Google News",
+   "published": "2026-11-24T16:56:49+00:00",
+   "seen": "2026-11-24T19:10:45+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "GTA 6 is reported to be dominating PS5 with high player counts, engagement, and console activations."
   },
   {
    "id": "this gta 6 moment is a trolling master class from rockstar",
@@ -3262,6 +3301,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks whether GTA 6 includes darts or bowling."
+  },
+  {
+   "id": "grand theft auto 6 set a new benchmark as the biggest launch in playstation history achieving the record for the most concurrent players to ",
+   "title": "Grand Theft Auto 6 set a new benchmark as the \"biggest launch in PlayStation history,\" achieving the record for the most concurrent players to date",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04c0pwdmQybmphNDR3dGUwRW9NLXk5WEw1ZkVwQm91MUlDaGowN3IzY0NmREFjQzZHNW9ROUdQblRqSWEtcHI1MGs5WEEtRWhWdEdqaVVyYW91TXVmb3g2UlBkRjU?oc=5",
+   "outlet": "WN Hub",
+   "via": "Google News",
+   "published": "2026-11-24T13:10:49+00:00",
+   "seen": "2026-11-24T19:10:45+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "GTA 6 sets a new benchmark as the biggest launch on PlayStation with the most concurrent players to date."
   },
   {
    "id": "gta 6 spotify playlists how to listen to the grand theft auto vi radio stations",
