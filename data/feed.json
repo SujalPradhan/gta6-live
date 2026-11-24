@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T09:32:12+00:00",
- "started": "2026-11-24T09:32:08+00:00",
+ "updated": "2026-11-24T09:37:16+00:00",
+ "started": "2026-11-24T09:37:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T09:32:09+00:00"
+   "checked": "2026-11-24T09:37:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-24T09:32:09+00:00"
+   "hits": 66,
+   "checked": "2026-11-24T09:37:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-24T09:32:10+00:00"
+   "checked": "2026-11-24T09:37:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:32:10+00:00"
+   "checked": "2026-11-24T09:37:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T09:32:10+00:00"
+   "checked": "2026-11-24T09:37:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-24T09:32:10+00:00"
+   "checked": "2026-11-24T09:37:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:32:10+00:00"
+   "checked": "2026-11-24T09:37:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T09:32:11+00:00"
+   "checked": "2026-11-24T09:37:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:32:11+00:00"
+   "checked": "2026-11-24T09:37:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:32:11+00:00"
+   "checked": "2026-11-24T09:37:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T09:32:11+00:00"
+   "checked": "2026-11-24T09:37:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T09:32:12+00:00"
+   "checked": "2026-11-24T09:37:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T09:32:12+00:00"
+   "checked": "2026-11-24T09:37:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T09:32:12+00:00"
+   "checked": "2026-11-24T09:37:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 gas stations map all 57 locations and details",
+   "title": "GTA 6 Gas Stations Map: All 57 Locations and Details",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RbTNpUFJHcmVleTU2VjA0UzNXMkZFWTN1UDJiWkJobTlrYkgtQU1jRU16RzA4cW1GX0t0QUdmM3JBWnAxT3h5TWxoSk1Za2p2M1BSZTBGY0VkZGYyOXQ5OXo1YUlHa0Y4WExXaUhDYzNNSVBCV1dHNXg2a28?oc=5",
+   "outlet": "Mobalytics",
+   "via": "Google News",
+   "published": "2026-11-24T09:36:22+00:00",
+   "seen": "2026-11-24T09:37:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports all 57 GTA 6 gas station locations and details."
+  },
+  {
+   "id": "bmg music heads to vice city in grand theft auto vi",
+   "title": "Bmg Music Heads To Vice City In Grand Theft Auto Vi",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0kzRnB0YWZjQ1Q4QUFueXFzMEFpcHVzRENPZG5uYWVRaHBnOHZNa3RaNFpfdjdoY3BqWXJQX0pRbzNsZWxwUHBMMnZxMmgtdktRSmdCTVZ4Skh0R3ZDWE1xNUYwN0dWdGdrQUpxVUZDanF2dFl6ajFVTVllenpUQV93?oc=5",
+   "outlet": "www.bmg.com",
+   "via": "Google News",
+   "published": "2026-11-24T09:29:25+00:00",
+   "seen": "2026-11-24T09:37:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports BMG Music heads to Vice City in Grand Theft Auto VI."
+  },
   {
    "id": "pc players have responded positively to the development of an unofficial gta 6 port",
    "title": "PC players have responded positively to the development of an unofficial GTA 6 port.",
@@ -324,6 +350,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports a tainted debut and a dusty record in a loft as part of GTA 6 comeback coverage titled The ‘Aaj Shanibar’ journey."
+  },
+  {
+   "id": "gta 6 pc project reportedly reaches in game rendering",
+   "title": "GTA 6 PC project reportedly reaches in-game rendering",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRHRVBrcVY1N3dUeV9YS01yRGhIOGY2NEU0aU5lZVNzaXJmdXJtQ2FiRUxNeEF6V3RQOE9mM1J2RUNIRGtHSVViS0tKZnVvZ0xOaUgyMGF1TEs2NEJaUy16R1RXX19hSHNaRGZSZHVZQjFuektYRElXZXFycFQ4V2Nkbm16VDhh?oc=5",
+   "outlet": "VideoCardz.com",
+   "via": "Google News",
+   "published": "2026-11-24T08:36:07+00:00",
+   "seen": "2026-11-24T09:37:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a PC project for GTA 6 reportedly reaches in-game rendering."
   },
   {
    "id": "gta 6 executable leak raises questions about unofficial pc port",
@@ -1195,6 +1234,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI The Album Deluxe shows Rockstar adding new songs."
+  },
+  {
+   "id": "i played gta 6 without a tv all weekend and kept vice city to myself with ar glasses",
+   "title": "I played GTA 6 without a TV all weekend — and kept Vice City to myself with AR glasses",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPR2k5bHlfelM3cWg3Z21RVm53a2ZYU0JQQW1CVk9NT0k3YkdkRTVBNHh3dzZyRGd6QmJGNVM3dVU5WmhvZlNDUVJxVU0wT0JFMl9xNlZJeTFIZDhoSzR3YjcxSldQWmhFTi1YN1IxS1pCMldGNjNBN1FYOTBibjliOGhDOWluTUU4TkhBN1MzWVJmMF9XMDZESS1TQWphdHR3dmRIOGFST181TWJBSVhoWkEzODl5VnY1MThiTEhpcUZ1ZzA3QXpycHYyR0hVNFA4OW9CN2Q5d0VjQ09FaWNCRGJ0LVV5Y3pXajJMRFNyNms3enFOYlFqUWxKMzNhRU1S?oc=5",
+   "outlet": "Tom's Guide",
+   "via": "Google News",
+   "published": "2026-11-24T03:32:45+00:00",
+   "seen": "2026-11-24T09:37:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports playing GTA 6 without a TV using AR glasses, keeping Vice City to myself."
   },
   {
    "id": "39m players have already tried gta vi on playstation 5",
