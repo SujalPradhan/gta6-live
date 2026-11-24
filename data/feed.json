@@ -1,109 +1,148 @@
 {
- "updated": "2026-11-24T18:56:15+00:00",
- "started": "2026-11-24T18:55:48+00:00",
+ "updated": "2026-11-24T19:00:49+00:00",
+ "started": "2026-11-24T19:00:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T18:55:57+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-24T19:00:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T18:56:05+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 63,
+   "checked": "2026-11-24T19:00:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T18:56:13+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 91,
+   "checked": "2026-11-24T19:00:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T18:56:13+00:00"
+   "checked": "2026-11-24T19:00:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T18:56:14+00:00"
+   "checked": "2026-11-24T19:00:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T18:56:14+00:00"
+   "checked": "2026-11-24T19:00:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T18:56:14+00:00"
+   "checked": "2026-11-24T19:00:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T18:56:14+00:00"
+   "checked": "2026-11-24T19:00:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-24T18:56:14+00:00"
+   "checked": "2026-11-24T19:00:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T18:56:15+00:00"
+   "checked": "2026-11-24T19:00:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T18:56:15+00:00"
+   "checked": "2026-11-24T19:00:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T18:56:15+00:00"
+   "checked": "2026-11-24T19:00:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T18:56:15+00:00"
+   "checked": "2026-11-24T19:00:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T18:56:15+00:00"
+   "checked": "2026-11-24T19:00:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "a month in and i thought i d seen all of gta 6 i was so wrong",
+   "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0lfRG1YNVFVSDA0MUxWOFBVRlMydHljRUk3UVNYdkZLcGlnOWVlSll3dmc4RXIzXzNoa1gtZF9EOVlvZUd5Tm1WM2REN2NndEwxZkU5enlNVGY2cHF3VDdDejY1T1FuN3QyTk9kM0tYeEpGSDlQYWpQNzl0Vzd1U1NYSlBsR3dWV3dzUEF3M0E?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-24T18:57:33+00:00",
+   "seen": "2026-11-24T19:00:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports an initial impression that GTA 6 surprises the author despite a month of play."
+  },
+  {
+   "id": "gta 6 shatters playstation records with 39 million players and 683 million hours played in 3 days",
+   "title": "GTA 6 shatters PlayStation records with 39 million players and 683 million hours played in 3 days",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFMtajg5VUprYS01dWd5aHFaRVN0elJ6dVRWaEw2b3VCUC1Dcy1pWjEwZXYybGpqQm9PUjBvQkVmU1IydGFTcURGM2czLXgzYWVQUU11RWlHMUxObkFOOWxudDU4Z2k3LVozTjltdG5PSnBNenlpOG5ySVNpR0xINENqWld5eDhvMHVTaFlkcDJPSHMwWnE1STd3RQ?oc=5",
+   "outlet": "TechSpot",
+   "via": "Google News",
+   "published": "2026-11-24T18:51:00+00:00",
+   "seen": "2026-11-24T19:00:42+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 setting records with high player counts and hours played in three days."
+  },
+  {
+   "id": "gta 6 gets real trading cards based on in game collectibles",
+   "title": "GTA 6 Gets Real Trading Cards Based on In-Game Collectibles",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUFoZ3FQeWtaZXBtQUdIRDZsMm1xdkpQSkJIQmN3N3J2RVdCQmpfYXFpQUtodF9ieGZHRjlHZDB4ZGZtamcyRFJMcXlDMXVFTE8zWVBhM2ltT21uV2lsNUZRV2tYY0ttdHNGMGVDWEFKbUlIcHMySnBIQUNGLUIwSzV0d3JwWW9vYWhSWTNCUUpVbERJaHk5S1N0SHlOVGd0bnBHQmJn?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T18:50:32+00:00",
+   "seen": "2026-11-24T19:00:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 releasing real trading cards based on in-game collectibles."
+  },
   {
    "id": "gta vi netflix trailer tripled the weekly sales pace while launch week drove nearly three quarters of campaign gmv",
    "title": "GTA VI Netflix trailer tripled the weekly sales pace, while launch week drove nearly three-quarters of campaign GMV",
@@ -2131,6 +2170,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A GTA 6 infinite money glitch is reported."
+  },
+  {
+   "id": "the big gta 6 console comparison ps5 vs ps5 pro xbox series x and series s",
+   "title": "The Big GTA 6 Console Comparison: PS5 vs PS5 Pro, Xbox Series X and Series S",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWVSMEdnOU5kN0pwSFhLUC1nWFJlQWJRYTkwRHNwdjJQRmpFaUFWdlFPdGYzVFliY2ZNT2VQeVRQTGVnSzNYRmpSS0JoZ3lGbWU2RkxNaXVJMWN1VHF1Z0tFcXh4VlFWQlkyNmJabklIdUxfeXNYQmtWMmhlVV9HU0plTjZoUWhGMEJEMXRNV3NENlZYVFhzUHFoamVzRzJEaExpT0t2QUdiRVZNNHFSODVOLWk?oc=5",
+   "outlet": "Digital Foundry",
+   "via": "Google News",
+   "published": "2026-11-24T15:01:00+00:00",
+   "seen": "2026-11-24T19:00:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a console comparison between PS5, PS5 Pro, Xbox Series X, and Series S for GTA 6."
   },
   {
    "id": "is there a point of no return before the 18 gta 6 endings",
