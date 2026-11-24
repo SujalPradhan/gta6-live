@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T19:16:01+00:00",
- "started": "2026-11-24T19:15:53+00:00",
+ "updated": "2026-11-24T19:21:10+00:00",
+ "started": "2026-11-24T19:21:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-24T19:15:54+00:00"
+   "hits": 98,
+   "checked": "2026-11-24T19:21:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 64,
-   "checked": "2026-11-24T19:15:54+00:00"
+   "checked": "2026-11-24T19:21:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-24T19:15:55+00:00"
+   "hits": 67,
+   "checked": "2026-11-24T19:21:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:15:55+00:00"
+   "checked": "2026-11-24T19:21:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T19:15:56+00:00"
+   "checked": "2026-11-24T19:21:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T19:15:56+00:00"
+   "checked": "2026-11-24T19:21:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T19:15:56+00:00"
+   "checked": "2026-11-24T19:21:04+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T19:15:56+00:00"
+   "checked": "2026-11-24T19:21:04+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-24T19:15:56+00:00"
+   "hits": 4,
+   "checked": "2026-11-24T19:21:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T19:15:57+00:00"
+   "checked": "2026-11-24T19:21:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T19:15:58+00:00"
+   "checked": "2026-11-24T19:21:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T19:15:58+00:00"
+   "checked": "2026-11-24T19:21:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T19:15:58+00:00"
+   "checked": "2026-11-24T19:21:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T19:15:58+00:00"
+   "checked": "2026-11-24T19:21:06+00:00"
   }
  },
  "items": [
+  {
+   "id": "pornhub traffic fell by 15 on the day gta vi was released",
+   "title": "Pornhub traffic fell by 15% on the day GTA VI was released",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEloQUppY3Y2QlRfTjVkM0hJUTA1RldrODNGaDluZ2puTU1CN0hSOEZHQ2l6WHdIVmV3eHlOd2RvZ0JMbW1iclYzbV9ib2NBZXVBeV9lRWY3WVBYUWtQdFl0UFVqWFBmZ1owaDQ1RUs5OG4zeEhjd09wY1hvN0NUNThJUE5wMy1rRUNfOXhyRdIBjgFBVV95cUxPRllqdzY1dDlfNzVfbDZ4QUZrRHpuWXE3X1d3MTNWcGdNQmsycll0WlczSFlLR2NpSktpYzd1ODZwZFFVRkxTWVc5aUVDcEZ6TnoyTkt0SURUaEFUQWhpVXd3bHNiVzZyWGJnQ19UNGlCbmZFM3dPMlhRUXJtQ041a1ZXWnN2bkEzRjhxZlR3?oc=5",
+   "outlet": "Українські Національні Новини (УНН)",
+   "via": "Google News",
+   "published": "2026-11-24T19:13:50+00:00",
+   "seen": "2026-11-24T19:21:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Pornhub traffic fell by 15% on the day GTA VI was released."
+  },
   {
    "id": "gta 6 bad driver guide tracking down felipe and deciding his fate",
    "title": "GTA 6 Bad Driver! guide: tracking down Felipe and deciding his fate",
@@ -131,6 +144,19 @@
    "ai_summary": "The story reports that Sony officially confirms the biggest launch in PlayStation history for GTA 6."
   },
   {
+   "id": "gta 6 data reveals only 40 of players have cleared chapter 2",
+   "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xLXE3YmpSUUxfUXBQVGpTU3Y2V0djUzNtTUZfWFpyUUo0TTNlYzU4SGJLenNoMlB2a1I1aDhjMW9sVGFZTFllUU9saFpnc1RFX2tHRGlIOGFYdjcxOG9GVjBvc0pkWndoTWhuZmYzNnlxdXFL?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T19:08:18+00:00",
+   "seen": "2026-11-24T19:21:02+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Data reveals only 40% of players have cleared Chapter 2 in GTA 6."
+  },
+  {
    "id": "gta 6 gets officially licensed trading cards based on in game collectibles",
    "title": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPblVKMWdQY04xNklIR0NPRzBfc0JRM0E4TW1ZOXNDRjhKNHFqLVJzRGlIMTB5aEJIbmFFSWtkX2tTTG5SalB1dV9DTVVNZEFKdlNGTnpyT0kwZDd5NVY0UVJtQ2IyU3JiTE9IVkdzUVNDaUtZdVZHdEdNNkFhNjJXY2xKTTctQXZ3aUlLTWVKVFJEalpJdHZhRFdhRUNJa0ZEX3JHSTlUODhYdjlqdDJBeWVnU0l0TjY4Y3MzN3RCbTVNQQ?oc=5",
@@ -144,6 +170,19 @@
    "ai_summary": "The story reports that GTA 6 has official licensed trading cards based on in-game collectibles."
   },
   {
+   "id": "gta 6 grab this free 5 000 as soon as chapter 2 begins",
+   "title": "GTA 6: Grab This Free $5,000 as Soon as Chapter 2 Begins",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmRyYm5oemdBbVJhUEl0dDlSamd3djNWLS1OeTJqU3VPZkw2SmVjeUFHUkhseXM0Vl9ocnZyQ3hhRkZiTXN2WDBUYTZMakxFR0dGZHBBcFZYNVY3OW9NbE9qZWxMODZ5b0hWUGJscW9nTGtaeWhSZGRsbl9NVEhXRkluWmlLN1k?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T19:02:58+00:00",
+   "seen": "2026-11-24T19:21:02+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A free $5,000 is available as soon as Chapter 2 begins in GTA 6."
+  },
+  {
    "id": "according to a research firm gta 6 has accomplished something it took gta v a whole year to do",
    "title": "According To A Research Firm ‘GTA 6’ Has Accomplished Something It Took ‘GTA V’ A Whole Year To Do",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejBnajlwMEo4dVlqTmJ3VDVtakxESVVLWUw4NGdVeEtmVlRJWnZqZk4tMnE4T2pseGNWVWZEN3VOTy0yZ0x3ZktzZUh6b0FiWnRiZlVzaTRsdGdZa0pmekxaRUh1LW9DRTBVUF96Y3pXMEdibVFnc3Z6c1NkVVlGSDQweDR1UFoyNC1WekhqbW1UNmpnemxFVDQ1ZVJ2dEczWmJqaFRRZkN6YWg0YVFtMHYtenk5OVBaSy1raUpiTzdMWlJS?oc=5",
@@ -155,6 +194,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that GTA 6 has accomplished something it took GTA V a whole year to do, according to a research firm."
+  },
+  {
+   "id": "grand theft auto vi player discovers portal back to 2002 game gta vice city",
+   "title": "‘Grand Theft Auto VI’ Player Discovers Portal Back to 2002 Game ‘GTA Vice City’",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUUZ6bWFQczJrbzZ2VXZfYTJIQkNSWnZ0X1VTbjhBZmJjdDJXYkdRdnE0XzFMODB3RzY0NktyM201OVY3aWJLUnhSRmpoU0xBU183Wld6SExjUG9rcURybFE5SERreE44T0JUMHN6VWxDZ1B2T1FaMFRHNjd6TWVyMEg0VmlzbkxYWTNOZjVjTGV2Vm9nWV9BNy1yYndlVTVtZWl5R3NmSFd5dw?oc=5",
+   "outlet": "Gizmodo",
+   "via": "Google News",
+   "published": "2026-11-24T19:00:33+00:00",
+   "seen": "2026-11-24T19:21:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA VI player discovers a portal back to the 2002 game GTA Vice City."
   },
   {
    "id": "here s how to listen to the radio on foot in gta 6 using headphones",
@@ -196,6 +248,19 @@
    "ai_summary": "Temple Owls appear in the virtual world of Grand Theft Auto VI."
   },
   {
+   "id": "gta 6 s soundtrack just got 23 more songs with travis scott slayyyter and denzel curry among the additions",
+   "title": "GTA 6’s soundtrack just got 23 more songs, with Travis Scott, Slayyyter and Denzel Curry among the additions",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWE9rY1k1MGxCMXRWQnc1MDJXQVJMWlBycDk0and4MXQ2YWktRGJJemFUWXo4TVZITmFYMHdELTNzb28xbGZKcEhwNmVmWVRQOVhpaEdyRmQ3S3c4VUo3SjY4UzdJT0FOalJvMFpXcnp2RzFVV0VHeU1hNnEwdHJvVHNGbGYxQQ?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-24T18:58:22+00:00",
+   "seen": "2026-11-24T19:21:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6’s soundtrack adds 23 more songs featuring new artists."
+  },
+  {
    "id": "a month in and i thought i d seen all of gta 6 i was so wrong",
    "title": "A Month In, and I Thought I'd Seen All of GTA 6. I Was So Wrong",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0lfRG1YNVFVSDA0MUxWOFBVRlMydHljRUk3UVNYdkZLcGlnOWVlSll3dmc4RXIzXzNoa1gtZF9EOVlvZUd5Tm1WM2REN2NndEwxZkU5enlNVGY2cHF3VDdDejY1T1FuN3QyTk9kM0tYeEpGSDlQYWpQNzl0Vzd1U1NYSlBsR3dWV3dzUEF3M0E?oc=5",
@@ -235,6 +300,19 @@
    "ai_summary": "The story reports on Christian voices weighing in about whether Christians should play GTA 6."
   },
   {
+   "id": "gta 6 photo shoot mission guide helicopter photos a car chase and dre quan s rescue",
+   "title": "GTA 6 Photo/Shoot mission guide: helicopter photos, a car chase and Dre’Quan’s rescue",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTVPcS1hZ3RWQzdSWHRDTDlRLWFzVThQQVVjcWlsOXNqMWtVRDBnWFhvWms0djlMUUFmUjY5ZUhncUc1bGJRc1hkeE9BX2JJTkkyeUZxUkJ5dk9FTnFSaC0wMm1zcmNHaTRiSFdBbGtsUW11R3V4dkkwUm9vdC1RbzNtVDNwMnVBNzg5RlIyN2x6clNtX0MzTWd3RzdTWkZDNGxV?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T18:51:56+00:00",
+   "seen": "2026-11-24T19:21:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 photo shoot mission guide includes helicopter photos, a car chase, and Dre’Quan’s rescue."
+  },
+  {
    "id": "gta 6 shatters playstation records with 39 million players and 683 million hours played in 3 days",
    "title": "GTA 6 shatters PlayStation records with 39 million players and 683 million hours played in 3 days",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFMtajg5VUprYS01dWd5aHFaRVN0elJ6dVRWaEw2b3VCUC1Dcy1pWjEwZXYybGpqQm9PUjBvQkVmU1IydGFTcURGM2czLXgzYWVQUU11RWlHMUxObkFOOWxudDU4Z2k3LVozTjltdG5PSnBNenlpOG5ySVNpR0xINENqWld5eDhvMHVTaFlkcDJPSHMwWnE1STd3RQ?oc=5",
@@ -272,6 +350,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that Panini secured a trading card deal for Grand Theft Auto VI."
+  },
+  {
+   "id": "to run gta 6 on pc via project victory you will need at least an rtx 2080 ti or rx 6700 xt",
+   "title": "To run GTA 6 on PC via Project Victory, you will need at least an RTX 2080 Ti or RX 6700 XT.",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWFZqM0ZCRDJBLXItazJmTUVwQ25KVW1Vby1Kb3hzamJzYjBmRXdWalBiazlQdVBLUmVENG8zS0NjdnRnOTBnVlFWYmtOTVFpR202UHF0dXljd1Fob0Q5ZkFvemRPRlJvV1dNTVVwenlvYU1XSmxocmQwUzJNTW9rQ1M2dHZvNV94RkZsUXJZeDFielZkU25aVlVqT1ZhRVY3RVhXWnJTMkQ2ZWRRNTMwdk9qak9SVlotYWUycV9jLWo1NzJDSlE?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-24T18:36:44+00:00",
+   "seen": "2026-11-24T19:21:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Running GTA 6 on PC via Project Victory requires at least an RTX 2080 Ti or RX 6700 XT."
   },
   {
    "id": "gta vi netflix trailer tripled the weekly sales pace while launch week drove nearly three quarters of campaign gmv",
