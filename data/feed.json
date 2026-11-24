@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T18:00:30+00:00",
- "started": "2026-11-24T18:00:23+00:00",
+ "updated": "2026-11-24T18:05:31+00:00",
+ "started": "2026-11-24T18:05:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-24T18:00:23+00:00"
+   "hits": 100,
+   "checked": "2026-11-24T18:05:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-24T18:00:24+00:00"
+   "hits": 60,
+   "checked": "2026-11-24T18:05:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 92,
-   "checked": "2026-11-24T18:00:24+00:00"
+   "hits": 93,
+   "checked": "2026-11-24T18:05:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T18:00:24+00:00"
+   "checked": "2026-11-24T18:05:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T18:00:24+00:00"
+   "checked": "2026-11-24T18:05:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T18:00:25+00:00"
+   "checked": "2026-11-24T18:05:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 17,
-   "checked": "2026-11-24T18:00:25+00:00"
+   "hits": 18,
+   "checked": "2026-11-24T18:05:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T18:00:25+00:00"
+   "checked": "2026-11-24T18:05:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T18:00:25+00:00"
+   "checked": "2026-11-24T18:05:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T18:00:25+00:00"
+   "checked": "2026-11-24T18:05:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T18:00:26+00:00"
+   "checked": "2026-11-24T18:05:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T18:00:26+00:00"
+   "checked": "2026-11-24T18:05:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T18:00:26+00:00"
+   "checked": "2026-11-24T18:05:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T18:00:26+00:00"
+   "checked": "2026-11-24T18:05:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 30 fps cap leaker claim vs rockstar s cpu case",
+   "title": "GTA 6 30 FPS Cap: Leaker Claim vs Rockstar's CPU Case",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHpaY2Vtc2o4VnE4MWpxamw1UGVFTF8wMUxzaHZ6M2xKU2hzaDY1TUxocDFiY0NTcHoyakFRa1Qwcnk1ZHFtMDNtS2pRTHFsNG5adV8wTFJIbzN2bXA1QW1HV25HLVBKaUh6LXVIRlhGSEVQU0FRMXVuUFdEX01JNUljUENkQQ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-24T18:01:24+00:00",
+   "seen": "2026-11-24T18:05:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports a discussion about GTA 6's 30 FPS cap and a comparison between a leaker's claim and Rockstar's CPU case."
+  },
+  {
+   "id": "quote of the day from gta 6 writer we want players to be emotionally in step with jason and lucia",
+   "title": "Quote of the Day from GTA 6 writer: \"We want players to be emotionally in step with Jason and Lucia\"",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-from-gta-6-writer-we-want-players-to-be-emotionally-in-step-with-jason-and-lucia/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T18:00:00+00:00",
+   "seen": "2026-11-24T18:05:27+00:00",
+   "summary": "Rockstar wants you to feel the characters' \"highs and lows\"",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports a quote from GTA 6 writer about wanting players to be emotionally in step with Jason and Lucia, noting the desire for players to feel the characters' highs and lows."
+  },
   {
    "id": "gta 6 launch knocked call of duty s daily players down 42 percent alinea estimates",
    "title": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
@@ -181,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to access the alien storyline in GTA 6."
+  },
+  {
+   "id": "gta vi was entertainment biggest revenue launch ever 11 24 2026",
+   "title": "'GTA VI' Was Entertainment Biggest Revenue Launch Ever 11/24/2026",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd21ndF9rUlFJODllQTNhb2d2aVFUZ2dYbGdzS0QxX1hXdkpSY1ZpYll4YVM4TWt1ajBvMFI1YU84M2RZU1ZaQmpBaDB1VFlNZEg5MHU2eFRtcDRUWlBiam1JcXZhcnRkSGVrelZhRXpqbkJ0aE1BdzhGRVJhd3hzSkhYODYzWGNuLWpBZ0RDanJJTVFPUTdIRDE2NmxqcmVVamQ0bUZLZmhTdw?oc=5",
+   "outlet": "MediaPost",
+   "via": "Google News",
+   "published": "2026-11-24T17:37:43+00:00",
+   "seen": "2026-11-24T18:05:25+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI was the entertainment industry's biggest revenue launch ever as of a specific date."
   },
   {
    "id": "gary plauche who killed son s kidnapper in baton rouge airport appears to make cameo in gta vi",
@@ -662,6 +701,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a mission guide for GTA 6 Ocean Beach, detailing how to reach Room 701 at the Y Hotel."
+  },
+  {
+   "id": "all the drama jensen gta vi and the thanksgiving box office show",
+   "title": "All the Drama: Jensen, GTA VI, and the Thanksgiving Box Office Show",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXQza2lac1hmUUZRTHNBZDBQNWZVVDNzUmhlWEJ3X3VXcWJGMGdLdkQxU21XSmhnQzc3UU54WmMtY2dzRTRneDZpcldxYmNRWE56YmQ3WjRNMGU3LXI3Ym81T1pfbnBTSWtjTUtCSzlMLUhkbWFHQ0pDeW5uQURueE1md0ZZOUxWeVlXWVMyOXgzMFRWSFVXS0dVTGEyZWlIZlE?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-24T16:31:14+00:00",
+   "seen": "2026-11-24T18:05:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on the drama involving Jensen, GTA VI, and the Thanksgiving box office performance."
   },
   {
    "id": "how to get mario and luigi hats in gta 6",
