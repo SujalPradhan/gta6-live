@@ -1,109 +1,161 @@
 {
- "updated": "2026-11-24T19:51:09+00:00",
- "started": "2026-11-24T19:51:01+00:00",
+ "updated": "2026-11-24T19:56:07+00:00",
+ "started": "2026-11-24T19:56:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T19:51:02+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-24T19:56:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-24T19:51:02+00:00"
+   "hits": 63,
+   "checked": "2026-11-24T19:56:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-24T19:51:03+00:00"
+   "hits": 90,
+   "checked": "2026-11-24T19:56:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:51:03+00:00"
+   "checked": "2026-11-24T19:56:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T19:51:03+00:00"
+   "checked": "2026-11-24T19:56:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T19:51:04+00:00"
+   "checked": "2026-11-24T19:56:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T19:51:04+00:00"
+   "checked": "2026-11-24T19:56:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T19:51:04+00:00"
+   "checked": "2026-11-24T19:56:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:51:05+00:00"
+   "checked": "2026-11-24T19:56:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T19:51:05+00:00"
+   "checked": "2026-11-24T19:56:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T19:51:05+00:00"
+   "checked": "2026-11-24T19:56:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T19:51:06+00:00"
+   "checked": "2026-11-24T19:56:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T19:51:06+00:00"
+   "checked": "2026-11-24T19:56:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T19:51:06+00:00"
+   "checked": "2026-11-24T19:56:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "sony will support the witcher 4 s marketing much like gta 6",
+   "title": "Sony Will Support The Witcher 4's Marketing, Much Like GTA 6",
+   "link": "https://www.pushsquare.com/news/2026/11/sony-will-support-the-witcher-4s-marketing-much-like-gta-6",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-24T20:00:00+00:00",
+   "seen": "2026-11-24T19:56:03+00:00",
+   "summary": "CDPR signs collaboration. The Witcher 4 dev CDPR has signed a marketing arrangement with Sony, which will likely see the latter promote the upcoming RPG similarly to GTA 6 . PlayStation pushed Rockstar’s latest release ridiculously hard, claiming it ‘ Plays Best on PS5 ’. Read the full article on pushsquare.com",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Witcher 4's marketing will be supported by Sony in a collaboration similar to GTA 6’s promotion."
+  },
+  {
+   "id": "missed gta 6 s vintage vice city bonus rockstar is now selling the pack separately for 4 99",
+   "title": "Missed GTA 6’s Vintage Vice City bonus? Rockstar is now selling the pack separately for $4.99",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrb3l2dGhEWDFtRXIxdDVtbkM2MTFkRGk1bTAxZTg0dE9FeEZHcl9zYVRDQ21xWlFvcHp3WDRLWG9Ib1B6MVN5bnRuV0dCa2RvMjEzT3V2dVctMjk4aTRVNkRPZTBURUJjdS1BZGJqMnJFMEUzTWQwOVVZX3hmLVk?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-24T19:53:39+00:00",
+   "seen": "2026-11-24T19:56:01+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Rockstar is selling the GTA 6 Vintage Vice City bonus pack separately for $4.99."
+  },
+  {
+   "id": "more than half of gta 6 watch time on streaming platforms came from viewers under 25 years old",
+   "title": "More Than Half of GTA 6 Watch Time on Streaming Platforms Came From Viewers Under 25 Years Old",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTYwRFYxTG1ydlk1dk4xOHJndlY3dTRTQnYtbDlBaTlqMEw4R1dSSGcyWUpKb2pLeUZBVDJldmxEcXpUZmkzYWpzMzhKT1VNU2FwMXdjZ1VEMmVXbTVQRkJsWVB3ZkZzVTgweGpBRkUwcjF1SWE5NlhlNDhvTWFVNWxDTjEzR2FhcURGNWxYMmpEUzNPamdGRXhLcw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T19:51:57+00:00",
+   "seen": "2026-11-24T19:56:01+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "More than half of GTA 6 watch time on streaming platforms came from viewers under 25."
+  },
+  {
+   "id": "gta 6 just resurrected a 70s pop duo s forgotten song sending its streams soaring more than 130 000",
+   "title": "GTA 6 Just Resurrected a 70s Pop Duo's Forgotten Song, Sending Its Streams Soaring More Than 130,000%",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGgtTEt1Sk84UnBaTXpLZDIzc2I3R0E5MTNTTUJLWVpNbEkxRG5CWnhXd09faGhyWllaRDJncFltY0dFZFhIdFJUVEJxZ2hrTXpscFVIOXFnOWhOMjZVNHZfNHFMdThCYkpJWnJRcTBZd25ua3pwQ0JyZm9mSVVDbDZxZlNINHAxMlpKWFN1TUJJazAzcHg5NmFHRnNXbF8tcmRyZFJGTGtDX0FrZmJOZGs1ZGtyUk0zNEtEdV9UVF9qUGxibGZUWGh3?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-24T19:43:28+00:00",
+   "seen": "2026-11-24T19:56:01+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "GTA 6 revived a 70s pop duo's forgotten song, causing its streams to surge dramatically."
+  },
   {
    "id": "top 20 fastest cars in gta 6 all locations how to get them",
    "title": "Top 20 Fastest Cars In GTA 6—All Locations & How To Get Them",
