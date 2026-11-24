@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T06:31:07+00:00",
- "started": "2026-11-24T06:31:00+00:00",
+ "updated": "2026-11-24T06:36:07+00:00",
+ "started": "2026-11-24T06:36:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T06:31:01+00:00"
+   "checked": "2026-11-24T06:36:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T06:31:01+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 72,
+   "checked": "2026-11-24T06:36:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-24T06:31:02+00:00"
+   "checked": "2026-11-24T06:36:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T06:31:02+00:00"
+   "checked": "2026-11-24T06:36:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T06:31:02+00:00"
+   "checked": "2026-11-24T06:36:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T06:31:02+00:00"
+   "checked": "2026-11-24T06:36:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T06:31:03+00:00"
+   "checked": "2026-11-24T06:36:04+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T06:31:03+00:00"
+   "checked": "2026-11-24T06:36:04+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T06:31:03+00:00"
+   "checked": "2026-11-24T06:36:04+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T06:31:03+00:00"
+   "checked": "2026-11-24T06:36:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T06:31:04+00:00"
+   "checked": "2026-11-24T06:36:05+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T06:31:04+00:00"
+   "checked": "2026-11-24T06:36:05+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T06:31:04+00:00"
+   "checked": "2026-11-24T06:36:05+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T06:31:04+00:00"
+   "checked": "2026-11-24T06:36:05+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 backseat pilot walkthrough pilot pete s seven drop seaplane run in the last mile",
+   "title": "GTA 6 Backseat Pilot walkthrough: Pilot Pete’s seven-drop seaplane run in The Last Mile",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHlGT3J2b3UwaXo4eE9jVTZONmo2TmJTWmlySXd2Nld3Si1GblZ3anR3RXEtUkdNT1NQd1hNUnE0b3NsTFVtc2FyUDNtSHNyd0M4U0V5d3RRbzZWOXktMTB1OTd0QTJaQnc1OTk3RFFsNVdqTzVFY284cm91dFBnNFR6SkJWX0hxajJOeHRZV2VKUDctNEowX3VTc3lQYnFzV0Z3TVVJOWo?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T06:31:48+00:00",
+   "seen": "2026-11-24T06:36:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 Backseat Pilot walkthrough featuring Pilot Pete’s seven-drop seaplane run in The Last Mile."
+  },
+  {
+   "id": "i turned my living room into gta 6 s vice city with this tiny camera sitting on top of my tv",
+   "title": "I turned my living room into GTA 6's Vice City with this tiny camera sitting on top of my TV",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQVlwZ2xDYmR4LUpjSWlvX1ZBOGdBcklnekM2T3I5anJNVTF6WWxsRWI2M3VlTzVOMjdaS2NoaEloR3VXY0FpN1VmVXR2SVR1OEJRTk8wOUdwLVlEam8wY3M3cEpZc0pqYjBGdFNrSGNGbm9zMGdfREUtS1pkRVB0b3llc0paVC1TUDBHMjNRYU9fTmE2MElMblh5UTJiV1BydERaXzU5dzkyUWZFcFRfSFphMXlJLXNrY1pSM2ttSmlRanF5aDVVWTd2dlUwUQ?oc=5",
+   "outlet": "Tom's Guide",
+   "via": "Google News",
+   "published": "2026-11-24T06:31:40+00:00",
+   "seen": "2026-11-24T06:36:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports transforming a living room into GTA 6's Vice City with a tiny camera placed on top of a TV."
+  },
+  {
+   "id": "gta 6 becomes biggest launch in playstation history with over 39 million players",
+   "title": "GTA 6 Becomes Biggest Launch in PlayStation History With Over 39 Million Players",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TaEtzSUQ5aG9jUXpoVWpOSms0clFoVC13dTdZUlQzSjJ4R0MwVE1YV043eTN5dkhheGF1UVpZTFFaSlhZSjBHV0xUbXZudk95SGtYQzlSQnBwUlZQMlNNNjVqMUdLLU0yemU0SlVpYXBhamkwWEhTZkh4NNIBgAFBVV95cUxQNEkyaGdtNDdQMkF5ZlNDbW5ITC16Wk5rSVpRWnNKSGZHMVg3dXJQcjg2cHdDTm5XVEh5TUxyelY0eXNBZ29YZnBIR0Q0YXhmend5eEpzaS10YnV4WllpUC1sUVRwREFzQURBVU16YlVhYjgwYk1mRmtaZFFVb3prdw?oc=5",
+   "outlet": "Beebom",
+   "via": "Google News",
+   "published": "2026-11-24T06:27:18+00:00",
+   "seen": "2026-11-24T06:36:03+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 achieving the biggest launch in PlayStation history with over 39 million players."
+  },
+  {
+   "id": "who is nick lacy american twitch streamer slams gta 6 storyline calls it slow and underwhelming",
+   "title": "Who is Nick Lacy? American Twitch streamer slams GTA 6 storyline, calls it 'slow and' 'underwhelming'",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdWhlM29KOXJtajVWenBOYnE3TFF0MmppMHVvM1lVSFZ2dlVhS1k4QnR0WHd2SFhwVG9HczNiSDR1RGNoMDRCYWtCd0RKdERTWldDNmVnRzVhMjdmTVk1bGhrTWNmeGF3OXFqYWg1LXBvenU4b2puMEQ5elF3LU1vNEt0MWdNZUhWNklBenNxQW5BLXZ1T0JuX21oM1ZaaXJ3XzYxREp6QVljbk9zZWdUcTFyaXUyZS1PSjVIQ2tLTnRELVh2WjExU3NkM09NVkhEaTQ5MXFXTmtQb1B4elV3azg1Z041bzQwcExhZDZOeUREaHVG0gH6AUFVX3lxTE5Pc3JJTDNtVmN2WkdGLXBXa05LZlpEaUJhUXZmR1ZjR0ZBSGNmcF8zR1ExTl9SVHlMS2RrNjJzTi1HNjFWcWlTOVplc1YyUHk5dFRFNnE3dktNbmdHNVNNd3JxcDdCY0hQZG5pakRoVHl3VUZKLWVOY3NMQmpCZ2pMY21xRkZob2FrazdmR2tyOHJNbWRDMEZlSWhHd2MzV1hZbW8zOGdhbVo2b3RuSk9wc2poXzFTeV9TWlBvT0xCbm9ST3BKNnJJcF83bmhOZTlMS3BpVzUzaTVjOFdsN1RNYnpRRlRTZHhEM3BXTDc2MDRXOXEwbEFwZ1E?oc=5",
+   "outlet": "The Economic Times",
+   "via": "Google News",
+   "published": "2026-11-24T06:21:55+00:00",
+   "seen": "2026-11-24T06:36:03+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports American Twitch streamer Nick Lacy criticizing GTA 6's storyline as slow and underwhelming."
+  },
   {
    "id": "gta 6 draws more than 39 million players on playstation 5",
    "title": "‘GTA 6’ draws more than 39 million players on PlayStation 5",
