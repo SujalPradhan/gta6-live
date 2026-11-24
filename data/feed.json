@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T11:42:57+00:00",
- "started": "2026-11-24T11:42:52+00:00",
+ "updated": "2026-11-24T11:47:58+00:00",
+ "started": "2026-11-24T11:47:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T11:42:52+00:00"
+   "hits": 99,
+   "checked": "2026-11-24T11:47:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-24T11:42:52+00:00"
+   "hits": 67,
+   "checked": "2026-11-24T11:47:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-24T11:42:53+00:00"
+   "hits": 98,
+   "checked": "2026-11-24T11:47:53+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T11:42:53+00:00"
+   "checked": "2026-11-24T11:47:53+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T11:42:53+00:00"
+   "checked": "2026-11-24T11:47:53+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T11:42:53+00:00"
+   "checked": "2026-11-24T11:47:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T11:42:54+00:00"
+   "checked": "2026-11-24T11:47:54+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 23,
-   "checked": "2026-11-24T11:42:54+00:00"
+   "hits": 22,
+   "checked": "2026-11-24T11:47:55+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T11:42:54+00:00"
+   "checked": "2026-11-24T11:47:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-24T11:42:54+00:00"
+   "hits": 17,
+   "checked": "2026-11-24T11:47:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T11:42:55+00:00"
+   "checked": "2026-11-24T11:47:55+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T11:42:55+00:00"
+   "checked": "2026-11-24T11:47:55+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T11:42:55+00:00"
+   "checked": "2026-11-24T11:47:55+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T11:42:55+00:00"
+   "checked": "2026-11-24T11:47:55+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 players are already starting to get very good at heists despite all the new challenges rockstar has added to the game",
+   "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+   "link": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-24T11:47:40+00:00",
+   "seen": "2026-11-24T11:47:54+00:00",
+   "summary": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists. Despite the challenges in getting away clean, some are proving it's possible. Read more",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Players are already showing strong skill in GTA 6 heists despite the new challenges."
+  },
+  {
+   "id": "gta 6 is a birder s paradise",
+   "title": "‘GTA 6’ Is a Birder’s Paradise",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsb2Z0QVlma1lMOC1jM2M5clFrUXFxX3hYV1RxVjJWWGVzWVRFZmlxZWRXVVpkcXJidEg3akptWnpZeHI1V3VYNm1wZjF3MkRCZFkzQ0hhZzZpMUdSNC1xMnpn?oc=5",
+   "outlet": "WIRED",
+   "via": "Google News",
+   "published": "2026-11-24T11:45:00+00:00",
+   "seen": "2026-11-24T11:47:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is described as a birder’s paradise."
+  },
+  {
+   "id": "gta 6 first impressions mission walkthrough",
+   "title": "GTA 6 First Impressions mission walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-first-impressions-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-24T11:44:24+00:00",
+   "seen": "2026-11-24T11:47:53+00:00",
+   "summary": "How to complete First Impressions in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "First Impressions mission walkthrough explains how to complete the mission in GTA 6."
+  },
   {
    "id": "da davidson reiterates buy on take two stock cites gta vi dominance",
    "title": "DA Davidson reiterates Buy on Take-Two stock, cites GTA VI dominance",
