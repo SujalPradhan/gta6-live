@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-24T07:01:38+00:00",
- "started": "2026-11-24T07:01:18+00:00",
+ "updated": "2026-11-24T07:06:19+00:00",
+ "started": "2026-11-24T07:06:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T07:01:24+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-24T07:06:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T07:01:30+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 62,
+   "checked": "2026-11-24T07:06:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T07:01:37+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-24T07:06:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T07:01:37+00:00"
+   "checked": "2026-11-24T07:06:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T07:01:37+00:00"
+   "checked": "2026-11-24T07:06:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T07:01:37+00:00"
+   "checked": "2026-11-24T07:06:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T07:01:37+00:00"
+   "checked": "2026-11-24T07:06:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T07:01:37+00:00"
+   "checked": "2026-11-24T07:06:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T07:01:37+00:00"
+   "checked": "2026-11-24T07:06:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T07:01:37+00:00"
+   "checked": "2026-11-24T07:06:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T07:01:38+00:00"
+   "checked": "2026-11-24T07:06:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T07:01:38+00:00"
+   "checked": "2026-11-24T07:06:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T07:01:38+00:00"
+   "checked": "2026-11-24T07:06:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T07:01:38+00:00"
+   "checked": "2026-11-24T07:06:17+00:00"
   }
  },
  "items": [
+  {
+   "id": "telegram ceo pavel durov says gta 6 is unrealistic without telegram",
+   "title": "Telegram CEO Pavel Durov Says GTA 6 Is Unrealistic Without Telegram",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTg2SnVlSmFqaE1ldEJFdWVlT1o1QkM0cE5EUmhHSTBzQk01djA1Um1icjV4TmRwOGFZZVc2Y1JkSEJuWEZ2X3R4WU9zWENjSi1vNjhIcnlHU3pHbTFhY2RDQmViaUd3Z3liaEJ3NHloaHZnSmFYNVJwZGNacVhxQWFLdWEtV3FLMl9NNVZzanp5djkz?oc=5",
+   "outlet": "80 Level",
+   "via": "Google News",
+   "published": "2026-11-24T07:03:30+00:00",
+   "seen": "2026-11-24T07:06:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 is unrealistic without Telegram, according to Telegram CEO Pavel Durov."
+  },
+  {
+   "id": "aishah sofey s gta 6 livestream captures shocking nissan gt r theft as viewers react in real time",
+   "title": "Aishah Sofey's GTA 6 livestream captures shocking Nissan GT-R theft as viewers react in real time",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUms5Qm9mbnFXZGlRLVRUeWJJdFZEczA0d2FoTkltR2xadXlWNHg0OUVTd1lxX0JHSUpqT0xKWkgwYnV0MmdiSFpidmJfOUlSZzJwTHB0MDlIc1V2SzF6Z3BYeV80c252c0oyQ1JscWxYTU4yZEQ5ZnVhb1FTNnBZTzVHZklCTWhMZVN4b2RWNVRxWFo2MzJwR1hpaWk0LUdBODUwZERZbjQtZDkxNGtXWS14RkZmNHp0SGlkaTUzMklRWUhCMHpfN3dNZGhkbTVBR3l0NEYtTEl6djR0YXNEa3NzcEY3MkE4aVZKVWxBeDl3SGJOTXlBLVpmeExkRG9DWkUwZFpUZTfSAY4CQVVfeXFMTU1ibzNKaTdYWFVUeC1QX21CeW1TSGNySWNrdG5jZDdrVTRsa2hDSWdsWnR0QTB1Q21HYi16NFRobjdBWkN1RUtKODF5OUk5V2h6aTZHLXFTVGJRVEJYN1VOc2pva1NWMU1jcTE1SF8wYVJyRi1QdktwNUVRdzl0WGh0eFNoQVU1MjQ2RDBnQVB4X0prOGM4T0J5dTNDOHBzNmJTZ0hKQXRFUGZHTnVFM1JJNGVua3pUbWdQMm9HQUpyTE5YNXdWY0h6eTZERnVSNXV1VVM1NTRSUmVlVHU4UWgtSnNGclNKdzUyZm1Xajg5ci15UHQwZ29fNTlQQUw0c3NhdVQzMkp4YlJteWJ3?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-24T06:57:00+00:00",
+   "seen": "2026-11-24T07:06:14+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports Aishah Sofey's GTA 6 livestream showing a Nissan GT-R theft with viewers reacting in real time."
+  },
   {
    "id": "gta 6 prologue guide how lucia s hamlet prison opening plays out",
    "title": "GTA 6 Prologue guide: how Lucia’s Hamlet Prison opening plays out",
