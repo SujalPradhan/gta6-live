@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T05:50:55+00:00",
- "started": "2026-11-24T05:50:48+00:00",
+ "updated": "2026-11-24T05:55:57+00:00",
+ "started": "2026-11-24T05:55:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T05:50:48+00:00"
+   "checked": "2026-11-24T05:55:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-24T05:50:49+00:00"
+   "hits": 61,
+   "checked": "2026-11-24T05:55:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-24T05:50:49+00:00"
+   "checked": "2026-11-24T05:55:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T05:50:50+00:00"
+   "checked": "2026-11-24T05:55:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T05:50:50+00:00"
+   "checked": "2026-11-24T05:55:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T05:50:50+00:00"
+   "checked": "2026-11-24T05:55:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T05:50:50+00:00"
+   "checked": "2026-11-24T05:55:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T05:50:51+00:00"
+   "checked": "2026-11-24T05:55:53+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T05:50:51+00:00"
+   "checked": "2026-11-24T05:55:53+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T05:50:51+00:00"
+   "checked": "2026-11-24T05:55:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T05:50:52+00:00"
+   "checked": "2026-11-24T05:55:54+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T05:50:52+00:00"
+   "checked": "2026-11-24T05:55:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T05:50:52+00:00"
+   "checked": "2026-11-24T05:55:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T05:50:52+00:00"
+   "checked": "2026-11-24T05:55:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 crossed 39 million unique players on ps5 sets new concurrent record",
+   "title": "GTA 6 Crossed 39 Million Unique Players on PS5, Sets New Concurrent Record",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGZTR2htV0YxVEc3ejR0c0NUbGVFcDlLN3VnSzJGREJtMnRtN3NNX2RSa1d1NzdWbkF6eVRSR21QLVpZUFhBMmVoYWh1RUZjZmR2QmZ4TmNUSi1LTFNYZHFZVkVDUGpWM29oZFB3SG1vRkJKMFhvMnZrb1cyekhxVlpYTGUwQXh5LTk0RU1rRndfdGFZVlN1R29OZGE?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-24T05:47:39+00:00",
+   "seen": "2026-11-24T05:55:51+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 has crossed a large number of unique players on PS5 and set a new concurrent play record."
+  },
+  {
+   "id": "call of duty lost millions of players to gta vi fortnite took a hit as well",
+   "title": "Call of Duty lost millions of players to GTA VI. Fortnite took a hit as well",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMl9XU3VhUW5sdFdCWS1QY0E5ZTBIdmhVRURpY01lQVdJSnlBb0pPLVRTbGtSY3Q5UFprRFhJa1oxbXdad1pzd3F3WjB1WFZWd0pRNGJyWFNaeVNyWFNnVnRXZnB2cENYcENLb3c2VkdPR19KTWJqZFJIT19GTE5VZVhVWG5yS3d4cERrR1RoVVY2TjFZWXJwYXUzbXItVmpTMmVadXlCeVhtdVd5NVo0SXVsZng3VnJRc2x5cNIBwgFBVV95cUxPZmZDVi1VNnN1ZjczS1FjaDFyQ2JUdzdMSGd2RnhSRnRqY2VTYk5ubS1YZW5wTWxuclcwaGNaRHVtYS13VTkwQkZFbEZEYjg5dWtqVktYenQ1bGZONnJpenlMZkh3ZU1ydWlMRWRELUl2S0JmQjdxbkwyTW1jYmF0RDdfa0doTldhME0yZnMzTThSckYtZjhjbFRHcHJjb0plU1RmeUhUbEs4Yk56dkJhQmRiVExYa1dKNF9Ea3JrNkxsZw?oc=5",
+   "outlet": "iXBT.games",
+   "via": "Google News",
+   "published": "2026-11-24T05:47:00+00:00",
+   "seen": "2026-11-24T05:55:51+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that Call of Duty lost millions of players to GTA VI, with Fortnite affected as well."
+  },
   {
    "id": "after leonid s closure rockstar games xcl project for gta vi was hit",
    "title": "After Leonid's closure, Rockstar Games' XCL project for GTA VI was hit.",
@@ -480,6 +506,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI question sparks Islam Makhachev's gaming confession reports that a GTA VI question leads to a gaming confession by Islam Makhachev."
+  },
+  {
+   "id": "gta 6 is causing controversy for a baffling reason",
+   "title": "GTA 6 is causing controversy for a baffling reason",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOREYxSHRBQXJrV3BuY3AwaVkyX2lURldidlJuamh5dHc5SVB4dkdvY0NOLWVDa1BMMUlDZ1hGMTFVdzBkbVZiRnNnRGgxT0tDUm5TWkRRdzBwZ3NFWmdnSDJkako3ZUNOUjg4dGJpeFpFUnNyVWRUd2pNcUwwRV9vbFdrazlJZHZiQXhJ?oc=5",
+   "outlet": "Stuff",
+   "via": "Google News",
+   "published": "2026-11-24T02:38:17+00:00",
+   "seen": "2026-11-24T05:55:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is causing controversy for an unclear or baffling reason."
   },
   {
    "id": "gta 6 was the biggest launch in playstation history with over 39 million unique players",
