@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T13:23:40+00:00",
- "started": "2026-11-24T13:23:34+00:00",
+ "updated": "2026-11-24T13:28:35+00:00",
+ "started": "2026-11-24T13:28:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T13:23:35+00:00"
+   "checked": "2026-11-24T13:28:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 65,
-   "checked": "2026-11-24T13:23:35+00:00"
+   "checked": "2026-11-24T13:28:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T13:23:35+00:00"
+   "hits": 98,
+   "checked": "2026-11-24T13:28:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:23:36+00:00"
+   "checked": "2026-11-24T13:28:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:23:36+00:00"
+   "checked": "2026-11-24T13:28:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T13:23:36+00:00"
+   "checked": "2026-11-24T13:28:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T13:23:36+00:00"
+   "checked": "2026-11-24T13:28:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T13:23:37+00:00"
+   "checked": "2026-11-24T13:28:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:23:37+00:00"
+   "checked": "2026-11-24T13:28:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T13:23:37+00:00"
+   "checked": "2026-11-24T13:28:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T13:23:37+00:00"
+   "checked": "2026-11-24T13:28:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T13:23:38+00:00"
+   "checked": "2026-11-24T13:28:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:23:38+00:00"
+   "checked": "2026-11-24T13:28:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T13:23:38+00:00"
+   "checked": "2026-11-24T13:28:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "all gta 6 casinos map locations gambling explained",
+   "title": "All GTA 6 Casinos & Map Locations—Gambling, Explained",
+   "link": "https://insider-gaming.com/gta-6-casino/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-24T13:26:59+00:00",
+   "seen": "2026-11-24T13:28:31+00:00",
+   "summary": "GTA went up a level when it decided to have a fully fledged casino, so let's see if GTA 6 follows suit with a usable casino or two. The post All GTA 6 Casinos & Map Locations—Gambling, Explained appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains GTA 6 gambling, focusing on whether the game will include a usable casino and map locations."
+  },
   {
    "id": "gta 6 playstation 5 pro vs base playstation 5 graphics comparison",
    "title": "GTA 6 - PlayStation 5 Pro Vs Base PlayStation 5 | Graphics Comparison",
@@ -285,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A website exists that lets you track the GTA 6 PC recompilation live."
+  },
+  {
+   "id": "when does gta 6 online come out everything we know",
+   "title": "When Does GTA 6 Online Come Out? Everything We Know",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1REZlBiWVpWZFotODhIckUxQTgzQzgxRGxSU2FlWXZYQ1c0Nl83ZHlURmdhbzhadVlFYXo4dXdmbGx0SmNJUEFGbXhzbnZBQUFZVC1rLWt3TDltZE1xTnZ6aGIxeWU0MnlIVm9HNlRlTTUtN0lvUktibmJ5VzI1RFUtVHNNVGROTjVwbG9CRjI1Y3JuYjNoYnNYS0tvTlpzX0VrejV0eTVoLWpBeHc?oc=5",
+   "outlet": "HuffPost UK",
+   "via": "Google News",
+   "published": "2026-11-24T12:56:17+00:00",
+   "seen": "2026-11-24T13:28:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks when GTA 6 Online will be released and summarizes everything known about it."
   },
   {
    "id": "gta 6 credit check mission walkthrough",
