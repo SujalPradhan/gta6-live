@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T01:49:34+00:00",
- "started": "2026-11-24T01:49:26+00:00",
+ "updated": "2026-11-24T01:54:35+00:00",
+ "started": "2026-11-24T01:54:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T01:49:27+00:00"
+   "checked": "2026-11-24T01:54:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 64,
-   "checked": "2026-11-24T01:49:28+00:00"
+   "checked": "2026-11-24T01:54:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-24T01:49:28+00:00"
+   "hits": 96,
+   "checked": "2026-11-24T01:54:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-24T01:49:28+00:00"
+   "hits": 8,
+   "checked": "2026-11-24T01:54:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T01:49:29+00:00"
+   "checked": "2026-11-24T01:54:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T01:49:29+00:00"
+   "checked": "2026-11-24T01:54:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T01:49:29+00:00"
+   "checked": "2026-11-24T01:54:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T01:49:30+00:00"
+   "checked": "2026-11-24T01:54:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T01:49:30+00:00"
+   "checked": "2026-11-24T01:54:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T01:49:31+00:00"
+   "checked": "2026-11-24T01:54:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T01:49:31+00:00"
+   "checked": "2026-11-24T01:54:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T01:49:31+00:00"
+   "checked": "2026-11-24T01:54:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T01:49:32+00:00"
+   "checked": "2026-11-24T01:54:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T01:49:32+00:00"
+   "checked": "2026-11-24T01:54:32+00:00"
   }
  },
  "items": [
@@ -365,6 +365,32 @@
    "ai_summary": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City."
   },
   {
+   "id": "every track from grand theft auto vi the album ranked now including the deluxe bonus tracks",
+   "title": "Every Track From ‘Grand Theft Auto VI: The Album’ Ranked — Now Including the Deluxe Bonus Tracks",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0dMOEFXTlZ3czBHUlFocmNtMXZaaGVEX0dUa09YTFp0YUF4RHFnb1E4Zm0yX0l2OW1jZE03SVJZY2RaTUJOVkhDa2hQTk9PdWFEZmtUaEwxTGpfVnU0b3JjMURRbXFCWndTbzk2UlFMUURHNzRheWR3T25WZjBoRw?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-24T00:38:52+00:00",
+   "seen": "2026-11-24T01:54:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a ranking of every track from Grand Theft Auto VI: The Album, now including deluxe bonus tracks."
+  },
+  {
+   "id": "here are all of the best clips from the world s first weekend with gta 6",
+   "title": "Here Are All of the Best Clips From the World's First Weekend With GTA 6",
+   "link": "https://www.ign.com/articles/here-are-all-of-the-best-clips-from-the-worlds-first-weekend-with-gta-6",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-24T00:35:56+00:00",
+   "seen": "2026-11-24T01:54:30+00:00",
+   "summary": "GTA 6 is here, and IGN has gathered all of the best (spoiler-free) clips from the world's first weekend with the game.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports all of the best clips from the world's first weekend with GTA 6, compiled by IGN in a spoiler-free collection."
+  },
+  {
    "id": "fox news jesse watters shock over gta 6 graphics goes viral",
    "title": "Fox News’ Jesse Watters’ Shock Over ‘GTA 6’ Graphics Goes Viral",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QZE1WVzNsNlBLX0RIV3ppcnB3NXV0QnJydjQ0bEMtdWFkSHZVelNBMDRhaWZOUHg1dG1VekxsSlpFVXk1RHdfNVh1VURSQQ?oc=5",
@@ -443,6 +469,19 @@
    "ai_summary": "GTA VI radio stations feature every celebrity DJ and host according to the headline."
   },
   {
+   "id": "every gta 6 radio station and the famous voices behind them",
+   "title": "Every ‘GTA 6’ radio station and the famous voices behind them",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2SzVXaVhrXzRVT1FvWFJ6cVQzamhJS3ZhSS1iSUF1RmhxdXcyWFE4c2Nnc1VvV1dsSkF3czM5MU1RQjFzbmtYOTVpUjc1NEpKTFdiXy16RU85SlJiU2dLc2NIRGluS3ZmX2tJelFJS2dSVGxrcUdnWm9HVW92UQ?oc=5",
+   "outlet": "Entertainment Weekly",
+   "via": "Google News",
+   "published": "2026-11-24T00:15:13+00:00",
+   "seen": "2026-11-24T01:54:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports every GTA 6 radio station and the famous voices behind them."
+  },
+  {
    "id": "d angelo s posthumous song kamikazi for gta vi is released",
    "title": "D’Angelo’s posthumous song “Kamikazi” for GTA VI is released",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbE5LS2VGNkdsV0Zxa2RORlVndmZ3eVNHSEFFZTVKbGRlVjc0QjBjZmZvck81UXFnLVg1Q1JyVmY3dk9MUjNCLUFaeG5EN192cy1FNkpBOVRSZ2tkdDF3czJKVlNPSzBCcUJjc2hfUy14a2hUNmpJbk4wbi1BUzBEamRVUUlXZFduVkQ0UkxJZFN3RDA2bW9aMTVpUjlVTjI0ZWc?oc=5",
@@ -519,6 +558,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The headline reports GTA 6 has a hidden Mario and Luigi Easter egg with outfits for Jason and Lucia."
+  },
+  {
+   "id": "cyberpunk 2 director praises gta 6 and dismisses cancellation joke",
+   "title": "Cyberpunk 2 Director Praises GTA 6 and Dismisses Cancellation Joke",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5WVRMSXdQeUdqcThpaXE3djdUSHFYd2tMVzVTdTdHV0hnTUxYeVlmU3pZck9pRVpjLW1PRnRWODVCQ3F4UlFkZ2Rpd2pjOWYyTEZibDgxWEI0T0taS3Y3aEplWldJVXZL?oc=5",
+   "outlet": "cwibc.co.id",
+   "via": "Google News",
+   "published": "2026-11-24T00:04:01+00:00",
+   "seen": "2026-11-24T01:54:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Cyberpunk 2's director praising GTA 6 and dismissing a cancellation joke."
   },
   {
    "id": "grand theft auto vi is asking you to hold multiple thoughts in your head at once about a complex video game release",
