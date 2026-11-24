@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T10:32:39+00:00",
- "started": "2026-11-24T10:32:35+00:00",
+ "updated": "2026-11-24T10:37:41+00:00",
+ "started": "2026-11-24T10:37:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T10:32:35+00:00"
+   "checked": "2026-11-24T10:37:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 69,
-   "checked": "2026-11-24T10:32:36+00:00"
+   "hits": 71,
+   "checked": "2026-11-24T10:37:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-24T10:32:36+00:00"
+   "hits": 74,
+   "checked": "2026-11-24T10:37:36+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T10:32:36+00:00"
+   "checked": "2026-11-24T10:37:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T10:32:36+00:00"
+   "checked": "2026-11-24T10:37:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T10:32:36+00:00"
+   "checked": "2026-11-24T10:37:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:32:36+00:00"
+   "checked": "2026-11-24T10:37:37+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T10:32:37+00:00"
+   "checked": "2026-11-24T10:37:37+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T10:32:37+00:00"
+   "checked": "2026-11-24T10:37:37+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:32:37+00:00"
+   "checked": "2026-11-24T10:37:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T10:32:37+00:00"
+   "checked": "2026-11-24T10:37:38+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T10:32:37+00:00"
+   "checked": "2026-11-24T10:37:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T10:32:37+00:00"
+   "checked": "2026-11-24T10:37:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T10:32:37+00:00"
+   "checked": "2026-11-24T10:37:39+00:00"
   }
  },
  "items": [
+  {
+   "id": "polymarket traders bet 172k on when gta 6 streamers will finish the game",
+   "title": "Polymarket Traders Bet $172K on When GTA 6 Streamers Will Finish the Game",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ09uaXNaNHBlNXJMbWw4dEx6Z0w0V242bGRabXRfdHBRTUJGdEZmcU5MVGFKUGJYMXRlUjNibVotTWpGdS1oc0ROU0RNa0hTcEJrN2ZHNVRWS2pRNzhZc3J6RG5HNTlPWnQ3OEd4UGU5dWdrRmRnOUJKelAwdEczSzhJM2NvdW5KeTZLZ2dyZ1ZuREdQTzFkUjZkdjE4Y1R1dkVFNktPRFg?oc=5",
+   "outlet": "CCN.com",
+   "via": "Google News",
+   "published": "2026-11-24T10:34:40+00:00",
+   "seen": "2026-11-24T10:37:36+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Polymarket traders bet on when GTA 6 streamers will finish the game."
+  },
+  {
+   "id": "cyberpunk 2 creative director jokes that he s cancelling the game after playing gta 6",
+   "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
+   "link": "https://www.videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-24T10:33:52+00:00",
+   "seen": "2026-11-24T10:37:37+00:00",
+   "summary": "Igor Sarzyński says Rockstar's game is \"the single greatest artistic achievement in history\"",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Cyberpunk 2 creative director jokes about cancelling the game after playing GTA 6."
+  },
+  {
+   "id": "gta 6 store robberies which shops can you hold up",
+   "title": "GTA 6 Store Robberies: Which Shops Can You Hold Up?",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QTDRYbzBLR204YktXMVJJdWJjak1yOHp6Tkl6eFdWT2hzckptNkVEcEJfRzZ4elcxTDlUTGJDUjlLZk1qWWpGZkJNY1JMQXYtOHVIRFNiWnJaVm53WlRJeVVOM0tXWkItZnk4SzhPZ0RRT0FMWk5vWA?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T10:31:50+00:00",
+   "seen": "2026-11-24T10:37:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 store robberies: which shops can you hold up."
+  },
+  {
+   "id": "gamer hijacks plane in gta 6 using just mind control and eye tracking xbox controller mapped to read brain signals using eeg maps mental com",
+   "title": "Gamer hijacks plane in GTA 6 using just mind control and eye tracking — Xbox controller mapped to read brain signals using EEG, maps mental commands to an Xbox controller without surgery",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR1EyY1pwTWxsRlFjUDZJNHRpdWdKcWRiYlNIY0x1TE9oZHBaYlZaNXhETmdtRm9YUE9HRFAtdDRJcndNRVpoZFFOY3FJa0pvNHN3SEJxcHdnaTBtOGtjU0FYMGRCazJvYnB1N2R2a3U5Mm1CVWJTbVlidWViV0dBaTFrdzlaQzlQVm8wUmxaNG5NYndLbmw4dnhzNUh5RUVuMzhtRkROZW5vaDNiMGQ3UzdLMFpqY1p4Y19ObDBJRFhHUlB5cHBCd2x6SHp1akQwMlJUWmdRelZtcG5xYzd4VTlDN1R2WXF6cHdNZElPTmVNS1VmdzFyN1h4bDFnZS15emQyaW1jeWsyZlU?oc=5",
+   "outlet": "Tom's Hardware",
+   "via": "Google News",
+   "published": "2026-11-24T10:30:00+00:00",
+   "seen": "2026-11-24T10:37:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gamer hijacks a plane in GTA 6 using mind control and eye tracking with EEG-based inputs to map commands to an Xbox controller."
+  },
+  {
+   "id": "all gta 6 cheats best grand theft auto 6 cheat codes",
+   "title": "All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes",
+   "link": "https://insider-gaming.com/all-gta-6-cheats-best-grand-theft-auto-6-cheat-codes/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-24T10:29:42+00:00",
+   "seen": "2026-11-24T10:37:37+00:00",
+   "summary": "Here's everything you need to know about cheats in Grand Theft Auto 6, including all of their inputs and what they do. The post All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "All GTA 6 cheats and cheat codes explained, including inputs and effects."
+  },
   {
    "id": "ducky bhai in tears after his gta 6 character passes away",
    "title": "Ducky Bhai in tears after his GTA 6 character passes away",
@@ -558,6 +623,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that police departments warn players to keep GTA 6 in the game."
+  },
+  {
+   "id": "keep it in the game why police are warning gta vi players and what the science says",
+   "title": "Keep It in the Game: Why Police Are Warning GTA VI Players, and What the Science Says",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jVlN5N3piWDdRMHktWWRHdnpGQV9RZjlLc09QZjNqZnAwOVVUNFRQQnFzUkNEQm5HQzhTRllJcFNqcElFTkw5TXlsU1dlWF9WY3pZcm5BN1dwdklHNkNtbmpzczNsVkFlU0VBVHVrQVl5Q1hyT1ZhSlE4d0tYU0U?oc=5",
+   "outlet": "MNEEMO",
+   "via": "Google News",
+   "published": "2026-11-24T08:57:51+00:00",
+   "seen": "2026-11-24T10:37:36+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Discussion on why police warn GTA VI players and what science says."
   },
   {
    "id": "gta 6 has an unkillable npc that hunts down players but there might be way to kill him",
