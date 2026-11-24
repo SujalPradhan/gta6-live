@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T11:58:03+00:00",
- "started": "2026-11-24T11:57:56+00:00",
+ "updated": "2026-11-24T12:03:05+00:00",
+ "started": "2026-11-24T12:02:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T11:57:57+00:00"
+   "checked": "2026-11-24T12:02:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-24T11:57:57+00:00"
+   "hits": 69,
+   "checked": "2026-11-24T12:03:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 73,
-   "checked": "2026-11-24T11:57:58+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-24T12:03:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T11:57:58+00:00"
+   "checked": "2026-11-24T12:03:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T11:57:58+00:00"
+   "checked": "2026-11-24T12:03:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T11:57:58+00:00"
+   "checked": "2026-11-24T12:03:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T11:57:59+00:00"
+   "checked": "2026-11-24T12:03:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T11:57:59+00:00"
+   "checked": "2026-11-24T12:03:01+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T11:57:59+00:00"
+   "checked": "2026-11-24T12:03:01+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T11:58:00+00:00"
+   "checked": "2026-11-24T12:03:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T11:58:00+00:00"
+   "checked": "2026-11-24T12:03:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T11:58:00+00:00"
+   "checked": "2026-11-24T12:03:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T11:58:00+00:00"
+   "checked": "2026-11-24T12:03:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T11:58:00+00:00"
+   "checked": "2026-11-24T12:03:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "why is gta 6 getting review bombed",
+   "title": "Why is GTA 6 Getting Review Bombed?",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSEdOaUk4c3kzUGptcFNhWk9BY1BPT0VLNVpnSmdWTUVZQ1BGN09iRUNRbHdQRThwa3FMaVJiOVpsZUtiTXBmb2xiTkxtbmxxRG1iU1hIQWZtU1RzWUZmalFpNXNZZW9qdll4N1JqUDZnQW9OaWx0dDExX0ZQYV85QmpwX2kxZHJXQjFUYWlPV2l1d21zV0NHUGFn?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-24T11:58:59+00:00",
+   "seen": "2026-11-24T12:02:59+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story asks why GTA 6 is getting review bombed, based on IGN Pakistan's headline."
+  },
+  {
+   "id": "all gta 6 first update patch notes",
+   "title": "All GTA 6 first update patch notes",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-patch-notes/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T11:58:25+00:00",
+   "seen": "2026-11-24T12:03:01+00:00",
+   "summary": "Here are the patch notes for GTA 6's first update",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GamesRadar+ reports the patch notes for GTA 6's first update."
+  },
+  {
+   "id": "rockstar has been an awesome partner for the max payne 1 and 2 remakes says remedy ceo",
+   "title": "Rockstar has \"been an awesome partner\" for the Max Payne 1 and 2 remakes, says Remedy CEO",
+   "link": "https://www.gamesradar.com/games/max-payne/rockstar-has-been-an-awesome-partner-for-the-max-payne-1-and-2-remakes-says-remedy-ceo-because-theyre-super-respectful-of-the-alan-wake-studio/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T11:54:16+00:00",
+   "seen": "2026-11-24T12:03:01+00:00",
+   "summary": "The companies are old friends in the industry",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Remedy CEO says Rockstar has been an awesome partner for the Max Payne remakes, noting the companies are old friends in the industry."
+  },
   {
    "id": "rockstar is actively shopping read dead redemption movie and tv rights around just don t expect the same for grand theft auto",
    "title": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
