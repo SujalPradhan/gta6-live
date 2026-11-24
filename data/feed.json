@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T09:22:09+00:00",
- "started": "2026-11-24T09:22:04+00:00",
+ "updated": "2026-11-24T09:27:20+00:00",
+ "started": "2026-11-24T09:27:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T09:22:05+00:00"
+   "checked": "2026-11-24T09:27:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 65,
-   "checked": "2026-11-24T09:22:05+00:00"
+   "hits": 57,
+   "checked": "2026-11-24T09:27:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-24T09:22:05+00:00"
+   "hits": 97,
+   "checked": "2026-11-24T09:27:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:22:06+00:00"
+   "checked": "2026-11-24T09:27:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T09:22:06+00:00"
+   "checked": "2026-11-24T09:27:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-24T09:22:06+00:00"
+   "checked": "2026-11-24T09:27:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:22:06+00:00"
+   "checked": "2026-11-24T09:27:16+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T09:22:06+00:00"
+   "checked": "2026-11-24T09:27:16+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:22:06+00:00"
+   "checked": "2026-11-24T09:27:16+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:22:07+00:00"
+   "checked": "2026-11-24T09:27:17+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T09:22:07+00:00"
+   "checked": "2026-11-24T09:27:17+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T09:22:07+00:00"
+   "checked": "2026-11-24T09:27:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T09:22:07+00:00"
+   "checked": "2026-11-24T09:27:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T09:22:07+00:00"
+   "checked": "2026-11-24T09:27:18+00:00"
   }
  },
  "items": [
+  {
+   "id": "pc players have responded positively to the development of an unofficial gta 6 port",
+   "title": "PC players have responded positively to the development of an unofficial GTA 6 port.",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTFVYTXdwc3R6UnZ1RDZZaGFPWUxOdW52cU9pUncyNnNUdTgySkFoQmVkVzY3X2lacW1XNDlYVUs5Tkd6VGo1akZVUnFCMVZ1NmV6ekdoemJuS1RrT1daQ0UxRGYzMmVRQ2FsZ1kzVDl6WHlOT21XZ2ZVU1V3dFhFQzJqMVBmV1EwZ3pNeU85QjRwOV9CbDBXZUZNNHEwdW84SndFZkxTbFY4SnpO?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-24T09:21:07+00:00",
+   "seen": "2026-11-24T09:27:15+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "PC players have responded positively to the development of an unofficial GTA 6 port."
+  },
+  {
+   "id": "from novels to gta 6 the long history of fears about addictive entertainment",
+   "title": "From novels to GTA 6: the long history of fears about addictive entertainment",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXhQNjZRaVlGTHBDWng3WldBUDdNamZMcHhtb0ZzZzE0ZEZXS255RklzUTlPOURWQmZVRUtsYWJyS1lCcldlZGktUFBiSWdZbmRocEYxRU1nZFdtYkk1b29fd0hkSmNjSkJNSlhzMFdHUHBrajFYZlNwNUJhbXdxZm9uV1pwbFA5ZE9aVUZIUkc0ZU5pR3ZyUlFrSnhYRklEUDdjdlFKRlo3OG94TDl1Wg?oc=5",
+   "outlet": "The Conversation",
+   "via": "Google News",
+   "published": "2026-11-24T09:17:44+00:00",
+   "seen": "2026-11-24T09:27:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "From novels to GTA 6: the long history of fears about addictive entertainment."
+  },
   {
    "id": "gta 6 price in south africa how many hours of minimum wage work it takes to buy the game",
    "title": "GTA 6 price in South Africa: How many hours of minimum wage work it takes to buy the game",
