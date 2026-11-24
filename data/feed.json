@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T11:07:44+00:00",
- "started": "2026-11-24T11:07:38+00:00",
+ "updated": "2026-11-24T11:12:49+00:00",
+ "started": "2026-11-24T11:12:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T11:07:38+00:00"
+   "checked": "2026-11-24T11:12:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 72,
-   "checked": "2026-11-24T11:07:39+00:00"
+   "checked": "2026-11-24T11:12:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T11:07:39+00:00"
+   "hits": 74,
+   "checked": "2026-11-24T11:12:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T11:07:39+00:00"
+   "checked": "2026-11-24T11:12:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T11:07:40+00:00"
+   "checked": "2026-11-24T11:12:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T11:07:40+00:00"
+   "checked": "2026-11-24T11:12:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T11:07:40+00:00"
+   "checked": "2026-11-24T11:12:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T11:07:40+00:00"
+   "checked": "2026-11-24T11:12:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T11:07:40+00:00"
+   "checked": "2026-11-24T11:12:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T11:07:40+00:00"
+   "checked": "2026-11-24T11:12:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T11:07:41+00:00"
+   "checked": "2026-11-24T11:12:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T11:07:41+00:00"
+   "checked": "2026-11-24T11:12:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T11:07:41+00:00"
+   "checked": "2026-11-24T11:12:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T11:07:41+00:00"
+   "checked": "2026-11-24T11:12:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "d angelo s estate releases grand theft auto vi track kamikazi music news com",
+   "title": "D'Angelo's estate releases Grand Theft Auto VI track Kamikazi - Music-News.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa3lIbWdWQVlsNGdia0Z0bS1SQUZmNkNrWG95dERGN1BWTlh3MUQwZGNMa3NYcVI0SS1NSkh2aVBFcmVmUGRfZ3RuMjN4YngxRlMyTXhndFdRM2tKMUY5SFN2YW80MjZQQURZeUVOT1Zuang1RVFHdFlac1Rwa2lrazZUd0hZNnhfY3VMSEJYeXMwOWdiNjVzZUtQS1hzREcza1JydjN3?oc=5",
+   "outlet": "Music-News.com",
+   "via": "Google News",
+   "published": "2026-11-24T11:10:46+00:00",
+   "seen": "2026-11-24T11:12:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that D'Angelo's estate releases a Grand Theft Auto VI track titled Kamikazi."
+  },
   {
    "id": "playstation claims 39 million players for gta vi making it the biggest launch ever for the platform",
    "title": "PlayStation claims 39 million players for GTA VI, making it the biggest launch ever for the platform",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Guidance on where to obtain the Mitsubishi Eclipse in GTA 6."
+  },
+  {
+   "id": "gta vi player banned from playstation network for sharing photo he took in the game",
+   "title": "GTA VI Player Banned From PlayStation Network for Sharing Photo He Took in the Game",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHozRlRwLU1wM01zbkVNeDBpYWJIdTJneVFEa2Z5VHRPUkRZTmxVMWRVTGRPY0JYV3NxMnBsY2haVGt0bU95SGJEVlpaM2FPNDlWRS13MFdNQi1zdVo3bVNueHRrTlNVWkZyLXdJd2tFVUdRQm1MMjAza2E3T3pjanhfT0dzX0JxUXRTU0k5RFMya0FiZUJyOVBGV0dfdmQyX0FsNHlDUHlLTThaNy05bUNDVFFScXY4?oc=5",
+   "outlet": "PetaPixel",
+   "via": "Google News",
+   "published": "2026-11-24T11:04:03+00:00",
+   "seen": "2026-11-24T11:12:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a GTA VI player was banned from PlayStation Network for sharing a photo he took in the game."
   },
   {
    "id": "the blood of dawnwalker and grand theft auto vi lead the ap s list of 2026 top video games",
@@ -495,6 +521,19 @@
    "ai_summary": "Fans spot north Florida landmarks in Grand Theft Auto 6 according to the headline."
   },
   {
+   "id": "rupa biswas sen s 1982 disco hit finds new audience in gta 6",
+   "title": "Rupa Biswas Sen’s 1982 disco hit finds new audience in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnZXaEFJOGdsOHV4aHJiUUdOYnEtZU9CekxjWFltUlY3QWRURTdTZTZ0bzIwdThkZU0wUE92cEdUNU4wdlA5QXhSUEJMamJIdjdiT0JPaTFBdU11Mk9QMkR2QVVBVC04cjViTWJVaEVsRUEwU25NYnZoVGMzQVNKU0JhOHV4SDVOek5zZ2dtRGE3eHBQZlNFS3Bn?oc=5",
+   "outlet": "Daily Times",
+   "via": "Google News",
+   "published": "2026-11-24T10:09:38+00:00",
+   "seen": "2026-11-24T11:12:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Rupa Biswas Sen’s 1982 disco hit finds a new audience in GTA 6."
+  },
+  {
    "id": "more than 39 million people have played gta 6 on playstation alone sony says as the game breaks all time player numbers on the platform",
    "title": "More than 39 million people have played GTA 6 on PlayStation alone, Sony says, as the game breaks all-time player numbers on the platform",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTHNCVHViblJxSW1pOXV6bUl4U2lmb2RUemk2N0FNWmhWNHhISUNIU0l1LXNkeFZjekYzd25MQnpvU3BYM3hZMEM1RGdLckVWWU5sWmNmdGNtS29UUjZranhSSGQ4My1MOGgwQ0xuZ1FzX2NEdGxjQXZidmhxeGxOV0ZEVDd6Y2tQNEFBNTY0NUVxdDAtV0RNcE1RR3EzWXp0RVl0alVSS2FUSzhSVk4xelZvcUl3MlNCdnVaSldOUmlSYTl2SkVJQWNqOFU2dmJyZ1JTU3FNTHRpZ0VMSmF4azM0U00zcXlrdlI1c2hYc3NRUFE?oc=5",
@@ -714,6 +753,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports BMG Music heads to Vice City in Grand Theft Auto VI."
+  },
+  {
+   "id": "gta 6 fully pirated but no pc can boot it for now",
+   "title": "GTA 6 fully pirated, but no PC can boot it (for now)",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oTFUwZzlmR2lYbmN4QzhRQXJvbWZxc0hla1JZVVJGbzREQ2V3MTFNYUc5a1JMOWtGRXlHWDRyWFJMVnl1Z3ZQSGJETlhXUkNmLVdVLWR5eVNxVnpwYXlIdUhtdmZ3WEdJS1ZsN2RnU0p0UGs?oc=5",
+   "outlet": "Korben",
+   "via": "Google News",
+   "published": "2026-11-24T09:27:00+00:00",
+   "seen": "2026-11-24T11:12:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is fully pirated, but no PC can boot it for now."
   },
   {
    "id": "gta 6 how to make money fast",
