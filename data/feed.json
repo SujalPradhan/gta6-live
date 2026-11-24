@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T03:25:06+00:00",
- "started": "2026-11-24T03:25:01+00:00",
+ "updated": "2026-11-24T03:30:17+00:00",
+ "started": "2026-11-24T03:30:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T03:25:01+00:00"
+   "checked": "2026-11-24T03:30:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-24T03:25:02+00:00"
+   "hits": 55,
+   "checked": "2026-11-24T03:30:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-24T03:25:02+00:00"
+   "hits": 96,
+   "checked": "2026-11-24T03:30:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T03:25:02+00:00"
+   "checked": "2026-11-24T03:30:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T03:25:03+00:00"
+   "checked": "2026-11-24T03:30:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T03:25:03+00:00"
+   "checked": "2026-11-24T03:30:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T03:25:03+00:00"
+   "checked": "2026-11-24T03:30:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T03:25:03+00:00"
+   "checked": "2026-11-24T03:30:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T03:25:03+00:00"
+   "checked": "2026-11-24T03:30:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T03:25:03+00:00"
+   "checked": "2026-11-24T03:30:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T03:25:04+00:00"
+   "checked": "2026-11-24T03:30:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T03:25:04+00:00"
+   "checked": "2026-11-24T03:30:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T03:25:04+00:00"
+   "checked": "2026-11-24T03:30:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T03:25:04+00:00"
+   "checked": "2026-11-24T03:30:14+00:00"
   }
  },
  "items": [
@@ -274,6 +274,19 @@
    "ai_summary": "Nick Eh 30 causes chaos in GTA VI streams."
   },
   {
+   "id": "bayo block party grand theft auto vi celebrate haitian culture pride in miami",
+   "title": "BAYO block party, Grand Theft Auto VI celebrate Haitian culture, pride in Miami",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRklfLXViOHR3dTJoSFBXNWo4S3hrRjNWTUgzb0xDUGFUbUFfRW1ERjBiMmJwOERBSXRYRDhQYll6VTN0Wjljb3hyVExkU2hXdjg1OVhTYzNxeU82ODJ4cnRXRERCd1pWQ3oxZFFlaTFnVE1oTS03cV9IS0VLTUZYSkpvZXNLWEFUQkt2d3pjS1FOd9IBkgFBVV95cUxQRklfLXViOHR3dTJoSFBXNWo4S3hrRjNWTUgzb0xDUGFUbUFfRW1ERjBiMmJwOERBSXRYRDhQYll6VTN0Wjljb3hyVExkU2hXdjg1OVhTYzNxeU82ODJ4cnRXRERCd1pWQ3oxZFFlaTFnVE1oTS03cV9IS0VLTUZYSkpvZXNLWEFUQkt2d3pjS1FOdw?oc=5",
+   "outlet": "Miami Herald",
+   "via": "Google News",
+   "published": "2026-11-24T02:00:57+00:00",
+   "seen": "2026-11-24T03:30:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a BAYO block party in GTA VI celebrating Haitian culture and pride in Miami."
+  },
+  {
    "id": "gta 6 is probably the greatest artistic achievement in history says cyberpunk 2 director",
    "title": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
    "link": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
@@ -298,6 +311,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that GTA 6 Standard Edition locks five shops, and the Xbox upgrade costs $20 to unlock them."
+  },
+  {
+   "id": "gta 6 patch 01 002 002 fixes broken autosaves and story calls that never came",
+   "title": "GTA 6 patch 01.002.002 fixes broken autosaves and story calls that never came",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FXzloekJRMzJqVWJPUm92Uld3V3ZHY0RDem04YVg0RzZiODkwR3ZLNVd2LVhjUmp1b3VCX2dQRnZNV1ZfYU52YzJEaVRPS3RVS25oVG5FakdUeTJZSFo3MlVQbll5bTZQY2J6UVlMaVAyZw?oc=5",
+   "outlet": "Make Tech Easier",
+   "via": "Google News",
+   "published": "2026-11-24T01:50:43+00:00",
+   "seen": "2026-11-24T03:30:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 patch fixes broken autosaves and missing story calls."
   },
   {
    "id": "gta vi ps5 ban claim 1 report 0 sony confirmations",
