@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T12:38:21+00:00",
- "started": "2026-11-24T12:38:10+00:00",
+ "updated": "2026-11-24T12:43:21+00:00",
+ "started": "2026-11-24T12:43:13+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T12:38:11+00:00"
+   "checked": "2026-11-24T12:43:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 68,
-   "checked": "2026-11-24T12:38:11+00:00"
+   "checked": "2026-11-24T12:43:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-24T12:38:12+00:00"
+   "hits": 98,
+   "checked": "2026-11-24T12:43:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T12:38:12+00:00"
+   "checked": "2026-11-24T12:43:15+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T12:38:12+00:00"
+   "checked": "2026-11-24T12:43:15+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T12:38:13+00:00"
+   "checked": "2026-11-24T12:43:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T12:38:13+00:00"
+   "checked": "2026-11-24T12:43:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T12:38:13+00:00"
+   "checked": "2026-11-24T12:43:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-24T12:38:13+00:00"
+   "hits": 5,
+   "checked": "2026-11-24T12:43:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T12:38:14+00:00"
+   "checked": "2026-11-24T12:43:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T12:38:14+00:00"
+   "checked": "2026-11-24T12:43:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T12:38:14+00:00"
+   "checked": "2026-11-24T12:43:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T12:38:15+00:00"
+   "checked": "2026-11-24T12:43:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T12:38:15+00:00"
+   "checked": "2026-11-24T12:43:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 radio songs list all stations and tracklists",
+   "title": "GTA 6 Radio Songs List – All Stations and Tracklists",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wY013b05Ga3dDd2s5MWZlVE92RGw5Vm5teDU5WFJ2d096OXNyU2FFUjZlb09pV0I3VWZSVlMwejhGNHJtcTdkRXlxVU1jcVVicWJwbmdRQ00xQ0gwNDZFNkpiNzlNdw?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-24T12:40:43+00:00",
+   "seen": "2026-11-24T12:43:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 radio songs list, covering all stations and tracklists."
+  },
+  {
+   "id": "leaker cyberleek releases the xbox build executable for gta 6",
+   "title": "Leaker Cyberleek Releases The Xbox Build Executable for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVc1ZmdkX0JXSFVTUkZSa3VrSGl3QVFwaWhCVkozU2VMSE90ejBJQUlRUmpMaFlzVjlqdU1LVHJKUVJrcThtNExWR2ltZV93SzdOeVdlSE5jc055MWswT1NucUhSRDViLWFDRmRocVM4N0pZeFkyck5kWXpuNnRscTlKZzZjT2RjU0lhQg?oc=5",
+   "outlet": "80 Level",
+   "via": "Google News",
+   "published": "2026-11-24T12:39:01+00:00",
+   "seen": "2026-11-24T12:43:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a leaker released the Xbox build executable for GTA 6."
+  },
   {
    "id": "best legendary weapon variants in gta 6 all locations walkthrough",
    "title": "Best Legendary Weapon Variants in GTA 6: All Locations Walkthrough",
@@ -1559,6 +1585,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 includes a Super Mario Easter Egg with a block and hats."
+  },
+  {
+   "id": "gta 6 mario easter egg 1 block 2 hats 0 comments",
+   "title": "GTA 6 Mario Easter Egg: 1 Block, 2 Hats, 0 Comments",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc1RzQXNzV1BGSmtVNkZPWmJIMDFpWlBRQXpQSzZiLWFTcWk1T2t1S1Y1X2ctY0dJNlA1djhJY254VnVhWTU1U0NzcEw4a2d5eFFGM2lUYzRoZEdxdmlRTHpzLWxSOTVrNkNUcHlzSzJ3d3gwMDF2SE81RXVydUlIWkdEUHRYdHZnVUp2OHRkcm1aQQ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-24T10:01:21+00:00",
+   "seen": "2026-11-24T12:43:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports a GTA 6 Mario Easter Egg involving one block, two hats, and zero comments."
   },
   {
    "id": "gta vi hits 39 million ps5 players in biggest launch ever sony confirms",
