@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T10:22:31+00:00",
- "started": "2026-11-24T10:22:25+00:00",
+ "updated": "2026-11-24T10:27:32+00:00",
+ "started": "2026-11-24T10:27:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-24T10:22:25+00:00"
+   "hits": 100,
+   "checked": "2026-11-24T10:27:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-24T10:22:25+00:00"
+   "hits": 71,
+   "checked": "2026-11-24T10:27:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-24T10:22:26+00:00"
+   "checked": "2026-11-24T10:27:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T10:22:26+00:00"
+   "checked": "2026-11-24T10:27:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T10:22:26+00:00"
+   "checked": "2026-11-24T10:27:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T10:22:26+00:00"
+   "checked": "2026-11-24T10:27:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:22:27+00:00"
+   "checked": "2026-11-24T10:27:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T10:22:27+00:00"
+   "checked": "2026-11-24T10:27:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-24T10:22:27+00:00"
+   "hits": 6,
+   "checked": "2026-11-24T10:27:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T10:22:27+00:00"
+   "checked": "2026-11-24T10:27:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T10:22:28+00:00"
+   "checked": "2026-11-24T10:27:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T10:22:28+00:00"
+   "checked": "2026-11-24T10:27:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T10:22:28+00:00"
+   "checked": "2026-11-24T10:27:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T10:22:28+00:00"
+   "checked": "2026-11-24T10:27:30+00:00"
   }
  },
  "items": [
@@ -285,6 +285,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "GTA VI players have found an NPC who won't go down and are calling him the Terminator, with a surprisingly big cash reward for taking him out."
+  },
+  {
+   "id": "gta 6 just gave ps5 its biggest single day surge of new consoles since 2020",
+   "title": "GTA 6 just gave PS5 its biggest single-day surge of new consoles since 2020",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT19DVzQ2LW5jSFVZRm0zN3BwV2FYTklRQTRRMnpwN2d2RFQ1R2psNi1JSTl6RzdPazYyeTQxejZvZUNpeXR2cDVsMzROLVRNNnY3ZmViTUI1Y1VYaGNXNGM2enFGb2s2UFdrUnNtZGlHbVdEM3k0T3VWems3QndWYk13c0dTUHdmYTl0ZkxZa01EelVaZ2pDWWcwVlhRcS1KUWlPaDVsYTJacllGRk9tUW9oQ1haYk5xa201bA?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-24T09:51:24+00:00",
+   "seen": "2026-11-24T10:27:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 delivered the biggest single-day surge of new PS5 consoles since 2020."
   },
   {
    "id": "gta 6 s jason actor played two characters in the grey s anatomy universe",
@@ -2510,6 +2523,19 @@
    "ai_summary": "The story reports guidance on where to find the military fighter jet in GTA 6."
   },
   {
+   "id": "rappers latto and flo milli count 50 bands on gta vi s surprise deluxe album",
+   "title": "Rappers Latto and Flo Milli count ‘50 Bands’ on GTA VI’s surprise deluxe album",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FQk5HUEpCYmxGMFRsZjdwQnJLNnJfQlp3eHh4ODlJUk5vZ1NqaDA3VjJVbmJIQU52ZWs2bVRQQ2RhVVU5blA4ZEFYQzdlQ0NncXdpdVNsRC1oWVpfQmhiTjZUaXFxb2NpYlBtMlhQNTVIMGdWQmc?oc=5",
+   "outlet": "Martin Cid Magazine",
+   "via": "Google News",
+   "published": "2026-11-24T00:00:00+00:00",
+   "seen": "2026-11-24T10:27:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports rappers Latto and Flo Milli tallying '50 Bands' on GTA VI’s unexpected deluxe album."
+  },
+  {
    "id": "gta 6 was the biggest launch in playstation history with over 39 million players",
    "title": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVXpGQ1k0NExobkxtTFVxRXJoY3RqeEIzNEZEZ3ZBYUR3eDd0aXhvTWxqX0JMM0tRbnB4NjdCMElqUlMyR3NHOEdYNnNYWlVJdkQ4NDh4TW41WEJLVWxRS2VDbk5obHBja2pnUm4wd0FxSXBmcUJVanhrQ0FUbTVWcmtrZ3RPZVJMVHBlQ2duYkZaTTNlQlh2Yml0YWJkLXNSWjJkNGh5NHBwZ085TjJjR0JodzhPOUhFM3ZCVXRERQ?oc=5",
@@ -3665,6 +3691,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 unexpectedly releases more songs from Travis Scott, Slayyyter, and major rock acts."
+  },
+  {
+   "id": "dealer s choice mission choices and outcomes in gta 6",
+   "title": "'Dealer's Choice' mission choices and outcomes in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84SEt5VlFDS1lsTjZBSnJhQ0kxajRPWTVYWDJwc1d5NGJjazI5RkJNVTNGdHZqSW1ZT1QzQTEtSVk4anpxRHgxRDZlNUtQY0lzSWtxbEdESzVrZHJBNVdJRS16TS05YTdEdXdtOV9jZXdSdw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-23T20:57:33+00:00",
+   "seen": "2026-11-24T10:27:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on mission choices and outcomes in GTA 6's 'Dealer's Choice'."
   },
   {
    "id": "new gta 6 sales report claims the game is rapidly nearing 50 million copies sold",
