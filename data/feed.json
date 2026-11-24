@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T18:05:31+00:00",
- "started": "2026-11-24T18:05:25+00:00",
+ "updated": "2026-11-24T18:10:33+00:00",
+ "started": "2026-11-24T18:10:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-24T18:05:25+00:00"
+   "hits": 99,
+   "checked": "2026-11-24T18:10:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-24T18:05:26+00:00"
+   "checked": "2026-11-24T18:10:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 93,
-   "checked": "2026-11-24T18:05:26+00:00"
+   "checked": "2026-11-24T18:10:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T18:05:26+00:00"
+   "checked": "2026-11-24T18:10:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T18:05:27+00:00"
+   "checked": "2026-11-24T18:10:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T18:05:27+00:00"
+   "checked": "2026-11-24T18:10:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T18:05:27+00:00"
+   "checked": "2026-11-24T18:10:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T18:05:27+00:00"
+   "checked": "2026-11-24T18:10:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T18:05:27+00:00"
+   "checked": "2026-11-24T18:10:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T18:05:28+00:00"
+   "checked": "2026-11-24T18:10:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T18:05:28+00:00"
+   "checked": "2026-11-24T18:10:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T18:05:28+00:00"
+   "checked": "2026-11-24T18:10:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T18:05:28+00:00"
+   "checked": "2026-11-24T18:10:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T18:05:28+00:00"
+   "checked": "2026-11-24T18:10:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "chatting with people in gta online about why they re not playing gta 6 80 is too much for me bro",
+   "title": "Chatting With People In GTA Online About Why They’re Not Playing GTA 6: “$80 Is Too Much For Me, Bro”",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2JlaDljLU5JbnRSemJNUHJTV2FFRHZqT2hseXNDanpmbDN0VTZHZUdoRVo2UFBMQjRzSURocXROSVhLSF9CRDh3Wlo4RU9zNVpOZnBFR19jNGx5LTRjMlJ1c3VjQjJncF9vc29xYXkwQ204b01FREpoczFFOUJqUDR6ZGhXWEZnNnFNSFFCUFk1TmVfZVJmakctWktjeWxvalVwbkpFZklFd1dmTS1nbTJkdlRVVXJ3Z0dsRlR1LWVOT2c?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-24T18:03:21+00:00",
+   "seen": "2026-11-24T18:10:25+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA Online players discuss why they’re not buying GTA 6, with $80 cited as too much."
+  },
   {
    "id": "gta 6 30 fps cap leaker claim vs rockstar s cpu case",
    "title": "GTA 6 30 FPS Cap: Leaker Claim vs Rockstar's CPU Case",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports a discussion about GTA 6's 30 FPS cap and a comparison between a leaker's claim and Rockstar's CPU case."
+  },
+  {
+   "id": "gta 6 has recaptured the beautifully borked energy of skyrim",
+   "title": "GTA 6 Has Recaptured the Beautifully Borked Energy of Skyrim",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QQ0ZOT0RCdWtCc2JYVjdnZ3ZLQ3drcGlKTXhGbERmWll1OEp3ekxDNW1CeHRHM1E5VlQtRmxmRlZsWTQzQkpBMnQyaFo5anAwbkphR1dMVQ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T18:00:18+00:00",
+   "seen": "2026-11-24T18:10:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is described as recapturing Skyrim’s famously quirky energy."
   },
   {
    "id": "quote of the day from gta 6 writer we want players to be emotionally in step with jason and lucia",
@@ -131,6 +157,32 @@
    "ai_summary": "The story reports a quote from GTA 6 writer about wanting players to be emotionally in step with Jason and Lucia, noting the desire for players to feel the characters' highs and lows."
   },
   {
+   "id": "we aim to keep the players immersed in the world as much as possible gta 6 dev explains how rockstar improved the ui and hud to feel fresh c",
+   "title": "‘We aim to keep the players immersed in the world as much as possible’ — GTA 6 dev explains how Rockstar improved the UI and HUD ‘to feel fresh, contemporary, and relevant for a new generation’ while ‘retaining the heritage that makes it unmistakably GT",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQeDFRcjY3MTJMWEh1UDU0N0haSGlLWHNZMlBTRi1PYjZWWHZualV1dWtGME54Xy1sSlpLekhWcUgxeWM4bjN4dkx0R0dxX1lIWFo1aFcyR21FNEs3QjNrd3VXZE1WR2QtbkpuSGVIb2F5dlNEcFRqbWhCb2tDaHZralNyeDBWclFxNG1LUnRfRXY2X3hwWW5JelFtVVNSMnFXRlNPSy1UbDlnc3VldWdRemNoYlZrS1A1eFBnWjljYWZ5aEZENDFVZ201TG13RkZyLVlvTGdXUXV4SGtnUG9YYllkdmt4VkhaZ2haOU5VYktxV1FPcWFWOWRQbS0wRjRrRnR0b3A0WHJYQ01rUEdZSVFpSU5XdS16SWFUSEdhMUtxR2tWWmJYZnhHOFZ5TFJkNmJnSHdaSU9nWUZtSEJUZDZXaGZIRThCeXIwT3lZZ0xJd0VGTWlVajBhaXBvYW9GeThRRHdyRQ?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-24T18:00:00+00:00",
+   "seen": "2026-11-24T18:10:25+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "GTA 6 UI and HUD were developed to feel fresh and relevant while retaining recognizable GTA heritage."
+  },
+  {
+   "id": "gta 6 performs better on xbox series x than base ps5 despite all of sony s marketing",
+   "title": "GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-24T18:00:00+00:00",
+   "seen": "2026-11-24T18:10:28+00:00",
+   "summary": "Digital Foundry discovers. Even though Sony has paid god-only-knows how much money to market GTA 6 as a borderline PS5 exclusive, it turns out that Rockstar's magnum opus actually runs better on Xbox. This is according to those tech wizards over at Digital Foundry , who have spent hours comparing the open world title across base PS5, PS5 Pro, Xbox Series X, and Xbox Series S. Read the full article",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Digital Foundry reports GTA 6 performs better on Xbox Series X than base PS5, despite Sony’s marketing."
+  },
+  {
    "id": "gta 6 launch knocked call of duty s daily players down 42 percent alinea estimates",
    "title": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
    "link": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
@@ -142,6 +194,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "GTA 6's launch reduced Call of Duty's daily players by the amount estimated by Alinea Analytics, and four days later the numbers have not recovered."
+  },
+  {
+   "id": "that philosophy has not changed for us because of gta 6 cd projekt red are staying the course on the witcher 4 and cyberpunk 2 after rocksta",
+   "title": "\"That philosophy has not changed for us because of GTA 6\": CD Projekt Red are staying the course on The Witcher 4 and Cyberpunk 2 after Rockstar's smash success",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZEVKd2otNUZGRWx2eGxrMm5oOFgySnNDTmxHRHNHTTJLMGwwdHh0dUltSVRjN0FwLWZXajk2S1hHUDVGbFJiMkhXV3pnVHVWVkMyb3NSdDV5UVVwUVNTdXVnRENYUU5uVEU0ODhFMWlBaVVja1FUdmlNOGk5czdJWFFReXBtWDBiQWFldnZ5bVZZcXRTZEU2c1BMdDJ5OFBlblBBU3ExV0lEUktlMjgzOGw5TmYxcWVvRVpsY0pVLWYyZThGQmxyS1I2Wi1sUGhfd042RDVrdnc3MS1VeEN0eE44Z0UxTV9oc1Z4M1ZoSEFJV2ZjSEFEOHkxUWhxXzIzUmMxck0xeVlWejVSa3JiVTVUdkNQTGVh?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-24T17:54:50+00:00",
+   "seen": "2026-11-24T18:10:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "CD Projekt Red remains on The Witcher 4 and Cyberpunk 2, saying their stance hasn’t changed after GTA 6’s success."
   },
   {
    "id": "highland man faces charges after gta vi threats at walmart",
@@ -181,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Lana Del Rey and Louisiana alligator tour guide husband are featured in GTA VI per the headline."
+  },
+  {
+   "id": "strip club chain recreates gta 6 lap dances with choreographer",
+   "title": "Strip Club Chain Recreates GTA 6 Lap Dances With Choreographer",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczlTUm1sdEtvdm54RzVESEJ0TXRScV9IVU11Y0EwdXppdUFObk5RZEd5YjNGdy04MHRZajdhMVVuMXRYSzJaY2pfRWlGWjdLTmVCdjV0OHpjamdsWXBZZXBnM2NmMzl0c2dHTWJVeUw0Q01OWTBBNVd4elhRTExpLVZ1czFLNkRWeXZUZlloZ0lINXJGRmpWcnY3eTZhd1pMckJyRlNwX2F6aDZES2RnV0RyaEwteFl5WmpZZTA3NE1RZ3hGRk93?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T17:46:37+00:00",
+   "seen": "2026-11-24T18:10:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Strip club chain recreates GTA 6 lap dances with a choreographer."
   },
   {
    "id": "gta 6 players spam zelda with bad reviews over false blame",
@@ -246,6 +324,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a blockbuster GTA VI raising the benchmark for CD Projekt RED’s upcoming games."
+  },
+  {
+   "id": "grand theft auto vi the album is a microcosm of the monoculture",
+   "title": "'Grand Theft Auto VI: The Album' Is a Microcosm of the Monoculture",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONjMtbEwzUmExVHl0YTJuSS1VMU1XOU4wVmIyTG55bC1ZdVlxV1l1dnNNbk1pcnduU015ZHZOcXltcFNHR1ZnM25WNnpwX3RhcFVfLWU1LXpNQ3VOYlhkU1JlTHRTMU50NEpDZnFFV2FkMnl1X3dYaEl6SVFPZFQycA?oc=5",
+   "outlet": "Exclaim!",
+   "via": "Google News",
+   "published": "2026-11-24T17:35:22+00:00",
+   "seen": "2026-11-24T18:10:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI: The Album is described as a microcosm of monoculture."
   },
   {
    "id": "gta vi players log 78 000 years on playstation in four days sony",
@@ -350,6 +441,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that modders have launched GTA 6 on PC at around four frames per second."
+  },
+  {
+   "id": "doja cat wanted her music on gta vi tells rockstar you broke my heart",
+   "title": "Doja Cat Wanted Her Music on ‘GTA VI,' Tells Rockstar 'You Broke My Heart'",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORFAzQ20xVk4xMG80bmtIbTdCcjdtNm9YRG5sZmM5NzZMdHVPaE5FZHcxcThYdm5ESlNoeUZFNzdhemRfeFFXV0JCUy1JenVJUWlIUkJueFh6anA5a0dkMjFnRElNR0FUYm9FbGlUR256c3VZeUNFWXBGdDlNejNjX1d3dW1FbHNiaWp0RGFuMjVIYU44YVE?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-24T17:27:29+00:00",
+   "seen": "2026-11-24T18:10:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Doja Cat wanted her music in GTA VI and says Rockstar broke her heart."
   },
   {
    "id": "all peewees billboards locations in gta 6 reward",
