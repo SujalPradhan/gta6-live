@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T17:50:27+00:00",
- "started": "2026-11-24T17:50:20+00:00",
+ "updated": "2026-11-24T17:55:33+00:00",
+ "started": "2026-11-24T17:55:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T17:50:20+00:00"
+   "checked": "2026-11-24T17:55:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-24T17:50:21+00:00"
+   "hits": 59,
+   "checked": "2026-11-24T17:55:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T17:50:21+00:00"
+   "hits": 93,
+   "checked": "2026-11-24T17:55:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T17:50:21+00:00"
+   "checked": "2026-11-24T17:55:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T17:50:22+00:00"
+   "checked": "2026-11-24T17:55:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T17:50:22+00:00"
+   "checked": "2026-11-24T17:55:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-24T17:50:22+00:00"
+   "hits": 17,
+   "checked": "2026-11-24T17:55:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T17:50:22+00:00"
+   "checked": "2026-11-24T17:55:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T17:50:23+00:00"
+   "checked": "2026-11-24T17:55:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T17:50:23+00:00"
+   "checked": "2026-11-24T17:55:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T17:50:24+00:00"
+   "checked": "2026-11-24T17:55:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T17:50:24+00:00"
+   "checked": "2026-11-24T17:55:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T17:50:24+00:00"
+   "checked": "2026-11-24T17:55:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T17:50:24+00:00"
+   "checked": "2026-11-24T17:55:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "highland man faces charges after gta vi threats at walmart",
+   "title": "Highland man faces charges after GTA VI threats at Walmart",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkZBRHpuTkROZWloZ25yLWZyOUN6TlpibW1uUmJReFJtdEo3enNsZFltenNSd2REYWxRMC1SdTFmcnAxVWIwM1NiOTA0QWFRdUkxdGQ4MExwOUYtM04wWjJNa21UcG1Va0s0YU4tWko1bTZmQnNJamtQNFJQUnVvUm1PRXl6LXhNejI5aUU4dGJ3RTlVOHVSTmo0QU9pMU0?oc=5",
+   "outlet": "Alton Telegraph",
+   "via": "Google News",
+   "published": "2026-11-24T17:50:34+00:00",
+   "seen": "2026-11-24T17:55:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A Highland man faces charges after threats at Walmart mentioned in the headline."
+  },
+  {
+   "id": "new gta vi release puts teen sleep to the test during school break",
+   "title": "New GTA VI Release Puts Teen Sleep to the Test During School Break",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUlvdXdLczBodmhicnluVVV0V25SNlpydExfUXBIWVBOLWIzWGExcFFJSDZxQ1hPRHNQcmFYM1pxaHRYODZpc24wLWdFOENuaThQY005cFhsSk1ESC1pbTFhMExqWXFWMnBWWjd6V2dtV05NYUVrQi1pRWVtMHRVV08xSWhTUjdLYlV0RXA5QU5ETHNGWW5rQkdVdTRPMy1MNzJj?oc=5",
+   "outlet": "Jacksonville Free Press",
+   "via": "Google News",
+   "published": "2026-11-24T17:50:12+00:00",
+   "seen": "2026-11-24T17:55:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "A New GTA VI release is said to put teen sleep to the test during school break according to the headline."
+  },
+  {
+   "id": "lana del rey and louisiana alligator tour guide husband featured in gta vi",
+   "title": "Lana Del Rey and Louisiana alligator tour guide husband featured in GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOHVqdld6N0ZMV3h2WkVGZ01DOFBpS1ZUVUVqUi11bExGQzNfVl85WXh4TDgtY3dzN2FoT1lDV1FlWDI3Y3ZubEpmZEJwMmd1RUlsMEZRVzhPTFRiSnI0b3M0VVh5NlRIZE1lYlA5c2dyazd4S2pKY21iUER3TnlHa1laNndLWEpfVTJZenNsb3RSLWxGU3BIOGRsX3lHOXU2N3fSAbYBQVVfeXFMT1RKT3lQVUFjUkQtcGZjY2NqbHVMWWRjQ1ZKVVdidGFmem1FY05uMXRESGZVWG03bHRtVWNIQzk3ZVE5MnE0UkZqaUc1VFNvN2xLMTRWQnotNmJ3LU8tdkVlSjlrd21wVEh5N29HMGNnYkdobGpjTHQ0RG9iWHpzQkdNVTZtUzZ3aVVkV0E5UFNqODZTX205YVFLLXZiTWlNWVRNZDJxMnExRmJlVzVJOE5hVkZFNlE?oc=5",
+   "outlet": "WAFB",
+   "via": "Google News",
+   "published": "2026-11-24T17:49:00+00:00",
+   "seen": "2026-11-24T17:55:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Lana Del Rey and Louisiana alligator tour guide husband are featured in GTA VI per the headline."
+  },
   {
    "id": "gta 6 players spam zelda with bad reviews over false blame",
    "title": "GTA 6 Players Spam Zelda With Bad Reviews Over False Blame",
