@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T23:07:17+00:00",
- "started": "2026-11-24T23:07:10+00:00",
+ "updated": "2026-11-24T23:12:18+00:00",
+ "started": "2026-11-24T23:12:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T23:07:11+00:00"
+   "hits": 97,
+   "checked": "2026-11-24T23:12:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 79,
-   "checked": "2026-11-24T23:07:11+00:00"
+   "hits": 67,
+   "checked": "2026-11-24T23:12:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 61,
-   "checked": "2026-11-24T23:07:11+00:00"
+   "checked": "2026-11-24T23:12:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T23:07:12+00:00"
+   "checked": "2026-11-24T23:12:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T23:07:12+00:00"
+   "checked": "2026-11-24T23:12:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T23:07:12+00:00"
+   "checked": "2026-11-24T23:12:13+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T23:07:13+00:00"
+   "checked": "2026-11-24T23:12:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T23:07:13+00:00"
+   "checked": "2026-11-24T23:12:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T23:07:13+00:00"
+   "checked": "2026-11-24T23:12:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-24T23:07:14+00:00"
+   "checked": "2026-11-24T23:12:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T23:07:14+00:00"
+   "checked": "2026-11-24T23:12:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T23:07:14+00:00"
+   "checked": "2026-11-24T23:12:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T23:07:14+00:00"
+   "checked": "2026-11-24T23:12:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T23:07:15+00:00"
+   "checked": "2026-11-24T23:12:15+00:00"
   }
  },
  "items": [
@@ -142,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Grand Theft Auto VI centers on a couple trying to succeed at crime."
+  },
+  {
+   "id": "gta 6 mandy location explained how to find her house and see her again",
+   "title": "GTA 6 Mandy Location Explained: How To Find Her House And See Her Again",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14TEhsN3JiYzAtbHNmLVBTR0FKaTF4YVdUMDZNLWhCdEp0MUVFVEhvbzlhY1RxMGYtVWpRMmdrLWVJbFJXbmJWX2JKWTdITm5wQ2VWcngtYUJPbWN1d1ZGTTd3WnRUODQ5NkRwVzlsQ2MyY2s?oc=5",
+   "outlet": "SVG",
+   "via": "Google News",
+   "published": "2026-11-24T23:00:00+00:00",
+   "seen": "2026-11-24T23:12:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to find Mandy's house and see her again in GTA 6, according to SVG."
   },
   {
    "id": "rockstar games kills unauthorized gta 6 pc port for obvious reasons",
