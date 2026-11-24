@@ -1,109 +1,148 @@
 {
- "updated": "2026-11-24T07:21:21+00:00",
- "started": "2026-11-24T07:21:17+00:00",
+ "updated": "2026-11-24T07:26:24+00:00",
+ "started": "2026-11-24T07:26:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T07:21:17+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-24T07:26:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 67,
-   "checked": "2026-11-24T07:21:17+00:00"
+   "checked": "2026-11-24T07:26:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 97,
-   "checked": "2026-11-24T07:21:18+00:00"
+   "hits": 77,
+   "checked": "2026-11-24T07:26:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T07:21:18+00:00"
+   "checked": "2026-11-24T07:26:20+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T07:21:18+00:00"
+   "checked": "2026-11-24T07:26:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T07:21:18+00:00"
+   "checked": "2026-11-24T07:26:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T07:21:19+00:00"
+   "checked": "2026-11-24T07:26:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T07:21:19+00:00"
+   "checked": "2026-11-24T07:26:21+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T07:21:19+00:00"
+   "checked": "2026-11-24T07:26:21+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T07:21:19+00:00"
+   "checked": "2026-11-24T07:26:22+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T07:21:19+00:00"
+   "checked": "2026-11-24T07:26:22+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T07:21:20+00:00"
+   "checked": "2026-11-24T07:26:22+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T07:21:20+00:00"
+   "checked": "2026-11-24T07:26:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T07:21:20+00:00"
+   "checked": "2026-11-24T07:26:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 players have already spent almost 80 000 years in leonida on ps5 alone",
+   "title": "GTA 6 Players Have Already Spent Almost 80,000 Years In Leonida On PS5 Alone",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTNmejlEaS1uRHNxd2dPSGZaR0hraEwwNUMtcDdhX3ZDVG55RjBMcTdCX1oxcmEyZjNmZnNheTdGM2VoMjNsc0JwTTZNeWotRGwtaUZTUXNVeDV2eFZxTFRXQzg1dEljbW9HSU1Ia0tHWjVULVdySFNGRFNxdjFlOHVfQ25aT01nTmc5aUF4SWdRU0J5b2R4Nzg2QnFGYXpGODFyVGpKYUFxalNTellR?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-24T07:25:39+00:00",
+   "seen": "2026-11-24T07:26:19+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 players have spent a large amount of time in Leonida on PS5, according to OpenCritic."
+  },
+  {
+   "id": "gta vi becomes the biggest launch in playstation history with 39 million players",
+   "title": "GTA VI Becomes the Biggest Launch in PlayStation History With 39 Million Players",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EYXoxZ2JOb1lMRTlkNUdmbTkyUnh0ZGFRcVVUM194UFo1OWQ1UGxwcENtcDRnQ3Bmd0tkZlNpdEZwbTFsMVhrT01YRGVjN1RQci1kcWE2b2NFbnNpMUxyeTR0NTJnMm8?oc=5",
+   "outlet": "Techgenyz",
+   "via": "Google News",
+   "published": "2026-11-24T07:23:07+00:00",
+   "seen": "2026-11-24T07:26:19+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "GTA VI has launched as the biggest in PlayStation history with 39 million players, per Techgenyz."
+  },
+  {
+   "id": "gta 6 players face psn ban after sending nude screenshots from the game here s the punishment",
+   "title": "'GTA 6' Players Face PSN Ban After Sending Nude Screenshots From the Game—Here's the Punishment",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdURRdUZUSG1lMU05ZFN5LVp1Z0lZc2MyOW1DbnBKTmprSEtSa2dqRThqNXpIcEpBMTBfMHMtV0pHc1F4cGt5Y3VVLWRVQUE4LV9oUUlFd3VRN2dHWDd0UnlDanEwcmdUVTJGV3d2SzB4bFFBVjhnOXR6U09GR1hubE5DQm9pY2JFTGxZM1QtcEU1Z2hNdGxqTE9KcFBVZ2d3aGt2WFVBTnBKXzFSemc?oc=5",
+   "outlet": "Player.One",
+   "via": "Google News",
+   "published": "2026-11-24T07:15:48+00:00",
+   "seen": "2026-11-24T07:26:19+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "GTA 6 players face PSN bans after sending nude screenshots, with consequences described by Player.One."
+  },
   {
    "id": "the incredible records gta 6 has already set on ps5",
    "title": "The Incredible Records GTA 6 Has Already Set On PS5",
