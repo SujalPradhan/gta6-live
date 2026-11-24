@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T09:17:16+00:00",
- "started": "2026-11-24T09:17:11+00:00",
+ "updated": "2026-11-24T09:22:09+00:00",
+ "started": "2026-11-24T09:22:04+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T09:17:12+00:00"
+   "checked": "2026-11-24T09:22:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-24T09:17:12+00:00"
+   "hits": 65,
+   "checked": "2026-11-24T09:22:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 78,
-   "checked": "2026-11-24T09:17:12+00:00"
+   "hits": 76,
+   "checked": "2026-11-24T09:22:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:17:12+00:00"
+   "checked": "2026-11-24T09:22:06+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T09:17:12+00:00"
+   "checked": "2026-11-24T09:22:06+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-24T09:17:12+00:00"
+   "checked": "2026-11-24T09:22:06+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:17:13+00:00"
+   "checked": "2026-11-24T09:22:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T09:17:13+00:00"
+   "checked": "2026-11-24T09:22:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:17:13+00:00"
+   "checked": "2026-11-24T09:22:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:17:13+00:00"
+   "checked": "2026-11-24T09:22:07+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T09:17:13+00:00"
+   "checked": "2026-11-24T09:22:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T09:17:13+00:00"
+   "checked": "2026-11-24T09:22:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T09:17:13+00:00"
+   "checked": "2026-11-24T09:22:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T09:17:13+00:00"
+   "checked": "2026-11-24T09:22:07+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 price in south africa how many hours of minimum wage work it takes to buy the game",
+   "title": "GTA 6 price in South Africa: How many hours of minimum wage work it takes to buy the game",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGUyWE1lSVlFX2RTd2NzRmNJNUR2bk9HbmxOUkZhNkxBYTVkcjlMTDJ2X3UxYVhNOXNGUE1QRHdHTHhjSTdoUS1Gc3dSbFZ4RjFrYVFRb01UazczQXctRFVmVzVKemt3d2pIZ3lLZmJqcWtxbDk5WEI5M1FDbDdpbWViWjNlTGpvZHJVZ21UUFdDV0VhNVgwVHFrMXBiQllZejhucGtyejJFUV8xbzRLakxZTVctVG0yalJxUlRjMGJhM002VmxEOA?oc=5",
+   "outlet": "IOL",
+   "via": "Google News",
+   "published": "2026-11-24T09:14:11+00:00",
+   "seen": "2026-11-24T09:22:05+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the price of GTA 6 in South Africa based on the amount of minimum wage work required to buy the game."
+  },
   {
    "id": "gta 6 bumper to bumper walkthrough yago s nitrous build race and police escape",
    "title": "GTA 6 Bumper to Bumper walkthrough: Yago’s nitrous build, race and police escape",
