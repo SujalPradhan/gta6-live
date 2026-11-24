@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T12:18:17+00:00",
- "started": "2026-11-24T12:18:11+00:00",
+ "updated": "2026-11-24T12:23:12+00:00",
+ "started": "2026-11-24T12:23:05+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T12:18:11+00:00"
+   "checked": "2026-11-24T12:23:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T12:18:12+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 69,
+   "checked": "2026-11-24T12:23:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T12:18:12+00:00"
+   "hits": 71,
+   "checked": "2026-11-24T12:23:06+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T12:18:13+00:00"
+   "checked": "2026-11-24T12:23:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T12:18:13+00:00"
+   "checked": "2026-11-24T12:23:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T12:18:13+00:00"
+   "checked": "2026-11-24T12:23:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T12:18:13+00:00"
+   "checked": "2026-11-24T12:23:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T12:18:13+00:00"
+   "checked": "2026-11-24T12:23:08+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T12:18:13+00:00"
+   "checked": "2026-11-24T12:23:08+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T12:18:14+00:00"
+   "checked": "2026-11-24T12:23:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T12:18:14+00:00"
+   "checked": "2026-11-24T12:23:09+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T12:18:14+00:00"
+   "checked": "2026-11-24T12:23:09+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T12:18:14+00:00"
+   "checked": "2026-11-24T12:23:09+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T12:18:14+00:00"
+   "checked": "2026-11-24T12:23:09+00:00"
   }
  },
  "items": [
+  {
+   "id": "like watching the mona lisa getting painted unofficial gta 6 pc port makes rapid progress as game is now bootable albeit in a rough state vi",
+   "title": "'Like watching the Mona Lisa getting painted': Unofficial GTA 6 PC port makes rapid progress as game is now bootable — albeit in a rough state visually",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWWFjNEp3S183SHRmNlFiZjJ5T19DVm9BUmxSSkl5cGR5cUdaal9GclRjRnB4YW9WWS0xdlJUX1hUeDl6bXUwS0tnU0xLVEZNRmF3WjRLUmFhamtISlo5TlYtSkQxcjlOOWV0dHlHcUMtakV2VndUMUtTc0swUTh1LUlNU0dmU0c2ekU5bnB3X1JTTUVhN2RYclgzcUVJcTZ4OW9zbTktSW94OTRlaGYwSWhUS1pSRUhxeDdvd0pnc09RRGp6VDk2Ym1PTGYzNzhueTJQdC1Id05EVVRwLU1fS2lnRVJlZkRPNzhSWkNRZkpVam5MeDVLbVd4Slpsa2JvazNRaE13?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-24T12:18:13+00:00",
+   "seen": "2026-11-24T12:23:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Unofficial GTA 6 PC port is bootable but visually rough, indicating rapid progress."
+  },
+  {
+   "id": "gta 6 now supports cloud streaming on ps5 and playstation portal for premium subscribers",
+   "title": "GTA 6 Now Supports Cloud Streaming on PS5 and PlayStation Portal for Premium Subscribers",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSW5QbWtIYjE5MFZyRi1nd0F5U3AtQkJZelR2R1VhZ0xHaDZHVnZacmExZXJMdEFZWVlvZmdqMTQzN21HQlhYWGoyRkphQU9SR2M1R3Z6Q1hNUGFMTXpaUWZBdGQtRE1GLUttdnZtalV0LWpEM1NfTWg4eVd5M0haOGI1anNkZ0MtS2EyRHctX3owLWNZQVdZRmtHdUgwai1zVGlMdGtxVER5S1FXMjBGYg?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-24T12:17:55+00:00",
+   "seen": "2026-11-24T12:23:06+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "GTA 6 now supports cloud streaming on PS5 and PlayStation Portal for premium subscribers."
+  },
+  {
+   "id": "d angelo s posthumous gta 6 anthem kamikazi hits streaming with more music on the way",
+   "title": "D’Angelo’s posthumous ‘GTA 6’ anthem ‘Kamikazi’ hits streaming with more music on the way",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVmZkc0NKdXI2WU9mM3RDa3hxVlFnUGdyWFYzWjJnSURDX0tCcklveDQyQUYxQWxoTUJGY2QzbzZxTXFsc2hxQXpuNkhmMG1QN0p0YUtTV0dVZnlDSUgtVXhzeWU0N2w0ZWhSQXZ2WG5acDNIZTBrbVRFN2FzdldDZ0VDVXVlUHp2S2pobzFRSXd6dl9FeGE1aklxZ3BDV3UzZWc5ejJNalNpLXhzVnlDbS0tdw?oc=5",
+   "outlet": "NME",
+   "via": "Google News",
+   "published": "2026-11-24T12:17:34+00:00",
+   "seen": "2026-11-24T12:23:06+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "D’Angelo’s posthumous GTA 6 anthem Kamikazi is released on streaming with more music planned."
+  },
   {
    "id": "how long is chapter 4 in gta 6 all missables and mission list",
    "title": "How Long Is Chapter 4 in GTA 6? All Missables and Mission List",
@@ -170,6 +209,19 @@
    "ai_summary": "GTA 6 update fixes autosaves, story calls, and crashes on PS5 and Xbox."
   },
   {
+   "id": "cyberpunk 2 director jokes game is cancelled after playing gta 6",
+   "title": "Cyberpunk 2 director jokes game is ‘cancelled’ after playing GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vQ3k1TTRlZ09NZzlNT1FlSVc5Q2FlREFUUDZLWk96NDJ6b2s4MmdQb1lqbndLeEVsTkpRQVpFazBLQktfdjFoNGo2Z3NzLXVIRjFFcExRMFZKdGJsOEtzY0JMNnpVd2h3Wk9BM21mNy13azdsZF80SUduZXM?oc=5",
+   "outlet": "Yahoo News UK",
+   "via": "Google News",
+   "published": "2026-11-24T12:09:03+00:00",
+   "seen": "2026-11-24T12:23:06+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Cyberpunk 2 director jokes the game is cancelled after playing GTA 6."
+  },
+  {
    "id": "gta 6 unofficial pc port closer than ever as notorious leaker reportedly drops xbox build",
    "title": "GTA 6 unofficial PC port closer than ever as notorious leaker reportedly drops Xbox build",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ19mVVY0QmF0SG92ekZtS0dpNGVqLWVmRm54TUx5MG1xVFlHUkR0bGlILV9HRTZqd0ZXYk5qRDB3Yll2X0Vucl9uVnM2LTA4RTUzUkl0UDJicmhtNHUzSDRpV2pORFdKTkRQQWtKeXIza0xBdjk3UURhUXhaU0pUNEFMTEhxd0gyX09VUE5XQV9UMWx0eDFLNHFqakRmV1ZwdVdYaTVRVllxTE5ZaHZ1M0JPSUxnNndnRS1V?oc=5",
@@ -196,6 +248,19 @@
    "ai_summary": "Explains what the GTA 6 main menu music is and the soundtrack."
   },
   {
+   "id": "jake paul breaks silence on gta 6 troll",
+   "title": "Jake Paul breaks silence on GTA 6 troll",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaF9URzM5MzNaUDBqZEh3QXNnSFBTdWgtWFI3ck0ydDY2TG1LTGF4a2RycnRWRno5Vm1zQ1VUclhJMV9raFdTT0JxVG9vcmVUWU1Xd0pQakpTMVctTjhnU2syOE55SldCNm9jWm55azYyUmh2am5vVEM2X01WR1JYUVprdw?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-24T12:01:47+00:00",
+   "seen": "2026-11-24T12:23:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Jake Paul breaks silence on GTA 6 troll."
+  },
+  {
    "id": "gta 6 mandy actor calls viral fame bittersweet because people keep pretending to be her on social media",
    "title": "GTA 6 Mandy Actor Calls Viral Fame 'Bittersweet' Because People Keep Pretending to Be Her on Social Media",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEZka3I5bVJwaWJzYjhtaHU5a1lvUVhCdHRiazhLeFFSUFhzUnE3MWFKWElhMS1jZ0Zpd3phMWpKUVZBWVBhQ1BnaV9NbGg1el9rbEV0YXdrUklHQkZ5a0hSR3VrZDdxWkxYSjZFUXl0c0RFM29YanVYcmRSVHNmbw?oc=5",
@@ -220,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 put the games industry on notice, and suggests three forthcoming games that could match it."
+  },
+  {
+   "id": "gta vi appears to mock jake paul over his fights against older boxers the 86 year old s dialysis machine will not hinder proceedings",
+   "title": "GTA VI appears to mock Jake Paul over his fights against older boxers: ‘The 86-year-old's dialysis machine will not hinder proceedings'",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJb1NOdWJ1TUNvZW9vcUlXMTRDbzBKcnY3VHRSZ2RiR1pWaE9oeF9FRER3RUFhNk1seDlDbjBRWTBSeTFobUJTeHRVVlFwU2dzalVIZUNWZF91LU01QmF0ZGpUU3EtZGNUcDBldDVKdWNEM0VV?oc=5",
+   "outlet": "Yahoo Lifestyle Canada",
+   "via": "Google News",
+   "published": "2026-11-24T12:00:00+00:00",
+   "seen": "2026-11-24T12:23:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI appears to mock Jake Paul over his fights against older boxers."
   },
   {
    "id": "why is gta 6 getting review bombed",
