@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T15:59:47+00:00",
- "started": "2026-11-24T15:59:39+00:00",
+ "updated": "2026-11-24T16:04:47+00:00",
+ "started": "2026-11-24T16:04:39+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T15:59:40+00:00"
+   "checked": "2026-11-24T16:04:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 65,
-   "checked": "2026-11-24T15:59:40+00:00"
+   "hits": 80,
+   "checked": "2026-11-24T16:04:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T15:59:41+00:00"
+   "hits": 70,
+   "checked": "2026-11-24T16:04:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:59:41+00:00"
+   "checked": "2026-11-24T16:04:41+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T15:59:41+00:00"
+   "checked": "2026-11-24T16:04:41+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T15:59:41+00:00"
+   "checked": "2026-11-24T16:04:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:59:42+00:00"
+   "checked": "2026-11-24T16:04:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T15:59:42+00:00"
+   "checked": "2026-11-24T16:04:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-24T15:59:42+00:00"
+   "hits": 9,
+   "checked": "2026-11-24T16:04:42+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-24T15:59:42+00:00"
+   "checked": "2026-11-24T16:04:42+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T15:59:43+00:00"
+   "checked": "2026-11-24T16:04:42+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T15:59:43+00:00"
+   "checked": "2026-11-24T16:04:42+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T15:59:43+00:00"
+   "checked": "2026-11-24T16:04:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:59:43+00:00"
+   "checked": "2026-11-24T16:04:42+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi built a familiar and darker world from the ground up column",
+   "title": "‘Grand Theft Auto VI’ built a familiar – and darker – world from the ground up | Column",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenNNQmYzSTg4MXQ3c1VXZGp3NklHRXRqaDJoV1VJYm1odnV4TVhYeEp1VGFoYzYwNmJZVmpPTVYyTkx3UzhOZVpUOVloazQ5dFg3aVgxNDhKRTZmU1hZZk1kRGoyV2wxdllYbklzWnMtcVczNlVTdEhUcm9LbU9KRVhDUmp3dWtiaVo0WVpyZC1yZC04YUo3aXpLVUJfMHVIVGF0TGR4TlhBV3M?oc=5",
+   "outlet": "The Portland Press Herald",
+   "via": "Google News",
+   "published": "2026-11-24T16:00:00+00:00",
+   "seen": "2026-11-24T16:04:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses a GTA VI world described as familiar and darker, built from the ground up."
+  },
   {
    "id": "where to get the car key cloner in gta 6",
    "title": "Where To Get The Car Key Cloner In GTA 6",
@@ -116,6 +129,71 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports the location to obtain the Car Key Cloner in GTA 6."
+  },
+  {
+   "id": "d angelo s estate releases kamikazi featured in grand theft auto vi listen",
+   "title": "D’Angelo’s Estate Releases ‘Kamikazi,’ Featured in ‘Grand Theft Auto VI’: Listen",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nckk2LUFuaDVNR3RNV1ZER3J2OUQ3Qm1MaG53VXNhSXNsUXpNM2R0QnI0REwtOWtBMHplRkswOVktVWpTeENLNTJzc1pXS3A0TXVoaTJGOXc3cGU1TEdWYWtnZmxXMmF2OUJkV1dFZTRpc2ZE?oc=5",
+   "outlet": "Rated R&B",
+   "via": "Google News",
+   "published": "2026-11-24T15:58:59+00:00",
+   "seen": "2026-11-24T16:04:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "D’Angelo’s Estate releases ‘Kamikazi,’ which is featured in GTA VI."
+  },
+  {
+   "id": "how to find complete tractor revenge encounter in gta 6",
+   "title": "How to Find & Complete Tractor Revenge Encounter in GTA 6",
+   "link": "https://insider-gaming.com/how-to-find-complete-tractor-revenge-encounter-in-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-24T15:58:53+00:00",
+   "seen": "2026-11-24T16:04:42+00:00",
+   "summary": "Here's a detailed guide on how to find and complete GTA 6's Tractor Revenge encounter where you spray manure over a house. The post How to Find & Complete Tractor Revenge Encounter in GTA 6 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A guide explains how to find and complete the Tractor Revenge encounter in GTA 6, including spraying manure over a house."
+  },
+  {
+   "id": "i quit creator of gta 6 s unofficial pc project steps away but community developers are carrying on",
+   "title": "“I quit”: Creator of GTA 6’s unofficial PC project steps away, but community developers are carrying on",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2dmNDkwSkFqRkdmYjN5UEVqZTBPVXpBOEhiNFJyNUoxMUM5N3VfcDc4RHd3Z2dhZVFFbXJkaVRSR0FBRjlDR1BVOGpvUFEyWUptd1A2eGtPdzhMckxBZmd2dHpfUVNENXgxUFZhRjYxNFlubXlmak5pcWE5YVVmdkJxdEVDUHlBNmdfU3h6U3dNUEJCeDA4Sw?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-24T15:58:22+00:00",
+   "seen": "2026-11-24T16:04:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The creator of an unofficial GTA 6 PC project says they quit, with other community developers continuing the work."
+  },
+  {
+   "id": "gellhorn s missing tourists walkthrough in gta 6 serial killer mission location guide",
+   "title": "Gellhorn’s Missing Tourists Walkthrough in GTA 6—Serial Killer Mission Location & Guide",
+   "link": "https://insider-gaming.com/gellhorns-missing-tourists-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-24T15:56:30+00:00",
+   "seen": "2026-11-24T16:04:42+00:00",
+   "summary": "Gellhorn's Missing Tourists is a mission you can find in GTA 6, so find out how to start and eventually complete it. The post Gellhorn’s Missing Tourists Walkthrough in GTA 6—Serial Killer Mission Location & Guide appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gellhorn’s Missing Tourists is a GTA 6 mission with location and guide details to start and complete it."
+  },
+  {
+   "id": "rockstar shuts down discord server trying to port gta 6 to pc",
+   "title": "Rockstar Shuts Down Discord Server Trying to Port GTA 6 to PC",
+   "link": "https://insider-gaming.com/rockstar-shuts-down-discord-server-trying-to-port-gta-6-to-pc/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-24T15:56:17+00:00",
+   "seen": "2026-11-24T16:04:42+00:00",
+   "summary": "Rockstar Games and Take-Two have shut down a Discord server that was working on an unauthorized PC port for GTA 6 The post Rockstar Shuts Down Discord Server Trying to Port GTA 6 to PC appeared first on Insider Gaming .",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Rockstar Games and Take-Two shut down a Discord server that attempted an unauthorized GTA 6 PC port."
   },
   {
    "id": "gta 6 might play best when it hits pc but it ll be best played with a controller",
@@ -170,6 +248,19 @@
    "ai_summary": "The story explains whether players can buy houses and covers property, garages, and safehouses in GTA 6."
   },
   {
+   "id": "gta 6 passes 39 million ps5 players in record playstation launch",
+   "title": "GTA 6 passes 39 million PS5 players in record PlayStation launch",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jNWl3aUpQejRuVl9ZNUljclNNLUdpenBiRkRGeXB5Z0d4S2lWRVBWVGRpX1p5RV95UHk1VFY2VUQtRG53V0dlRUs1TWtSdFVxdnoySVRyRUxkTkwyb3BjVjF5VQ?oc=5",
+   "outlet": "games.gg",
+   "via": "Google News",
+   "published": "2026-11-24T15:51:14+00:00",
+   "seen": "2026-11-24T16:04:40+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "GTA 6 has surpassed a milestone of players on PS5 during its launch."
+  },
+  {
    "id": "gta 6 where to find a free rocket launcher",
    "title": "GTA 6: Where To Find A Free Rocket Launcher",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KQkJDY09fRHF4aDNmdm5UR0RneDM3RUVaS0Y0TC1DVnQ0Mi1BV1hBVGN1a1doUDhXRmVDN2toTDdtelpsbzV3VFZGN0U2WmptMmtzd0t6aUlMRlh5Ri1oRWZ5dXZ0dnpBYTVDUVJRbC1BRTFOMGJoUGw1RlU?oc=5",
@@ -181,6 +272,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article shows locations to find a free rocket launcher in GTA 6."
+  },
+  {
+   "id": "analyst gta 6 s release on pc in 2027 may bring around 20 million copies sold",
+   "title": "Analyst: GTA 6's Release on PC in 2027 May Bring Around 20 Million Copies Sold",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbzNCWWJ6LVhtMzdKVjMwTnhVWjEzcTRFcXBIUkw5dmRvQjFVZUlBVmVPVzlDckV0cWEwaUZiNzctZHRhN0ItWldSYm9WRVZMT0tPUjRRYzFOZGF6SjhrdDhGeHVhb2RHUXdlSG5VQzQ0X2RVdjdLNjJ6ZFVzMXpBM1pGOERtWnpEczFKOE5TVVJPZEs3SEhmMzgyRTd0NEU?oc=5",
+   "outlet": "EGW News",
+   "via": "Google News",
+   "published": "2026-11-24T15:47:40+00:00",
+   "seen": "2026-11-24T16:04:40+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "An analyst expects GTA 6 PC release in 2027 to sell around twenty million copies."
   },
   {
    "id": "gta 6 interactive map already has more than 6 800 points of interest as fans discover leonida",
