@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T00:14:11+00:00",
- "started": "2026-11-24T00:14:06+00:00",
+ "updated": "2026-11-24T00:19:15+00:00",
+ "started": "2026-11-24T00:19:08+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T00:14:06+00:00"
+   "checked": "2026-11-24T00:19:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-24T00:14:07+00:00"
+   "hits": 60,
+   "checked": "2026-11-24T00:19:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-24T00:14:07+00:00"
+   "hits": 69,
+   "checked": "2026-11-24T00:19:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T00:14:07+00:00"
+   "checked": "2026-11-24T00:19:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:10+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:10+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T00:14:08+00:00"
+   "checked": "2026-11-24T00:19:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "sony gta 6 set record for highest number of concurrent players for any game on playstation ever",
+   "title": "Sony: GTA 6 set record for 'highest number of concurrent players for any game on PlayStation' ever",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ0I3clJtMmpKMXRvUFdjSmk0Y2ptQi1nWkcxUmNhVE9VS2hMWXJ3VG1Rc1lBVGJndGNqQUlhWE1yUHFlZG00WjZ6M2RULXdNeURSdlpHWGE2a2FQbkd3RVR4SGJCNUdNQlRJbkxYWGJTZjZpOS1Vcy1DQVhGUVVTekNYLVQyLXdWempNMmp2a1czVnB2UDdPXzBGRnJBNEJtTEg1VDJRU0pVc1ppQjVLT0F5dzVnWGxkbGtrbks3NkFpd1R1bmxyV0pNcnRSLTcybGRPMHJnbUVld1hLVGlZ?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-24T00:17:57+00:00",
+   "seen": "2026-11-24T00:19:09+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "Sony says GTA 6 set the record for the highest number of concurrent players for any game on PlayStation."
+  },
+  {
+   "id": "d angelo s posthumous song kamikazi for gta vi is released",
+   "title": "D’Angelo’s posthumous song “Kamikazi” for GTA VI is released",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbE5LS2VGNkdsV0Zxa2RORlVndmZ3eVNHSEFFZTVKbGRlVjc0QjBjZmZvck81UXFnLVg1Q1JyVmY3dk9MUjNCLUFaeG5EN192cy1FNkpBOVRSZ2tkdDF3czJKVlNPSzBCcUJjc2hfUy14a2hUNmpJbk4wbi1BUzBEamRVUUlXZFduVkQ0UkxJZFN3RDA2bW9aMTVpUjlVTjI0ZWc?oc=5",
+   "outlet": "Paste Magazine",
+   "via": "Google News",
+   "published": "2026-11-24T00:15:00+00:00",
+   "seen": "2026-11-24T00:19:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "D’Angelo’s posthumous song Kamikazi for GTA VI is released."
+  },
+  {
+   "id": "gta 6 was the biggest game launch in playstation history with over 39 million unique players",
+   "title": "GTA 6 Was the Biggest Game Launch in PlayStation History With Over 39 Million Unique Players",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmhiTkl1ZDJ5ZVc4RWFPOVNrdmxuSnhXQWJrRjZTTktDMHdfaDRrNGx3VG9Zc0VvMkxkU19MVTFYeUlDb0tMYkNZS3hPbG1zMngydjg0Z1NoM2huUUZISHJhZjlxSjF4SzlMZUhWVDRGZ2xoX1NQSS10bVhiXzFjU0pB?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T00:14:19+00:00",
+   "seen": "2026-11-24T00:19:09+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "GTA 6 was the biggest game launch in PlayStation history with over 39 million unique players."
+  },
   {
    "id": "grand theft auto vi reaches more than 39m unique ps5 players sie says",
    "title": "Grand Theft Auto VI reaches more than 39m unique PS5 players, SIE says",
@@ -753,6 +792,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "Story reports that GTA VI players are learning that no good screenshot goes unpunished."
+  },
+  {
+   "id": "gta 6 praised for its accurate portrayal of felon rehabilitation",
+   "title": "GTA 6 Praised for Its Accurate Portrayal of Felon Rehabilitation",
+   "link": "https://www.ign.com/articles/gta-6-praised-for-its-accurate-portrayal-of-felon-rehabilitation",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-23T22:25:46+00:00",
+   "seen": "2026-11-24T00:19:10+00:00",
+   "summary": "GTA 6 is receiving praise for its commentary on how hard it is for felons to start a life and the system that breeds crime.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is praised for its accurate portrayal of felon rehabilitation and the challenges they face reentering life."
   },
   {
    "id": "it s hard to be a pacifist in gta 6",
