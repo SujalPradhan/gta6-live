@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T15:29:34+00:00",
- "started": "2026-11-24T15:29:27+00:00",
+ "updated": "2026-11-24T15:34:38+00:00",
+ "started": "2026-11-24T15:34:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T15:29:27+00:00"
+   "checked": "2026-11-24T15:34:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 78,
-   "checked": "2026-11-24T15:29:28+00:00"
+   "checked": "2026-11-24T15:34:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-24T15:29:28+00:00"
+   "hits": 98,
+   "checked": "2026-11-24T15:34:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:29:29+00:00"
+   "checked": "2026-11-24T15:34:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:29:29+00:00"
+   "checked": "2026-11-24T15:34:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T15:29:29+00:00"
+   "checked": "2026-11-24T15:34:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:29:29+00:00"
+   "checked": "2026-11-24T15:34:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T15:29:29+00:00"
+   "checked": "2026-11-24T15:34:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:29:30+00:00"
+   "checked": "2026-11-24T15:34:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T15:29:30+00:00"
+   "checked": "2026-11-24T15:34:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T15:29:30+00:00"
+   "checked": "2026-11-24T15:34:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T15:29:30+00:00"
+   "checked": "2026-11-24T15:34:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T15:29:30+00:00"
+   "checked": "2026-11-24T15:34:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:29:30+00:00"
+   "checked": "2026-11-24T15:34:34+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi review a bloody boundary shifting reclamation of the american dream",
+   "title": "‘Grand Theft Auto VI’ Review: A Bloody, Boundary-Shifting Reclamation of the American Dream",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVdCM19LdktlOGMzT01FQ2tXQ0Y2emh2VEZRSC1PU3k1WmJWQ0d4TlNFdGNpOE1hclduaWJ3Nnh3cUlSWHdWemJnbVcya2g3eUhwbE9UTDFUUG1DQmxzR1A2NTZUWGE5Y2FyaExpTGhTczFoVnRQRi1hSzV6UTRmOVdRcmkxR1BsYUh2Zw?oc=5",
+   "outlet": "Variety",
+   "via": "Google News",
+   "published": "2026-11-24T15:30:00+00:00",
+   "seen": "2026-11-24T15:34:30+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports a review of Grand Theft Auto VI describing it as a bloody, boundary-shifting reclamation of the American Dream."
+  },
   {
    "id": "rockstar is reportedly interested in a red dead redemption film or tv show",
    "title": "Rockstar is reportedly interested in a Red Dead Redemption film or TV show",
@@ -116,6 +129,45 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Rockstar is open to Red Dead pitches for a film or TV show, but reportedly does not want a GTA movie."
+  },
+  {
+   "id": "gta 6 is the great pyramids of game development says naughty dog director",
+   "title": "GTA 6 is “The Great Pyramids of Game Development”, Says Naughty Dog Director",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2RCX2R5QmJoRk1OU08xaDRvaks5bmlPaXU2MXhuaG5XaXV2NXQzUVYtYk9fYkJtMnI5ZFhyVUJmX0l1VUpqU3E0amRYQ2xZTXpPWTFqaHRyU0o0ZXhSZXN1V1Y5Z2NaV25sTE92X2F3Q0g3N0oya3dSOGp3VUM0ZVV0VDRKRHBRdVlLV0tVLThrMFAybzJnZFdOZHE?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-24T15:28:35+00:00",
+   "seen": "2026-11-24T15:34:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Naughty Dog director calling GTA 6 the great pyramids of game development."
+  },
+  {
+   "id": "the best tv show easter eggs in gta 6 so far",
+   "title": "The Best TV Show Easter Eggs In GTA 6 (So Far)",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CSWVfSXdmQTlIa2NJblFqcVZMOVJXVDFmZ2RlaW5paU8wWE95ZWNRbGd0TTR0WWl3Mkh6TFBNVkc0c0lucXVFSUR4YkpVVzFXdVFEMXhDVXBjS0pZZUVRR2QxNElvZw?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-24T15:27:15+00:00",
+   "seen": "2026-11-24T15:34:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the best GTA 6 Easter eggs in TV shows so far."
+  },
+  {
+   "id": "rockstar nukes 15 year old s gta 6 recompilation project discord and github servers taken down project leonida had almost 180 000 discord me",
+   "title": "Rockstar nukes 15-year-old’s GTA 6 recompilation project, Discord and GitHub servers taken down — Project Leonida had almost 180,000 Discord members, host account banned for two years",
+   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOVFGY3Jram5oakdmTnYyS2pyLWRnLUZpd2pMdG5IZWtvY2d2QXBaRk8tQ1ZPNXR0VHN6eDkzWnlEa1h2MVBoR1hjdVdjeTBQbmRJc01nanpQWVp0U2poeFljOTdtVFRWVTVlekJaV2puMU5pZnp1NXRYaGdmR3prRDNvTUh4RGpFNkVkN1FaNEhYZE1WNmFsYmhpTE13V2tSWFRvZDk1eXh0elhuMndJUjhUaGFoT1FSQjMyMUdEN2RSYjZZNGF3dnFkSHpuY2p1WGFReGFVclgyb0tFaTIwSk1lOTY3bkNIR0JFUEFvZXN1aC11cmJjRnhyUDhZcVdjYWt1dkRvR2hmN3BCNnJGY2ZvVmpCX0FoZTFZVjVjYi1iTVMzZE5oUUdIUnMxYnZLdGJ2UnVVeVQxbGxUTjhXYzFiVUtpc3V3aHpPNnlR?oc=5",
+   "outlet": "Tom's Hardware",
+   "via": "Google News",
+   "published": "2026-11-24T15:24:03+00:00",
+   "seen": "2026-11-24T15:34:30+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports Rockstar removing a 15-year-old’s GTA 6 recompilation project and taking down Discord and GitHub servers related to Project Leonida."
   },
   {
    "id": "grand theft auto vi reaches highest concurrent player count ever for ps5 more than 683 million hours logged already",
@@ -612,6 +664,19 @@
    "ai_summary": "Dexerto reports GTA 6 players are devastated by a train nerf after efforts to stop trains in GTA 5."
   },
   {
+   "id": "the blood of dawnwalker and grand theft auto vi lead the ap s list of 2026 top video games 1170 kpug am",
+   "title": "‘The Blood of Dawnwalker’ and ‘Grand Theft Auto VI’ lead the AP’s list of 2026 top video games - 1170 KPUG-AM |",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkxfbUd1UkJzUUlQQVFlT0xZLUhoNDdWT1JTV1NPbXFON1g2cEkyZHpibFh3M3UzQkpBOG5zbnhNQVItMnFaYWRpd0F2dE80SW9rMDFzZ09jOEZEal81eHVjeE1jdDVGNXhHbnhNdGFFaFBYYkY1QkRvN1piZU9IOFJNZkF2VENSRU1VRURhQ2FydVpBbTdmRjl2THlBcjItS2JfbDBpMnJxd2hVckVRRWFVYXdpVWl3WWNid3BnVVo?oc=5",
+   "outlet": "1170 KPUG-AM |",
+   "via": "Google News",
+   "published": "2026-11-24T14:29:24+00:00",
+   "seen": "2026-11-24T15:34:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports The Blood of Dawnwalker and Grand Theft Auto VI leading AP’s list of 2026 top video games."
+  },
+  {
    "id": "gta 6 is already up to 20 off at instant gaming as standard and ultimate editions go on sale",
    "title": "GTA 6 is already up to 20% off at Instant Gaming, as Standard and Ultimate editions go on sale",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdPazdwT2Y1M1YtcERqVWZtTjJ5VTliak94ODhVNGFvMVFSNS1vWnlRVHhwdFNmbUpFYThhYzlFSWw4MlJ5ZkQ3VmRpQXBSa0FWUTJfVlR1eU0yNktSV1Y0ei1oWUpENVZGdDl2OXBzT2VGUUtRNDNyMEdoNGJNd3VVWnJVbjl0ZXQ5aHAyY0ZtS2FON0pkNFQ2R25RUXNHdzFLMWlUUGM2b0dGaUZvRmNTd3BDVC13WlBtbGJlQQ?oc=5",
@@ -766,6 +831,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article explains how to change GTA 6 radio volume."
+  },
+  {
+   "id": "you can change the radio volume in gta vi here s how",
+   "title": "You Can Change the Radio Volume in GTA VI – Here’s How",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrZ0FQZ1RzdHNzeXg3YVpMY1BsQUhhN2p0Wmk0aVBRcW9yWUh3cTNHeTRlMVU2azNBN0RxTlA5cUoxYk5udEl5N1ZFR2p3eEdIemZDU2pfNA?oc=5",
+   "outlet": "GameByte",
+   "via": "Google News",
+   "published": "2026-11-24T14:13:56+00:00",
+   "seen": "2026-11-24T15:34:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports you can change the radio volume in GTA VI and describes how."
   },
   {
    "id": "gta 6 ufo easter egg guide where to find it near the starlet motel and how to earn the truth is out there",
@@ -10022,6 +10100,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A PC Gamer piece describes spending 60 hours in GTA 6 and longing for online content."
+  },
+  {
+   "id": "gta 6 pushes a top 10 all time bet to 55 on manifold",
+   "title": "GTA 6 Pushes a Top-10 All-Time Bet to 55% on Manifold",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1pWMFA2bEZhaXJtQVc2cENLN2pkeWlNMFU3Z0NkeDJXVHhWanFuR0NIYmVRb1pvdTZTSllwSGpPQzhJU1V5NG5IOFo2WEM3N0U0MXZvaTJaR3Y4UEZIYnFZeVlGTmpmc2loZVM3QlBtUXVCbkNQbHUyRDNmZTZ3V0QzWFlFQkllV0lhbg?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-23T16:02:40+00:00",
+   "seen": "2026-11-24T15:34:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 pushing a top-10 all-time bet to 55% on Manifold."
   },
   {
    "id": "an absurd little immersion breaking hiccup that reminded me gta 6 isn t perfect",
