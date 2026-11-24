@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T09:02:11+00:00",
- "started": "2026-11-24T09:02:05+00:00",
+ "updated": "2026-11-24T09:07:07+00:00",
+ "started": "2026-11-24T09:07:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T09:02:05+00:00"
+   "checked": "2026-11-24T09:07:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-24T09:02:06+00:00"
+   "checked": "2026-11-24T09:07:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 77,
-   "checked": "2026-11-24T09:02:06+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-24T09:07:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:02:06+00:00"
+   "checked": "2026-11-24T09:07:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T09:02:07+00:00"
+   "checked": "2026-11-24T09:07:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T09:02:07+00:00"
+   "checked": "2026-11-24T09:07:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:02:07+00:00"
+   "checked": "2026-11-24T09:07:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T09:02:07+00:00"
+   "checked": "2026-11-24T09:07:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T09:02:07+00:00"
+   "checked": "2026-11-24T09:07:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T09:02:08+00:00"
+   "checked": "2026-11-24T09:07:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T09:02:08+00:00"
+   "checked": "2026-11-24T09:07:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T09:02:08+00:00"
+   "checked": "2026-11-24T09:07:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T09:02:08+00:00"
+   "checked": "2026-11-24T09:07:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T09:02:08+00:00"
+   "checked": "2026-11-24T09:07:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "i ve spent 100 hours in gta 6 and i have some complaints about the complaints",
+   "title": "I’ve spent 100 hours in GTA 6 and I have some complaints about the complaints",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhzbFZua0xBV2Jla0RuNFBkRE1hTl93SERMS3VySy1mU0ZBOHhiYUFyblNUdTEtSmJ1RFZIalFTTGlDanlPMk5jc1lzcDBCV0M1RTVHVEhYdlIxY01JQW9SWG03OG03YjVCWXR5THd4OExlQVd1Mmlvb01xYjVuRm5pcnc4MVQ1c1dzNG1NT2pIOEo0UUZOd0RLUzRhTEgzQWNNUlhGY3NWZVVPOE5r?oc=5",
+   "outlet": "www.nag.co.za",
+   "via": "Google News",
+   "published": "2026-11-24T09:01:13+00:00",
+   "seen": "2026-11-24T09:07:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses someone's complaints about others' complaints after spending many hours playing GTA 6."
+  },
+  {
+   "id": "grand theft auto vi lets you buy flowers for your girlfriend some streamers say it s too woke",
+   "title": "Grand Theft Auto VI lets you buy flowers for your girlfriend. Some streamers say it's too woke",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUHFXbkl1WmZrVUNBaG16QzNRVXlqMG1fTDJWUnVXX3JvdV93YjZMeE90RktVT0xJbEl0YnhBeXJ4ZVIyc2tURGU5WjYxNlpRRWQtMWNhWmExc19LcE8xU3V1aU03RFNOb0NtYXhqSjVNRlBlc2RGekd3UzVBV2t4NFpjOEdlenVQMXhVeU9VQjJnZlY0Q1V5NjBwcTlLbTFZd0VDSEJTT1Q1UXVxRFBzUHQwUFhqOTJmbUttcWhGMi1OSUNsVFVRUGFtTjNrRi1KV2FTakNkZEY?oc=5",
+   "outlet": "CBC",
+   "via": "Google News",
+   "published": "2026-11-24T09:00:00+00:00",
+   "seen": "2026-11-24T09:07:00+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "GTA VI allows buying flowers for a girlfriend, with some streamers criticizing it as too woke."
+  },
   {
    "id": "gta 6 police departments warn players keep it in the game",
    "title": "GTA 6 Police Departments Warn Players: Keep It in the Game",
@@ -116,6 +142,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that police departments warn players to keep GTA 6 in the game."
+  },
+  {
+   "id": "gta 6 has an unkillable npc that hunts down players but there might be way to kill him",
+   "title": "GTA 6 has an unkillable NPC that hunts down players but there might be way to kill him",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDROV2tzZEp6anlMUDBES3VCMTRzRTdTNVJUNW1Nc0ZDaWVDT1FXdzRIVHJDMTA2M0ppYXQ2dld2R2g2SEVWRWJjQ1ZReFRWRDFKLWFRUnlONEZINkNoaDlMX3k0VFVRb0NZNWFvWFh4N3ZBWlVrS2FKTXRqYWZCMDJjeGgzQnd3Z0lQd2xLV0N3am1OTEIxRTNsN3N2R0J5T0FpcFI5Zmh3eFEyZFU5aHp5aVNvd0ZBeDBtWERwOFZDeWppQllUbkFwYw?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-24T08:55:00+00:00",
+   "seen": "2026-11-24T09:07:00+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "GTA 6 features an unkillable NPC that hunts players, with a possible method to kill him mentioned."
   },
   {
    "id": "gta 6 devs hope players stop thinking in tasks completion percentages online guides and rather let the game unfold in front of them the most",
@@ -144,6 +183,19 @@
    "ai_summary": "The story reports that a Grand Theft Auto VI hacker was sentenced to seven years and released the same day."
   },
   {
+   "id": "mitsotakis gta 6 video backfires at home and abroad",
+   "title": "Mitsotakis’ GTA 6 Video Backfires at Home and Abroad",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1AwODE4OUdRQnpzVmtlb19HbFpPODhvTVdEWkZaRnFRYUxIWkxQa3ZReUVRN2F4clktSHQ0dDdCdHVXcUJtYzNJMHNYUHo5UWdVeTVMbG1xVkVFTDRlSFk3Q1BSYzJtVDA4dXlQVzJOM2JKTjB4WEhkXzhCVlpTNnRJcWU4djhudjVaVQ?oc=5",
+   "outlet": "tovima.com",
+   "via": "Google News",
+   "published": "2026-11-24T08:43:36+00:00",
+   "seen": "2026-11-24T09:07:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Mitsotakis’ GTA 6 video backfires domestically and internationally."
+  },
+  {
    "id": "gta 6 hits 3 79b on day one as comcast sets a traffic record",
    "title": "GTA 6 Hits $3.79B on Day One as Comcast Sets a Traffic Record",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmgyM1RNYkdzU0dIUnJjWHo5azdxT2tHSER6STVOTi1pZXNkNUhQUjViUDUxVWVsa0NZOGxSWjBzaGt4blF3LXM2VXpVejFqWGlGOFYzaWRSS0RLdmVZdm5UVURuckRfd3h4NWFxS3RhSUNXQTNGU0prQl9WYTgzN3k4VQ?oc=5",
@@ -168,6 +220,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports a tainted debut and a dusty record in a loft as part of GTA 6 comeback coverage titled The ‘Aaj Shanibar’ journey."
+  },
+  {
+   "id": "gta 6 executable leak raises questions about unofficial pc port",
+   "title": "GTA 6 Executable Leak Raises Questions About Unofficial PC Port",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTUpTOHhtc25xRWhGdWY0ZENOS2FBVjVXMVlEVGk1YTZZUG1TZ0NPVzI4ZHB3dzZuc3RLckN4UDFXUUtleHZtVmt3Z2cza093WnhSOWxZdzZVbmI0S0VPQ00waWFKVllkcE1xalN4YnhOSldTcTJpd0VGSUgzdEVwUzBqZW0ycTIyalFtOHQxeDNsZlRWelFiVkhIUVpDdw?oc=5",
+   "outlet": "Nokiamob",
+   "via": "Google News",
+   "published": "2026-11-24T08:23:52+00:00",
+   "seen": "2026-11-24T09:07:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 executable leak raises questions about an unofficial PC port."
   },
   {
    "id": "gta 6 will hit 30 fps on consoles and the cpu is why",
@@ -220,6 +285,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports GTA 6 Boss delivering a brilliant response to a GTA 7 question."
+  },
+  {
+   "id": "gta 6 on sony ps6 leaker suggests even ps6 might not reach stable 60 fps",
+   "title": "GTA 6 on Sony PS6: Leaker suggests even PS6 might not reach stable 60 FPS",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdDVhNVVHMG9naEt2SzFHbExjZmxHMWoxV0loU0ppejYzVGJlUWhYcF9keS1ka0ppSU1GT3hjQkhwdTB6RHNIV01rc2FiTUluTjRKT0wzMmw5UlZmOFY1ZEstQzdETTV2bmdSeWNxajhWZ2pFOHM1YVJiOFg5Ni1SY3hHaVJCNUpCZ1oyNVV4SlcxQmptY0lnTS10dFF3VFRtNGdOaGJ4ZWhtRFI4dVd0VzZKZFRUekg0?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-24T08:12:52+00:00",
+   "seen": "2026-11-24T09:07:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A leaker claims even the PS6 may struggle to reach stable 60 FPS in GTA 6 on Sony hardware."
   },
   {
    "id": "5 games to play while everyone else is playing gta 6",
