@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T17:10:09+00:00",
- "started": "2026-11-24T17:10:02+00:00",
+ "updated": "2026-11-24T17:15:13+00:00",
+ "started": "2026-11-24T17:15:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T17:10:03+00:00"
+   "checked": "2026-11-24T17:15:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-24T17:10:03+00:00"
+   "hits": 60,
+   "checked": "2026-11-24T17:15:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 70,
-   "checked": "2026-11-24T17:10:03+00:00"
+   "hits": 69,
+   "checked": "2026-11-24T17:15:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T17:10:04+00:00"
+   "checked": "2026-11-24T17:15:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T17:10:04+00:00"
+   "checked": "2026-11-24T17:15:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T17:10:04+00:00"
+   "checked": "2026-11-24T17:15:08+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T17:10:04+00:00"
+   "checked": "2026-11-24T17:15:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T17:10:04+00:00"
+   "checked": "2026-11-24T17:15:08+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T17:10:04+00:00"
+   "checked": "2026-11-24T17:15:08+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T17:10:05+00:00"
+   "checked": "2026-11-24T17:15:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T17:10:05+00:00"
+   "checked": "2026-11-24T17:15:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T17:10:05+00:00"
+   "checked": "2026-11-24T17:15:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T17:10:05+00:00"
+   "checked": "2026-11-24T17:15:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T17:10:05+00:00"
+   "checked": "2026-11-24T17:15:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "ben feder on gta 6 launch ex take two ceo verdict",
+   "title": "Ben Feder on GTA 6 Launch: Ex-Take-Two CEO Verdict",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVpvNXJmRzIxZm5mTnZuU0M2N21fSFNkVDFuS0M1dS0tVkR4ekdqd3Npc2FQdDdZQ2NJV1NLNXN5d3ZqZ3FFU1FYZ2diUWtKWkkyTGwtcDRDclltR0s3M19ZeElWRUxrQ2VlNHhIazV0d29iOFo2bmZKbDNfbTRhWE83RXdrMkVnQzlFVDM3RDlldEoydzZ0eHVOdw?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-24T17:14:44+00:00",
+   "seen": "2026-11-24T17:15:06+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports Ben Feder's take on GTA 6 launch from his perspective as a former Take-Two CEO."
+  },
+  {
+   "id": "gta 6 pool day guide lucia s tequila sunrise and eddie acosta s party invite",
+   "title": "GTA 6 Pool Day guide: Lucia’s Tequila Sunrise and Eddie Acosta’s party invite",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnp3RHEyZzdoaHdHQW5FTUIxS0NjUzZEdFh4enpGVHVsQmxhQWczNEhvbkxzN3VJcHJ0SzhQUWlaRUpaUUxxTkFtU3IwVTNSTGtEZjZ5eDg1bFNjeWN3RFJ1RVhoZmw5TWR3THVjaGlvMjBSVXU5OTcwLTVYOERiV0pGZFdqU2ttcUw1cU9kOTVYUG1RcGZwS3FB?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T17:11:55+00:00",
+   "seen": "2026-11-24T17:15:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 pool day guide featuring Lucia’s Tequila Sunrise and Eddie Acosta’s party invite."
+  },
+  {
+   "id": "gta 6 players logged nearly 78k years on ps5 sony says",
+   "title": "'GTA 6' Players Logged Nearly 78k Years on PS5, Sony Says",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNek9vSU5tV2dFQkhqVHhYZ281aEQ0MDIxWEIyVkxPN1hxeERYUGNJLWE2VlpsSDJheXd0cHlpNjJ3Rko2TlJkSWNybU9fTE9NSk85V0tUV2FQYUJFcVZEYmlLbVRaYlZJVHRiOF84X2hlUDlqNERGcTR2Q21iejdjZ05QalhNY29JVlQ3RTlWMEwyQQ?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-24T17:11:00+00:00",
+   "seen": "2026-11-24T17:15:06+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports Sony announcing players logged nearly seventy-eight thousand years on PS5 for GTA 6."
+  },
   {
    "id": "panini announces grand theft auto vi trading card collection",
    "title": "Panini Announces 'Grand Theft Auto VI' Trading Card Collection",
@@ -155,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Rockstar explains GTA 6 driving mechanics as Jason’s car circles players."
+  },
+  {
+   "id": "this gta 6 moment is a trolling master class from rockstar",
+   "title": "This GTA 6 Moment Is A Trolling Master Class From Rockstar",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1lvbDBrU3JZa3NadU9LMWNTZ2xaVjA1WDlNR2lkSjVTYUZNbi1zZEZpV3FHVWZBNHh5RU9GTFVodzlRWk41b1RRX0J5VjhNY2JuSzlBYWFvREpxZGdqN2JGSG9nZVRGWDJfTlBMTkstS2tSX2xIZUg1dEhjQ2NiYWdIWXJ3X1JoSHhmSzJZTml5RHg4TzUw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T16:56:17+00:00",
+   "seen": "2026-11-24T17:15:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 moment that is described as a trolling master class from Rockstar."
   },
   {
    "id": "gta 6 security expert mission walkthrough how to find and rescue nicole",
@@ -753,6 +805,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story discusses how impactful the launch of Grand Theft Auto VI was."
+  },
+  {
+   "id": "gta 6 kitty litter first la perle lab",
+   "title": "GTA 6 Kitty Litter - First La Perle Lab",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtWmNsVjlHZDkxUFhNY1NiWEZKQlJPblN0STlmdVJESElBM2d1QTY4TFM4ZU1BZHNFbXJ2UFdBUEpueVdpUFVVSG5SWEVlNWtOclJUOEJwamZEWjlGUjVCOXY3ZDdtZXBaZUp3MjhkLUF6X0JCSXFOQw?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-24T15:37:28+00:00",
+   "seen": "2026-11-24T17:15:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 Kitty Litter related to First La Perle Lab on Yahoo Tech."
   },
   {
    "id": "save manually all the time if you don t want this to happen to you gamers have been frustrated by gta 6 s buggy autosaves but the first upda",
