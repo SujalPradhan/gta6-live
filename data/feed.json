@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T13:58:42+00:00",
- "started": "2026-11-24T13:58:37+00:00",
+ "updated": "2026-11-24T14:03:46+00:00",
+ "started": "2026-11-24T14:03:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T13:58:37+00:00"
+   "checked": "2026-11-24T14:03:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 78,
-   "checked": "2026-11-24T13:58:38+00:00"
+   "hits": 66,
+   "checked": "2026-11-24T14:03:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-24T13:58:38+00:00"
+   "hits": 68,
+   "checked": "2026-11-24T14:03:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:58:38+00:00"
+   "checked": "2026-11-24T14:03:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:58:39+00:00"
+   "checked": "2026-11-24T14:03:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-24T13:58:39+00:00"
+   "hits": 57,
+   "checked": "2026-11-24T14:03:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T13:58:39+00:00"
+   "checked": "2026-11-24T14:03:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T13:58:39+00:00"
+   "checked": "2026-11-24T14:03:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-24T13:58:39+00:00"
+   "checked": "2026-11-24T14:03:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T13:58:40+00:00"
+   "checked": "2026-11-24T14:03:42+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T13:58:40+00:00"
+   "checked": "2026-11-24T14:03:42+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T13:58:40+00:00"
+   "checked": "2026-11-24T14:03:42+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:58:40+00:00"
+   "checked": "2026-11-24T14:03:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T13:58:40+00:00"
+   "checked": "2026-11-24T14:03:43+00:00"
   }
  },
  "items": [
+  {
+   "id": "an 80s band just found an unexpected new audience thanks to gta 6 nearly 40 years after its breakthrough",
+   "title": "An 80s Band Just Found an Unexpected New Audience Thanks to GTA 6, Nearly 40 Years After Its Breakthrough",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLTB0TFdYUTBrTHVaN2N5ZUk3NXVMbFdWWmNkQ2dxZnQtcDNwcTFicnZDNlFlRmZ0Zk5ucTR4NTh0a3FtMzc4c19jbV9jeVotTFJLbkFZdmR6eGhTbW9md18tRnA2ZHFHLTRyWHg2TU41STBxS3N4ZzNpMVctTHEyNXUweERhUGNHYWdSb25KeTRibklDNkg0OV9JWE80dkxGd3BvejA0ckFpc0xRUENrTG1NeDc1MTBMN2ZPa1lEMzR2Q29WRmVUZVRWTmVVZWtBOWgw?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-24T14:00:22+00:00",
+   "seen": "2026-11-24T14:03:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that an eighties band found a new audience thanks to GTA 6, decades after its breakthrough."
+  },
+  {
+   "id": "gta vi is more than just a violent crime thriller it s an unexpected exercise in love and empathy",
+   "title": "'GTA VI' is More Than Just a Violent Crime Thriller. It's an Unexpected Exercise in Love and Empathy",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14MlRadmRLZkIwbHZvQzdMeldkVWtKcGE2VkYwU2l1ZlZyOEQxYV9YV05WSUpJd1E1bHNzZkdoRFhTUmcyUWUwMk9feHRYTk9JbmUwODdYQUo3clJ4SWhTb2hGbXJGbFVwVTY4LU9YbUUwNm5vVXBr?oc=5",
+   "outlet": "Time Magazine",
+   "via": "Google News",
+   "published": "2026-11-24T14:00:05+00:00",
+   "seen": "2026-11-24T14:03:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI is more than a violent crime thriller and is an unexpected exercise in love and empathy."
+  },
+  {
+   "id": "i watched gta 6 s in game tv shows for hours they re absolutely wild",
+   "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYURlWVU4bUo4UHJIemQ4YThuc3dMdTEtWFFkRTgyUDJ4ZUhYMFh5OEN0ZEtEY1c4M1dfN0d5VVhXd20zLWZrRkFLSUpWalUza2g4N1d5MVM0bi1kWW5rMC1fd3NPb1NsQW1WdHhVaVU3STRwSFAtWGFFY2pLQWVUU0dMREJNWmQ4M1dmcl9hLWtEX01uaC01Y2Jadw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T14:00:00+00:00",
+   "seen": "2026-11-24T14:03:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that watching GTA 6's in-game TV shows for hours reveals they are wild."
+  },
   {
    "id": "where to find the mamba gt car in gta 6 randy s wishlist car locations",
    "title": "Where to Find the Mamba GT Car in GTA 6—Randy’s Wishlist Car Locations",
@@ -1806,6 +1845,19 @@
    "topic": "Players",
    "record": true,
    "ai_summary": "The story asserts GTA 6 is the biggest launch in PlayStation history, with Sony reporting more than 39 million unique players on PS5."
+  },
+  {
+   "id": "gta 6 becomes the biggest launch in playstation history with 39 million players in four days",
+   "title": "GTA 6 Becomes the Biggest Launch in PlayStation History With 39 Million Players in Four Days",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05c0tjZElCT0xjcGRHOHU4UDEzdTNCcURaSmVlSEI4R1Uyd0ZlTGszTFVtS0IzREZib0xEV3hIV1JDSXR1Z0hFNlZqOGo5eXotU2FsbWkwOE96R0hmMnVTRXhvelRidUtHb21LYWNEZjVyWnfSAXhBVV95cUxQVlhWNzNJY0VWYkxEdVFxTEFqT18zcWgxaFNRa1lEeUY4N2I1Vm5sOGxMdFJ2cjVrODB1dGU5NnU3cE5kWmx1bzlUME1uekhrVGEzMngzZk5lbE1uX1hHaGZ1WVBmek5nYUlxV012VGg2UHZPN2UzR3c?oc=5",
+   "outlet": "Mezha",
+   "via": "Google News",
+   "published": "2026-11-24T10:56:00+00:00",
+   "seen": "2026-11-24T14:03:39+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 became the biggest launch in PlayStation history with 39 million players in four days."
   },
   {
    "id": "gta 6 s album adds 23 tracks and overmono is moving in",
