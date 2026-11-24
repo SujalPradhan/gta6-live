@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T15:24:33+00:00",
- "started": "2026-11-24T15:24:26+00:00",
+ "updated": "2026-11-24T15:29:34+00:00",
+ "started": "2026-11-24T15:29:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T15:24:27+00:00"
+   "checked": "2026-11-24T15:29:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 77,
-   "checked": "2026-11-24T15:24:27+00:00"
+   "hits": 78,
+   "checked": "2026-11-24T15:29:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-24T15:24:28+00:00"
+   "checked": "2026-11-24T15:29:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:24:28+00:00"
+   "checked": "2026-11-24T15:29:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:24:28+00:00"
+   "checked": "2026-11-24T15:29:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T15:24:28+00:00"
+   "checked": "2026-11-24T15:29:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:24:28+00:00"
+   "checked": "2026-11-24T15:29:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T15:24:28+00:00"
+   "checked": "2026-11-24T15:29:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:24:28+00:00"
+   "checked": "2026-11-24T15:29:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T15:24:29+00:00"
+   "checked": "2026-11-24T15:29:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T15:24:30+00:00"
+   "checked": "2026-11-24T15:29:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T15:24:30+00:00"
+   "checked": "2026-11-24T15:29:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T15:24:30+00:00"
+   "checked": "2026-11-24T15:29:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:24:30+00:00"
+   "checked": "2026-11-24T15:29:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar is reportedly interested in a red dead redemption film or tv show",
+   "title": "Rockstar is reportedly interested in a Red Dead Redemption film or TV show",
+   "link": "https://www.videogameschronicle.com/news/rockstar-is-reportedly-interested-in-a-red-dead-redemption-film-or-tv-show/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-24T15:29:03+00:00",
+   "seen": "2026-11-24T15:29:29+00:00",
+   "summary": "It's reported that Rockstar doesn't want a GTA movie, but is open to Red Dead pitches",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar is open to Red Dead pitches for a film or TV show, but reportedly does not want a GTA movie."
+  },
   {
    "id": "grand theft auto vi reaches highest concurrent player count ever for ps5 more than 683 million hours logged already",
    "title": "Grand Theft Auto VI Reaches Highest Concurrent Player Count Ever For PS5, More than 683 Million Hours Logged Already",
@@ -116,6 +129,32 @@
    "topic": "Streaming",
    "record": true,
    "ai_summary": "GTA VI reaches highest concurrent player count ever for PS5, with more than 683 million hours logged already."
+  },
+  {
+   "id": "grand theft auto vi made 3 79 billion in one day taylor swift s entire eras tour made about half that",
+   "title": "Grand Theft Auto VI Made $3.79 Billion In One Day. Taylor Swift's Entire Eras Tour Made About Half That.",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQclFYZExsWnh5NjBPT3dabDhvNlVxSWwzRzhyVVh6Z2NWSExIR1J2czRtSzZBT3BGX0diSFZCYnFqY3RtRXFNUnpXWHZYNUtZcWNGUWRwN2VpSFFyRGhPQUNPUU5FdTJoaUoxeU5lYk10Z0JDVVdFSWx2dFd3bEtUblpDdGhiVTVGbzBxX29tS0cyTnk2NnNVNGVZdEM2SXVjVFFnTlFjVmtwZ2szYzhaYlBydmtuNWFiM2pIa3lhTXVCTjZaei1SWFJ3?oc=5",
+   "outlet": "Entrepreneur",
+   "via": "Google News",
+   "published": "2026-11-24T15:21:26+00:00",
+   "seen": "2026-11-24T15:29:27+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI reportedly generated a large one-day revenue, in contrast to Taylor Swift's tour earnings."
+  },
+  {
+   "id": "gta 6 has second biggest retail launch in french history with over 1 million sold",
+   "title": "GTA 6 Has Second Biggest Retail Launch in French History With Over 1 Million Sold",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEprSFR1a0VtU1JpU1RGWjU5SU94UDhoZkpZU3hDdXExdkNPaWdPVllYV1MtRkR3V3N5WG56ck5jTENKZzJqa3VjckdFU0RqZVdKd1dWZ0pmQzVQZUozTzExcDctVl8xVmtSVFlQeGNFOTVSNm5UOXFmbXY4QUFZSmlIcGY0SjJ5aGo1Vlp3Y095dGpRMnZsXzF5NlI1Uy1PQnE2b1lOM3FMYmRkdDJOMnFWZkhrbllTYTZubzR1dw?oc=5",
+   "outlet": "VGChartz",
+   "via": "Google News",
+   "published": "2026-11-24T15:19:58+00:00",
+   "seen": "2026-11-24T15:29:27+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 has the second biggest retail launch in French history with over one million sold."
   },
   {
    "id": "how many cars can you own in gta 6 all garage locations",
@@ -350,6 +389,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Gym workouts reportedly fell up to 17% in GTA VI’s first three days, per Gymverse data."
+  },
+  {
+   "id": "grand theft auto vi the album adds even more songs",
+   "title": "'Grand Theft Auto VI: The Album' Adds Even More Songs",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0dQVlZuM212LVlVNlhKd21KZWEyMm54SDJKd0E3TWI1ZWI0bHRpWmhQZFR1Q25fM29JNjdRZkJybjg1NGZEQ3VuaXg1MmdpTVR4Nk9rTFVGcElxWENNWUljZG1nbkh4SXJZRlFwc0dqMXFtTjRUdmQ2VlI5LUdUUDRUbnRfNVFsVFN3?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-24T14:55:16+00:00",
+   "seen": "2026-11-24T15:29:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto VI: The Album adds more songs."
   },
   {
    "id": "sony grand theft auto vi biggest video game launch in playstation history",
@@ -5550,6 +5602,19 @@
    "topic": "Players",
    "record": true,
    "ai_summary": "The story reports GTA VI reaching 39 million unique players on PS5 and setting a PlayStation launch record."
+  },
+  {
+   "id": "grand theft auto 6 the album gets deluxe version with 23 more tracks",
+   "title": "‘Grand Theft Auto 6: The Album’ gets ‘Deluxe’ version with 23 more tracks",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFVJZHVUeWZVNldibHM0NkI3cVU4RHR6Mm02LURIVGdBd1VYOTJEX2FnVG9BZ01RYmVvTFVUNFVZNkFWVHAzNDJrRmZiV0VsbS04WEhBaU13dEpjdzNUSFRCeENoMEphcWl4eVJGWWEzdWFscy1xRDNzdFU1WDQ3SU93UUplTEtzbVkxVExJSGVEaHFMQ1M4WTJRWjNzUTdfNXVXMjZPRGdRYS01VjlxYzNESUdHbEVIVG5FMzV3?oc=5",
+   "outlet": "NME",
+   "via": "Google News",
+   "published": "2026-11-23T23:52:33+00:00",
+   "seen": "2026-11-24T15:29:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto 6: The Album gets a Deluxe version with 23 more tracks."
   },
   {
    "id": "call of duty s player count dropped by over 40 following gta 6 s release according to analysts",
