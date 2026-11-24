@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T01:59:36+00:00",
- "started": "2026-11-24T01:59:30+00:00",
+ "updated": "2026-11-24T02:04:38+00:00",
+ "started": "2026-11-24T02:04:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T01:59:31+00:00"
+   "checked": "2026-11-24T02:04:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-24T01:59:31+00:00"
+   "checked": "2026-11-24T02:04:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 71,
-   "checked": "2026-11-24T01:59:32+00:00"
+   "checked": "2026-11-24T02:04:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T01:59:32+00:00"
+   "checked": "2026-11-24T02:04:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T01:59:32+00:00"
+   "checked": "2026-11-24T02:04:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T01:59:32+00:00"
+   "checked": "2026-11-24T02:04:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T01:59:32+00:00"
+   "checked": "2026-11-24T02:04:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T01:59:33+00:00"
+   "checked": "2026-11-24T02:04:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T01:59:33+00:00"
+   "checked": "2026-11-24T02:04:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T01:59:33+00:00"
+   "checked": "2026-11-24T02:04:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T01:59:34+00:00"
+   "checked": "2026-11-24T02:04:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T01:59:34+00:00"
+   "checked": "2026-11-24T02:04:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T01:59:34+00:00"
+   "checked": "2026-11-24T02:04:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T01:59:34+00:00"
+   "checked": "2026-11-24T02:04:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is probably the greatest artistic achievement in history says cyberpunk 2 director",
+   "title": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-24T02:00:00+00:00",
+   "seen": "2026-11-24T02:04:35+00:00",
+   "summary": "\"Cyberpunk 2 is cancelled\". Just about every veteran developer in the industry has been heaping praise on GTA 6 since its release last week, but I'm not sure any of that rampant positivity matches the thoughts of Igor Sarzynski . Sarzynski is currently the creative director on Cyberpunk 2 (as it's officially known right now), having previously worked on both The Witcher 3 and Cyberpunk 2077 — two ",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 is described as probably the greatest artistic achievement in history by the Cyberpunk 2 director."
+  },
   {
    "id": "gta vi ps5 ban claim 1 report 0 sony confirmations",
    "title": "GTA VI PS5 Ban Claim: 1 Report, 0 Sony Confirmations",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses which GTA VI console features are better for PS5 versus Xbox."
+  },
+  {
+   "id": "ps5 vs xbox which gta 6 console features are better",
+   "title": "PS5 vs. Xbox: Which GTA 6 Console Features Are Better",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DU1BBZlJMOGgyTE1HOTZZeDVra2szc2t0TTM2MnBFTWdBUWxLclRpd3pSZkYwWVNiQ0loVkVtR3BNTkhzVFcxUDhVbWtxRXpUYV9vRFZuT1R1Uzg2dk5sbg?oc=5",
+   "outlet": "Comic Book Resources",
+   "via": "Google News",
+   "published": "2026-11-24T01:45:00+00:00",
+   "seen": "2026-11-24T02:04:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses which GTA 6 console features are better on PS5 versus Xbox."
   },
   {
    "id": "analyst upgrades gta vi sales estimates from 39m to 48m by march 31 will it be enough",
@@ -168,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that a GTA VI hacker is forbidden from using Telegram, with the Telegram boss calling the game unrealistic for not using the app in crimes."
+  },
+  {
+   "id": "us ps5 and xbox sales more than double before gta 6 launch",
+   "title": "US PS5 and Xbox sales more than double before GTA 6 launch",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pV0ljWktOZlp6Q2t5OHE0V2k5cHc0N2J4YkZqa2p0RnJNR2EybV90OUdZQVpKbVZmUDlrY2NHZ20yUzR4Um55WlhFZUZNazgyc0R3aFBqdzJJM2UtS25ldnRJWFludHdPRkFEcg?oc=5",
+   "outlet": "games.gg",
+   "via": "Google News",
+   "published": "2026-11-24T01:17:11+00:00",
+   "seen": "2026-11-24T02:04:33+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "US PS5 and Xbox sales are reported as more than double before the GTA 6 launch."
   },
   {
    "id": "gta 6 car service walkthrough how to steal the schafter v12",
