@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T14:03:46+00:00",
- "started": "2026-11-24T14:03:38+00:00",
+ "updated": "2026-11-24T14:08:54+00:00",
+ "started": "2026-11-24T14:08:44+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T14:03:39+00:00"
+   "checked": "2026-11-24T14:08:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 66,
-   "checked": "2026-11-24T14:03:39+00:00"
+   "checked": "2026-11-24T14:08:45+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-24T14:03:40+00:00"
+   "hits": 97,
+   "checked": "2026-11-24T14:08:46+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T14:03:40+00:00"
+   "checked": "2026-11-24T14:08:46+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T14:03:40+00:00"
+   "checked": "2026-11-24T14:08:46+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T14:03:40+00:00"
+   "checked": "2026-11-24T14:08:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 19,
-   "checked": "2026-11-24T14:03:41+00:00"
+   "hits": 20,
+   "checked": "2026-11-24T14:08:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T14:03:41+00:00"
+   "checked": "2026-11-24T14:08:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-24T14:03:41+00:00"
+   "checked": "2026-11-24T14:08:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T14:03:42+00:00"
+   "checked": "2026-11-24T14:08:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T14:03:42+00:00"
+   "checked": "2026-11-24T14:08:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T14:03:42+00:00"
+   "checked": "2026-11-24T14:08:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T14:03:42+00:00"
+   "checked": "2026-11-24T14:08:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T14:03:43+00:00"
+   "checked": "2026-11-24T14:08:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 swimming and diving controls and whether there s an oxygen bar",
+   "title": "GTA 6 Swimming and Diving Controls, and Whether There’s an Oxygen Bar",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUtxRkFJSkd0QTJTaDU5Z29VbzFldjZuZkJmZkNZck03WF81TjloNTNFc0d5eER4aHdiSWxiTEVnNk1vSXpXM0xYUWZwYTdJdFl2Y3Y2V21yRy1qWTM1RjFrbGFQOVNablZuUVppdTlDNlpPN0I0WkFZcHUwWjNLU00zaGxxOUR6M3VIdWxVVkI?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T14:02:24+00:00",
+   "seen": "2026-11-24T14:08:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA 6 swimming and diving controls and whether there’s an oxygen bar."
+  },
+  {
+   "id": "grand theft auto vi and its mixed bag album are finally here review",
+   "title": "Grand Theft Auto VI and its mixed-bag album are finally here | Review",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1VtTm54d0ZZNkViMmNWTXpIVExEYVlWNUV5aVVrUWN4MHFvQ2FMRGVrc3VxdDM0QmR4MTY5YVdaeGdjbTRIcjJxVG41dVN5UlJkd2dGUF9rY3hzX0hYSTk3aUlwRkxrdEM3UjFVczRxbzFxVFliX3BNaC14UkJoN1c1dWVuQQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-24T14:01:08+00:00",
+   "seen": "2026-11-24T14:08:44+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports on GTA VI and its mixed-bag album being released, reviewed by Yahoo Tech."
+  },
   {
    "id": "an 80s band just found an unexpected new audience thanks to gta 6 nearly 40 years after its breakthrough",
    "title": "An 80s Band Just Found an Unexpected New Audience Thanks to GTA 6, Nearly 40 Years After Its Breakthrough",
@@ -142,6 +168,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that watching GTA 6's in-game TV shows for hours reveals they are wild."
+  },
+  {
+   "id": "gta 6 a list of the florida locations from real life",
+   "title": "GTA 6: A list of the Florida locations from real life",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUtKdUhCYzR1Y2lMblRxdDlEN0trdXp6U0N4dDhfQkYycE56UFFlN3dXVU1TLThBM2xvMFgxLUphUEVoUjRaNkk0UW0wR0VoYXRYYUNCV08tMHJjNG5PSC12WUVpN3F0Vm1yUVc1aDhOTWVNVWtoYjBINWhzV2RzZXVNS2VweklnWUp3Z1NNaHlmS2RDYWI5ZGlXazh5WXFIWTNNT1lSLXVteEk?oc=5",
+   "outlet": "Tampa Bay Times",
+   "via": "Google News",
+   "published": "2026-11-24T14:00:00+00:00",
+   "seen": "2026-11-24T14:08:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists Florida locations from real life featured in GTA 6, per the Tampa Bay Times."
+  },
+  {
+   "id": "i can t believe i let jason spend 475 on a gold plated piece of tin in gta 6 but it s such a boy move that i can t even be angry",
+   "title": "I can’t believe I let Jason spend $475 on a gold-plated piece of tin in GTA 6, but it's such a Boy Move that I can't even be angry",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/i-cant-believe-i-let-jason-spend-usd475-on-a-gold-plated-piece-of-tin-in-gta-6-but-its-such-a-boy-move-that-i-cant-even-be-angry/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T14:00:00+00:00",
+   "seen": "2026-11-24T14:08:50+00:00",
+   "summary": "GTA 6's genius lies in its moments of real-life authenticity – including poking fun at Boy Traits",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story discusses a player’s purchase of a gold-plated piece of tin in GTA 6 and its humorous, relatable moment."
   },
   {
    "id": "where to find the mamba gt car in gta 6 randy s wishlist car locations",
