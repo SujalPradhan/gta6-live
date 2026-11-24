@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T20:56:35+00:00",
- "started": "2026-11-24T20:56:29+00:00",
+ "updated": "2026-11-24T21:01:36+00:00",
+ "started": "2026-11-24T21:01:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 96,
-   "checked": "2026-11-24T20:56:29+00:00"
+   "checked": "2026-11-24T21:01:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T20:56:30+00:00"
+   "hits": 79,
+   "checked": "2026-11-24T21:01:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 87,
-   "checked": "2026-11-24T20:56:30+00:00"
+   "hits": 86,
+   "checked": "2026-11-24T21:01:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T20:56:30+00:00"
+   "checked": "2026-11-24T21:01:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T20:56:31+00:00"
+   "checked": "2026-11-24T21:01:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T20:56:31+00:00"
+   "checked": "2026-11-24T21:01:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T20:56:31+00:00"
+   "checked": "2026-11-24T21:01:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T20:56:31+00:00"
+   "checked": "2026-11-24T21:01:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T20:56:31+00:00"
+   "checked": "2026-11-24T21:01:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T20:56:32+00:00"
+   "checked": "2026-11-24T21:01:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T20:56:32+00:00"
+   "checked": "2026-11-24T21:01:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T20:56:32+00:00"
+   "checked": "2026-11-24T21:01:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T20:56:32+00:00"
+   "checked": "2026-11-24T21:01:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T20:56:33+00:00"
+   "checked": "2026-11-24T21:01:33+00:00"
   }
  },
  "items": [
@@ -142,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that engagement with Call of Duty and Fortnite declines after GTA VI's release, according to a report."
+  },
+  {
+   "id": "review grand theft auto vi focuses on romance but there s more to love",
+   "title": "Review: ‘Grand Theft Auto VI’ focuses on romance but there’s more to love",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VRXB2c2o3Y2JIM2FLazBRdndISEdBYVR3X1AxUGM5Q3o4ek1EczJ0eDJickI3b1FMbWx0c29JR19pSHJBbTdZNjFLVmZPTS15aWFLdE1NdVBadUt6WkxPb2l3?oc=5",
+   "outlet": "The Mercury News",
+   "via": "Google News",
+   "published": "2026-11-24T20:44:07+00:00",
+   "seen": "2026-11-24T21:01:30+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The review notes GTA VI focuses on romance, with additional elements beyond that theme."
   },
   {
    "id": "gta 6 player finds a hidden vice city throwback after spending three days following power lines",
@@ -233,6 +246,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The discussion asks whether Christians should play GTA 6, with input from a Christian YouTuber."
+  },
+  {
+   "id": "avery anna ignites a heated debate saying she d rather be roadkill than date a guy who plays gta vi",
+   "title": "Avery Anna Ignites A Heated Debate Saying She’d “Rather Be Roadkill” Than Date a Guy Who Plays ‘GTA VI’",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMFFOTXNkYjMwWm50MTM1RG9aTnREUWVmNVdSVVJEd3VZY2piTU1IemdNMk8yYmlBT0xVRUpmVzl4Rnpia25jQVNNLUExallYbWJJalZVOGJZSUktbGFVdEstdXJEZ0FrQkFwOFkyQkotMFFxQl80aEZERkRJRG5PMjc5cndpY0xZcWZRMHBnUDVDaGVzM3daN2dDODhQTlV0aFItVXZqYzBIa0t0NVg2TU9JNDR3aTRJUHZwb0phNk16b0h4U3NEQmQ4RHNSNkd6Y3RhUw?oc=5",
+   "outlet": "Whiskey Riff",
+   "via": "Google News",
+   "published": "2026-11-24T20:13:59+00:00",
+   "seen": "2026-11-24T21:01:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Avery Anna expresses strong opinions about dating someone who plays GTA VI, sparking debate."
   },
   {
    "id": "just like gta 6 the witcher 4 has a playstation deal",
@@ -415,6 +441,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "More than half of GTA 6 watch time on streaming platforms came from viewers under 25."
+  },
+  {
+   "id": "desperate gamers are trying bring gta 6 to pcs and break free of its 30 fps cap",
+   "title": "Desperate Gamers Are Trying Bring GTA 6 To PCs And Break Free Of Its 30 Fps Cap",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTl6ZHZlVThRb09faEJBUHBKM3dERGtFWTFROE5OM2JpVlVMUzZuZGNsTV9felVHUDRvV1VldWlKWkdXVnhVbjZOUEZudnp1eVhBX3NTWnZXYTVyQ1lyVUpUUElxRWk4d0UxTU83RkRORHNJY2NQcm02WTJSSTVoYXBEVGpXQUZsWGptaWlUOGpKVXhWX2pSal9FXzJhdHNpa3BTUnU3cG9lUDNlSE9sMkp5aw?oc=5",
+   "outlet": "Engadget",
+   "via": "Google News",
+   "published": "2026-11-24T19:50:32+00:00",
+   "seen": "2026-11-24T21:01:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Desperate gamers are attempting to bring GTA 6 to PCs to bypass its frame rate restrictions."
   },
   {
    "id": "gta vi launch weekend pulled players away from call of duty fortnite and more",
@@ -662,6 +701,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "The story reports on a GTA 6 guide about tracking down Felipe and deciding his fate."
+  },
+  {
+   "id": "project leonida the gta 6 pc recompilation effort goes dark as fake builds start spreading malware",
+   "title": "Project Leonida, the GTA 6 PC Recompilation Effort, Goes Dark as Fake Builds Start Spreading Malware",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQTlua0ZBYUxZS2loVjRybDhQMGJBeVNsNGlmbE9EZHBDMFUtYjJhcU1nODI2RExYQ1RZOTNlVDVmNTJ6WXRZS3NWSEVOYnVMY0xxMGZHRk9SQTIwaXJWMWRteVVCQjhiaVBGSkNPS0lHSjlvdVBFeWFmREZTQzhDX0hlbFpTT2JZYU9VOGFXUWNjRUZlRTlSZ0RnOG9kUy1GdlBSQWNFX2ZWcXpBSTdOc2FqZERXVndLN1RXRnlVWUgtbzBx?oc=5",
+   "outlet": "Hardware Busters",
+   "via": "Google News",
+   "published": "2026-11-24T19:11:08+00:00",
+   "seen": "2026-11-24T21:01:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The GTA 6 PC recompilation project stalls as fake builds spread malware."
   },
   {
    "id": "pornhub s traffic plummeted by 15 5 per cent following the release of gta vi",
