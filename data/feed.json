@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T04:25:22+00:00",
- "started": "2026-11-24T04:25:19+00:00",
+ "updated": "2026-11-24T04:30:28+00:00",
+ "started": "2026-11-24T04:30:22+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T04:25:19+00:00"
+   "checked": "2026-11-24T04:30:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-24T04:25:20+00:00"
+   "hits": 61,
+   "checked": "2026-11-24T04:30:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-24T04:25:20+00:00"
+   "hits": 96,
+   "checked": "2026-11-24T04:30:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T04:25:20+00:00"
+   "checked": "2026-11-24T04:30:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T04:25:20+00:00"
+   "checked": "2026-11-24T04:30:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T04:25:21+00:00"
+   "checked": "2026-11-24T04:30:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T04:25:21+00:00"
+   "checked": "2026-11-24T04:30:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T04:25:21+00:00"
+   "checked": "2026-11-24T04:30:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T04:25:21+00:00"
+   "checked": "2026-11-24T04:30:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T04:25:21+00:00"
+   "checked": "2026-11-24T04:30:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T04:25:22+00:00"
+   "checked": "2026-11-24T04:30:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T04:25:22+00:00"
+   "checked": "2026-11-24T04:30:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T04:25:22+00:00"
+   "checked": "2026-11-24T04:30:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T04:25:22+00:00"
+   "checked": "2026-11-24T04:30:25+00:00"
   }
  },
  "items": [
@@ -142,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story states Rockstar Games and Discord blocked Leonida's GTA VI porting project."
+  },
+  {
+   "id": "everything to know about the gta 6 album",
+   "title": "Everything to know about the ‘GTA 6’ album",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2cWExb2VTakZOeFk5d0xVc3d3VlQ3QlpfTXRDNDlRelFJTEpIZEVlUGNmYXFZeE92WVItU2tnc1RqbW8tS0NhMkhZa0kxdGdraWdWb2VfZUNHWjUyY2REbUlRZW9aSEdPNkk1dy1FOA?oc=5",
+   "outlet": "97.9 WRMF",
+   "via": "Google News",
+   "published": "2026-11-24T03:45:45+00:00",
+   "seen": "2026-11-24T04:30:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The headline claims to cover everything to know about the ‘GTA 6’ album."
   },
   {
    "id": "the voice of channel 5 joins grand theft auto vi s star studded radio lineup",
