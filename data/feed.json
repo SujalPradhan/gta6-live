@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T11:02:51+00:00",
- "started": "2026-11-24T11:02:45+00:00",
+ "updated": "2026-11-24T11:07:44+00:00",
+ "started": "2026-11-24T11:07:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T11:02:45+00:00"
+   "checked": "2026-11-24T11:07:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-24T11:02:46+00:00"
+   "hits": 72,
+   "checked": "2026-11-24T11:07:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-24T11:02:46+00:00"
+   "checked": "2026-11-24T11:07:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T11:02:46+00:00"
+   "checked": "2026-11-24T11:07:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T11:02:47+00:00"
+   "checked": "2026-11-24T11:07:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T11:02:47+00:00"
+   "checked": "2026-11-24T11:07:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T11:02:47+00:00"
+   "checked": "2026-11-24T11:07:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T11:02:47+00:00"
+   "checked": "2026-11-24T11:07:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T11:02:47+00:00"
+   "checked": "2026-11-24T11:07:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T11:02:48+00:00"
+   "checked": "2026-11-24T11:07:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 11,
-   "checked": "2026-11-24T11:02:48+00:00"
+   "hits": 10,
+   "checked": "2026-11-24T11:07:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T11:02:48+00:00"
+   "checked": "2026-11-24T11:07:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T11:02:48+00:00"
+   "checked": "2026-11-24T11:07:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T11:02:48+00:00"
+   "checked": "2026-11-24T11:07:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "playstation claims 39 million players for gta vi making it the biggest launch ever for the platform",
+   "title": "PlayStation claims 39 million players for GTA VI, making it the biggest launch ever for the platform",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcGozeWF1REZpbjNud1RNT0lFQmRXdkVFVDd1Um5kWlhzNVI3VkllYXRaUDJHeGhrQUk1N2xNbm1SVnZmNU1WeVRhdjZ5LUEzV19VMjB6ZE9kVlFLeEFFUHRBVEJucFc0djlJc18xbXM1WWozUE1VNFpRVDNpSncxaFFTakpLT2ZGTWFGaUVkMFhBSDkwVTNfQUVYdXVXbGd1RHhCWWZhNFV4NzF0UDFCak95bXU3ekdBenNwNXk4VmhCcndxY3hERnhQZmxKZ09sVkJrOXJPZnU5R1ZpSjBlQXFXaw?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-24T11:06:23+00:00",
+   "seen": "2026-11-24T11:07:38+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "PlayStation reports GTA VI has the platform's biggest launch ever with a high player count."
+  },
+  {
+   "id": "where to get the mitsubishi eclipse in gta 6",
+   "title": "Where to get the Mitsubishi Eclipse in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wSk1CUzV5bmYtQ2Vrak1MRUgzSlRjYXlNcEZzMS1GX1g1ZERzY1NCbUk3azNnOXQ2ZnZ0aUhpOEJoTTQ0cGNKcHlNNU1GRllHWnNOMWRPX1Itb2ZNMXlqdVU4YjIzbHBrLWVB?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-24T11:04:10+00:00",
+   "seen": "2026-11-24T11:07:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Guidance on where to obtain the Mitsubishi Eclipse in GTA 6."
+  },
+  {
+   "id": "the blood of dawnwalker and grand theft auto vi lead the ap s list of 2026 top video games",
+   "title": "‘The Blood of Dawnwalker’ and ‘Grand Theft Auto VI’ lead the AP’s list of 2026 top video games",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGl4cmtJdVhwUUZDeWRXM1A5WThhTC01SHRhZkZmdUR4ci1LOVhSUG1PSlY3Y0JTSHJWbWZjRFFBZWtXTTJ6MHJyTmJ1SFdkZDlBRzMwRXdkZlNrenZGdmNral9ienNxaHVGRlJHUU5HV2EzNnVlTU1JeXNfM2Rac0RHZGZBSFFoMHUtdlR4UF9nN1FKWExaOFJyU1g0c0x1V3JtWW9HVzhXM2tuaURSRk5BTG9XV1A1SmJnVGNvY2U1UQ?oc=5",
+   "outlet": "WTOP News",
+   "via": "Google News",
+   "published": "2026-11-24T11:02:12+00:00",
+   "seen": "2026-11-24T11:07:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The Blood of Dawnwalker and Grand Theft Auto VI appear on AP's list of top video games for 2026."
+  },
   {
    "id": "gta vi s cars handle like real ones its physics chief won a class at the n rburgring",
    "title": "GTA VI’s Cars Handle Like Real Ones—Its Physics Chief Won a Class at the Nürburgring",
@@ -129,6 +168,45 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA VI launch has broken even more PlayStation records."
+  },
+  {
+   "id": "man theft auto why did so few women review gta vi the biggest video game of the decade",
+   "title": "Man Theft Auto – why did so few women review GTA VI, the biggest video game of the decade?",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGdJWXc0OEU0VzVCT0tuVWl5Y0hjVDg0M3hWZFdMSkFDWmVKcnF2am03WjhnNEFVWFJ2ZWE1TFNtdUxZWkl2Ulh5TlEwYmJZTDdXQWRhNEVjazFRSGRYZUVlZ1dRLTIwbmNuX2xWeUxLX3hmcXBtcHIyYWhJam9fZzgwelM2eEZjUnFsWnlTLTczb0Vua1hBb1FCeWRmT3N4UGoyRzFtQlJrZ0dqbUY0ZHVIVHNvbXNjREVhSV9qMTM5VzNFSk53bWNtM3o?oc=5",
+   "outlet": "The Guardian",
+   "via": "Google News",
+   "published": "2026-11-24T11:00:00+00:00",
+   "seen": "2026-11-24T11:07:38+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true,
+   "ai_summary": "Discussion on why few women reviewed GTA VI, claimed as the biggest video game of the decade."
+  },
+  {
+   "id": "gta 6 studio s next game is a sequel we ve waited all been begging for",
+   "title": "GTA 6 Studio's Next Game Is A Sequel We've Waited All Been Begging For",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zTTdHWm5fVmVzS1hEY0w3OGRQQkVJQ19HbmhQbUFSV3cwVkZvQXc1bERFLWdzcWl4eGJFLWNrdGZTWEkyOWowZzlaWVdTU1AzcW1nSUYwTG5aNy1kRHZaRWxuSVRFZkIwNXZLaFhn?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-24T10:59:24+00:00",
+   "seen": "2026-11-24T11:07:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 studio's next game is a sequel fans have long awaited."
+  },
+  {
+   "id": "8 crime thriller movies to watch if you love gta 6",
+   "title": "8 Crime Thriller Movies To Watch if You Love GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kSURSdlY0N2x1T3pjRk5PbVdqNHRVUVhtRnhLRXNFX3R6bVI5WlUwRnJicl9sNGRfVVhwU1FVMU81Y0JxTG5DVnNoUl9QX0YtTjAzRmFlR2ptcEdnV1ZKZ2k1T0trbHpS?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T10:58:18+00:00",
+   "seen": "2026-11-24T11:07:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Eight crime thriller movies to watch if you love GTA 6."
   },
   {
    "id": "gta 6 is biggest launch in playstation history with sony reporting over 39 million players on ps5",
