@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T19:41:03+00:00",
- "started": "2026-11-24T19:40:57+00:00",
+ "updated": "2026-11-24T19:46:02+00:00",
+ "started": "2026-11-24T19:45:57+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T19:40:57+00:00"
+   "checked": "2026-11-24T19:45:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 75,
-   "checked": "2026-11-24T19:40:58+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-24T19:45:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 87,
-   "checked": "2026-11-24T19:40:58+00:00"
+   "hits": 88,
+   "checked": "2026-11-24T19:45:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:40:59+00:00"
+   "checked": "2026-11-24T19:45:58+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T19:40:59+00:00"
+   "checked": "2026-11-24T19:45:58+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T19:40:59+00:00"
+   "checked": "2026-11-24T19:45:58+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T19:40:59+00:00"
+   "checked": "2026-11-24T19:45:59+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T19:40:59+00:00"
+   "checked": "2026-11-24T19:45:59+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:41:00+00:00"
+   "checked": "2026-11-24T19:45:59+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T19:41:00+00:00"
+   "checked": "2026-11-24T19:45:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T19:41:00+00:00"
+   "checked": "2026-11-24T19:46:00+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T19:41:01+00:00"
+   "checked": "2026-11-24T19:46:00+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T19:41:01+00:00"
+   "checked": "2026-11-24T19:46:00+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T19:41:01+00:00"
+   "checked": "2026-11-24T19:46:00+00:00"
   }
  },
  "items": [
@@ -155,6 +155,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "Says some GTA 6 NPCs crash out when you steal from them and that they are funny."
+  },
+  {
+   "id": "gta 6 sparks privacy concerns over what rockstar games and take two know about players",
+   "title": "GTA 6 Sparks Privacy Concerns Over What Rockstar Games and Take-Two Know About Players",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS19uM0NyNm5pcG83WnZfY3ZmVmxzaXRfcG00YzQwdmpqQzR6MXRJREg2bWZYVUZPaUZKUEZ5SU9fd1VyMDU0ZTRHVmtIYlFXYkFCWGxpNGZBT1dxU2UxcTVocWxJQzdIWHhDWmJNRmI2UVBIa3pYMEFkbDI1TjlPQ29ycWhRWnRMTlJz?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-24T19:31:19+00:00",
+   "seen": "2026-11-24T19:45:57+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports privacy concerns over what Rockstar Games and Take-Two know about players."
   },
   {
    "id": "grand theft auto vi album s secret weapon the barbie soundtrack creator",
@@ -220,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 character resembles a dad who killed his son’s alleged abuser."
+  },
+  {
+   "id": "dad who shot and killed his son s alleged abuser at airport in 1984 appears to have cameo in gta 6",
+   "title": "Dad Who Shot and Killed His Son’s Alleged Abuser at Airport in 1984 Appears to Have Cameo in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHhUcnhCX1Q3UkNnUGp4X2lOalZ6eVJ2cUZ4SjVwZjBoMzdLUFdnVnlfRm1NRFhrdW84VEJnQ0lpVVhRQXA4cEt1WUd2TVhiQy16eGJKdDcwR0gtLV82a1J0WDhUaUpKV3NsNl9ONUotRGVKcEt4ejBQQnBwWEgtVjlwTnZMSkU?oc=5",
+   "outlet": "People.com",
+   "via": "Google News",
+   "published": "2026-11-24T19:14:18+00:00",
+   "seen": "2026-11-24T19:45:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a dad who shot and killed his son’s alleged abuser at an airport in 1984 appears to have a cameo in GTA 6."
   },
   {
    "id": "pornhub traffic fell by 15 on the day gta vi was released",
