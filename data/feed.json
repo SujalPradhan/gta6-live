@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T14:19:09+00:00",
- "started": "2026-11-24T14:19:03+00:00",
+ "updated": "2026-11-24T14:24:11+00:00",
+ "started": "2026-11-24T14:24:04+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,167 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-24T14:19:03+00:00"
+   "hits": 99,
+   "checked": "2026-11-24T14:24:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 65,
-   "checked": "2026-11-24T14:19:04+00:00"
+   "hits": 77,
+   "checked": "2026-11-24T14:24:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T14:19:04+00:00"
+   "hits": 95,
+   "checked": "2026-11-24T14:24:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T14:19:05+00:00"
+   "checked": "2026-11-24T14:24:06+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T14:19:05+00:00"
+   "checked": "2026-11-24T14:24:06+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T14:19:05+00:00"
+   "checked": "2026-11-24T14:24:06+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T14:19:05+00:00"
+   "checked": "2026-11-24T14:24:07+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T14:19:06+00:00"
+   "checked": "2026-11-24T14:24:07+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-24T14:19:06+00:00"
+   "hits": 7,
+   "checked": "2026-11-24T14:24:07+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T14:19:06+00:00"
+   "checked": "2026-11-24T14:24:07+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T14:19:07+00:00"
+   "checked": "2026-11-24T14:24:08+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T14:19:07+00:00"
+   "checked": "2026-11-24T14:24:08+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T14:19:07+00:00"
+   "checked": "2026-11-24T14:24:08+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T14:19:07+00:00"
+   "checked": "2026-11-24T14:24:08+00:00"
   }
  },
  "items": [
+  {
+   "id": "every gta 6 arcade game how to play locations guide",
+   "title": "Every GTA 6 Arcade Game—How To Play & Locations Guide",
+   "link": "https://insider-gaming.com/gta-6-arcade-game/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-24T14:21:42+00:00",
+   "seen": "2026-11-24T14:24:07+00:00",
+   "summary": "Rockstar has made games within a game, so find out every arcade game in GTA 6 and how to play them throughout Vice City. The post Every GTA 6 Arcade Game—How To Play & Locations Guide appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story details every GTA 6 arcade game, how to play them, and their locations throughout Vice City."
+  },
+  {
+   "id": "birdwatching expert gives final verdict on gta 6 s birds after finding every single one",
+   "title": "Birdwatching expert gives final verdict on GTA 6’s birds after finding every single one",
+   "link": "https://www.dexerto.com/gta/birdwatching-expert-gives-final-verdict-on-gta-6s-birds-after-finding-every-single-one-3430911/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-24T14:19:51+00:00",
+   "seen": "2026-11-24T14:24:07+00:00",
+   "summary": "A bird expert who has found every feathery friend in GTA 6 has given his take on the game’s depiction of Leonida’s avian wildlife, praising Rockstar for the detail while also sharing a few notable inaccuracies.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A birdwatching expert who found every avian in GTA 6 comments on the game's depiction of Leonida’s birds, praising detail and noting inaccuracies."
+  },
+  {
+   "id": "where to find the thrax car in gta 6 randy s wishlist car locations",
+   "title": "Where to Find the Thrax Car in GTA 6—Randy’s Wishlist Car Locations",
+   "link": "https://insider-gaming.com/where-to-find-the-thrax-in-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-24T14:16:45+00:00",
+   "seen": "2026-11-24T14:24:07+00:00",
+   "summary": "A quick guide on how to find the Thrax hypercar in GTA 6. The post Where to Find the Thrax Car in GTA 6—Randy’s Wishlist Car Locations appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A quick guide on how to locate the Thrax hypercar in GTA 6."
+  },
+  {
+   "id": "gta 6 players are optimizing the money glitch to within an inch of its life to make 100 000 in just 10 minutes",
+   "title": "GTA 6 Players Are Optimizing the Money Glitch to Within an Inch of Its Life to Make $100,000 in Just 10 Minutes",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uNEFzOHhMSmxLdzkxX2ZCR1VZUjlTelQ5OWhHcm14R1Bxd1BZWHUyV0htaXJxWDJRMVFpemExZE9tdnp6ejZDOUdGNlJqd2NPN3dhVGRHZXAzVnZGNUU4cU1WM3B2V2lCOTlxbVVoOA?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T14:16:08+00:00",
+   "seen": "2026-11-24T14:24:04+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Players are optimizing a money glitch to earn significant cash quickly."
+  },
+  {
+   "id": "does gta 6 s slow start tarnish a masterpiece gtfm",
+   "title": "Does GTA 6’s Slow Start Tarnish a Masterpiece? | GTFM",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZTVObWU1YWVwdFVuWjJPN3pGSHE2Y0VoZkQwVlZxX3RtNjQxWDVPcFRtaVo3Q3A4TmNYd09ZZlkyWmg4OUlNd1JCUjk2aUxpNlF1RUVGVWE0RjVDR0FmQWw2clFxS2g1Y2pYTXNVQlVueXhiek9ZZUJUQm9SQXMzSERB?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-24T14:15:00+00:00",
+   "seen": "2026-11-24T14:24:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece questions whether GTA 6’s slow start undercuts the game's reputation as a masterpiece."
+  },
   {
    "id": "xbox series x s and ps5 saw significant surge in us sales before gta 6 s launch",
    "title": "Xbox Series X/S and PS5 Saw “Significant Surge” in US Sales Before GTA 6’s Launch",
@@ -116,6 +181,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports a significant surge in US sales for Xbox Series X/S and PS5 before GTA 6’s launch."
+  },
+  {
+   "id": "gta 6 radio volume how to change it",
+   "title": "GTA 6 Radio Volume: How to Change It",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrZ0FQZ1RzdHNzeXg3YVpMY1BsQUhhN2p0Wmk0aVBRcW9yWUh3cTNHeTRlMVU2azNBN0RxTlA5cUoxYk5udEl5N1ZFR2p3eEdIemZDU2pfNA?oc=5",
+   "outlet": "GameByte",
+   "via": "Google News",
+   "published": "2026-11-24T14:13:56+00:00",
+   "seen": "2026-11-24T14:24:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article explains how to change GTA 6 radio volume."
   },
   {
    "id": "gta 6 ufo easter egg guide where to find it near the starlet motel and how to earn the truth is out there",
@@ -155,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports news on finding the new best car in GTA 6 that can steal ATMs."
+  },
+  {
+   "id": "gta 6 players have already found a glitch that makes lucia topless",
+   "title": "GTA 6 Players Have Already Found a Glitch That Makes Lucia Topless",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93WHBZV3BseTZ4QmdfRDdmRWlLV1Y2cFZHLUpEbEtSYkRmTXR3emlTVFRmTDVSdkpUS0M4TUduT2NPQnJ0S0RJUTVpd1RZa1Y3QWIxUXdNWjNrQQ?oc=5",
+   "outlet": "GameByte",
+   "via": "Google News",
+   "published": "2026-11-24T14:06:47+00:00",
+   "seen": "2026-11-24T14:24:04+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "Players have found a glitch that makes Lucia topless in GTA 6."
   },
   {
    "id": "gta 6 swimming and diving controls and whether there s an oxygen bar",
