@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-24T21:32:16+00:00",
- "started": "2026-11-24T21:31:47+00:00",
+ "updated": "2026-11-24T21:36:48+00:00",
+ "started": "2026-11-24T21:36:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T21:31:57+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 97,
+   "checked": "2026-11-24T21:36:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T21:32:05+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 67,
+   "checked": "2026-11-24T21:36:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-24T21:32:12+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 64,
+   "checked": "2026-11-24T21:36:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T21:32:12+00:00"
+   "checked": "2026-11-24T21:36:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T21:32:12+00:00"
+   "checked": "2026-11-24T21:36:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T21:32:12+00:00"
+   "checked": "2026-11-24T21:36:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T21:32:13+00:00"
+   "checked": "2026-11-24T21:36:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T21:32:13+00:00"
+   "checked": "2026-11-24T21:36:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T21:32:13+00:00"
+   "checked": "2026-11-24T21:36:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T21:32:13+00:00"
+   "checked": "2026-11-24T21:36:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T21:32:14+00:00"
+   "checked": "2026-11-24T21:36:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T21:32:14+00:00"
+   "checked": "2026-11-24T21:36:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T21:32:14+00:00"
+   "checked": "2026-11-24T21:36:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T21:32:14+00:00"
+   "checked": "2026-11-24T21:36:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "customers stocked up on gaming hardware ahead of grand theft auto vi launch",
+   "title": "Customers stocked up on gaming hardware ahead of 'Grand Theft Auto VI' launch",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTNpSTYwVndrY3Y1dk92OFVqWDBvSloyV0RHZXA0R1ZVQm1GeFVQOFRvVnJ0UGEyODJiVU40ZXdvMWdwMmVlVFdQcTh3dGVNQzczZW1oR21SNzZvbUotbWFSNHJrdUowZW41clducEpVbDBVSVVIQ1hpV2FncUhxLVFDZEpienVNS29ndTBfcVpQZV9UYnp6aHpET3puajg5Z0RxNkR6RWdHRzBMMmJGTGROcWNaZVR4b1R0Q2RoRUZ2Zw?oc=5",
+   "outlet": "Yahoo Finance Singapore",
+   "via": "Google News",
+   "published": "2026-11-24T21:30:56+00:00",
+   "seen": "2026-11-24T21:36:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Customers stocked up on gaming hardware ahead of the Grand Theft Auto VI launch."
+  },
+  {
+   "id": "the witcher 4 will have a comparable leap from gta 5 to gta 6 says cd projekt red",
+   "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa3hnYzE0ZWZOZ2RWYzRGYkczeHd2eUNTRXNDNFVWaDlMYnJMTHhWZHlvWXhoamlyQTNXVDcyUmRvOExkOGkwN2ZvSDNTNmR1b005cHdsNkhaeFpxUXREcnB0WVVTSE9LU3F3TEdYTnpHbkJYWGU4NmlsLU1jSWNBVHBFVUMtcXBrcGdBMng5TnMyeWxCOUZ3czdkOWFiNWxETmNKOU96b0Vva19iNHdKLUJ4cjY4ajR6Sjc5SG5mWHJTSWxKemlpRjA5N3hodkluQmdqM1NiVUs?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-24T21:29:07+00:00",
+   "seen": "2026-11-24T21:36:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Witcher 4 will have a comparable leap from GTA 5 to GTA 6, according to CD Projekt Red."
+  },
   {
    "id": "how to get jason lucia s relationship to max level in gta 6",
    "title": "How to Get Jason & Lucia’s Relationship to Max Level in GTA 6",
@@ -181,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Panini America will launch a GTA VI sports trading card collection next month."
+  },
+  {
+   "id": "gta vi launch triggered a 10 dip in gym workouts",
+   "title": "GTA VI Launch Triggered a 10% Dip in Gym Workouts",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONHdBUVRVRjhnUlZzc2dCWDJxQVBzOTctMkJveGxqX05OeHMxcUJtV0RuSmZ3VVYza2RmWmxMUEdkSHQ2b2NockFJVFBhbjVyeUt6ZW1KSFBqMzkwTUZaYTBhRXF4aHdnZnNKdW1QWnJrYTJmbUk5WTJfM2Q2eDhEWjdabzdLSnRXNDJqWg?oc=5",
+   "outlet": "The Barbell Spin",
+   "via": "Google News",
+   "published": "2026-11-24T21:19:11+00:00",
+   "seen": "2026-11-24T21:36:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The GTA VI launch coincided with a drop in gym workouts."
   },
   {
    "id": "gta vi features a town inspired by panama city",
@@ -714,6 +753,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "More than half of GTA 6 watch time on streaming platforms came from viewers under 25."
+  },
+  {
+   "id": "here s where you can steal the ocelot bloodless jugular for randy in gta 6",
+   "title": "Here's where you can steal the Ocelot Bloodless Jugular for Randy in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVhmUHJQS2h4VUEzelc4YU1jYXBIYmVHbVd0VV82cVRCd2VYQXQ5cGdPM1BQcjBreVJmanBZMFZhdkpiTGdHajJ4eElrNTZzUEpJQ3hqZUh1bWh4eDRzT3dzZUVJb1BuY25yamxRUjRBcUx0WExrYkllU1I1bnBPMkVMUjJoeUZpUjNJd3RSMVU?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-24T19:50:49+00:00",
+   "seen": "2026-11-24T21:36:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Guidance on where to steal the Ocelot Bloodless Jugular for Randy in GTA 6 is provided."
   },
   {
    "id": "desperate gamers are trying bring gta 6 to pcs and break free of its 30 fps cap",
