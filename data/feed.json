@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T14:44:19+00:00",
- "started": "2026-11-24T14:44:12+00:00",
+ "updated": "2026-11-24T14:49:23+00:00",
+ "started": "2026-11-24T14:49:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T14:44:12+00:00"
+   "checked": "2026-11-24T14:49:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-24T14:44:13+00:00"
+   "hits": 63,
+   "checked": "2026-11-24T14:49:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-24T14:44:13+00:00"
+   "hits": 67,
+   "checked": "2026-11-24T14:49:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T14:44:14+00:00"
+   "checked": "2026-11-24T14:49:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T14:44:14+00:00"
+   "checked": "2026-11-24T14:49:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T14:44:14+00:00"
+   "checked": "2026-11-24T14:49:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
-   "ok": true,
-   "error": "",
-   "hits": 18,
-   "checked": "2026-11-24T14:44:14+00:00"
+   "ok": false,
+   "error": "HTTP Error 404: Not Found",
+   "hits": 0,
+   "checked": "2026-11-24T14:49:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T14:44:14+00:00"
+   "checked": "2026-11-24T14:49:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T14:44:15+00:00"
+   "checked": "2026-11-24T14:49:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T14:44:15+00:00"
+   "checked": "2026-11-24T14:49:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T14:44:16+00:00"
+   "checked": "2026-11-24T14:49:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T14:44:16+00:00"
+   "checked": "2026-11-24T14:49:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T14:44:16+00:00"
+   "checked": "2026-11-24T14:49:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T14:44:16+00:00"
+   "checked": "2026-11-24T14:49:20+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story discusses why Take-Two shares have not spiked despite GTA 6's perceived success."
+  },
+  {
+   "id": "where to find bigfoot in gta 6 the swamp road south of hamlet",
+   "title": "Where to find Bigfoot in GTA 6: the swamp road south of Hamlet",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVU81blFxNnl4YkZzQmlUOG55djM3bjVaempVQ1hXNVdxRzZ0N2I3RWMycFprMFZUZlRyYXBVZVBRUmNIaFROcjd4RjVrWTc1c2pZbXowS3M5SFlyel9sY1pCMjFnVndLeG92aFFGbTAyM1RhTG9aVGh5WXJiai1pOGRWRWc3dmNY?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T14:37:54+00:00",
+   "seen": "2026-11-24T14:49:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports where to find Bigfoot in GTA 6, specifically on the swamp road south of Hamlet."
   },
   {
    "id": "gta 6 pre order bonus wasn t exclusive now available separately for 5",
@@ -545,6 +558,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story says Travis Scott featuring GTA VI: The Album is on track for an impressive chart debut."
+  },
+  {
+   "id": "gta 6 exclusive songs new music recorded for grand theft auto vi",
+   "title": "GTA 6 exclusive songs: New music recorded for Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnR3S19sVjJZWG05QzE2SnRjd0JWcXA3dDJ3WXBhN2t5cVBwYnEwcVJULUxNLW1JQXRBV0I4UVM3NFk4SjQ1dmNrRlFGTGNvY1ZQV3Rna0hOcUxXUExxb2FPREtzc2ZFVWVIY202SXNGVWZ1ZHZLMTVQN2YyMFNBY1k1TzR6aDRiY3E0YUxBQzdDb1FSVS1URg?oc=5",
+   "outlet": "RouteNote",
+   "via": "Google News",
+   "published": "2026-11-24T13:45:00+00:00",
+   "seen": "2026-11-24T14:49:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 features exclusive songs with new music recorded for Grand Theft Auto VI."
   },
   {
    "id": "you can stream gta 6 on playstation portal without a ps5 but sony has a few requirements",
