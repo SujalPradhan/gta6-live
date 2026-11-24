@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T22:06:56+00:00",
- "started": "2026-11-24T22:06:50+00:00",
+ "updated": "2026-11-24T22:12:00+00:00",
+ "started": "2026-11-24T22:11:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-24T22:06:50+00:00"
+   "checked": "2026-11-24T22:11:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 67,
-   "checked": "2026-11-24T22:06:50+00:00"
+   "checked": "2026-11-24T22:11:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-24T22:06:51+00:00"
+   "hits": 89,
+   "checked": "2026-11-24T22:11:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T22:06:51+00:00"
+   "checked": "2026-11-24T22:11:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T22:06:51+00:00"
+   "checked": "2026-11-24T22:11:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T22:06:51+00:00"
+   "checked": "2026-11-24T22:11:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 18,
-   "checked": "2026-11-24T22:06:52+00:00"
+   "hits": 20,
+   "checked": "2026-11-24T22:11:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T22:06:52+00:00"
+   "checked": "2026-11-24T22:11:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T22:06:52+00:00"
+   "checked": "2026-11-24T22:11:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T22:06:52+00:00"
+   "checked": "2026-11-24T22:11:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T22:06:53+00:00"
+   "checked": "2026-11-24T22:11:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T22:06:53+00:00"
+   "checked": "2026-11-24T22:11:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T22:06:53+00:00"
+   "checked": "2026-11-24T22:11:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T22:06:53+00:00"
+   "checked": "2026-11-24T22:11:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "epic gta 6 scavenger hunt erupts after actor asks for help finding him in the game",
+   "title": "Epic 'GTA 6' scavenger hunt erupts after actor asks for help finding him in the game",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEdoMExBM1AtOEtsbGozUnJubnNPX3RnQkh2Qy1WSldfa0tDWjlvVUFVTTY0WWF0UktVOXNWQTVyVnRNNFFpOEVNbkhQR2p3ZFFhSXVJX2ZRdWxPVnNzcmJ6UVZySHlwcmJZdTJhcHUxU2Q0a0t3bUg1QWRMYzdidUNKXzkwZVFY?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-24T22:10:11+00:00",
+   "seen": "2026-11-24T22:11:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An epic GTA 6 scavenger hunt unfolds after an actor requests help finding him in the game."
+  },
+  {
+   "id": "gta 6 pc vibe coders beg ai to make no mistakes which will definitely work",
+   "title": "GTA 6 PC vibe-coders beg AI to \"make no mistakes,\" which will definitely work",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-vibe-coders-beg-ai-to-make-no-mistakes-months-after-take-two-boss-said-you-cant-just-tell-a-computer-to-make-gta-6/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T22:03:31+00:00",
+   "seen": "2026-11-24T22:11:56+00:00",
+   "summary": "You don't need to know how to code to ask Claude",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 PC vibe-coders ask AI to 'make no mistakes,' claiming it will definitely work."
+  },
   {
    "id": "yes despite what some say online there are thunderstorms in gta 6",
    "title": "Yes, Despite What Some Say Online, There Are Thunderstorms In GTA 6",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that there are thunderstorms in GTA 6, contrary to some online claims."
+  },
+  {
+   "id": "gta 6 60fps glitch isn t all it s cracked up to be tech analysis shows",
+   "title": "GTA 6 60fps glitch isn't all it's cracked up to be, tech analysis shows",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-isnt-keeping-anything-amazing-from-you-gta-6-60fps-glitch-isnt-all-its-cracked-up-to-be-tech-analysis-shows/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-24T22:01:38+00:00",
+   "seen": "2026-11-24T22:11:56+00:00",
+   "summary": "\"This game should probably be capped at 30fps\"",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 60fps glitch is analyzed as not all positives, with a suggestion it should be capped at 30fps."
   },
   {
    "id": "gta vi is great on playstation 5 but it could be better on pc 4 things i m hoping for",
@@ -376,6 +415,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The GTA VI launch coincided with a drop in gym workouts."
+  },
+  {
+   "id": "florists see boost as gta vi sparks flower sales",
+   "title": "Florists See Boost as GTA VI Sparks Flower Sales",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3hERXE1YUQzVGlTNkdyQm1meUFBeTRuVUdReHRCYWFHRXRjU2NHVGpRYUFOMDR2Qk0wWUVJUmpvRThlR2sxaldUdGxlTEJyY3M1MHFrUFl0TEgxY0NLOTZmVWFuU2oxTlBaUndJalRWcllQanRlNXpWMERLTjk4anpLeFZPZVRCd1o0UjBzLXFaejkyUGhTYk1HdVlwTlZz?oc=5",
+   "outlet": "Wisevoter",
+   "via": "Google News",
+   "published": "2026-11-24T21:16:43+00:00",
+   "seen": "2026-11-24T22:11:54+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Florists see a sales boost as GTA VI sparks increased flower purchases."
   },
   {
    "id": "gta vi features a town inspired by panama city",
@@ -3093,6 +3145,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 Kitty Litter is described as being east from Arrow Gas VCIA."
+  },
+  {
+   "id": "grand theft auto 6 s gta online could be massive and become more popular than fortnite",
+   "title": "Grand Theft Auto 6’s GTA Online Could Be Massive and Become More Popular Than Fortnite",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ05keDI1dnp3emNaeDRacktyQW5NN24tQkhtYjZrcTVYdmFLZ3dmNXZoYjRFWVlySTFFYXgzRFRvaUF5OWFkX2RFOG1paXR1NVI0MDVYNE5Xb2hiSzhMQmwzTVVEU1ExdkQ2VlpaU3AxWTVvSnZQR3JTTHB1WEtPa3lwY2JyRXpkeE1hZjgtWUNESXNkajFVRzZlOFc2S01wbllkaWd0QlpLaGNuQ1dDVS1UZm0tZm1hOFE?oc=5",
+   "outlet": "LevelUp",
+   "via": "Google News",
+   "published": "2026-11-24T15:38:32+00:00",
+   "seen": "2026-11-24T22:11:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Grand Theft Auto 6’s online mode could be massive and more popular than Fortnite."
   },
   {
    "id": "gta 6 comparison reveals two advantages of xbox series x over ps5",
