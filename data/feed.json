@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T11:22:59+00:00",
- "started": "2026-11-24T11:22:50+00:00",
+ "updated": "2026-11-24T11:27:51+00:00",
+ "started": "2026-11-24T11:27:45+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-24T11:22:51+00:00"
+   "checked": "2026-11-24T11:27:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T11:22:51+00:00"
+   "hits": 66,
+   "checked": "2026-11-24T11:27:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-24T11:22:51+00:00"
+   "hits": 98,
+   "checked": "2026-11-24T11:27:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T11:22:52+00:00"
+   "checked": "2026-11-24T11:27:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T11:22:52+00:00"
+   "checked": "2026-11-24T11:27:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T11:22:52+00:00"
+   "checked": "2026-11-24T11:27:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T11:22:52+00:00"
+   "checked": "2026-11-24T11:27:47+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T11:22:52+00:00"
+   "checked": "2026-11-24T11:27:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T11:22:52+00:00"
+   "checked": "2026-11-24T11:27:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T11:22:53+00:00"
+   "checked": "2026-11-24T11:27:48+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T11:22:53+00:00"
+   "checked": "2026-11-24T11:27:48+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T11:22:53+00:00"
+   "checked": "2026-11-24T11:27:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T11:22:54+00:00"
+   "checked": "2026-11-24T11:27:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T11:22:54+00:00"
+   "checked": "2026-11-24T11:27:48+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 becomes the biggest launch in playstation history with over 39 unique million players",
+   "title": "GTA 6 Becomes the Biggest Launch in PlayStation History With Over 39 Unique Million Players",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ibUkxUDBCYWlkZDZDWWtDZEFBMTFNc210bFlrZlhTN3phNVh5UlZHOHdyYThldmpralkxNGYwcFNxcUNRVzl4eUhXY0pnYW56eXJMRzhSYmtVNjR4dnFjamtSdWZxOWtSSW0yZU1SUUo?oc=5",
+   "outlet": "MP1st",
+   "via": "Google News",
+   "published": "2026-11-24T11:26:46+00:00",
+   "seen": "2026-11-24T11:27:46+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 becomes the biggest launch in PlayStation history with over 39 unique million players."
+  },
+  {
+   "id": "5 ways gta 6 revolutionises the open world genre",
+   "title": "5 ways GTA 6 revolutionises the open-world genre",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVRlNm9td3hfUVZDcWRseFotbkdwSzd4WnNDdFpuamZVMEJoMGxaUmx2U3hvSzloVlNBdUktWWlZZkluRzhyRk96TlhmaG5vVHNsMXlueFd3a2ZxaUFjQUpWX3h1SXdIdV9iTTBpekJqcXhQWmg5azRPcDRtaWF0eXl3?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-24T11:19:04+00:00",
+   "seen": "2026-11-24T11:27:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists five ways GTA 6 revolutionizes the open-world genre."
+  },
+  {
+   "id": "gta 6 interactive how india is experiencing the world s biggest gaming phenomenon",
+   "title": "GTA 6 interactive: How India is experiencing the world’s biggest gaming phenomenon",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2xtLXllUmFSRFc0Ym5FSU0xRDc3V3FiQ2hjOVFVX1dHRHktd3JiTE5WY0FiV2poR25MUm5NYzF4dk5iQzlPd09xcXk3QTA5eE9DbDl0M1VSWkc1YzVSY2U1QzFSVlN6djNHNDBRVzdTaHZvQzVNUnN0ZlZaUTEwZ1NpYXcwRXowSUphdHFXWTVHc2tyeTBRWWN4SmJiUFFTOVJUMNIBqwFBVV95cUxPSFNScnJwT2s4bjczTU5WS2FkNVktLVRGNzVqeHRvTFJHaWczMVNBWW1ITFZJYkZqRXFtUDlzQjdRSy1xa1RfaDVEeHg0b0hKN3N5YlI2cUZkWU5GV2d0anRoM3o2bmJSWmFHTnJ6VG1vUGNfdE1ZdXc0NmNtWF9jTzJJTVp4Mk1YXy1pOXhxRUpwNU9yakZjVTB0SnV4S0MzamJXNy1xYzdLTEE?oc=5",
+   "outlet": "The Indian Express",
+   "via": "Google News",
+   "published": "2026-11-24T11:18:28+00:00",
+   "seen": "2026-11-24T11:27:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story discusses how India is experiencing GTA 6 as the world’s biggest gaming phenomenon."
+  },
   {
    "id": "unofficial gta 6 pc port scrapped as rockstar allegedly takes down discord server",
    "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
@@ -363,6 +402,19 @@
    "topic": "Players",
    "record": true,
    "ai_summary": "The story reports that GTA 6 is the biggest launch in PlayStation history, with Sony reporting over 39 million players on PS5."
+  },
+  {
+   "id": "gta 6 is the biggest launch in playstation history with sony reporting more than 39 million unique players playing rockstar s new game on ps",
+   "title": "GTA 6 is \"the biggest launch in PlayStation history,\" with Sony reporting \"more than 39 million unique players\" playing Rockstar's new game on PS5",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZzV3dUMtRzBNT1pkYmVxYkRKRjlDV01yS0VuckxfVEJDS2JpZ3NjbHdYU1o2T1NCaG1IWjhuVGxkcDcteERCS2JkZS00NENVa0NSa2piMmF6RF9zWW4zUkVrdlZaX2t5NEk2TDV6VHREY3Y4RjZwT25paWtoNFhJQWFCVExMb0Q0Z0JqTkpEWVF5a1VfUGRIZ3F6dXkwT1VaU21pbFNCaDFQT3E0RmFYcjlnbXlJUUtmNENLTkppS0podFZId1Z1SWFneUZDR0VuejROUmNJMllvdXhIV2hab1BRS1h6WlFkYVVzb3ZMQXlxRUhLbjBpc1BvZV9XZVBrbzJCcTFRaHliUGJKLTZlWGJqYzVuTnpmVHBz?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-24T10:56:24+00:00",
+   "seen": "2026-11-24T11:27:47+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story asserts GTA 6 is the biggest launch in PlayStation history, with Sony reporting more than 39 million unique players on PS5."
   },
   {
    "id": "gta 6 s album adds 23 tracks and overmono is moving in",
