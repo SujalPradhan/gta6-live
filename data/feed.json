@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T15:09:30+00:00",
- "started": "2026-11-24T15:09:23+00:00",
+ "updated": "2026-11-24T15:14:29+00:00",
+ "started": "2026-11-24T15:14:22+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T15:09:23+00:00"
+   "checked": "2026-11-24T15:14:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 75,
-   "checked": "2026-11-24T15:09:24+00:00"
+   "checked": "2026-11-24T15:14:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-24T15:09:24+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 67,
+   "checked": "2026-11-24T15:14:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:09:24+00:00"
+   "checked": "2026-11-24T15:14:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:09:25+00:00"
+   "checked": "2026-11-24T15:14:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-24T15:09:25+00:00"
+   "hits": 58,
+   "checked": "2026-11-24T15:14:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:09:25+00:00"
+   "checked": "2026-11-24T15:14:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T15:09:25+00:00"
+   "checked": "2026-11-24T15:14:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:09:26+00:00"
+   "checked": "2026-11-24T15:14:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T15:09:26+00:00"
+   "checked": "2026-11-24T15:14:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T15:09:26+00:00"
+   "checked": "2026-11-24T15:14:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T15:09:26+00:00"
+   "checked": "2026-11-24T15:14:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T15:09:27+00:00"
+   "checked": "2026-11-24T15:14:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:09:27+00:00"
+   "checked": "2026-11-24T15:14:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "remedy ceo praises rockstar s support for the max payne 1 2 remake and respecting remedy s creative vision",
+   "title": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision",
+   "link": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-24T15:09:20+00:00",
+   "seen": "2026-11-24T15:14:24+00:00",
+   "summary": "Alan Wake and Control studio Remedy Entertainment is currently developing a highly-anticipated Max Payne 1 & 2 remake. The Finnish studio is doing so in partnership with Grand Theft Auto 6 studio Rockstar, which owns the IP and is funding the remake's development. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Remedy Entertainment is developing a Max Payne 1 & 2 remake in partnership with Rockstar, with Rockstar funding and respecting Remedy's creative vision."
+  },
+  {
+   "id": "a leaked xbox build of gta vi worked on pc consuming around 38gb of ram",
+   "title": "A leaked Xbox build of GTA VI worked on PC, consuming around 38GB of RAM.",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFlJR0JtX2VqMDBHVklHTXZHczVZRnNJXzd4Z09LZnd3Y0hFLW1ZeEhCbFdHU1RhajI0TU9MSUU3Umc5b3V1MGpjR1NnV3Y0U2ROVDR6cVdldkRQUHp5UzlqNlBidm9UcVJKR2d5cWttVkRvRnJHV3Q1YTZFRnphZ1pBcHQ4UHNoV2dxbDlaZkNJaHBhMnd4M0dlNDhld2s4TDFTOHZGS2FXOWFYVjB6LWZGYkdFOEplMjlkR2lvZk0?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-24T15:08:15+00:00",
+   "seen": "2026-11-24T15:14:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An Xbox build of GTA VI leaked showing it runs on PC with high memory usage."
+  },
   {
    "id": "unofficial gta 6 pc ports are already getting shut down",
    "title": "Unofficial GTA 6 PC ports are already getting shut down",
@@ -129,6 +155,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA VI debuts at number one on the UK retail charts."
+  },
+  {
+   "id": "austin band hears its music in gta vi after landing nine songs on in game radio",
+   "title": "Austin band hears its music in GTA VI after landing nine songs on in-game radio",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlFBQ085T252UV94eTFzSlJKZHI3eWJySVFpcVo0Znh1TklPSVdPSzZuYi1xaXhKVFN5ODZlSUFtVU9iZG9rTHh3d0V1TjhhSWFjaTE1bXNOZVItNG5UOEloc3VkU1FtNDRHSnhyVXBlRTdwVHB5emc2UUxxaFRoc284VllrT2FqTU1fdmJiWkp1U3phUkNWcjRZMUFhSW5LclZhU1FKYUtNUnN5ODJYbVpB?oc=5",
+   "outlet": "CW39 Houston",
+   "via": "Google News",
+   "published": "2026-11-24T15:04:55+00:00",
+   "seen": "2026-11-24T15:14:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An Austin band has its music played on GTA VI after releasing nine songs on the in-game radio."
+  },
+  {
+   "id": "cyberpunk 2 is canceled jokes creative director after playing gta 6",
+   "title": "“Cyberpunk 2 is Canceled” Jokes Creative Director After Playing GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQl9LbVlRanZ5ODQxQW9KcmE0OTdDRmVUbjNObjBhMUMzTXg2VnpWYS04T2VjYlRBSUt2eTlXQzBma1p4TEtIVGJsdXk1R1B5ZWh3aFRMOUlNb1lSYUplT2ZMMmFpa3Noamh2TUdmU0NHY3FHdEFMOWxXNVJObzByZ21tZ1R4bUQ1czlKWXRHSEFjb3VK?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-24T15:03:03+00:00",
+   "seen": "2026-11-24T15:14:23+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "\"Cyberpunk 2 is canceled\" is joked about by a Creative Director after playing GTA 6."
   },
   {
    "id": "gta 6 infinite money glitch",
@@ -194,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 fashion is taking social media by storm, with players styling protagonists Jason and Lucia."
+  },
+  {
+   "id": "twitch streamer takes a break from gta vi and comes back to a smoking ps5",
+   "title": "Twitch Streamer Takes a Break From GTA VI and Comes Back to a Smoking PS5",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemlRNGN0R3BVR0dhNElqdjZkdlF2Z0lNVWp6Z0xSb2ZwMTd4YmpJSXdVZGxYYWc5N1JFMEQ2aWI0QUhKd3J5ampfYUVzQTVBTTNFaWlLanVXeDc4U3lKQ1NUc0lSWHM5NlFJT0tTRko4emFsY3lDNURfYmtZdWp2a0Z1TmxuQS1CZFdDSWh0VEcxNzgyTW90eU1fQVZmMkxubkZ2bjRwdUh2NVk?oc=5",
+   "outlet": "EarlyGame",
+   "via": "Google News",
+   "published": "2026-11-24T15:00:00+00:00",
+   "seen": "2026-11-24T15:14:24+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true,
+   "ai_summary": "A Twitch streamer took a break from GTA VI and returned to a smoking PS5."
   },
   {
    "id": "how to get tommy vercetti s shirt and bike in gta 6",
