@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T01:04:19+00:00",
- "started": "2026-11-24T01:04:14+00:00",
+ "updated": "2026-11-24T01:09:23+00:00",
+ "started": "2026-11-24T01:09:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T01:04:14+00:00"
+   "checked": "2026-11-24T01:09:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-24T01:04:14+00:00"
+   "hits": 63,
+   "checked": "2026-11-24T01:09:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-24T01:04:15+00:00"
+   "hits": 73,
+   "checked": "2026-11-24T01:09:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T01:04:15+00:00"
+   "checked": "2026-11-24T01:09:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T01:04:15+00:00"
+   "checked": "2026-11-24T01:09:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T01:04:15+00:00"
+   "checked": "2026-11-24T01:09:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T01:04:15+00:00"
+   "checked": "2026-11-24T01:09:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T01:04:16+00:00"
+   "checked": "2026-11-24T01:09:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T01:04:16+00:00"
+   "checked": "2026-11-24T01:09:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T01:04:16+00:00"
+   "checked": "2026-11-24T01:09:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T01:04:16+00:00"
+   "checked": "2026-11-24T01:09:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T01:04:16+00:00"
+   "checked": "2026-11-24T01:09:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T01:04:16+00:00"
+   "checked": "2026-11-24T01:09:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T01:04:17+00:00"
+   "checked": "2026-11-24T01:09:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 car service walkthrough how to steal the schafter v12",
+   "title": "GTA 6 Car Service walkthrough: How to steal the Schafter V12",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-car-service-walkthrough-how-to-steal-the-schafter-v12/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-24T01:08:53+00:00",
+   "seen": "2026-11-24T01:09:16+00:00",
+   "summary": "How to steal the Schafter V12 in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to steal the Schafter V12 in GTA 6."
+  },
+  {
+   "id": "gta 6 launch sales what the 3 79 billion figure counts",
+   "title": "GTA 6 launch sales: what the $3.79 billion figure counts",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHZIa0VZYzhkckY2c1VGX3NlajJoTWg5QUJqbzlKUFNEQkt6ejc2Qjk4emUwS0F1S29QUUQ2OTZKRGdiMVgzZlVfejFkSUlfLTNpcWZUWVlDVzRVNlhNSnQyZFVYV2M0VmUzN0JJQ0IzSzJqUlRSNHJCb3pVb29IclVMWkNGdw?oc=5",
+   "outlet": "NeoTeo",
+   "via": "Google News",
+   "published": "2026-11-24T01:06:05+00:00",
+   "seen": "2026-11-24T01:09:16+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story discusses what the $3.79 billion launch sales figure counts for GTA 6."
+  },
+  {
+   "id": "gilbert arenas is latest nba star to weigh in on gta 6",
+   "title": "Gilbert Arenas is latest NBA star to weigh in on GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVHZwUnpCOFE3YU00UXUydXlfN0EybE4xRVBiSlJORkRpc1NKb1BHa2NYQWIxQlpsRFZ6TXRNb2g3YU92S3JrVFQxUzZzODNibXktZWNqb0NpQVdXZFRJUWxEVTlVN2ZzbUdyRldxX2FUNHJ6TVhFU0dhaWdmdjVtMmZJSDJId2Z4UjFr?oc=5",
+   "outlet": "lindyssports.com",
+   "via": "Google News",
+   "published": "2026-11-24T01:04:00+00:00",
+   "seen": "2026-11-24T01:09:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Gilbert Arenas is the latest NBA star to weigh in on GTA 6."
+  },
   {
    "id": "gta 6 was biggest launch in playstation history",
    "title": "GTA 6 Was Biggest Launch in PlayStation History",
@@ -131,6 +170,19 @@
    "ai_summary": "The article claims GTA 6 worsened in 13 years and calls for Rockstar to fix an issue quickly."
   },
   {
+   "id": "gta 6 owners can now stream the game to ps5 ps portal with ps plus premium",
+   "title": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-24T01:00:00+00:00",
+   "seen": "2026-11-24T01:09:18+00:00",
+   "summary": "Livin' the Leonida stream. GTA 6 has been updated to support PS Plus Premium cloud streaming directly to the PS5 and PS Portal . To be crystal clear about this: the game has not been added to the PS Plus Premium catalogue and you will still need to own it. Read the full article on pushsquare.com",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "GTA 6 owners can stream the game to PS5 and PS Portal using PS Plus Premium, with caveats noted."
+  },
+  {
    "id": "gta vi hacker released despite being sentenced to 7 years in uk prison",
    "title": "GTA VI hacker released despite being sentenced to 7 years in UK prison",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2dxaGhPOXRrZHhsZDdlZmIyOXE2Wl8xQzBINjV5dXRqNHBWM0lkUERtTFhXcUtIeWdQVno0Q29OTGswaVJiSHpWdWVuRHpUdG9IVmxxUDhuREIxWC1OZzBEZzZsU0xhZGEza3BlSklSWTBjRzc4ZkZLd3pYbEdjOGdtanR2TUpLV0hJU21VOWdiNk1URkNXSVFqRmdsLVp5T0ZOTU9GUUE?oc=5",
@@ -142,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A GTA VI hacker was released despite a seven-year UK prison sentence."
+  },
+  {
+   "id": "how to play gta 6 at 60 fps on ps5 and xbox methods and workarounds explained",
+   "title": "How to Play GTA 6 at 60 FPS on PS5 and Xbox: Methods and Workarounds Explained",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWN6WEdGcHFiX3BMYWN3aUF3TmpoVDZxbExfVERGS2RVUmppUVRScGY3djNFNUEzU29fQmc5aDRFSUVQakFMa2E0QkFicm1TRHVmU25pcEE2ZWhIaVQ3aEFJb2JpUk5UMjZ1TTNSVUFlTmZldi1LUUNROTl0VjlCRHhURXNiV1Y1bVgyVXpxWnhyYWpkTHNoQUdlN3AyXy0tS2VWRm9fNEVRZ0tubFRZd25kZXA?oc=5",
+   "outlet": "Game News Plus",
+   "via": "Google News",
+   "published": "2026-11-24T00:53:53+00:00",
+   "seen": "2026-11-24T01:09:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story outlines methods and workarounds to achieve 60 FPS on PS5 and Xbox for GTA 6."
   },
   {
    "id": "gta 6 broke every record and take two s real test starts now",
