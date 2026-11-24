@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T01:09:23+00:00",
- "started": "2026-11-24T01:09:14+00:00",
+ "updated": "2026-11-24T01:14:24+00:00",
+ "started": "2026-11-24T01:14:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T01:09:15+00:00"
+   "checked": "2026-11-24T01:14:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-24T01:09:15+00:00"
+   "hits": 62,
+   "checked": "2026-11-24T01:14:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 73,
-   "checked": "2026-11-24T01:09:16+00:00"
+   "checked": "2026-11-24T01:14:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T01:09:16+00:00"
+   "checked": "2026-11-24T01:14:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T01:09:16+00:00"
+   "checked": "2026-11-24T01:14:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-24T01:09:16+00:00"
+   "checked": "2026-11-24T01:14:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T01:09:17+00:00"
+   "checked": "2026-11-24T01:14:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 22,
-   "checked": "2026-11-24T01:09:17+00:00"
+   "checked": "2026-11-24T01:14:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T01:09:17+00:00"
+   "checked": "2026-11-24T01:14:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T01:09:18+00:00"
+   "checked": "2026-11-24T01:14:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-24T01:09:19+00:00"
+   "checked": "2026-11-24T01:14:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T01:09:19+00:00"
+   "checked": "2026-11-24T01:14:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T01:09:19+00:00"
+   "checked": "2026-11-24T01:14:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T01:09:19+00:00"
+   "checked": "2026-11-24T01:14:21+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to steal the Schafter V12 in GTA 6."
+  },
+  {
+   "id": "gta 6 had 39 million players on ps5 with high penetration rate sony confirms",
+   "title": "GTA 6 had 39 million players on PS5 with high penetration rate, Sony confirms",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXp4UTdteTRmcnJ2cEg2M3hMa19rY2NWb2I1LXc5RkU5TjVZcGc1SWExUkxzdDdMLXZBbGtGT1NrTlV4cmJraEtkVG03Rlh0NnVUV2dvOEJfNkVKS2JoNW5aOVR6VmFkbGx2dUdJTjJ2Q29KSWJlQVdnLVg1MWttYV8yUnV4LUlfbFFMNFo0bXNlLTZwMkRVU0hrdTF1WVBwSE9FQVFBbEFMcF8tbVE2YlROcGdKb1BPOVd3LWZaRkNKSFk?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-24T01:07:14+00:00",
+   "seen": "2026-11-24T01:14:18+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The report states GTA 6 had 39 million players on PS5 with high penetration, as confirmed by Sony."
   },
   {
    "id": "gta 6 launch sales what the 3 79 billion figure counts",
@@ -181,6 +194,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "GTA 6 owners can stream the game to PS5 and PS Portal using PS Plus Premium, with caveats noted."
+  },
+  {
+   "id": "how to break into the mile zero military base in gta 6",
+   "title": "How To Break Into The Mile Zero Military Base In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EVE0wczI2d3pZZW9vdXdGazB6LU5IZmxxdFl0dEVXRXRLT2l0SXIwdlZ1SHhoR251ZkM5RDdaMklzR3I4bzNhRWpGdE5ieUlDaHJxR2JvV1JLZmZpTHB5eVVFbFlRT3VRV2p4U29zMGxYX2JMSVVuWGFKcTNRdw?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-24T01:00:00+00:00",
+   "seen": "2026-11-24T01:14:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The piece explains how to break into the Mile Zero Military Base in GTA 6."
   },
   {
    "id": "gta vi hacker released despite being sentenced to 7 years in uk prison",
@@ -545,6 +571,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The CEO asserts digital-only games hurt consumers as GTA VI ships without a disc."
+  },
+  {
+   "id": "grand theft auto vi for ps5 tops 39 million players",
+   "title": "Grand Theft Auto VI for PS5 tops 39 million players",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlQwNFRyNUFvOXd2SGxVSjR4MjVwa2ZyVUM3cWRTSllLUUNGaG92OVl1TVk2TTdQdmVvcWJOV2E1QlpNN3NvWmpnczFQTXd4NlJVQ1lHV1l2X0FTS3JBR3dBWnUwTndnMkR3cnljeEVFLVdvWHNMUWxDVUZmMmFVeDluVE9GY3VndW1j?oc=5",
+   "outlet": "Gematsu",
+   "via": "Google News",
+   "published": "2026-11-23T23:45:54+00:00",
+   "seen": "2026-11-24T01:14:18+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The article notes Grand Theft Auto VI for PS5 tops 39 million players."
   },
   {
    "id": "gta 6 celebrates launch with miami music festival and deluxe 57 track album",
@@ -2313,6 +2352,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "A glitch unlocks GTA 6's frame rate on Xbox Series X, suggesting a 60fps mode was unlikely."
+  },
+  {
+   "id": "doing crime barely covers my menswear habit in gta vi",
+   "title": "Doing Crime Barely Covers My Menswear Habit in 'GTA VI'",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MT1liMTRMRGphUGlOVGcycUZQQ08zMFlTOFVIZXNuOW9GUGF5aFhTLXlaU1JnOEdIXzVlcDQ5Sk1vS1czVUVRV2hVY0dIUmZzQmx4M1J2WHlFNW9zSEpONU5uRVFscTlNX3c?oc=5",
+   "outlet": "GQ",
+   "via": "Google News",
+   "published": "2026-11-23T19:43:49+00:00",
+   "seen": "2026-11-24T01:14:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses how crime relates to the narrator's menswear habit in GTA VI."
   },
   {
    "id": "gta 6 leaker reportedly releases file needed to run leaked xbox build",
