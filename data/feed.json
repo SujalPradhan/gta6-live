@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T15:04:25+00:00",
- "started": "2026-11-24T15:04:17+00:00",
+ "updated": "2026-11-24T15:09:30+00:00",
+ "started": "2026-11-24T15:09:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T15:04:18+00:00"
+   "checked": "2026-11-24T15:09:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-24T15:04:18+00:00"
+   "hits": 75,
+   "checked": "2026-11-24T15:09:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 68,
-   "checked": "2026-11-24T15:04:19+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-24T15:09:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:04:19+00:00"
+   "checked": "2026-11-24T15:09:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:04:19+00:00"
+   "checked": "2026-11-24T15:09:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-24T15:04:19+00:00"
+   "checked": "2026-11-24T15:09:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:04:20+00:00"
+   "checked": "2026-11-24T15:09:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T15:04:20+00:00"
+   "checked": "2026-11-24T15:09:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T15:04:20+00:00"
+   "checked": "2026-11-24T15:09:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T15:04:20+00:00"
+   "checked": "2026-11-24T15:09:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T15:04:20+00:00"
+   "checked": "2026-11-24T15:09:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T15:04:20+00:00"
+   "checked": "2026-11-24T15:09:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T15:04:21+00:00"
+   "checked": "2026-11-24T15:09:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T15:04:21+00:00"
+   "checked": "2026-11-24T15:09:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "unofficial gta 6 pc ports are already getting shut down",
+   "title": "Unofficial GTA 6 PC ports are already getting shut down",
+   "link": "https://www.videogameschronicle.com/news/unofficial-gta-6-pc-ports-are-already-getting-shut-down/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-24T15:06:16+00:00",
+   "seen": "2026-11-24T15:09:25+00:00",
+   "summary": "There's a race to pirate GTA 6, but Rockstar is already taking action",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "Unofficial GTA 6 PC ports are being shut down by Rockstar actions."
+  },
+  {
+   "id": "grand theft auto vi debuts in 1st on the uk retail charts",
+   "title": "Grand Theft Auto VI Debuts in 1st on the UK Retail Charts",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40ZGMyNlVmWng4Ml9LblB6VWQ5UFhLbGNWSEZ4c3JYRFBCaWtUMk5iVVZoaFdscXFvRGllVTBxdU5ZZS1ZeER3X2lJUVhKckRNRGs0RHBnWWVNN2ptdk5CNVZCellnV1BqZ0o1a0tEUS0?oc=5",
+   "outlet": "VGChartz",
+   "via": "Google News",
+   "published": "2026-11-24T15:05:12+00:00",
+   "seen": "2026-11-24T15:09:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI debuts at number one on the UK retail charts."
+  },
+  {
+   "id": "gta 6 infinite money glitch",
+   "title": "GTA 6: Infinite money glitch",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wY1QyQ0pqVXR4MXQwOXZ6YVpkMTlySWUwSzdxUmRpRE51MnNoS09uVjU2ejNnMVpiZWZQeGlsVjVzTFNVQ1l5R1ZFZWVvRkszajR5TGVfeHItcHZBWTJWY0FEdHd5Wk53MnB2aw?oc=5",
+   "outlet": "Traxion.GG",
+   "via": "Google News",
+   "published": "2026-11-24T15:01:52+00:00",
+   "seen": "2026-11-24T15:09:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 infinite money glitch is reported."
+  },
+  {
+   "id": "is there a point of no return before the 18 gta 6 endings",
+   "title": "Is There A Point Of No Return Before The 18 ‘GTA 6’ Endings?",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjJRXzNMRTBTQkJZMlZPNmxQdll2N3NmYkZlXzlEcm1nRFd2OWlSTmFCVDRrWU5aWlhiOXl3RkNnb25zMkVXdHJOcGgzSUthcnNPTnJKbnprRmRoTDF3WHZKZ2cwSHdzODZ1bnZRNi1rVm5xNU45dmhVUl9MbHRsUVh3?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-24T15:00:53+00:00",
+   "seen": "2026-11-24T15:09:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Question about a point of no return before the GTA 6 endings is raised."
+  },
   {
    "id": "gta 6 can you return to jason s house",
    "title": "GTA 6: Can You Return To Jason’s House?",
@@ -168,6 +220,45 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on a GTA 6 scene including an eerie clown elevator encounter that pays homage to It."
+  },
+  {
+   "id": "gta 6 actor asks gamers to track him down as he doesn t know who his character is but gives clue",
+   "title": "GTA 6 actor asks gamers to track him down as he doesn’t know who his character is – but gives clue",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcS1rbVRoUC1RbnlOOG40MUVYSmVQTWZpMmJNZ1c4akhlY0RIblAwZ016NV8tVWJsNkdpNWQ4R2ZBTExSQjZLaVh6dDF4dWw1SlBHbklxaF91SkJCU3hiREc0b2hpOHlrMnJuUS1hUzBKcE52N3JNWHk4d1owbnpzNjV4b2hscXpvQ1BF?oc=5",
+   "outlet": "UNILAD",
+   "via": "Google News",
+   "published": "2026-11-24T14:57:20+00:00",
+   "seen": "2026-11-24T15:09:24+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "A GTA 6 actor asks gamers to track him down, offering a clue about his character."
+  },
+  {
+   "id": "realism succeeds in gta 6",
+   "title": "Realism succeeds in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ib3VkakJzekJVWlRZRmljTC1iMDlSOTNTREE1dHRxUnBHYmdBalRCRS1jbzlVNm12U0hSUDI3ZGlWb0NuNm56WDJHYWNzVmFBeGVrUHlUaw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T14:56:49+00:00",
+   "seen": "2026-11-24T15:09:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Realism is claimed to succeed in GTA 6."
+  },
+  {
+   "id": "gym workouts fell up to 17 in gta vi s first 3 days gymverse data shows",
+   "title": "Gym Workouts Fell Up to 17% in GTA VI’s First 3 Days, Gymverse Data Shows",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUDZhZC1WTDVyTlZ6d1B3TTVhZDZNRDBnTG5jaEJ2VkRUQm9tQWliUHFlbmpPTnJERFVyRmVjQU90MjBrZjRnLXBFSVV3R0NjLVlHVVdGaXEzcGp5T3d4Y1RlVmpIZXhJWkNKdXhiTzhENkhNanJ1clV0R2dYdGpwTHd5MHR1cGpHWFJ2REhzYnZiTTBtck9Nc01jdG9IelBSTUdKZEhrQkpGM1daTmc?oc=5",
+   "outlet": "Fitt Insider",
+   "via": "Google News",
+   "published": "2026-11-24T14:55:28+00:00",
+   "seen": "2026-11-24T15:09:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Gym workouts reportedly fell up to 17% in GTA VI’s first three days, per Gymverse data."
   },
   {
    "id": "sony grand theft auto vi biggest video game launch in playstation history",
