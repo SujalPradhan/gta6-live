@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T22:37:12+00:00",
- "started": "2026-11-24T22:37:08+00:00",
+ "updated": "2026-11-24T22:42:09+00:00",
+ "started": "2026-11-24T22:42:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-24T22:37:09+00:00"
+   "checked": "2026-11-24T22:42:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 67,
-   "checked": "2026-11-24T22:37:09+00:00"
+   "checked": "2026-11-24T22:42:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 89,
-   "checked": "2026-11-24T22:37:10+00:00"
+   "hits": 62,
+   "checked": "2026-11-24T22:42:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T22:37:10+00:00"
+   "checked": "2026-11-24T22:42:04+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T22:37:10+00:00"
+   "checked": "2026-11-24T22:42:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T22:37:10+00:00"
+   "checked": "2026-11-24T22:42:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-24T22:37:10+00:00"
+   "checked": "2026-11-24T22:42:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T22:37:11+00:00"
+   "checked": "2026-11-24T22:42:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T22:37:11+00:00"
+   "checked": "2026-11-24T22:42:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-24T22:37:11+00:00"
+   "checked": "2026-11-24T22:42:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T22:37:12+00:00"
+   "checked": "2026-11-24T22:42:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T22:37:12+00:00"
+   "checked": "2026-11-24T22:42:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T22:37:12+00:00"
+   "checked": "2026-11-24T22:42:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T22:37:12+00:00"
+   "checked": "2026-11-24T22:42:06+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi takes over miami including its art destinations",
+   "title": "Grand Theft Auto VI takes over Miami, including its art destinations",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2w2a3NtU0lWa2szd1FCQlB2UXZaQ3ZTNUVIakpzcko1MFplclFLRmFQalYwOUJNWWdKZk02Y0hkZlpMUVZUbVpYbzZTUWgtQWFoajdjZGgtVkx4LVVGZzJnV1lvcXZaOWp3VUtyamNHWlN2S2J2MzZzQk1JYkRMSmdaVktJRXhTbm9LUWhQWlNIcjdEZnhtNDloZUU?oc=5",
+   "outlet": "The Art Newspaper",
+   "via": "Google News",
+   "published": "2026-11-24T22:36:01+00:00",
+   "seen": "2026-11-24T22:42:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI takes over Miami, including its art destinations."
+  },
+  {
+   "id": "how to flip your car in gta 6",
+   "title": "How to flip your car in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14Znhsdk1qU0RsWW0wSGZLejh3TFBib3NFR3k2XzFDaUh4YlVXLXhEY1d6WDhIQ0Zhck9DTzVVQVZyQkpHcTJ1TWpWdm02bXo4TkhWU0Q0WndVQQ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-24T22:27:23+00:00",
+   "seen": "2026-11-24T22:42:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports tips on how to flip your car in GTA 6."
+  },
   {
    "id": "gta 6 safe word mission walkthrough how to steal the practice safe",
    "title": "GTA 6 Safe Word Mission Walkthrough: How to Steal the Practice Safe",
