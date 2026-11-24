@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T16:34:58+00:00",
- "started": "2026-11-24T16:34:49+00:00",
+ "updated": "2026-11-24T16:40:01+00:00",
+ "started": "2026-11-24T16:39:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-24T16:34:50+00:00"
+   "checked": "2026-11-24T16:39:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-24T16:34:50+00:00"
+   "hits": 79,
+   "checked": "2026-11-24T16:39:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-24T16:34:51+00:00"
+   "hits": 68,
+   "checked": "2026-11-24T16:39:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-24T16:34:51+00:00"
+   "checked": "2026-11-24T16:39:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T16:34:51+00:00"
+   "checked": "2026-11-24T16:39:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T16:34:53+00:00"
+   "checked": "2026-11-24T16:39:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T16:34:54+00:00"
+   "checked": "2026-11-24T16:39:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 21,
-   "checked": "2026-11-24T16:34:54+00:00"
+   "checked": "2026-11-24T16:39:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:34:54+00:00"
+   "checked": "2026-11-24T16:39:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T16:34:54+00:00"
+   "checked": "2026-11-24T16:39:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T16:34:54+00:00"
+   "checked": "2026-11-24T16:39:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T16:34:55+00:00"
+   "checked": "2026-11-24T16:39:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T16:34:55+00:00"
+   "checked": "2026-11-24T16:39:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T16:34:55+00:00"
+   "checked": "2026-11-24T16:39:58+00:00"
   }
  },
  "items": [
@@ -116,6 +116,32 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "GTA 6 players are reportedly using a crate of beer to commit robberies instead of guns."
+  },
+  {
+   "id": "gta 6 ocean beach mission guide how to reach room 701 at the y hotel",
+   "title": "GTA 6 Ocean Beach mission guide: how to reach Room 701 at the Y Hotel",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXVRaWlvWW5pV3p6cXM3bjNLWkExbV8xYmZzemxsZElvVnBuZm1xd2pRM0RGUHhfbnZpU2FISWVOSlc4S3NfVjJzeEZHVWJSMWJhU1JNN3VNbVI3QVlPQ1V2aFRBS3M2RDIwWXpMZzdEVF82MXdVT01HSWJ0VmFGRHZBWVNYVVk5bjJaaE5SYjMwZw?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-24T16:31:55+00:00",
+   "seen": "2026-11-24T16:39:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a mission guide for GTA 6 Ocean Beach, detailing how to reach Room 701 at the Y Hotel."
+  },
+  {
+   "id": "how to get mario and luigi hats in gta 6",
+   "title": "How to get Mario and Luigi hats in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BUGRtMGZiX2hNVGRWd2g1bFBVdFA0dXloU0FLWkhFWTNjcElTNm9oRE53QWxYMXBYWXc0S3Y3akprX0U5QWozTEJkXzlUREtweUlNZkE1YVBPVGxCNlNXVnExZ1A0OGV5N3lhb1h3?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-24T16:30:00+00:00",
+   "seen": "2026-11-24T16:39:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports instructions on obtaining Mario and Luigi hats in GTA 6."
   },
   {
    "id": "gta vi dubbed biggest launch in playstation history",
@@ -168,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story states that Overmono created about 50 original songs for GTA VI, according to BMG."
+  },
+  {
+   "id": "a gta vi discount don t fall for scam deals police warn",
+   "title": "A 'GTA VI' discount? Don't fall for scam deals, police warn",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlVHejYtWnNOYkZJZDJJd2w2Z3ZRb3pUMVRQVGxSX0JYTUk3dFR2blgyVC1QVHV1LUdibzB5V2Zwa2lDRkJDaXA0VXFLU0NHN1VwdWt1dmFpdjNiT055b0czWktUNENpOGhCTW1zTUI3VlltUmtnRnFEZHBHanllYkQzaGxFRC1EMkE?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-24T16:18:22+00:00",
+   "seen": "2026-11-24T16:39:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports police warnings about scam deals and a GTA VI discount."
   },
   {
    "id": "d angelo s gta vi song released brother teases future posthumous songs",
@@ -1104,6 +1143,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Sony claims GTA VI will be the biggest video game launch in PlayStation history."
+  },
+  {
+   "id": "youtube celebrates the launch and cultural impact of grand theft auto vi",
+   "title": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Sd1lfcmxvTHkzVXhXT2NCOV9VcUZPSmlJLWtZQWJZQWVaQU50bHB0bHZCNnVzQkxWUG95QkFLQlNqWHQ3NnJFMnhiZTlXOXJiUVk2MGNrT3d1ci1kV0FDT00yX1c5QmNvdURqUUNsRkN6bmJFRjgzN01pQmhqak0?oc=5",
+   "outlet": "blog.youtube",
+   "via": "Google News",
+   "published": "2026-11-24T14:54:02+00:00",
+   "seen": "2026-11-24T16:39:54+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports YouTube celebrating the launch and cultural impact of Grand Theft Auto VI."
   },
   {
    "id": "gta 6 breaks records and has richmond connects",
@@ -3613,6 +3665,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports tensions related to GTA VI launch priced at $79.99."
+  },
+  {
+   "id": "3 8 billion in 24 hours gta 6 breaks every record",
+   "title": "$3.8 Billion in 24 Hours: GTA 6 Breaks Every Record",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0taGxQeE5qcWxlZFp3bnpqWUpqUUU0T1duV3Z3YmZMYk9sUElXSFA3M1RINVh1cFJYLUx0Z1dqbk5qem5IV2FPcllGMEhLZw?oc=5",
+   "outlet": "NEWS.am STYLE",
+   "via": "Google News",
+   "published": "2026-11-24T10:40:00+00:00",
+   "seen": "2026-11-24T16:39:55+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 breaking records with a claimed 3.8 billion in 24 hours."
   },
   {
    "id": "gta 6 drops bonus playstation plus benefit as plays best on ps5 campaign continues",
