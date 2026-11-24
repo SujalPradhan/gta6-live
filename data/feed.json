@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T19:21:10+00:00",
- "started": "2026-11-24T19:21:01+00:00",
+ "updated": "2026-11-24T19:25:58+00:00",
+ "started": "2026-11-24T19:25:52+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-24T19:21:02+00:00"
+   "checked": "2026-11-24T19:25:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-24T19:21:02+00:00"
+   "hits": 63,
+   "checked": "2026-11-24T19:25:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-24T19:21:03+00:00"
+   "hits": 90,
+   "checked": "2026-11-24T19:25:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-24T19:21:03+00:00"
+   "checked": "2026-11-24T19:25:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-24T19:21:03+00:00"
+   "checked": "2026-11-24T19:25:54+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T19:21:03+00:00"
+   "checked": "2026-11-24T19:25:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T19:21:04+00:00"
+   "checked": "2026-11-24T19:25:54+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-24T19:21:04+00:00"
+   "checked": "2026-11-24T19:25:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-24T19:21:05+00:00"
+   "hits": 3,
+   "checked": "2026-11-24T19:25:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-24T19:21:05+00:00"
+   "checked": "2026-11-24T19:25:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-24T19:21:06+00:00"
+   "checked": "2026-11-24T19:25:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T19:21:06+00:00"
+   "checked": "2026-11-24T19:25:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T19:21:06+00:00"
+   "checked": "2026-11-24T19:25:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T19:21:06+00:00"
+   "checked": "2026-11-24T19:25:56+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 launches at 79 99 on ps5 and xbox pc undated",
+   "title": "GTA 6 Launches at $79.99 on PS5 and Xbox, PC Undated",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWkNPMUw3SnpRQlozekFuM1RVb1VGa29RUS1aTjZTemlpbFhVSTFnaHRFaDhuVGgwdUFKMTNYMldYeS1nQWlkZDFuVU5STUJWR2hial9rcEc3c0VNbDRwMTFzX0oyVUdseFJpZE10Y0twZ3l6bllyTWxPYTVRRkpuVVZR?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-24T19:21:29+00:00",
+   "seen": "2026-11-24T19:25:53+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 launches at $79.99 on PS5 and Xbox, with PC release date not provided."
+  },
   {
    "id": "pornhub traffic fell by 15 on the day gta vi was released",
    "title": "Pornhub traffic fell by 15% on the day GTA VI was released",
@@ -220,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to listen to the radio on foot in GTA 6 using headphones."
+  },
+  {
+   "id": "grand theft auto vi is playstation s biggest launch ever with over 39 million unique players on ps5",
+   "title": "Grand Theft Auto VI Is PlayStation's Biggest Launch Ever With Over 39 Million Unique Players On PS5",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUYyc19jM3NYVV82ZnRFdzJSY1FFZ3p0M2M3bXdrUzdZb3lYNk9vcW8tVzdfdmR1R2pPTWRsbGVuT05oOUl4V2Z1LWZxNmdCN045T3BmZjNyU3VqQkd2QVIwTDU3NWIwNzZoM29NU2RYV0pFczFjV0w3UW5FaldrdmRNNFBLejdfY3h1QnRYTndtQWwtZVAtN2xoUGxqNzYtUDFKdndpa3ZDWWdGNnh3YVVlWUcwd2lpclZIdWNIUFh0VUFHa0tBQjdzSHUzaHVCSmFF0gHfAUFVX3lxTE9ueVczbEo1ZjRhZkNlVzNPSldrRHBWZlh3anRmajUyYjVwaHg5djRMQi1lUE1mUVo1VGNydXdzSmZMTGQzcUd3bmpiaTQ2aXZrVGtSYms5U19wQ0ZjSGhSRzlvQl9MUEwyUWRyenJoNjVvbl84YWN4akdhZTFRVm1VaUN0RnBIRGRPemRXdHJ5NTRCRk9jV3RnUjBGREQ3Nmd3ZUJxU2JYU1EycHRhVkRURWxhOEVlMWFlMkdKNTB6YmpIUFN0eUw5NmMwS25FQ0pHNG5JUG1SdDFvbXNNTmc?oc=5",
+   "outlet": "MMORPG.com",
+   "via": "Google News",
+   "published": "2026-11-24T19:00:00+00:00",
+   "seen": "2026-11-24T19:25:53+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports Grand Theft Auto VI is PlayStation's biggest launch ever with over 39 million unique players on PS5."
   },
   {
    "id": "gta vi has wild monkeys the real florida has them too and there s a bizarre story behind them",
@@ -1546,6 +1572,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Rockstar Games is reportedly interested in selling the licensing rights to its Red Dead Redemption game series."
+  },
+  {
+   "id": "panini and rockstar games announce grand theft auto vi trading card collection",
+   "title": "PANINI AND ROCKSTAR GAMES ANNOUNCE GRAND THEFT AUTO VI TRADING CARD COLLECTION",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0tab3NPZE5MZUF1eG1QSWdwUkhIUXdOWE53WDA2SWlEYmd4SEdrYVNQOTV1d2IxRl8tR1MycW9IV3RHV3pOeXdYVEh6bXRzMEcxV25KYnlSY1BJNFNDVVhQRUJzTld1WEF4VVRtdjVpVFpfeGtFTDc1V2c5NFRXYVFEZ1FOM0hUbl9UbHhtY0VrazkzTkZ6MjVaWnkwRmVLSk1rNllCNA?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-24T16:06:00+00:00",
+   "seen": "2026-11-24T19:25:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Panini and Rockstar Games announce a Grand Theft Auto VI trading card collection."
   },
   {
    "id": "atlantic and rockstar surprise drop gta vi the album deluxe with 23 new tracks featuring travis scott",
