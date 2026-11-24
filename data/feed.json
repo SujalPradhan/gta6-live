@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T13:43:41+00:00",
- "started": "2026-11-24T13:43:34+00:00",
+ "updated": "2026-11-24T13:48:41+00:00",
+ "started": "2026-11-24T13:48:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-24T13:43:34+00:00"
+   "hits": 99,
+   "checked": "2026-11-24T13:48:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 79,
-   "checked": "2026-11-24T13:43:35+00:00"
+   "hits": 77,
+   "checked": "2026-11-24T13:48:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-24T13:43:35+00:00"
+   "hits": 66,
+   "checked": "2026-11-24T13:48:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:43:36+00:00"
+   "checked": "2026-11-24T13:48:36+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-24T13:43:36+00:00"
+   "checked": "2026-11-24T13:48:36+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-24T13:43:36+00:00"
+   "checked": "2026-11-24T13:48:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-24T13:43:37+00:00"
+   "checked": "2026-11-24T13:48:37+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 23,
-   "checked": "2026-11-24T13:43:37+00:00"
+   "checked": "2026-11-24T13:48:37+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:43:37+00:00"
+   "checked": "2026-11-24T13:48:37+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-24T13:43:38+00:00"
+   "checked": "2026-11-24T13:48:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-24T13:43:38+00:00"
+   "checked": "2026-11-24T13:48:38+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-24T13:43:38+00:00"
+   "checked": "2026-11-24T13:48:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-24T13:43:38+00:00"
+   "checked": "2026-11-24T13:48:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-24T13:43:39+00:00"
+   "checked": "2026-11-24T13:48:38+00:00"
   }
  },
  "items": [
@@ -196,6 +196,19 @@
    "ai_summary": "A guide explains how to find a Vice City Easter egg and unlock the Tommy Vercetti shirt in GTA 6."
   },
   {
+   "id": "grand theft auto vi album gets deluxe edition three days after release",
+   "title": "Grand Theft Auto VI album gets ‘deluxe edition’ three days after release",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0F0X1lhR1BXOVBVQ0tzNGN2Z2gta0RTeWRwNTdobmJiQVp0dW5yMjlyZnNmdlNfNk0yODFtRkRXU29ZVEVJNnZmVzRkME16UXI5NndlaS0zNTBuMjRHaEJtZVRNZmRna0EwdV9HQWR2bGxBdnA2OXFnM293MHprcTd5NUFuRGRVaFBwd2lSa1Z3akZ2Szh5TmF5VmxIODZhblhRYjlSOA?oc=5",
+   "outlet": "Music Ally",
+   "via": "Google News",
+   "published": "2026-11-24T13:30:00+00:00",
+   "seen": "2026-11-24T13:48:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The GTA VI album is released with a deluxe edition three days after the initial release."
+  },
+  {
    "id": "all gta 6 casinos map locations gambling explained",
    "title": "All GTA 6 Casinos & Map Locations—Gambling, Explained",
    "link": "https://insider-gaming.com/gta-6-casino/",
@@ -207,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains GTA 6 gambling, focusing on whether the game will include a usable casino and map locations."
+  },
+  {
+   "id": "the creative director of cyberpunk 2 jokes about canceling the game after playing gta 6",
+   "title": "The creative director of Cyberpunk 2 jokes about canceling the game after playing GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMm11X1ZERHJINnUzNFdhV1FZNmdfMXZMMVZYcnE3NDJyX1phc0czVzBYNnZtMF9DTnczQVgzT0JPMFlXMXJlc01KV2tRdWkyamlfdU90dXpUUmEyUkthY29VRkEtcGl4YlVRRk03VWQ1NGZuUGNXSS00NWc5Nmt4VlFIY0Y4TnBRUFNYZHFxaDFIYlJhbURaUEZVMjJlUTdTWWlsLW5WVl9EUUt6U1lLT1BtanFaLXVKV094SVpyX1RobVRSOGY0emwwU3FMMUl3Q2NJ?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-24T13:25:51+00:00",
+   "seen": "2026-11-24T13:48:34+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The creative director of Cyberpunk 2 jokes about canceling the game after playing GTA 6."
   },
   {
    "id": "playstation confirmed the record breaking launch of gta 6 39 million players",
