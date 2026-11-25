@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T20:04:39+00:00",
- "started": "2026-11-25T20:04:33+00:00",
+ "updated": "2026-11-25T20:09:41+00:00",
+ "started": "2026-11-25T20:09:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T20:04:34+00:00"
+   "checked": "2026-11-25T20:09:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 38,
-   "checked": "2026-11-25T20:04:34+00:00"
+   "hits": 55,
+   "checked": "2026-11-25T20:09:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 65,
-   "checked": "2026-11-25T20:04:35+00:00"
+   "checked": "2026-11-25T20:09:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T20:04:35+00:00"
+   "checked": "2026-11-25T20:09:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T20:04:35+00:00"
+   "checked": "2026-11-25T20:09:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T20:04:35+00:00"
+   "checked": "2026-11-25T20:09:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-25T20:04:35+00:00"
+   "hits": 16,
+   "checked": "2026-11-25T20:09:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T20:04:36+00:00"
+   "checked": "2026-11-25T20:09:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T20:04:36+00:00"
+   "checked": "2026-11-25T20:09:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T20:04:36+00:00"
+   "checked": "2026-11-25T20:09:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T20:04:37+00:00"
+   "checked": "2026-11-25T20:09:38+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T20:04:37+00:00"
+   "checked": "2026-11-25T20:09:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T20:04:37+00:00"
+   "checked": "2026-11-25T20:09:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T20:04:37+00:00"
+   "checked": "2026-11-25T20:09:39+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 rewards empathy because being a demigod stomping through the world is only fun for so long",
+   "title": "GTA 6 rewards empathy because being a \"demigod stomping through the world\" is only fun for so long",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-honor-system-rewards-empathy-because-being-a-demigod-stomping-through-the-world-is-only-fun-for-so-long-rockstar-lead-says/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-25T20:01:44+00:00",
+   "seen": "2026-11-25T20:09:38+00:00",
+   "summary": "I don't know, sounds pretty fun to me",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states GTA 6 rewards empathy because being a demigod stomping through the world is only fun for so long."
+  },
   {
    "id": "max verstappen s f1 weekend las vegas gp win and 40 hours of gta vi",
    "title": "Max Verstappen’s F1 Weekend – Las Vegas GP Win and 40 Hours of GTA VI",
@@ -155,6 +168,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 boss discusses a big cameo near the end of the game."
+  },
+  {
+   "id": "gta 6 isn t on pc yet but the open source community could have it running before december ends",
+   "title": "GTA 6 isn’t on PC yet, but the open-source community could have it running before December ends",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmVpRkhVbDVaQ05HeFdnZ0s3YVBVbENtYnk2ZU5YMElOdDJKQVJrZE5HVDFWVk16RkN5endxN2pCd2JkbnBBdm5ZdUtNb1hmODFzdzhvbWpLTGJPR2NrUFZwZjVOZl9lSmpZb2lPTkxxU1NzZHVpbGNqMTZCXzRJcjFpVURoS3NoSzlEUmtZalJ0YzNOMmJFQXNlMVRybkFJSy1KODlwZnY?oc=5",
+   "outlet": "XDA",
+   "via": "Google News",
+   "published": "2026-11-25T20:00:21+00:00",
+   "seen": "2026-11-25T20:09:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes GTA 6 isn’t on PC yet, but the open-source community could have it running before December ends."
+  },
+  {
+   "id": "i ve tested 7 gaming headsets while playing gta 6 for 130 hours from budget bangers to premium planars and i d recommend any one of them thi",
+   "title": "I’ve tested 7 gaming headsets while playing GTA 6 for 130 hours, from budget bangers to premium planars, and I'd recommend any one of them this Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZ0hYVi1iSHNEel9IVTF3ZzFxU3RuTE51bldvcXJ5Q0lRRzloQkZnYlFIZ1FBMjZkVi1uREJiWElOcVlMenVCS2dZcUNfNkI4eFZtaHhZajY2T01ST1A3ckpYVUduWW1XX0FQd2NsSjJOT3R1N2NOVUlIenROUkVZQklYeUFSdnRnRVIwWXJsWnAtZVNObjVpLXRKVVQta3NvcEtvYVZseUpUUl8zRE5PazU3U3YzVkpwdUhPc29kWXhHSkVkVkF5U1huRExXV2hiaG5EOW9HdmRuZ2hZU05sc3pDb3JLTmNyNlhhSjBqNzc1RzU5aTAw?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-25T20:00:00+00:00",
+   "seen": "2026-11-25T20:09:36+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports testing seven gaming headsets while playing GTA 6 for 130 hours, recommending any one of them for Black Friday."
   },
   {
    "id": "gta 6 console sales surge corrected week and figures",
