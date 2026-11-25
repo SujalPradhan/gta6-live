@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T07:50:14+00:00",
- "started": "2026-11-25T07:50:07+00:00",
+ "updated": "2026-11-25T07:55:15+00:00",
+ "started": "2026-11-25T07:55:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-25T07:50:08+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T07:55:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 63,
-   "checked": "2026-11-25T07:50:08+00:00"
+   "checked": "2026-11-25T07:55:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-25T07:50:09+00:00"
+   "hits": 84,
+   "checked": "2026-11-25T07:55:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T07:50:09+00:00"
+   "checked": "2026-11-25T07:55:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T07:50:09+00:00"
+   "checked": "2026-11-25T07:55:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T07:50:09+00:00"
+   "checked": "2026-11-25T07:55:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T07:50:10+00:00"
+   "checked": "2026-11-25T07:55:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T07:50:10+00:00"
+   "checked": "2026-11-25T07:55:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T07:50:10+00:00"
+   "checked": "2026-11-25T07:55:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T07:50:11+00:00"
+   "checked": "2026-11-25T07:55:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T07:50:11+00:00"
+   "checked": "2026-11-25T07:55:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T07:50:11+00:00"
+   "checked": "2026-11-25T07:55:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T07:50:11+00:00"
+   "checked": "2026-11-25T07:55:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T07:50:12+00:00"
+   "checked": "2026-11-25T07:55:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 earns 3 79 billion on launch day as rising costs challenge gaming industry",
+   "title": "GTA 6 Earns $3.79 Billion on Launch Day as Rising Costs Challenge Gaming Industry",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVE9sVU5TMF95MmloeU93c05Wc28xdVM1cm5kY21RUjh4UUo5MmszN3FTV0JwV3hHUkViTUZGRzVzNU5sREt5dFUzVDBSUHprbGlRMGlVUjNnQm82ZDBGanhOV2VlZkdjdy1MUDJnRWVJMWhKVEpPQzZhSE93NUNYbjRka0x0NWh3X3lwM1AweFl4aXlaQU8xel91TktwbTV5SWpkaFlNdw?oc=5",
+   "outlet": "Khaama Press",
+   "via": "Google News",
+   "published": "2026-11-25T07:50:23+00:00",
+   "seen": "2026-11-25T07:55:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 earning a large amount on launch day and notes rising costs challenge the gaming industry."
+  },
   {
    "id": "cd projekt red sees no material fourth quarter hit from gta vi",
    "title": "CD Projekt RED sees no material fourth-quarter hit from GTA VI",
@@ -168,6 +181,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports Verstappen's Las Vegas Grand Prix win after playing GTA VI for 40 hours."
+  },
+  {
+   "id": "gta 6 key cloner how to clone keys explained",
+   "title": "GTA 6 key cloner: How to clone keys explained",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXMXFNd0dSSnkzSjF5VC10N2dJQ0k1a0pHczJMVVNVNTRkM0FJZlNBeTVLN1N4QURCdG1DYUxXc0NZYlFRbDd3N2lTNUxuWGtWS3I3a0hwUzhrM3dzQ3R2Zkc0Z3BKVVN4blJodTVrQ2p3Z21NVkxFWXd6c3c?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-25T07:05:16+00:00",
+   "seen": "2026-11-25T07:55:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports how to clone keys is explained."
   },
   {
    "id": "is gta 6 on sale for black friday answered",
