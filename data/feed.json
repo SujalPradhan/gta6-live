@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T14:07:35+00:00",
- "started": "2026-11-25T14:07:26+00:00",
+ "updated": "2026-11-25T14:12:30+00:00",
+ "started": "2026-11-25T14:12:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T14:07:27+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T14:12:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 45,
-   "checked": "2026-11-25T14:07:27+00:00"
+   "hits": 55,
+   "checked": "2026-11-25T14:12:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-25T14:07:28+00:00"
+   "hits": 80,
+   "checked": "2026-11-25T14:12:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T14:07:28+00:00"
+   "checked": "2026-11-25T14:12:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T14:07:28+00:00"
+   "checked": "2026-11-25T14:12:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T14:07:29+00:00"
+   "checked": "2026-11-25T14:12:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T14:07:29+00:00"
+   "checked": "2026-11-25T14:12:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T14:07:29+00:00"
+   "checked": "2026-11-25T14:12:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:07:30+00:00"
+   "checked": "2026-11-25T14:12:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T14:07:30+00:00"
+   "checked": "2026-11-25T14:12:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:07:30+00:00"
+   "checked": "2026-11-25T14:12:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T14:07:31+00:00"
+   "checked": "2026-11-25T14:12:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T14:07:31+00:00"
+   "checked": "2026-11-25T14:12:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T14:07:31+00:00"
+   "checked": "2026-11-25T14:12:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 causes ps5 consoles to sell out in us before black friday",
+   "title": "GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-25T14:30:00+00:00",
+   "seen": "2026-11-25T14:12:27+00:00",
+   "summary": "Good luck getting one. Sony’s struggling to meet demand for the PS5 following last week’s release of GTA 6 . Many major retailers in the US, including PS Direct , are currently completely sold out of the system – although you may find isolated instances of stock in stores. Read the full article on pushsquare.com",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 causes PS5 consoles to sell out in the US as demand exceeds supply following the game's release."
+  },
   {
    "id": "i m having a much better time in gta 6 now i ve disabled its pesky criminal profile pings",
    "title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story urges gratitude for GTA 6 and Zelda: Ocarina of Time."
+  },
+  {
+   "id": "gta 6 is overrated and the user reviews prove it",
+   "title": "GTA 6 Is Overrated, and the User Reviews Prove It",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMy1CN2xLNlJqVXl5X1BZQnl0WXluSkVLeldNQnZCbW0ySC10bV9Oek5SaTY5a3JEY25vMWl2R0xobU01NnNtdy16MTNJVXRiQlpWb1pEMTh0UTF2SFFCRW5wR3BBSGd5MUVJbjhtb2ZDT0g2czVPX1BYbExNb2Z4Y2JFZXpkTTlZYmc?oc=5",
+   "outlet": "PCMag UK",
+   "via": "Google News",
+   "published": "2026-11-25T14:02:42+00:00",
+   "seen": "2026-11-25T14:12:25+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "GTA 6 is deemed overrated, with user reviews purportedly proving it."
   },
   {
    "id": "any official gta 6 pc port s ability to deliver a proper first person mode would be its biggest ace in the hole so reckon i a traitor",
