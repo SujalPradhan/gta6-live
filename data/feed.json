@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T22:30:26+00:00",
- "started": "2026-11-25T22:30:20+00:00",
+ "updated": "2026-11-25T22:35:29+00:00",
+ "started": "2026-11-25T22:35:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T22:30:21+00:00"
+   "checked": "2026-11-25T22:35:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 35,
-   "checked": "2026-11-25T22:30:21+00:00"
+   "hits": 55,
+   "checked": "2026-11-25T22:35:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-25T22:30:21+00:00"
+   "hits": 65,
+   "checked": "2026-11-25T22:35:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:30:22+00:00"
+   "checked": "2026-11-25T22:35:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T22:30:22+00:00"
+   "checked": "2026-11-25T22:35:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T22:30:22+00:00"
+   "checked": "2026-11-25T22:35:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T22:30:22+00:00"
+   "checked": "2026-11-25T22:35:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T22:30:22+00:00"
+   "checked": "2026-11-25T22:35:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T22:30:23+00:00"
+   "checked": "2026-11-25T22:35:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T22:30:23+00:00"
+   "checked": "2026-11-25T22:35:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T22:30:23+00:00"
+   "checked": "2026-11-25T22:35:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T22:30:23+00:00"
+   "checked": "2026-11-25T22:35:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:30:23+00:00"
+   "checked": "2026-11-25T22:35:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T22:30:23+00:00"
+   "checked": "2026-11-25T22:35:27+00:00"
   }
  },
  "items": [
@@ -207,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story lists things you might have missed in GTA 6, covering secret locations and hidden controller settings."
+  },
+  {
+   "id": "your ps5 is full gta 6 needs room and black friday has the m 2 fix",
+   "title": "Your PS5 is full, GTA 6 needs room, and Black Friday has the M.2 fix",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QZ3ZkNWF2ZTdFeHFlSW1Wai1uMmdWYWxnUFI5d0NzX3A3SFFhdDE2MmNhUDk0N2RRQS1BUXdnOThhbmhITkZOTWpDV2YybFNqVWFOcjFraFFuQndOaHdMSHExZlBQZjg?oc=5",
+   "outlet": "Gadget Flow",
+   "via": "Google News",
+   "published": "2026-11-25T21:35:00+00:00",
+   "seen": "2026-11-25T22:35:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses the PS5 storage issue and GTA 6 needing space, along with a Black Friday M.2 fix."
   },
   {
    "id": "gta 6 vault how to open them during big bank jobs",
@@ -1676,6 +1689,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 releases a Netflix extended look lasting 27 minutes after leaks."
+  },
+  {
+   "id": "gta 6 netflix reveal 27 minutes after the leaks",
+   "title": "GTA 6 Netflix Reveal: 27 Minutes After the Leaks",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzJFLXFMVmc3VjM2NmNEU0ZvWnM5U2MwTGFZMkFneGR6T0RqRVBZNmR3X2NVXzQwV3JzZGdianhfYlIxd2d6Y1d3aTc2dzZ5bjI1eDBFR09zOHFtcXBZeWhOcnN5QU1GWnN1YzJ2SEtaWHgxMUFIZzdLMGJjeGd3MjVwSjhPUzZuOEJR?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-25T17:11:29+00:00",
+   "seen": "2026-11-25T22:35:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 was revealed on Netflix 27 minutes after leaks."
   },
   {
    "id": "where to find invetero vice vinyl coquette in gta 6 fastest cars location stats",
