@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T17:28:39+00:00",
- "started": "2026-11-25T17:28:33+00:00",
+ "updated": "2026-11-25T17:33:44+00:00",
+ "started": "2026-11-25T17:33:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,153 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T17:28:33+00:00"
+   "checked": "2026-11-25T17:33:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-25T17:28:33+00:00"
+   "checked": "2026-11-25T17:33:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-25T17:28:34+00:00"
+   "hits": 77,
+   "checked": "2026-11-25T17:33:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T17:28:34+00:00"
+   "checked": "2026-11-25T17:33:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T17:28:34+00:00"
+   "checked": "2026-11-25T17:33:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T17:28:34+00:00"
+   "checked": "2026-11-25T17:33:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 17,
-   "checked": "2026-11-25T17:28:35+00:00"
+   "hits": 16,
+   "checked": "2026-11-25T17:33:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T17:28:35+00:00"
+   "checked": "2026-11-25T17:33:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T17:28:35+00:00"
+   "checked": "2026-11-25T17:33:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-25T17:28:35+00:00"
+   "checked": "2026-11-25T17:33:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T17:28:35+00:00"
+   "checked": "2026-11-25T17:33:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T17:28:36+00:00"
+   "checked": "2026-11-25T17:33:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T17:28:36+00:00"
+   "checked": "2026-11-25T17:33:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T17:28:36+00:00"
+   "checked": "2026-11-25T17:33:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi arrives ahead of black friday boys town nevada offers a parent s guide to holiday gaming",
+   "title": "GTA VI Arrives Ahead of Black Friday Boys Town Nevada Offers a Parent’s Guide to Holiday Gaming",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM0FxbkVaZEJZQ0p2N05UQ2NyRDExVG04R1RDUzc4SEJHZlJpNWZjN19Xc0E1WmFuQ0VLal9rZldaZ3BMMzhvQmJuOGNBenRvRlFQSEQwLXlIOVZOSS1sbUp2MnlVa1Y5MThobEk2NGM2N3JYZ044MTJDX2dkWEREZUNvS1FSNzFxUzgwa09YY2pWNzJXZTlYc0hUdkVrMy1OODVfQ1NRV2ZucEZTLXlqU2lOZWpjU0g0UFJ0NGhQWWpiV1pmM3BNaXR3?oc=5",
+   "outlet": "Nevada Business Magazine",
+   "via": "Google News",
+   "published": "2026-11-25T17:31:13+00:00",
+   "seen": "2026-11-25T17:33:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI arrives ahead of Black Friday, and Boys Town Nevada offers a parent's guide to holiday gaming."
+  },
+  {
+   "id": "this gta 6 radio station represents its florida inspired setting perfectly",
+   "title": "This GTA 6 Radio Station Represents Its Florida-Inspired Setting Perfectly",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnRVM2l2WnQ1RzlQOHZVSVJlYW9SVGZ1MEx4U2JvVVZJbENka1doYnVLTXRMTGRKYVktS1lBYVpnTlk4U2tITFQ4a0FTejBVczB3RUhVSzFXMDREYVlQQjEteUZ2V0FQS1RzdjlzcWJ3clZndkxEb1hwRkFjMDhmNFl4bjNvSkRSZThKNUxEb3lPU1QwT1E3UEc2UXVCRHpzaVpNcFh6aHctb1NGeGZGa0IzZDdyQzZVWEtNLTVtVnRuQQ?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-25T17:28:30+00:00",
+   "seen": "2026-11-25T17:33:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 radio station is highlighted for perfectly representing its Florida-inspired setting."
+  },
+  {
+   "id": "where to find pegassi mojito tempesta in gta 6 fastest cars location stats",
+   "title": "Where To Find Pegassi Mojito Tempesta In GTA 6—Fastest Cars Location & Stats",
+   "link": "https://insider-gaming.com/pegassi-mojito-tempesta-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-25T17:26:39+00:00",
+   "seen": "2026-11-25T17:33:39+00:00",
+   "summary": "Here’s where to find the Pegassi Mojito Tempesta in Grand Theft Auto 6, as well as a detailed look at the car’s stats. The post Where To Find Pegassi Mojito Tempesta In GTA 6—Fastest Cars Location & Stats appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The article explains where to find the Pegassi Mojito Tempesta in GTA 6 and details the car’s stats."
+  },
+  {
+   "id": "gta 6 breaking down the cleanest bank robbery we ve seen so far",
+   "title": "GTA 6: Breaking Down The Cleanest Bank Robbery We've Seen So Far",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYTIwVHY3OTE5ZEhyTDM5RDF2Qk5ndFE4NXU5RkMwWjh3QUk5Zmg5MFloSnl5QXZfeHNib0xQS3c0ZkkxbEZJMDY2dEt3cV9PQThVRTFudzZxdzBGNkJvd2JmT0x4bU03VWp4THkyZGlaX3BYcEppcUFtaVd5MnI0UE9VS3o2ZkFIblpram9HTnJOUGEtYXJiaGlwZWNrbk5ZQXJUNWd4T2JaOTN0a3h6U0JPRl9NVHJEU0g2ZkNRQQ?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-25T17:24:08+00:00",
+   "seen": "2026-11-25T17:33:37+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "An analysis of the cleanest bank robbery shown in GTA 6 so far."
+  },
   {
    "id": "what indie musicians can learn from gta 6 s record breaking rollout and 3 79 billion launch",
    "title": "What Indie Musicians Can Learn From GTA 6's Record-Breaking Rollout And $3.79 Billion Launch",
@@ -129,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The headline reports that four more songs have been added to Grand Theft Auto VI: The Album."
+  },
+  {
+   "id": "gta 6 like partnership with playstation announced by witcher developer",
+   "title": "GTA 6-Like Partnership With Playstation Announced by Witcher Developer",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZm1MQlltdEMtMDJyLU1YdHVMZlV6U3dMLXlZRTVDUzBfVWkyQTF1dlNsbWhJd0YybnQyTmdSZzF4azdQWmlyejI1QXJHeXhMSDNKMmtwaXk3SW9WbjhGRlVXejJRb2Q2bkgzZGFhUUhUcnRwam40Y0RYdWRZVjBxZDNhTkZ5ak5fQjl3WHlmR0sxQQ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-25T17:19:32+00:00",
+   "seen": "2026-11-25T17:33:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6-like partnership between PlayStation and the Witcher developer is announced."
   },
   {
    "id": "the best things to do in gta 6 after beating the main story",
