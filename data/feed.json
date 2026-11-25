@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T13:37:19+00:00",
- "started": "2026-11-25T13:37:13+00:00",
+ "updated": "2026-11-25T13:42:23+00:00",
+ "started": "2026-11-25T13:42:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,154 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T13:37:13+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T13:42:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 45,
-   "checked": "2026-11-25T13:37:14+00:00"
+   "hits": 55,
+   "checked": "2026-11-25T13:42:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 78,
-   "checked": "2026-11-25T13:37:14+00:00"
+   "checked": "2026-11-25T13:42:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T13:37:15+00:00"
+   "checked": "2026-11-25T13:42:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T13:37:15+00:00"
+   "checked": "2026-11-25T13:42:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-25T13:37:15+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T13:42:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:37:15+00:00"
+   "checked": "2026-11-25T13:42:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:37:15+00:00"
+   "checked": "2026-11-25T13:42:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-25T13:37:15+00:00"
+   "hits": 6,
+   "checked": "2026-11-25T13:42:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:37:16+00:00"
+   "checked": "2026-11-25T13:42:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T13:37:16+00:00"
+   "checked": "2026-11-25T13:42:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T13:37:16+00:00"
+   "checked": "2026-11-25T13:42:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T13:37:17+00:00"
+   "checked": "2026-11-25T13:42:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T13:37:17+00:00"
+   "checked": "2026-11-25T13:42:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "tired of gta 6 here s 23 lesser known gems that might beat it at its own game",
+   "title": "Tired of GTA 6? Here's 23 lesser-known gems that might beat it at its own game",
+   "link": "https://www.eurogamer.net/gta-6-23-lesser-known-gems-that-might-beat-it-at-its-own-game",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-25T13:41:40+00:00",
+   "seen": "2026-11-25T13:42:18+00:00",
+   "summary": "You can do a lot of things in GTA 6 : fishing, golfing, running, jumping, dancing, racing, roaming, shopping. It goes on! There's romancing, birdwatching, DIY, and even more besides. It really is an everything game. But GTA 6 isn't for every one . Read more",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The piece lists twenty-three lesser-known GTA 6 features and argues the game offers a broad range of activities beyond core gameplay."
+  },
+  {
+   "id": "i can t stop watching gta 6 s fake tv",
+   "title": "I Can't Stop Watching GTA 6's Fake TV",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOblN2WVN3ekR4a3RxbDE2ODUxQ0VXaUlzU212WkxTT1FIQ1E4c3ExaV9CU1ExQ1gwcFhWQzNhRG9rb2ExMWtyWFR2elFMSUVUSkl1MHpRTS1wSGpWUjFNS2ZnY1c5M1BZVE01cUl1cDROVTBy?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-25T13:39:51+00:00",
+   "seen": "2026-11-25T13:42:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses GTA 6's fake TV content that the viewer can't stop watching."
+  },
+  {
+   "id": "gta 6 how to find the buntosaurus bat",
+   "title": "GTA 6: How to Find the Buntosaurus Bat",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5emszd3Bua0Vhc19UX1psNm1FYy1ubFAwamtka0gxWUZOZUl6U1dRSlBkaFNFYjNNaFNSQWRtaTVKZko3eUN1VGVaUFZ4dlJkUkNiVEF6YlRhc09ZX1NtUk55SFBEaFJvMUljTHZ2UlAyYURjelE?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-25T13:39:13+00:00",
+   "seen": "2026-11-25T13:42:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article explains how to locate the Buntosaurus Bat in GTA 6."
+  },
+  {
+   "id": "grand theft auto vi made nearly 4 billion doing what movies can t",
+   "title": "‘Grand Theft Auto VI’ Made Nearly $4 Billion Doing What Movies Can’t",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNFN1V3pkS0pXYmxhYUlacEVYRnNKTkxzSnl2dHVUZEswWUtFRHZIT0FJNXNKNGJiVFhRQnNFdEFBbGwtQXRpZWZucEFWQXVCcE53RHZucUtlNTJqSjA3WVNSVzByaGRXeHJuM2JZVVNxVXREdXp6dlJJdHIwMGVtd2NtbGdtN2tDUk9HaW84NTkwWXFobVc0ZjF3V2podDBTNjYwazB3?oc=5",
+   "outlet": "IndieWire",
+   "via": "Google News",
+   "published": "2026-11-25T13:36:07+00:00",
+   "seen": "2026-11-25T13:42:16+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The report states GTA VI generated nearly four billion dollars by doing things movies cannot."
+  },
   {
    "id": "how to get the little friend smg in gta 6 scarface easter egg",
    "title": "How to Get the Little Friend SMG in GTA 6 – Scarface Easter Egg",
@@ -116,6 +168,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story advertises a method to obtain the Little Friend SMG in GTA 6 as a Scarface Easter Egg."
+  },
+  {
+   "id": "where to find the piccia dragon gate furia in gta 6 fastest cars location stats",
+   "title": "Where To Find the Piccia Dragon Gate Furia In GTA 6—Fastest Cars Location & Stats",
+   "link": "https://insider-gaming.com/where-to-find-the-piccia-dragon-gate-furia-in-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-25T13:33:10+00:00",
+   "seen": "2026-11-25T13:42:18+00:00",
+   "summary": "Here’s where to find the Piccia Dragon Gate Furia in Grand Theft Auto 6, as well as a detailed look at the car’s stats. The post Where To Find the Piccia Dragon Gate Furia In GTA 6—Fastest Cars Location & Stats appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The guide shows where to find the Piccia Dragon Gate Furia in GTA 6 and analyzes the car’s stats."
+  },
+  {
+   "id": "played gta vi on my ps5 pro and loved the overall gaming experience team bhp",
+   "title": "Played GTA VI on my PS5 Pro, and loved the overall gaming experience! - Team-BHP",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTC14dkFydXQ0ZGRyWGpEWDRQcWw4bi1QVWlpS0xKVVd1dFRMb2tzWmdILXdpQ3gtcGZCT25nZGdhT29JRU1hNEJnY1BDOE5aNDVIenMyMXYzTDdPdlBqMjIzb1dqbVRkVWJrTTJzRks5YUFvbjRfNUtILXFsdVVoSWt2V083WEpNQmh5X0NXVmJqWTdY0gGaAUFVX3lxTE01QlJTbVZsaDRFLWtjVWx0RTBwaFY5N3B0SmRhLThuMEx1Mk9XQmhoQ19ncFNLekR6NjlRNXp1RHFlWnZzUFJNckhZT1c4cW5BbGtxNGxoQmNQZm90RjcweWZKcXlJSDdrOEV5N3lxY0JPcUFvWTg0cHlxRnZRcG5hWTcyNXlkTklkNDVhYnJzZ0w1QkMxUzhHbnc?oc=5",
+   "outlet": "Team-BHP",
+   "via": "Google News",
+   "published": "2026-11-25T13:30:00+00:00",
+   "seen": "2026-11-25T13:42:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The post shares a personal positive experience playing GTA VI on a PS5 Pro."
   },
   {
    "id": "noteworthy 11 25 12 2 26 santa monica claims gta vi",
@@ -155,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Fashion Times UK reports fans declare an unexpected 'cure' for gooning after a traffic drop at Pornhub."
+  },
+  {
+   "id": "barbie ferreira on gta 6 role lemme know if you catch me talking dirty",
+   "title": "Barbie Ferreira on 'GTA 6' Role: 'Lemme Know If You Catch Me Talking Dirty'",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG1BbUdKbzdVeHI5YW5INmg2LVFNNF95Uzlqd0JxRllVdTBXMGdFdG9KekJFd2plRS1EWUVubGFCeDNkdGZ4TkpoUVZyLUVmRkNRS0J6SFY0NHByQUhCdVExVGhobEpfN3RfbmRQWDg4eUFnTlJ3SnJDcVUtWFRVbG9OQVRPR0U0SUQ0TjRfSUp0ZUtjM2llMXZZMExTajR5S2w5NzFrY2N5UUk?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-25T13:21:11+00:00",
+   "seen": "2026-11-25T13:42:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Barbie Ferreira discusses her GTA 6 role and hints at provocative dialogue."
   },
   {
    "id": "only 28 of the buildings on the gta vi map can be explored",
