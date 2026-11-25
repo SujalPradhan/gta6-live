@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T06:34:39+00:00",
- "started": "2026-11-25T06:34:35+00:00",
+ "updated": "2026-11-25T06:39:43+00:00",
+ "started": "2026-11-25T06:39:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T06:34:35+00:00"
+   "checked": "2026-11-25T06:39:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-25T06:34:35+00:00"
+   "hits": 63,
+   "checked": "2026-11-25T06:39:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-25T06:34:36+00:00"
+   "hits": 81,
+   "checked": "2026-11-25T06:39:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T06:34:36+00:00"
+   "checked": "2026-11-25T06:39:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T06:34:36+00:00"
+   "checked": "2026-11-25T06:39:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T06:34:36+00:00"
+   "checked": "2026-11-25T06:39:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T06:34:37+00:00"
+   "checked": "2026-11-25T06:39:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T06:34:37+00:00"
+   "checked": "2026-11-25T06:39:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T06:34:37+00:00"
+   "checked": "2026-11-25T06:39:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T06:34:38+00:00"
+   "checked": "2026-11-25T06:39:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T06:34:38+00:00"
+   "checked": "2026-11-25T06:39:40+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T06:34:38+00:00"
+   "checked": "2026-11-25T06:39:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T06:34:39+00:00"
+   "checked": "2026-11-25T06:39:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T06:34:39+00:00"
+   "checked": "2026-11-25T06:39:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 testing revealed frame rate drops to 14 on xbox series s during explosions",
+   "title": "GTA 6 testing revealed frame rate drops to 14 on Xbox Series S during explosions.",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGZDbDljWGNaWlRGaC1ZWXRmbVZmZFVsd2JKaXRIWnBfcW9EeHgzc0lCYTR3QnA0a1l0UklUT2I5QnVjVmtLa0oxYTZqeWc1dUZDRHRQWjFpNlZzU2xzbEdUMTVTWUNFR045QkNNQ0R4dWdKQlF0RldfWUhiZE5uczNILXo0V25POFZMNTMzSnhLcTB5UVNPVy1QWHUzYkZqWG9NR3VHV1M1eC02M2RvQVhXSk4?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-25T06:32:05+00:00",
+   "seen": "2026-11-25T06:39:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports frame rate drops during explosions on Xbox Series S in GTA 6 testing."
+  },
   {
    "id": "grand theft auto vi state of decay",
    "title": "grand theft auto vi: state of decay",
@@ -313,6 +326,19 @@
    "ai_summary": "The story reports on where to find all 12 labs and what each pays in GTA 6."
   },
   {
+   "id": "gta vi s launch day sales estimate is a 3 79 billion flex",
+   "title": "GTA VI’s launch-day sales estimate is a $3.79 billion flex",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zTXFfdlVlbmlDSlBnR2J0VUZub3JuR1BuZ0xvdjdNZU5RemNXdERUZHo0TkMteWJzY09VdTNJZ2t4cDRWWXd5R0tQSUhWY1Vtbmc?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-25T04:22:16+00:00",
+   "seen": "2026-11-25T06:39:37+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports launch-day sales estimates for GTA VI."
+  },
+  {
    "id": "gta 6 launch figures expected to rise when pc version arrives",
    "title": "GTA 6 Launch Figures Expected to Rise When PC Version Arrives",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWVVb2dFRHdiZ05UVHJNQ1ktdXRsUzdjR0FDU0QzY2E4cTFRU1NhYjRBUVBndF9jOG1rb0pKbHQ2eFZQWVFIVlNaOW5wNFZ0cG1OUXV5d3d6OWFDMkstcUdqcFJWTDFtR1p0Q1VpSzBCc3E2ei1ybmxKbDJsLW9YOTQ0QXF5MnFucGRjdm5qUQ?oc=5",
@@ -350,6 +376,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article states that the GTA creator acknowledges the series’ main problem and that Lucia changed everything in GTA VI."
+  },
+  {
+   "id": "gta 6 vs call of duty cod down 42 reddit has something to say about it",
+   "title": "GTA 6 vs Call of Duty: CoD Down 42%; Reddit Has Something To Say About It",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2pKbWpfM0lkZ0JYSFRPaHZfRFEtM1RKWDZ2dVllaXRvREQyUTcwUXMtYU85VXQtcTJuUUh2OWVMcmxaUVNBZXdpdGtOSU9YdGpKZFcwcEdkdnZSMERlR3BDeUk5STZQSlNVZS1Fb2QtcThQM3FJLXNCbEZYQ3c5dmh6dkFrUDBxYkprMVVDbzlrWnA4RmZmX1lWS291dUoxMVJDalpfNVNxZzJmUEJ3NjVURGZpaGtvclhXTWdhWdIBzAFBVV95cUxQNjkzakEtMmkyaTM0Tl9EVUN5MkZISlRCUnFKQXdBWklMUzFSMWVPQmVzcVh5NDc4YzZkR010Mkc5QzNzX2J1TmUyX2V6OWJVbFBMLUZJNEtyQWRyUEpId0NfU1hXcmtaa19jS3B2ZVo0Z1U3Tnl6d0l0dlRKaU5vNnp0ZzdfU2VLbm1DQ24xaTVNa1MzMFMwa0IwaDZud1pNWmw4OGRvVjVkX2E1N2ZqNmZKcHFGcVVSNEtzTDBwOEhsdlZadVN3T0pUX2w?oc=5",
+   "outlet": "Esquire India",
+   "via": "Google News",
+   "published": "2026-11-25T03:52:07+00:00",
+   "seen": "2026-11-25T06:39:37+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 versus Call of Duty performance and Reddit reaction."
   },
   {
    "id": "gta 6 how to get the furry dw 9 smg should you take the cash",
