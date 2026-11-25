@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T00:37:42+00:00",
- "started": "2026-11-25T00:37:36+00:00",
+ "updated": "2026-11-25T00:42:42+00:00",
+ "started": "2026-11-25T00:42:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T00:37:36+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T00:42:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 71,
-   "checked": "2026-11-25T00:37:37+00:00"
+   "checked": "2026-11-25T00:42:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 88,
-   "checked": "2026-11-25T00:37:37+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T00:42:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T00:37:38+00:00"
+   "checked": "2026-11-25T00:42:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T00:37:38+00:00"
+   "checked": "2026-11-25T00:42:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T00:37:38+00:00"
+   "checked": "2026-11-25T00:42:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T00:37:38+00:00"
+   "checked": "2026-11-25T00:42:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T00:37:38+00:00"
+   "checked": "2026-11-25T00:42:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T00:37:38+00:00"
+   "checked": "2026-11-25T00:42:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T00:37:39+00:00"
+   "checked": "2026-11-25T00:42:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T00:37:39+00:00"
+   "checked": "2026-11-25T00:42:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T00:37:39+00:00"
+   "checked": "2026-11-25T00:42:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T00:37:39+00:00"
+   "checked": "2026-11-25T00:42:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T00:37:39+00:00"
+   "checked": "2026-11-25T00:42:39+00:00"
   }
  },
  "items": [
@@ -311,6 +311,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Half of young men have played Grand Theft Auto VI or plan to."
+  },
+  {
+   "id": "raffle live travis scott x nike air force 1 gta 6",
+   "title": "RAFFLE LIVE: Travis Scott x Nike Air Force 1 “GTA 6”",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2lrMktvWVFxazNmSXBSOG0zY1Y1ZE1fSUNzUy1fU3ZVc0QyWmZEWGpwSEk3YW50LTltcFpENVhzVnNicVdvUklZOHlhdUtvNFpoWWRXdXhZLVd1U3V5OFBWdWV2cTFDMmZ6REpBVm04SWJ2eUpMOXI1c3ZGWENvRkVSelVBMmFQYTYyN2EzSTNDd9IBkgFBVV95cUxNM2lrMktvWVFxazNmSXBSOG0zY1Y1ZE1fSUNzUy1fU3ZVc0QyWmZEWGpwSEk3YW50LTltcFpENVhzVnNicVdvUklZOHlhdUtvNFpoWWRXdXhZLVd1U3V5OFBWdWV2cTFDMmZ6REpBVm04SWJ2eUpMOXI1c3ZGWENvRkVSelVBMmFQYTYyN2EzSTNDdw?oc=5",
+   "outlet": "Sneaker News",
+   "via": "Google News",
+   "published": "2026-11-24T23:31:52+00:00",
+   "seen": "2026-11-25T00:42:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a raffle live for Travis Scott x Nike Air Force 1 tied to GTA 6."
   },
   {
    "id": "i hate video game romance here s why grand theft auto vi is the exception",
@@ -1039,6 +1052,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The piece explains how to obtain Twitch drops in GTA 6."
+  },
+  {
+   "id": "gta 6 how to get twitch drops",
+   "title": "GTA 6: How to Get Twitch Drops",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CZkV6b3ZieGF2T1JKS0lBUENNR3NyUnpZcU5xYmlwUHJCQ202N2lYUGJyTGhYU0psOVlRLUpDNEZyWXFuQWlDTjFhdE51X0hYZHJRUEJkS2tMbE12cnhHVw?oc=5",
+   "outlet": "GameRant",
+   "via": "Google News",
+   "published": "2026-11-24T21:12:47+00:00",
+   "seen": "2026-11-25T00:42:37+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story explains how to obtain Twitch drops for GTA 6."
   },
   {
    "id": "grand theft auto vi made 4 billion in biggest launch ever",
