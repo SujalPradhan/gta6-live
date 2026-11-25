@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T20:44:59+00:00",
- "started": "2026-11-25T20:44:55+00:00",
+ "updated": "2026-11-25T20:49:56+00:00",
+ "started": "2026-11-25T20:49:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T20:44:55+00:00"
+   "checked": "2026-11-25T20:49:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-25T20:44:55+00:00"
+   "hits": 36,
+   "checked": "2026-11-25T20:49:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 67,
-   "checked": "2026-11-25T20:44:56+00:00"
+   "hits": 76,
+   "checked": "2026-11-25T20:49:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T20:44:56+00:00"
+   "checked": "2026-11-25T20:49:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T20:44:56+00:00"
+   "checked": "2026-11-25T20:49:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T20:44:56+00:00"
+   "checked": "2026-11-25T20:49:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T20:44:56+00:00"
+   "checked": "2026-11-25T20:49:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-25T20:44:56+00:00"
+   "hits": 15,
+   "checked": "2026-11-25T20:49:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T20:44:57+00:00"
+   "checked": "2026-11-25T20:49:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T20:44:57+00:00"
+   "checked": "2026-11-25T20:49:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T20:44:57+00:00"
+   "checked": "2026-11-25T20:49:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T20:44:57+00:00"
+   "checked": "2026-11-25T20:49:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T20:44:57+00:00"
+   "checked": "2026-11-25T20:49:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T20:44:57+00:00"
+   "checked": "2026-11-25T20:49:53+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions whether GTA 6 really recreated Charlie Kirk's assassination, according to France 24."
+  },
+  {
+   "id": "did gta 6 really recreate charlie kirk s assassination truth or fake",
+   "title": "Did GTA 6 really recreate Charlie Kirk's assassination? - Truth or Fake",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTU0Sk1YdW5ycXpUU2pNSjJpQUxGdTBnLU9kam9odmFrWmM2VW51d0NjUVJacWNqMmlqMk5ET3M2Qk8xQUtvV204YlMzajVtY0ZZbzJESzhmWThOcFk4R2pBT1pKME5LQmRPQ3Z1RmtqTVNKSGx2ODZuZ3NIUWRuVEl5ZU12c1lqYUU4QVBqc0dyalpvZ3FTMEQyM2FQc3lSRy1PT09pVDdHLXlRTlFQN0tJV0E?oc=5",
+   "outlet": "France 24",
+   "via": "Google News",
+   "published": "2026-11-25T20:38:28+00:00",
+   "seen": "2026-11-25T20:49:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 really recreated Charlie Kirk's assassination, labeling it as truth or fake."
   },
   {
    "id": "the voice behind wpbf 25 news featured in grand theft auto vi",
@@ -363,6 +376,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports testing seven gaming headsets while playing GTA 6 for 130 hours, recommending any one of them for Black Friday."
+  },
+  {
+   "id": "this website has gta 6 fans queuing for hours to take over a stranger s ps5 and play for free",
+   "title": "This website has GTA 6 fans queuing for hours to take over a stranger’s PS5 and play for free",
+   "link": "https://www.dexerto.com/gta/this-website-has-gta-6-fans-queuing-for-hours-to-take-over-a-strangers-ps5-and-play-for-free-3431366/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-25T19:40:03+00:00",
+   "seen": "2026-11-25T20:49:52+00:00",
+   "summary": "A GTA 6 player has created a website that allows anyone to play Rockstar Games’ latest release for free by remotely taking control of their PS5.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a website lets GTA 6 fans play for free by remotely taking control of someone else’s PS5."
   },
   {
    "id": "gta 6 console sales surge corrected week and figures",
