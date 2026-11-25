@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T16:33:25+00:00",
- "started": "2026-11-25T16:33:17+00:00",
+ "updated": "2026-11-25T16:38:27+00:00",
+ "started": "2026-11-25T16:38:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T16:33:18+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T16:38:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-25T16:33:19+00:00"
+   "hits": 42,
+   "checked": "2026-11-25T16:38:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-25T16:33:19+00:00"
+   "hits": 62,
+   "checked": "2026-11-25T16:38:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T16:33:19+00:00"
+   "checked": "2026-11-25T16:38:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T16:33:19+00:00"
+   "checked": "2026-11-25T16:38:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T16:33:20+00:00"
+   "checked": "2026-11-25T16:38:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T16:33:20+00:00"
+   "checked": "2026-11-25T16:38:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T16:33:20+00:00"
+   "checked": "2026-11-25T16:38:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T16:33:20+00:00"
+   "checked": "2026-11-25T16:38:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-25T16:33:21+00:00"
+   "checked": "2026-11-25T16:38:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T16:33:22+00:00"
+   "checked": "2026-11-25T16:38:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T16:33:22+00:00"
+   "checked": "2026-11-25T16:38:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T16:33:22+00:00"
+   "checked": "2026-11-25T16:38:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T16:33:22+00:00"
+   "checked": "2026-11-25T16:38:24+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is locked to 30fps on PS5, but a method allows playing at 60fps via PC."
+  },
+  {
+   "id": "can you replay gta 6 story missions rockstar explains why not",
+   "title": "Can You Replay GTA 6 Story Missions? Rockstar Explains Why Not",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUMzUUhaaDItWC1LRXpuWUR1UzF3NExkM09IRzJPV056TFlvMFM2dVM2b2tvSDZxNHg3bk50SlFGSjYtT0ZYNVQ3QmdiMXI1QUhCbDF4ZWVKaTlMU3RzbEp5c3Y3dk9aRHNiODZhbDJKZ0dINFVQV2pfY181ekoxRFRjTU9CUkhlOTl2RWxVc1NycUY0UnNPZEE1QnpPZw?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-25T16:30:19+00:00",
+   "seen": "2026-11-25T16:38:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains why players cannot replay GTA 6 story missions, as explained by Rockstar."
   },
   {
    "id": "gta 6 is reportedly frying some ps5 consoles",
@@ -142,6 +155,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "GTA 6 drives record PS5 activity with 39 million players, according to the headline."
+  },
+  {
+   "id": "max verstappen played an obscene amount of gta vi and still won the las vegas grand prix",
+   "title": "Max Verstappen played an obscene amount of 'GTA VI' and still won the Las Vegas Grand Prix",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEFPYTR3bG81U3ozOEV3Y1NrTWh4blh5TXpxeFZMRkU0d3pXSm16bFlkMnYtUmVRU0lDS000WnF1bURjLTQ5d1R6VWZBMUM0ZGJxTHhDdlBsR0ZVVU9TSF90UGgzSm9UNjlIaHlnNWJJWnZwTGFWVGJzUlpmMVZVR19zSWg5TnBhekpSbC1XNjFENlg5TV9idFc5Zk9LazdteUtlMGVjUEtvWE40cWhVTGRQYw?oc=5",
+   "outlet": "Fox News",
+   "via": "Google News",
+   "published": "2026-11-25T16:25:12+00:00",
+   "seen": "2026-11-25T16:38:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Max Verstappen played a large amount of GTA VI and still won the Las Vegas Grand Prix."
   },
   {
    "id": "someone counted all 5 588 buildings in gta 6 and it turns out you can go inside 28 of them",
