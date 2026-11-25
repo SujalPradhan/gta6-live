@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T08:05:20+00:00",
- "started": "2026-11-25T08:05:13+00:00",
+ "updated": "2026-11-25T08:10:21+00:00",
+ "started": "2026-11-25T08:10:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T08:05:14+00:00"
+   "checked": "2026-11-25T08:10:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-25T08:05:15+00:00"
+   "hits": 52,
+   "checked": "2026-11-25T08:10:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 63,
-   "checked": "2026-11-25T08:05:15+00:00"
+   "checked": "2026-11-25T08:10:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T08:05:15+00:00"
+   "checked": "2026-11-25T08:10:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T08:05:15+00:00"
+   "checked": "2026-11-25T08:10:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T08:05:16+00:00"
+   "checked": "2026-11-25T08:10:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T08:05:16+00:00"
+   "checked": "2026-11-25T08:10:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T08:05:16+00:00"
+   "checked": "2026-11-25T08:10:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T08:05:16+00:00"
+   "checked": "2026-11-25T08:10:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T08:05:17+00:00"
+   "checked": "2026-11-25T08:10:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T08:05:17+00:00"
+   "checked": "2026-11-25T08:10:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T08:05:18+00:00"
+   "checked": "2026-11-25T08:10:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T08:05:18+00:00"
+   "checked": "2026-11-25T08:10:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T08:05:18+00:00"
+   "checked": "2026-11-25T08:10:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi has caused a decline in console sales of the witcher 3 and cyberpunk 2077 but cd projekt red is not concerned",
+   "title": "GTA VI has caused a decline in console sales of The Witcher 3 and Cyberpunk 2077, but CD PROJEKT RED is not concerned",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hbGtHVmw5VDFtTTBqZXNxOEhzMUw3RDI4c1QxOEtjdjkzdGlMQlFEdHZwX0lIMEw5bFU1aF9sZk1ZUF9wQUNMMnEyQ3BPc3lVd3c?oc=5",
+   "outlet": "WN Hub",
+   "via": "Google News",
+   "published": "2026-11-25T08:06:30+00:00",
+   "seen": "2026-11-25T08:10:15+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports a decline in console sales of The Witcher 3 and Cyberpunk 2077 linked to GTA VI, with CD PROJEKT RED not being concerned."
+  },
+  {
+   "id": "want to discuss grand theft auto vi with the gamer in your life here s a primer",
+   "title": "Want to discuss ‘Grand Theft Auto VI’ with the gamer in your life? Here’s a primer",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFRFTDZRdlY4OElWWGl6V2NkYUd6Qm9PRG9udnk5Wkd0M2FQYk9UN19hbjJ6R0Q3MmxVc0ptMVFJS3VCdm5KV0xtM3lkODVjd0RwWndla2ppcnh5QTVaaWNUMGJfZEhJSEVVMEd1dzBiVnFjZU13WW9KU2JsQ0V4ckJTcFE5bG5fU3diMFVVaFdVUQ?oc=5",
+   "outlet": "San Francisco Chronicle",
+   "via": "Google News",
+   "published": "2026-11-25T08:04:51+00:00",
+   "seen": "2026-11-25T08:10:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides a primer to discuss Grand Theft Auto VI with a gamer in your life."
+  },
+  {
+   "id": "gta vi s 3 79 billion debut has zuckerberg joking and musk laughing but take two investors still want more",
+   "title": "GTA VI's $3.79 billion debut has Zuckerberg joking and Musk laughing, but Take-Two investors still want more",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWxyX2puY3RjSkYwSlJNT251RnVVNm82R1NwSE1hcUpNcEdGam5YU1p3cldWTS1NWHJBT3I1c3RNSHdMb29SRXVZR3FpYmNaRlA2WFFRMk5Dd3FsN1ZFTERGWVk0clRFTUZxekdaeHVVRVJRYzUwVHYtR25aWUdVVFJZVUk3VkxfSnlSMURVSmtHU1ZqVVdGUVRMQjNmbmk4aWZuTzg5bkhIWGRMR1NrdENfbFRzSE9BN0F3a2hvSEZDeFpnQmVyRHpFOA?oc=5",
+   "outlet": "Fortune",
+   "via": "Google News",
+   "published": "2026-11-25T08:01:00+00:00",
+   "seen": "2026-11-25T08:10:15+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story notes GTA VI's debut value and reactions from Zuckerberg and Musk, with investors still wanting more from Take-Two."
+  },
   {
    "id": "gta 6 metacritic user score why it is being review bombed",
    "title": "GTA 6 Metacritic User Score: Why It Is Being Review-Bombed",
