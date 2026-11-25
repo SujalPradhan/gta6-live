@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T10:36:13+00:00",
- "started": "2026-11-25T10:36:07+00:00",
+ "updated": "2026-11-25T10:41:10+00:00",
+ "started": "2026-11-25T10:41:03+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T10:36:08+00:00"
+   "checked": "2026-11-25T10:41:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-25T10:36:08+00:00"
+   "hits": 44,
+   "checked": "2026-11-25T10:41:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 58,
-   "checked": "2026-11-25T10:36:08+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-25T10:41:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T10:36:09+00:00"
+   "checked": "2026-11-25T10:41:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T10:36:09+00:00"
+   "checked": "2026-11-25T10:41:05+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T10:36:09+00:00"
+   "checked": "2026-11-25T10:41:05+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T10:36:09+00:00"
+   "checked": "2026-11-25T10:41:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 16,
-   "checked": "2026-11-25T10:36:10+00:00"
+   "hits": 17,
+   "checked": "2026-11-25T10:41:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T10:36:10+00:00"
+   "checked": "2026-11-25T10:41:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T10:36:10+00:00"
+   "checked": "2026-11-25T10:41:07+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T10:36:11+00:00"
+   "checked": "2026-11-25T10:41:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T10:36:11+00:00"
+   "checked": "2026-11-25T10:41:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T10:36:11+00:00"
+   "checked": "2026-11-25T10:41:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T10:36:11+00:00"
+   "checked": "2026-11-25T10:41:08+00:00"
   }
  },
  "items": [
+  {
+   "id": "take two hits gta 6 pc port leonida with dmca taking down 3 007 github repos",
+   "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQTl1T3hHTklTaDNFRnNoZ2o4ai03dVFzTWswSmp6X29hblFBT3M4N09laXducTBHMWhhbXFhZzNPcGMzQXVBZ2wyV2J5THNsNGVWbFZfdnpFMnRxdVYwWEZKcElBaXQ4Tl9tVHA3VWpmNWlSeXluWjlMZGFXOE5GM2ZVbU5fMjk5aG1YdHBvNkJvTWVPMGhRanFGUzJYdDRzaFNN?oc=5",
+   "outlet": "Decrypt",
+   "via": "Google News",
+   "published": "2026-11-25T10:35:57+00:00",
+   "seen": "2026-11-25T10:41:04+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that Take-Two targets GTA 6 PC port Leonida with a DMCA and removes thousands of GitHub repositories."
+  },
+  {
+   "id": "grand theft auto vi is the biggest game launch in playstation history with over 39 million players",
+   "title": "Grand Theft Auto VI is the “biggest game launch in PlayStation history” with over 39 million players",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWxVU3RET01OUmI1djRPUUFGR2JHWFI5UmRQamd3RkVIbEtrQmZmOEFKTV9XdUtLaVFWd3BwODZEZTlnYUZRblJMUzY4ZVlLTDZBbW5FTWZCTXYtVURKcnpWTEVfRkItSnJOcVNXY2lMY0U4dlFnWkgtZ1VVb2duUmEwVzRCQ1c5Tk1QbHVIMVk1TlYyRXZzQWs1ekV6dl9zZjhtVUwtNVJLRFNCLXVlbkNSM19Tempoemc?oc=5",
+   "outlet": "Traxion.GG",
+   "via": "Google News",
+   "published": "2026-11-25T10:33:58+00:00",
+   "seen": "2026-11-25T10:41:04+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports that Grand Theft Auto VI is described as the biggest game launch in PlayStation history with over 39 million players."
+  },
   {
    "id": "gta 6 confirms what happened to michael and jimmy after gta 5 in nostalgic easter egg",
    "title": "GTA 6 confirms what happened to Michael and Jimmy after GTA 5 in nostalgic easter egg",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story says GTA 6 confirms what happened to Michael and Jimmy after GTA 5 in a nostalgic easter egg."
+  },
+  {
+   "id": "gta 6 analysis shows ps5 version suffers substantially more frequent frame rate drops than xbox series x version sparking debate about sony ",
+   "title": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version, Sparking Debate About Sony's 'Plays Best on PS5' Marketing",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQnBOeS1oQlZSb25yenFxY2g4OWNxaGFseVBGVGhiR3AzbFpVVUVFNjBNRkZfQW5ZSkJLWjg5b2g5RjJHeHd0eWFqQUlwYks3UzNyRU9NMVd3Y2lpZV9QcE5ET2d3MUZQUjJlT2dMNXRaMjNsSHBycUphTV9DMUZTMDJzalZPLTNpOFRuWG1reElfNllGX1NIRm5LWHB2aDZHNFQtQzNKSTJVTDhrOFRJZ1NZNlIyRTRxT3kzLWxNZ2tONlBJLUJ1eU9JSElCR0NfcUtRbW9ydjNDVEI0S0FBVmNjMHZYRUlKWFZGTDJIZGsxdw?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-25T10:29:08+00:00",
+   "seen": "2026-11-25T10:41:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 analysis finds PS5 version has more frequent frame rate drops than Xbox Series X version, prompting a debate about Sony's marketing claim."
   },
   {
    "id": "why gta 6 has given the witcher 4 a big challenge",
