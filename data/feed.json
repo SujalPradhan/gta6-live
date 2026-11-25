@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T09:55:58+00:00",
- "started": "2026-11-25T09:55:49+00:00",
+ "updated": "2026-11-25T10:00:56+00:00",
+ "started": "2026-11-25T10:00:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T09:55:50+00:00"
+   "checked": "2026-11-25T10:00:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-25T09:55:50+00:00"
+   "checked": "2026-11-25T10:00:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 74,
-   "checked": "2026-11-25T09:55:51+00:00"
+   "hits": 75,
+   "checked": "2026-11-25T10:00:53+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T09:55:51+00:00"
+   "checked": "2026-11-25T10:00:53+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-25T09:55:52+00:00"
+   "hits": 8,
+   "checked": "2026-11-25T10:00:53+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T09:55:54+00:00"
+   "checked": "2026-11-25T10:00:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T09:55:54+00:00"
+   "checked": "2026-11-25T10:00:53+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T09:55:54+00:00"
+   "checked": "2026-11-25T10:00:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T09:55:55+00:00"
+   "checked": "2026-11-25T10:00:54+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T09:55:55+00:00"
+   "checked": "2026-11-25T10:00:54+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T09:55:56+00:00"
+   "checked": "2026-11-25T10:00:54+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T09:55:56+00:00"
+   "checked": "2026-11-25T10:00:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T09:55:56+00:00"
+   "checked": "2026-11-25T10:00:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T09:55:56+00:00"
+   "checked": "2026-11-25T10:00:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 caught slipping walkthrough how to catch both thieves",
+   "title": "GTA 6 Caught Slipping walkthrough: How to catch both thieves",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-caught-slipping-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-25T09:58:00+00:00",
+   "seen": "2026-11-25T10:00:53+00:00",
+   "summary": "Here's how to complete Caught Slipping in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to complete the Caught Slipping mission in GTA 6."
+  },
+  {
+   "id": "max verstappen played gta 6 for 40 hours and still won the las vegas gp",
+   "title": "Max Verstappen played GTA 6 for 40 hours and still won the Las Vegas GP",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWxvS3Q0QVluRW5WN1JseElIRHFjRGhqSkRzRGdsQS1jNllSN0JUa0tmTTR2X0cwUXpyR3R0ZWc0bjVNdktobGdocFJVWG5VT2xMVlNrVEZ6S3pSOXNJRUFIWjZTengxLUJFMUZNOGFqZURhWXVpQzQ5aFJPN2tsbDFHWjZjTmIxVHY2Q3JUWW5vT3d5NEpuR2l0U2dyMWtZbkJjeFN3?oc=5",
+   "outlet": "Crash.net",
+   "via": "Google News",
+   "published": "2026-11-25T09:55:06+00:00",
+   "seen": "2026-11-25T10:00:52+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The report notes that Max Verstappen played GTA 6 for 40 hours and still won the Las Vegas GP."
+  },
+  {
+   "id": "gta 6 sold more than 2 lakh copies in india on ps5 during launch weekend report",
+   "title": "GTA 6 Sold More Than 2 Lakh Copies in India on PS5 During Launch Weekend: Report",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaF9hQmZOOWkwVU04NXhIUlZtSUFFSDV4MW04V0szTGpZNFhMb05qSFpNNnFkM0QwNDBSUTl5REpNVW9KZ2U1Yy1CVkFlMU1pejBJUkl5bnJVZHlQeVRlNmZmZ0hiYXptV1JQb2JZdzlQVzJpNGhYeG9LZTEyZHQ3M3ZOcTZ3TGhZVmlzWUhfY05YTC1QYmNoMlZoQTB5NkdGR2lZd1pKenMySXdtcDJOVkUzTjhaSkR1Z0tIeEVxcHoxanM?oc=5",
+   "outlet": "IGN India",
+   "via": "Google News",
+   "published": "2026-11-25T09:54:16+00:00",
+   "seen": "2026-11-25T10:00:53+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The piece claims GTA 6 sold more than 2 lakh copies in India on PS5 during launch weekend."
+  },
   {
    "id": "the unofficial gta vi pc ports are still in development despite take two s efforts to shut them down",
    "title": "The unofficial GTA VI PC ports are still in development despite Take-Two's efforts to shut them down",
@@ -116,6 +155,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that unofficial GTA VI PC ports are still in development despite Take-Two's efforts to shut them down."
+  },
+  {
+   "id": "cdpr compares the jump between the witcher 3 and 4 to gta vi",
+   "title": "CDPR compares the jump between The Witcher 3 and 4 to GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2dBdXVzcXB1dmQtbHQ0TkFmeGgzVmlidkdZTWpJOFM4dzl1TG11d3VjMmlrWUZsajdnUk1WeHdjNTI4UzAwUUhzZ0FpWnJ4RkxJejlKYmRwMUhFMWgzZnp5RUY2aU90VzdHTGNuQ3BBNnllaUZZVUhSYk45bGpldWNmY3N5MHVfYmtMcnhZMVNsQU9aSmlfM3M4SHNoZkpoX2NINldON3M2ZDRW?oc=5",
+   "outlet": "KitGuru",
+   "via": "Google News",
+   "published": "2026-11-25T09:45:40+00:00",
+   "seen": "2026-11-25T10:00:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "CDPR compares the jump from The Witcher 3 to The Witcher 4 with GTA VI."
   },
   {
    "id": "gta 6 players share custom beach moments with jason and l",
