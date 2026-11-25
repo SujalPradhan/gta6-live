@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T15:22:58+00:00",
- "started": "2026-11-25T15:22:51+00:00",
+ "updated": "2026-11-25T15:27:59+00:00",
+ "started": "2026-11-25T15:27:52+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T15:22:52+00:00"
+   "checked": "2026-11-25T15:27:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-25T15:22:52+00:00"
+   "hits": 42,
+   "checked": "2026-11-25T15:27:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-25T15:22:53+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T15:27:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T15:22:53+00:00"
+   "checked": "2026-11-25T15:27:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-25T15:22:53+00:00"
+   "hits": 5,
+   "checked": "2026-11-25T15:27:54+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 61,
-   "checked": "2026-11-25T15:22:53+00:00"
+   "checked": "2026-11-25T15:27:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T15:22:53+00:00"
+   "checked": "2026-11-25T15:27:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T15:22:54+00:00"
+   "checked": "2026-11-25T15:27:55+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T15:22:54+00:00"
+   "checked": "2026-11-25T15:27:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T15:22:54+00:00"
+   "checked": "2026-11-25T15:27:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T15:22:55+00:00"
+   "checked": "2026-11-25T15:27:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T15:22:55+00:00"
+   "checked": "2026-11-25T15:27:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T15:22:55+00:00"
+   "checked": "2026-11-25T15:27:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T15:22:55+00:00"
+   "checked": "2026-11-25T15:27:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 hacker sentenced to seven years walks free the same day after rockstar games leak",
+   "title": "GTA 6 hacker sentenced to seven years, walks free the same day after Rockstar Games leak",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0JIZjZ1Yk4tazRtZThXRUNjSDBoUFBIdGViOHM0eGRTZEhyZ1JCWEs2YWhfc2NqY2o2eE83RVFTb2haUFRNMTVhQ2R5Snk0enZLRDdvTFdxRTBRNXZiSlRPOFpxSDVQWWJWX0kzRHZTMV84dGFnelRVdDRteGNLd2FfRnkzZDlhZEVUNEpKdEVwbDZSVFpKZnZCUUp0X1ZXUWs2QXMtTmlGRExKNHRqWHE2R0dVRG1PeWtyRjJRaTRqSXdnMkVhM1ZCN3d1NE4zeWc?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-25T15:23:01+00:00",
+   "seen": "2026-11-25T15:27:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 hacker being sentenced to seven years and walking free the same day after a Rockstar Games leak."
+  },
   {
    "id": "gta 6 recompilers and vibe coders implore ai chatbots to work faster and make no mistakes as they race to get the game running on pc",
    "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
@@ -142,6 +155,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports where to find Pegassi Splattered Vitello in GTA 6 and provides a detailed look at the car’s stats."
+  },
+  {
+   "id": "first official gta 6 paid dlc releases for everyone",
+   "title": "First Official GTA 6 Paid DLC Releases for Everyone",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50UmtHRl9DeTNnWmV3TDczdWNhTjByTkYteGpmR3Q3RF95S0JTZmR5SF84TkZQdV8xTG5NbDhuWnhUTGhrTnVDNDdJelAyOUdEcURHanFyVjEyV3lR?oc=5",
+   "outlet": "GameRant",
+   "via": "Google News",
+   "published": "2026-11-25T15:08:52+00:00",
+   "seen": "2026-11-25T15:27:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the first official GTA 6 paid DLC releases for everyone."
   },
   {
    "id": "gta 6 game engine tech reaches 5 fields beyond gaming",
