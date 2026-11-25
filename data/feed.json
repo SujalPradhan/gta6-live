@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T07:09:52+00:00",
- "started": "2026-11-25T07:09:46+00:00",
+ "updated": "2026-11-25T07:14:52+00:00",
+ "started": "2026-11-25T07:14:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T07:09:47+00:00"
+   "checked": "2026-11-25T07:14:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-25T07:09:47+00:00"
+   "hits": 51,
+   "checked": "2026-11-25T07:14:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 82,
-   "checked": "2026-11-25T07:09:48+00:00"
+   "hits": 63,
+   "checked": "2026-11-25T07:14:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T07:09:48+00:00"
+   "checked": "2026-11-25T07:14:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T07:09:48+00:00"
+   "checked": "2026-11-25T07:14:48+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T07:09:48+00:00"
+   "checked": "2026-11-25T07:14:48+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T07:09:49+00:00"
+   "checked": "2026-11-25T07:14:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T07:09:49+00:00"
+   "checked": "2026-11-25T07:14:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T07:09:49+00:00"
+   "checked": "2026-11-25T07:14:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T07:09:49+00:00"
+   "checked": "2026-11-25T07:14:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T07:09:50+00:00"
+   "checked": "2026-11-25T07:14:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T07:09:50+00:00"
+   "checked": "2026-11-25T07:14:49+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T07:09:50+00:00"
+   "checked": "2026-11-25T07:14:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T07:09:50+00:00"
+   "checked": "2026-11-25T07:14:49+00:00"
   }
  },
  "items": [
+  {
+   "id": "yes there was one thing cut from gta 6 for australia nz",
+   "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVlpNjBMSTZIUUdOUXhrOTBXTF9WUGpXQWd6V1NxTmtHT2tpU0QyeDR0aVlRNFRHdWVvSmNtUWcyOS1oSklYVVhHTXZ2Nm9HT3dCdjRGOVlfZV9iQ2M3eVdESTFqR29WdHNudE9DM0pYX0YycFQyYzhtRTMwRkJoMHA4TklyS1Frc0pPS19DTmNxOFBTbnBIQVBqRGJXdlNLdEVXU2RZRU1IT3VqZW9aa1NqbENLZw?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-25T07:09:08+00:00",
+   "seen": "2026-11-25T07:14:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims there was one thing cut from GTA 6 for Australia and New Zealand."
+  },
   {
    "id": "gta 6 pc port takedown confirmed take two cites rockstar s ban on reverse engineering",
    "title": "GTA 6 PC port takedown confirmed: Take-Two cites Rockstar's ban on reverse engineering",
