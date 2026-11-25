@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T11:36:33+00:00",
- "started": "2026-11-25T11:36:27+00:00",
+ "updated": "2026-11-25T11:41:30+00:00",
+ "started": "2026-11-25T11:41:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-25T11:36:27+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T11:41:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-25T11:36:28+00:00"
+   "hits": 54,
+   "checked": "2026-11-25T11:41:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-25T11:36:28+00:00"
+   "hits": 76,
+   "checked": "2026-11-25T11:41:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:36:28+00:00"
+   "checked": "2026-11-25T11:41:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T11:36:28+00:00"
+   "checked": "2026-11-25T11:41:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T11:36:28+00:00"
+   "checked": "2026-11-25T11:41:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T11:36:28+00:00"
+   "checked": "2026-11-25T11:41:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:36:29+00:00"
+   "checked": "2026-11-25T11:41:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-25T11:36:29+00:00"
+   "checked": "2026-11-25T11:41:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:36:29+00:00"
+   "checked": "2026-11-25T11:41:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:36:29+00:00"
+   "checked": "2026-11-25T11:41:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T11:36:30+00:00"
+   "checked": "2026-11-25T11:41:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T11:36:30+00:00"
+   "checked": "2026-11-25T11:41:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T11:36:30+00:00"
+   "checked": "2026-11-25T11:41:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 divides critics and players 99 on metacritic versus 5 6 from users",
+   "title": "GTA 6 divides critics and players: 99 on Metacritic versus 5.6 from users",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeS1iWVhudFJFX0xYenYwdms2T2JGOFNHQlc3aWVwU0VCbWJ4aEZscE9TNDZXMUY1Y2NLZnRZY1g0dkJQd2tvUWVuT3ZnSUQ2V2xPSEwxLW9IY2pKQ3VrM1lhd2o3a1VtQng3dWN0RVM4Q18yRUo5SFFxWkdUeVhidk1uY0dzWTkxVkxQMXJRTjRETlFRYTBjMHJYa3BuOFFjbnhqVUNxdU9qN2Z4VFhYUA?oc=5",
+   "outlet": "Foro3D",
+   "via": "Google News",
+   "published": "2026-11-25T11:39:23+00:00",
+   "seen": "2026-11-25T11:41:25+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports a division between critics and players on GTA 6, with a much higher Metacritic score than user ratings."
+  },
+  {
+   "id": "gta 6 meets pulp fiction in quentin tarantino s masterpiece crime thriller true romance",
+   "title": "'GTA 6' Meets 'Pulp Fiction' in Quentin Tarantino’s Masterpiece Crime Thriller 'True Romance'",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZU96UVprV0lfb2lWZ2VsZ0JJcktTa0VfRVJTNkdRM0tESzNyUGFuOG9lbXZjZ3YwLXdSSXBYOHRSdFNvbTN4SXBoUDlKdXdHVjVLdzJ3Q3BOcUc2LVFEeXpLbEpmdGlCRjZ4WkM3MkZCMkZGT2luWXdQOEt2RTRBdERYWEE3M21ZZDluNlFZSXRYR3Y3SEJZNFhjd2ZKTUliS1BzTE9XQkQ?oc=5",
+   "outlet": "Collider",
+   "via": "Google News",
+   "published": "2026-11-25T11:38:12+00:00",
+   "seen": "2026-11-25T11:41:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 being compared to Pulp Fiction in Tarantino’s True Romance crime thriller concept."
+  },
+  {
+   "id": "gta vi publisher has launched a dmca campaign against videos of the pc version of the game",
+   "title": "GTA VI publisher has launched a DMCA campaign against videos of the PC version of the game.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHNNSU9kcGRYZlhaVDVQVHpmRzQtc0xkNnZLMVRwLXUyMzdaaTc1YjZ5NFJmR1V4N05MY1Z2cXc2SWhQZXhoM0ctY0JxTGIxLWhUMXViN2FvaGo5RERaeFUzLUFhd2tjYnhPdWxVcjAwUk5IeE5MTkxucTdMUWNIaW9ZSHJtN2ZrMjhDd1ptR1dfZ0xTWGIxdkE3X3hNUzJXTDAwa2tubjBILTFHbU5OMkNR?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-25T11:33:00+00:00",
+   "seen": "2026-11-25T11:41:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the publisher launching a DMCA campaign against videos of the PC version of GTA VI."
+  },
   {
    "id": "gta vi on ps5 believe the hype",
    "title": "GTA VI On PS5 - Believe the Hype",
@@ -246,6 +285,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "TweakTown reports a streamer hijacked a military jet in GTA VI using EEG, eye tracking, and head movements."
+  },
+  {
+   "id": "polish game developer says gta vi has not hurt pc sales or engagement",
+   "title": "Polish Game Developer Says GTA VI Has Not Hurt PC Sales or Engagement",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3YxRFYyYi1HczBhaC1oWUxzNVFUU3FxQWQxRUJCaHlDVVg0UFNnZ2NIWGJIQzFMaV9PZk5QYXlCRTVhTjBDOFVwMHBReUJEZ2xvNHVpZ204TVJVVUVyWUtlMThobmp0VVdJeEpjZTh1QllHVjBnWjFFVldLS2RmVHFrTHhMTlhCaktWNmFlZUFyZXdvNFN2ck80X2NxWjBGcmdHb1pManJZV1lYRm5KOGhwS2tYQVhtOUdKcDBtdw?oc=5",
+   "outlet": "Hungarian Conservative",
+   "via": "Google News",
+   "published": "2026-11-25T11:06:52+00:00",
+   "seen": "2026-11-25T11:41:25+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports a Polish game developer saying GTA VI has not harmed PC sales or engagement."
   },
   {
    "id": "max verstappen admits to 40 hour gta vi spree as he won las vegas gp",
@@ -2716,6 +2768,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI takes over Miami, including its art destinations."
+  },
+  {
+   "id": "gta 6 has officially made playstation history and the numbers are insane",
+   "title": "GTA 6 has Officially Made PlayStation History, and the Numbers are Insane",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVlkzbUpPRVRVTTJLdTFFVm01REVzbmZ0MUlqUTlZU3l6NVVLYndDYWZ4c2pybk9LVUYxR2pxYkM4MWY3WEVVLVVDX3Fadk5PMm5jQjRZa19PNXFJOU9MTTZmRVVTSnJlbzkxOHdpcjZOWjFtQUpEVWUzejFfSTkzRm9seVpwcXNGUF9TdElBWHhEVkNGUFk5dWJ3SlRRRlRCMnJVbmV5Z0ZNRHpjM2pV0gG8AUFVX3lxTE1BWlBnZDRNbFE2aHFDaUZNcG9WckNnZzBaR3kzSmw3a2tBLUZOZUcxeTZ3R3QwaE5TQUpUaHlZLU93RkI1NE1VTWJuWU9HRG9UVEdQTnpPaEFsV1JxQk8tLWhDTHJuWndncUpzb3RRNjZHbWdPLWJZX1FxaEgzQTVnQm5GNXVBc3VSazdRbWt4U3o3V2pHODVtb0Zad3JNM1FYUlZsS1NkNmEzU0g4Qk1fTGtHY2JiLU1kOEpB?oc=5",
+   "outlet": "Analytics Insight",
+   "via": "Google News",
+   "published": "2026-11-24T22:30:00+00:00",
+   "seen": "2026-11-25T11:41:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 officially making PlayStation history with very high numbers."
   },
   {
    "id": "secret andre 3000 song discovered in grand theft auto vi under new moniker food courts",
