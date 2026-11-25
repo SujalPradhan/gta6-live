@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T13:22:20+00:00",
- "started": "2026-11-25T13:22:14+00:00",
+ "updated": "2026-11-25T13:27:15+00:00",
+ "started": "2026-11-25T13:27:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T13:22:15+00:00"
+   "checked": "2026-11-25T13:27:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-25T13:22:15+00:00"
+   "hits": 44,
+   "checked": "2026-11-25T13:27:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-25T13:22:15+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 78,
+   "checked": "2026-11-25T13:27:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T13:22:16+00:00"
+   "checked": "2026-11-25T13:27:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T13:22:16+00:00"
+   "checked": "2026-11-25T13:27:10+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T13:22:16+00:00"
+   "checked": "2026-11-25T13:27:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T13:22:16+00:00"
+   "checked": "2026-11-25T13:27:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:22:16+00:00"
+   "checked": "2026-11-25T13:27:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T13:22:16+00:00"
+   "checked": "2026-11-25T13:27:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:22:17+00:00"
+   "checked": "2026-11-25T13:27:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T13:22:17+00:00"
+   "checked": "2026-11-25T13:27:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T13:22:17+00:00"
+   "checked": "2026-11-25T13:27:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T13:22:17+00:00"
+   "checked": "2026-11-25T13:27:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T13:22:17+00:00"
+   "checked": "2026-11-25T13:27:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "cd projekt red says the witcher 4 will be as big a leap as gta 6 was from gta 5",
+   "title": "CD Projekt Red says The Witcher 4 will be as big a leap as GTA 6 was from GTA 5",
+   "link": "https://www.dexerto.com/gaming/cd-projekt-red-says-the-witcher-4-will-be-as-big-a-leap-as-gta-6-was-from-gta-5-3431248/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-25T13:25:07+00:00",
+   "seen": "2026-11-25T13:27:11+00:00",
+   "summary": "CD Projekt Red says the jump from The Witcher 3 to The Witcher 4 will be comparable to the one Rockstar made between GTA 5 and GTA 6, with improvements planned for nearly every part of the game.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "CD Projekt Red says The Witcher 4 will be a big leap similar to GTA 6 from GTA 5 with improvements planned for nearly every aspect."
+  },
+  {
+   "id": "gta 6 streamer says ps5 failed during lucia scene",
+   "title": "GTA 6 Streamer Says PS5 Failed During Lucia Scene",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQampuRXY4RjltUVRmU0k1d0VZUVdNZlZPWFBnVmhwT3VSZjM3YUpaZUFoenZidHRLc1VhenowUG93aDFUZ1JtQ1dqYnc3WlZnZDRjLXFmOUFuNy1nQVFsNU9mMVhyZ0JjQW9haUh1akJwdGJHVzRKaURUSzZBYUY3VVJIaUM2UQ?oc=5",
+   "outlet": "JournalArta",
+   "via": "Google News",
+   "published": "2026-11-25T13:17:53+00:00",
+   "seen": "2026-11-25T13:27:10+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "A GTA 6 streamer says PS5 failed during a Lucia scene."
+  },
   {
    "id": "the tampa bay times went birding in gta vi",
    "title": "The Tampa Bay Times went birding in ‘GTA VI’",
@@ -844,6 +870,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "The story reports that GTA 6 blackouts begin on PS5 with consoles shutting down, and that Sony and Rockstar issue statements."
+  },
+  {
+   "id": "gta 6 generates over 4 billion in just four days sets new sales records",
+   "title": "GTA 6 Generates Over $4 Billion in Just Four Days, Sets New Sales Records",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BdlVueE1jcm5JbmFTUUhUNVF1RXo1NXFUdWo5UEdRdHV3M25yTW5laWNrTmVtUERidk5wLXJRMHhPbjVaRGgxUFo0WjJaY0Ju?oc=5",
+   "outlet": "Aik News",
+   "via": "Google News",
+   "published": "2026-11-25T11:26:29+00:00",
+   "seen": "2026-11-25T13:27:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 generates over four billion in four days and sets new sales records."
   },
   {
    "id": "rockstar takes legal action against popular gta 6 pc port",
