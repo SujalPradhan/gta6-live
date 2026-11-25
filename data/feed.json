@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T09:50:49+00:00",
- "started": "2026-11-25T09:50:46+00:00",
+ "updated": "2026-11-25T09:55:58+00:00",
+ "started": "2026-11-25T09:55:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-25T09:50:46+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T09:55:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-25T09:50:47+00:00"
+   "hits": 49,
+   "checked": "2026-11-25T09:55:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 74,
-   "checked": "2026-11-25T09:50:47+00:00"
+   "checked": "2026-11-25T09:55:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T09:50:47+00:00"
+   "checked": "2026-11-25T09:55:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T09:50:47+00:00"
+   "checked": "2026-11-25T09:55:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T09:50:48+00:00"
+   "checked": "2026-11-25T09:55:54+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T09:50:48+00:00"
+   "checked": "2026-11-25T09:55:54+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T09:50:48+00:00"
+   "checked": "2026-11-25T09:55:54+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T09:50:48+00:00"
+   "checked": "2026-11-25T09:55:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T09:50:48+00:00"
+   "checked": "2026-11-25T09:55:55+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T09:50:49+00:00"
+   "checked": "2026-11-25T09:55:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T09:50:49+00:00"
+   "checked": "2026-11-25T09:55:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T09:50:49+00:00"
+   "checked": "2026-11-25T09:55:56+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T09:50:49+00:00"
+   "checked": "2026-11-25T09:55:56+00:00"
   }
  },
  "items": [
+  {
+   "id": "the unofficial gta vi pc ports are still in development despite take two s efforts to shut them down",
+   "title": "The unofficial GTA VI PC ports are still in development despite Take-Two's efforts to shut them down",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXBSdGh4bFZTS0ptMG5kd0Y4UVdrb1luR3RuWnhVU0xFZXFYSmNTd3VlNlNKYnZad3h2cG5nVm94VldTQ0dYRjhqT01wSFpxOEltUG5KQzR2QUlwaTRRcUVMOExjY0FGS2x0bmk1ekdrbERLUHdoWTExQ0I5cWZGTUE5ZWtrY3JxanlDVWk0RFM2SDVCeVJuYnBCbTRySUh0RDVmYXE4Ukxua2lUakRMcjBpZ25lTXNkaHhnZXJNQzNvTjhValFvQUk0ZzRQcjVrTF9fZjhWQmg4bHFzZGZyVzVyYTk?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-25T09:51:13+00:00",
+   "seen": "2026-11-25T09:55:50+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that unofficial GTA VI PC ports are still in development despite Take-Two's efforts to shut them down."
+  },
+  {
+   "id": "gta 6 players share custom beach moments with jason and l",
+   "title": "GTA 6 Players Share Custom Beach Moments with Jason and L...",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XUDBOQnlQUHRXUlVoZ3ZYUkt5M1VNenM4NjdFSElZSUR6eGlWaVRvaEhIQnZCejNMelRLTXh5WjlGZlB0aWJtSGpPMkZVYWZ4VzFwTlp1NA?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-25T09:43:25+00:00",
+   "seen": "2026-11-25T09:55:50+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports players sharing custom beach moments with Jason and L in GTA 6."
+  },
   {
    "id": "ps5 players log 683 million hours of gameplay in gta vi since launch",
    "title": "PS5 players log 683 million hours of gameplay in GTA VI since launch",
@@ -259,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims a safehouse key is a valuable location in GTA 6."
+  },
+  {
+   "id": "who is taryn manning gta 6 vicki actor and singer",
+   "title": "Who is Taryn Manning? GTA 6 Vicki actor and singer",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHZlTnVfTk1tY1Z6ZUVleEprNTZHeUJfa0p1OUJYaGtVcVE2elRJbGNkaGZ3ZENmYjhYd2lUU25MZ2xSUmlLOWhnRVIxYWJHUXRUbUplMHhEMGpvQnA3cE1xNHY0alhsTUN2d013LVY2cGhpQTNPT1BUcmpnQzJSZlZabw?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-25T08:17:18+00:00",
+   "seen": "2026-11-25T09:55:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports information about Taryn Manning as GTA 6 Vicki, including her as an actor and singer."
   },
   {
    "id": "why gta vi made jason a man of few words rockstar reveals the crime classics and real life veterans who inspired him",
