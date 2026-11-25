@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T11:31:31+00:00",
- "started": "2026-11-25T11:31:25+00:00",
+ "updated": "2026-11-25T11:36:33+00:00",
+ "started": "2026-11-25T11:36:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T11:31:25+00:00"
+   "hits": 98,
+   "checked": "2026-11-25T11:36:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-25T11:31:26+00:00"
+   "hits": 51,
+   "checked": "2026-11-25T11:36:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-25T11:31:26+00:00"
+   "hits": 75,
+   "checked": "2026-11-25T11:36:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:31:26+00:00"
+   "checked": "2026-11-25T11:36:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T11:31:27+00:00"
+   "checked": "2026-11-25T11:36:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T11:31:27+00:00"
+   "checked": "2026-11-25T11:36:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 17,
-   "checked": "2026-11-25T11:31:27+00:00"
+   "hits": 16,
+   "checked": "2026-11-25T11:36:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:31:28+00:00"
+   "checked": "2026-11-25T11:36:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-25T11:31:28+00:00"
+   "checked": "2026-11-25T11:36:29+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:31:28+00:00"
+   "checked": "2026-11-25T11:36:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:31:29+00:00"
+   "checked": "2026-11-25T11:36:29+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T11:31:29+00:00"
+   "checked": "2026-11-25T11:36:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T11:31:29+00:00"
+   "checked": "2026-11-25T11:36:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T11:31:29+00:00"
+   "checked": "2026-11-25T11:36:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi on ps5 believe the hype",
+   "title": "GTA VI On PS5 - Believe the Hype",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00YzVROF83VzNLVVlFcmdHLVBDOVk4eGlFLVhLTkhJMGNjMExYWXBUUnA4S3FncmZRcjhnaUtYQTdNOF80WnhSbHBLdlJjV0x3M2VkWm5xSm5LckIwY1RUamhTUlpPOU1BYkFwNUNJWkhWSlBZNms0MEJDMlo?oc=5",
+   "outlet": "OC3D",
+   "via": "Google News",
+   "published": "2026-11-25T11:32:13+00:00",
+   "seen": "2026-11-25T11:36:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI on PS5 hype is reported by OC3D."
+  },
+  {
+   "id": "cyberpunk 2 development ramps up at cd projekt red but ambitions for the project are not changed by gta 6 s success",
+   "title": "Cyberpunk 2 Development Ramps Up At CD Projekt Red, But Ambitions For The Project Are 'Not Changed' By GTA 6's Success",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUsweWExRkRqSG1SOXlFMjB3U0JhMGsteG55S0hVLW5IVlE4SzFOdEFMU2ZUVDB0c2VWYmRfYzVTNjlRb0hIdUNueklsb2FnR2YwZ1NkRU1UNVlpdVRxRzNJR3ctRXZ3RTJWazk3aDNfaFpoVUM4WHZxeG9xcnlqMlFwdzZDWUZGLTNRMVFhai1la3NTZmc?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-25T11:30:21+00:00",
+   "seen": "2026-11-25T11:36:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Cyberpunk 2 development ramps up at CD Projekt Red, with ambitions unchanged by GTA 6's success, according to Kotaku."
+  },
   {
    "id": "gta 6 blackouts begin on ps5 as consoles shut down sony and rockstar issue statements",
    "title": "GTA 6 'blackouts begin' on PS5 as consoles shut down, Sony and Rockstar issue statements",
@@ -118,6 +144,19 @@
    "ai_summary": "The story reports that GTA 6 blackouts begin on PS5 with consoles shutting down, and that Sony and Rockstar issue statements."
   },
   {
+   "id": "rockstar takes legal action against popular gta 6 pc port",
+   "title": "Rockstar Takes Legal Action Against Popular GTA 6 PC Port",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDQThaNm1FMmh6NGNIc3haWWgwNmVfVTZ5Ylk0VGRQVVRPOEh5NjYzYktYNTlQTm1BRjhKQmJRZzRFNkY4U3AxZm1kN20zMEdrMHE4T1pLZXlsTmo0LVgwMDRYNFRWa1hERDl6RUdDZ3YxT3l3UWg5WnJvc3U?oc=5",
+   "outlet": "80 Level",
+   "via": "Google News",
+   "published": "2026-11-25T11:25:34+00:00",
+   "seen": "2026-11-25T11:36:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar takes legal action against a popular GTA 6 PC port."
+  },
+  {
    "id": "gta vi launched with english only voices we asked experts why",
    "title": "GTA VI Launched With English-Only Voices, We Asked Experts Why",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82ZTNrclk0cW9KMTg3d0ZncGlhZFpUd2pycGE1QUZtUm80bnc1S1RabW5wWlR0ejVOX2t5T19zTU5lN2l5SDBfWEhmWF9nMkxQU3NJNWhBV08tdEY4eUE?oc=5",
@@ -129,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA VI launched with English-only voices and asks experts why."
+  },
+  {
+   "id": "gta 6 can you cook fish",
+   "title": "GTA 6: Can You Cook Fish?",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmczc4dzdPajVKd1h3a2V0Z1ZsUlpfNmlvZ09EU2g1VEhVY1dtRXRjNnhoZGlqOFMxdVdkOVJvNmlRejNIemxuUFFXd1lRQWtVN2FkTlZ2U0gyWWRac0U5N2wyNA?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-25T11:22:55+00:00",
+   "seen": "2026-11-25T11:36:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 asks if you can cook fish."
   },
   {
    "id": "gta 6 or an anthropic share you can get both for about 80",
@@ -363,6 +415,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Fake GTA 6 PC installers are stealing accounts for a port that doesn't exist."
+  },
+  {
+   "id": "gta 6 breaks ps5 records and boosts console sales",
+   "title": "GTA 6 breaks PS5 records and boosts console sales",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vb3p4cUFaNEpPdkRkMzF5dnBIOWpBNVh3b2tVcTVjV2pyQ0RtZkdOZmRtdGVnYVlqZkdNb3ZwRnQ2R0M5bFI5NXlydEcxQlNNM09UYTZVN1dGS0c3QnZBX0FLYXozZlBXemZkLXZVd0l3Y1htM3c?oc=5",
+   "outlet": "space4games",
+   "via": "Google News",
+   "published": "2026-11-25T10:46:19+00:00",
+   "seen": "2026-11-25T11:36:28+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 breaks PS5 records and boosts console sales."
   },
   {
    "id": "players spent more than 683 million hours in gta 6 root nation com",
@@ -935,6 +1000,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to steal cars in GTA 6."
+  },
+  {
+   "id": "gta 6 makes history with over 39 million players in just four days",
+   "title": "GTA 6 Makes History With Over 39 Million Players in Just Four Days",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2xKVUhiNDdFUkZuWmRWREdweGJXTmtZYlJ4NVU3ZDhEZEt5d0NaMjN2cTFVMWtmQ2NwZ3dFQkNBbnRIQ1JCRzFESWhFLWtzTWlsbmVScDNEOG51RklZeW9YTWI0dU4tZVMyOHctZEF3U2hONEhlR2YzM244dnUwamh5ZmRhRWZDV3J1d0FZanNCZGpiS2laZmE1NA?oc=5",
+   "outlet": "Kryptomagazin",
+   "via": "Google News",
+   "published": "2026-11-25T08:33:01+00:00",
+   "seen": "2026-11-25T11:36:28+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "GTA 6 makes history with over 39 million players in four days."
   },
   {
    "id": "gta 6 runs better on xbox series x than ps5 despite sony declaring it plays best on ps5",
@@ -4497,6 +4575,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on listening to Grand Theft Auto VI: The Album deluxe edition."
+  },
+  {
+   "id": "meghalaya gta 6 2 shillong artists at rockstar",
+   "title": "Meghalaya GTA 6: 2 Shillong Artists at Rockstar",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzFxU090R0pIekMxWmNsWlU1WnB6aG5TMDJHRlY3NHNTYnVQT29PTXEwbmtJRkRITWJHUVoyNXhhU3Bhemk2Q1B4NVNINTFJbTBZbDhVSlFQYnQ5S202SHBHX0pLRU1kdWxoMksyU0xKak1fTjJhV0xhbE9OYWFKdmdsVUdLTVlkaGZWQ3dn?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-24T18:16:51+00:00",
+   "seen": "2026-11-25T11:36:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Meghalaya GTA 6 features two Shillong artists at Rockstar."
   },
   {
    "id": "gta 6 cloud streaming comes to ps5 and playstation portal",
