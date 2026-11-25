@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T02:53:32+00:00",
- "started": "2026-11-25T02:53:25+00:00",
+ "updated": "2026-11-25T02:58:38+00:00",
+ "started": "2026-11-25T02:58:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T02:53:26+00:00"
+   "checked": "2026-11-25T02:58:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 72,
-   "checked": "2026-11-25T02:53:26+00:00"
+   "checked": "2026-11-25T02:58:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 83,
-   "checked": "2026-11-25T02:53:27+00:00"
+   "checked": "2026-11-25T02:58:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T02:53:27+00:00"
+   "checked": "2026-11-25T02:58:34+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T02:53:27+00:00"
+   "checked": "2026-11-25T02:58:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T02:53:27+00:00"
+   "checked": "2026-11-25T02:58:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T02:53:27+00:00"
+   "checked": "2026-11-25T02:58:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T02:53:28+00:00"
+   "checked": "2026-11-25T02:58:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T02:53:28+00:00"
+   "checked": "2026-11-25T02:58:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T02:53:28+00:00"
+   "checked": "2026-11-25T02:58:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T02:53:29+00:00"
+   "checked": "2026-11-25T02:58:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T02:53:29+00:00"
+   "checked": "2026-11-25T02:58:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T02:53:29+00:00"
+   "checked": "2026-11-25T02:58:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T02:53:29+00:00"
+   "checked": "2026-11-25T02:58:36+00:00"
   }
  },
  "items": [
@@ -3028,6 +3028,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA VI was the entertainment industry's biggest revenue launch ever as of a specific date."
+  },
+  {
+   "id": "gta 6 side activities list",
+   "title": "GTA 6 side activities list",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10WEdPbm9wYmZKWHdmbEZ2NWwzVHlCcGVjcUhmd3pLbzRYbHhXcV9wd1ZnS2pwc2JzY245Y1d4VU9rWUE4WmVFN2xNYUptX0piT3JBQU94M0VLbWtmeFI2MWJERHp6Vm4ycEQwcHJ4ckJaVm5WQTZYb2NnTUc?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-24T17:37:10+00:00",
+   "seen": "2026-11-25T02:58:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the list of side activities for GTA 6."
   },
   {
    "id": "gary plauche who killed son s kidnapper in baton rouge airport appears to make cameo in gta vi",
