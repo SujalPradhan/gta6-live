@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T15:38:00+00:00",
- "started": "2026-11-25T15:37:53+00:00",
+ "updated": "2026-11-25T15:43:08+00:00",
+ "started": "2026-11-25T15:43:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T15:37:54+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T15:43:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-25T15:37:54+00:00"
+   "hits": 43,
+   "checked": "2026-11-25T15:43:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-25T15:37:55+00:00"
+   "hits": 61,
+   "checked": "2026-11-25T15:43:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T15:37:55+00:00"
+   "checked": "2026-11-25T15:43:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T15:37:55+00:00"
+   "checked": "2026-11-25T15:43:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T15:37:55+00:00"
+   "checked": "2026-11-25T15:43:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-25T15:37:56+00:00"
+   "hits": 15,
+   "checked": "2026-11-25T15:43:04+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T15:37:56+00:00"
+   "checked": "2026-11-25T15:43:04+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T15:37:56+00:00"
+   "checked": "2026-11-25T15:43:04+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T15:37:56+00:00"
+   "checked": "2026-11-25T15:43:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T15:37:56+00:00"
+   "checked": "2026-11-25T15:43:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T15:37:56+00:00"
+   "checked": "2026-11-25T15:43:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T15:37:57+00:00"
+   "checked": "2026-11-25T15:43:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T15:37:57+00:00"
+   "checked": "2026-11-25T15:43:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 pegassi infernus location",
+   "title": "GTA 6 Pegassi Infernus location",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pegassi-infernus/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-25T15:35:41+00:00",
+   "seen": "2026-11-25T15:43:04+00:00",
+   "summary": "Among others, Randy's client is looking for a Pegassi Infernus in GTA 6, so here's where to look for one",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports where to find a Pegassi Infernus in GTA 6."
+  },
   {
    "id": "the top 25 craziest things that have happened to me in gta 6",
    "title": "The Top 25 Craziest Things That Have Happened To Me In ‘GTA 6’",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Forbes reports a list of the top 25 craziest things that have happened to the writer in GTA 6."
+  },
+  {
+   "id": "market drama jensen gta vi and the thanksgiving box office show",
+   "title": "Market Drama: Jensen, GTA VI, and the Thanksgiving Box Office Show",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmVLUk1YaFlzYm1yaHhwM3Q4dkE3TlhNQm5CdS1FX1BUdktVNG1BUjNUSVBYWEhzS0k5ODJPalo2dzZ1dUxoMUJvTldaOGJDN1ZiRElZMnRxMi0wV2RGQ2d6VXNvWjl1blVPY2tWak1IVFhhOU1KZDFBQ1Z1MGFZS0pQWGZ1d3E5dGtBMFlucVREY1hMc2ZF?oc=5",
+   "outlet": "See It Market",
+   "via": "Google News",
+   "published": "2026-11-25T15:32:58+00:00",
+   "seen": "2026-11-25T15:43:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses market drama involving Jensen, GTA VI, and the Thanksgiving Box Office."
   },
   {
    "id": "gta 6 there are a few very good reasons to go back to jason s house after chapter 1",
@@ -131,6 +157,19 @@
    "ai_summary": "IGN notes there are a few very good reasons to go back to Jason’s House after Chapter 1 in GTA 6."
   },
   {
+   "id": "gta vi crashing on ps5 means the pc version can t come soon enough",
+   "title": "‘GTA VI’ Crashing on PS5 Means the PC Version Can’t Come Soon Enough",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JdUtEM2pQS1R0MC1va0NneWJDakxnOXBVY0FhemI4U0liUVowZmVYLVA4ak5OZkx6dEY0MlVDdnlUUGlnTlEtWmc1ME5tUzdaNWRpU1FKOGFtWktfazlR?oc=5",
+   "outlet": "Gizmodo",
+   "via": "Google News",
+   "published": "2026-11-25T15:30:54+00:00",
+   "seen": "2026-11-25T15:43:03+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story notes PS5 crashing in GTA VI affects the PC version release timing."
+  },
+  {
    "id": "feature seven improvements we d still love to see in gta 6",
    "title": "Feature: Seven Improvements We'd Still Love To See In GTA 6",
    "link": "https://www.purexbox.com/features/seven-improvements-wed-still-love-to-see-in-gta-6",
@@ -142,6 +181,32 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story discusses seven improvements the authors would still like to see in GTA 6."
+  },
+  {
+   "id": "seven improvements we d still love to see in gta 6",
+   "title": "Seven Improvements We'd Still Love To See In GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUN3Uk5FSm8xNkJUaWI4N2tJaHFMWVJFS0FTRWhfUF9WSVdYOEhuMUZoM1NVVVE4TjdqTDkycU02SWV4ZFZweHR4aTZOWFZPYldtNEo3ZTVEOG9MSmpScGZpdC0zWWM2cVVpZkYydVV5d0VaU09oNGJ2bE5fZ2JuYWtxanpBcUtueEVr?oc=5",
+   "outlet": "Pure Xbox",
+   "via": "Google News",
+   "published": "2026-11-25T15:30:00+00:00",
+   "seen": "2026-11-25T15:43:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists seven improvements the author would like to see in GTA 6."
+  },
+  {
+   "id": "8 things you must do before ending chapter one in gta 6",
+   "title": "8 Things You Must Do Before Ending Chapter One in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNzlMMjNXdzNSVjFyelU4am9hZXJYTkp6TlJoenM3ZHRrQ0pJRXRkX0tQTnlWWmZvWFRtaVBicFN4M1FZZTJQZnpoNV9DcWI3c0Q4SVBub2FKOHRpQi1hS2xJeXdOY1FHeks0V3k1X1g0ZGk4VW9IVFJmY3kxaDhfekZaOThmT3VJdHhF?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-25T15:30:00+00:00",
+   "seen": "2026-11-25T15:43:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story outlines eight things players must do before ending Chapter One in GTA 6."
   },
   {
    "id": "gta 6 may actually play better on xbox after all",
@@ -220,6 +285,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "The story reports that GTA 6 PC work continues messily as community members race to run the game, with projects stepping in after a previous frontrunner was shut down by Rockstar."
+  },
+  {
+   "id": "gta 6 has led to dips in daily active users for call of duty fortnite says analyst",
+   "title": "GTA 6 Has Led to Dips in Daily Active Users for Call of Duty, Fortnite, Says Analyst",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRU04X3pJZnBkNk1RUjBLV3NjNUFLVHF2d2t2WW1zUzI4dTBYS0o4Xy0yNENxUzZQSm9vS092bmV1cGszQkxkY2J5WkVYOUZ3RDlvSFFVSUtvdV9FeEtaS1kzSUt0QWZiU2cybXd1ZWJ0N0pyQ2dwTTNUU0VhMWh1OHV1VmI0M0dRU25aNlVieWNrWEhLZktjVDZYMndZemxDb2I0NFpJTVE?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-25T15:18:05+00:00",
+   "seen": "2026-11-25T15:43:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story says GTA 6 has led to dips in daily active users for Call of Duty and Fortnite, per an analyst."
   },
   {
    "id": "every gta 6 fence location and where to find them",
@@ -677,6 +755,19 @@
    "ai_summary": "GTA 6 causes PS5 consoles to sell out in the US as demand exceeds supply following the game's release."
   },
   {
+   "id": "gta 6 gets immediate black friday discount in 2026 uk sales including 20 off ultimate edition",
+   "title": "GTA 6 gets immediate Black Friday discount in 2026 UK sales – including 20% off Ultimate Edition",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGM3RUIzNDZYcDcyNjlwM3RmQTBxa3g3WlppQW1XQmM5UHdXcEVaSVg1T3hOZjd4MG9rRHVMTnJZYmFPR1dkLVJjeVZwaFN3M0J4TlItOXBCcml1b29jN09Sb3dKOTF3VThMYlp2MExsVGdLby1qTmx5M2pRdXVablc5eW5kdw?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-25T14:28:03+00:00",
+   "seen": "2026-11-25T15:43:03+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 getting a Black Friday discount in 2026 UK sales, including a 20% off Ultimate Edition."
+  },
+  {
    "id": "here s how to get a winched vehicle to steal atm machines in gta 6",
    "title": "Here's how to get a winched vehicle to steal ATM machines in GTA 6",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wNGY0bnBSVzF4UHY0LTB3Zjg3RmIzb2gwSWFWWERLZ0psMkpiOFh2cXByTm1zRHVBc2NuSDlibEJWTmppcnJCMC1EbnJ5MnpyTDZRcEN1UHZnXzVBd2xQeFZSLU5zVTNWTDV0ZFlhSEJ0QUVWakx0ZExwbFFPQQ?oc=5",
@@ -820,6 +911,19 @@
    "ai_summary": "The story claims Call of Duty has lost a large portion of its regular players to GTA 6."
   },
   {
+   "id": "gta 6 four surprising ways playing video games could benefit your health",
+   "title": "GTA 6: four surprising ways playing video games could benefit your health",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdG9kbGlTX3ROQ2xsWjYySk1HMDByUkpkOVp3M1JrQ3BUbUNoQVJDaUZEd3lOWVFzU3ZDWVRTUU9BMUdfeUNlRlRMMTdoVXZpdjNGTEVjZ1NqQ1ZzOGpiZUtiS3FJbWJBTU9DcTNUUlo4VHpKcUNYWW43bWRpTHZjbW1LYlBsc1ZaX1h0ckMySTU4b1VJNTRhLWJLVURVRnJyRzB2QU1BZ3BFTEk?oc=5",
+   "outlet": "The Conversation",
+   "via": "Google News",
+   "published": "2026-11-25T14:14:28+00:00",
+   "seen": "2026-11-25T15:43:03+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story lists four surprising ways playing video games could benefit health in GTA 6 context."
+  },
+  {
    "id": "i m having a much better time in gta 6 now i ve disabled its pesky criminal profile pings",
    "title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
    "link": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
@@ -922,6 +1026,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The feature discusses GTA 6’s wildest secrets from players who have finished the game."
+  },
+  {
+   "id": "i m not going to play grand theft auto vi",
+   "title": "I’m Not Going to Play ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTFCVFhXbkxjSjRrdmk5Z0VkdWROQzdZUklFdjZzNzBmdDNsOXNFMDh3MzBZLUFiem1iaURSTUtvaFl0RThWNVY0SV9YekRVMGR5UGVDdU5WbU5zT2lYOElPR25MbHpqQmd5N0g5dzdTUzhfNnk2SmZzczhtazJKNzVzczU?oc=5",
+   "outlet": "The Atlantic",
+   "via": "Google News",
+   "published": "2026-11-25T14:00:00+00:00",
+   "seen": "2026-11-25T15:43:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story presents the author’s stance on not playing Grand Theft Auto VI."
   },
   {
    "id": "gta 6 features something rockstar tried to add in grand theft auto vice city former tech lead says",
