@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T22:20:25+00:00",
- "started": "2026-11-25T22:20:18+00:00",
+ "updated": "2026-11-25T22:25:27+00:00",
+ "started": "2026-11-25T22:25:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T22:20:19+00:00"
+   "checked": "2026-11-25T22:25:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-25T22:20:19+00:00"
+   "checked": "2026-11-25T22:25:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-25T22:20:20+00:00"
+   "hits": 66,
+   "checked": "2026-11-25T22:25:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:20:20+00:00"
+   "checked": "2026-11-25T22:25:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T22:20:20+00:00"
+   "checked": "2026-11-25T22:25:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T22:20:20+00:00"
+   "checked": "2026-11-25T22:25:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T22:20:21+00:00"
+   "checked": "2026-11-25T22:25:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T22:20:21+00:00"
+   "checked": "2026-11-25T22:25:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T22:20:21+00:00"
+   "checked": "2026-11-25T22:25:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T22:20:22+00:00"
+   "checked": "2026-11-25T22:25:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T22:20:22+00:00"
+   "checked": "2026-11-25T22:25:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T22:20:22+00:00"
+   "checked": "2026-11-25T22:25:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:20:22+00:00"
+   "checked": "2026-11-25T22:25:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T22:20:22+00:00"
+   "checked": "2026-11-25T22:25:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar officially comments on gta 6 s difficulty",
+   "title": "Rockstar Officially Comments on GTA 6's Difficulty",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjQwZTFXSXpkN3JaSXhzZmxJbmdsTVJ4YVRpU0p6bjdFRnk0UTJWTE1QcDZuV0ZrMDJZRU95SGUyV3E1UHRSaW90Ym9MeVFIODRIdTFQYTczQVBWM1BjVnVqaFN4ZFQwei13V18xUHoxN1hhcmVmeTdISFR5X0ppcTRyVzc3Nlc4Wk84?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-25T22:21:28+00:00",
+   "seen": "2026-11-25T22:25:21+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that Rockstar officially comments on GTA 6's difficulty."
+  },
+  {
+   "id": "gta 6 secret controls the game doesn t tell you",
+   "title": "GTA 6: Secret Controls the Game Doesn't Tell You",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQmU4dmtHTUt5TTFUR2pOQWp1NS1tVnpXaHhYcGVud0pRLU0yd0hacHdLSkVOTlk2aHZYQWNPZERJN1BIeVRmX2EtcWR0Mk85NXNGWDBpQ3BJdWtfcG05SER2UEJoQ2lUX1J5dDVKaTlkaVA5c2toSWZ1ODdJRENHc0RxX3hYQ1E?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-25T22:10:54+00:00",
+   "seen": "2026-11-25T22:25:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports secret controls in GTA 6 that the game doesn't tell you."
+  },
   {
    "id": "can you play gta 6 from an external hard drive on ps5 or xbox series x s",
    "title": "Can You Play GTA 6 From An External Hard Drive On PS5 Or Xbox Series X/S?",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions whether GTA 6 can be played from an external hard drive on PS5 or Xbox Series X/S."
+  },
+  {
+   "id": "gta 6 how to permanently increase all stats",
+   "title": "GTA 6: How To Permanently Increase All Stats",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGxRa1hTT3dVbDlwZ1h5ZF9QRVVPcnZNallGUGdxQ1B2azVmTmo1V1lMZVRET0pWWl9jWGtrZDVReGVNZ0ltZDhxalphMXJYdnlZeGNfUzQxc3UwWVlkWUxzTzNuSmo2SjRiMHBMaFROYlhyU3kycVY2MzRDR1VBRA?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-25T22:02:16+00:00",
+   "seen": "2026-11-25T22:25:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports guidance on permanently increasing all stats in GTA 6."
   },
   {
    "id": "buckingham jubilee gta 6 location where to find the rolls royce suv",
