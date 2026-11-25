@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T13:52:22+00:00",
- "started": "2026-11-25T13:52:16+00:00",
+ "updated": "2026-11-25T13:57:26+00:00",
+ "started": "2026-11-25T13:57:20+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T13:52:17+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T13:57:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-25T13:52:17+00:00"
+   "hits": 45,
+   "checked": "2026-11-25T13:57:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-25T13:52:17+00:00"
+   "hits": 61,
+   "checked": "2026-11-25T13:57:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T13:52:18+00:00"
+   "checked": "2026-11-25T13:57:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T13:52:18+00:00"
+   "checked": "2026-11-25T13:57:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T13:52:18+00:00"
+   "checked": "2026-11-25T13:57:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:52:18+00:00"
+   "checked": "2026-11-25T13:57:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:52:18+00:00"
+   "checked": "2026-11-25T13:57:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-25T13:52:18+00:00"
+   "hits": 7,
+   "checked": "2026-11-25T13:57:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:52:19+00:00"
+   "checked": "2026-11-25T13:57:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T13:52:19+00:00"
+   "checked": "2026-11-25T13:57:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T13:52:19+00:00"
+   "checked": "2026-11-25T13:57:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T13:52:19+00:00"
+   "checked": "2026-11-25T13:57:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T13:52:19+00:00"
+   "checked": "2026-11-25T13:57:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to listen to the radio while walking in gta 6",
+   "title": "How to Listen to the Radio While Walking in GTA 6",
+   "link": "https://insider-gaming.com/music-radio-walking-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-25T13:50:36+00:00",
+   "seen": "2026-11-25T13:57:23+00:00",
+   "summary": "Check out this guide to learn how you can play music through the radio while walking around the streets of GTA 6. The post How to Listen to the Radio While Walking in GTA 6 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to play music through the radio while walking in GTA 6."
+  },
   {
    "id": "grand theft auto vi pulls off the heist of the century",
    "title": "Grand Theft Auto VI Pulls Off the Heist of the Century",
@@ -116,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Grand Theft Auto VI pulls off the heist of the century."
+  },
+  {
+   "id": "gta 6 sets playstation record with 683 million gameplay hours boosts ps5 sales all records explained",
+   "title": "GTA 6 sets PlayStation record with 683 million gameplay hours, boosts PS5 sales: All records explained",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNUFVS05EWjdGbktvRjdJbnY0WDctSF9pdkpBZ3pzaDc3WUgyNlJLY0pFM1dudHdnd1pveFRjbFZoRVJnLURkUDJ6TXpaWkFrYndTOVl3VDRzSjVUZXNvdXdHODZicHhnVEFXTVVKN3RvbDMtLTZtWDdiSnd5eG5JbFBPMXN5LTNYd0RlUVR4akNiOGpYazNTUF96M3hzTndHd2RYZnd2SmtyLVh0VHEwN0FmYUp2NktjbXZIdE9KajgzSVdZUlpYM2ZrYlBaRDRXLVZJRjFwTFIyZlZsQU91R2NoVEh6MVJpU2d5MTNCSFNaa2dlUUZnZ9IB_gFBVV95cUxPeWlQUkx3S0RmRWtNV1l4VHBERC1ZMmt5NHpGMW1XVDRVLVJsYUhpUlQ3NzR2OGQwMFg3N19BMDRWc1RVMXRDaGVvVld2NElhSE9MSW51U1FOY2g0NGowMmViQWtxVGk1c2pENnhudTA3MHJ3eTRoRHNLckIzYWZJV3NNM1hoMjM0ZnpqWExabzB6THkwdXBFYW1hNmtFamJiMnpvTWo4WWtsMWxSR0Vya2MwVGp3RnRQSmQ1eEhmV2M4MFJJd0dBOWhFaHhNTFlKTTdrRkZ5dWduSll4bGlHVlh6cUZaNXNHaWlXeUVJMUhJbVhSbnVjTnNnalhlQQ?oc=5",
+   "outlet": "India TV News",
+   "via": "Google News",
+   "published": "2026-11-25T13:48:50+00:00",
+   "seen": "2026-11-25T13:57:21+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 setting a PlayStation record for gameplay hours and boosting PS5 sales, with all records explained."
   },
   {
    "id": "gta 6 players report ps5 consoles failing as tests reveal unusually high power consumption",
@@ -389,6 +415,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports ways to get abducted and find aliens in GTA 6."
+  },
+  {
+   "id": "youtube s official gta 6 release day numbers are staggering",
+   "title": "YouTube's official 'GTA 6' release day numbers are staggering",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnN1lhcDNoaHpBZUNTNTNTMnVfbnptakJ5bWRkX3BRSk5FNThhbUltZ09keVpNcmJqSnVZaXNOSVlPVy1xb1dDblNnU3h6V0wxTF9vMWtJX2VqbDRxRUZ4ZnhjdjlwV09O?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-25T13:03:44+00:00",
+   "seen": "2026-11-25T13:57:20+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story states YouTube's official GTA 6 release day numbers are staggering."
   },
   {
    "id": "where to find progen black widow emerus in gta 6 fastest cars location stats",
