@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T23:10:38+00:00",
- "started": "2026-11-25T23:10:33+00:00",
+ "updated": "2026-11-25T23:15:41+00:00",
+ "started": "2026-11-25T23:15:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T23:10:33+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T23:15:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 36,
-   "checked": "2026-11-25T23:10:34+00:00"
+   "hits": 55,
+   "checked": "2026-11-25T23:15:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-25T23:10:34+00:00"
+   "hits": 65,
+   "checked": "2026-11-25T23:15:36+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:10:34+00:00"
+   "checked": "2026-11-25T23:15:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T23:10:34+00:00"
+   "checked": "2026-11-25T23:15:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T23:10:35+00:00"
+   "checked": "2026-11-25T23:15:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T23:10:35+00:00"
+   "checked": "2026-11-25T23:15:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T23:10:35+00:00"
+   "checked": "2026-11-25T23:15:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:10:35+00:00"
+   "checked": "2026-11-25T23:15:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T23:10:36+00:00"
+   "checked": "2026-11-25T23:15:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T23:10:36+00:00"
+   "checked": "2026-11-25T23:15:38+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T23:10:36+00:00"
+   "checked": "2026-11-25T23:15:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:10:36+00:00"
+   "checked": "2026-11-25T23:15:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T23:10:36+00:00"
+   "checked": "2026-11-25T23:15:39+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar is handing out 100 of these gorgeous limited edition gta 6 ps5 consoles and you can t buy one",
+   "title": "Rockstar is handing out 100 of these gorgeous limited-edition GTA 6 PS5 consoles, and you can't buy one",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc0h4SndJMmhtTmdfd3RxbDlPZ1R4cGR2OUF4SGlNUldjYXlqeFYtYU5TVlZzc0lPM1ZYSzZ0NU9SSXoydHhGbFhCT2tpbVo1b1VpWi1UZkxnUmRPVkNDZmFnMUFVRkdubWg0b1hieGdwRWtUZFJGZEl2U1lNS1lsaEZHN3B4MUJaQVhQa1hoZlNpdi1FU1hNMGgxNXE4enB6dVFXeS1YODNvVnEtSEdQRVo1OHR5MWVyLUVKMjJkVEY1Zm1DZmxDNmtfb1pQelItWTdZQUpqUXA3aURhMEhKWm1EQnA?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-25T23:13:02+00:00",
+   "seen": "2026-11-25T23:15:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Rockstar is handing out limited-edition GTA 6 PS5 consoles for free, and they are not available to purchase."
+  },
   {
    "id": "gta 6 is causing technical glitches on playstation 5 and xbox series x",
    "title": "GTA 6 is causing technical glitches on PlayStation 5 and Xbox Series X.",
@@ -181,6 +194,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story reports that GTA 6 is reportedly harming PlayStation 5 consoles."
+  },
+  {
+   "id": "gta 6 hacker sentenced to serve seven years but walks free the same day",
+   "title": "GTA 6 Hacker Sentenced to Serve Seven Years—But Walks Free the Same Day",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzFORjlUZm9tZFczYTA2WWdHUElsQ3M1d0RtWWpyMXJYNFZFdl9BRS1ZNC15RUhGWUxPV190dU1GYktMWm8yUkF1SWx0TUNubXVOMGdTZkp5bWhpUXNGV0tzZlRIQXpuTVA3X2dZQk5zSUM2cXJlTEN3eTdVc2FtY20zR0tvcDg2RjlIcFhsYktuZFV5cmE0dGtCTDBXYldqUzU1QUNCU3Y?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-25T22:31:16+00:00",
+   "seen": "2026-11-25T23:15:36+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that a GTA 6 hacker was sentenced to seven years but was released the same day."
   },
   {
    "id": "rockstar officially comments on gta 6 s difficulty",
