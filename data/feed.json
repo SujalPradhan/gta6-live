@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T22:00:17+00:00",
- "started": "2026-11-25T22:00:11+00:00",
+ "updated": "2026-11-25T22:05:18+00:00",
+ "started": "2026-11-25T22:05:11+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T22:00:11+00:00"
+   "hits": 0,
+   "checked": "2026-11-25T22:05:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 33,
-   "checked": "2026-11-25T22:00:12+00:00"
+   "hits": 54,
+   "checked": "2026-11-25T22:05:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 72,
-   "checked": "2026-11-25T22:00:12+00:00"
+   "checked": "2026-11-25T22:05:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-25T22:00:12+00:00"
+   "hits": 4,
+   "checked": "2026-11-25T22:05:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T22:00:13+00:00"
+   "checked": "2026-11-25T22:05:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T22:00:13+00:00"
+   "checked": "2026-11-25T22:05:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T22:00:13+00:00"
+   "checked": "2026-11-25T22:05:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T22:00:13+00:00"
+   "checked": "2026-11-25T22:05:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-25T22:00:14+00:00"
+   "hits": 6,
+   "checked": "2026-11-25T22:05:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T22:00:14+00:00"
+   "checked": "2026-11-25T22:05:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T22:00:15+00:00"
+   "checked": "2026-11-25T22:05:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T22:00:15+00:00"
+   "checked": "2026-11-25T22:05:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:00:15+00:00"
+   "checked": "2026-11-25T22:05:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T22:00:15+00:00"
+   "checked": "2026-11-25T22:05:16+00:00"
   }
  },
  "items": [
@@ -6668,6 +6668,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "The story reports on 30 unique weapon variants locations in GTA 6."
+  },
+  {
+   "id": "is gta 6 spying on you what rockstar collects what your gameplay can reveal and who could use it",
+   "title": "Is GTA 6 Spying on You? What Rockstar Collects, What Your Gameplay Can Reveal, and Who Could Use It",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCcXRiVjhCRU9mal9BdTBiYll2WjhtV09Rdzh6MzdaWUg0UXc0eDExRHl2TURQVDNscVpCeWFUZ2JraDFYTjlXTE1n?oc=5",
+   "outlet": "Sherafy.com",
+   "via": "Google News",
+   "published": "2026-11-25T02:22:54+00:00",
+   "seen": "2026-11-25T22:05:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions what Rockstar collects and what gameplay can reveal, and who could use that information."
   },
   {
    "id": "grand theft auto vi soundtrack expands to 61 original songs with 100 gecs travis scott justice and more",
