@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T11:21:23+00:00",
- "started": "2026-11-25T11:21:17+00:00",
+ "updated": "2026-11-25T11:26:26+00:00",
+ "started": "2026-11-25T11:26:20+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T11:21:18+00:00"
+   "hits": 98,
+   "checked": "2026-11-25T11:26:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-25T11:21:18+00:00"
+   "hits": 49,
+   "checked": "2026-11-25T11:26:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-25T11:21:19+00:00"
+   "hits": 73,
+   "checked": "2026-11-25T11:26:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:21:19+00:00"
+   "checked": "2026-11-25T11:26:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T11:21:19+00:00"
+   "checked": "2026-11-25T11:26:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T11:21:19+00:00"
+   "checked": "2026-11-25T11:26:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T11:21:20+00:00"
+   "checked": "2026-11-25T11:26:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:21:20+00:00"
+   "checked": "2026-11-25T11:26:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-25T11:21:20+00:00"
+   "checked": "2026-11-25T11:26:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:21:21+00:00"
+   "checked": "2026-11-25T11:26:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:21:21+00:00"
+   "checked": "2026-11-25T11:26:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T11:21:21+00:00"
+   "checked": "2026-11-25T11:26:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T11:21:21+00:00"
+   "checked": "2026-11-25T11:26:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T11:21:21+00:00"
+   "checked": "2026-11-25T11:26:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi launched with english only voices we asked experts why",
+   "title": "GTA VI Launched With English-Only Voices, We Asked Experts Why",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82ZTNrclk0cW9KMTg3d0ZncGlhZFpUd2pycGE1QUZtUm80bnc1S1RabW5wWlR0ejVOX2t5T19zTU5lN2l5SDBfWEhmWF9nMkxQU3NJNWhBV08tdEY4eUE?oc=5",
+   "outlet": "Slator",
+   "via": "Google News",
+   "published": "2026-11-25T11:23:04+00:00",
+   "seen": "2026-11-25T11:26:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI launched with English-only voices and asks experts why."
+  },
   {
    "id": "gta 6 or an anthropic share you can get both for about 80",
    "title": "'GTA 6' or an Anthropic share? You can get both for about $80.",
