@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T11:41:30+00:00",
- "started": "2026-11-25T11:41:24+00:00",
+ "updated": "2026-11-25T11:46:31+00:00",
+ "started": "2026-11-25T11:46:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T11:41:25+00:00"
+   "checked": "2026-11-25T11:46:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-25T11:41:25+00:00"
+   "hits": 45,
+   "checked": "2026-11-25T11:46:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-25T11:41:25+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T11:46:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:41:26+00:00"
+   "checked": "2026-11-25T11:46:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T11:41:26+00:00"
+   "checked": "2026-11-25T11:46:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T11:41:26+00:00"
+   "checked": "2026-11-25T11:46:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T11:41:26+00:00"
+   "checked": "2026-11-25T11:46:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-25T11:41:26+00:00"
+   "hits": 14,
+   "checked": "2026-11-25T11:46:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-25T11:41:26+00:00"
+   "checked": "2026-11-25T11:46:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:41:27+00:00"
+   "checked": "2026-11-25T11:46:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:41:27+00:00"
+   "checked": "2026-11-25T11:46:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T11:41:27+00:00"
+   "checked": "2026-11-25T11:46:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T11:41:27+00:00"
+   "checked": "2026-11-25T11:46:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T11:41:27+00:00"
+   "checked": "2026-11-25T11:46:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 from 3 79 billion in day one sales to playstation records 8 ways the game made history",
+   "title": "‘GTA 6’: From $3.79 Billion in Day-One Sales to PlayStation Records, 8 Ways the Game Made History",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXZkYTNLTGdnYy1Va0hNODdnVkZxclhjbDRXMmc0Z0F5WFRNeUJnNEVWbVFpLXpIRFpOQVc1eUNReXRFcFd5dkJjTDVmazBFNEt0TFB5ZWJfRkpSS2RfSTZjb0tWMXBvMnRRTjdZdTRXUmd3eTV1MnVHLTI1eE1NT0xxWlJLWUZuUU1wVE5zbG5ScUdyaEI3Njh3SXBfWGFwLXVfSHcxSTVUUHB6eUVSTFRtTnV5blJ2Q2c?oc=5",
+   "outlet": "Variety India",
+   "via": "Google News",
+   "published": "2026-11-25T11:44:05+00:00",
+   "seen": "2026-11-25T11:46:26+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story claims GTA 6 set records and achieved notable sales and PlayStation milestones."
+  },
+  {
+   "id": "the 24 hour gta 6 pc port is a warning shot not a product",
+   "title": "The 24-Hour GTA 6 PC Port Is a Warning Shot, Not a Product",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjJFLUVQTl8wSjA5ajFkM2t6ZnpyalFJVFBYd2tWOFFjeTFtb1Z1TjVnWkZsTkdkd2xaRU9ZRzZoUXQ3bjR4RXRzMkR1QjhGS180OXFEN1RIcS1qbUZmXzZ2YVRjMF9oRUFRT1Joa0d0Si0wMDgyVjFTZ2htSHN2b2JyRWhFNG45dk8xRg?oc=5",
+   "outlet": "Vocal",
+   "via": "Google News",
+   "published": "2026-11-25T11:42:46+00:00",
+   "seen": "2026-11-25T11:46:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims the GTA 6 PC port within a day should be viewed as a warning shot rather than a product."
+  },
+  {
+   "id": "man calls police on his ex for taking back her xbox account to play gta 6",
+   "title": "Man calls police on his ex for taking back her Xbox account to play GTA 6",
+   "link": "https://www.dexerto.com/gta/man-calls-police-on-his-ex-for-taking-back-her-xbox-account-to-play-gta-6-3431219/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-25T11:42:44+00:00",
+   "seen": "2026-11-25T11:46:28+00:00",
+   "summary": "A woman said her ex-boyfriend called the police on her after he bought Grand Theft Auto 6 and she removed his access to her Xbox account, all so she could play.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A woman says her ex called the police after she revoked his Xbox account access to play GTA 6."
+  },
   {
    "id": "gta 6 divides critics and players 99 on metacritic versus 5 6 from users",
    "title": "GTA 6 divides critics and players: 99 on Metacritic versus 5.6 from users",
@@ -129,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 being compared to Pulp Fiction in Tarantino’s True Romance crime thriller concept."
+  },
+  {
+   "id": "gta 6 console shootout concludes xbox series x has a higher performance level than ps5 but xbox series s lags behind and is harder to recomm",
+   "title": "GTA 6 console shootout concludes Xbox Series X has a 'higher performance level' than PS5 — but Xbox Series S lags behind and is 'harder to recommend'",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdlRxTnBXN3R5dk4xSUR6VE5OdnRTVFpaSnZyMTFFN3hmQ0FXYllta2NCSzl0WE55TnR3UURXVVpncXdSdTVRdUxLVjdaa2dRQnhDY3c5bElaZkJiNXhxYzRpRGh6M244RDJnZmZiX2lCOVJVUFl0NF9HU2RjR09zVDRoQ0E1NGZxWTBzakd4M2RQbjBKWmtLckhXX0NyOGRqRUxTbDJDZnFuRTdVRS1DT2lTc2dDS3MzMktvVXRFcjFDd3VkTE81UGNwUkVyZ3FPMUNYcm1Bel9zZ09aZUpDeEtBd0ZkRzJ1Si1CQ2diZXkwNWlDcVFGSDFabDJOZDE1X0FFdmNZM0tPSUNCTENweQ?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-25T11:37:33+00:00",
+   "seen": "2026-11-25T11:46:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Xbox Series X performs higher than PS5 for GTA 6, while Xbox Series S lags and is harder to recommend."
   },
   {
    "id": "gta vi publisher has launched a dmca campaign against videos of the pc version of the game",
