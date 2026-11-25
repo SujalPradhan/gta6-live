@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T10:51:13+00:00",
- "started": "2026-11-25T10:51:07+00:00",
+ "updated": "2026-11-25T10:56:16+00:00",
+ "started": "2026-11-25T10:56:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T10:51:07+00:00"
+   "checked": "2026-11-25T10:56:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-25T10:51:08+00:00"
+   "hits": 41,
+   "checked": "2026-11-25T10:56:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-25T10:51:08+00:00"
+   "hits": 71,
+   "checked": "2026-11-25T10:56:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T10:51:08+00:00"
+   "checked": "2026-11-25T10:56:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T10:51:08+00:00"
+   "checked": "2026-11-25T10:56:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T10:51:08+00:00"
+   "checked": "2026-11-25T10:56:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-25T10:51:09+00:00"
+   "checked": "2026-11-25T10:56:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T10:51:09+00:00"
+   "checked": "2026-11-25T10:56:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-25T10:51:09+00:00"
+   "checked": "2026-11-25T10:56:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T10:51:09+00:00"
+   "checked": "2026-11-25T10:56:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T10:51:09+00:00"
+   "checked": "2026-11-25T10:56:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T10:51:09+00:00"
+   "checked": "2026-11-25T10:56:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T10:51:10+00:00"
+   "checked": "2026-11-25T10:56:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T10:51:10+00:00"
+   "checked": "2026-11-25T10:56:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 company property walkthrough how to save the weapons cargo",
+   "title": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-company-property-walkthrough-how-to-save-the-weapons-cargo/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-25T10:53:37+00:00",
+   "seen": "2026-11-25T10:56:12+00:00",
+   "summary": "How to complete Company Property in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to complete Company Property in GTA 6."
+  },
+  {
+   "id": "gta 6 how to flip a car in grand theft auto 6",
+   "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3FIWE5ZNzRKZlBZaGxOd2ZIM2c1MzFzX09DM2ZxeGZhelZ4TDFWQkpROUtncGluMm5zM2M0dm5maXcxaVlDbkNxMFREd0JPWkVVdEZOZ3ZhaUxOaDFtZ2ZfaUktcGRKR3ZrOElDMHMxT1BxczJqbXY3V1ozZTZPWGNGdEU1X2dz?oc=5",
+   "outlet": "Video Games Chronicle",
+   "via": "Google News",
+   "published": "2026-11-25T10:51:12+00:00",
+   "seen": "2026-11-25T10:56:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to flip a car in Grand Theft Auto 6."
+  },
+  {
+   "id": "is taylor swift in gta 6 what the official soundtrack reveals",
+   "title": "Is Taylor Swift in GTA 6? What the official soundtrack reveals",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN25QRXVkMC0tOFljNTR0VVNEajZOVDZTcXVkdDRTSlVKb1Y4UFF1MDRYbm9VbUJtekYyd0JmejY3dDlkZkVlZnIwRFpQZUppLWZvN2oyZUhyc085SnItSkdTaXdwR040bUJxTllIRHlsNzRrVkZWeVVmTnNwUVFnaHFnQWJtOVdHalRNT19IdkhrZzVO?oc=5",
+   "outlet": "RouteNote",
+   "via": "Google News",
+   "published": "2026-11-25T10:50:59+00:00",
+   "seen": "2026-11-25T10:56:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Is Taylor Swift in GTA 6? What the official soundtrack reveals."
+  },
   {
    "id": "if gta vi had been released in the san andreas era it wouldn t have been a quarter as popular writer mhedi",
    "title": "🇺🇸 If GTA VI had been released in the San Andreas era, it wouldn't have been a quarter as popular. Writer: Mhedi",
@@ -116,6 +155,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims GTA VI would not be as popular if released during the San Andreas era."
+  },
+  {
+   "id": "gta vi hits 45 5m units sold in first 3 days",
+   "title": "GTA VI hits 45.5M units sold in first 3 days",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkFCZzhBeGNOUW81YkJ0OVFORFd3TGJMUkZzcWVSMm1NZlpMbjQwelVtWDZzYWVBd2pub0NYbERrbkFaZUpRS0h0amE0cWQyVmRab1JXNExERllrV082aHZOd0pYMzFUT2FIUjd2cHJWOUR5NUJZcFpKczVQOEZpQVRkTGdwUlpEeVptVVdKa3ZDUGxROVZJc3pxcU81VjdIN2c?oc=5",
+   "outlet": "Investing.com",
+   "via": "Google News",
+   "published": "2026-11-25T10:48:51+00:00",
+   "seen": "2026-11-25T10:56:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI hits 45.5M units sold in first 3 days."
+  },
+  {
+   "id": "fake gta 6 pc installers are stealing accounts for a port that doesn t exist",
+   "title": "Fake GTA 6 PC installers are stealing accounts for a port that doesn't exist",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aUGpXNVUzTHdUYXIxNnRVcjZ1VGREUGVzamtITnRERGJLNENiR3RVZGcySDNuM3BJVW9xajhmaHdmM0ZQTlJYcHJsdkhTV3JZMU9VOTJYb3l1U0hTbXZWS3NoTlVtRzVKdTAtTmJIUFV1M2I5OEludQ?oc=5",
+   "outlet": "MakeUseOf",
+   "via": "Google News",
+   "published": "2026-11-25T10:48:09+00:00",
+   "seen": "2026-11-25T10:56:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Fake GTA 6 PC installers are stealing accounts for a port that doesn't exist."
   },
   {
    "id": "players spent more than 683 million hours in gta 6 root nation com",
