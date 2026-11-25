@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T22:43:19+00:00",
- "started": "2026-11-25T22:43:15+00:00",
+ "updated": "2026-11-25T22:45:30+00:00",
+ "started": "2026-11-25T22:45:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T22:43:15+00:00"
+   "checked": "2026-11-25T22:45:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-25T22:43:15+00:00"
+   "hits": 34,
+   "checked": "2026-11-25T22:45:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-25T22:43:16+00:00"
+   "hits": 72,
+   "checked": "2026-11-25T22:45:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:43:16+00:00"
+   "checked": "2026-11-25T22:45:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T22:43:16+00:00"
+   "checked": "2026-11-25T22:45:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T22:43:16+00:00"
+   "checked": "2026-11-25T22:45:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T22:43:17+00:00"
+   "checked": "2026-11-25T22:45:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T22:43:17+00:00"
+   "checked": "2026-11-25T22:45:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T22:43:17+00:00"
+   "checked": "2026-11-25T22:45:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T22:43:17+00:00"
+   "checked": "2026-11-25T22:45:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T22:43:18+00:00"
+   "checked": "2026-11-25T22:45:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T22:43:18+00:00"
+   "checked": "2026-11-25T22:45:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:43:18+00:00"
+   "checked": "2026-11-25T22:45:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T22:43:18+00:00"
+   "checked": "2026-11-25T22:45:28+00:00"
   }
  },
  "items": [
@@ -116,6 +116,45 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story asks why GTA 6 streetlights look the way they do."
+  },
+  {
+   "id": "can gta 6 make you a better partner",
+   "title": "Can GTA 6 Make You A Better Partner?",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRmYweWpnVGJPVjRXaVJjd0l2dTFFejRJUVBZZlp0ZzI1eU5Gc2RaaDg1QkdfVi1jTUZ5c0lNNGFaWFh0VFRvRGNiUlNDVHY4ZUNZQktGTTZ0Nl9LTHNxX3dueVhlSEhKOWRqUGlNemRYdW9lZ3lfdWxoQk5pRGd6N01qYUFtbzBjMnNz?oc=5",
+   "outlet": "chatelaine.com",
+   "via": "Google News",
+   "published": "2026-11-25T22:34:38+00:00",
+   "seen": "2026-11-25T22:45:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 can make you a better partner."
+  },
+  {
+   "id": "how to play gta 6 with 60fps and dlss 5",
+   "title": "How to play GTA 6 with 60fps and DLSS 5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OeEQwUHlEWWRDNjVPWlEwbkhBeHZuczdBQnFVWmJjVnZCV09qcGU0UHE5bFEzR3VSczdjTVJ6ZGktcm56ODBpS1NEY0l2NmVpTksxLXlkdkFDZ0dIbXRSOQ?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-25T22:32:50+00:00",
+   "seen": "2026-11-25T22:45:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to play GTA 6 at 60fps with DLSS 5."
+  },
+  {
+   "id": "gta 6 is reportedly killing people s ps5 s",
+   "title": "GTA 6 Is Reportedly Killing People's PS5's",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BNVp1Z3JzQk83dlJ4U3BEcDY4djByS05JQWtYWDZDQ2NQcXB2WU1FcGdPNHo0YjlJalhXZEp5M0JiV2ZqaFJDcEV6LTNjRVdGMTJfalFiQTJSdmF3YjQzNnlnVy04VXB5N3RJQ0t2V1VMUURmZ3RjS0xuMkxnVms?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-25T22:32:22+00:00",
+   "seen": "2026-11-25T22:45:25+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is reportedly harming PlayStation 5 consoles."
   },
   {
    "id": "rockstar officially comments on gta 6 s difficulty",
@@ -155,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports secret controls in GTA 6 that the game doesn't tell you."
+  },
+  {
+   "id": "gta vi 19 insanely specific details we ve noticed so far",
+   "title": "'GTA VI': 19 Insanely Specific Details We've Noticed So Far",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uaXJLQnRvcld1bmVzMW8yVk9IeE45RmRLREUzVlo5ZTZLdHFiZE9nYzgxRmxnM3VibUlUVFpzblBoQjJpNEVrSzJJdUxLVUZpeW13cDRQR2VzcnEtTmMtRXJyYVZkcUV2NlJ6RFc5T1k?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-25T22:10:39+00:00",
+   "seen": "2026-11-25T22:45:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes nineteen highly specific details about GTA VI that have been noticed so far."
   },
   {
    "id": "can you play gta 6 from an external hard drive on ps5 or xbox series x s",
@@ -207,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on a guide revealing secret controls and useful features in GTA 6 that the game does not mention."
+  },
+  {
+   "id": "gta 6 all randy s car locations complete randy s wish list guide",
+   "title": "GTA 6: All Randy's Car Locations | Complete Randy's Wish List Guide",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTUZUTW1wRXRvWFhPb3lzcFF1X1NKUDRhNXotbDRSSFJRWmVaQW1BajZ5VzVEc3JtWDhqaWlieW9tTDM4N3RmcGV2WUcwRzg4Z1I1SDlTMHkzazBFU3JTdnJ2bjlWWVNJOGI1amhZbWxVMzk1WkxNbXNjY0RUbVJSbWhNMkJxWXROS0ZLSDFaQUpoS0E?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T22:00:00+00:00",
+   "seen": "2026-11-25T22:45:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers all of Randy's car locations as part of a complete Randy's Wish List guide for GTA 6."
   },
   {
    "id": "30 things you might have missed in gta 6",
