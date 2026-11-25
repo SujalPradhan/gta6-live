@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T20:19:48+00:00",
- "started": "2026-11-25T20:19:41+00:00",
+ "updated": "2026-11-25T20:24:47+00:00",
+ "started": "2026-11-25T20:24:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T20:19:42+00:00"
+   "checked": "2026-11-25T20:24:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-25T20:19:42+00:00"
+   "checked": "2026-11-25T20:24:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-25T20:19:42+00:00"
+   "hits": 65,
+   "checked": "2026-11-25T20:24:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T20:19:43+00:00"
+   "checked": "2026-11-25T20:24:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T20:19:43+00:00"
+   "checked": "2026-11-25T20:24:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T20:19:43+00:00"
+   "checked": "2026-11-25T20:24:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T20:19:44+00:00"
+   "checked": "2026-11-25T20:24:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T20:19:44+00:00"
+   "checked": "2026-11-25T20:24:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T20:19:44+00:00"
+   "checked": "2026-11-25T20:24:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T20:19:45+00:00"
+   "checked": "2026-11-25T20:24:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T20:19:45+00:00"
+   "checked": "2026-11-25T20:24:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T20:19:45+00:00"
+   "checked": "2026-11-25T20:24:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T20:19:45+00:00"
+   "checked": "2026-11-25T20:24:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T20:19:46+00:00"
+   "checked": "2026-11-25T20:24:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi leaker released from prison by sympathetic london judge",
+   "title": "GTA VI leaker released from prison by sympathetic London judge",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQk5lOXUwNWdoWDI3UFd6VU5IVFp4bmJ5cXZmMFhmNHBLd0R4ellWMDM0NTlwODB4SjJDRDlBOE1MNnhxNnlxcndwblhBTzBEQm0yTnAtdGktRkVZQkRnSVYzU0JDR2lBMzBKZlRjVTJDSjhnRDhsZ2RBR3ZzeC1DemJxUUwxWjJsQVpkVjZUb0txeThmREJpbUktTDZuMjRu0gGmAUFVX3lxTFB4b19xTTJiVUw4VXpRTkwwd1BMUUQyRnQ3UWpieGM1RWc0NWwwRWNadkdONG5IQjhzSkphT0dTZnZZSmstb292MU82UkN5NVppTFZwTG1nRDNuV1RjX2RGM0RYeEpuV0QzMXhrNnNIa0VuOHZ3Rk9rZWJ2emd5eWhNSEpFd21YMnpxM2xFRWp5em5MTl9jQnJtbkRpeEozdXN5TUR1OVE?oc=5",
+   "outlet": "NewsNation",
+   "via": "Google News",
+   "published": "2026-11-25T20:14:54+00:00",
+   "seen": "2026-11-25T20:24:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI leaker was released from prison by a sympathetic London judge."
+  },
+  {
+   "id": "ex take two ceo who led gta iv says ai will let a filmmaker make the next breakout video game",
+   "title": "Ex-Take-Two CEO who led GTA IV says AI will let a filmmaker make the next breakout video game",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXUwdi1wSmx5TXZTcjVEUDBFY3hPZVlzZWNCZzlEdDB0aDZsU2h4UkNHMUk5MC0xZlk1ZGRzanFzcWp0ZUVzeFdfdVN3NFNkS0RwMkxIZGxrdjY5NXJaOGpSVTdtZ1VLMUtkNEFiNFdfNW82S3VoYWh4OGpVNzVoeFozTFdzWThLZklvTEV3?oc=5",
+   "outlet": "Fortune",
+   "via": "Google News",
+   "published": "2026-11-25T20:13:00+00:00",
+   "seen": "2026-11-25T20:24:42+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "An ex-Take-Two CEO who led GTA IV says AI will let a filmmaker make the next breakout video game."
+  },
   {
    "id": "it felt at odds with the story we were trying to tell gta 6 developer explains why there s no way to replay missions",
    "title": "'It Felt at Odds With the Story We Were Trying to Tell' - GTA 6 Developer Explains Why There's No Way to Replay Missions",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that the GTA 6 developer explains why there is no way to replay missions and that this decision conflicts with the narrative."
+  },
+  {
+   "id": "review is gta vi actually woke",
+   "title": "Review: Is ‘GTA VI’ Actually Woke?",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wTlRiUFdyRHgzNml6RTA3V3lnVndweUxaX3d1ZF90VWEycjhMRzZDRjJvQ3NJd0p6ZVVyUDZqd1RtQkVlZ2czUWdEeXBNUXVqLUF5bzBydHZOdkk5MkQwN2lEc25WdjZHMzlmaFVn?oc=5",
+   "outlet": "Vulture",
+   "via": "Google News",
+   "published": "2026-11-25T20:09:12+00:00",
+   "seen": "2026-11-25T20:24:42+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "A review questions whether GTA VI is actually woke."
   },
   {
    "id": "gta 6 rewards empathy because being a demigod stomping through the world is only fun for so long",
