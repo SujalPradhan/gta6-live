@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T10:00:56+00:00",
- "started": "2026-11-25T10:00:51+00:00",
+ "updated": "2026-11-25T10:06:07+00:00",
+ "started": "2026-11-25T10:06:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-25T10:00:52+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T10:06:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-25T10:00:52+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T10:06:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-25T10:00:53+00:00"
+   "hits": 59,
+   "checked": "2026-11-25T10:06:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T10:00:53+00:00"
+   "checked": "2026-11-25T10:06:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T10:00:53+00:00"
+   "checked": "2026-11-25T10:06:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T10:00:53+00:00"
+   "checked": "2026-11-25T10:06:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T10:00:53+00:00"
+   "checked": "2026-11-25T10:06:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T10:00:54+00:00"
+   "checked": "2026-11-25T10:06:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T10:00:54+00:00"
+   "checked": "2026-11-25T10:06:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T10:00:54+00:00"
+   "checked": "2026-11-25T10:06:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T10:00:54+00:00"
+   "checked": "2026-11-25T10:06:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T10:00:54+00:00"
+   "checked": "2026-11-25T10:06:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T10:00:54+00:00"
+   "checked": "2026-11-25T10:06:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T10:00:54+00:00"
+   "checked": "2026-11-25T10:06:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "guest comment how retailers can capitalise on the gta vi demand into long term customer growth",
+   "title": "GUEST COMMENT How retailers can capitalise on the GTA VI demand into long-term customer growth",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcGgwRDl3eG15LTdLX3Z4R2VLbU5Rd1ZFNDZZMjVzSVRGUHRCekFfRUdKNTFDY3N5aVNyRWlTVjd0U1QzUm9LeDdwcTN1amhqbU1NQnBKX0JvOE93OVFUbkdZVkJoeUFSOEU0VkFYZVJWNnk2UGg0aUllSUpQY2NzOTNaM24wS0NVbDVjUmZrTHVKWi1MTVlfdlhHcjdIUnlxYUdtUnkyM2hPaV9nUXlqTGFXRV9qY3o4aF91ekVndVo2eDA?oc=5",
+   "outlet": "InternetRetailing",
+   "via": "Google News",
+   "published": "2026-11-25T10:01:43+00:00",
+   "seen": "2026-11-25T10:06:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses how retailers can capitalise on GTA VI demand for long-term customer growth."
+  },
+  {
+   "id": "meet dylan rourke and manni l perez aka jason and lucia in grand theft auto vi",
+   "title": "Meet Dylan Rourke and Manni L. Perez aka Jason and Lucia in Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVzU4RjhUUVF5a0JiUmk0SHNSQkxKRWNCV1hPdzVnb09vQ1liRnVrcTZaQ0g1S1hLZWFzM3AxaGp2dVJwbzdzWl9HYmZ6cHlKTDRRWkYtejRwZExiX0t0V1ExMm5WWUx6UDN6MjRkWlI2dFJ5SldJVXBWUEtZc001OTNiaThKVjZ5WVVfanFZMHIyS3pPVmRzVzh6bXRZbWdNZXBxVzFwblRsMWM5ZDRxaUJjVjZiTzFtU2o5Zk9uZnRBTXBqaG1fUzVvb0s3WGVsWlBzakthU01nN255VGtCb0lfRlpMc2RGUGNIdDlJeVp6bXFwdUFselhSODBmVXluenl1Mk41VHZNM0tTbGc?oc=5",
+   "outlet": "South China Morning Post",
+   "via": "Google News",
+   "published": "2026-11-25T10:00:08+00:00",
+   "seen": "2026-11-25T10:06:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story introduces Dylan Rourke and Manni L. Perez, also known as Jason and Lucia, in Grand Theft Auto VI."
+  },
+  {
+   "id": "the part of gta vi where getting arrested in the upscale town of capri gets you locked up in an apparent torture cage by corrupt cops what s",
+   "title": "🇺🇸 The part of GTA VI where getting arrested in the upscale town of Capri gets you locked up in an apparent torture cage by corrupt cops. What's Rockstar trying to tell us here? Writer: Mhedi",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KaG9Uc0FHOTBTdGxhSzNxQ003V0F6SUdkdEtFUnUyaHBPOWF5SDJZSFZmc0xnakd4dk53UjJKaDAxX0x3YWY1dmt4MU1scGxjczZiVFRSSTdMdGpyVjM3cUx0YnF1LXFmdWlPUg?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-25T10:00:00+00:00",
+   "seen": "2026-11-25T10:06:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes a GTA VI scene in Capri involving arrest and a torture cage as described by the writer."
+  },
   {
    "id": "gta 6 caught slipping walkthrough how to catch both thieves",
    "title": "GTA 6 Caught Slipping walkthrough: How to catch both thieves",
