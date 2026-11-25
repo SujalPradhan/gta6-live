@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T13:01:59+00:00",
- "started": "2026-11-25T13:01:53+00:00",
+ "updated": "2026-11-25T13:07:09+00:00",
+ "started": "2026-11-25T13:07:04+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T13:01:54+00:00"
+   "checked": "2026-11-25T13:07:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 44,
-   "checked": "2026-11-25T13:01:54+00:00"
+   "checked": "2026-11-25T13:07:05+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-25T13:01:55+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 60,
+   "checked": "2026-11-25T13:07:05+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T13:01:55+00:00"
+   "checked": "2026-11-25T13:07:05+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T13:01:55+00:00"
+   "checked": "2026-11-25T13:07:05+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T13:01:55+00:00"
+   "checked": "2026-11-25T13:07:06+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T13:01:55+00:00"
+   "checked": "2026-11-25T13:07:06+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:01:56+00:00"
+   "checked": "2026-11-25T13:07:06+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T13:01:56+00:00"
+   "checked": "2026-11-25T13:07:06+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-25T13:01:56+00:00"
+   "hits": 14,
+   "checked": "2026-11-25T13:07:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-25T13:01:56+00:00"
+   "hits": 7,
+   "checked": "2026-11-25T13:07:07+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T13:01:56+00:00"
+   "checked": "2026-11-25T13:07:07+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T13:01:56+00:00"
+   "checked": "2026-11-25T13:07:07+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T13:01:57+00:00"
+   "checked": "2026-11-25T13:07:07+00:00"
   }
  },
  "items": [
@@ -116,6 +116,32 @@
    "topic": "News",
    "record": true,
    "ai_summary": "States where to find the Progen Black Widow Emerus in GTA 6 and provides a look at the car’s stats."
+  },
+  {
+   "id": "grand theft auto vi design the strengths of the new criminal profile system",
+   "title": "Grand Theft Auto VI design: The strengths of the new criminal profile system",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUQxWW04bXdEdGhUakRra0MxNW1BX1BpX3RXR0k0bXFnMWMxYUMtd053MmRfN1EtSlRmbkRPLUQ0WVBTdXFiQ2txeE9reTRMWjQ4RXNOR0VsMi1sQlp0cDRMLVEwVm1hejhRWnFISTl6NlhiQlFWWkc2SG13NDkxUDZYNjJrZWctSlJKVW1TdmlPZGtNd2g3ZkZZeXBUVE9T?oc=5",
+   "outlet": "The Mancunion",
+   "via": "Google News",
+   "published": "2026-11-25T13:00:00+00:00",
+   "seen": "2026-11-25T13:07:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses the strengths of GTA VI's new criminal profile system."
+  },
+  {
+   "id": "take two appears to be trying to scrub gta 6 pc ports from the internet as vibecoders race toward controversial world first",
+   "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaWFfSlRBTWJNOXNITXFfYUs4aE5mSGNEM1lvSkZROVVuQzktZkNsNHN4dFA1MWhmZnQ2Z09ZUkhWcTBGQTFMQmhXbXhpd1R3Q2F1VGVobktMZXhTXzBwaENDU3o4MEE5YWRGTm1ULVg5LVBZeUVqZlZMT0wxWV9GQXhjMjJrTXVTM1BuenhUbmlnUWk1WHcxaVUzTzJGa29DeDVDTkRuYnFMTW51SE81TG5OcWRTeUxsRXpKXzdFUWlTN3ZQM3NlZDVicC1IV3NfVDhjQ1VsaXlZMkdaSHRlaHdfRS1id0ZKNXMtWkVYQTJ2Zw?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-25T12:59:08+00:00",
+   "seen": "2026-11-25T13:07:04+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The report claims Take-Two is attempting to scrub GTA 6 PC ports from the Internet as Vibecoders pursue a controversial world first."
   },
   {
    "id": "gta 6 became the biggest playstation launch check out the records",
@@ -2716,6 +2742,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports GTA 6's day as the highest grossing or comparing to top video games in revenue."
+  },
+  {
+   "id": "gta 6 s 3 79b day how it ranks against all time games",
+   "title": "GTA 6’s $3.79B Day: How It Ranks Against All-Time Games",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjdtOVBHb19CV0Z2WGxqR29ZaENoclUzQTVtcldXbE9MVXgtOVM5RWRvNzJwalE1aEV5cE8xV3VYT3Z1aWQzcnJoUHBleHNjazk4R1hoczFIX29ZYWtRdUFNRllVUHk2aWRiSGN5dnJoNm9LbkpZNzBqQUx2ZzVhenprY2NHMmhtQy1xd3BB?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-25T01:21:25+00:00",
+   "seen": "2026-11-25T13:07:05+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The piece analyzes GTA 6’s performance on its so-called 'Day' and how it ranks against all-time games."
   },
   {
    "id": "gta vi what grady judd ashley moody and more have to say",
