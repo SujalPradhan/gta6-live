@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T01:38:02+00:00",
- "started": "2026-11-25T01:37:55+00:00",
+ "updated": "2026-11-25T01:43:09+00:00",
+ "started": "2026-11-25T01:43:02+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T01:37:56+00:00"
+   "checked": "2026-11-25T01:43:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-25T01:37:57+00:00"
+   "hits": 58,
+   "checked": "2026-11-25T01:43:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 63,
-   "checked": "2026-11-25T01:37:57+00:00"
+   "hits": 62,
+   "checked": "2026-11-25T01:43:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T01:37:57+00:00"
+   "checked": "2026-11-25T01:43:04+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T01:37:58+00:00"
+   "checked": "2026-11-25T01:43:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T01:37:58+00:00"
+   "checked": "2026-11-25T01:43:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T01:37:58+00:00"
+   "checked": "2026-11-25T01:43:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T01:37:58+00:00"
+   "checked": "2026-11-25T01:43:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T01:37:58+00:00"
+   "checked": "2026-11-25T01:43:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T01:37:58+00:00"
+   "checked": "2026-11-25T01:43:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T01:37:59+00:00"
+   "checked": "2026-11-25T01:43:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T01:37:59+00:00"
+   "checked": "2026-11-25T01:43:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T01:37:59+00:00"
+   "checked": "2026-11-25T01:43:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T01:37:59+00:00"
+   "checked": "2026-11-25T01:43:06+00:00"
   }
  },
  "items": [
@@ -2430,6 +2430,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story lists the ten greatest GTA 6 cameos, ranked."
+  },
+  {
+   "id": "i felt some gta 6 story missions were too easy so i asked rockstar if that s by design or if i m just a top tier gamer",
+   "title": "I felt some GTA 6 story missions were too easy, so I asked Rockstar if that’s by design or if I’m just a top-tier gamer",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1NXbHFrSHFwLXBwTXVPSDZPVUNVci01azN6UEpucllZQXd5QjV2am5MdDRrLXJ5Y09zd05sTWZEWmtsT1FWS1NIWDh0T2VJSzhjMGc5UDhkN0IyOEhlU083U204ZHBURWVabnNRWUpWVFpzUTRON0N5Ql9UQWJjVFMwTGRvdw?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-24T18:25:36+00:00",
+   "seen": "2026-11-25T01:43:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story asks whether some GTA 6 story missions are intentionally easy or if the writer is simply a top-tier gamer."
   },
   {
    "id": "catastrophic gta 6 leak officially kickstarts race for pc port",
