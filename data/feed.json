@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T13:47:22+00:00",
- "started": "2026-11-25T13:47:16+00:00",
+ "updated": "2026-11-25T13:52:22+00:00",
+ "started": "2026-11-25T13:52:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T13:47:16+00:00"
+   "checked": "2026-11-25T13:52:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-25T13:47:17+00:00"
+   "hits": 55,
+   "checked": "2026-11-25T13:52:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-25T13:47:17+00:00"
+   "hits": 63,
+   "checked": "2026-11-25T13:52:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-25T13:47:17+00:00"
+   "hits": 9,
+   "checked": "2026-11-25T13:52:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T13:47:18+00:00"
+   "checked": "2026-11-25T13:52:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-25T13:47:18+00:00"
+   "hits": 59,
+   "checked": "2026-11-25T13:52:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:47:18+00:00"
+   "checked": "2026-11-25T13:52:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:47:18+00:00"
+   "checked": "2026-11-25T13:52:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T13:47:18+00:00"
+   "checked": "2026-11-25T13:52:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:47:19+00:00"
+   "checked": "2026-11-25T13:52:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T13:47:19+00:00"
+   "checked": "2026-11-25T13:52:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T13:47:19+00:00"
+   "checked": "2026-11-25T13:52:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T13:47:19+00:00"
+   "checked": "2026-11-25T13:52:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T13:47:20+00:00"
+   "checked": "2026-11-25T13:52:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi pulls off the heist of the century",
+   "title": "Grand Theft Auto VI Pulls Off the Heist of the Century",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFNUeTFYTk94RnZwbUdENFVScmVELTNRX3Qzb1Q1V2pQZFRsaENZRHNBVnlPUHAybUhMZG82VVR5V2JjUllTVWdtYWp2WkRhbGl5aWprSkVaeFFvNjRsZDlESDRFVmVXd1NXWlFuVllqMlVoRWpvWHI4dGRGS3JGY2xqSDJMTFBIVVJjb01udWVMMUxRTWtERVFZWGswZWNENUQ1UGc3NA?oc=5",
+   "outlet": "Gameindustry.com",
+   "via": "Google News",
+   "published": "2026-11-25T13:50:10+00:00",
+   "seen": "2026-11-25T13:52:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Grand Theft Auto VI pulls off the heist of the century."
+  },
+  {
+   "id": "gta 6 players report ps5 consoles failing as tests reveal unusually high power consumption",
+   "title": "GTA 6 players report PS5 consoles failing as tests reveal unusually high power consumption",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSG5SbEhMNlJnZVlFN01mVzJJUFBPLXMyOWxjbGFjUVVJVF9zNzMxcUlzYTBYbmlsXzhMYUlZZWVTWlpqelBOYjdGbzBYRHhOeUdfMlhhdG1nbWROSmZJYWluOWkyel9EWURKSEtWdnlzWVdTczlyRTJXWnZDUjVqNGZJbFF5V2d6X1VtNGxjY2szMVNjSmhLN1N6Q1cwckdxTlMtUW1JRmlTdUJ6dnVuaTd1MGswcEI0QS1sYg?oc=5",
+   "outlet": "PC Guide",
+   "via": "Google News",
+   "published": "2026-11-25T13:46:42+00:00",
+   "seen": "2026-11-25T13:52:17+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The piece notes GTA 6 players report PS5 consoles failing as tests reveal unusually high power consumption."
+  },
   {
    "id": "tired of gta 6 here s 23 lesser known gems that might beat it at its own game",
    "title": "Tired of GTA 6? Here's 23 lesser-known gems that might beat it at its own game",
@@ -415,6 +441,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "GTA 6 became the biggest PlayStation launch, according to reported records."
+  },
+  {
+   "id": "sylvie vartan gains 2500 percent streams after gta 6 feature",
+   "title": "Sylvie Vartan Gains 2500 Percent Streams After GTA 6 Feature",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jNlFieVV4Z2dXZlR0X25vZWFqck4zaDRxR0xEU1ZHTkIzT1ZMbGFhanhyQ2ZKM3FjclpmYUQtS2xFRlEwMWV2MmVOT1JmcFBpZ2IzRE1BU2VKTVUzeXBrMTNLSHE?oc=5",
+   "outlet": "SuaraGarut.ID",
+   "via": "Google News",
+   "published": "2026-11-25T12:46:59+00:00",
+   "seen": "2026-11-25T13:52:17+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The article states Sylvie Vartan gains 2500 percent streams after GTA 6 feature."
   },
   {
    "id": "gta 6 thrax location where to find the blue bugatti",
@@ -1650,6 +1689,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6 analysis shows the PS5 version has substantially more frequent frame rate drops than the Xbox Series X version, sparking debate about Sony's marketing."
+  },
+  {
+   "id": "gta 6 analysis shows ps5 version suffers substantially more frequent frame rate drops than xbox series x version",
+   "title": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version",
+   "link": "https://www.ign.com/articles/gta-6-analysis-shows-ps5-version-suffers-substantially-more-frequent-frame-rate-drops-than-xbox-series-x-version-sparking-debate-about-sonys-plays-best-on-ps5-marketing",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-25T10:15:45+00:00",
+   "seen": "2026-11-25T13:52:18+00:00",
+   "summary": "The tech experts at Digital Foundry have revealed their analysis of GTA 6, and found the game performs “meaningfully better” on Xbox Series X than the base PS5.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The analysis indicates GTA 6 on PS5 suffers more frequent frame rate drops than on Xbox Series X, with Digital Foundry saying performance is meaningfully better on Xbox Series X than the base PS5."
   },
   {
    "id": "ian scurlock s tallahassee tattoo art rides with gta vi biker gang",
