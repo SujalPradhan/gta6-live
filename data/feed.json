@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T10:56:16+00:00",
- "started": "2026-11-25T10:56:10+00:00",
+ "updated": "2026-11-25T11:01:19+00:00",
+ "started": "2026-11-25T11:01:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T10:56:10+00:00"
+   "hits": 98,
+   "checked": "2026-11-25T11:01:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 41,
-   "checked": "2026-11-25T10:56:10+00:00"
+   "hits": 51,
+   "checked": "2026-11-25T11:01:14+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-25T10:56:11+00:00"
+   "hits": 70,
+   "checked": "2026-11-25T11:01:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-25T10:56:11+00:00"
+   "hits": 8,
+   "checked": "2026-11-25T11:01:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T10:56:12+00:00"
+   "checked": "2026-11-25T11:01:15+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T10:56:12+00:00"
+   "checked": "2026-11-25T11:01:15+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 19,
-   "checked": "2026-11-25T10:56:12+00:00"
+   "hits": 18,
+   "checked": "2026-11-25T11:01:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T10:56:12+00:00"
+   "checked": "2026-11-25T11:01:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-25T10:56:12+00:00"
+   "checked": "2026-11-25T11:01:16+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T10:56:13+00:00"
+   "checked": "2026-11-25T11:01:16+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T10:56:13+00:00"
+   "checked": "2026-11-25T11:01:17+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T10:56:13+00:00"
+   "checked": "2026-11-25T11:01:17+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T10:56:14+00:00"
+   "checked": "2026-11-25T11:01:17+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T10:56:14+00:00"
+   "checked": "2026-11-25T11:01:17+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi runs better on xbox series x than on ps5",
+   "title": "GTA VI runs better on XBOX Series X than on PS5",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzVOUE5zQjlrM2lseFM0dHBLV25ZM0RGNldBRTFHWHM3T3N5VkZjeUxZSEZqeFpOeWx1dWY2MTdRNmNCbTVUWWRwdDI1LWpjQkxsMnpFZjFNSnRCNWF6NV9ZR0o3YS1ISU0wNTl4Vi05WnNxQjB2eWRkd3V5dktJcFhYTXJPOE50bF8wNWlBMm5yY01UdzVUM1Bja0t0QQ?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-25T10:54:04+00:00",
+   "seen": "2026-11-25T11:01:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI runs better on Xbox Series X than on PS5."
+  },
   {
    "id": "gta 6 company property walkthrough how to save the weapons cargo",
    "title": "GTA 6 Company Property walkthrough: How to save the weapons cargo",
@@ -220,6 +233,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story states that classics are being review-bombed on Metacritic to drive up GTA VI scores."
+  },
+  {
+   "id": "ai generated gta 6 pc ports get nuked in alleged rockstar takedown spree as former bungie dev hails most ridiculous dumpster fire ever",
+   "title": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa190THh3dkdCUFZpTDhvQWpJTkhUWjQya2lRLWFvTGItZTVUbzlIRFI5cnM4WGxsc29TX0MwVFU5U0VJTVZEQmdvTnprWHh4N2trNXdvRV95OGhfemhmS2RxQ1NBMWpFcVA1MVJ3V0NqeW9MU0M3ZFZxY2FheXg5bXh6WW5sYmYzaGg3R2lLLU1NMF9pZUhsNWVZYmo5MkY5eGpadDZ2dld6MW1zTE5rQV83ZHB6NGR3N2M1bTRiS3FsQmlqOWxBc1c4LTltTzg0RXhuQWVWSW5DY3pOT1RXejFnTklOOTQ0SzdZeC16cXFCb25YQjhlNjJMVQ?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-25T10:38:50+00:00",
+   "seen": "2026-11-25T11:01:13+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": true,
+   "ai_summary": "The story reports alleged takedowns of AI-generated GTA 6 PC ports and praise from a former Bungie developer calling it a dumpster fire."
   },
   {
    "id": "why gta 6 is already being hailed as the greatest video game of all time",
@@ -1195,6 +1221,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Australia’s gaming habits surge as GTA 6 blitzes even more records."
+  },
+  {
+   "id": "gta 6 players report dead ps5 gpus how to keep your console safe",
+   "title": "GTA 6 players report dead PS5 GPUs: How to keep your console safe",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW85c2lENFJvTWRpLUFzMmJOYXRZa3YzTlZOOWpuVFpreWVla1lSTkU3ZHdydzVqX0x2SnMzWGM5dVNkYWYxWG1JTmNnRDJPSGh6S3lHbWpyaFBDRktFZng4aXpSc29SQVRtNTFtaENwcE9YUS1Hb2VBNVN4Wk5qa1lBdlJnUnJqUUpOQzh3aVFKeURZOWJxRnY4VHduY3lPWU9QWWxYSEhCMUJkeXhQcURWVkxoOEpLeW5vQmxn0gHDAUFVX3lxTFBVYkpZdHU1QjRlS192ekN3YkFmUFhUSHZ6bkNyTzZHeU9RbW1aRVNJVmM3eXNQUzFfcURKNHFzbEM4TjlyRy01cDRXTl9FbWdnZHdybFM4VkdQV1Y3VDVpSHdIb0VoWGlsaXdETl9TNmRPUGlNZElMdVJxNWI0ZG44WDQyVlE4X0cyWU1iWElRVTdmVURTVDdoS0NOWkxoMXBaV0ptWU5USUI3S3dVNmJIY1g3eG91YWZQd0FPb0xhN01DMA?oc=5",
+   "outlet": "News9live",
+   "via": "Google News",
+   "published": "2026-11-25T05:26:42+00:00",
+   "seen": "2026-11-25T11:01:14+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 players report dead PS5 GPUs and provides guidance on keeping consoles safe."
   },
   {
    "id": "almost five years in secret gta vi actor speaks about working on the game",
