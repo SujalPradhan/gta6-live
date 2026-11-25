@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T12:21:47+00:00",
- "started": "2026-11-25T12:21:41+00:00",
+ "updated": "2026-11-25T12:26:52+00:00",
+ "started": "2026-11-25T12:26:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T12:21:41+00:00"
+   "checked": "2026-11-25T12:26:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-25T12:21:41+00:00"
+   "checked": "2026-11-25T12:26:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 78,
-   "checked": "2026-11-25T12:21:42+00:00"
+   "hits": 74,
+   "checked": "2026-11-25T12:26:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T12:21:42+00:00"
+   "checked": "2026-11-25T12:26:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T12:21:42+00:00"
+   "checked": "2026-11-25T12:26:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T12:21:42+00:00"
+   "checked": "2026-11-25T12:26:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T12:21:43+00:00"
+   "checked": "2026-11-25T12:26:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T12:21:43+00:00"
+   "checked": "2026-11-25T12:26:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T12:21:43+00:00"
+   "checked": "2026-11-25T12:26:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T12:21:43+00:00"
+   "checked": "2026-11-25T12:26:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T12:21:44+00:00"
+   "checked": "2026-11-25T12:26:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T12:21:44+00:00"
+   "checked": "2026-11-25T12:26:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T12:21:44+00:00"
+   "checked": "2026-11-25T12:26:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T12:21:44+00:00"
+   "checked": "2026-11-25T12:26:50+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports where to find Brian O'Conner’s Mitsubishi Eclipse clone in Grand Theft Auto VI."
+  },
+  {
+   "id": "raul bautista actor manny perez bought a ps5 so he could play gta 6",
+   "title": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnNVdm9QWHEwaGk2aFl0T3pWMmhhYmFMZG9jUlRGZGtObkVoZGVYQzA2bTJKXzl3YjBTdVZsZDljQksxangxZ2Y3ZFJZc3Y2TmNlV3Y0ZTV2YlVwUjZZMFhQMEg3QXBaZ2wtVHFQYWZwQ01vVlN5WXU3VENDbG5GTGRzYzJkMV84cHlOY3VCMHhuV2xTcU5ldENOb2k3TTdDZHBoTkk4VDB6RXdWQUpBOHpVSTZFZWc1?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-25T12:04:09+00:00",
+   "seen": "2026-11-25T12:26:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims Manny Perez bought a PS5 so he could play GTA 6."
   },
   {
    "id": "how to use nos in gta 6",
