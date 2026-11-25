@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T20:39:51+00:00",
- "started": "2026-11-25T20:39:46+00:00",
+ "updated": "2026-11-25T20:44:59+00:00",
+ "started": "2026-11-25T20:44:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T20:39:47+00:00"
+   "checked": "2026-11-25T20:44:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 36,
-   "checked": "2026-11-25T20:39:47+00:00"
+   "hits": 55,
+   "checked": "2026-11-25T20:44:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-25T20:39:47+00:00"
+   "hits": 67,
+   "checked": "2026-11-25T20:44:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T20:39:48+00:00"
+   "checked": "2026-11-25T20:44:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T20:39:48+00:00"
+   "checked": "2026-11-25T20:44:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T20:39:48+00:00"
+   "checked": "2026-11-25T20:44:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T20:39:48+00:00"
+   "checked": "2026-11-25T20:44:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T20:39:48+00:00"
+   "checked": "2026-11-25T20:44:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T20:39:48+00:00"
+   "checked": "2026-11-25T20:44:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T20:39:49+00:00"
+   "checked": "2026-11-25T20:44:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T20:39:49+00:00"
+   "checked": "2026-11-25T20:44:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T20:39:49+00:00"
+   "checked": "2026-11-25T20:44:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T20:39:49+00:00"
+   "checked": "2026-11-25T20:44:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T20:39:49+00:00"
+   "checked": "2026-11-25T20:44:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "truth or fake did gta 6 really recreate charlie kirk s assassination",
+   "title": "Truth or Fake - Did GTA 6 really recreate Charlie Kirk's assassination?",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTU0Sk1YdW5ycXpUU2pNSjJpQUxGdTBnLU9kam9odmFrWmM2VW51d0NjUVJacWNqMmlqMk5ET3M2Qk8xQUtvV204YlMzajVtY0ZZbzJESzhmWThOcFk4R2pBT1pKME5LQmRPQ3Z1RmtqTVNKSGx2ODZuZ3NIUWRuVEl5ZU12c1lqYUU4QVBqc0dyalpvZ3FTMEQyM2FQc3lSRy1PT09pVDdHLXlRTlFQN0tJV0E?oc=5",
+   "outlet": "France 24",
+   "via": "Google News",
+   "published": "2026-11-25T20:38:28+00:00",
+   "seen": "2026-11-25T20:44:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 really recreated Charlie Kirk's assassination, according to France 24."
+  },
+  {
+   "id": "the voice behind wpbf 25 news featured in grand theft auto vi",
+   "title": "The voice behind WPBF 25 News featured in 'Grand Theft Auto VI'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPakVNeDVyRGFsTmRFWmlsWmlodkdwQl9FcmF0M1VGMDQzeHVrdkxwMHNDZGVCWlVLLXNDU1FjdWV3YTBPWldLTmdUM1RsajZSOEVQc1RhMmk4VlVKUHlGa2F6TllzdGhQQ3ZlUHp3RncwT1N0NmJPSWF5QWFJZkg4SzI4YUNEM29HaGdBMktTNWQ2bnFXRmx2Zmo0anBYMkg2?oc=5",
+   "outlet": "WPBF",
+   "via": "Google News",
+   "published": "2026-11-25T20:37:00+00:00",
+   "seen": "2026-11-25T20:44:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes the voice behind WPBF 25 News is featured in Grand Theft Auto VI."
+  },
   {
    "id": "here s how to find rick ross mansion in grand theft auto vi",
    "title": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’",
