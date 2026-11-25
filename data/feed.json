@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T11:06:17+00:00",
- "started": "2026-11-25T11:06:11+00:00",
+ "updated": "2026-11-25T11:11:21+00:00",
+ "started": "2026-11-25T11:11:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T11:06:12+00:00"
+   "checked": "2026-11-25T11:11:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
-   "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 42,
-   "checked": "2026-11-25T11:06:12+00:00"
-  },
-  "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": false,
    "error": "HTTP Error 429: Too Many Requests",
    "hits": 0,
-   "checked": "2026-11-25T11:06:12+00:00"
+   "checked": "2026-11-25T11:11:16+00:00"
+  },
+  "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
+   "name": "Google News",
+   "ok": true,
+   "error": "",
+   "hits": 72,
+   "checked": "2026-11-25T11:11:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:06:13+00:00"
+   "checked": "2026-11-25T11:11:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T11:06:13+00:00"
+   "checked": "2026-11-25T11:11:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T11:06:13+00:00"
+   "checked": "2026-11-25T11:11:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T11:06:13+00:00"
+   "checked": "2026-11-25T11:11:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 16,
-   "checked": "2026-11-25T11:06:13+00:00"
+   "hits": 15,
+   "checked": "2026-11-25T11:11:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-25T11:06:13+00:00"
+   "checked": "2026-11-25T11:11:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:06:14+00:00"
+   "checked": "2026-11-25T11:11:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:06:14+00:00"
+   "checked": "2026-11-25T11:11:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T11:06:14+00:00"
+   "checked": "2026-11-25T11:11:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T11:06:14+00:00"
+   "checked": "2026-11-25T11:11:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T11:06:15+00:00"
+   "checked": "2026-11-25T11:11:19+00:00"
   }
  },
  "items": [
@@ -311,6 +311,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The piece argues GTA 6 is already hailed as the greatest video game of all time."
+  },
+  {
+   "id": "gta 6 the best cars and where to find them",
+   "title": "GTA 6: The Best Cars and Where to Find Them",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZktXRlV3eGxYdm9Hb3dRTEdIaUZkbHFiSEVSbnlXVHkwYVZVYVJ5M3l4TWZCN1RqTlotOExSYlRCREtFTW9kY0V6dGZzbm8tMmJIMUFpR3JZR2R1X1dvbk9RYXZiVzVhNVdkQzJjeXB0OVU5RjRhQk5MbEtDdFhkalJ6RXdhU1N2MWhZZ3RPX1dua2IzdFRBdkF6WXBoOFpBZXFmQlprSWNmc0NMLUswMlViQUcxS3Jv?oc=5",
+   "outlet": "Sortir à Paris",
+   "via": "Google News",
+   "published": "2026-11-25T10:36:07+00:00",
+   "seen": "2026-11-25T11:11:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states the best cars and where to find them in GTA 6."
   },
   {
    "id": "take two hits gta 6 pc port leonida with dmca taking down 3 007 github repos",
@@ -675,6 +688,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Aaj Shanibar And GTA 6!"
+  },
+  {
+   "id": "gta 6 launch triggers 15 5 drop in pornhub traffic in the us",
+   "title": "GTA 6 Launch Triggers 15.5% Drop in Pornhub Traffic in the US",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDV3eDNzaWM1UTBjWEhHQnJfN3JCSEx4OEJTcm5hakkxWHp1U2Zpc1pHUl84UHdpQllXVnhTeEFDYkdOQTljMUdlRXRocVR5RVJUQkRCOVV4cmh1a1oxYzFab1cxRDh5R2MtRjQ2M3Bta2tkamRiQWVHbEJOY2NXbGd6MWo2bjU5TjFGTXU3anJ4S0ZFN3FUNjJqVEtqZ9IBqwFBVV95cUxQYThYbXJPVmFJNi1PREkyUUJmTXB2SkVKdnk3bUhiM29FUFd0YVoxcmd3NzZQUXhSVXl2aWw5bFpDdUNDaHVlcUlKeWoza2NXbWkyOU93QVRoUGp6M21fMFNWTlhUTGI5ZTdtMzZ6MTJ2bTBRMDMtUGJRWkVmaGJVV1BCSkpFZVc4Uk5xMnpyZkRRM2hFZmVTelJhV0tOSHMtUEVlM0R6T3A3WlU?oc=5",
+   "outlet": "Analytics Insight",
+   "via": "Google News",
+   "published": "2026-11-25T09:30:00+00:00",
+   "seen": "2026-11-25T11:11:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a launch-related drop in Pornhub traffic in the US."
   },
   {
    "id": "gta 6 help kirk find mr mangrove kirk advanced skunk apeonomics walkthrough",
