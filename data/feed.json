@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T15:27:59+00:00",
- "started": "2026-11-25T15:27:52+00:00",
+ "updated": "2026-11-25T15:33:02+00:00",
+ "started": "2026-11-25T15:32:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T15:27:53+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T15:32:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-25T15:27:53+00:00"
+   "hits": 43,
+   "checked": "2026-11-25T15:32:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-25T15:27:54+00:00"
+   "hits": 73,
+   "checked": "2026-11-25T15:32:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-25T15:27:54+00:00"
+   "hits": 8,
+   "checked": "2026-11-25T15:32:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T15:27:54+00:00"
+   "checked": "2026-11-25T15:32:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-25T15:27:54+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T15:32:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T15:27:55+00:00"
+   "checked": "2026-11-25T15:32:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T15:27:55+00:00"
+   "checked": "2026-11-25T15:32:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T15:27:55+00:00"
+   "checked": "2026-11-25T15:32:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T15:27:56+00:00"
+   "checked": "2026-11-25T15:32:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-25T15:27:56+00:00"
+   "hits": 8,
+   "checked": "2026-11-25T15:32:58+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T15:27:56+00:00"
+   "checked": "2026-11-25T15:32:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T15:27:57+00:00"
+   "checked": "2026-11-25T15:32:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T15:27:57+00:00"
+   "checked": "2026-11-25T15:32:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "feature seven improvements we d still love to see in gta 6",
+   "title": "Feature: Seven Improvements We'd Still Love To See In GTA 6",
+   "link": "https://www.purexbox.com/features/seven-improvements-wed-still-love-to-see-in-gta-6",
+   "outlet": "Pure Xbox",
+   "via": "Pure Xbox",
+   "published": "2026-11-25T15:30:00+00:00",
+   "seen": "2026-11-25T15:32:58+00:00",
+   "summary": "Grander Theft Auto. There's no two ways about it: GTA VI is a blummin' brilliant game, well worthy of its universally acclaimed 99 Metacritic score. But just because we gave it a 10/10 here at Pure Xbox doesn't mean there isn't still some wiggle room for improvement. Both Fraser and I have put many hours into this enormous RPG already, and have come away floored by its grandeur. However, we've als",
+   "topic": "Reviews",
+   "record": false,
+   "ai_summary": "The story discusses seven improvements the authors would still like to see in GTA 6."
+  },
+  {
+   "id": "the outrage over jason buying lucia flowers is gta 6 s dumbest controversy",
+   "title": "The Outrage Over Jason Buying Lucia Flowers Is GTA 6's Dumbest Controversy",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEI1TkVEQVhLX0hreEJHYjlwNU1RcUQxZFB5OFNIdG9fejV3TGw0Z2p3bUJTSkwzYzQwX3lQMWktd1VpdkpvZ2JZdlNiT3hHUXdNbHgxNF9WMTlCVnhCZXhQSkF6ODhGRWQyckwxd29oZHczWWg2d2pueG12czNPMkE1dmx3ZTF4b3dIZnNtb2FmdHlGemg2czMwbjRPTDRWaEdfcg?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T15:27:22+00:00",
+   "seen": "2026-11-25T15:32:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece labels Jason buying Lucia flowers as GTA 6's dumbest controversy and an outcry."
+  },
+  {
+   "id": "gta 6 playstation record 39m players 683m hours",
+   "title": "GTA 6 PlayStation Record: 39M Players, 683M Hours",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmVoWXJRQkI4UjctUkpFVmJZYXdkaWNnNW1EUjFoNmpfWXh5UjQtYmVxNC03VmFFU3c5ZXVNTEJNU2QxWWZzdVcxVUJxa2FTSUYySEEwYmZ0TDdOcWhqVkhrSjUtdEVoc0JMV0pTMU1wdmlKOEFjT1JWUjY0UlRLX1N3dkRuVFJKa185Qnp1OWVDaUdHYU5FVlR3?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-25T15:26:28+00:00",
+   "seen": "2026-11-25T15:32:53+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "GTA 6 PlayStation record: 39M players and 683M hours reported."
+  },
   {
    "id": "gta 6 hacker sentenced to seven years walks free the same day after rockstar games leak",
    "title": "GTA 6 hacker sentenced to seven years, walks free the same day after Rockstar Games leak",
@@ -116,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a GTA 6 hacker being sentenced to seven years and walking free the same day after a Rockstar Games leak."
+  },
+  {
+   "id": "gta 6 10 things you shouldn t miss in chapter 1",
+   "title": "GTA 6: 10 Things You Shouldn’t Miss in Chapter 1",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WRl92SGgyR0FwbU1rdWpXbWdhSy1hUF9pQTlKalZKN25xLWJQUmVQRWZTaTh1N3I2RWRmbTUzVlJVa01DeFV2RzZjUlVpMU05SHVzUmhCb1FXOTNzVUZhQVJLenAwM29NczJHV1JSWVpraUxU?oc=5",
+   "outlet": "PlayDayOne",
+   "via": "Google News",
+   "published": "2026-11-25T15:20:05+00:00",
+   "seen": "2026-11-25T15:32:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 Chapter 1 highlights include ten things not to miss."
   },
   {
    "id": "gta 6 recompilers and vibe coders implore ai chatbots to work faster and make no mistakes as they race to get the game running on pc",
@@ -246,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story lists 19 hidden controller inputs that help navigate Leonida."
+  },
+  {
+   "id": "we got gta vi before elder scrolls vi what s up with bethesda",
+   "title": "We Got GTA VI Before Elder Scrolls VI: What’s up With Bethesda?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlh0TXRRTmdZRTFwWVFibHhVQXctQ1pOLUNRZmpKSGdzQVhLelJpN21KMzlSekpfTy1oZkZsLWM3bmRpMWM5Q1RSdTZGdHYxMkh0RllPd1RkbkRCZENyMEEyNDV2SHRqbHdTb25CbTNnNUVaWnBrQnRrY2ZVaDdKbkZHSGk5VlB1V3NUZXRsa3hYWTM2b05TcldrM1Q3SDVaeFFtSmhwYnVrZw?oc=5",
+   "outlet": "Her Campus",
+   "via": "Google News",
+   "published": "2026-11-25T15:00:00+00:00",
+   "seen": "2026-11-25T15:32:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Discussion compares GTA VI and Elder Scrolls VI, noting we got GTA VI before Elder Scrolls VI and asking what's up with Bethesda."
   },
   {
    "id": "gta 6 sets record in spain for biggest retail launch",
