@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T23:25:46+00:00",
- "started": "2026-11-25T23:25:41+00:00",
+ "updated": "2026-11-25T23:30:44+00:00",
+ "started": "2026-11-25T23:30:39+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-25T23:25:42+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T23:30:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-25T23:25:42+00:00"
+   "checked": "2026-11-25T23:30:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-25T23:25:42+00:00"
+   "hits": 73,
+   "checked": "2026-11-25T23:30:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-25T23:25:42+00:00"
+   "hits": 3,
+   "checked": "2026-11-25T23:30:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T23:25:43+00:00"
+   "checked": "2026-11-25T23:30:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T23:25:43+00:00"
+   "checked": "2026-11-25T23:30:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T23:25:43+00:00"
+   "checked": "2026-11-25T23:30:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T23:25:43+00:00"
+   "checked": "2026-11-25T23:30:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:25:43+00:00"
+   "checked": "2026-11-25T23:30:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T23:25:44+00:00"
+   "checked": "2026-11-25T23:30:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T23:25:44+00:00"
+   "checked": "2026-11-25T23:30:42+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T23:25:44+00:00"
+   "checked": "2026-11-25T23:30:42+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:25:44+00:00"
+   "checked": "2026-11-25T23:30:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T23:25:44+00:00"
+   "checked": "2026-11-25T23:30:42+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Spotify reveals Carly Rae Jepsen's GTA 6 song has blown up within the last week."
+  },
+  {
+   "id": "spotify reveals massive spike in streams for music featured in gta 6",
+   "title": "Spotify Reveals Massive Spike in Streams for Music Featured in GTA 6",
+   "link": "https://www.ign.com/articles/spotify-reveals-massive-spike-in-streams-for-music-featured-in-gta-6",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-25T23:19:11+00:00",
+   "seen": "2026-11-25T23:30:40+00:00",
+   "summary": "Spotify has released new data that shows huge spikes in streams for music featured in GTA 6, including a Carly Rae Jepsen song from over a decade ago.",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "Spotify reports large spikes in streams for music featured in GTA 6, including a Carly Rae Jepsen song."
   },
   {
    "id": "rockstar is handing out 100 of these gorgeous limited edition gta 6 ps5 consoles and you can t buy one",
@@ -5147,6 +5160,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6 asks if you can cook fish."
+  },
+  {
+   "id": "where to find status auto imports in gta 6 luxury and exotic supercar dealership location",
+   "title": "Where to find Status Auto Imports in GTA 6 (luxury and exotic supercar dealership location)",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkJsYjB4c0g0bEJCdHhjcUdkQ2t1UXZPaHNkdEg2ZE1VSjN1blRHOWo5MmswYjlFYlBrNnpqTEI2NXVwQmVuVFpGeURPdDJfczB0WV80NTBuZ0wwYlZFY1NDMG5sRGpYVFcwRXA4ZjlSZmRGOElfZlNkQ19UcUlLWVJiZGNOSkRsbkxsTWZ6S1c2QXgwRzBVMUI3akJsNk1EelNwcHBNaXRSTm9NUkwyTA?oc=5",
+   "outlet": "Sportskeeda",
+   "via": "Google News",
+   "published": "2026-11-25T11:20:00+00:00",
+   "seen": "2026-11-25T23:30:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains where to find Status Auto Imports in GTA 6, covering luxury and exotic supercar dealership locations."
   },
   {
    "id": "gta 6 or an anthropic share you can get both for about 80",
