@@ -1,109 +1,174 @@
 {
- "updated": "2026-11-25T16:23:54+00:00",
- "started": "2026-11-25T16:23:21+00:00",
+ "updated": "2026-11-25T16:28:25+00:00",
+ "started": "2026-11-25T16:28:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-25T16:23:29+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-25T16:28:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-25T16:23:38+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 44,
+   "checked": "2026-11-25T16:28:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-25T16:23:46+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 75,
+   "checked": "2026-11-25T16:28:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T16:23:47+00:00"
+   "checked": "2026-11-25T16:28:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T16:23:47+00:00"
+   "checked": "2026-11-25T16:28:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T16:23:47+00:00"
+   "checked": "2026-11-25T16:28:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T16:23:48+00:00"
+   "checked": "2026-11-25T16:28:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T16:23:48+00:00"
+   "checked": "2026-11-25T16:28:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T16:23:48+00:00"
+   "checked": "2026-11-25T16:28:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-25T16:23:53+00:00"
+   "checked": "2026-11-25T16:28:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T16:23:54+00:00"
+   "checked": "2026-11-25T16:28:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T16:23:54+00:00"
+   "checked": "2026-11-25T16:28:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T16:23:54+00:00"
+   "checked": "2026-11-25T16:28:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T16:23:54+00:00"
+   "checked": "2026-11-25T16:28:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 drives record ps5 activity with 39 million players",
+   "title": "GTA 6 drives record PS5 activity with 39 million players",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOenF3MFRuR3dWWm1OZjZqZ1JlQ19XdU9ZTGRHMWhzRVdNSm5hcUxYRFpUSWNJX0l2N3EtRHdJS254cTNmdHRXc3A1cHJiZjRmTWlwbGs0RThIWlQ0aXFoOWdZNWxjdXhtLUxhQmhyWnBValphUWVjUkZNNWpONlRFU2JyQjh5QQ?oc=5",
+   "outlet": "Pkrevenue.com",
+   "via": "Google News",
+   "published": "2026-11-25T16:27:11+00:00",
+   "seen": "2026-11-25T16:28:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 drives record PS5 activity with 39 million players, according to the headline."
+  },
+  {
+   "id": "can gta 6 run on nintendo switch 2 experts discuss a possible port and the sacrifices rockstar would have to make",
+   "title": "Can GTA 6 Run on Nintendo Switch 2? Experts Discuss a Possible Port and the Sacrifices Rockstar Would Have to Make",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOHU4dEF2Y1Q4Z3JCMTdKd19ZZW90eExoaE9WUzdDenJfaXlXamN6ZThxUGFIVVIzQWVHNVVGM1dpN2pmdWJ4NE1kVVdMT2tIeE1fbjFHM3ZZMi1SOFVPVzZFcTlQdm1WQWt3ZUE3ek1qWWRROHFYMUdQVzc4emEzbjJHUUZtTndlcGdxLWZVRk9FSEVpOTJRX08xclI1VWY2dEdxUUhjUHVVZTFKamVsQUN6VnMwbkNwWG9TZU45V3NmYmFIdFl3UkFydnN2eTNYeWVGUzEySkpkQlZ5RVZJ?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-25T16:21:04+00:00",
+   "seen": "2026-11-25T16:28:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Experts discuss whether GTA 6 can run on Nintendo Switch 2 and potential port sacrifices."
+  },
+  {
+   "id": "you can now officially play gta 6 without a playstation 5 but you must meet these requirements to enjoy rockstar s new game without the cons",
+   "title": "You Can Now Officially Play GTA 6 Without a PlayStation 5, but You Must Meet These Requirements to Enjoy Rockstar’s New Game Without the Console",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcU9Yc19YT3hZdU92clBuQnZuaG1rb1R3WnlxMG1ENzJHWnBQRC00ekp3SVZ5ZnpNYldHbVdtMHFWcUVvc25fU1BjUGw0ZlljQ0sxNmtsNzQ1RTdpRHdpQzVVc0NVMjkwWTV1ZFczd0pVamNpWGNscmZXSmkwaWFIcTV3cWRHUnJfUmN5endYMTZUMVhNTUh5MFNSSGsydnVVa1pPalZrdVdDdktXeEs3NF92d2E2aUw3Q2RfQUJfSUpOTHdlRmlZS1A3M0NIS2lzcGJqbTMzd01tS3M0SHd5R0Q5Szg4TzJSSVdJUzI2WjJxczBSQzF0SUxWUVlxVTZwTFlGVVJR?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-25T16:20:57+00:00",
+   "seen": "2026-11-25T16:28:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "You can play GTA 6 without a PlayStation 5, if you meet certain requirements."
+  },
+  {
+   "id": "gta 6 has at least 9 distinct endings",
+   "title": "‘GTA 6’ Has At Least 9 Distinct Endings",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZUs2anZGdkhTYThGVk1BejROaTJ4MXpLSGJ1WjdPS18wV2Q1R2xIMnQwM2NqdkJzSnpVbk8xZlluLW1LazFodHlKeFRWNkpEM1B4UjRNYXlGTG9BRVpheFFReVBnalp4LVFQOTlHd1dDOXZJdkVtWlV3U0tsU2dNTkwzSkJSSjFPT0U0?oc=5",
+   "outlet": "Variety",
+   "via": "Google News",
+   "published": "2026-11-25T16:19:00+00:00",
+   "seen": "2026-11-25T16:28:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 reportedly has at least nine distinct endings."
+  },
+  {
+   "id": "gta 6 theme song who performs the opening track",
+   "title": "GTA 6 theme song: Who performs the opening track?",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcGJiUkgtTjZSejBiaUN4alg1ZjN4T2RoRFJlUURGMVdaTVAxS2FQWEwxU0k1cjlzN09pa3M5ZXQzcDFPVWt5eTJ2aXpHTGRkTDRobTZNalVIdDJPLVo1MzlKeE45YWlCSUtseTdzRUlEV1NUUHQ0OWxTWThGRkRGcEJSV190RGt2WkE?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-25T16:16:46+00:00",
+   "seen": "2026-11-25T16:28:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The opening theme song of GTA 6 is identified by the outlet."
+  },
   {
    "id": "how to use a parachute in gta 6",
    "title": "How to Use a Parachute in GTA 6",
@@ -116,6 +181,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to use a parachute in GTA 6."
+  },
+  {
+   "id": "where to find auntie s place and get vanessa s growler in gta 6",
+   "title": "Where to find Auntie's Place and get Vanessa's Growler in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnZVZTFsVEdBZldndmNEb2lFck1WXzNYdXhwTWFOdjFkTG1NLVBnaS1RYjJ1UkVkWkx0dEtFeG5CMG84SllfN0VLQjRfX2pZWDh6VTlOQ2VFbDBFcE5PaXhsaWpoZy00TWV5YXd3bFRDQ2p2VFlaMXNfQTBvemE4UC02Ulo?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-25T16:10:50+00:00",
+   "seen": "2026-11-25T16:28:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Locations include Auntie's Place and Vanessa's Growler in GTA 6."
+  },
+  {
+   "id": "here s how to steal the pegassi infernus for randy in gta 6",
+   "title": "Here's how to steal the Pegassi Infernus for Randy in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaXUwQll6cjJ0SFdWU21valVhWUVDRmlpWmZvZ3FhYTFra0dYR25QZUNON2l3eER5ZFZsNWpJZW9EblRpeGRCell5VG5jaWVER3R1WFFxUHl5TTVlUjhjS3dmd1duZWpDTnpzRzJzdjlfWHVzekR6b0V3QVNiVzU1RVNKNWFGUQ?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-25T16:10:20+00:00",
+   "seen": "2026-11-25T16:28:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Instructions on how to steal the Pegassi Infernus for Randy in GTA 6."
   },
   {
    "id": "gta 6 black friday deals save up to 25 at shopto on ps5 and xbox",
@@ -181,6 +272,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article lists what you should do before the final mission of Chapter 2 in GTA 6."
+  },
+  {
+   "id": "gta 6 can you go boxing",
+   "title": "GTA 6: Can You Go Boxing?",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3VmdSNmk1Xy1wV0FRV3ZHSkc4ckdvY2NjUDRPSkE1YTFHZVJ1bGV2ZmQ4WFdCQnB6UmN6SDBjOTdnUVM1MlppYjd0eGpyME4yWXdpVQ?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-25T16:00:11+00:00",
+   "seen": "2026-11-25T16:28:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 includes boxing gameplay or modes."
   },
   {
    "id": "gta vi pc gameplay reportedly leaked performance stats suggest the game is running on a pc the leaker claims development is nearly finished ",
@@ -389,6 +493,32 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses market drama involving Jensen, GTA VI, and the Thanksgiving Box Office."
+  },
+  {
+   "id": "gta 6 generates 3 8bn in first day sales sets entertainment launch record",
+   "title": "GTA 6 generates $3.8bn in first-day sales, sets entertainment launch record",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkd4eEtmd0xfYm9zZW4zdmtlTUs2VmMyWkE4VG5mNENHYU9TSlRBU1pZS2dURHY1cnIyVHFtcmhnMm5nSTRxN3hFZGgtVnhFc2NES29sUS0tZ3BTMWNIX2Z1NmlGWWdLTTNZODFEMVBmSFBBRTBSLVZHVHVzWmU3VnBLeXNXXzJlelA0RXNrMzBSNFlVcTlCSjNn0gGaAUFVX3lxTE5SR3h4S2Z3TF9ib3NlbjN2a2VNSzZWYzJaQThUbmY0Q0dhT1NKVEFTWllLZ1REdjVycjJUcW1yaGcybmdJNHE3eEVkaC1WeEVzY0RLb2xRLS1ncFMxY0hfZnU2aUZZZ0tNM1k4MUQxUGZIUEFFMFItVkdUdXNaZTdWcEt5c1dfMmV6UDRFc2szMFI0WVVxOUJKM2c?oc=5",
+   "outlet": "Dhaka Tribune",
+   "via": "Google News",
+   "published": "2026-11-25T15:32:48+00:00",
+   "seen": "2026-11-25T16:28:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "GTA 6 generates a large first-day sales figure and sets an entertainment launch record."
+  },
+  {
+   "id": "save 600 on the xgimi horizon 30 pro this black friday so you can play gta 6 in style",
+   "title": "Save $600 On The XGIMI HORIZON 30 Pro This Black Friday So You Can Play GTA 6 In Style",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVh4X0F0RVU1bjhmRjBjai14WWRVa2lZSnhJTDdpMVNwbkJyZGdIZVBvZTBtSHA4eWZGY1pwX0o4VTlEMXRHQW8zZjhRd255UlBMWmhxSGZfdDdCc0JVcGxXOWw0RkhLck82MXJrMXpvZXhPWnFKbDNWQ2ZpY0NFa3pzcTJBNkxV?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-25T15:32:47+00:00",
+   "seen": "2026-11-25T16:28:17+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Black Friday deal for an XGIMI Horizon 30 Pro to play GTA 6."
   },
   {
    "id": "gta 6 there are a few very good reasons to go back to jason s house after chapter 1",
