@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T20:29:49+00:00",
- "started": "2026-11-25T20:29:43+00:00",
+ "updated": "2026-11-25T20:34:55+00:00",
+ "started": "2026-11-25T20:34:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-25T20:29:44+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T20:34:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-25T20:29:44+00:00"
+   "checked": "2026-11-25T20:34:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-25T20:29:44+00:00"
+   "hits": 65,
+   "checked": "2026-11-25T20:34:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-25T20:29:45+00:00"
+   "hits": 5,
+   "checked": "2026-11-25T20:34:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T20:29:45+00:00"
+   "checked": "2026-11-25T20:34:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T20:29:45+00:00"
+   "checked": "2026-11-25T20:34:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T20:29:45+00:00"
+   "checked": "2026-11-25T20:34:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T20:29:45+00:00"
+   "checked": "2026-11-25T20:34:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T20:29:45+00:00"
+   "checked": "2026-11-25T20:34:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T20:29:46+00:00"
+   "checked": "2026-11-25T20:34:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T20:29:46+00:00"
+   "checked": "2026-11-25T20:34:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T20:29:46+00:00"
+   "checked": "2026-11-25T20:34:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T20:29:46+00:00"
+   "checked": "2026-11-25T20:34:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T20:29:46+00:00"
+   "checked": "2026-11-25T20:34:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "here s how to find rick ross mansion in grand theft auto vi",
+   "title": "Here’s How to Find Rick Ross’ Mansion in ‘Grand Theft Auto VI’",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGtzQmt4ZWZ3aEZMR0lUNVBKd3o5ZmViY2M5UUxYY0QtQWFXSEZJOXBBel9MLVhIUHN1YnVZeDZkeUtRM2NtRUFSeDV2Y0U2UWZCdjlIRFBDSEpKajFheVc2MDQxT2JpZXJiWnpWR2pnTXNicTNyVklyZkZCUlJNUThOZlo3dERuYkx2LXphdkRhQTl6VVdEdUt5TVdMV2JnLWlF?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-25T20:31:33+00:00",
+   "seen": "2026-11-25T20:34:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports guidance on locating Rick Ross’s mansion in Grand Theft Auto VI."
+  },
   {
    "id": "cincinnati native lends his voice to grand theft auto vi",
    "title": "Cincinnati native lends his voice to ‘Grand Theft Auto VI’",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece speculates that GTA VI could bring Carly Rae Jepsen into a late in life gamer role."
+  },
+  {
+   "id": "breaking up over gta vi thanksgiving sports etiquette maction big man fumbles valenti show",
+   "title": "Breaking Up Over GTA VI?! + Thanksgiving Sports Etiquette, MACtion \"Big Man\" Fumbles | Valenti Show",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSmo3Zl8xUERlSXhNZUppa1JEbGVxNUJmb0lTMXV2UURmMzY3Z1p1WUR0R0tDX21yMzY0eUtzV0czdmYxT1RxZlM4VVJKMjkwMVlNRWxQNjFTMnlSczZWWUtnTUloRnR1Vmc5b2lsalY3dE9NdjMtSXRkS01MZGotTGdVR1ZOYVB2S0dYSG5wNkV2cnMxbnhVV2NEVlpjTVY0TDUzZmhNU2RTYUt4OXZWY28xblJCdndSQmV6UTZlamtqMkJHUHNtbDg0UVBpZV9xbzNfSWFPRQ?oc=5",
+   "outlet": "Audacy",
+   "via": "Google News",
+   "published": "2026-11-25T20:17:19+00:00",
+   "seen": "2026-11-25T20:34:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a segment about a breakup over GTA VI and Thanksgiving sports etiquette from the Valenti Show."
   },
   {
    "id": "gta vi leaker released from prison by sympathetic london judge",
@@ -170,6 +196,19 @@
    "ai_summary": "The story reports that the GTA 6 developer explains why there is no way to replay missions and that this decision conflicts with the narrative."
   },
   {
+   "id": "gta 6 doesn t let you replay missions and rockstar says there s a good reason for that",
+   "title": "GTA 6 Doesn't Let You Replay Missions, and Rockstar Says There's a Good Reason for That",
+   "link": "https://www.ign.com/articles/gta-6-doesnt-let-you-replay-missions-and-rockstar-says-theres-a-good-reason-for-that",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-25T20:12:21+00:00",
+   "seen": "2026-11-25T20:34:50+00:00",
+   "summary": "GTA 6 gives players a lot of freedom in how the story and quests play out, but it came at the cost of letting players replay missions, according to Rockstar.",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 does not let players replay missions, with Rockstar explaining a good reason for that."
+  },
+  {
    "id": "review is gta vi actually woke",
    "title": "Review: Is ‘GTA VI’ Actually Woke?",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wTlRiUFdyRHgzNml6RTA3V3lnVndweUxaX3d1ZF90VWEycjhMRzZDRjJvQ3NJd0p6ZVVyUDZqd1RtQkVlZ2czUWdEeXBNUXVqLUF5bzBydHZOdkk5MkQwN2lEc25WdjZHMzlmaFVn?oc=5",
@@ -181,6 +220,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "A review questions whether GTA VI is actually woke."
+  },
+  {
+   "id": "the developers of the portheon project announced a fully playable build of gta 6 on pc at 30 fps",
+   "title": "The developers of the Portheon project announced a fully playable build of GTA 6 on PC at 30 FPS.",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRjM0d2tSdXg5LUNsTlozRTJBZF9aLWQ1WnZTUmhROXF2NEZwWEVuaU1Gc0QwRVk3SEFKSE9POWpWaHUyb2dHUHBhZUxYS29HVWhKNlR0VmNsOW5OQ1ZCcnItWWpnemNLTGY3LUkzc19Za1FXU3NXV3VaTk9kWXIyMnRSMk9CQUJpV1NqVU16VVp6QWdDOS1HQWhyckZwNWREcUZKLXFHWC1XWnVEamFGN3pfRVdfSFdGMEE?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-25T20:08:28+00:00",
+   "seen": "2026-11-25T20:34:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a fully playable PC build of GTA 6 at 30 FPS was announced by the Portheon project developers."
   },
   {
    "id": "gta 6 rewards empathy because being a demigod stomping through the world is only fun for so long",
