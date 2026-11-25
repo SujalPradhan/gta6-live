@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T14:12:30+00:00",
- "started": "2026-11-25T14:12:24+00:00",
+ "updated": "2026-11-25T14:17:38+00:00",
+ "started": "2026-11-25T14:17:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-25T14:12:25+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T14:17:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-25T14:12:25+00:00"
+   "hits": 46,
+   "checked": "2026-11-25T14:17:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 80,
-   "checked": "2026-11-25T14:12:26+00:00"
+   "hits": 77,
+   "checked": "2026-11-25T14:17:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T14:12:26+00:00"
+   "checked": "2026-11-25T14:17:34+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T14:12:26+00:00"
+   "checked": "2026-11-25T14:17:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T14:12:26+00:00"
+   "checked": "2026-11-25T14:17:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T14:12:27+00:00"
+   "checked": "2026-11-25T14:17:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T14:12:27+00:00"
+   "checked": "2026-11-25T14:17:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:12:27+00:00"
+   "checked": "2026-11-25T14:17:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T14:12:27+00:00"
+   "checked": "2026-11-25T14:17:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:12:28+00:00"
+   "checked": "2026-11-25T14:17:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T14:12:28+00:00"
+   "checked": "2026-11-25T14:17:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T14:12:28+00:00"
+   "checked": "2026-11-25T14:17:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T14:12:28+00:00"
+   "checked": "2026-11-25T14:17:35+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that the user has a much better time in GTA 6 after disabling its invasive Criminal Profile pings."
+  },
+  {
+   "id": "gta 6 hides a rolls royce range rover and lamborghini lookalike in one starfish island mansion",
+   "title": "GTA 6 Hides A Rolls-Royce, Range Rover, And Lamborghini Lookalike In One Starfish Island Mansion",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiN1BiQ25sLWp6c1F6bHR4dHdNSzQ4ay1mMjVINjVDbE9jQVhpc3gyYmx3VV9FWmtNMElDWVRkblFwZi1tcmFzcjdDT09FN1NUWm9IVDk1ZFpqSE9OV283WER6aHpXUG40SGdGQVNOMHc?oc=5",
+   "outlet": "HotCars",
+   "via": "Google News",
+   "published": "2026-11-25T14:05:15+00:00",
+   "seen": "2026-11-25T14:17:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 hides a Rolls-Royce, Range Rover, and Lamborghini lookalike in one Starfish Island mansion."
   },
   {
    "id": "be thankful for gta 6 and zelda ocarina of time",
@@ -298,6 +311,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports about a Cincinnati voice actor featured in GTA 6."
+  },
+  {
+   "id": "gta 6 features a cincinnati native who wants to put the queen city on the voice acting map",
+   "title": "GTA 6 features a Cincinnati native who wants to put the Queen City on the voice acting map",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11SzNHSHVaNVVhTklhZTV5NmVCMVdraGJlNmlCQjdHQkRiV1ZaX29yWXdKSWdzS1poWkxZRm1za20xMmdXalJ0SDRZTmN3VFB6dVQxdjVmWXRCMVlfdGdqUVBDaFhockxQT09Ba25WWUc0UQ?oc=5",
+   "outlet": "Cincinnati CityBeat",
+   "via": "Google News",
+   "published": "2026-11-25T13:40:32+00:00",
+   "seen": "2026-11-25T14:17:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 features a Cincinnati native who wants to put the Queen City on the voice acting map."
   },
   {
    "id": "i can t stop watching gta 6 s fake tv",
