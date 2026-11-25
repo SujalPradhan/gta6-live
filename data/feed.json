@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T14:37:45+00:00",
- "started": "2026-11-25T14:37:37+00:00",
+ "updated": "2026-11-25T14:42:43+00:00",
+ "started": "2026-11-25T14:42:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-25T14:37:38+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T14:42:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-25T14:37:38+00:00"
+   "checked": "2026-11-25T14:42:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-25T14:37:39+00:00"
+   "hits": 61,
+   "checked": "2026-11-25T14:42:36+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T14:37:39+00:00"
+   "checked": "2026-11-25T14:42:36+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T14:37:39+00:00"
+   "checked": "2026-11-25T14:42:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T14:37:39+00:00"
+   "checked": "2026-11-25T14:42:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T14:37:40+00:00"
+   "checked": "2026-11-25T14:42:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-25T14:37:40+00:00"
+   "hits": 15,
+   "checked": "2026-11-25T14:42:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T14:37:40+00:00"
+   "checked": "2026-11-25T14:42:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T14:37:41+00:00"
+   "checked": "2026-11-25T14:42:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:37:41+00:00"
+   "checked": "2026-11-25T14:42:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T14:37:41+00:00"
+   "checked": "2026-11-25T14:42:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T14:37:41+00:00"
+   "checked": "2026-11-25T14:42:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T14:37:42+00:00"
+   "checked": "2026-11-25T14:42:39+00:00"
   }
  },
  "items": [
+  {
+   "id": "illegal gta 6 pc port now has 3d models rendering shadows and physics making incredibly fast progress",
+   "title": "Illegal GTA 6 PC port now has 3D models, rendering, shadows and physics, making incredibly fast progress",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPNWVhOVZvdVhOblpsbjFyaS16VHJ3cEFWdEVhYnV1eWlXT0RXMUQxRG90QWlwbWVyRkxYVnhzS09HdmNvSkhBcElicjJpejNvcl9lOFFjVmkyRWRJT1dSbXROLWtLMXFNMnlmRHc4RFgwNDJSSGl3MjBtaENYSW55cHRBNF9laTM4eHlJSy1OODgxTWo0VkdBZlpJUjN4c3FIUEhIc3EyRkRuTXBHMWF3MVhCV1lvVElLSk1xS3dBMHV6WHZVN09DOWN4bEZDRmpKOUVQMFZEeVlJdmJzSDVKb2M4Q2IzS0pNX1ZqMUJ1MnZjS0wtWHBFNmVjR3FZdEJwN280WngtWjlHREwzRGRFZTNneDZpRy1QdG15VlExczNZRXpiN1NIaEN3?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-25T14:38:12+00:00",
+   "seen": "2026-11-25T14:42:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that an illegal GTA 6 PC port now has 3D models, rendering, shadows, and physics, showing rapid progress."
+  },
   {
    "id": "where to find grotti dolce vita rsx in gta 6 fastest cars location stats",
    "title": "Where To Find Grotti Dolce Vita RSX In GTA 6—Fastest Cars Location & Stats",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports where to find the Alien Frenchie in GTA 6."
+  },
+  {
+   "id": "f1 star max verstappen played 40 hours of gta 6 before winning las vegas grand prix",
+   "title": "F1 star Max Verstappen played 40 hours of GTA 6 before winning Las Vegas grand prix",
+   "link": "https://www.dexerto.com/gta/f1-star-max-verstappen-played-40-hours-of-gta-6-before-winning-las-vegas-grand-prix-3431275/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-25T14:32:07+00:00",
+   "seen": "2026-11-25T14:42:38+00:00",
+   "summary": "Formula 1 world champion Max Verstappen revealed he played 40 hours of Grand Theft Auto 6 ahead of his win at the Las Vegas Grand Prix.",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Max Verstappen played 40 hours of GTA 6 before winning the Las Vegas Grand Prix."
   },
   {
    "id": "gta 6 causes ps5 consoles to sell out in us before black friday",
@@ -207,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains how to find a reference to Paul Walker's iconic Fast & Furious vehicle in Grand Theft Auto 6."
+  },
+  {
+   "id": "how many buildings can you enter in gta 6",
+   "title": "How Many Buildings Can You Enter in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHRUphaEVCSGRQdllWM2d4bWpGWWxaMmxqb2JBbWZYN1dWT2VYMVZZSmFGbWpUUzNjYnNHTV9tekpRTDdINWV5R1Q3bENLWFdYemwybXlSQjNwdnE3UjNINVRVZ0doZHB1dnhhYUhXdkFCM1lodFY1Tkln?oc=5",
+   "outlet": "PlayDayOne",
+   "via": "Google News",
+   "published": "2026-11-25T14:18:15+00:00",
+   "seen": "2026-11-25T14:42:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story asks how many buildings you can enter in GTA 6."
   },
   {
    "id": "victory fork launched gta 6 on rx 9070 xt ryzen 7 9800x3d at 3 fps and 46 gb of ram consumption",
@@ -820,6 +859,19 @@
    "ai_summary": "The story discusses Take-Two opposing an unofficial GTA 6 PC port project."
   },
   {
+   "id": "gta 6 officially pays tribute to tom cruise s best villain role of all time",
+   "title": "GTA 6 Officially Pays Tribute to Tom Cruise’s Best Villain Role of All Time",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZnRsNjl4NmluQW1FNWRrVnR6Zy1JcVpGT0ZHODlwZnpLNTlGUmljdEJIYnBqWFMwLThrOEVDdzVNd2I4bVdleFctRWVCSVh4ZXdsMFJn?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-25T12:42:36+00:00",
+   "seen": "2026-11-25T14:42:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 officially pays tribute to Tom Cruise’s best villain role of all time."
+  },
+  {
    "id": "players discover over 1 500 individual buildings you can enter in gta 6 nearly 28 of all buildings on the map",
    "title": "Players discover over 1,500 individual buildings you can enter in GTA 6, nearly 28% of all buildings on the map",
    "link": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
@@ -1234,6 +1286,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "GTA 6-related PS5 consoles reportedly catching fire, with multiple streamers experiencing smoking and GPU failures."
+  },
+  {
+   "id": "gta 6 how to find the tommy vercetti easter egg",
+   "title": "GTA 6: How to Find the Tommy Vercetti Easter Egg",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lYXE3LUNuVVpXdHhieEViYlRicmtoNXc4aEJkVXhHRVE5c2hLazctUEtWYmJiUW5kdDcxODh3aS1IMGsyS1YycHYxU0wwc0hmSlFlUFJBbWNMQlIxQlAyM211U01Hem0zNEtaZDhZRWo?oc=5",
+   "outlet": "PlayDayOne",
+   "via": "Google News",
+   "published": "2026-11-25T11:48:02+00:00",
+   "seen": "2026-11-25T14:42:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a guide on finding the Tommy Vercetti Easter egg in GTA 6."
   },
   {
    "id": "gta 6 all criminal profiles explained",
