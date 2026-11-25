@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T10:41:10+00:00",
- "started": "2026-11-25T10:41:03+00:00",
+ "updated": "2026-11-25T10:46:11+00:00",
+ "started": "2026-11-25T10:46:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T10:41:04+00:00"
+   "checked": "2026-11-25T10:46:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-25T10:41:04+00:00"
+   "hits": 54,
+   "checked": "2026-11-25T10:46:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-25T10:41:05+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 72,
+   "checked": "2026-11-25T10:46:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T10:41:05+00:00"
+   "checked": "2026-11-25T10:46:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T10:41:05+00:00"
+   "checked": "2026-11-25T10:46:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T10:41:05+00:00"
+   "checked": "2026-11-25T10:46:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 20,
-   "checked": "2026-11-25T10:41:06+00:00"
+   "hits": 19,
+   "checked": "2026-11-25T10:46:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T10:41:06+00:00"
+   "checked": "2026-11-25T10:46:08+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T10:41:06+00:00"
+   "checked": "2026-11-25T10:46:08+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T10:41:07+00:00"
+   "checked": "2026-11-25T10:46:08+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T10:41:07+00:00"
+   "checked": "2026-11-25T10:46:09+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T10:41:07+00:00"
+   "checked": "2026-11-25T10:46:09+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T10:41:07+00:00"
+   "checked": "2026-11-25T10:46:09+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T10:41:08+00:00"
+   "checked": "2026-11-25T10:46:09+00:00"
   }
  },
  "items": [
+  {
+   "id": "mistakes to avoid in gta 6",
+   "title": "Mistakes to Avoid in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yc1hDclRGUnpvTkhrNlZSa09hUUJnTExoVzRvMW1wVnBvTi1iazJFQlpqVnNfcFpvZ2E4NVZtejM5NnFZUXhPdHBScWxtY2EzU2FNYVJmQnJhS003RXBKMWM1VQ?oc=5",
+   "outlet": "Vocal",
+   "via": "Google News",
+   "published": "2026-11-25T10:44:23+00:00",
+   "seen": "2026-11-25T10:46:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists mistakes to avoid in GTA 6."
+  },
+  {
+   "id": "why gta 6 is already being hailed as the greatest video game of all time",
+   "title": "Why GTA 6 is already being hailed as the greatest video game of all time",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2pvajhiNkxXUzJJVTQtVkY4QmxDWGlsa0tEYlVOREJQZ2RyazZrZHpjd3JjMllTeXZjUWMtcnpQc3RESVAtSXpfbGhmT1VqT1dDdGlUMW9lQkxFRjN2MFVOelZwbGpTUEpad29xSlVubks3NHVmejViS3Y0cEJlNGdscjM2TlJGYnJWTE9HdUZhbS1mUEdNXzkxTk1aTVdxSy1VdWlfcVVEbDFYNVJTbFhjaw?oc=5",
+   "outlet": "IOL",
+   "via": "Google News",
+   "published": "2026-11-25T10:36:44+00:00",
+   "seen": "2026-11-25T10:46:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The piece argues GTA 6 is already hailed as the greatest video game of all time."
+  },
   {
    "id": "take two hits gta 6 pc port leonida with dmca taking down 3 007 github repos",
    "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
@@ -142,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story says GTA 6 confirms what happened to Michael and Jimmy after GTA 5 in a nostalgic easter egg."
+  },
+  {
+   "id": "forget black friday this gta 6 style cooler with twin bluetooth speakers and 10 hours of music playback is all i want for christmas",
+   "title": "Forget Black Friday, this GTA 6-style cooler with twin Bluetooth speakers and 10 hours of music playback is all I want for Christmas",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUNQOGVRMm1VZlhRaXhRcGFzRjVfNjBjR04zeTIyQnF3MlBVMWxHMkxTSVBLdWF5eERxLWxOZWhHQjltYWJEQkJZRUhKQTNIUlRCeEZpQ29lbFJ5Wmg3V2pubUFjVWVicS13RUtUbkNjcEZLRzk0bVFkWDc3U01rRw?oc=5",
+   "outlet": "T3",
+   "via": "Google News",
+   "published": "2026-11-25T10:30:00+00:00",
+   "seen": "2026-11-25T10:46:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article touts a GTA 6-style cooler with twin Bluetooth speakers and long music playback as a Christmas item."
   },
   {
    "id": "gta 6 analysis shows ps5 version suffers substantially more frequent frame rate drops than xbox series x version sparking debate about sony ",
@@ -207,6 +246,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports ten must-know GTA VI tips and tricks to dominate Vice City."
+  },
+  {
+   "id": "gta 6 all the meditation locations to find on the map",
+   "title": "GTA 6: All the meditation locations to find on the map",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeEhZV3c4SFZaRTI5Njh4U25zNjZLOGdwNFU3WktZSFI1SmlwdEktMndHNTZZZ21RLWxIYm9OTnpTZlE1bXVZUWQ0VG91ei1nekJKaWNvcmJ0MXNPQ21tREdWRGFtR1ZwZGtIc0xDM1pDQVp5UG00REk3N3lvRU16V2dVVUM5Nk5Ucmh1MFVsYlUxeGtHd0VKNzFJUmJ3d1drdWFLdVBCMk5ZMkREeG5KS1dDQUppNTJhMG5yam9IZVgzUQ?oc=5",
+   "outlet": "Sortir à Paris",
+   "via": "Google News",
+   "published": "2026-11-25T10:16:31+00:00",
+   "seen": "2026-11-25T10:46:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story provides meditation locations to find on the GTA 6 map."
   },
   {
    "id": "i ve been f ing fooled gta 6 analysis shows ps5 version suffers substantially more frequent frame rate drops than xbox series x version spar",
@@ -2716,6 +2768,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that one NPC discovers the game's biggest secret as an Easter Egg."
+  },
+  {
+   "id": "should you eat or refuse kyle s strawberries in gta 6 hazardous materials",
+   "title": "Should You Eat or Refuse Kyle's Strawberries in GTA 6? (Hazardous Materials)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3hwZEJGUGljamJheVFEQ255Vy16blRkNFJpRVhHVERXSnNNMlhTREpTUWV6YTZNSy1LanJkOUJzc3picTgyeVFTSDdJVXdVbmtLaDBYN2F1bmJRR2FWbVlDREtoRDd4bzFxLUt3dFpfb2F1NzRCbElMdTJIZGZKc3ZjMA?oc=5",
+   "outlet": "GameRant",
+   "via": "Google News",
+   "published": "2026-11-24T21:23:56+00:00",
+   "seen": "2026-11-25T10:46:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article asks whether to eat or refuse Kyle's strawberries in GTA 6, noting hazardous materials."
   },
   {
    "id": "how gta vi serves as a developmental tool for incels",
