@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T11:16:28+00:00",
- "started": "2026-11-25T11:16:23+00:00",
+ "updated": "2026-11-25T11:21:23+00:00",
+ "started": "2026-11-25T11:21:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,140 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T11:16:23+00:00"
+   "checked": "2026-11-25T11:21:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-25T11:16:24+00:00"
+   "hits": 50,
+   "checked": "2026-11-25T11:21:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-25T11:16:24+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 58,
+   "checked": "2026-11-25T11:21:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:16:24+00:00"
+   "checked": "2026-11-25T11:21:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T11:16:24+00:00"
+   "checked": "2026-11-25T11:21:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T11:16:24+00:00"
+   "checked": "2026-11-25T11:21:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T11:16:24+00:00"
+   "checked": "2026-11-25T11:21:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:16:24+00:00"
+   "checked": "2026-11-25T11:21:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-25T11:16:25+00:00"
+   "checked": "2026-11-25T11:21:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:16:25+00:00"
+   "checked": "2026-11-25T11:21:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:16:25+00:00"
+   "checked": "2026-11-25T11:21:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T11:16:25+00:00"
+   "checked": "2026-11-25T11:21:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T11:16:25+00:00"
+   "checked": "2026-11-25T11:21:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T11:16:25+00:00"
+   "checked": "2026-11-25T11:21:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 or an anthropic share you can get both for about 80",
+   "title": "'GTA 6' or an Anthropic share? You can get both for about $80.",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQV9QQWc1ckFOeWJudmFjd2swVmF2MmhVLXlrM2tSMm4tci1SZE9pRG1RdGNyb29TdkZvX0xKZVYtcXhUTjZMTEFDVll2ZWRWbXhxRVliQTlTUENtbVdmNklWUl9JVXZyZ1dHSm9TaUV1R29nR190MXdaRFZ0WWF0bnprT2U3V25XTmU1WlZGZ2pJem5wYW5lU0VB?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-25T11:15:00+00:00",
+   "seen": "2026-11-25T11:21:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 or an Anthropic share is worth about $80, suggesting you can get both."
+  },
+  {
+   "id": "gta 6 s best lore drops happen when you re chilling with your partner so stop leaving them at home all the time",
+   "title": "GTA 6's best lore drops happen when you're chilling with your partner, so stop leaving them at home all the time",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWEJ4YmN4X2NLSU0wcFZRM3Vqa25wRmJieEtCQjBrdHpvOWJYcVhaMHZHQ3c2emltcnBvRVVJNEJzRTh1aVN0ejduNmpfLUc2bzRfRHgtdFM4X3RodWViQ2x1dFJoRXB1N1ctWHk1ZjFGeUoyWEVKTnpyaXU4eGllcGhpRnBuSkp1bThoVVV2dmZGQzFuWExoNjdOZkVEUU1zWmNqZnZzWllIMHQxZGlVamZCX0ItOXpGc1V0eVMxRko0dldHM2xvUjRFVkgtWVkxLWY3UlBOVE5oaXk3bmRfNlpRNTlfazBHTkJLNnZn?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-25T11:14:42+00:00",
+   "seen": "2026-11-25T11:21:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6's best lore drops happen when you're with your partner, advising not to leave them at home."
+  },
+  {
+   "id": "gta 6 generates 4 billion in just four days",
+   "title": "GTA 6 generates $4 billion in just four days",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjgtNmhpLWFvSDBGbDM5Z2wzMVluUlBaWGUzOHVGWWU1UUxjcTd1MEVhZXN3aWN4YUxfT2NBcVUtakZsVk5XOHMzQmpiUkFMUThVaTUtY1FKTG5yVHVjbEVfUnVHNDdpZGN0eFdqamxwNUxZQXROWlFzR2VQTG41ZA?oc=5",
+   "outlet": "samaa tv",
+   "via": "Google News",
+   "published": "2026-11-25T11:13:10+00:00",
+   "seen": "2026-11-25T11:21:19+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story states GTA 6 generates $4 billion in just four days."
+  },
   {
    "id": "after gta 6 rockstar eyes 100 million deal for red dead redemption film and tv adaptation",
    "title": "After GTA 6, Rockstar eyes $100 million deal for Red Dead Redemption film and TV adaptation",
