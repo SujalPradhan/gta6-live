@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T18:44:06+00:00",
- "started": "2026-11-25T18:43:58+00:00",
+ "updated": "2026-11-25T18:49:13+00:00",
+ "started": "2026-11-25T18:49:07+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T18:43:58+00:00"
+   "checked": "2026-11-25T18:49:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-25T18:43:59+00:00"
+   "hits": 41,
+   "checked": "2026-11-25T18:49:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 78,
-   "checked": "2026-11-25T18:43:59+00:00"
+   "checked": "2026-11-25T18:49:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-25T18:44:00+00:00"
+   "hits": 6,
+   "checked": "2026-11-25T18:49:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-25T18:44:00+00:00"
+   "hits": 7,
+   "checked": "2026-11-25T18:49:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T18:44:00+00:00"
+   "checked": "2026-11-25T18:49:09+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T18:44:01+00:00"
+   "checked": "2026-11-25T18:49:10+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T18:44:01+00:00"
+   "checked": "2026-11-25T18:49:10+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T18:44:02+00:00"
+   "checked": "2026-11-25T18:49:10+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T18:44:02+00:00"
+   "checked": "2026-11-25T18:49:10+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T18:44:02+00:00"
+   "checked": "2026-11-25T18:49:10+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T18:44:03+00:00"
+   "checked": "2026-11-25T18:49:11+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T18:44:03+00:00"
+   "checked": "2026-11-25T18:49:11+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T18:44:03+00:00"
+   "checked": "2026-11-25T18:49:11+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 cooties mission walkthrough",
+   "title": "GTA 6 Cooties Mission Walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-cooties-mission-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-25T18:47:53+00:00",
+   "seen": "2026-11-25T18:49:09+00:00",
+   "summary": "How to complete Cooties in GTA 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story describes how to complete the Cooties mission in GTA 6."
+  },
   {
    "id": "how to whistle to distract enemies in gta 6",
    "title": "How to whistle to distract enemies in GTA 6",
@@ -844,6 +857,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story quotes the GTA 6 music vice president saying the collaboration with Justice bridges the 80s Vice City aesthetic with contemporary electronic production for the game."
+  },
+  {
+   "id": "xbox controllers are back to their lowest price for the year on amazon perfect time to grab a spare for gta 6",
+   "title": "Xbox Controllers Are Back to Their Lowest Price for the Year on Amazon — Perfect Time To Grab a Spare for GTA 6",
+   "link": "https://www.ign.com/articles/xbox-controller-black-friday-deals",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-25T17:00:00+00:00",
+   "seen": "2026-11-25T18:49:09+00:00",
+   "summary": "Amazon has dropped Xbox controllers to just £39.99 for Black Friday, matching their lowest price of 2026 across several colours",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article reports that Xbox controllers are at their lowest price of the year on Amazon, suggesting a chance to buy a spare for GTA 6."
   },
   {
    "id": "where to find bravado devil s rope gauntlet in gta 6 fastest cars location stats",
