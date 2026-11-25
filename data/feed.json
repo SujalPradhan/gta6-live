@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T21:55:18+00:00",
- "started": "2026-11-25T21:55:15+00:00",
+ "updated": "2026-11-25T22:00:17+00:00",
+ "started": "2026-11-25T22:00:11+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T21:55:16+00:00"
+   "checked": "2026-11-25T22:00:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 33,
-   "checked": "2026-11-25T21:55:16+00:00"
+   "checked": "2026-11-25T22:00:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-25T21:55:17+00:00"
+   "hits": 72,
+   "checked": "2026-11-25T22:00:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T21:55:17+00:00"
+   "checked": "2026-11-25T22:00:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T21:55:17+00:00"
+   "checked": "2026-11-25T22:00:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T21:55:17+00:00"
+   "checked": "2026-11-25T22:00:13+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T21:55:17+00:00"
+   "checked": "2026-11-25T22:00:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T21:55:17+00:00"
+   "checked": "2026-11-25T22:00:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-25T21:55:17+00:00"
+   "hits": 7,
+   "checked": "2026-11-25T22:00:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T21:55:18+00:00"
+   "checked": "2026-11-25T22:00:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T21:55:18+00:00"
+   "checked": "2026-11-25T22:00:15+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T21:55:18+00:00"
+   "checked": "2026-11-25T22:00:15+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T21:55:18+00:00"
+   "checked": "2026-11-25T22:00:15+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T21:55:18+00:00"
+   "checked": "2026-11-25T22:00:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "30 things you might have missed in gta 6",
+   "title": "30 Things You Might Have Missed in GTA 6",
+   "link": "https://insider-gaming.com/30-things-you-might-have-missed-in-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-25T21:55:38+00:00",
+   "seen": "2026-11-25T22:00:14+00:00",
+   "summary": "From secret locations to hidden controller settings, here are 30 things that you might have missed in GTA 6 so far. The post 30 Things You Might Have Missed in GTA 6 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story lists things you might have missed in GTA 6, covering secret locations and hidden controller settings."
+  },
   {
    "id": "gta 6 vault how to open them during big bank jobs",
    "title": "GTA 6 vault: How to open them during big bank jobs",
@@ -298,6 +311,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports on GTA Plus boosts for GTA 6 and explains all GTA Plus member bonuses and how to unlock them."
+  },
+  {
+   "id": "gta 6 breaks entertainment records with 3 79 billion in day one sales",
+   "title": "GTA 6 Breaks Entertainment Records With $3.79 Billion in Day-One Sales",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPN1FyNXJwamVHZ3U0WmhZa0hLeXdSd0k0WHJOeG5ZWExCWlFVNHJBbC1vOWI2ZkNUamJxUE9CRkZZdHh5aFl6NHMxNFV5LUtySkpWZWktdE5ubXlNMjhzem1pLW9ybmZHYjliWlVBbEx1Ui1kUmJDUXA4ZUk?oc=5",
+   "outlet": "MMO Culture",
+   "via": "Google News",
+   "published": "2026-11-25T20:37:55+00:00",
+   "seen": "2026-11-25T22:00:12+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 breaks entertainment records with day-one sales totaling $3.79 billion."
   },
   {
    "id": "the voice behind wpbf 25 news featured in grand theft auto vi",
