@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T14:17:38+00:00",
- "started": "2026-11-25T14:17:33+00:00",
+ "updated": "2026-11-25T14:22:36+00:00",
+ "started": "2026-11-25T14:22:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T14:17:33+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T14:22:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-25T14:17:34+00:00"
+   "hits": 45,
+   "checked": "2026-11-25T14:22:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 77,
-   "checked": "2026-11-25T14:17:34+00:00"
+   "hits": 62,
+   "checked": "2026-11-25T14:22:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T14:17:34+00:00"
+   "checked": "2026-11-25T14:22:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T14:17:34+00:00"
+   "checked": "2026-11-25T14:22:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T14:17:34+00:00"
+   "checked": "2026-11-25T14:22:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T14:17:35+00:00"
+   "checked": "2026-11-25T14:22:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T14:17:35+00:00"
+   "checked": "2026-11-25T14:22:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:17:35+00:00"
+   "checked": "2026-11-25T14:22:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T14:17:35+00:00"
+   "checked": "2026-11-25T14:22:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:17:35+00:00"
+   "checked": "2026-11-25T14:22:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T14:17:35+00:00"
+   "checked": "2026-11-25T14:22:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T14:17:35+00:00"
+   "checked": "2026-11-25T14:22:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T14:17:35+00:00"
+   "checked": "2026-11-25T14:22:33+00:00"
   }
  },
  "items": [
@@ -116,6 +116,58 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "GTA 6 causes PS5 consoles to sell out in the US as demand exceeds supply following the game's release."
+  },
+  {
+   "id": "victory fork launched gta 6 on rx 9070 xt ryzen 7 9800x3d at 3 fps and 46 gb of ram consumption",
+   "title": "Victory fork launched GTA 6 on RX 9070 XT и Ryzen 7 9800X3D at 3 FPS and 46 GB of RAM consumption",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3psbjJOX1cyaEhEYnJILUFJWHJlaFVFS19WNk5WZGYtczVUQ0ZMNEJvVWVlSG5tVkRSS3BEUU1hbXlqVEJnYklYMGFMTkhwNUhDT012MkhUUmZaRUZYb1RSWTZTZmZ1aFNBNkJ6dV9GZTBrVmR5UUJ3OGRnY0ZzcDJYd29BeHZzWTQ1LTB4RWNzbGVhWnAyLU1NbFlsT2syQWN2STl4dF9lT0pwa2FZQy1HOUtRRUNTTWxFVU5RRFk?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-25T14:16:23+00:00",
+   "seen": "2026-11-25T14:22:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 runs at 3 FPS on RX 9070 XT and Ryzen 7 9800X3D with 46 GB RAM usage."
+  },
+  {
+   "id": "report gta 6 graphical settings for consoles leak out revealing platform differences",
+   "title": "Report: GTA 6 Graphical Settings for Consoles Leak Out, Revealing Platform Differences",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenQ0YXY0ZWRQSExZWnNjVDhXNGpkcnhlYUNRbGpKWm8xb3h0QVBHb1RTUkY1WUxYQVBSYWhqNEtMOXprZ3FHM0s0T2g2RHRJVXRUSmE2TS1USFNpSVlwenQ2QnZBd3hDS241cEhDYkNkS21FNHZ5bW9Fcm1tbHZ3aGZRQ1Zwd0dzNDJTZEVCRnBIV2xNRUE0SXpvaFhrTkhLekpzcll3RVRPQk0?oc=5",
+   "outlet": "MP1st",
+   "via": "Google News",
+   "published": "2026-11-25T14:15:59+00:00",
+   "seen": "2026-11-25T14:22:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 graphical settings for consoles have leaked, showing platform differences."
+  },
+  {
+   "id": "even max verstappen has succumbed to gta 6 fever squeezing in 40 hours around his las vegas grand prix win",
+   "title": "Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFowc1pobV9xSW4wTkU2Z0wxR3k1SjI1eVpGTXJrcWlNZjVOQ0M4a2VTMm5IWEk1TjZkLWZzc2VDNGdqcUN5bTJmMXhXLVR6ZXZtbE0waklUckxkQWNmYVpFVlptYk1HYmdMQXUxRVk5ZHRBc2EwYnBaS09Xb0pJZWMyNUxndU9BUnZXNzgtUDFPazhOVDA0OWFXVU1JN04xTEhOV2VlcWpYclh6b3BYM09SVVlzT1B1M3BrR1NqaUl6NGZOSk5DMEFfRE4wazM4X0lJU0hvY0R6V1pnVENDTDhwY0NYeUUwdWc?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-25T14:15:51+00:00",
+   "seen": "2026-11-25T14:22:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that even Max Verstappen spent about 40 hours playing GTA 6 around his Las Vegas Grand Prix win."
+  },
+  {
+   "id": "how to unlock hurricane weather in gta 6",
+   "title": "How To Unlock Hurricane Weather In ‘GTA 6’",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSmZaSUtNRGJjd1RwRndEV2NPdzA0SXNWTGRVZ1Ffcnl1UnBkVFVNSk9wd2llc1VvbzVGZXRvejRwTms5cEd5NzR3aXo3OXRhdjI0UVlSRlZ2S3NqTEN0VkFqYV9DbmlVSHItMHl3bktRZ2lfSkVxWGxTX2ZFVzNoRHFCczZuQW9rd3JEbWNmODdhSkVrX3c?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-25T14:15:34+00:00",
+   "seen": "2026-11-25T14:22:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports instructions on unlocking hurricane weather in GTA 6."
   },
   {
    "id": "i m having a much better time in gta 6 now i ve disabled its pesky criminal profile pings",
