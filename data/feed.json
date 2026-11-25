@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T06:54:48+00:00",
- "started": "2026-11-25T06:54:41+00:00",
+ "updated": "2026-11-25T06:59:50+00:00",
+ "started": "2026-11-25T06:59:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T06:54:42+00:00"
+   "checked": "2026-11-25T06:59:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-25T06:54:42+00:00"
+   "hits": 62,
+   "checked": "2026-11-25T06:59:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 80,
-   "checked": "2026-11-25T06:54:43+00:00"
+   "checked": "2026-11-25T06:59:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T06:54:43+00:00"
+   "checked": "2026-11-25T06:59:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T06:54:43+00:00"
+   "checked": "2026-11-25T06:59:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T06:54:44+00:00"
+   "checked": "2026-11-25T06:59:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T06:54:44+00:00"
+   "checked": "2026-11-25T06:59:47+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T06:54:44+00:00"
+   "checked": "2026-11-25T06:59:47+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T06:54:45+00:00"
+   "checked": "2026-11-25T06:59:47+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T06:54:45+00:00"
+   "checked": "2026-11-25T06:59:48+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T06:54:45+00:00"
+   "checked": "2026-11-25T06:59:48+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T06:54:46+00:00"
+   "checked": "2026-11-25T06:59:48+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T06:54:46+00:00"
+   "checked": "2026-11-25T06:59:48+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T06:54:46+00:00"
+   "checked": "2026-11-25T06:59:48+00:00"
   }
  },
  "items": [
+  {
+   "id": "yes one minor function was censored from gta 6 in australia nz but it would ve been banned if it wasn t",
+   "title": "Yes, One Minor Function Was Censored from GTA 6 in Australia, NZ, but It Would've Been Banned if It Wasn't",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkFiZzNZLUpKekh2akRpOFZvYklJLURZbUtNYi1rSnpQaVUtNVJJSWlSSWZlZ25jdVRmQ0ZIWkhKQUFUVkxCZzJVd1ZZVW5tOXhIa0NMb2llX2oybEdGSHZBNTNfSVZ1czRZY2t1RElPTlV3eWY1U0VVVEpwaTFBOU5lWVlJNUZyN2V5Qw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T06:55:26+00:00",
+   "seen": "2026-11-25T06:59:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that one minor function was censored from GTA 6 in Australia and New Zealand, and would have been banned if it hadn't."
+  },
   {
    "id": "gta 6 cave diving location and rewards guide",
    "title": "GTA 6 Cave Diving Location and Rewards Guide",
