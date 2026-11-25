@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T05:49:26+00:00",
- "started": "2026-11-25T05:49:20+00:00",
+ "updated": "2026-11-25T05:54:28+00:00",
+ "started": "2026-11-25T05:54:22+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T05:49:20+00:00"
+   "checked": "2026-11-25T05:54:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-25T05:49:21+00:00"
+   "hits": 68,
+   "checked": "2026-11-25T05:54:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-25T05:49:21+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T05:54:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T05:49:21+00:00"
+   "checked": "2026-11-25T05:54:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T05:49:22+00:00"
+   "checked": "2026-11-25T05:54:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T05:49:22+00:00"
+   "checked": "2026-11-25T05:54:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T05:49:22+00:00"
+   "checked": "2026-11-25T05:54:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T05:49:23+00:00"
+   "checked": "2026-11-25T05:54:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T05:49:23+00:00"
+   "checked": "2026-11-25T05:54:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T05:49:23+00:00"
+   "checked": "2026-11-25T05:54:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T05:49:23+00:00"
+   "checked": "2026-11-25T05:54:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T05:49:24+00:00"
+   "checked": "2026-11-25T05:54:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T05:49:24+00:00"
+   "checked": "2026-11-25T05:54:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T05:49:24+00:00"
+   "checked": "2026-11-25T05:54:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "following gta vi sony has struck a marketing deal for the witcher 4",
+   "title": "Following GTA VI, Sony has struck a marketing deal for The Witcher 4",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdzhtdDZXRHBTcmF6T0Z5T2xPRC12SUltYkxGM043NlNqQm03ekMwMkdTM3cyVTNBdFhiVndqQmU0LW5FR0plbjE0OFV6SzBHSFNiYnRRRmlJZFZNOHFXRTJsYkR5UlFBR3U5cnAzdm1GZE1uRFFaUl9iTC12ZEpUZ3RwSXdwY05taTJCWFd4dGZlQ3dvbnRDUzMxUmk1ejgyVmFpYkJuTldDaVppOTJjN0JNN1U?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-25T05:52:15+00:00",
+   "seen": "2026-11-25T05:54:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A marketing deal for The Witcher 4 has been struck by Sony following GTA VI."
+  },
+  {
+   "id": "project leonida dmca takedown 2 900 forks hit",
+   "title": "Project Leonida DMCA Takedown: 2,900+ Forks Hit",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0NNajhPLWp5NkoydExLakJPOWJaLURqazZGWFpXMkhKVTVxb3dKTWFVbzAtRmgyWjY5RXNYYXB6aTBxVlNGZnVrZEdmV29kdlJJS2VKYkl5UzdiWDJCbVpZcGRQdXF5MkRXeF9ORFpGeUpRU0JkUzdOeURDT1E1UERjS3JwUEo2eVdad3ZuUEFPOXFXdGpWNw?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-25T05:46:26+00:00",
+   "seen": "2026-11-25T05:54:22+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": true,
+   "ai_summary": "A DMCA takedown for Project Leonida affected over two thousand forks."
+  },
   {
    "id": "take two interactive halts unauthorised gta 6 pc port project",
    "title": "Take-Two Interactive Halts Unauthorised GTA 6 PC Port Project",
@@ -142,6 +168,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "Australia’s gaming habits surge as GTA 6 blitzes even more records."
+  },
+  {
+   "id": "almost five years in secret gta vi actor speaks about working on the game",
+   "title": "Almost five years in secret: GTA VI actor speaks about working on the game",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXQxb1ZjTEZaUUNyaml1VF9HUC1zZ1NIVk5WNWlURlRVenNYR1ZmQmduS29pZ0NSaUMxbXU2V3luOHhRdTZ3LU9YX1RBamNpeWdZV2diM1ZWUlB2MHVHUFpSMWVNNnNSSHlRbElGMTQ5TUFrNXZVLTdjTlIxcnlZb2pmOE1PMGVVSHlEZ1BRMVRfbDFPOVJWWjBpUXlsOGhqZHVsSjhadnd6aEnSAbABQVVfeXFMUGlCclFYVVUxM2wxRUoxdG84eUhFZkxvR2o1TjV6Vl8td2pQdkV5TlZDMTBpdkNIaFA0R0g5c2tPMExhWk1XNGVqNFdxS1d6dmNQQkFLZjRLV25ud3N1VXdEYmZaWFlhRWV5TFBxZ1NkS255dnBuTUdmYUdBRm1GZl9SYmtqaWR6eVVJTVFQMU9SM1BseUpwZ0ZidVR3WGlzQTItMGFxQWVkaVNNOFNOclo?oc=5",
+   "outlet": "iXBT.games",
+   "via": "Google News",
+   "published": "2026-11-25T05:26:00+00:00",
+   "seen": "2026-11-25T05:54:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An GTA VI actor speaks about working on the game after nearly five years in secret."
   },
   {
    "id": "gta vi sold 47 million copies by end of launch weekend and siphoned players from call of duty fortnite",
