@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T13:27:15+00:00",
- "started": "2026-11-25T13:27:09+00:00",
+ "updated": "2026-11-25T13:32:16+00:00",
+ "started": "2026-11-25T13:32:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T13:27:09+00:00"
+   "checked": "2026-11-25T13:32:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-25T13:27:09+00:00"
+   "hits": 45,
+   "checked": "2026-11-25T13:32:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 78,
-   "checked": "2026-11-25T13:27:10+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-25T13:32:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T13:27:10+00:00"
+   "checked": "2026-11-25T13:32:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T13:27:10+00:00"
+   "checked": "2026-11-25T13:32:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T13:27:11+00:00"
+   "checked": "2026-11-25T13:32:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T13:27:11+00:00"
+   "checked": "2026-11-25T13:32:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:27:11+00:00"
+   "checked": "2026-11-25T13:32:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T13:27:11+00:00"
+   "checked": "2026-11-25T13:32:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T13:27:12+00:00"
+   "checked": "2026-11-25T13:32:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T13:27:12+00:00"
+   "checked": "2026-11-25T13:32:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T13:27:12+00:00"
+   "checked": "2026-11-25T13:32:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T13:27:12+00:00"
+   "checked": "2026-11-25T13:32:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T13:27:13+00:00"
+   "checked": "2026-11-25T13:32:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "noteworthy 11 25 12 2 26 santa monica claims gta vi",
+   "title": "Noteworthy 11/25-12/2/26: Santa Monica claims GTA VI.",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3ZFejVTU1JndmRMOXdrZERqTDJnUzlCZmw3MTk0XzhjQkpGMWZjUXBSNk4zWUV6ZzRsOHV1OFB5OElVN19ZX2lDSVZpSXpUOGFQUER2SUFDVXRlWW1zT21pRkMzWnF4RlNCdDRRcG40UE9yOWtiblkzdU13d1puZ2RDbGxobFZZYnRVR2x2MVE0UDNDejFnSVhUbzhGRVY1?oc=5",
+   "outlet": "Santa Monica Mirror",
+   "via": "Google News",
+   "published": "2026-11-25T13:27:31+00:00",
+   "seen": "2026-11-25T13:32:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Santa Monica Mirror reports Santa Monica claims GTA VI."
+  },
   {
    "id": "cd projekt red says the witcher 4 will be as big a leap as gta 6 was from gta 5",
    "title": "CD Projekt Red says The Witcher 4 will be as big a leap as GTA 6 was from GTA 5",
@@ -118,6 +131,32 @@
    "ai_summary": "CD Projekt Red says The Witcher 4 will be a big leap similar to GTA 6 from GTA 5 with improvements planned for nearly every aspect."
   },
   {
+   "id": "gta 6 fans declare an unexpected cure for gooning after pornhub suffers a 15 5 traffic collapse",
+   "title": "GTA 6 Fans Declare an Unexpected 'Cure' for Gooning After Pornhub Suffers a 15.5% Traffic Collapse",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PTnZIWHlFU012Ql9ZQ21UZE16RFlXOVpjVWdhajA3cDA5ZkptM3p5czdybnFKVFgtU2lMX1V2cWh0MkpvY1dxSlppNXc3RDlGZlpyNnFtbUJjVDdtQ2tFNW1yMEtmcDJPZXFDeHJfbXBxdXFNdnJLeEx3MFM?oc=5",
+   "outlet": "Fashion Times UK",
+   "via": "Google News",
+   "published": "2026-11-25T13:21:55+00:00",
+   "seen": "2026-11-25T13:32:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Fashion Times UK reports fans declare an unexpected 'cure' for gooning after a traffic drop at Pornhub."
+  },
+  {
+   "id": "only 28 of the buildings on the gta vi map can be explored",
+   "title": "Only 28 % of the buildings on the GTA VI map can be explored",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2hTT29vb1ExRjllaElOdEo3S3p5ZUFlWElRTm1YMGJxUnV6UTM2c3lFZjdrRF9yNEo5Y3BHMl91c2ZIZlRRWk5jdTl1ajE3SGl6eVY2dDRqWENCa0txd2plWFJFdkdrM2ExaFpxRmZhYnNDaTl3ZEJBTWJQNDRncVhuM2N1a2pJenowTUk0Vjk5YnNkQnZQVGV1V2pSN3N0cF9Cei1VN3I0cG1i?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-25T13:18:51+00:00",
+   "seen": "2026-11-25T13:32:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Instant Gaming News states only a portion of the GTA VI map's buildings are explorable."
+  },
+  {
    "id": "gta 6 streamer says ps5 failed during lucia scene",
    "title": "GTA 6 Streamer Says PS5 Failed During Lucia Scene",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQampuRXY4RjltUVRmU0k1d0VZUVdNZlZPWFBnVmhwT3VSZjM3YUpaZUFoenZidHRLc1VhenowUG93aDFUZ1JtQ1dqYnc3WlZnZDRjLXFmOUFuNy1nQVFsNU9mMVhyZ0JjQW9haUh1akJwdGJHVzRKaURUSzZBYUY3VVJIaUM2UQ?oc=5",
@@ -129,6 +168,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "A GTA 6 streamer says PS5 failed during a Lucia scene."
+  },
+  {
+   "id": "getting prepped for the gta 6 pc release these top rated gaming accessories are up to 41 off for black friday",
+   "title": "Getting prepped for the GTA 6 PC release? These top-rated gaming accessories are up to 41% off for Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVV9zb1lzVldnOHNkTGNIemdKOHBhYWhqYWVuYy1hSU9ZejhHX1d6OUpsYlV1NTZXdHlhcjI3bkNoRGFmNUUtbVRYUTRNSmpLOFJ0ZnBpemx0SkF0NXM5c3pRdm5uREI0bDVNZ2k3ZzBGVmtsWlVfM1BOTy1YNmZQcmF6NFNPVE42U1FtLWwxUVVPZzYzanRRd0Z6ODVDSDNIbWc?oc=5",
+   "outlet": "MakeUseOf",
+   "via": "Google News",
+   "published": "2026-11-25T13:17:17+00:00",
+   "seen": "2026-11-25T13:32:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "MakeUse Of notes Black Friday discounts on top-rated gaming accessories for the GTA 6 PC release."
   },
   {
    "id": "the tampa bay times went birding in gta vi",
