@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T04:44:04+00:00",
- "started": "2026-11-25T04:43:59+00:00",
+ "updated": "2026-11-25T04:49:08+00:00",
+ "started": "2026-11-25T04:49:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T04:44:00+00:00"
+   "checked": "2026-11-25T04:49:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-25T04:44:00+00:00"
+   "hits": 69,
+   "checked": "2026-11-25T04:49:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T04:44:01+00:00"
+   "checked": "2026-11-25T04:49:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T04:44:01+00:00"
+   "checked": "2026-11-25T04:49:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T04:44:01+00:00"
+   "checked": "2026-11-25T04:49:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T04:44:01+00:00"
+   "checked": "2026-11-25T04:49:04+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T04:44:02+00:00"
+   "checked": "2026-11-25T04:49:04+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T04:44:02+00:00"
+   "checked": "2026-11-25T04:49:04+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T04:44:03+00:00"
+   "checked": "2026-11-25T04:49:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T04:44:03+00:00"
+   "checked": "2026-11-25T04:49:05+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T04:44:04+00:00"
+   "checked": "2026-11-25T04:49:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T04:44:04+00:00"
+   "checked": "2026-11-25T04:49:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T04:44:04+00:00"
+   "checked": "2026-11-25T04:49:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T04:44:04+00:00"
+   "checked": "2026-11-25T04:49:06+00:00"
   }
  },
  "items": [
@@ -649,6 +649,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story questions whether shooting protesters in GTA 6 is bad while running them over is fine, implying concern about violence in the game."
+  },
+  {
+   "id": "william shatner clarifies his stance on grand theft auto vi after backlash",
+   "title": "William Shatner Clarifies His Stance On Grand Theft Auto VI After Backlash",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGlIbVkzNWRoWFFZaTN0NWY2RkV2M3VqSEhOa0JVX20zUExZNFlCRHo2QkprTWIyYl9SdUdhWjJhelJCT2dBUEtWaHF3WGRwLTdNRVFHcE1nTmhueHlQUmo5aUxpbmZKZ3ZsWmZ3a1poM0hTSHd5VUNKeWQ1M1BTZU1NcS1HUVBWMkRrWklMRG42R2wyQnFVTkdHMFhCd29DeExZYmo0T0M2QQ?oc=5",
+   "outlet": "Cinemablend",
+   "via": "Google News",
+   "published": "2026-11-25T00:32:23+00:00",
+   "seen": "2026-11-25T04:49:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that William Shatner clarifies his stance on Grand Theft Auto VI after backlash."
   },
   {
    "id": "gta vi would be even better with our terrible staff cars cotd",
