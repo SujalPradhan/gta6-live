@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-25T17:44:14+00:00",
- "started": "2026-11-25T17:43:45+00:00",
+ "updated": "2026-11-25T17:48:48+00:00",
+ "started": "2026-11-25T17:48:40+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-25T17:43:53+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-25T17:48:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-25T17:43:59+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 55,
+   "checked": "2026-11-25T17:48:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-25T17:44:08+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 78,
+   "checked": "2026-11-25T17:48:41+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T17:44:08+00:00"
+   "checked": "2026-11-25T17:48:41+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T17:44:08+00:00"
+   "checked": "2026-11-25T17:48:42+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T17:44:10+00:00"
+   "checked": "2026-11-25T17:48:42+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T17:44:10+00:00"
+   "checked": "2026-11-25T17:48:42+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T17:44:10+00:00"
+   "checked": "2026-11-25T17:48:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T17:44:10+00:00"
+   "checked": "2026-11-25T17:48:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-25T17:44:10+00:00"
+   "checked": "2026-11-25T17:48:43+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T17:44:11+00:00"
+   "checked": "2026-11-25T17:48:43+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T17:44:11+00:00"
+   "checked": "2026-11-25T17:48:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T17:44:11+00:00"
+   "checked": "2026-11-25T17:48:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T17:44:11+00:00"
+   "checked": "2026-11-25T17:48:44+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 backlash to menial tasks comes from players stuck in moral yellow paint former valve writer says",
+   "title": "GTA 6 backlash to menial tasks comes from players stuck in \"moral yellow paint,\" former Valve writer says",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-backlash-to-menial-tasks-comes-from-players-stuck-in-moral-yellow-paint-former-valve-writer-says-you-dont-have-to-do-any-of-them/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-25T17:45:04+00:00",
+   "seen": "2026-11-25T17:48:42+00:00",
+   "summary": "\"This is Grand Theft Auto,\" after all",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports backlash to menial tasks in GTA 6, described by a former Valve writer as stemming from players in a 'moral yellow paint'."
+  },
+  {
+   "id": "thomas the poison of grand theft auto vi",
+   "title": "THOMAS/The poison of Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnA4bkdvdWtTMldYNHROemJtTXdfN0lCQzdEMzBDbWVmbE4wUVMxZl8zenR3SXhIdkJUWG5DVjNLU3ZOdEJxU2ExZzgyelZWZnVTeHVRN2h2SzNVbHBQTG14eDV1VEZQYnZnQXZvTjVvWGpLQi03WEtzSzVvRTVyZUJSZnZIQWl6WVhudEFsc0pHSUlTa0E?oc=5",
+   "outlet": "Madison County Journal",
+   "via": "Google News",
+   "published": "2026-11-25T17:42:56+00:00",
+   "seen": "2026-11-25T17:48:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Thomas/The poison of Grand Theft Auto VI cited by Madison County Journal."
+  },
   {
    "id": "gta 6 hidden charges walkthrough how to plant all three explosives",
    "title": "GTA 6 Hidden Charges walkthrough: How to plant all three explosives",
@@ -118,6 +144,32 @@
    "ai_summary": "The story explains how to complete Hidden Charges and obtain three explosive charges in GTA 6."
   },
   {
+   "id": "the first gta 6 dlc is now live for all players",
+   "title": "The First GTA 6 DLC is Now Live for All Players",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2V6ZlZ6RHVDLWhocTU0MEo4Zm9xUm9nNkZrSTBCSThCTGdUWjJ4V3BtTV85RExXVV9lQzNtemQwa1RsTEI2U0NFUUpiRWIzSVUydWZ2bnhXZjVCMDdPMS0tZ3ZiYkRyTGR0a0tpNHNxcXBVbXFpU0tjTDhTeEFIZGZDYw?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-25T17:39:00+00:00",
+   "seen": "2026-11-25T17:48:40+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports the first GTA 6 DLC is now live for all players per DualShockers."
+  },
+  {
+   "id": "gta 6 now streams to ps portal with ps plus premium",
+   "title": "GTA 6 Now Streams to PS Portal With PS Plus Premium",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2ZGZwQ2hZQk43QlV5czktZWNtQ2xGcDJLR3ZDYTBZMExTUC11d29lQ3YxNEhDZ3loNUtXUnJNWVY5d3JReElkcE1NQS1ZOElackVjZmJsZjNTMzFIVG9yMGNaaV9HQi1ZbE5wUVZuRS13VE9nU3ZPcg?oc=5",
+   "outlet": "GodisaGeek.com",
+   "via": "Google News",
+   "published": "2026-11-25T17:37:58+00:00",
+   "seen": "2026-11-25T17:48:40+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports GTA 6 can now be streamed to PS Portal with PS Plus Premium according to GodisaGeek.com."
+  },
+  {
    "id": "how to win drone races in gta 6 all locations tips to win",
    "title": "How to Win Drone Races in GTA 6—All Locations & Tips to Win",
    "link": "https://insider-gaming.com/drone-races-gta-6/",
@@ -129,6 +181,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports tips and locations for winning drone races in GTA 6, including how to win and earn cash."
+  },
+  {
+   "id": "this hidden side mission in gta 6 gives you a permanent stamina increase",
+   "title": "This hidden side mission in GTA 6 gives you a permanent stamina increase",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMTZnaW1TbGpsZkNTMFJHZ2ExSFhYSEhPRHYwaW0wSjlCQW1VUmFYSmxvWVYteFVKNUt2M3loREp4QUIxWVI1bHVZU1FRT1BaaWF0MnNqVFl4b2tZTThxSmJsSXphVUVmeGxVUnNFY1FqeWNlZ2V6Y2E0UTRvalV4bXZBMlI1a2dHWFVuRkN4M2FxMURuenlVZFdYbkRfdU9GM0lWVkNjcFVjcktNY0c0LWIzLVpydDVXZi1JUWY0VkhWU1FJbEt2bHR5MzYtRVY4d1RrSWFsbmVOY1pMaGc?oc=5",
+   "outlet": "Windows Central",
+   "via": "Google News",
+   "published": "2026-11-25T17:34:30+00:00",
+   "seen": "2026-11-25T17:48:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a hidden GTA 6 side mission grants a permanent stamina increase per Windows Central."
   },
   {
    "id": "gta vi arrives ahead of black friday boys town nevada offers a parent s guide to holiday gaming",
@@ -545,6 +610,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA VI seems to be overheating some PS5s."
+  },
+  {
+   "id": "cyberpunk 2 s creative director says game is cancelled and gta 6 induced game dev depression is real gamefront",
+   "title": "Cyberpunk 2’s Creative Director Says Game Is Cancelled and “GTA 6 Induced Game Dev Depression Is Real” - GameFront",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlZvZFlGd3NZekgyUjd2elRCbWVhVk55dE0zMFlmM1ZFbmtlM2hDc1B1cmVISXJsTlhjSXBUdEVTV09wdGVwTEJzRmNnS0txN0J0MDktQnRGbTVSNXpoeHBQdHN1VnVaVGNCUVUxRG1Qallkd2ZobkJKQXpYLVZrNmtfUUhuSk9nYUhtSnZMVFEyZGxhSTFIRjlLUDJGVW5qZmlxRVhlTVhFZ1dXTHZjWllLSWJrcUo2blF0QnhqNHNxS0habUtqMHVR?oc=5",
+   "outlet": "Mods",
+   "via": "Google News",
+   "published": "2026-11-25T16:47:56+00:00",
+   "seen": "2026-11-25T17:48:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Cyberpunk 2’s Creative Director says the game is cancelled and links it to GTA 6 induced depression per GameFront via Mods."
   },
   {
    "id": "ps5 consoles are selling out in the us after gta 6 s launch",
@@ -1403,6 +1481,19 @@
    "topic": "Players",
    "record": true,
    "ai_summary": "GTA 6 PlayStation record: 39M players and 683M hours reported."
+  },
+  {
+   "id": "gta 6 best selling ever market 7 odds after a record 3 79b launch",
+   "title": "GTA 6 ‘Best-Selling Ever’ Market: 7% Odds After a Record $3.79B Launch",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0NLbzl5QkMwZ243Xy1uYWVvOXRwR3lSRzlHUFl2OFJhUXRheXlRTmxIaUFBSzZfOFQ4bUpzZlBiWC1KNFRkb0xyOG5DN0wzdnZEcE4zUkdud1o1RE53azFpLXJaUmdZR2pDa0tBQ2tCR0VfLVhuRTlnOTBtb1FaU2hSWklfOWFMZ2hN?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-25T15:26:28+00:00",
+   "seen": "2026-11-25T17:48:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "The story reports GTA 6 is described as the best-selling ever with a 7% odds after a record launch per shattered.io."
   },
   {
    "id": "gta 6 hacker sentenced to seven years walks free the same day after rockstar games leak",
