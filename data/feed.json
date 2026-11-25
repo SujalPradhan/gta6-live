@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T22:50:29+00:00",
- "started": "2026-11-25T22:50:26+00:00",
+ "updated": "2026-11-25T22:55:34+00:00",
+ "started": "2026-11-25T22:55:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T22:50:27+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T22:55:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 35,
-   "checked": "2026-11-25T22:50:27+00:00"
+   "hits": 54,
+   "checked": "2026-11-25T22:55:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-25T22:50:28+00:00"
+   "hits": 72,
+   "checked": "2026-11-25T22:55:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:50:28+00:00"
+   "checked": "2026-11-25T22:55:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T22:50:28+00:00"
+   "checked": "2026-11-25T22:55:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T22:50:28+00:00"
+   "checked": "2026-11-25T22:55:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T22:50:28+00:00"
+   "checked": "2026-11-25T22:55:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T22:50:28+00:00"
+   "checked": "2026-11-25T22:55:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T22:50:28+00:00"
+   "checked": "2026-11-25T22:55:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T22:50:29+00:00"
+   "checked": "2026-11-25T22:55:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T22:50:29+00:00"
+   "checked": "2026-11-25T22:55:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T22:50:29+00:00"
+   "checked": "2026-11-25T22:55:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:50:29+00:00"
+   "checked": "2026-11-25T22:55:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T22:50:29+00:00"
+   "checked": "2026-11-25T22:55:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 for xbox series x may receive fsr 4 1 support in future patches",
+   "title": "GTA 6 for Xbox Series X may receive FSR 4.1 support in future patches",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVZ3SWdKWDBIUXB2UzVZSm5VcU15OGNTV1RWdW5oTEhVSzJNdEZQTnFYMnhXc3JjRFpFYnUwUTNzZW1yQ0w3bExFV3JfbDFSTEJGWllBeXJuNXllWU1lM1FSYnMyTm1ZaDhpamZuRElaN1lveDJwYjJqekN4ZENxTmtYcWRjSklIQ3M3NU5wdXdmNy1MdWNQLXRvbFlOcnVoMFFQVEVROUk4ZmZqcl9tSkUzWHBhZFoxMXNDM0FmNHhoUXY3cFp1NElleTlTUQ?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-25T22:49:25+00:00",
+   "seen": "2026-11-25T22:55:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 for Xbox Series X may receive FSR 4.1 support in future patches."
+  },
   {
    "id": "why do gta 6 streetlights look like that",
    "title": "Why do GTA 6 streetlights look like that?",
@@ -181,6 +194,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "All Peewees Billboard locations in GTA 6"
+  },
+  {
+   "id": "rockstar hired a gran turismo world finalist to work on gta 6 s car physics",
+   "title": "Rockstar Hired a Gran Turismo World Finalist to Work on GTA 6’s Car Physics",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMU14c3lCbTUxY1JaSlM3ZWw4Q3gtQkMwUDI2N0VEVmxsanV2Z2dGcDNtZkZYdEZSenptckhVbmljRkVreUM5YkNqMXlJVXZoajZxVkoxUXAtREg4R00wb0NfY1ZHSXV4cmkwUUdZSEJ6eGVSWlRBV1VrRnBXZHR6cUtuN0Z1SjE4SEdsaUdtMmJERm85aUlqckNPVmY4QWRJemdpYTBnX09Rb0MtaUE?oc=5",
+   "outlet": "GTPlanet",
+   "via": "Google News",
+   "published": "2026-11-25T22:15:23+00:00",
+   "seen": "2026-11-25T22:55:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states Rockstar hired a Gran Turismo World Finalist to work on GTA 6’s car physics."
   },
   {
    "id": "gta 6 secret controls the game doesn t tell you",
