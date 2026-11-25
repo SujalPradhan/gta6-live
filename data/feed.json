@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T01:32:59+00:00",
- "started": "2026-11-25T01:32:53+00:00",
+ "updated": "2026-11-25T01:38:02+00:00",
+ "started": "2026-11-25T01:37:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T01:32:54+00:00"
+   "checked": "2026-11-25T01:37:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-25T01:32:54+00:00"
+   "hits": 57,
+   "checked": "2026-11-25T01:37:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 84,
-   "checked": "2026-11-25T01:32:55+00:00"
+   "hits": 63,
+   "checked": "2026-11-25T01:37:57+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T01:32:55+00:00"
+   "checked": "2026-11-25T01:37:57+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T01:32:55+00:00"
+   "checked": "2026-11-25T01:37:58+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T01:32:55+00:00"
+   "checked": "2026-11-25T01:37:58+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T01:32:56+00:00"
+   "checked": "2026-11-25T01:37:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T01:32:56+00:00"
+   "checked": "2026-11-25T01:37:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T01:32:56+00:00"
+   "checked": "2026-11-25T01:37:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T01:32:56+00:00"
+   "checked": "2026-11-25T01:37:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T01:32:56+00:00"
+   "checked": "2026-11-25T01:37:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T01:32:57+00:00"
+   "checked": "2026-11-25T01:37:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T01:32:57+00:00"
+   "checked": "2026-11-25T01:37:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T01:32:57+00:00"
+   "checked": "2026-11-25T01:37:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "pre ordering gta 6 only got you an early seat and 5 in savings as its supposedly exclusive bonus goes on sale for 4 99",
+   "title": "Pre-ordering GTA 6 only got you an early seat and $5 in savings, as its supposedly exclusive bonus goes on sale for $4.99",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQangwc2tMZ2MzMUF1ZWlaSEhHQ3V2QzFLRk9DNU5NRzdsR002WE9oYWlEaGRUNE5VQ1NEWjh4RzNMMGg2U1IxSm4tY0RfT0ZENjBLNWFtM1gzZ0U5cVdwdmY3aWtQaFJVRG4wampvYWtZeFRDQmpqLVBRdWdyZDVMd0JNdTQ2MFJUT2hlWldXMVNVd2MydDhmM1JWc3FwYXplTHpUQUI5c0l4eGhCRlFaVTFqNXBGdWthbmdtZS12T1lwb0wySEZ4VFNoR0ZTRXVuMF9taG81TTJQLTAyamlzREx2X2ZLNTFyaFVuaFNSQ3JVd2tUSk9hVlRRblkxSWduTndsNjVWRldqZWFidXc?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-25T01:35:04+00:00",
+   "seen": "2026-11-25T01:37:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "Pre-ordering GTA 6 gave an early seat and $5 in savings, as the exclusive bonus goes on sale for $4.99."
+  },
+  {
+   "id": "the witcher 4 should improve on witcher 3 as much as gta 6 did on gta 5 says cdpr",
+   "title": "The Witcher 4 Should Improve on Witcher 3 as Much as GTA 6 Did on GTA 5, Says CDPR",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDBvUlozTW0zcTN0QVV6SERETW51VEREQmkxY1pQVURVMFhqZ1NxalVmazBuMnBfbFhRNFNZQ0lPSW9Rbm1NZnd5d05HdVd5bjlRMkVhRHJoX3FHZkdzRDJqTjFqR09ZV0t1VzVQTEthMHFBOHRIUWl1SldrNzRWb3Nob1BoYndmWWZvUy1USXh1Qi1QWnJuNThjN3AzelJnd25EaS1xUVUzaF9yOTdaR1N5OThQS3fSAbwBQVVfeXFMTzA1b3FUYWU2Q184c2hYWERyN3ZwOGxSWTJQWkgtUzV5SURtYms0SkpLT0pteDBYUnBfNlc2QjJSVUlKbE8ta25tcTY2VXVnaG95T3FmcWlEbmlfdFJQV0xBcUVfTWl1dnpScW1peHdmQmdzRTRxMXljWlBnVF9ESmdiNkdMNW9LS0F0LVFCa255ZERwS3gwUmZkU1dDR0FoSDhERjgybkNtMjVaaHQzVlNuZHU3VVY5cmxkajI?oc=5",
+   "outlet": "TechPowerUp",
+   "via": "Google News",
+   "published": "2026-11-25T01:33:29+00:00",
+   "seen": "2026-11-25T01:37:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Witcher 4 should improve on Witcher 3 as much as GTA 6 did on GTA 5, according to CDPR."
+  },
   {
    "id": "gta 6 s 3 79b day vs highest grossing video games",
    "title": "GTA 6's $3.79B Day vs Highest-Grossing Video Games",
@@ -129,6 +155,32 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports a GTA 6 Easter egg that is highly intricate and would be found by dedicated Vice City fans."
+  },
+  {
+   "id": "rockstar games employees voting to unionize amid gta vi release",
+   "title": "Rockstar Games Employees Voting to Unionize Amid ‘GTA VI’ Release",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFQeWYxUHh3NnBDdXotbmJSenQwWnotVDlQS2pOVDd3ajZVX2M1N29rUGNpYWxlMkhBSXdXYkNrQk5xek9CNUtKclBZem9hTlA5RkV2UXo3Y2VpUzZLYjBwdmVBTktXekdmSjkyUXQwTmZrOURma3JzcWtyTDY0Zy1pdDFVMDhza3o3VktuVmtuUlZHdEF2ZmRJVUlpaFFaUWc?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-25T01:08:00+00:00",
+   "seen": "2026-11-25T01:37:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Rockstar Games employees are voting to unionize amid the GTA VI release."
+  },
+  {
+   "id": "grand theft auto vi sets record 3 79b in first day retail sales rockstar games reports",
+   "title": "'Grand Theft Auto VI' sets record $3.79B in first-day retail sales, Rockstar Games reports",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYkdzNWhiclIzU2xHZ1M0Uy1tNUxqNm9KY0ZkMFRkQ05ZS2thT19LUmZhcF9zNUJYM1BZampsTUJTM3Q5MGZvNWVlU25nSXNfUkx0NEhtVl84QmgyeERDQVFBbnpfZmZzNmNHYUJWdGtUd1REaGlTcTVTQmtfSnNoaWxIbEZpU3YtaWVIR0xMS1lRVTFXaDBPTjNTWExmc2hrbUg5NDJEVmpSeHNNbnN2V3NUM0k4cnNCUUV0VEQxd2NTRGNZRlF4XzN4U3hQdFhxalpCMGZZWi0zVXl5YnhQN0J4WVBrN20xYmwtU01WWFEyai1tVjNQc3BkQzk?oc=5",
+   "outlet": "The Wenatchee World",
+   "via": "Google News",
+   "published": "2026-11-25T01:03:00+00:00",
+   "seen": "2026-11-25T01:37:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Grand Theft Auto VI reports record first-day retail sales of $3.79B, per Rockstar Games."
   },
   {
    "id": "feature we travelled across gta 6 s map using only public transport",
