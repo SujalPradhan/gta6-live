@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T17:18:38+00:00",
- "started": "2026-11-25T17:18:31+00:00",
+ "updated": "2026-11-25T17:23:46+00:00",
+ "started": "2026-11-25T17:23:40+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T17:18:32+00:00"
+   "checked": "2026-11-25T17:23:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-25T17:18:32+00:00"
+   "hits": 56,
+   "checked": "2026-11-25T17:23:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 75,
-   "checked": "2026-11-25T17:18:33+00:00"
+   "hits": 63,
+   "checked": "2026-11-25T17:23:41+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T17:18:33+00:00"
+   "checked": "2026-11-25T17:23:41+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T17:18:33+00:00"
+   "checked": "2026-11-25T17:23:41+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T17:18:33+00:00"
+   "checked": "2026-11-25T17:23:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T17:18:34+00:00"
+   "checked": "2026-11-25T17:23:42+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T17:18:34+00:00"
+   "checked": "2026-11-25T17:23:42+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T17:18:34+00:00"
+   "checked": "2026-11-25T17:23:42+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-25T17:18:34+00:00"
+   "checked": "2026-11-25T17:23:42+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T17:18:35+00:00"
+   "checked": "2026-11-25T17:23:43+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T17:18:35+00:00"
+   "checked": "2026-11-25T17:23:43+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T17:18:35+00:00"
+   "checked": "2026-11-25T17:23:43+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T17:18:35+00:00"
+   "checked": "2026-11-25T17:23:43+00:00"
   }
  },
  "items": [
+  {
+   "id": "what indie musicians can learn from gta 6 s record breaking rollout and 3 79 billion launch",
+   "title": "What Indie Musicians Can Learn From GTA 6's Record-Breaking Rollout And $3.79 Billion Launch",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1d2NU0xNzM1LWhWN3BHOENWYkhadmVYekFESmY0SnB5MVpSczR6eUxRZFBPSEZVUGhDY1lWYjB2QWwzWnBFRnBsc1NmeGRCaWFMTlhlbWl4RHZPV3dYUVVuc0dZMWxab3BESU9aRVhlaXlCNWk0SW8xQVFyR0pwNW10eUtnSGEteHVVajFGbnR3cnJPSDJFQi1WenFlS19ER0RaWGpRbmhKMzN5U0h2cnk2M1Zqdm5uNDJXV0huSHFhQTN1T1l0dlZOeWU?oc=5",
+   "outlet": "That Eric Alper",
+   "via": "Google News",
+   "published": "2026-11-25T17:20:18+00:00",
+   "seen": "2026-11-25T17:23:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true,
+   "ai_summary": "Indie musicians can learn from GTA 6's rollout and launch performance reported by That Eric Alper."
+  },
   {
    "id": "gta vi marks a triumphant return to vice city",
    "title": "GTA VI marks a triumphant return to Vice City",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "GTA 6's Dirty South Classics Radio station celebrates southern rap and its setting."
+  },
+  {
+   "id": "how to get impounded cars back in gta 6",
+   "title": "How to Get Impounded Cars Back in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qbGxVMHpPR0F0TXo1dmdjazAyVG5kRDEybGhjQ2lETWdNYkRfem5SX1J6Wmp5enlDWUpCMGJlc0o1dVh3TV9uYmdDa2xIV19BeFlmWFhDQmNFcHlzZzJXOEpiNUU5RW5ua05NU2dOelJuQ29PVUE?oc=5",
+   "outlet": "GameTyrant",
+   "via": "Google News",
+   "published": "2026-11-25T17:15:00+00:00",
+   "seen": "2026-11-25T17:23:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to get impounded cars back in GTA 6, according to GameTyrant."
   },
   {
    "id": "gta 6 auntie s place location in laperle",
@@ -313,6 +339,19 @@
    "ai_summary": "The story notes Take-Two's GTA 6 PC port crackdown has taken down over 3,000 repositories."
   },
   {
+   "id": "grand theft auto vi s breakout star is cool dog here s how to meet them",
+   "title": "Grand Theft Auto VI’s Breakout Star is Cool Dog – Here’s How to Meet Them",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2hyQXdob1Rub2pjeWtaRWNaWWNYS05Ubkw3T2xDQl9MTTFBQ2kzYmxYRzJVWjRTTXFBdVNxazFIV3AtMlJpNWVvTVJUZFg0NVFQOHhnelp0STcxT2RHaTV6TWhUcldhV1QtNjduOThHc2g2bktJUzNGWEhRbWlveHY4X3VlNjRCU2t2Q3p3WFhPaXl5MjBPdWxfakNuOGtkZjhab2lQZFZQZkxldkFINldkQ2NOZkxp?oc=5",
+   "outlet": "Game Informer",
+   "via": "Google News",
+   "published": "2026-11-25T16:56:23+00:00",
+   "seen": "2026-11-25T17:23:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI’s breakout star is a cool dog, with details on how to meet them from Game Informer."
+  },
+  {
    "id": "100 limited edition gta 6 ps5 pro consoles released by rockstar but retail bundle unlikely",
    "title": "100 limited-edition GTA 6 PS5 Pro consoles released by Rockstar, but retail bundle unlikely",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalZoWkI2c2k1bkZqMGFuZUxZYVlpNDRsZy1NcjdzVWtGMG1kaWFUX3FPVDhKME1OeVdOdGF3Y3I3RHBJMkhfb3FtZ1pPblZfRDRyUG9vVmtVUzNjVWpzTkhHQy16UkxWMzU3SXRoMXFZZkxMOTRDUHY1TkxLLXpoT2NWSTVqNExvZlBSMnJFT3NIbGY1Uy1kWGEzT3VxWkV6S2Fwam5fdEpHbVRXeW5ZMFVkS3oxRTBRb0R1eVFkSVZ3OEJFSnFnSEpSbExFNG9E?oc=5",
@@ -350,6 +389,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA VI seems to be overheating some PS5s."
+  },
+  {
+   "id": "ps5 consoles are selling out in the us after gta 6 s launch",
+   "title": "PS5 consoles are selling out in the US after GTA 6's launch",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14amZrVExfS1h1SzcxVUVBVmszc0xPQ1diNnFCTG9hRjlVdlZzdGNTNzZoVV85cFdSMlo2bW82Tk5LRUZWM0RhV1ZNLXFkTTFHcmg0VzJMU3dMdG95QTQwbm9DR1lwVFNuM29j?oc=5",
+   "outlet": "GGRecon",
+   "via": "Google News",
+   "published": "2026-11-25T16:47:49+00:00",
+   "seen": "2026-11-25T17:23:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "PS5 consoles are selling out in the US after GTA 6's launch, as reported by GGRecon."
   },
   {
    "id": "new gta 6 money farm involves winning a fist fight against a viral npc fans once thought invincible",
