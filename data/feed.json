@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T04:28:58+00:00",
- "started": "2026-11-25T04:28:55+00:00",
+ "updated": "2026-11-25T04:33:59+00:00",
+ "started": "2026-11-25T04:33:54+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T04:28:55+00:00"
+   "checked": "2026-11-25T04:33:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T04:28:56+00:00"
+   "checked": "2026-11-25T04:33:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 62,
-   "checked": "2026-11-25T04:28:56+00:00"
+   "checked": "2026-11-25T04:33:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T04:28:56+00:00"
+   "checked": "2026-11-25T04:33:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T04:28:57+00:00"
+   "checked": "2026-11-25T04:33:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T04:28:57+00:00"
+   "checked": "2026-11-25T04:33:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T04:28:57+00:00"
+   "checked": "2026-11-25T04:33:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T04:28:57+00:00"
+   "checked": "2026-11-25T04:33:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T04:28:57+00:00"
+   "checked": "2026-11-25T04:33:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T04:28:58+00:00"
+   "checked": "2026-11-25T04:33:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T04:28:58+00:00"
+   "checked": "2026-11-25T04:33:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T04:28:58+00:00"
+   "checked": "2026-11-25T04:33:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T04:28:58+00:00"
+   "checked": "2026-11-25T04:33:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T04:28:58+00:00"
+   "checked": "2026-11-25T04:33:58+00:00"
   }
  },
  "items": [
@@ -129,6 +129,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The GTA 6 prologue now runs on PC with a Radeon RX 7800 XT at 2 FPS."
+  },
+  {
+   "id": "gta creator acknowledges the series main problem in gta vi lucia changed everything",
+   "title": "GTA creator acknowledges the series’ main problem. In GTA VI, Lucia changed everything",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlZSTVQ2d3JPQ3BDUThweTgxRTBvWldtTV9RY1o1U0RSb3JCVTlsWXliVlN4U2ZCUjVQbVlyeUd4UkZDSE9oTERnSHlDTW9mQi1jMEZkVWJoMGtuRktYSi1nZThRMEFhYVlEVmtwVG5KSG1ab3pHRTQ1TUF4MjVMdkxWckM3d2ItME1TYzFzOXM1UldSX1dETTJmdURUNTM3NE5UYkxnTUV3TExQMGY1NlM5LUFhWU1C0gG-AUFVX3lxTFBfMUhMZ3RJbE45SnQzcmZFNWFzck9wek51Tm4tZEhDd2Q4SnJQVi1wNkdUMHpCdElUbzFsZVZYT1VjMWNKX2xUMFZsTGJZbXlhcGI1V0NBbHVveUhRSnF2R2F5Q19hdzFwTk5qazdiN1Exb0U3YnNZVTdqRjRTVGNGWUw4Y1liTGM5ZURseENtTzZrVjdJZU5kY1ptLWxwc0pWX0xkNW5pa0tBb0xKLTNzeTVkb2t5OF83ajl0bXc?oc=5",
+   "outlet": "iXBT.games",
+   "via": "Google News",
+   "published": "2026-11-25T03:59:00+00:00",
+   "seen": "2026-11-25T04:33:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The article states that the GTA creator acknowledges the series’ main problem and that Lucia changed everything in GTA VI."
   },
   {
    "id": "gta 6 release date causes mass ps5 console shortage before black friday sales",
@@ -181,6 +194,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story claims analysts estimate Call of Duty lost a significant player base when GTA 6 released, with recovery slow compared to live-service competitors."
+  },
+  {
+   "id": "nick eh 30 goes full chaos in gta 6 streams",
+   "title": "Nick Eh 30 Goes Full Chaos in GTA 6 Streams",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZi1jUTU5MUN4UTl6eG9nTWZpU28xOWFDNXNBbkNzRGlueUVJTUxYME96YmlBMzhOQUVMTWlDQmc0a2NtMDl6TktWSGdTUnhmR0xCeGdiUQ?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-25T03:29:37+00:00",
+   "seen": "2026-11-25T04:33:55+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The article reports Nick Eh 30 goes full chaos in GTA 6 streams."
   },
   {
    "id": "grand theft auto vi review gameplay impressions videos and top features",
