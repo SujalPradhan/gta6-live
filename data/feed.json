@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T14:42:43+00:00",
- "started": "2026-11-25T14:42:35+00:00",
+ "updated": "2026-11-25T14:47:40+00:00",
+ "started": "2026-11-25T14:47:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T14:42:35+00:00"
+   "hits": 100,
+   "checked": "2026-11-25T14:47:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-25T14:42:36+00:00"
+   "checked": "2026-11-25T14:47:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-25T14:42:36+00:00"
+   "hits": 75,
+   "checked": "2026-11-25T14:47:36+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T14:42:36+00:00"
+   "checked": "2026-11-25T14:47:36+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T14:42:37+00:00"
+   "checked": "2026-11-25T14:47:36+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T14:42:37+00:00"
+   "checked": "2026-11-25T14:47:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T14:42:38+00:00"
+   "checked": "2026-11-25T14:47:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T14:42:38+00:00"
+   "checked": "2026-11-25T14:47:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T14:42:38+00:00"
+   "checked": "2026-11-25T14:47:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T14:42:38+00:00"
+   "checked": "2026-11-25T14:47:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:42:39+00:00"
+   "checked": "2026-11-25T14:47:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T14:42:39+00:00"
+   "checked": "2026-11-25T14:47:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T14:42:39+00:00"
+   "checked": "2026-11-25T14:47:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T14:42:39+00:00"
+   "checked": "2026-11-25T14:47:37+00:00"
   }
  },
  "items": [
@@ -155,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that Max Verstappen played 40 hours of GTA 6 before winning the Las Vegas Grand Prix."
+  },
+  {
+   "id": "vice city s secret south florida paradise marine biologists fact check grand theft auto vi s leonida keys",
+   "title": "Vice City’s secret South Florida paradise: Marine biologists fact-check Grand Theft Auto VI’s ‘Leonida Keys’",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSTBGX3ZrZDlESlpWV1VBWGxRa1FyOEFZRk81eWpIOUFSWERoZVRFZGRrZUw1TnRoYjdUNFhqN0hxTXZXOWlpMXFzNDVEYTI2N3FRN1JVMi1wVjlTSk1hY3hPa0djYmJiZnNNQWhiLVFjc0FVNmQtQXZkUnk1ZDZHTzFacFphekhfcUExVzdzT2xyX252NTRxTjI0ZXRCSkpUN1doYld5Sm9YbHBLWWRHYlRaOHBZdmYtY0hKYzh1QUlHRmZpaG5xa043Q0N3elJBSWVaUHRrTG1zUGNk?oc=5",
+   "outlet": "Sun Sentinel",
+   "via": "Google News",
+   "published": "2026-11-25T14:30:43+00:00",
+   "seen": "2026-11-25T14:47:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims Vice City contains a secret South Florida paradise in GTA VI that marine biologists are fact-checking."
   },
   {
    "id": "gta 6 causes ps5 consoles to sell out in us before black friday",
@@ -415,6 +428,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story notes that headphones are a Vice City specialty, related to something Rockstar tried to add in Grand Theft Auto: Vice City."
+  },
+  {
+   "id": "rockstar games parent company secured takedown of thousands of gta vi copies on github after game files leaked",
+   "title": "Rockstar Games’ Parent Company Secured Takedown of Thousands of GTA VI Copies on GitHub after Game Files Leaked",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMU10QXhwWDRmZ2R6M2ozRFEwbkdLMnQyUXlCMFV0MmQ4S0tPT1JOSDRSZU1SUkdGcTF4TEVacnpmYUsyLTZCc1FnMmw2QmJWODFNVWtvR0M0NXByc3VVYzcyeVAzbGFJM2xFMU9GbDBZYkprX01sbEhXcjh5WktpMmdVU1JZWEVTUjFMd000LXI4cEpfT0NjTXdkbGRseVRiS0ZOUklsU0hsWjFJQVVIWmt0emtQdWdGUWp3eE5BQ0YzT2ROcUx3RmFndWJJZW0tc1E?oc=5",
+   "outlet": "Incrypted",
+   "via": "Google News",
+   "published": "2026-11-25T13:55:35+00:00",
+   "seen": "2026-11-25T14:47:35+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that Rockstar Games’ parent company secured a takedown of thousands of GTA VI copies on GitHub after game files leaked."
   },
   {
    "id": "how to listen to the radio while walking in gta 6",
