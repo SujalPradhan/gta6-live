@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T18:18:55+00:00",
- "started": "2026-11-25T18:18:50+00:00",
+ "updated": "2026-11-25T18:23:57+00:00",
+ "started": "2026-11-25T18:23:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T18:18:50+00:00"
+   "checked": "2026-11-25T18:23:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 41,
-   "checked": "2026-11-25T18:18:51+00:00"
+   "hits": 55,
+   "checked": "2026-11-25T18:23:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 77,
-   "checked": "2026-11-25T18:18:51+00:00"
+   "hits": 66,
+   "checked": "2026-11-25T18:23:52+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T18:18:51+00:00"
+   "checked": "2026-11-25T18:23:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T18:18:52+00:00"
+   "checked": "2026-11-25T18:23:53+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T18:18:52+00:00"
+   "checked": "2026-11-25T18:23:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T18:18:52+00:00"
+   "checked": "2026-11-25T18:23:53+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T18:18:52+00:00"
+   "checked": "2026-11-25T18:23:53+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T18:18:52+00:00"
+   "checked": "2026-11-25T18:23:53+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T18:18:53+00:00"
+   "checked": "2026-11-25T18:23:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T18:18:53+00:00"
+   "checked": "2026-11-25T18:23:54+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T18:18:53+00:00"
+   "checked": "2026-11-25T18:23:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T18:18:53+00:00"
+   "checked": "2026-11-25T18:23:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T18:18:53+00:00"
+   "checked": "2026-11-25T18:23:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "one of gta 6 s best features was actually planned for gta vice city reveals ex rockstar dev",
+   "title": "One of GTA 6's Best Features Was Actually Planned for GTA: Vice City, Reveals Ex-Rockstar Dev",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeTFDcVhCRGRJY3VfbkFscUJKSmplU2wwNXZoSzhMX0lJWEZfdG9tOUp0bDUxUUhEdDQyejVKbEFwLXVMRFFjWWkweVFsbE82V21sZl9TZE5ZQ0FzMjRBM0w4SExiMEJQaXo5MkJHWU0tck04X2kxNTBpQ1NZOG96WDc3dUZJcDBhVmhyVmthelE1bHQ3T1RmeENWb2ZLX1BRS3JGN2ttWUtUa3lSZnpOa29nb0FhY2ltbVRDQmpPM1BsSU9WbW9NbExsb2lXZjk5amFmdTJrQ0NYQ0JYMDZwenhnY3A?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-25T18:14:08+00:00",
+   "seen": "2026-11-25T18:23:51+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims that one of GTA 6's best features was originally planned for GTA: Vice City according to an ex-Rockstar developer."
+  },
   {
    "id": "should christians play gta vi christian leaders creators weigh in",
    "title": "Should Christians play GTA VI? Christian leaders, creators weigh in",
@@ -155,6 +168,19 @@
    "topic": "Outage",
    "record": false,
    "ai_summary": "Attempts to shut down PC port attempts for GTA 6, with the outcome uncertain."
+  },
+  {
+   "id": "ps5 sells out at us retailers after gta 6 launch before black friday",
+   "title": "PS5 sells out at US retailers after GTA 6 launch, before Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84NGhWMnZSM0NlNWQyMmFlaDZiS2FwTWNmRFUtWVhfWkJVcHJNYTVlOTZtT2o1RlQ2LTJkSFM5N2Z2NEhlNHRObkV2UjVyOUNDem81bkxYQlBoVHc5eVpYNHQtMGN1YURoOHpTcG9pbl9UUQ?oc=5",
+   "outlet": "games.gg",
+   "via": "Google News",
+   "published": "2026-11-25T17:59:11+00:00",
+   "seen": "2026-11-25T18:23:52+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that PS5 consoles sold out at US retailers following the GTA 6 launch before Black Friday."
   },
   {
    "id": "how to find and complete sunrise rv park illegal operation in gta 6 all key valuables",
