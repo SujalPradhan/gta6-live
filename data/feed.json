@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T22:10:23+00:00",
- "started": "2026-11-25T22:10:16+00:00",
+ "updated": "2026-11-25T22:15:21+00:00",
+ "started": "2026-11-25T22:15:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T22:10:16+00:00"
+   "checked": "2026-11-25T22:15:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 34,
-   "checked": "2026-11-25T22:10:17+00:00"
+   "hits": 54,
+   "checked": "2026-11-25T22:15:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-25T22:10:17+00:00"
+   "hits": 66,
+   "checked": "2026-11-25T22:15:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:10:18+00:00"
+   "checked": "2026-11-25T22:15:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T22:10:18+00:00"
+   "checked": "2026-11-25T22:15:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T22:10:18+00:00"
+   "checked": "2026-11-25T22:15:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T22:10:19+00:00"
+   "checked": "2026-11-25T22:15:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T22:10:19+00:00"
+   "checked": "2026-11-25T22:15:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T22:10:19+00:00"
+   "checked": "2026-11-25T22:15:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T22:10:19+00:00"
+   "checked": "2026-11-25T22:15:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T22:10:20+00:00"
+   "checked": "2026-11-25T22:15:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T22:10:20+00:00"
+   "checked": "2026-11-25T22:15:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T22:10:20+00:00"
+   "checked": "2026-11-25T22:15:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T22:10:20+00:00"
+   "checked": "2026-11-25T22:15:19+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims to reveal where to find the Rolls-Royce SUV in GTA 6."
+  },
+  {
+   "id": "guide gta 6 secret controls the game doesn t tell you",
+   "title": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
+   "link": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-25T22:00:00+00:00",
+   "seen": "2026-11-25T22:15:18+00:00",
+   "summary": "Pro tips. GTA 6 has a complicated control scheme that allows you to interact with the game in a variety of different ways. And while Rockstar does a good job introducing almost all of the title's mechanics, several useful features and commands are never mentioned by the game. In this GTA 6 guide , we're going to tell you about some of its secret controls. <blocks> Read the full article on pushsqua",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on a guide revealing secret controls and useful features in GTA 6 that the game does not mention."
   },
   {
    "id": "30 things you might have missed in gta 6",
