@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T15:33:02+00:00",
- "started": "2026-11-25T15:32:53+00:00",
+ "updated": "2026-11-25T15:38:00+00:00",
+ "started": "2026-11-25T15:37:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-25T15:32:53+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T15:37:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-25T15:32:54+00:00"
+   "hits": 55,
+   "checked": "2026-11-25T15:37:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-25T15:32:54+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T15:37:55+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T15:32:54+00:00"
+   "checked": "2026-11-25T15:37:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T15:32:55+00:00"
+   "checked": "2026-11-25T15:37:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T15:32:57+00:00"
+   "checked": "2026-11-25T15:37:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T15:32:57+00:00"
+   "checked": "2026-11-25T15:37:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T15:32:57+00:00"
+   "checked": "2026-11-25T15:37:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T15:32:58+00:00"
+   "checked": "2026-11-25T15:37:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T15:32:58+00:00"
+   "checked": "2026-11-25T15:37:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T15:32:58+00:00"
+   "checked": "2026-11-25T15:37:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T15:32:59+00:00"
+   "checked": "2026-11-25T15:37:56+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T15:32:59+00:00"
+   "checked": "2026-11-25T15:37:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T15:32:59+00:00"
+   "checked": "2026-11-25T15:37:57+00:00"
   }
  },
  "items": [
+  {
+   "id": "the top 25 craziest things that have happened to me in gta 6",
+   "title": "The Top 25 Craziest Things That Have Happened To Me In ‘GTA 6’",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEtGeVp1SFJvNG1qY2ktMkxERkhYT2M1bXNfQ2NZMVRxLUtVdWEwUjROS05SRnRLNi1oeEh6d0RId0pPM191MGpQSHllMXEyeFFEbXFVMllremdCZGp4aUVsZnNobDVFR3QwbFhrOGJNeGRMUXEtcEF5aU53cDZVSTdXTXAxd3BKNFZzUFVhNGtETU5mRHNRNzNCS3pFMWVHajJvb256QmM4MDc0WWRUUQ?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-25T15:33:17+00:00",
+   "seen": "2026-11-25T15:37:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Forbes reports a list of the top 25 craziest things that have happened to the writer in GTA 6."
+  },
+  {
+   "id": "gta 6 there are a few very good reasons to go back to jason s house after chapter 1",
+   "title": "GTA 6: There Are a Few Very Good Reasons to Go Back to Jason’s House After Chapter 1",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0lURVpudjQ4S1JGT0I2azFZYmhpN0dBM1E2TmVQVElXS2haVTRUTkRLa1NIUklkUFBqSTc0QTJXcTVzZk8wQUE4SWZPQXpvcThteGdONDdibDE3YUMwRlFSeEx5UTZXMGZ2Q3A1N19VaXp5SW01ZE1iVUFFZndLTFVOazV1MlhWaldTbkVGS1dnbFJSY0VzWTllSQ?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T15:32:17+00:00",
+   "seen": "2026-11-25T15:37:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "IGN notes there are a few very good reasons to go back to Jason’s House after Chapter 1 in GTA 6."
+  },
   {
    "id": "feature seven improvements we d still love to see in gta 6",
    "title": "Feature: Seven Improvements We'd Still Love To See In GTA 6",
@@ -116,6 +142,19 @@
    "topic": "Reviews",
    "record": false,
    "ai_summary": "The story discusses seven improvements the authors would still like to see in GTA 6."
+  },
+  {
+   "id": "gta 6 may actually play better on xbox after all",
+   "title": "GTA 6 May Actually Play Better on Xbox After All",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUV95NWdfTkZNVjluejRueDVqQnJnSUhfWXZvdFBjS1BzX0p4Z1A4LU4xQ2VkelJQUkdUYXR0NmU5cTVmSWpXWHVWOWQ0c2JHMks1TEZscnlFT0dpSXI1V0FhS1c5Nk5ubHRCOXhOdFY0R0xXMVZnY3dTOXlGMy1QTlItMm1RQQ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-25T15:27:45+00:00",
+   "seen": "2026-11-25T15:37:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Polygon.com suggests GTA 6 may actually play better on Xbox after all."
   },
   {
    "id": "the outrage over jason buying lucia flowers is gta 6 s dumbest controversy",
@@ -519,6 +558,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a guide to understanding Grand Theft Auto 6 for the average person."
+  },
+  {
+   "id": "gta 6 amassed an impressive number of views on youtube on its release day twitch and kickstarter are not far behind",
+   "title": "GTA 6 amassed an impressive number of views on YouTube on its release day - Twitch and Kickstarter are not far behind",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdEtta1llQUJnb2tEa2pUVHVIVlNpSXd2TGZIZm1EaDBMRlk2V01xSVBzVkVrSF9Dcm5hTFVJdFVnQmJzSEZXQk9ZV0taRUxvN3ZGWlEyRU9hd040V2QzS1hTMGpfOUhabUFsVVdCbERaQkhnSnhDRlhxX1F3VGx0UUc0YWhsNUl5NEhkXzdKR3FhUHRWMUpYeDc3MUNvbjZhOG9vdm9taUJWZHI4bi1Fa1JsN3ZQRENHYWpFMm1zTVpWcGJRcGpwVFlZSE5vZFNya1JZYVFn0gHUAUFVX3lxTE4zQnJQUnNwbTJMaEhLdmZYSDNRN1VZcjBuTGQ5RGlmdGN4S0xMSnpjM2lFUVhIaEdQTU55VG9FM0ZORlJobW9lbG5WUHlPMC01OXNCb2VRcXdmQWJRNmdDQ1pYSS1iQ2hUdXVhWjFzNTc0VnpReW90NHJyUnNhZ1JEQ201MW5TdWM1OExnZVBhSllDRDZFN2Rmc3pfRHlzTTFaRUV0Q2FncndNMldmTm9xZDFGSmNvVGFyV0M3S3lpZUxjVlJzS2RMQWpkZ0JLTjh4TjEz?oc=5",
+   "outlet": "Українські Національні Новини (УНН)",
+   "via": "Google News",
+   "published": "2026-11-25T14:42:08+00:00",
+   "seen": "2026-11-25T15:37:54+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "UNN reports GTA 6 amassed an impressive number of views on release day, with Twitch and Kickstarter not far behind."
   },
   {
    "id": "gta 6 how to get the good ending",
