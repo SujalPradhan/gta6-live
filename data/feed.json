@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T08:55:34+00:00",
- "started": "2026-11-25T08:55:29+00:00",
+ "updated": "2026-11-25T09:00:35+00:00",
+ "started": "2026-11-25T09:00:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T08:55:30+00:00"
+   "hits": 98,
+   "checked": "2026-11-25T09:00:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-25T08:55:30+00:00"
+   "checked": "2026-11-25T09:00:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 82,
-   "checked": "2026-11-25T08:55:31+00:00"
+   "hits": 81,
+   "checked": "2026-11-25T09:00:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T08:55:31+00:00"
+   "checked": "2026-11-25T09:00:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T08:55:31+00:00"
+   "checked": "2026-11-25T09:00:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T08:55:32+00:00"
+   "checked": "2026-11-25T09:00:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T08:55:32+00:00"
+   "checked": "2026-11-25T09:00:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T08:55:32+00:00"
+   "checked": "2026-11-25T09:00:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T08:55:33+00:00"
+   "checked": "2026-11-25T09:00:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T08:55:33+00:00"
+   "checked": "2026-11-25T09:00:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T08:55:34+00:00"
+   "checked": "2026-11-25T09:00:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T08:55:34+00:00"
+   "checked": "2026-11-25T09:00:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T08:55:34+00:00"
+   "checked": "2026-11-25T09:00:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T08:55:34+00:00"
+   "checked": "2026-11-25T09:00:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "max verstappen admits he played 40 hours of gta 6 during the las vegas gp weekend and still won",
+   "title": "Max Verstappen admits he played 40 hours of GTA 6 during the Las Vegas GP weekend, and still won",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM01LdnQySzFlZ2hUcmN0ODFkY0ZkY1ZtMGlQeVJTU0lWOFNKRmhLRzZBM0FESzN5TVpyc3Nac25udTg2YVEzSENXcExENXlST1kxM01LMnZSOElhN1llNE1WV2hnVXI4Y01HNDRyZTlBdTEyODJvbm5FR19JQjFoeVVlNHVOekZMY1FKRDBlRFpqRXJ0eTNNRlBhUDl5WVpfVm40UVRJUk5BQ1hJZWtjeVZxNEpDcmVhYU9NamlnVWFPVjhpVDg1NUV0N0pxcGk5QVRXQmR5cW5zUzVp0gHqAUFVX3lxTE0wWG5lU1ZhMy1PS01WNU1od3BTWUE0MkFMSWlnTHBLb1BZV1hpOGxfWDgxZVQtLWN0MFE5TzdZenZDZ1QyU0tTWXROV1JqaktIUVFPejZ2S1FMTmVZVDlWWXkwSEtBdHBSMlBseGlCdk9uVXJhZlJqdzdVV3ZIbjZrVzFFdm5vTVMwM1JkY0lWcGMwVFAzQ0VhaDY4all1Znd4NWxTMy1xSTM0LVEyVUxVZW1oLVRWd0pTUkJQRTBuc2pJek0zYWFtWGlFY3FGcGpnNXBVRUp6RFRZUDM3UW03NG10enlXN2JUdw?oc=5",
+   "outlet": "IndulgExpress",
+   "via": "Google News",
+   "published": "2026-11-25T08:38:07+00:00",
+   "seen": "2026-11-25T09:00:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims Verstappen admits playing GTA 6 for a long session during the Las Vegas GP weekend and still winning."
+  },
   {
    "id": "gta 6 runs better on xbox series x than ps5 despite sony declaring it plays best on ps5",
    "title": "GTA 6 runs better on Xbox Series X than PS5 despite Sony declaring it 'plays best on PS5'",
