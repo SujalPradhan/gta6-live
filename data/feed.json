@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T23:30:44+00:00",
- "started": "2026-11-25T23:30:39+00:00",
+ "updated": "2026-11-25T23:35:48+00:00",
+ "started": "2026-11-25T23:35:42+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T23:30:39+00:00"
+   "checked": "2026-11-25T23:35:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-25T23:30:40+00:00"
+   "checked": "2026-11-25T23:35:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-25T23:30:40+00:00"
+   "hits": 67,
+   "checked": "2026-11-25T23:35:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-25T23:30:40+00:00"
+   "checked": "2026-11-25T23:35:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T23:30:40+00:00"
+   "checked": "2026-11-25T23:35:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T23:30:41+00:00"
+   "checked": "2026-11-25T23:35:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T23:30:41+00:00"
+   "checked": "2026-11-25T23:35:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T23:30:41+00:00"
+   "checked": "2026-11-25T23:35:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:30:41+00:00"
+   "checked": "2026-11-25T23:35:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T23:30:41+00:00"
+   "checked": "2026-11-25T23:35:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T23:30:42+00:00"
+   "checked": "2026-11-25T23:35:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T23:30:42+00:00"
+   "checked": "2026-11-25T23:35:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:30:42+00:00"
+   "checked": "2026-11-25T23:35:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T23:30:42+00:00"
+   "checked": "2026-11-25T23:35:46+00:00"
   }
  },
  "items": [
@@ -142,6 +142,19 @@
    "topic": "Streaming",
    "record": false,
    "ai_summary": "Spotify reports large spikes in streams for music featured in GTA 6, including a Carly Rae Jepsen song."
+  },
+  {
+   "id": "kevin durant delivers update everybody wanted to hear his gta 6 progress",
+   "title": "Kevin Durant delivers update everybody wanted to hear – his GTA 6 progress",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUpMUkRaT0FHYWQwcm1kSjh3MkpmdkJUemE0VWpCX0pJbk1xcGRqZWhFMVlIcTVRdkdsMTI1dUE0eDJxVTBRX3FRX2hjVE1sLTd0OWZSSl9QMUItcjA1eEE5RVRPMEViWmJlOUpYcWhiVzRULWNRY09oNjRJb3UzNVRNWm9ZRndDam9xbnNJUktMcXhtOHc?oc=5",
+   "outlet": "Yahoo Sports",
+   "via": "Google News",
+   "published": "2026-11-25T23:16:56+00:00",
+   "seen": "2026-11-25T23:35:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports Kevin Durant provided an update that fans wanted regarding GTA 6 progress."
   },
   {
    "id": "rockstar is handing out 100 of these gorgeous limited edition gta 6 ps5 consoles and you can t buy one",
@@ -4328,6 +4341,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The report claims Take-Two is attempting to scrub GTA 6 PC ports from the Internet as Vibecoders pursue a controversial world first."
+  },
+  {
+   "id": "gta 6 fried my ps5 streamer claims",
+   "title": "GTA 6 ‘fried my PS5,’ streamer claims",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RZmR1b3R3Z3JvR0pPQzJBVkVPajlrQkhaeGRhQU4tNDQtLWtRWXh6T3JuR3B5dTlySmFWc1FPUzBPV0d6?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-25T12:56:11+00:00",
+   "seen": "2026-11-25T23:35:44+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "The story reports a streamer says GTA 6 fried their PS5."
   },
   {
    "id": "gta 6 became the biggest playstation launch check out the records",
