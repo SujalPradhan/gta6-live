@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T21:45:13+00:00",
- "started": "2026-11-25T21:45:07+00:00",
+ "updated": "2026-11-25T21:50:16+00:00",
+ "started": "2026-11-25T21:50:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T21:45:07+00:00"
+   "checked": "2026-11-25T21:50:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-25T21:45:08+00:00"
+   "hits": 32,
+   "checked": "2026-11-25T21:50:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-25T21:45:08+00:00"
+   "hits": 64,
+   "checked": "2026-11-25T21:50:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T21:45:09+00:00"
+   "checked": "2026-11-25T21:50:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T21:45:09+00:00"
+   "checked": "2026-11-25T21:50:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T21:45:09+00:00"
+   "checked": "2026-11-25T21:50:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T21:45:10+00:00"
+   "checked": "2026-11-25T21:50:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T21:45:10+00:00"
+   "checked": "2026-11-25T21:50:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T21:45:10+00:00"
+   "checked": "2026-11-25T21:50:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T21:45:10+00:00"
+   "checked": "2026-11-25T21:50:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T21:45:11+00:00"
+   "checked": "2026-11-25T21:50:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T21:45:11+00:00"
+   "checked": "2026-11-25T21:50:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T21:45:11+00:00"
+   "checked": "2026-11-25T21:50:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T21:45:11+00:00"
+   "checked": "2026-11-25T21:50:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 vault how to open them during big bank jobs",
+   "title": "GTA 6 vault: How to open them during big bank jobs",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HZzk4OEwwWW9aVDNJNHpweDByWUtaTFVuNHVaUnVrT2tBMk5XdFptNDhXX2F3Q2RQWWtfQkR1eUhxeFlkT3hpdDRWSTItcnVadFFMRDU5NUg2amNiVkxaUmEwMnhUbnpFOEhFcFptdG5vMGF5ZGduUEpaQQ?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-25T21:31:26+00:00",
+   "seen": "2026-11-25T21:50:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses methods for opening GTA 6 vaults during large bank heists."
+  },
   {
    "id": "how to find and complete kingpin bowling alley in gta 6 all key valuables",
    "title": "How to Find and Complete Kingpin Bowling Alley in GTA 6—All Key Valuables",
@@ -194,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The publisher is furious as reverse engineers get GTA 6 running on PC."
+  },
+  {
+   "id": "does gta 6 really play best on ps5 ign daily fix",
+   "title": "Does GTA 6 Really \"Play Best\" On PS5? - IGN Daily Fix",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVJucWZuOUNwTElQdnNCU1ZEdHBqZXhXVUUwMWp1cl81NjJqZEdUUWFwRUNFSlhVVmhfbi1jUFpzQU1Ha1VMLWdCQXB3bGtFamNfTjRENV9XRkFOdWJUZXdqTzg0ODNWYWNLWGZZWmtpQktYcFNXSEtuT0xjdk5uQw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T20:54:44+00:00",
+   "seen": "2026-11-25T21:50:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 plays best on PS5 according to IGN Daily Fix."
   },
   {
    "id": "gta vi soundtrack vinyl buy the album with poster on complex",
