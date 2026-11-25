@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T17:08:40+00:00",
- "started": "2026-11-25T17:08:35+00:00",
+ "updated": "2026-11-25T17:13:36+00:00",
+ "started": "2026-11-25T17:13:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T17:08:35+00:00"
+   "checked": "2026-11-25T17:13:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-25T17:08:36+00:00"
+   "hits": 56,
+   "checked": "2026-11-25T17:13:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-25T17:08:36+00:00"
+   "hits": 76,
+   "checked": "2026-11-25T17:13:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T17:08:36+00:00"
+   "checked": "2026-11-25T17:13:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T17:08:36+00:00"
+   "checked": "2026-11-25T17:13:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T17:08:36+00:00"
+   "checked": "2026-11-25T17:13:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T17:08:36+00:00"
+   "checked": "2026-11-25T17:13:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T17:08:36+00:00"
+   "checked": "2026-11-25T17:13:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T17:08:37+00:00"
+   "checked": "2026-11-25T17:13:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-25T17:08:37+00:00"
+   "checked": "2026-11-25T17:13:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T17:08:37+00:00"
+   "checked": "2026-11-25T17:13:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T17:08:37+00:00"
+   "checked": "2026-11-25T17:13:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T17:08:37+00:00"
+   "checked": "2026-11-25T17:13:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T17:08:37+00:00"
+   "checked": "2026-11-25T17:13:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 player gets 160 000 in one minute in the cleanest bank robbery we ve seen yet",
+   "title": "GTA 6 Player Gets $160,000 in One Minute In The Cleanest Bank Robbery We’ve Seen Yet",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlFYbXduVk4zeUt5Wk1NTER2cDZ0cVBkVkVQLXZreDI3ZXQ5aFlZOGZ3aGZCWjExS1JENVdwdEhBRVVkNWlFa1VpTTdRMWkxUkh6TVRidHM0M053THhhenpuWlJuWlZiNk93MjZpbjdPN0o1bnduWnlnbE11NXlTNjlWQnIwVXdCSGI2TEdWcms4dEhvQ3c?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T17:08:44+00:00",
+   "seen": "2026-11-25T17:13:30+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports a GTA 6 player receiving a large sum in a single minute during a bank robbery scene described as the cleanest."
+  },
   {
    "id": "in the mix trading brew city for vice city and the gta vi soundtrack",
    "title": "In the Mix: Trading Brew City for Vice City and the GTA VI soundtrack",
@@ -129,6 +142,19 @@
    "topic": "Sales",
    "record": true,
    "ai_summary": "The story reports that GTA VI sold a large number of copies and generated substantial revenue, and that players are finding easter eggs that claim it's the greatest game."
+  },
+  {
+   "id": "gta 6 owes everything to the legend of zelda ocarina of time",
+   "title": "GTA 6 Owes Everything to The Legend of Zelda: Ocarina of Time",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11cnpuUHYxYXl6WEd4VUVQckJsLWU0dnJFeU03MGVTNWhLWW80UmowdlRBN2NrRW5IakNIMVc2OWtvdV9RRURsSy1VMFl5dGdRdldTdmtCeGxXeW1PakcxQ00xNnNzZHYwWlBGaXA3UGFnOEVzcUI0?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-25T17:00:20+00:00",
+   "seen": "2026-11-25T17:13:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story states GTA 6 owes everything to The Legend of Zelda: Ocarina of Time."
   },
   {
    "id": "7 underrated gta 6 changes no one is talking about",
@@ -157,6 +183,19 @@
    "ai_summary": "The story reports that the GTA 6 vice president of music says it was an ideal opportunity to work with Justice to blend 80s Vice City style with contemporary electronic production for the game’s story."
   },
   {
+   "id": "gta 6 vice president of music says working with justice was the ideal opportunity and helped bridge the classic vice city 80s aesthetic with",
+   "title": "GTA 6 vice president of music says working with Justice was ‘the ideal opportunity’ and helped ‘bridge’ the classic Vice City ’80s aesthetic ‘with contemporary electronic production to create the perfect backdrop for Jason and Lucia’s story in the game’",
+   "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNckZrUHlDTGgtN1gxaHVTOHhLUUdoVFNBbE5yam95bnlsVm91ZllQV210MDNqWmlGN1Z2Qk9hQ01PU29hR1hZdGM5dEJ5SE1zd0UyNm44eXE4bXpmVzVTNkhSc2h2bldjM0RpX2VuVVZieTlLc3JJM3dlWGw4clc1a0VoZHAtVEhQMnZ4U3d6Ymx1UFVDSm1jcUR6RWtLeWxlUTVldEY0cXJKYTgza3Z6MV9mT2lJZ2dIVnNnSXJkN1MtVWNOVldmaUxKbGtHNU1valVrdG16QkxpRF80a1hYdXJObTRzWUFsNDBWTzBoZDRwd2otellMYzdkLUF3RC1GR1NjM2kzaldqN2pvTWVqeDhueUp6TklnOTdkX2ZpNGJFcDFHME9YaUlCdnZVcDVYTTQwWHV0eE5waHdJQ3lLVC1yYjhWbzBrVlM0ZE03UkF4OUhxMGRuWFlQSkFSVGpkNHpSRDZtNC1VcWptaTk0Q2EzTlU?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-25T17:00:00+00:00",
+   "seen": "2026-11-25T17:13:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story quotes the GTA 6 music vice president saying the collaboration with Justice bridges the 80s Vice City aesthetic with contemporary electronic production for the game."
+  },
+  {
    "id": "where to find bravado devil s rope gauntlet in gta 6 fastest cars location stats",
    "title": "Where To Find Bravado Devil’s Rope Gauntlet In GTA 6—Fastest Cars Location & Stats",
    "link": "https://insider-gaming.com/bravado-devils-rope-gauntlet-gta-6/",
@@ -168,6 +207,32 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The article explains where to find the Bravado Devil’s Rope Gauntlet in GTA 6 and outlines the car’s stats."
+  },
+  {
+   "id": "take two s gta 6 pc port crackdown has already taken down over 3 000 repositories",
+   "title": "Take-Two's GTA 6 PC Port Crackdown Has Already Taken Down Over 3,000 Repositories",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXBTUzdLNnY1OF9raDRhdEdRd3E1OS1QOG91YUFwSllabHBMTXZ0LWtmcXNIOGh0MjlCcUxRb1dvLVR1ZHl2WDBhQVMtc294M19HTjI3aVpOZlBsZ3FyZ2RiS28xUk1rRWRsXzUyYnY2STlNT3FmYUw0UGhYNWxwTmpTMERLYlRYZ1BlY0d6LXNJcjE5OHM5LXlLdXBCS0pRRE9FRlFZdGtrTmFESl91eg?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-25T16:57:00+00:00",
+   "seen": "2026-11-25T17:13:30+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story notes Take-Two's GTA 6 PC port crackdown has taken down over 3,000 repositories."
+  },
+  {
+   "id": "100 limited edition gta 6 ps5 pro consoles released by rockstar but retail bundle unlikely",
+   "title": "100 limited-edition GTA 6 PS5 Pro consoles released by Rockstar, but retail bundle unlikely",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalZoWkI2c2k1bkZqMGFuZUxZYVlpNDRsZy1NcjdzVWtGMG1kaWFUX3FPVDhKME1OeVdOdGF3Y3I3RHBJMkhfb3FtZ1pPblZfRDRyUG9vVmtVUzNjVWpzTkhHQy16UkxWMzU3SXRoMXFZZkxMOTRDUHY1TkxLLXpoT2NWSTVqNExvZlBSMnJFT3NIbGY1Uy1kWGEzT3VxWkV6S2Fwam5fdEpHbVRXeW5ZMFVkS3oxRTBRb0R1eVFkSVZ3OEJFSnFnSEpSbExFNG9E?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-25T16:56:00+00:00",
+   "seen": "2026-11-25T17:13:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports 100 limited-edition GTA 6 PS5 Pro consoles released by Rockstar, with a retail bundle unlikely."
   },
   {
    "id": "gta 6 still has the gritty patina of more controversial rockstar games former take two boss says",
