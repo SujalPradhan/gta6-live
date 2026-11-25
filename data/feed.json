@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T17:13:36+00:00",
- "started": "2026-11-25T17:13:29+00:00",
+ "updated": "2026-11-25T17:18:38+00:00",
+ "started": "2026-11-25T17:18:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,179 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T17:13:30+00:00"
+   "checked": "2026-11-25T17:18:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-25T17:13:30+00:00"
+   "hits": 43,
+   "checked": "2026-11-25T17:18:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 76,
-   "checked": "2026-11-25T17:13:31+00:00"
+   "hits": 75,
+   "checked": "2026-11-25T17:18:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-25T17:13:31+00:00"
+   "hits": 9,
+   "checked": "2026-11-25T17:18:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T17:13:31+00:00"
+   "checked": "2026-11-25T17:18:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T17:13:32+00:00"
+   "checked": "2026-11-25T17:18:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-25T17:13:32+00:00"
+   "checked": "2026-11-25T17:18:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T17:13:32+00:00"
+   "checked": "2026-11-25T17:18:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T17:13:32+00:00"
+   "checked": "2026-11-25T17:18:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 11,
-   "checked": "2026-11-25T17:13:33+00:00"
+   "checked": "2026-11-25T17:18:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T17:13:33+00:00"
+   "checked": "2026-11-25T17:18:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T17:13:33+00:00"
+   "checked": "2026-11-25T17:18:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T17:13:33+00:00"
+   "checked": "2026-11-25T17:18:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T17:13:33+00:00"
+   "checked": "2026-11-25T17:18:35+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi marks a triumphant return to vice city",
+   "title": "GTA VI marks a triumphant return to Vice City",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaU43LUd0ald0REYxUS1Zc2pWbTBlb2lhSFBKZ3VWWGlWdWdoMmhLUXg4NmY3aHdkQ3pBVzVZQUgzZFp0cmdtWG5PQnJVZGNEZ0VwbTlFY3FXVlhaNldOdG9SdXhwa0NVcDVNMzJTVUQ4TEJFR0E1eVlrOHA4cnFuc0Y1NndFS2N1Vkd3dlBHY1B0RkVNcloza2p5dFgyVU85aGZVMA?oc=5",
+   "outlet": "The Oracle",
+   "via": "Google News",
+   "published": "2026-11-25T17:16:21+00:00",
+   "seen": "2026-11-25T17:18:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA VI returns to Vice City in a triumphant return."
+  },
+  {
+   "id": "gta 6 s dirty south classics radio station shows love for the southern rap game representing its setting perfectly",
+   "title": "GTA 6's Dirty South Classics Radio Station Shows Love for the Southern Rap Game, Representing Its Setting Perfectly",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWtONVJ2QUhPS3FxYWI0M0N5UWxzRUo3bzc5ZnFTeE8zSTdyam5aOXBWck1TRVFZZFdnc09yTU9rbnBkWEZ3QnlZVEZsWTdEbjNqVS1CZmdneFJBc2szNzhKRV85UUgyQ1ZCdnB3Ulc1V0Z4VW1GcnpDQVkwdERXeDhLTVFQZk1CU3ZJV05PVU00RmtBTkNXNTVVR2RJQmxkcndCRFpB?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T17:15:09+00:00",
+   "seen": "2026-11-25T17:18:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6's Dirty South Classics Radio station celebrates southern rap and its setting."
+  },
+  {
+   "id": "gta 6 auntie s place location in laperle",
+   "title": "GTA 6: Auntie’s Place location in LaPerle",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-aunties-place-location-laperle/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-25T17:14:08+00:00",
+   "seen": "2026-11-25T17:18:33+00:00",
+   "summary": "How to find Auntie's Place in LaPerle and get the rewards from Vanessa's laptop in Grand Theft Auto 6",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Auntie’s Place location in LaPerle and rewards from Vanessa's laptop are highlighted."
+  },
+  {
+   "id": "gta 6 netflix extended look 27 minutes after leaks",
+   "title": "GTA 6 Netflix Extended Look: 27 Minutes After Leaks",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzJFLXFMVmc3VjM2NmNEU0ZvWnM5U2MwTGFZMkFneGR6T0RqRVBZNmR3X2NVXzQwV3JzZGdianhfYlIxd2d6Y1d3aTc2dzZ5bjI1eDBFR09zOHFtcXBZeWhOcnN5QU1GWnN1YzJ2SEtaWHgxMUFIZzdLMGJjeGd3MjVwSjhPUzZuOEJR?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-25T17:11:29+00:00",
+   "seen": "2026-11-25T17:18:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "GTA 6 releases a Netflix extended look lasting 27 minutes after leaks."
+  },
+  {
+   "id": "where to find invetero vice vinyl coquette in gta 6 fastest cars location stats",
+   "title": "Where To Find Invetero Vice Vinyl Coquette In GTA 6—Fastest Cars Location & Stats",
+   "link": "https://insider-gaming.com/invetero-vice-vinyl-coquette-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-25T17:11:13+00:00",
+   "seen": "2026-11-25T17:18:34+00:00",
+   "summary": "Here’s where to find the Invetero Vice Vinyl Coquette in Grand Theft Auto 6, as well as a detailed look at the car’s stats. The post Where To Find Invetero Vice Vinyl Coquette In GTA 6—Fastest Cars Location & Stats appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "Locations and stats for the Invetero Vice Vinyl Coquette in GTA 6 are detailed."
+  },
+  {
+   "id": "how to disable advanced trackers in gta 6",
+   "title": "How to disable advanced trackers in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RN2RTd3hvXzNqUFR5Tlpab3dTT184OG1jZ2JMMURMRV9SNHh3aUlMNGR0aVNmT21TYVJvQWxLWXo3QmN0aWRVdmVtdGVtN2syQkswVnVBRFowdG1qRVoyQUl1S1NMck9zT0FxSF8tZjlJMmlIM3UwSDhmY09Kd3M?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-25T17:09:29+00:00",
+   "seen": "2026-11-25T17:18:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to disable advanced trackers in GTA 6 is explained."
+  },
   {
    "id": "gta 6 player gets 160 000 in one minute in the cleanest bank robbery we ve seen yet",
    "title": "GTA 6 Player Gets $160,000 in One Minute In The Cleanest Bank Robbery We’ve Seen Yet",
@@ -155,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story states GTA 6 owes everything to The Legend of Zelda: Ocarina of Time."
+  },
+  {
+   "id": "gta 6 devs reveal major gameplay features that didn t make the final cut",
+   "title": "GTA 6 devs reveal major gameplay features that didn’t make the final cut",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXotZmh0TzJQc1NaVzZFTlNwWnhtaTJFeUFHeWpCSEozdEhRbkxna0JoMFRMcUtQaTVaRkdiU3RteUMtdFozcUk1RnZSZjZWeS1oNktid2x4WVJKemFiMjhiOGl5REEyV3UwVC1DTTVqUHVnY2tCaG5QNjh6eDNqUFBKUVdJbHpZTUh1QU1pZDVfbk1qNm52MEFxVHlsNWpLeXdyNG1maE1RQzct?oc=5",
+   "outlet": "Dexerto",
+   "via": "Google News",
+   "published": "2026-11-25T17:00:13+00:00",
+   "seen": "2026-11-25T17:18:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 developers reveal major gameplay features that didn’t make the final cut."
   },
   {
    "id": "7 underrated gta 6 changes no one is talking about",
@@ -573,6 +664,19 @@
    "ai_summary": "The story reports GTA 6 Black Friday deals offering up to 25% off at ShopTo for PS5 and Xbox."
   },
   {
+   "id": "grand theft auto 6 is out and there are already black friday gta 6 deals",
+   "title": "Grand Theft Auto 6 Is Out, and There Are Already Black Friday GTA 6 Deals",
+   "link": "https://www.ign.com/articles/grand-theft-auto-6-is-out-and-there-are-already-black-friday-gta-6-deals",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-25T16:10:03+00:00",
+   "seen": "2026-11-25T17:18:33+00:00",
+   "summary": "GTA 6 is already down to £53.85 at ShopTo, with £16 off Xbox copies, cheaper PS5 options, and up to £22 off the Ultimate Edition ahead of Black Friday.",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA 6 is on sale with Black Friday deals and various discount options."
+  },
+  {
    "id": "grand theft auto 6 writer leaves social media following online harassment",
    "title": "Grand Theft Auto 6 writer leaves social media following online harassment",
    "link": "https://www.videogameschronicle.com/news/grand-theft-auto-6-writer-leaves-social-media-following-online-harassment/",
@@ -779,6 +883,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The article explains why players should return to Jason's House after Chapter 1 in GTA 6."
+  },
+  {
+   "id": "fan made gta 5 port for iphone shuts down after take two cease and desist",
+   "title": "Fan-Made GTA 5 Port for iPhone Shuts Down After Take-Two Cease and Desist",
+   "link": "https://www.ign.com/articles/fan-made-gta-5-port-for-apple-shut-down",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-25T15:44:53+00:00",
+   "seen": "2026-11-25T17:18:33+00:00",
+   "summary": "A cease and desist from Rockstar parent company Take-Two has put an end to a fan-made port of GTA 5 for Apple devices a month after the creator went public with it.",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A fan-made GTA 5 port for iPhone is shut down by Take-Two through a cease and desist."
   },
   {
    "id": "where to find granforma tsunami zorrusso in gta 6 fastest cars location stats",
