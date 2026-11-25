@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T00:02:33+00:00",
- "started": "2026-11-25T00:02:27+00:00",
+ "updated": "2026-11-25T00:07:36+00:00",
+ "started": "2026-11-25T00:07:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-25T00:02:27+00:00"
+   "hits": 98,
+   "checked": "2026-11-25T00:07:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-25T00:02:27+00:00"
+   "hits": 61,
+   "checked": "2026-11-25T00:07:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-25T00:02:28+00:00"
+   "hits": 87,
+   "checked": "2026-11-25T00:07:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T00:02:28+00:00"
+   "checked": "2026-11-25T00:07:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T00:02:28+00:00"
+   "checked": "2026-11-25T00:07:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T00:02:28+00:00"
+   "checked": "2026-11-25T00:07:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T00:02:29+00:00"
+   "checked": "2026-11-25T00:07:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T00:02:29+00:00"
+   "checked": "2026-11-25T00:07:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T00:02:29+00:00"
+   "checked": "2026-11-25T00:07:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T00:02:29+00:00"
+   "checked": "2026-11-25T00:07:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T00:02:30+00:00"
+   "checked": "2026-11-25T00:07:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T00:02:30+00:00"
+   "checked": "2026-11-25T00:07:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T00:02:30+00:00"
+   "checked": "2026-11-25T00:07:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T00:02:30+00:00"
+   "checked": "2026-11-25T00:07:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "max verstappen spent 40 hours playing gta 6 and still won the las vegas grand prix",
+   "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSXVUdXlDVzd1eGtYY3dnWmZuUjJadnVJSFRKRHFaV2pNS1ZFckYwSzZtaGZFcXRHRTJ3QTZwOUNBYkRHdFIwRVhnQ1ZiMDZFb3lLTml5bl9sdUtDZnVKRllsZjhHTWFHekZCWVg5RnZPa2RpWldKYTNYd3pva09qU2huQ3otajNFWnF2STg2VzlKWnIyV0RDWVRxdFZTcmxyUF9ocXEwWVJsT2hBLS1zYWdKY05qbFVhc1RuOFVHUW96YkNkUGN4QkNESWw?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-25T00:04:39+00:00",
+   "seen": "2026-11-25T00:07:31+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that Max Verstappen spent hours playing GTA 6 and still won the Las Vegas Grand Prix."
+  },
+  {
+   "id": "gta 6 runs better on xbox series x a huge blow to the ps5 and sony",
+   "title": "GTA 6 runs better on Xbox Series X — a huge blow to the PS5 and Sony",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV211azFoZ1gtd19WbGRtLTBlLXotcUlCd0RQcF9OVWJpT2xoRW5vQXNibXpaVWY4b2R1ampSNFRDMHV5UXRteDIxVWdwVzhSYVYxOGo0V2x1Y18zcDBmNEplUTdvaDZwd0VfOFJHQW5lNl8tb0UxeDRlZlNvZnVkMHY0Qkl5eTJQNS01bW5jWE9Td0VXMGNFZnZBVFQ?oc=5",
+   "outlet": "Windows Central",
+   "via": "Google News",
+   "published": "2026-11-25T00:02:08+00:00",
+   "seen": "2026-11-25T00:07:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 runs better on Xbox Series X, challenging the PS5 and Sony."
+  },
   {
    "id": "sight seeing grand theft auto vi can faith and virtual violence coexist",
    "title": "Sight-Seeing: ‘Grand Theft Auto VI’ – can faith and virtual violence coexist?",
@@ -155,6 +181,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that Take-Two CEO Strauss Zelnick will discuss Grand Theft Auto VI at SXSW London 2027, with more speakers announced."
+  },
+  {
+   "id": "gta vi players discover a teenage mutant ninja turtles easter egg",
+   "title": "'GTA VI' Players Discover a 'Teenage Mutant Ninja Turtles' Easter Egg",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXdEalhnRk5kWTdFNHpTLVpCY25VbktvUVhtX19jb01acHBpSVk2M0x2Smd1SWk1V3FuY3J4TkI0VHZqZkFLd0prRUc0bkZfSjB6cWZPRTU5MGthYkUwaVBoUEtoLVpybnFMcmI0M090bU9udUdlNVF5S1daWGVuUVlKUnNyY25nS3pWeVRCdWtqaFFkV1JIVHU2TQ?oc=5",
+   "outlet": "Complex",
+   "via": "Google News",
+   "published": "2026-11-24T23:38:12+00:00",
+   "seen": "2026-11-25T00:07:31+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that players discovered a Teenage Mutant Ninja Turtles Easter Egg in GTA VI."
   },
   {
    "id": "i hate video game romance here s why grand theft auto vi is the exception",
