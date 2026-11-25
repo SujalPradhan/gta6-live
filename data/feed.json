@@ -1,109 +1,135 @@
 {
- "updated": "2026-11-25T11:57:08+00:00",
- "started": "2026-11-25T11:56:39+00:00",
+ "updated": "2026-11-25T12:01:44+00:00",
+ "started": "2026-11-25T12:01:38+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-25T11:56:44+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-25T12:01:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-25T11:56:53+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 44,
+   "checked": "2026-11-25T12:01:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
+   "error": "HTTP Error 429: Too Many Requests",
    "hits": 0,
-   "checked": "2026-11-25T11:57:02+00:00"
+   "checked": "2026-11-25T12:01:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:57:02+00:00"
+   "checked": "2026-11-25T12:01:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T11:57:02+00:00"
+   "checked": "2026-11-25T12:01:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T11:57:04+00:00"
+   "checked": "2026-11-25T12:01:40+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:57:04+00:00"
+   "checked": "2026-11-25T12:01:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T11:57:04+00:00"
+   "checked": "2026-11-25T12:01:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-25T11:57:05+00:00"
+   "checked": "2026-11-25T12:01:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T11:57:05+00:00"
+   "checked": "2026-11-25T12:01:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:57:05+00:00"
+   "checked": "2026-11-25T12:01:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T11:57:06+00:00"
+   "checked": "2026-11-25T12:01:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T11:57:06+00:00"
+   "checked": "2026-11-25T12:01:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T11:57:06+00:00"
+   "checked": "2026-11-25T12:01:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "5 game of the year nominees are up to 57 off in loaded s black friday sale gta 6 007 first light and more",
+   "title": "5 Game of the Year nominees are up to 57% off in Loaded's Black Friday sale: GTA 6, 007 First Light and more",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVC0zaWpCTVRYNVZzWHZXV0JHN0YzQ0d2aUxRdlRvZjQxVmdDZ2YzdjJRYnBpcHFYVXktYVZyeWxVazJqdGoxNE1UeDdmdEdEMEc3dU5leGJvSVlvcTRIR09aQy1PUWEzX0FSX1RJa1FMTGxVWmdtM0JFa2dTeVh0R0c4LWxYaU5POUQ2aTQwQ21BSHRaVTB4aXREQmxHTms?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-25T11:57:51+00:00",
+   "seen": "2026-11-25T12:01:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Loaded's sale lists Game of the Year nominees up to 57% off, including GTA 6 and more."
+  },
+  {
+   "id": "how to remove advanced tracker in gta 6 explained",
+   "title": "How to remove Advanced Tracker in GTA 6 explained",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWJUS1o1YXA1ZmhFdzhpQTZLTDhzYjV0Q29wUXJDOXhraEFWUDk0R2RjTGtOaGpYYkwtX0xJQUdWdzBTTlZWamlnbFFJLUs5YzNPdV9wYzNfZWZVZFBaN3IyZXBIbzRIeEMwOXJOZnBVTHQtNUVGbkdSUjgzSTY5bDJ4bE5JUDRlQnc?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-25T11:56:51+00:00",
+   "seen": "2026-11-25T12:01:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The guide explains how to remove Advanced Tracker in GTA 6."
+  },
   {
    "id": "where to find the grotti status rsx in gta 6 fastest cars location stats",
    "title": "Where To Find the Grotti Status RSX In GTA 6—Fastest Cars Location & Stats",
@@ -118,6 +144,58 @@
    "ai_summary": "A quick guide on how to find the Grotti Status RSX in GTA 6."
   },
   {
+   "id": "will take a while but i will finish this game raul bautista actor manny perez bought a ps5 so he could play gta 6",
+   "title": "'Will Take a While but I Will Finish This Game' — Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTEw2SUkyTTJuYl9MYnpPd3Y0Q3NRTjZ0NW9uMkZQUUhvTWJMazhkMzhEOHh6dHYxa1RsUGpzV29TNW5XTEZJcmFMUzdmR1V3emRQaHBtRkVUckJKbHNLY2U2TUE3a1liejgzT2RIVGo0YjNGNHJQSHJPbjVsa0U?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T11:51:09+00:00",
+   "seen": "2026-11-25T12:01:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Manny Perez says he bought a PS5 to play GTA 6, stating it will take a while but he will finish the game."
+  },
+  {
+   "id": "gta 6 ps5 vs xbox series x performance in the uae",
+   "title": "GTA 6 PS5 vs Xbox Series X Performance in the UAE",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcHdwb000MDgzU3FBeFJzcWVmWWpRLTd3V3YxZnlyOU9yVDN3TmU5TGF2U2hhdHFVZkxRY2ZTbEN3b1dhbHRqQkdrZ2tKeWExT2ctb1FUN29vMS1WUHVuRG1jOWlrcTctbFAzV25KckVHbmZXWTd4NUZMbUdrSlp6TWtGdzE0LTRLYnpnQUhWT1NHRmNwNE1yVDdXNjlnVEgxQTAyc3Q3Q2pQMFQ2cU5DVENnV1N2a1lGOGZKa3RDWWtTVmlJLUhyUGd2WkV3bHZpUGRpaHlqSDh1bW5yLS1Lc0tlWQ?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T11:51:06+00:00",
+   "seen": "2026-11-25T12:01:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 PS5 versus Xbox Series X performance compared in the UAE."
+  },
+  {
+   "id": "gta 6 without a ps5 on playstation portal early cloud impressions reveal the catch",
+   "title": "GTA 6 without a PS5 on PlayStation Portal: Early cloud impressions reveal the catch",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUjdkU2kxbHFwbkNsQzFxR0NCa0NVNU53QXdYQlRmYXZuamZRRkE1UVlzbl8xcmNBRW90TE02V09kaW95YnlfQmx2UXZfd0hrOTd0YXJnOFEyalVvMllhcG1ROWsxT19jX3RUQ3EybklfQ2s5dnJlazFXUnUza3JycGdYcEYzUWlLbXRuWmFVSFllMFN4NmZqaDczZXpKeUxOb3RxYXo3LWp0RTVpcjRuLWNNYklxTEszVWtSZHdNOGVVOXVyYUE?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-25T11:51:00+00:00",
+   "seen": "2026-11-25T12:01:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Early cloud impressions on GTA 6 without a PS5 when using PlayStation Portal reveal a catch."
+  },
+  {
+   "id": "gta 6 seems to be making some ps5 consoles catch fire with multiple streamers experiencing smoking and failed gpus ps5 started just smoking ",
+   "title": "GTA 6 seems to be making some PS5 consoles catch fire, with multiple streamers experiencing smoking and failed GPUs — ‘PS5 started just smoking out its a**, and now I need to get a replacement’",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYTVNdjVJNk12QUEya2xNYkJWTndpRTAwNHFsT3B3REl0TjEwMWFpRW4zVWZfRTdlcVR5YVBkbnppdGZtSHlxYnF4WTVnOWdlbDAzbGU4Q2lGTG9TcW41UHdQUE1YdC1NQkVUN1JXeWR0Y2pnVXVlbHNEd1dRWUh5UWx1dHFoMXVGYUhuU2MtTFVmWmt1ZlhBX0lBUVIwZnpFRThmLWx4ak9TU19SVV9JalJkWXNTSmt2ZzE3enk5cVdEM2FtVWhaUW5BZzZtUktNQWdoNXJJZjg5WE5BMkdqWkdyVFFDV3VzMGRJdkRB?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-25T11:50:27+00:00",
+   "seen": "2026-11-25T12:01:38+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false,
+   "ai_summary": "GTA 6-related PS5 consoles reportedly catching fire, with multiple streamers experiencing smoking and GPU failures."
+  },
+  {
    "id": "gta 6 all criminal profiles explained",
    "title": "GTA 6: All Criminal Profiles explained",
    "link": "https://www.videogameschronicle.com/guide/gta-6-criminal-profiles-explained/",
@@ -129,6 +207,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story explains all Criminal Profiles and how they change the game in Grand Theft Auto 6."
+  },
+  {
+   "id": "grand theft auto vi could be the next impossible switch 2 port as digital foundry believes it can be done with cutbacks to hit 30 fps",
+   "title": "Grand Theft Auto VI Could Be The Next Impossible Switch 2 Port, As Digital Foundry Believes It Can Be Done With Cutbacks To Hit 30 FPS",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDJxb2ptbEdXV2JZOTR1TW9lcVhxTTJqd0xnZGNGTFdjVlVtN1NjM0VTbnlHWUJrNkN2d00wNy1xRGtLd3RNV1hGc2ZfWi1PTk1DRzQ3TVFfM0p6bndnRldGY3B2Qk0zbTA0dFFPc1lWbEtBSGJlbTluMTdnblJsWHFTYkp5ODgtUGdYcmFPVdIBlAFBVV95cUxQVHIzZHNxMHNFYkVkT0FjNlU1SThOVGREVmYzdjhZNFJPRVAxVDlYWjA2c2ZyaHNaRDRWblJHRWxVbHl6VTJtNUYtUkZTaDZBMFZKUlUwN09EOWUwa2gwN21WbXZocy15anBvX00zQmlNNERfUFd1OEdEUEVkQVlxY0E3SXZTYUVvTGkxR3FCZXp4ZFRm?oc=5",
+   "outlet": "Wccftech",
+   "via": "Google News",
+   "published": "2026-11-25T11:46:50+00:00",
+   "seen": "2026-11-25T12:01:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Digital Foundry considers a Switch 2 port for GTA 6 possible with cutbacks to hit 30 FPS."
   },
   {
    "id": "gta 6 from 3 79 billion in day one sales to playstation records 8 ways the game made history",
@@ -207,6 +298,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports Xbox Series X performs higher than PS5 for GTA 6, while Xbox Series S lags and is harder to recommend."
+  },
+  {
+   "id": "bring me down fred again and jesse rutherford track found in gta vi",
+   "title": "Bring Me Down: Fred again.. and Jesse Rutherford track found in GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWHVTQ1hqYmY1TEFNWTUwWF93enJwd1l1dlFTYzExOFNjeDhxbm5teXRfVDdFblZiZVhpQ1J6OWFfVThmMzQ0ZXVKWjkwWW5EZWowY2pORnN0T2Z3cnB6ZEpyaUZBZHZIUFdqM21KYnNlM0c4anNpOHJJYndpTFFIUnFXY0ZNWVo2OXBRUmwtUDROQmpCaDBJ?oc=5",
+   "outlet": "We Rave You",
+   "via": "Google News",
+   "published": "2026-11-25T11:37:30+00:00",
+   "seen": "2026-11-25T12:01:38+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "Fred again.. and Jesse Rutherford track found in GTA VI."
   },
   {
    "id": "gta vi publisher has launched a dmca campaign against videos of the pc version of the game",
@@ -376,6 +480,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports a Polish game developer saying GTA VI has not harmed PC sales or engagement."
+  },
+  {
+   "id": "gta vi take two gets leonida taken down on github along with over 3 000 pc port repositories",
+   "title": "GTA VI, Take-Two gets Leonida taken down on GitHub along with over 3,000 PC port repositories",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemNyM2pCTE1rUTB1cmZCYUFpRkY4US1qWV9ac3Zob2RWcllmMmw1cDFQZ2p1a2xNVllqanJfaWUybTNnekd2RVJvb2lINVpCTXhMUjlINkZhUW9BTWVzUHpzQ1Q3WXNwZVZQd2RHR1NnN0gzXzZhdndoT2otUFFORHFKY3E?oc=5",
+   "outlet": "Meteora Web",
+   "via": "Google News",
+   "published": "2026-11-25T11:05:44+00:00",
+   "seen": "2026-11-25T12:01:38+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "GTA VI and Take-Two face takedown on GitHub along with over 3,000 PC port repositories."
   },
   {
    "id": "max verstappen admits to 40 hour gta vi spree as he won las vegas gp",
