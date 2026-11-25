@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T23:05:38+00:00",
- "started": "2026-11-25T23:05:34+00:00",
+ "updated": "2026-11-25T23:10:38+00:00",
+ "started": "2026-11-25T23:10:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T23:05:34+00:00"
+   "checked": "2026-11-25T23:10:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-25T23:05:35+00:00"
+   "hits": 36,
+   "checked": "2026-11-25T23:10:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-25T23:05:35+00:00"
+   "hits": 73,
+   "checked": "2026-11-25T23:10:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:05:35+00:00"
+   "checked": "2026-11-25T23:10:34+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T23:05:35+00:00"
+   "checked": "2026-11-25T23:10:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T23:05:36+00:00"
+   "checked": "2026-11-25T23:10:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T23:05:36+00:00"
+   "checked": "2026-11-25T23:10:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T23:05:36+00:00"
+   "checked": "2026-11-25T23:10:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-25T23:05:36+00:00"
+   "hits": 4,
+   "checked": "2026-11-25T23:10:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T23:05:37+00:00"
+   "checked": "2026-11-25T23:10:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T23:05:37+00:00"
+   "checked": "2026-11-25T23:10:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T23:05:37+00:00"
+   "checked": "2026-11-25T23:10:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:05:37+00:00"
+   "checked": "2026-11-25T23:10:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T23:05:38+00:00"
+   "checked": "2026-11-25T23:10:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is causing technical glitches on playstation 5 and xbox series x",
+   "title": "GTA 6 is causing technical glitches on PlayStation 5 and Xbox Series X.",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnpsM2htb3FaWkRVcGNiWDd4MlBwMzZ4cmRIclBfTTFvZGIwTUF3NTNMazAtYW5CN0lubVo3WVJVelg3bU5HSExoYTJVOTN6RWJURzU0ZXhDMjBxdDgxY1JSenBMSHotaUd6Y0kxWWVpU1pFanJITkNLNjFXRlRsczJLNWJnaDZkdm5EOUhPVV95WVNsX01mcmxBWTlnUQ?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-25T23:06:14+00:00",
+   "seen": "2026-11-25T23:10:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 is causing technical glitches on PlayStation 5 and Xbox Series X."
+  },
   {
    "id": "gta 6 for xbox series x may receive fsr 4 1 support in future patches",
    "title": "GTA 6 for Xbox Series X may receive FSR 4.1 support in future patches",
@@ -5498,6 +5511,19 @@
    "topic": "Players",
    "record": true,
    "ai_summary": "The story reports that GTA VI is described as the biggest game launch in PlayStation history with over 39 million players on PS5."
+  },
+  {
+   "id": "gta 6 is the biggest playstation launch ever sony says",
+   "title": "GTA 6 Is the Biggest PlayStation Launch Ever, Sony Says",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Mc3JaTjNORUlEOS1YOXRya0VUN0daNkR0bk5SMHQ4WlRyZ25MaTZ2MC1KVUd2akZzMkpyV2tCdXZUVDBqb3NyRE1acGpKWnRWU253alJBZUpKemRzdlFXMEFMNGduRWpnZlF0TUNMbjk4ZFHSAXhBVV95cUxOZEJ0Q2tZM2xOd25FWXVKTHVwZGtrd051STc3TWcwVmlUMm50eWVYNGVKLURONnQ5bGM2UUw1LUdLaE1rSV9Ya1FxWG1LeHhxa2xBdWhQSDZxakVDWnVDTXQtT0tndmprc3I1TENuRWp5cWNfZHNfVlc?oc=5",
+   "outlet": "Sam Lover",
+   "via": "Google News",
+   "published": "2026-11-25T10:32:55+00:00",
+   "seen": "2026-11-25T23:10:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 is the biggest PlayStation launch ever, according to Sony."
   },
   {
    "id": "gta 6 accessibility features make game easier even for beginners",
