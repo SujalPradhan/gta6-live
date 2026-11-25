@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T00:17:38+00:00",
- "started": "2026-11-25T00:17:32+00:00",
+ "updated": "2026-11-25T00:22:39+00:00",
+ "started": "2026-11-25T00:22:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-25T00:17:32+00:00"
+   "checked": "2026-11-25T00:22:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-25T00:17:33+00:00"
+   "hits": 58,
+   "checked": "2026-11-25T00:22:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-25T00:17:33+00:00"
+   "hits": 59,
+   "checked": "2026-11-25T00:22:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T00:17:33+00:00"
+   "checked": "2026-11-25T00:22:34+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T00:17:33+00:00"
+   "checked": "2026-11-25T00:22:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T00:17:34+00:00"
+   "checked": "2026-11-25T00:22:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T00:17:34+00:00"
+   "checked": "2026-11-25T00:22:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T00:17:34+00:00"
+   "checked": "2026-11-25T00:22:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T00:17:34+00:00"
+   "checked": "2026-11-25T00:22:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T00:17:35+00:00"
+   "checked": "2026-11-25T00:22:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T00:17:35+00:00"
+   "checked": "2026-11-25T00:22:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T00:17:36+00:00"
+   "checked": "2026-11-25T00:22:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T00:17:36+00:00"
+   "checked": "2026-11-25T00:22:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T00:17:36+00:00"
+   "checked": "2026-11-25T00:22:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "kodak black has secret radio station in grand theft auto vi here s how to unlock it",
+   "title": "Kodak Black Has Secret Radio Station in ‘Grand Theft Auto VI’: Here’s How to Unlock It",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnRjZ3kzS3NCeHZNRzM3d3BlQkhoYVM0am5YUVpqbTNxUGZORVAtcWhzU3BQdUx1WXRDZ2d1MTZFXy00YU5qS2xxZ2s3bWFzRmRUSVp4UkNpdVNTZHpUdTdxNmlvVE91ZVpPOFpJc3Q3a24wQmlqWTludUhoUHk0c05OTnFDR0dUbEwzb1BSaGFPUFdtTzRLOVpKRjJ6QVN2R1UzX29GQ0NsaUk?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-25T00:15:43+00:00",
+   "seen": "2026-11-25T00:22:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Kodak Black has a secret radio station in Grand Theft Auto VI and instructions on how to unlock it."
+  },
   {
    "id": "explaining the gta vi craze to two non gamers hoch crowder and solana show",
    "title": "Explaining the GTA VI Craze to Two Non-Gamers | Hoch, Crowder and Solana Show",
@@ -220,6 +233,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that players discovered a Teenage Mutant Ninja Turtles Easter Egg in GTA VI."
+  },
+  {
+   "id": "half of young men have played grand theft auto vi or plan to",
+   "title": "Half of young men have played Grand Theft Auto VI or plan to",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTFdjNnl5VXI5ZjNST0JiaDVwWnlpLUZqVGNhbXRNUG9zTHZYWWVfZUFaeEMzZ3dsNGstNjdSOW5aU1hIRXp1MEgtM1lGeUswVTNZV2R1TUlIZnZDREUxUXNLRlF2cldVV19Xa1pBRXBfWnhOYmVhSVBsMlhhSnNQekhfRVVDMmlCR3pJVW85RkNyRnRleFAxMlhHdTdNQUVySnBLdHo0b0tyQXpPVURVZmVia0dPTHFsbE44RU5QNEpVZlNYUmxZZEtfTW1vc2NPMUcwa1lCTWVvX3c3T201NlluZnRqQ3pKaEp0dHRIZDQwWXJRS1c3X3Bn?oc=5",
+   "outlet": "YouGov",
+   "via": "Google News",
+   "published": "2026-11-24T23:32:13+00:00",
+   "seen": "2026-11-25T00:22:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Half of young men have played Grand Theft Auto VI or plan to."
   },
   {
    "id": "i hate video game romance here s why grand theft auto vi is the exception",
@@ -350,6 +376,19 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "The story reports that GTA 6 Chapter 1 is engaging players with slice of life content to the point they are not committing crimes."
+  },
+  {
+   "id": "gta 6 but make it cozy ways to play with kindness",
+   "title": "GTA 6, but Make It Cozy: Ways to Play With Kindness",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTSXBiU3AwRUdDYjB3V2dlQThGTVQtWVU4Z0pkY1V0UWxZbkFnc0NjSkg5ckJXVzEyTWpueE9PR1phZEpxNVo1dkU2aU1LUTZCN1dySklBb3hEdw?oc=5",
+   "outlet": "People for the Ethical Treatment of Animals (PETA)",
+   "via": "Google News",
+   "published": "2026-11-24T22:49:30+00:00",
+   "seen": "2026-11-25T00:22:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 should be played in a cozy way that promotes kindness."
   },
   {
    "id": "forget gta 6 rockstar s best open world game movie adaptation reportedly in works for 100m",
