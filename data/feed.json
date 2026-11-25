@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T16:38:27+00:00",
- "started": "2026-11-25T16:38:18+00:00",
+ "updated": "2026-11-25T16:43:29+00:00",
+ "started": "2026-11-25T16:43:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,166 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T16:38:18+00:00"
+   "checked": "2026-11-25T16:43:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-25T16:38:19+00:00"
+   "hits": 43,
+   "checked": "2026-11-25T16:43:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-25T16:38:19+00:00"
+   "hits": 61,
+   "checked": "2026-11-25T16:43:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T16:38:19+00:00"
+   "checked": "2026-11-25T16:43:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T16:38:20+00:00"
+   "checked": "2026-11-25T16:43:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-25T16:38:22+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T16:43:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T16:38:23+00:00"
+   "checked": "2026-11-25T16:43:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T16:38:23+00:00"
+   "checked": "2026-11-25T16:43:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T16:38:23+00:00"
+   "checked": "2026-11-25T16:43:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-25T16:38:23+00:00"
+   "checked": "2026-11-25T16:43:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T16:38:24+00:00"
+   "checked": "2026-11-25T16:43:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T16:38:24+00:00"
+   "checked": "2026-11-25T16:43:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T16:38:24+00:00"
+   "checked": "2026-11-25T16:43:26+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T16:38:24+00:00"
+   "checked": "2026-11-25T16:43:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 feels entirely different on ps5 pro thanks to 1 feature",
+   "title": "GTA 6 Feels Entirely Different on PS5 Pro Thanks to 1 Feature",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45U1NOM2VuMXRUUEpQWE90UHduZnVabXBGVjl2eHhzSDBtNVQ3RnYwMXpUV3FXMHhXZXMtNHhZcDUzZ3R2OUFTSkYwa0dCWFdpXzlhMnZPM2R2SnNQODZldXFMMkREQWt4dTdlSklyMlhPaGVjR0Fr?oc=5",
+   "outlet": "Comic Book Resources",
+   "via": "Google News",
+   "published": "2026-11-25T16:42:46+00:00",
+   "seen": "2026-11-25T16:43:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 feels entirely different on PS5 Pro due to one feature."
+  },
+  {
+   "id": "why did rockstar games make empathy a key mechanic in gta 6 because it s fun says head of development rob nelson",
+   "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
+   "link": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-25T16:42:30+00:00",
+   "seen": "2026-11-25T16:43:25+00:00",
+   "summary": "There's been plenty of chatter about Grand Theft Auto 6 's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece discusses empathy as a key mechanic in GTA 6, with a developer stating it's fun."
+  },
+  {
+   "id": "where to find progen purple drank emerus in gta 6 fastest cars location stats",
+   "title": "Where To Find Progen Purple Drank Emerus In GTA 6—Fastest Cars Location & Stats",
+   "link": "https://insider-gaming.com/progen-purple-drank-emerus-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-25T16:39:27+00:00",
+   "seen": "2026-11-25T16:43:25+00:00",
+   "summary": "Here’s where to find the Progen Purple Drank Emerus in Grand Theft Auto 6, as well as a detailed look at the car’s stats. The post Where To Find Progen Purple Drank Emerus In GTA 6—Fastest Cars Location & Stats appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The article explains where to find Progen Purple Drank Emerus in GTA 6 and details the car’s stats."
+  },
+  {
+   "id": "gta 6 is pure sorcery skyrim and fallout lead says",
+   "title": "GTA 6 is \"pure sorcery,\" Skyrim and Fallout lead says",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-pure-sorcery-skyrim-and-fallout-4-lead-says/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-25T16:37:31+00:00",
+   "seen": "2026-11-25T16:43:25+00:00",
+   "summary": "Rockstar's new game is indeed \"the pinnacle\"",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 is described as pure sorcery, with Skyrim and Fallout lead praising it as the pinnacle."
+  },
+  {
+   "id": "late r b star left behind a surprise song specifically made for gta 6",
+   "title": "Late R&B Star Left Behind a Surprise Song Specifically Made for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUI5Ym5tcmxtTVBOeFoybE5fTzdrQlp5T0pGWHZ2SmJocjJNc2hfN3pYdW5iVzdYem5HbmRTNFVzdnlNMVZLcTVrUUJZVWZJMUUxNkhxQjJWbkZLRWJudlNJaHZJd0I5TjUxZEszQTJRUUw4bW81QnJkUmFLSDJKZUFuYlIta1JLUVhSSEc3Y09JUnUzaG5yT2dPWFV6LXhVRDJ3?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-25T16:36:45+00:00",
+   "seen": "2026-11-25T16:43:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A late R&B star left a surprise song specifically made for GTA 6."
+  },
   {
    "id": "gta 6 is locked to 30fps on my ps5 but i found a way to play it at 60fps through my pc",
    "title": "GTA 6 is locked to 30fps on my PS5, but I found a way to play it at 60fps through my PC",
@@ -688,6 +753,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Polygon.com suggests GTA 6 may actually play better on Xbox after all."
+  },
+  {
+   "id": "gta 6 might actually play better on xbox after all",
+   "title": "GTA 6 might actually play better on Xbox after all",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUV95NWdfTkZNVjluejRueDVqQnJnSUhfWXZvdFBjS1BzX0p4Z1A4LU4xQ2VkelJQUkdUYXR0NmU5cTVmSWpXWHVWOWQ0c2JHMks1TEZscnlFT0dpSXI1V0FhS1c5Nk5ubHRCOXhOdFY0R0xXMVZnY3dTOXlGMy1QTlItMm1RQQ?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-25T15:27:45+00:00",
+   "seen": "2026-11-25T16:43:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The piece suggests GTA 6 might actually play better on Xbox after all."
   },
   {
    "id": "can you get rid of your ultimate edition bonus cars in gta 6",
