@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T16:53:29+00:00",
- "started": "2026-11-25T16:53:22+00:00",
+ "updated": "2026-11-25T16:58:32+00:00",
+ "started": "2026-11-25T16:58:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,128 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-25T16:53:23+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T16:58:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-25T16:53:23+00:00"
+   "hits": 53,
+   "checked": "2026-11-25T16:58:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 71,
-   "checked": "2026-11-25T16:53:23+00:00"
+   "hits": 61,
+   "checked": "2026-11-25T16:58:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T16:53:24+00:00"
+   "checked": "2026-11-25T16:58:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T16:53:24+00:00"
+   "checked": "2026-11-25T16:58:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-25T16:53:24+00:00"
+   "checked": "2026-11-25T16:58:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 16,
-   "checked": "2026-11-25T16:53:24+00:00"
+   "hits": 17,
+   "checked": "2026-11-25T16:58:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T16:53:25+00:00"
+   "checked": "2026-11-25T16:58:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T16:53:25+00:00"
+   "checked": "2026-11-25T16:58:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 12,
-   "checked": "2026-11-25T16:53:26+00:00"
+   "hits": 11,
+   "checked": "2026-11-25T16:58:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T16:53:26+00:00"
+   "checked": "2026-11-25T16:58:29+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T16:53:26+00:00"
+   "checked": "2026-11-25T16:58:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T16:53:26+00:00"
+   "checked": "2026-11-25T16:58:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T16:53:26+00:00"
+   "checked": "2026-11-25T16:58:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 still has the gritty patina of more controversial rockstar games former take two boss says",
+   "title": "GTA 6 still has the \"gritty patina\" of more controversial Rockstar games, former Take-Two boss says",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-still-has-a-bit-of-the-gritty-patina-of-older-more-controversial-grand-theft-auto-games-former-take-two-boss-says-but-its-still-the-most-mainstream-game-you-can-get/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-25T16:50:31+00:00",
+   "seen": "2026-11-25T16:58:28+00:00",
+   "summary": "\"It's what this planet needs\"",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that GTA 6 still has the gritty patina of more controversial Rockstar games, according to a former Take-Two boss."
+  },
+  {
+   "id": "gta vi seems to be overheating some ps5s",
+   "title": "GTA VI seems to be overheating some PS5s",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0N0bGx6OWFIOHM3cVIyR2tEUnFVYVNCbnBxSnpEZ0hmUmp5YUVJQkxFNzVqTEJtNkd5MXpPWFB6NWdaMjR1ZDc5bXE0aHVJVzFyQWpPLW1uQV9BM3o4NFV2LURFUlpjS3gxWk0zQklVOFVfazdXbVRYTnRZakpkdS1IN250QmthanlBeDFCakFyd3hu?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-25T16:49:11+00:00",
+   "seen": "2026-11-25T16:58:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI seems to be overheating some PS5s."
+  },
   {
    "id": "new gta 6 money farm involves winning a fist fight against a viral npc fans once thought invincible",
    "title": "New GTA 6 money farm involves winning a fist fight against a viral NPC fans once thought invincible",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a new GTA 6 money farm involving winning a fist fight against a viral NPC fans once thought invincible."
+  },
+  {
+   "id": "welcome to vice city 15 gta 6 tips to rule the underworld fast",
+   "title": "Welcome to Vice City: 15 GTA 6 Tips to Rule the Underworld Fast",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRFNTVVM0lwZkN6RXZjclFtVGM1cjJpdVFhemtsLVVHNGNsQzAzejFESjFmWnE1VlFzcEgtSWktNFRPOVhOMFdtcnpzZE9jUExyc0E3UXY0WHdYX1pleV9HU0x2RkFaY08ydGFNUzhhZG5FSFBNakoyVzB5WTdpYXJWZXRWa3J2bnhTWFR4WXFYSXFJUHpB?oc=5",
+   "outlet": "PCMag",
+   "via": "Google News",
+   "published": "2026-11-25T16:43:21+00:00",
+   "seen": "2026-11-25T16:58:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports tips for GTA 6 aimed at ruling the underworld in Vice City."
   },
   {
    "id": "gta 6 feels entirely different on ps5 pro thanks to 1 feature",
@@ -402,6 +441,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story details where to find the Pegassi Gold Rope Infernus in GTA 6 and includes the car's stats."
+  },
+  {
+   "id": "gta 6 pegassi infernus",
+   "title": "GTA 6 - Pegassi Infernus",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fanVnNjV6d21NbGVnNjc5bFc0Z2ZoOE93QmhUN1ByazduTTFvQkpUQVlENldQNGJ0WjNMWDhUZVhXUzVBY182Nl9LaHhvbm9mTzllcTc4UHJ0ejl1YTZtQWhIZlB3SlRtQjFoWWdSdDBORE1TMWc?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-25T16:04:44+00:00",
+   "seen": "2026-11-25T16:58:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA 6 referencing Pegassi Infernus."
   },
   {
    "id": "how to punch block and dodge in gta 6 fist fighting guide",
@@ -2159,6 +2211,19 @@
    "ai_summary": "The story discusses when to sell AudaCity’s Dacity Coin for maximum profit in GTA 6."
   },
   {
+   "id": "gta vi and its marketing strategy in miami ahead of art basel",
+   "title": "GTA VI and Its Marketing Strategy in Miami Ahead of Art Basel",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFNNTEtOeWZkMldJNFBienc2SG9raE5FNzRWZThMd2o3S1k3Y19LZW42c0paenhwMzlyYkhJMW5ZWUlUY3RESlFEa2VCM3lQTDhGYUhfRFpzUVdSelp0d1A0SFA1RmFPRUlwdWRyTXl0UDhMa183N2tpQjJKbDllWTRkenIwS3ZnVU5qZDFPNi1RTS1hZEF0bzNtYUdSb1paWHJZYVNnQV9Odm1QRXpZ?oc=5",
+   "outlet": "Luxury Tribune",
+   "via": "Google News",
+   "published": "2026-11-25T12:32:40+00:00",
+   "seen": "2026-11-25T16:58:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on GTA VI and its marketing strategy in Miami ahead of Art Basel."
+  },
+  {
    "id": "where to find progen honeycomb emerus in gta 6 fastest cars location stats",
    "title": "Where To Find Progen Honeycomb Emerus In GTA 6—Fastest Cars Location & Stats",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uZ2pjYWZJaTVyWUdJczBhbzdUdHFNVnpNTV9WZEMtdGtIWXJjM2kwa2kteFAya2xSNHBMUHltcWNNdzVxd21URU5EN1JFZHIta2kyOUpBNFZYNXA5MFk0ekFGVnV0R1U3?oc=5",
@@ -2989,6 +3054,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Yahoo News UK reports Janelle James landed a dream role in GTA VI and explains why she hasn’t played yet."
+  },
+  {
+   "id": "vice city s secret paradise marine biologists fact check grand theft auto vi s leonida keys",
+   "title": "Vice City’s secret paradise: Marine biologists fact-check Grand Theft Auto VI's 'Leonida Keys'",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDdUZXJLMXhxd1BsY2RNanRvOGRPXzU1WUlfUG41Q0t2Nm5oVm1aVlh6X1dtcmJsTU5PcjNNUDB1LTRFOVkyd0Y3TmVBS3QyaDFaT2xFWHYycmdfTDUzcHUzRzdRbllXdjVDRldMMkVhTmpxZWFBR1RtazFIU2UtdUxiUFM0bmVBVXpHUmRnYUo5azRs?oc=5",
+   "outlet": "WLRN",
+   "via": "Google News",
+   "published": "2026-11-25T11:00:00+00:00",
+   "seen": "2026-11-25T16:58:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Marine biologists fact-check Grand Theft Auto VI's Leonida Keys in Vice City’s secret paradise."
   },
   {
    "id": "gta vi runs better on xbox series x than on ps5",
