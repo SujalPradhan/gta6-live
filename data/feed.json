@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T14:02:24+00:00",
- "started": "2026-11-25T14:02:21+00:00",
+ "updated": "2026-11-25T14:07:35+00:00",
+ "started": "2026-11-25T14:07:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,180 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-25T14:02:21+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T14:07:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-25T14:02:21+00:00"
+   "hits": 45,
+   "checked": "2026-11-25T14:07:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-25T14:02:22+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 62,
+   "checked": "2026-11-25T14:07:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T14:02:22+00:00"
+   "checked": "2026-11-25T14:07:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T14:02:22+00:00"
+   "checked": "2026-11-25T14:07:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-25T14:02:22+00:00"
+   "hits": 60,
+   "checked": "2026-11-25T14:07:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-25T14:02:23+00:00"
+   "hits": 15,
+   "checked": "2026-11-25T14:07:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T14:02:23+00:00"
+   "checked": "2026-11-25T14:07:29+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:02:23+00:00"
+   "checked": "2026-11-25T14:07:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T14:02:23+00:00"
+   "checked": "2026-11-25T14:07:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T14:02:24+00:00"
+   "checked": "2026-11-25T14:07:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T14:02:24+00:00"
+   "checked": "2026-11-25T14:07:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T14:02:24+00:00"
+   "checked": "2026-11-25T14:07:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T14:02:24+00:00"
+   "checked": "2026-11-25T14:07:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "i m having a much better time in gta 6 now i ve disabled its pesky criminal profile pings",
+   "title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
+   "link": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-25T14:06:00+00:00",
+   "seen": "2026-11-25T14:07:29+00:00",
+   "summary": "Do you think you'd enjoy invasive UI elements in real life? You crouch to fuss your dog, and a little ping activates in your retina, informing you that you've just earned plus-three serotonin. Your boss chews you out for coming into work 15 minutes late thanks to a traffic accident holding you up on your way to work, a notification pings: \"-10 percent motivation (lasts 24 hours)\". Maybe you eat a ",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that the user has a much better time in GTA 6 after disabling its invasive Criminal Profile pings."
+  },
+  {
+   "id": "be thankful for gta 6 and zelda ocarina of time",
+   "title": "Be thankful for GTA 6 and Zelda: Ocarina of Time",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42UWJ1b0lhQ1g1MVFTQlBrUWVXTVBTQkZfY3lkWFlxNmZzc1FyNkVRV2JBblp6LXQycEFZZTkwbVJORlk4TjY0WlRVMDJORkw4QjNja0xreExKdlRXUUZaVGxUdm1EbHlkWUs1dm54Z3h5Y3h0WDFickZiVG0?oc=5",
+   "outlet": "GamingTrend",
+   "via": "Google News",
+   "published": "2026-11-25T14:02:54+00:00",
+   "seen": "2026-11-25T14:07:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story urges gratitude for GTA 6 and Zelda: Ocarina of Time."
+  },
+  {
+   "id": "any official gta 6 pc port s ability to deliver a proper first person mode would be its biggest ace in the hole so reckon i a traitor",
+   "title": "Any official GTA 6 PC port’s ability to deliver a proper first person mode would be its biggest ace in the hole, so reckon I, a traitor",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFBFZ0o2WG9qNmJSc190ZjJKeDZkZEZrX19mNXA4OVB6cjd0MTN5S1BQME1YU0JjV0pfaHZJaFJKWEg3NjZUSElxNmpkeXBLWGxGa1Njc0NGQlRVb2hWUkZmbWtaZnpCTkxQQ21WeW10NzFJMFhGODYtdUVXY1FRVzM1NFVEX1BHVXNvNGpRWUotNXFxaFhESnVNZHp4VU41cVgtZnl3TXNZM2k0eERiR0twTQ?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-25T14:00:00+00:00",
+   "seen": "2026-11-25T14:07:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story discusses whether an official GTA 6 PC port could deliver a proper first-person mode as a major advantage."
+  },
+  {
+   "id": "gta 6 may be high art but is it good",
+   "title": "'GTA 6' May Be ‘High Art.’ But Is it Good?",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTFCVFhXbkxjSjRrdmk5Z0VkdWROQzdZUklFdjZzNzBmdDNsOXNFMDh3MzBZLUFiem1iaURSTUtvaFl0RThWNVY0SV9YekRVMGR5UGVDdU5WbU5zT2lYOElPR25MbHpqQmd5N0g5dzdTUzhfNnk2SmZzczhtazJKNzVzczU?oc=5",
+   "outlet": "The Atlantic",
+   "via": "Google News",
+   "published": "2026-11-25T14:00:00+00:00",
+   "seen": "2026-11-25T14:07:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story questions whether GTA 6 could be considered high art and still be good."
+  },
+  {
+   "id": "unable to buy gas i feel broke in gta 6 for the first time money matters",
+   "title": "Unable to buy gas, I feel broke in GTA 6 – for the first time, money matters",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/unable-to-buy-gas-i-feel-broke-in-gta-6-for-the-first-time-money-matters/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-25T14:00:00+00:00",
+   "seen": "2026-11-25T14:07:29+00:00",
+   "summary": "And yet, the game is gas",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story describes feeling broke in GTA 6 due to inability to buy gas, and money becoming important."
+  },
+  {
+   "id": "gta 6 features something rockstar tried to add in grand theft auto vice city former tech lead says",
+   "title": "GTA 6 features something Rockstar tried to add in Grand Theft Auto: Vice City, former tech lead says",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-features-something-rockstar-tried-to-pull-off-in-grand-theft-auto-vice-city-24-years-ago-former-tech-lead-says/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-25T13:58:31+00:00",
+   "seen": "2026-11-25T14:07:29+00:00",
+   "summary": "Headphones are a Vice City specialty apparently",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes that headphones are a Vice City specialty, related to something Rockstar tried to add in Grand Theft Auto: Vice City."
+  },
   {
    "id": "how to listen to the radio while walking in gta 6",
    "title": "How to Listen to the Radio While Walking in GTA 6",
@@ -1390,6 +1468,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "How to complete Company Property in GTA 6."
+  },
+  {
+   "id": "gaming grand theft auto vi transitions from memes to reality",
+   "title": "GAMING: ‘Grand Theft Auto VI’ transitions from memes to reality",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGFIQ1ljemJHaVFEN1o0cWZkUzhUUXYwSjdGNTZHR0QtUVF1T2sybjlQdkcyVjlGTFBQa2dUSlZ3RThuLU9RUXFfbnpTSmdpS0wwbDRKT2ExaGJzMjh6NWY5REtOLU94YVpyMklSVkRFME90azB3dUc5ZzF2ZUZmWGlYYTlsRldPaVhxRnVDY1hKQldiMnFYZUtEWUNSUldYUUlYRnVhRkplWWNB?oc=5",
+   "outlet": "City Times",
+   "via": "Google News",
+   "published": "2026-11-25T10:52:36+00:00",
+   "seen": "2026-11-25T14:07:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story covers GTA VI moving from memes to reality in gaming discourse."
   },
   {
    "id": "leaker suggests gta 6 could run at 120 fps on xbox project helix and sony ps6",
