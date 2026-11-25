@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T12:16:44+00:00",
- "started": "2026-11-25T12:16:38+00:00",
+ "updated": "2026-11-25T12:21:47+00:00",
+ "started": "2026-11-25T12:21:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T12:16:39+00:00"
+   "checked": "2026-11-25T12:21:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-25T12:16:39+00:00"
+   "checked": "2026-11-25T12:21:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 78,
-   "checked": "2026-11-25T12:16:39+00:00"
+   "checked": "2026-11-25T12:21:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T12:16:40+00:00"
+   "checked": "2026-11-25T12:21:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T12:16:40+00:00"
+   "checked": "2026-11-25T12:21:42+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T12:16:42+00:00"
+   "checked": "2026-11-25T12:21:42+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T12:16:42+00:00"
+   "checked": "2026-11-25T12:21:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T12:16:43+00:00"
+   "checked": "2026-11-25T12:21:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T12:16:43+00:00"
+   "checked": "2026-11-25T12:21:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T12:16:43+00:00"
+   "checked": "2026-11-25T12:21:43+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T12:16:44+00:00"
+   "checked": "2026-11-25T12:21:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T12:16:44+00:00"
+   "checked": "2026-11-25T12:21:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T12:16:44+00:00"
+   "checked": "2026-11-25T12:21:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T12:16:44+00:00"
+   "checked": "2026-11-25T12:21:44+00:00"
   }
  },
  "items": [
+  {
+   "id": "mow down an alligator to the music of mahler i love how grand theft auto vi went crazy for classical",
+   "title": "Mow down an alligator to the music of Mahler! I love how Grand Theft Auto VI went crazy for classical",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjF3aDRJdkEySDJJVHp0dW1zZ1g3TXpBYk9rRHJJN2VuNUFFOWdmQ3YzRUhzLVhHSU5rMmhvempHRUJWQnpyczI1RlkzZTVpUHNkcmp5Ulp3Ym5xWThoUmhySVFWbUF3akRzekZxc0dMalJncnI4Ykc5RjViWTBUVXZGVVBCcHNjZUFuWktOSVNlRGdNaVpaWENRaGpIeTctWkwydjFn?oc=5",
+   "outlet": "The Guardian",
+   "via": "Google News",
+   "published": "2026-11-25T12:17:00+00:00",
+   "seen": "2026-11-25T12:21:41+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false,
+   "ai_summary": "The story reports gambling on mowing down an alligator to Mahler music as GTA VI's embrace of classical music."
+  },
+  {
+   "id": "grand theft auto vi where to find brian o conner s the fast and the furious mitsubishi eclipse clone",
+   "title": "Grand Theft Auto VI: Where to find Brian O'Conner’s The Fast and the Furious Mitsubishi Eclipse clone",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPanZxelQzRDFNbWNhbEs0Q1Zvd0JQeVpFdHl3aDhybmk2cU5wQTNCU1phQkhHYWRndDNaRWJDTGIwUHZwbHpfSEVmRW14NVpocnhjNUVBU212cGJPemNjdmRHYXBqV3kySk01ajlPWW5fVEg2TVpxZ0dCMEM1bTdKM0xfOC1SQ2RLRlFiQktYeXBlUmIzOU53Q0RwQ19EN2dwVU83aTR1bzNoVE9sVlVRQU40UzVFXzJkR2c?oc=5",
+   "outlet": "Traxion.GG",
+   "via": "Google News",
+   "published": "2026-11-25T12:15:53+00:00",
+   "seen": "2026-11-25T12:21:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports where to find Brian O'Conner’s Mitsubishi Eclipse clone in Grand Theft Auto VI."
+  },
   {
    "id": "how to use nos in gta 6",
    "title": "How to use NOS in GTA 6",
@@ -116,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports how to obtain and use NOS boost for cars in GTA 6."
+  },
+  {
+   "id": "gta 6 should you ask cecilia for cash or the vape pen in read the label",
+   "title": "GTA 6: Should You Ask Cecilia For Cash Or The Vape Pen In \"Read The Label\"",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNjRJSVdEUFprWmp0b09LMHZlcTVIT0FXMzlJR0tpNkVBX0QzS1FyX1o1ckVTVDRxREpJS1dsZTR4V28wZnc5bWN0eGVLbmF5X3JxbjlhMk1PWjhDekVMcS1SQVROdFBmV3c?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-25T12:03:32+00:00",
+   "seen": "2026-11-25T12:21:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports a discussion about whether to ask Cecilia for cash or the vape pen in Read The Label within GTA 6."
   },
   {
    "id": "where to buy a bikini for lucia in gta 6",
