@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T02:48:27+00:00",
- "started": "2026-11-25T02:48:23+00:00",
+ "updated": "2026-11-25T02:53:32+00:00",
+ "started": "2026-11-25T02:53:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T02:48:24+00:00"
+   "checked": "2026-11-25T02:53:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 72,
-   "checked": "2026-11-25T02:48:24+00:00"
+   "checked": "2026-11-25T02:53:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 83,
-   "checked": "2026-11-25T02:48:24+00:00"
+   "checked": "2026-11-25T02:53:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T02:48:25+00:00"
+   "checked": "2026-11-25T02:53:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T02:48:25+00:00"
+   "checked": "2026-11-25T02:53:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T02:48:25+00:00"
+   "checked": "2026-11-25T02:53:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T02:48:25+00:00"
+   "checked": "2026-11-25T02:53:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T02:48:26+00:00"
+   "checked": "2026-11-25T02:53:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T02:48:26+00:00"
+   "checked": "2026-11-25T02:53:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T02:48:26+00:00"
+   "checked": "2026-11-25T02:53:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T02:48:27+00:00"
+   "checked": "2026-11-25T02:53:29+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T02:48:27+00:00"
+   "checked": "2026-11-25T02:53:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T02:48:27+00:00"
+   "checked": "2026-11-25T02:53:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T02:48:27+00:00"
+   "checked": "2026-11-25T02:53:29+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story presents the cultural impact of Grand Theft Auto VI."
+  },
+  {
+   "id": "grand theft auto vi soundtrack expands to 61 original songs with 100 gecs travis scott justice and more",
+   "title": "'Grand Theft Auto VI' Soundtrack Expands To 61 Original Songs With 100 Gecs, Travis Scott, Justice And More",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYUZENTljOVpJaWgzcFZPZ2xhUWs5WGlyRFZMT0lIVjZoVzl2Q3otUmNacTRMV2EtMFU1ZnNBcDFRNGVvdUpHYVJOdkszazZtbjlfcHhyR2RmMnpRWVRBVUZ0TUcyRlU4enBWdFo5Ml9NLUxnZlQzWE1NV0g4a0x5RGRDOVRwSF9ndm9xaFdWS0lpNEpWV0FUNkJXV3ZqZzhHaGNMeDZYOGZndlM4aEgyMG1Dcmt0QVlCczA4R0JrVzRRT1VXSG9udUFoUGhuSWdKUU5sU0JVQUNLVG1ENWc?oc=5",
+   "outlet": "That Eric Alper",
+   "via": "Google News",
+   "published": "2026-11-25T02:21:43+00:00",
+   "seen": "2026-11-25T02:53:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that the Grand Theft Auto VI soundtrack expands to 61 original songs featuring collaborators."
   },
   {
    "id": "gta 6 launch sales record what the 3 79b means",
@@ -142,6 +155,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story presents a slideshow about vehicles in GTA 6."
+  },
+  {
+   "id": "gta 6 reached more than 39 million unique ps5 players in four days the biggest launch in playstation history sony says",
+   "title": "GTA 6 reached more than 39 million unique PS5 players in four days, the biggest launch in PlayStation history, Sony says",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUnVoRmM0SkwycUNLNGhPV1AtNV9hUWlCdlg3dFFpNnJ1T0hSMjhKNGNacGFFZWgzUGJsMk1QRnZZMHRXcDJRR2czUUlOOVN1Tmp4SUdPX2tpS1lqTldJdFRsai1EUW8?oc=5",
+   "outlet": "Make Tech Easier",
+   "via": "Google News",
+   "published": "2026-11-25T02:05:25+00:00",
+   "seen": "2026-11-25T02:53:26+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports that GTA 6 reached more than 39 million unique PS5 players in four days, marking the biggest launch in PlayStation history."
   },
   {
    "id": "real life gta 6 trading cards are about to get scalped",
