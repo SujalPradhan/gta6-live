@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T11:01:19+00:00",
- "started": "2026-11-25T11:01:12+00:00",
+ "updated": "2026-11-25T11:06:17+00:00",
+ "started": "2026-11-25T11:06:11+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,141 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-25T11:01:13+00:00"
+   "hits": 99,
+   "checked": "2026-11-25T11:06:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-25T11:01:14+00:00"
+   "hits": 42,
+   "checked": "2026-11-25T11:06:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 70,
-   "checked": "2026-11-25T11:01:14+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-25T11:06:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T11:01:14+00:00"
+   "checked": "2026-11-25T11:06:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-25T11:01:15+00:00"
+   "checked": "2026-11-25T11:06:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T11:01:15+00:00"
+   "checked": "2026-11-25T11:06:13+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T11:01:15+00:00"
+   "checked": "2026-11-25T11:06:13+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-25T11:01:15+00:00"
+   "checked": "2026-11-25T11:06:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-25T11:01:16+00:00"
+   "hits": 2,
+   "checked": "2026-11-25T11:06:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-25T11:01:16+00:00"
+   "hits": 15,
+   "checked": "2026-11-25T11:06:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-25T11:01:17+00:00"
+   "hits": 8,
+   "checked": "2026-11-25T11:06:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T11:01:17+00:00"
+   "checked": "2026-11-25T11:06:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T11:01:17+00:00"
+   "checked": "2026-11-25T11:06:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T11:01:17+00:00"
+   "checked": "2026-11-25T11:06:15+00:00"
   }
  },
  "items": [
+  {
+   "id": "cd projekt red expects gta 5 to gta 6 like upgrade in the witcher 4",
+   "title": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0N3dTlFUVJlWlFUenJPSXpsQ1dValpPTmp5Y21nTkZCZjJCQm9MSDEtOVRQNFJ3b1NWMW9WaGEwU1ZtWkNIc3RoejJFbGdKR2EwX2xHSWQ2ZU5ZVGR1TUhmaFpreGZhNzBiR25GUTVocVhUeHN3R3hjdlBBNlJVVjJlcFFHWG0xODBqN1plWlNOdWk2OWliQnhYVUVPNEpsUnRiZEtOTHk3R2s?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-25T11:01:32+00:00",
+   "seen": "2026-11-25T11:06:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that CD Projekt Red expects The Witcher 4 to receive a GTA 5 to GTA 6-like upgrade."
+  },
+  {
+   "id": "the best gta 6 easter eggs from mario hats to time travel",
+   "title": "The best GTA 6 Easter eggs, from Mario hats to time travel",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORUs4cHVOSTNFa1NmcC1GWE9OblFQeTJxMUlUQzNMbWpRT3VJWHVwLWp4aHQ5RlB6Y1ozOVYtalFkWk5nblE4bm1Na3FFSXI4MkJTSF9vVms2cHNqdUp3Q2JoVmJVc2ItZW9oTy11N3haUFRsNEROb2ZxRFRPdGotUGtpQlJLUGd6X2xucm9ZeHI4em53OGc?oc=5",
+   "outlet": "Creative Bloq",
+   "via": "Google News",
+   "published": "2026-11-25T11:00:00+00:00",
+   "seen": "2026-11-25T11:06:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the best GTA 6 Easter eggs, from Mario hats to time travel."
+  },
+  {
+   "id": "the witcher 4 will borrow from gta 6 as it locks in exclusive plays best partnership",
+   "title": "The Witcher 4 will borrow from GTA 6 as it locks in exclusive 'plays best' partnership",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTBZUF9MQ2ZFYkdTRG1DMjBISWhHZU5UOWlpRzYzU1d2aHBMZXVVcWpuZFRQVmd4OVQ5eWoya21QTEFYOU9VWGU3X0I5RFhvODkySnBkZl9GVEh3dlFPV2NYMGdxWE5md1R4ZnZGdXVOMW4tSVpOVzcteDluX2pqY2NoRUUtRW1uYzBJb19WN1VnNUFHaVR4MHJ4Rk1PbGlwVkFMLTlsRzVNSGJGZWc?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-25T11:00:00+00:00",
+   "seen": "2026-11-25T11:06:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that The Witcher 4 will borrow from GTA 6 as it secures exclusive 'plays best' partnership."
+  },
   {
    "id": "gta vi runs better on xbox series x than on ps5",
    "title": "GTA VI runs better on XBOX Series X than on PS5",
@@ -129,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "How to complete Company Property in GTA 6."
+  },
+  {
+   "id": "leaker suggests gta 6 could run at 120 fps on xbox project helix and sony ps6",
+   "title": "Leaker suggests GTA 6 could run at 120 FPS on Xbox Project Helix and Sony PS6",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczFuRTRTWkYzZUJ4RnZXNGx1eEtJS3B6V1RKUDVGdlZCLU85ZnNIdmFmQ08zRmRkSlFXSHBQLWIzajRvd3pQMWRkVnJpNWl3YW9HMXdrbWtVQm5NYjdEbnpuRTNkZWRsSXRBWmNyT1NPTlFPS3JNNFZ4X19FRzc4SXVRNzVfaVBnNmZUTTlhbDR3WEc3OGhHUm5WYzB6VV9YdTUxRTZESE85ZDh0bVkyTzdmN09ZaHByZC12VFl6dw?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-25T10:52:00+00:00",
+   "seen": "2026-11-25T11:06:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that a leaker suggests GTA 6 could run at 120 FPS on Xbox Project Helix and Sony PS6."
   },
   {
    "id": "gta 6 how to flip a car in grand theft auto 6",
