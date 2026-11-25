@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T01:22:57+00:00",
- "started": "2026-11-25T01:22:50+00:00",
+ "updated": "2026-11-25T01:27:59+00:00",
+ "started": "2026-11-25T01:27:52+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-25T01:22:51+00:00"
+   "checked": "2026-11-25T01:27:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-25T01:22:51+00:00"
+   "hits": 71,
+   "checked": "2026-11-25T01:27:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 62,
-   "checked": "2026-11-25T01:22:52+00:00"
+   "hits": 83,
+   "checked": "2026-11-25T01:27:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-25T01:22:52+00:00"
+   "checked": "2026-11-25T01:27:54+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T01:22:52+00:00"
+   "checked": "2026-11-25T01:27:54+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-25T01:22:52+00:00"
+   "checked": "2026-11-25T01:27:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 20,
-   "checked": "2026-11-25T01:22:53+00:00"
+   "checked": "2026-11-25T01:27:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-25T01:22:53+00:00"
+   "checked": "2026-11-25T01:27:55+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T01:22:53+00:00"
+   "checked": "2026-11-25T01:27:55+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-25T01:22:54+00:00"
+   "checked": "2026-11-25T01:27:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T01:22:54+00:00"
+   "checked": "2026-11-25T01:27:56+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T01:22:54+00:00"
+   "checked": "2026-11-25T01:27:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T01:22:54+00:00"
+   "checked": "2026-11-25T01:27:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T01:22:54+00:00"
+   "checked": "2026-11-25T01:27:57+00:00"
   }
  },
  "items": [
@@ -378,6 +378,19 @@
    "ai_summary": "The story claims Max Verstappen spent the weekend playing GTA 6 for 40 hours and still won the Las Vegas Grand Prix."
   },
   {
+   "id": "gta vi features panama city inspired area",
+   "title": "GTA VI features Panama City-inspired area",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEtjMDFsMWJkeXFsa1d1azl2MXF1Z25vcVhNXzk5bWQtaFNPSng0RFdSaWpmT01IMk9raXl6ajg3WlBXdEwxbWJWUkZJNzBXZWswRzFmQ3NCTTFtQm5icHBqczJIXy1ldXJtUTQ3UUhxdHlXWWllUE1aOFFZaUJWWXI4aDExQUdLeDNkS0NSRnVsX3pNSHVDZUk2cW9MZFg3Yi1MWlZKYmlxMFVYanRJclJWWQ?oc=5",
+   "outlet": "Panama City News Herald",
+   "via": "Google News",
+   "published": "2026-11-24T23:48:49+00:00",
+   "seen": "2026-11-25T01:27:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI features a Panama City-inspired area."
+  },
+  {
    "id": "ps5 console dies during gta 6 stream with unusually high power usage measured",
    "title": "PS5 console dies during GTA 6 stream with unusually high power usage measured",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaFotemktS3BtRFRfUlloY1EwZ1NTM0F5Z3FhdzQtYlNPd25pdXhUNTBIbDYybGNoYXRPcXJHRnJrX2M4bmtNTUFpeXIyOG5BUGJIaWd0VGRkX3FzamVyZGpVRTdJMjRkZ2h2Y1VvaGkzXzRweWNVN1VTUTI2WFlwZXFXZ3lKRTF2RkU1QllwX1EtVTlJUXB3UUxDRm5kaWgxdXZPVlRERlpfY0ZCWmNqRWYwMWFFSGZjSHp5RkE5Yw?oc=5",
@@ -454,6 +467,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims Grand Theft Auto VI is an exception to the idea that video game romance is disliked."
+  },
+  {
+   "id": "gta vi is here but this golden retriever is not happy about it",
+   "title": "GTA VI Is Here—but This Golden Retriever Is Not Happy About It",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2RkQXBnZ2oySzdsTlhxcGpTTFVoT1c5bGE2N2FSRVZocWhKNmkybXhmUURuVkZEVEJPLV85VFZISW4td2ZaMzViTzh0dHZVeV91M05RdU5HLWNSa3RvZHRKU3BCaGxWMHgyVFM5Vnc2ME1GenE0aFJsalRBdk1ZekcxRllkWlNuQUxj?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-24T23:20:00+00:00",
+   "seen": "2026-11-25T01:27:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that GTA VI is here, but a golden retriever is not happy about it."
   },
   {
    "id": "some gta 6 fans love chapter 1 for its slower pace and are spending dozens of hours roleplaying in it",
