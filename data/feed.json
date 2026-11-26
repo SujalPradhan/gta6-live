@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T16:11:32+00:00",
- "started": "2026-11-26T16:11:28+00:00",
+ "updated": "2026-11-26T16:16:37+00:00",
+ "started": "2026-11-26T16:16:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T16:11:29+00:00"
+   "checked": "2026-11-26T16:16:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 28,
-   "checked": "2026-11-26T16:11:29+00:00"
+   "hits": 56,
+   "checked": "2026-11-26T16:16:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-26T16:11:30+00:00"
+   "hits": 51,
+   "checked": "2026-11-26T16:16:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-26T16:11:30+00:00"
+   "hits": 6,
+   "checked": "2026-11-26T16:16:34+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T16:11:30+00:00"
+   "checked": "2026-11-26T16:16:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T16:11:30+00:00"
+   "checked": "2026-11-26T16:16:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T16:11:31+00:00"
+   "checked": "2026-11-26T16:16:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T16:11:31+00:00"
+   "checked": "2026-11-26T16:16:35+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:11:31+00:00"
+   "checked": "2026-11-26T16:16:35+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:11:32+00:00"
+   "checked": "2026-11-26T16:16:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:11:32+00:00"
+   "checked": "2026-11-26T16:16:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T16:11:32+00:00"
+   "checked": "2026-11-26T16:16:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T16:11:32+00:00"
+   "checked": "2026-11-26T16:16:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T16:11:32+00:00"
+   "checked": "2026-11-26T16:16:37+00:00"
   }
  },
  "items": [
+  {
+   "id": "as anthropic goes public grand theft auto vi makes the case against efficiency",
+   "title": "As Anthropic goes public, Grand Theft Auto VI makes the case against efficiency",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM3VjQlJhTC1LaDVJMWs2MzNUenRTMEp3cG5iQ2k1YXNuMkhqREZLYm5EZTR2RF9zQzJ0T2tWNTlTMWxicV92R0xwOXZ4TU5oS3hVYlhya2dHQ3BDR2o4c2NVaW52eUxVTGRURWtRREZZUzAtSl9uWTk4MGtCZDVRSTBB?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-26T16:12:47+00:00",
+   "seen": "2026-11-26T16:16:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "majority of rockstar workers vote against unionization",
+   "title": "Majority of Rockstar Workers Vote Against Unionization",
+   "link": "https://insider-gaming.com/rockstar-workers-vote-against-unionization/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-26T16:11:15+00:00",
+   "seen": "2026-11-26T16:16:35+00:00",
+   "summary": "A new update has revealed that 75% of the workers at Rockstar Games UK have voted against unionization. Here are more details. The post Majority of Rockstar Workers Vote Against Unionization appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 the missing link walkthrough",
    "title": "GTA 6 The Missing Link Walkthrough",
@@ -573,6 +597,18 @@
    "record": false
   },
   {
+   "id": "gta 6 pc footage pulled after rockstar takedown says ex blizzard dev mark kern",
+   "title": "GTA 6 PC footage pulled after Rockstar takedown, says ex-Blizzard dev Mark Kern",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDFuX1Q3WXFEMXVtT2tFaEJPYzRoY2ZKS09uQWNCNFBRX3hNbzJITlZ6SmJNZE1oaEYwSUdGOGVYT3g3cWZ2dnppUl9zbDNoSzJWWG5pUVRUTFV2UVVtMlRNVk03WGlxRWpYZFhjSlhibWRPYUdSWGtNZ1I0YmZjMzE2NA?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-26T15:17:13+00:00",
+   "seen": "2026-11-26T16:16:33+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false
+  },
+  {
    "id": "can you free roam in gta 6 after finishing the story",
    "title": "Can you free-roam in GTA 6 after finishing the story?",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcno4V1lJaFJHdE1vMUhDQ2pqX2RNUmstX3ZfSXUyOU11Tm9wb1E0RFhRd3Q3RjVnTmxhcC1pcE54OFZEZ05VNEgycVYxU29ZN0Q3enlnc3pPQndsRWdmR2hpeEp3c1pOR0VLUHFrRUFvQmhNZUxHX0xmYlFCSlFOSkNVaGlMaUpk?oc=5",
@@ -859,6 +895,18 @@
    "summary": "Across Europe, GTA 6 has enjoyed one of the most successful physical launches of all time",
    "topic": "Sales",
    "record": true
+  },
+  {
+   "id": "gta 6 safe word choice should you participate or not",
+   "title": "GTA 6 Safe Word choice: Should you participate or not?",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RSDE0Nkg4dWYwWnRMbmRvNmdaRVFzQW1YY2VEdFNfck02cUJVUGh3N0NXOWIxQUxrZ1lWVmFoZllnTldlVEEtSzVscDB2RGxmQXBMQkYya3lUb3dsb2tSM2xXQW96LUQ5ZGUtX3prTzBfQjdCM01j?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-26T14:49:12+00:00",
+   "seen": "2026-11-26T16:16:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "why gta vi may be the last of its kind",
@@ -6440,6 +6488,18 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story reports that GTA 6 is described as the greatest artistic achievement in history by the Cyberpunk 2 director."
+  },
+  {
+   "id": "gta 6 fans will be able to visit the real vice city on a four day tour",
+   "title": "GTA 6 fans will be able to visit the real Vice City on a four-day tour",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRzZVN2JpcFVsS0RuZHJvbnRKMWdYZGhFT0E2WjA4bUh3RGhXWHVKT0hDcGZteUhyTkIxQnZxVDc3SUtvRkVqM1BfS0ZMUGdZLUc4ejRhcDZUUkJDbExmeWhuRmZiaU1mRjdoY0g1TU9PMWVqejRFM3drR3o1ZmlxUkMtUXpNdjFnUEFFZmVkd3F1VkE5WTVPcDhjQ2VVZnFlWXdqZ3NheGVIekhObmplTEtCWFnSAboBQVVfeXFMTWlPY2JmQWVMX2hYSzlPcUVKRnNtMV91VVNGMUducTdHUmxnbmxzVWRldXJDbXI5Q1dKTUhQLTZEcWlvN3phanQyUVpIMmc0T2ZjclFuT25DaXUwYmlXUVFONGtlSmpOb2hMRWV1Q0syN0tZUjlsNl9BTm8tdnZkRGRVX241OGFMY1JvR3lpWjMxWlFkbkI4OXRlakQwZzBKME9kVmJqaFVacDE2TDcwVUROa1FhajFzZUpB?oc=5",
+   "outlet": "LIGA.net",
+   "via": "Google News",
+   "published": "2026-11-25T16:50:47+00:00",
+   "seen": "2026-11-26T16:16:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "gta 6 still has the gritty patina of more controversial rockstar games former take two boss says",
