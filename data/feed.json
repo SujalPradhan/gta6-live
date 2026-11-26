@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T20:58:13+00:00",
- "started": "2026-11-26T20:58:09+00:00",
+ "updated": "2026-11-26T21:03:14+00:00",
+ "started": "2026-11-26T21:03:10+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T20:58:10+00:00"
+   "checked": "2026-11-26T21:03:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-26T20:58:10+00:00"
+   "hits": 56,
+   "checked": "2026-11-26T21:03:11+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-26T20:58:11+00:00"
+   "hits": 51,
+   "checked": "2026-11-26T21:03:12+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T20:58:11+00:00"
+   "checked": "2026-11-26T21:03:12+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:58:11+00:00"
+   "checked": "2026-11-26T21:03:12+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T20:58:11+00:00"
+   "checked": "2026-11-26T21:03:12+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T20:58:11+00:00"
+   "checked": "2026-11-26T21:03:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T20:58:12+00:00"
+   "checked": "2026-11-26T21:03:13+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T20:58:12+00:00"
+   "checked": "2026-11-26T21:03:13+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:58:12+00:00"
+   "checked": "2026-11-26T21:03:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:58:13+00:00"
+   "checked": "2026-11-26T21:03:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T20:58:13+00:00"
+   "checked": "2026-11-26T21:03:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T20:58:13+00:00"
+   "checked": "2026-11-26T21:03:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T20:58:13+00:00"
+   "checked": "2026-11-26T21:03:14+00:00"
   }
  },
  "items": [
@@ -165,6 +165,18 @@
    "record": false
   },
   {
+   "id": "gta vi features a hidden memorial for rockstar developers late family members",
+   "title": "GTA VI Features a Hidden Memorial for Rockstar Developers’ Late Family Members",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1F3a1BOdWhwZVJ1cXRCN3dfT3RCVkRPVlF3YlhCOHNCMnJhZmlma0MyUS16UUx2cWJtTl90d1hUU19nX29pc0JpZmM1blhud3N2REVvdE5zckpPalJIVFJRYmpqV094bUNvdGFvY3pFN1NqbmdUYi1ENk9YanVNWXRuTHplTXBvTExFdHJRNzg4akdrNVY0SU5hNzNxcTRGZ3diWEl5dw?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-26T20:35:44+00:00",
+   "seen": "2026-11-26T21:03:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "gta 6 runs on pc at up to 44 fps",
    "title": "GTA 6 runs on PC at up to 44 FPS",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MSENnem9iM3RCUE9hY2dXenBRMGhyeFFpNHR1T0FOcFVZd1JVOGttWURZNVZZczUwQUMwM1hOWUVTd2RDVlpHY2ZNdHpvMl85?oc=5",
@@ -172,6 +184,18 @@
    "via": "Google News",
    "published": "2026-11-26T20:34:12+00:00",
    "seen": "2026-11-26T20:38:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi features a previously unreleased song from d angelo",
+   "title": "GTA VI Features a Previously Unreleased Song From D’Angelo",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQblJxQVZaRlVPb09FbDR2XzRUQjhoQzA5bmctbHpvTTM5a1UzR2JaYmJZdjNoN0VscklOUWNmNUFxdmNrSnkxMFhoZEx2elA1aEpfRkhWcVo5Q2ZMbE1mX19ITmszQ0lzQTRZY0pXSlNyQUhwVXlvVzdyZDl0S0dtZi1Xa1dCS3ZEM1ppWQ?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-26T20:32:20+00:00",
+   "seen": "2026-11-26T21:03:11+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -186,6 +210,18 @@
    "seen": "2026-11-26T20:43:04+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "rockstar developer explains how players should experience gta vi",
+   "title": "Rockstar Developer Explains How Players Should Experience GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWZZeU12eXN2MlNsaXR3QXVIc0pUaEpvNjc3UHdOZUdpN1IxVWtMZkN4RDd4SkdaRkhOYVlCdEsxZEpZZnUzaFdRXzdZY2pHZ0ZnSHVFcVZ3Z2FPUkhSQjNRNlo5TTRtYXAyeHlZWjZYanVHVnVPX1NNMjRzem9wYWNYeGlUVlNlanpfam9OUFM4OWtfeFE?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-26T20:26:07+00:00",
+   "seen": "2026-11-26T21:03:11+00:00",
+   "summary": "",
+   "topic": "Players",
    "record": false
   },
   {
