@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T15:06:12+00:00",
- "started": "2026-11-26T15:06:08+00:00",
+ "updated": "2026-11-26T15:11:13+00:00",
+ "started": "2026-11-26T15:11:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T15:06:09+00:00"
+   "checked": "2026-11-26T15:11:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
+   "name": "Google News",
+   "ok": true,
+   "error": "",
+   "hits": 51,
+   "checked": "2026-11-26T15:11:10+00:00"
+  },
+  "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": false,
    "error": "HTTP Error 429: Too Many Requests",
    "hits": 0,
-   "checked": "2026-11-26T15:06:09+00:00"
-  },
-  "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
-   "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 58,
-   "checked": "2026-11-26T15:06:09+00:00"
+   "checked": "2026-11-26T15:11:11+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-26T15:06:10+00:00"
+   "checked": "2026-11-26T15:11:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:06:10+00:00"
+   "checked": "2026-11-26T15:11:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T15:06:10+00:00"
+   "checked": "2026-11-26T15:11:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-26T15:06:10+00:00"
+   "checked": "2026-11-26T15:11:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-26T15:06:10+00:00"
+   "checked": "2026-11-26T15:11:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:06:11+00:00"
+   "checked": "2026-11-26T15:11:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T15:06:11+00:00"
+   "checked": "2026-11-26T15:11:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T15:06:11+00:00"
+   "checked": "2026-11-26T15:11:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T15:06:12+00:00"
+   "checked": "2026-11-26T15:11:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:06:12+00:00"
+   "checked": "2026-11-26T15:11:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T15:06:12+00:00"
+   "checked": "2026-11-26T15:11:13+00:00"
   }
  },
  "items": [
+  {
+   "id": "75 of rockstar s workers have voted against unionizing",
+   "title": "75% of Rockstar’s workers have voted against unionizing",
+   "link": "https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-26T15:11:04+00:00",
+   "seen": "2026-11-26T15:11:11+00:00",
+   "summary": "The workers decided against unionizing in a ballot held in GTA 6's launch week.",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 is it worth doing cal s fishing challenges",
    "title": "GTA 6: Is It Worth Doing Cal’s Fishing Challenges?",
@@ -438,6 +450,18 @@
    "seen": "2026-11-26T14:30:55+00:00",
    "summary": "GTA 6 and Black Friday are going hand in hand. I'm live reporting on the deals that could enhance your playtime in Rockstar's generational blockbuster.",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "playstation dualsense edge is the best way to play gta 6 and it s 25 off for black friday",
+   "title": "PlayStation DualSense Edge is the best way to play GTA 6 – and it’s 25% off for Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblVkQy1lWWp0MEFnX1Uyb1lyQTFubnY5Q3BaNmJMQXFKeFpZZ0xOUDR6VG5RZXJySk9pRElxR2N0NEFiYU9QcTFqQ2dGME83QjNsTGZnNGhQSGtKZl9YSXRWcGtHT0VvNjlsMngtQUliT3BYUWgwY2o1cjlMbHpURmJla29CUmxrRW85SHdaR25CbkRCUjEtNllB?oc=5",
+   "outlet": "Trusted Reviews",
+   "via": "Google News",
+   "published": "2026-11-26T14:22:16+00:00",
+   "seen": "2026-11-26T15:11:10+00:00",
+   "summary": "",
+   "topic": "Reviews",
    "record": false
   },
   {
