@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T15:21:15+00:00",
- "started": "2026-11-26T15:21:12+00:00",
+ "updated": "2026-11-26T15:26:18+00:00",
+ "started": "2026-11-26T15:26:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,138 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-26T15:21:12+00:00"
+   "hits": 98,
+   "checked": "2026-11-26T15:26:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-26T15:21:12+00:00"
+   "hits": 51,
+   "checked": "2026-11-26T15:26:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-26T15:21:13+00:00"
+   "hits": 54,
+   "checked": "2026-11-26T15:26:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:21:13+00:00"
+   "checked": "2026-11-26T15:26:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:21:13+00:00"
+   "checked": "2026-11-26T15:26:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T15:21:13+00:00"
+   "checked": "2026-11-26T15:26:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-26T15:21:14+00:00"
+   "checked": "2026-11-26T15:26:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-26T15:21:14+00:00"
+   "checked": "2026-11-26T15:26:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-26T15:21:14+00:00"
+   "hits": 7,
+   "checked": "2026-11-26T15:26:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T15:21:14+00:00"
+   "checked": "2026-11-26T15:26:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T15:21:14+00:00"
+   "checked": "2026-11-26T15:26:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T15:21:15+00:00"
+   "checked": "2026-11-26T15:26:18+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:21:15+00:00"
+   "checked": "2026-11-26T15:26:18+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T15:21:15+00:00"
+   "checked": "2026-11-26T15:26:18+00:00"
   }
  },
  "items": [
+  {
+   "id": "16gb of vram that s the real issue at the moment specs for unofficial gta 6 ports are causing some pc gamers to panic but they re missing th",
+   "title": "'16GB of VRAM, that's the real issue at the moment': specs for unofficial GTA 6 ports are causing some PC gamers to panic — but they're missing the point",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW5MOG1ZTVFmUGtWTlZYRDhZQTYtZHJmSlQ4Vm0yeWotMmZlc2E3OW42NWJJOGhFNFNIMkdmV29FRmVubXlpQ3FxdDhMVkhhSEJjMDE0bk9GWU9td3pwUlgwcmMtaTdDTTFJbEZxMnBLNWoyZWRFZUZuOFVFZHo0T2psMTkwLWdRZW8xcDhCR19hWVhwSlkyYzJBVERsaEdaU3dnM0wtaXJWZzNTT1ZlWVlfMWxOZklpVDU2ZW9Xem9IeUdvZ3c?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-26T15:24:41+00:00",
+   "seen": "2026-11-26T15:26:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "all gta 6 endings explained how to get the best ending",
+   "title": "All GTA 6 Endings Explained & How to Get The Best Ending",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTjVGUDBDeS14M2h1SFZZOFRkcGM5SmhsTWRnZ2JCTFVwakMxdl9Lb1k0ekllY1FxNXNlem0yRmIyYkJjM3llZHBlZmhyLU9mT2ZTNjJ2QW1ndmNwM1llRUVQV2Foc1dNOVVGZzBtNl92LUxwbnkxaUE3OEpqQk81RV8zMFU?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-26T15:21:15+00:00",
+   "seen": "2026-11-26T15:26:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 on xbox one tested the power of the cloud delivers save for one big issue",
+   "title": "GTA 6 on Xbox One Tested: The Power of the Cloud Delivers - Save for One Big Issue",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzFoVF9WbzViU0Y3X3g1YXZYcG1DVmEwQ2NveHFFa3d1TzQyYW5Fa21JRld5WnNXMjVYUHhLeVpaU2ItRzQxVTgwR0xEdVBuV2hncklBM0JKQlVTVzdyS0dtSlpudkhSbHJoek9GbzFCSnVvb3FyQWdIU1piLU5mekcweUhwTXdXTkVJQmJFamlvOF8wUkJQQTJoMFVCRmlfR0dJV0JIMVF1bzJNZUNDRndKNzVnc2xMOHQw?oc=5",
+   "outlet": "Digital Foundry",
+   "via": "Google News",
+   "published": "2026-11-26T15:19:17+00:00",
+   "seen": "2026-11-26T15:26:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "can you free roam in gta 6 after finishing the story",
    "title": "Can you free-roam in GTA 6 after finishing the story?",
@@ -112,6 +148,18 @@
    "via": "Google News",
    "published": "2026-11-26T15:17:04+00:00",
    "seen": "2026-11-26T15:21:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "5 gta 6 side quests you probably missed",
+   "title": "5 GTA 6 Side Quests You Probably Missed",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hWlVYbFdOa1hVZ00xbXFsU1JHWHFzVER3VFJSSnVmc0RUaWpBRFp2MUdkMVBEMDdfOU1ncjNiN21ZRnVXQ1I2VTBQcFpJOGxJWmRmVFUtT0hkek5xVkk4NGdEcmVjUDBzWjZnMUZ1VnB1R2c?oc=5",
+   "outlet": "www.bgr.com",
+   "via": "Google News",
+   "published": "2026-11-26T15:17:00+00:00",
+   "seen": "2026-11-26T15:26:15+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -126,6 +174,18 @@
    "seen": "2026-11-26T15:21:12+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 cut features officially revealed by rockstar",
+   "title": "GTA 6 Cut Features Officially Revealed by Rockstar",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2VqekhLREgzR0FYaVc0QjBQd1NxdE9mLWV3S2Mtb3ZFNnRHZkNpTjNhRzlrS0hXaWRkZGo1amc0S2pXYWhsc09Ycjl4M2dtcVY5MlNHUXppc1V1SnpvSmxINTdfWUZfR1ZNSWtPTmdELW5PWDhvR3FhSGwzTGxtQk41VWpyeTlISlo5Tg?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-26T15:13:10+00:00",
+   "seen": "2026-11-26T15:26:15+00:00",
+   "summary": "",
+   "topic": "Reviews",
    "record": false
   },
   {
