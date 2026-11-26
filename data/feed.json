@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T15:51:30+00:00",
- "started": "2026-11-26T15:51:24+00:00",
+ "updated": "2026-11-26T15:56:33+00:00",
+ "started": "2026-11-26T15:56:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T15:51:24+00:00"
+   "checked": "2026-11-26T15:56:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-26T15:51:24+00:00"
+   "checked": "2026-11-26T15:56:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-26T15:51:25+00:00"
+   "hits": 48,
+   "checked": "2026-11-26T15:56:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:51:25+00:00"
+   "checked": "2026-11-26T15:56:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:51:25+00:00"
+   "checked": "2026-11-26T15:56:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T15:51:28+00:00"
+   "checked": "2026-11-26T15:56:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-26T15:51:29+00:00"
+   "checked": "2026-11-26T15:56:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T15:51:29+00:00"
+   "checked": "2026-11-26T15:56:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T15:51:29+00:00"
+   "checked": "2026-11-26T15:56:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T15:51:29+00:00"
+   "checked": "2026-11-26T15:56:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T15:51:30+00:00"
+   "checked": "2026-11-26T15:56:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T15:51:30+00:00"
+   "checked": "2026-11-26T15:56:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-26T15:51:30+00:00"
+   "hits": 5,
+   "checked": "2026-11-26T15:56:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T15:51:30+00:00"
+   "checked": "2026-11-26T15:56:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi developers vote against unionization",
+   "title": "GTA VI developers vote against unionization",
+   "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+   "outlet": "The Verge",
+   "via": "The Verge",
+   "published": "2026-11-26T15:55:24+00:00",
+   "seen": "2026-11-26T15:56:33+00:00",
+   "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from […]",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 is reportedly the biggest physical launch in the uk since 2019",
+   "title": "GTA 6 is Reportedly the Biggest Physical Launch in the UK Since 2019",
+   "link": "https://insider-gaming.com/gta-6-biggest-physical-launch-uk/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-26T15:52:29+00:00",
+   "seen": "2026-11-26T15:56:32+00:00",
+   "summary": "A new report reveals that GTA 6 is the biggest physical launch in the UK since 2019, generating £32 million in revenue within three days. The post GTA 6 is Reportedly the Biggest Physical Launch in the UK Since 2019 appeared first on Insider Gaming .",
+   "topic": "Sales",
+   "record": true
+  },
+  {
+   "id": "an unofficial pc port of grand theft auto vi has broken the 60 fps mark on pc for the first time",
+   "title": "An unofficial PC port of Grand Theft Auto VI has broken the 60 FPS mark on PC for the first time.",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlk4NDlOeHZtbjhkVHM5VFRSNWhBbEZXd0JoYTVhMjBaOU8welhKWE9kVnpUaDJRMEVJc0lLNmpRLUMydWY4eUJobVB3aGl4NWVuUGVPWTg4Qm5pczRQOXNmc0w2a1ZlcENQdExZbGxHR3ZlS2pFclpleWdxTThLc29EcFFzM1FCUHJETTJEX0JoT0ZlcVVjMlBtMy11YWNXSmI3ZENPSWd5ckN2VHdpN3E5ODZaZw?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-26T15:51:20+00:00",
+   "seen": "2026-11-26T15:56:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "can you continue playing gta 6 after the ending",
    "title": "Can You Continue Playing GTA 6 After The Ending?",
@@ -513,6 +549,18 @@
    "record": true
   },
   {
+   "id": "the one reason nintendo and rockstar can make games like ocarina of time and gta 6",
+   "title": "The One Reason Nintendo and Rockstar Can Make Games Like Ocarina of Time and GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83cFFZNXVqdDlPbGRTTU42Ylhkak5SVkRuVTZBSWg0TUJYR3BoRnVySmQwZG1MdFBBWWJ4YkpJWEtJRVhyYlJLdG5jdV94dHRKRGVJZ1Z5dmFNUnJRUURiY3V0c0c?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-26T15:00:18+00:00",
+   "seen": "2026-11-26T15:56:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "how to unlock gta 6 hurricanes and fix the weather bug on ps5",
    "title": "How to unlock GTA 6 hurricanes and fix the weather bug on PS5",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkR5NFlGS0RoQkg4eHgtTS1fdFlpd2tPQjQ2MVZNZkY5dzZsYk5iVkVRQ05QUjRXMmpzbnZnRkVoUVNBMjdmX3YtMFNWWjhpTjV5N0s4NDJxN1pfRENOVmVpeUNoUndtaE1YYlFrd3R5ZjNrX1p5UThuYWxYUkxVVWt3NERMX084d1hDTDc5cTRzNUdSd3BiNlgtUVRmZGxYUnJ3UzI1cGhuOTVnUHNv?oc=5",
@@ -630,6 +678,18 @@
    "seen": "2026-11-26T14:51:03+00:00",
    "summary": "GTA 6's open, thriving world has so many buildings, so find out how many you can enter, as well as how to enter them. The post How Many Buildings Can You Enter in GTA 6? Enterable Buildings Walkthrough appeared first on Insider Gaming .",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "forget gta 6 switch 2 mario kart world bundle drops 50 for black friday",
+   "title": "Forget GTA 6, Switch 2 Mario Kart World Bundle Drops $50 For Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTFYamdtaTlDWFplLWN0UnRaZHQwUlNXeVZaYnpYa1ZIcm04bld5c1hac3pqeUFzOGtRajFSTFROQThZMWIyNTN0V0YzTGFCRUFtNlhRcDBqUG9Lb3dOMGxGeHdTdFdzb0xfdEo0eXRHdEU3dUZMOTZJaEV0MG1Xdmt1YmhsdU9FN0RF?oc=5",
+   "outlet": "HotHardware",
+   "via": "Google News",
+   "published": "2026-11-26T14:50:00+00:00",
+   "seen": "2026-11-26T15:56:30+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
