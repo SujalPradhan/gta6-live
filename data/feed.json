@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T03:17:01+00:00",
- "started": "2026-11-26T03:16:58+00:00",
+ "updated": "2026-11-26T03:22:06+00:00",
+ "started": "2026-11-26T03:21:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T03:16:58+00:00"
+   "checked": "2026-11-26T03:22:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 32,
-   "checked": "2026-11-26T03:16:59+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T03:22:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-26T03:16:59+00:00"
+   "hits": 58,
+   "checked": "2026-11-26T03:22:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T03:16:59+00:00"
+   "checked": "2026-11-26T03:22:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T03:16:59+00:00"
+   "checked": "2026-11-26T03:22:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T03:16:59+00:00"
+   "checked": "2026-11-26T03:22:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T03:17:00+00:00"
+   "checked": "2026-11-26T03:22:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T03:17:00+00:00"
+   "checked": "2026-11-26T03:22:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T03:17:00+00:00"
+   "checked": "2026-11-26T03:22:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T03:17:00+00:00"
+   "checked": "2026-11-26T03:22:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T03:17:01+00:00"
+   "checked": "2026-11-26T03:22:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T03:17:01+00:00"
+   "checked": "2026-11-26T03:22:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T03:17:01+00:00"
+   "checked": "2026-11-26T03:22:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T03:17:01+00:00"
+   "checked": "2026-11-26T03:22:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "the weeknd s gta vi song was called game exclusive here s what justice actually said",
+   "title": "The Weeknd’s ‘GTA VI’ Song Was Called Game-Exclusive. Here’s What Justice Actually Said",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1lpXzJIVkVkMFVLRjQ0VS0xWVZZcVRhV3VjU2gyVDdHUUEzVXhWWFFRTFdIaHFjalFHUWV3a0JZZWFLTjlHX1lGOUtnNzNxRDNYU1dLMnhsM1FRT2puQ0VqNHp5cTMyVTZfSFdVWkpjLURibnRnNHVlcUVVRExxYTMtMjcycVpBcGw3bTZzZzJmSGluUmxQQkVTYTdtcjN3UDVDUg?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-26T03:00:00+00:00",
+   "seen": "2026-11-26T03:22:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story discusses what was actually said about The Weeknd’s GTA VI song being called game-exclusive."
+  },
+  {
+   "id": "how to hunt animals and where to sell them in gta 6",
+   "title": "How to Hunt Animals and Where to Sell Them in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSV9SN1gydTR5eVpGaDhKVzA2VUNsRW9ISW5XekdsYjQ1Sm5hNHppVV9JOTRwV2tjN1NXMXRabnlkNFNta09EV1hfUzRqWU5wUmlMeUI0WTNHNC12RHB0SmZEMnBNUWxZSnQwbVNBdzYzak1sVElWX1pLMEFHY3NxcDNONmdudw?oc=5",
+   "outlet": "GameTyrant",
+   "via": "Google News",
+   "published": "2026-11-26T03:00:00+00:00",
+   "seen": "2026-11-26T03:22:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story explains how to hunt animals and where to sell them in GTA 6."
+  },
   {
    "id": "gta 6 pc leak 1 xbox build 0 official pc dates",
    "title": "GTA 6 PC Leak: 1 Xbox Build, 0 Official PC Dates",
@@ -259,6 +285,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story claims Grand Theft Auto VI demands a Protestant work ethic."
+  },
+  {
+   "id": "get gta 6 the ps5 and a premium controller for 100 off in limited time black friday deal",
+   "title": "Get GTA 6, the PS5 and a premium controller for £100 off in limited-time Black Friday deal",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckp4cmJuMk1ydHBwSEJsMV9KbzZhMWdRb09GRjVITFBWOWxPU280WEhXMVdjN2RuZ1FKNllaWE5mVUp0enNxeFhBdjk3a1YyUTBzTHdWNW1pbkE0TjVZcWtEZ0tMZnhWUVVDX1FiQm1nLXBZUUh0MnBFYkNyS2Yxbm81VENlRHpR?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-26T01:48:54+00:00",
+   "seen": "2026-11-26T03:22:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story notes a limited-time Black Friday deal offering GTA 6, the PS5, and a premium controller at £100 off."
   },
   {
    "id": "holy sh t gta 6 qr codes work irl rubius found a qr code on a bathroom wall in gta 6 he pulled out his real phone and scanned it what happen",
