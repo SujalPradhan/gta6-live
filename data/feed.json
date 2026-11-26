@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T10:09:19+00:00",
- "started": "2026-11-26T10:09:15+00:00",
+ "updated": "2026-11-26T10:14:19+00:00",
+ "started": "2026-11-26T10:14:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T10:09:15+00:00"
+   "checked": "2026-11-26T10:14:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-26T10:09:15+00:00"
+   "hits": 51,
+   "checked": "2026-11-26T10:14:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-26T10:09:16+00:00"
+   "hits": 60,
+   "checked": "2026-11-26T10:14:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T10:09:16+00:00"
+   "checked": "2026-11-26T10:14:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T10:09:17+00:00"
+   "checked": "2026-11-26T10:14:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T10:09:17+00:00"
+   "checked": "2026-11-26T10:14:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T10:09:17+00:00"
+   "checked": "2026-11-26T10:14:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T10:09:17+00:00"
+   "checked": "2026-11-26T10:14:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T10:09:17+00:00"
+   "checked": "2026-11-26T10:14:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T10:09:18+00:00"
+   "checked": "2026-11-26T10:14:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T10:09:18+00:00"
+   "checked": "2026-11-26T10:14:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T10:09:18+00:00"
+   "checked": "2026-11-26T10:14:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T10:09:18+00:00"
+   "checked": "2026-11-26T10:14:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T10:09:19+00:00"
+   "checked": "2026-11-26T10:14:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to turn your selfie into gta 6 inspired cover art with chatgpt the prompt to preserve your facial features",
+   "title": "How to turn your selfie into GTA 6-inspired cover art with ChatGPT, The prompt to preserve your facial features",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ1BuNG01VW1yWDRTZDM2RFVYa0pMR0tkbEc2NmlDa1JNaDhDNFJrYmREZ2VYR2pHYmZ0NkRVRjNmSm8xMThUWExkZUE0VHhnakZ3ZjBHNFdqSzhVblBUTnJ0ZW9yOXJKMHdyNXJrN25wQzRJaUp6UUx4MUlqMGJaNmhnNmdtdlBya1N4QnNrZ0JSUGZKNXllV1ZCTEsyTzdYZXFUYmhKb3ZOZVRmamNiQWtBLWdpa2hvSkVORFdTbV9BRzhJTVhfZlduYm9aNDJn?oc=5",
+   "outlet": "Revista Merca2.0",
+   "via": "Google News",
+   "published": "2026-11-26T10:12:52+00:00",
+   "seen": "2026-11-26T10:14:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 s first patch fixes story blocking phone calls but players say one problem is still there",
+   "title": "GTA 6's First Patch Fixes Story-Blocking Phone Calls, but Players Say One Problem Is Still There",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFF6YlVFZWJqNnJmQzl5bThQMFRUYzF2WUpnODlnSTBJT21WamtUTkY0TTFjNjZiSzFLMXZmQXZRS1lHbTh2UFcyRmo0YzBQSWlxUFB2c2tRWkUxNUZQbXdCajY0Umc0SlQta3BrX0tlSzFYY09qYWZYVUtXREduSFZKZjFpLVpHVXFDM3hmTFpxU2JJZ19nQWRoeC01MEp2S2gxYW1sa2d0ZzZub3JWcHZWUnZoYTVCbkVGaTE3VGdYaFVOVUp3?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-26T10:12:28+00:00",
+   "seen": "2026-11-26T10:14:17+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
   {
    "id": "ps5 users report increased sudden shutdowns while playing gta 6 three major errors noted",
    "title": "PS5 users report 'increased sudden shutdowns' while playing GTA 6, three major errors noted",
@@ -402,6 +426,18 @@
    "via": "Google News",
    "published": "2026-11-26T08:00:00+00:00",
    "seen": "2026-11-26T09:03:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 reportedly boots on a 9 year old radeon rx 580 but it s a slideshow",
+   "title": "GTA 6 reportedly boots on a 9-year-old Radeon RX 580, but it’s a slideshow",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkpvdENqUUZmWFFqZ2Y1MmJ6R05UZm1sM0hNOFdZVnRoWTBmMkNuQ1BpSVRFNDNuVV9hSTQzRkxCRVp0SDFtQUM1c05DbnlnYmNvNEw2M0w4RnBWUmhqcmFHNmxqTHFzbGNQaFI5SWJvOUQ5NlRmcUZxNWJQR3dmOEJaNXJDRGlLWFFsa1EyZE1KbHh1VzVmQWFBQ25aRGRlVFE?oc=5",
+   "outlet": "VideoCardz.com",
+   "via": "Google News",
+   "published": "2026-11-26T07:47:39+00:00",
+   "seen": "2026-11-26T10:14:17+00:00",
    "summary": "",
    "topic": "News",
    "record": false
