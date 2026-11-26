@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T14:20:58+00:00",
- "started": "2026-11-26T14:20:54+00:00",
+ "updated": "2026-11-26T14:25:54+00:00",
+ "started": "2026-11-26T14:25:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T14:20:54+00:00"
+   "checked": "2026-11-26T14:25:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 26,
-   "checked": "2026-11-26T14:20:55+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T14:25:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 47,
-   "checked": "2026-11-26T14:20:55+00:00"
+   "hits": 50,
+   "checked": "2026-11-26T14:25:52+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-26T14:20:56+00:00"
+   "checked": "2026-11-26T14:25:53+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T14:20:56+00:00"
+   "checked": "2026-11-26T14:25:53+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T14:20:56+00:00"
+   "checked": "2026-11-26T14:25:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-26T14:20:56+00:00"
+   "checked": "2026-11-26T14:25:53+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T14:20:57+00:00"
+   "checked": "2026-11-26T14:25:53+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T14:20:57+00:00"
+   "checked": "2026-11-26T14:25:54+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T14:20:57+00:00"
+   "checked": "2026-11-26T14:25:54+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T14:20:58+00:00"
+   "checked": "2026-11-26T14:25:54+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T14:20:58+00:00"
+   "checked": "2026-11-26T14:25:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T14:20:58+00:00"
+   "checked": "2026-11-26T14:25:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T14:20:58+00:00"
+   "checked": "2026-11-26T14:25:54+00:00"
   }
  },
  "items": [
@@ -114,6 +114,30 @@
    "seen": "2026-11-26T14:20:34+00:00",
    "summary": "",
    "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "gta 6 players discover cheeky new strat for stealing atms before the cops can even respond",
+   "title": "GTA 6 Players Discover Cheeky New Strat for Stealing ATMs Before the Cops Can Even Respond",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtdDc5b2w2cUxrV3ZjTmNNcU5rTDZpcG9oTlE0Z0R4ZTJISmxzMkp1aWlkU0xwR3h3X1dLcDZVS24wUUtkZWtBV3dZRWpmdHBFZW9nYkRtblhXQU96MHlnN1FKZVpyQQ?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-26T14:17:07+00:00",
+   "seen": "2026-11-26T14:25:52+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "gta vi s mclaren senna lookalike costs nothing but a fight with armed guards",
+   "title": "GTA VI's McLaren Senna Lookalike Costs Nothing But A Fight With Armed Guards",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRnJGbUxSQU0tSjhCTlhOMlUtUEloMHY1NHZMQ3FXcFVrMEhKZU9oZ1JuRXBPYjdwOGxkZFlUdUtERzZFZWdBWHVMS2JXcmEyclc3cmljbExPTDdDbmNrQzcxSHg0R05Uemg0a3dOT0IzdmEzQ3pvTHJ3VGtPMnc?oc=5",
+   "outlet": "HotCars",
+   "via": "Google News",
+   "published": "2026-11-26T14:15:14+00:00",
+   "seen": "2026-11-26T14:25:52+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -354,6 +378,18 @@
    "seen": "2026-11-26T13:35:35+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "take two s ttwo gta 6 could be a cash cow for the next decade",
+   "title": "Take-Two’s (TTWO) GTA 6 Could Be a Cash Cow for the Next Decade",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWVaYVVBV2JvbUZkeS1aR3VoQVZBbW03MGVPUmFSNG94akE5SVA5c3llLU1XSGJ3TzJiNFA1LWF2SGZINWpXR1BQdWswNGRPUUZobG9FTlJhNXdrZ2ZjU0I0di1KbThZaEU0Z2RyN3dUV0tWT2hBLWs3QlRMYm1EZXVKN3E2QXh5elJkd2tJUU0teDZuRkcxWWxDMEs0WlE?oc=5",
+   "outlet": "TipRanks",
+   "via": "Google News",
+   "published": "2026-11-26T13:33:00+00:00",
+   "seen": "2026-11-26T14:25:52+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
@@ -690,6 +726,18 @@
    "seen": "2026-11-26T13:15:28+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "here s how to play gta 6 without a ps5 or xbox or gift it on the cheap",
+   "title": "Here's how to play GTA 6 without a PS5 or Xbox (or gift it) on the cheap!",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMXhGa3JfYzdyT3h5RnVNbTNPV3Z0cXc2b3VlOVI1Q282MWw3ck1QR0JZTnFlZWJoNGxMZk0xdWRwYkhNSXlPM1ZsQm56SEJmOF9QSXdzSHJ1VVpyU2g2T3BfUXRRenBlT3ZaQ1VB?oc=5",
+   "outlet": "Korben",
+   "via": "Google News",
+   "published": "2026-11-26T12:52:23+00:00",
+   "seen": "2026-11-26T14:25:52+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
