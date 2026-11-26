@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T19:42:47+00:00",
- "started": "2026-11-26T19:42:44+00:00",
+ "updated": "2026-11-26T19:47:49+00:00",
+ "started": "2026-11-26T19:47:45+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,114 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-26T19:42:45+00:00"
+   "hits": 100,
+   "checked": "2026-11-26T19:47:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-26T19:42:45+00:00"
+   "hits": 27,
+   "checked": "2026-11-26T19:47:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 48,
-   "checked": "2026-11-26T19:42:46+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T19:47:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T19:42:46+00:00"
+   "checked": "2026-11-26T19:47:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:42:46+00:00"
+   "checked": "2026-11-26T19:47:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T19:42:46+00:00"
+   "checked": "2026-11-26T19:47:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T19:42:46+00:00"
+   "checked": "2026-11-26T19:47:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T19:42:46+00:00"
+   "checked": "2026-11-26T19:47:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T19:42:47+00:00"
+   "checked": "2026-11-26T19:47:48+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:42:47+00:00"
+   "checked": "2026-11-26T19:47:48+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:42:47+00:00"
+   "checked": "2026-11-26T19:47:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T19:42:47+00:00"
+   "checked": "2026-11-26T19:47:49+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T19:42:47+00:00"
+   "checked": "2026-11-26T19:47:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T19:42:47+00:00"
+   "checked": "2026-11-26T19:47:49+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 s violence has consequences and rockstar s rob nelson explains why",
+   "title": "GTA 6’s violence has consequences, and Rockstar’s Rob Nelson explains why",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMzRmc0JkRExUTHBRWkpvdVQ5VzZHVW5xcDBzeU1ycDgxMFVpZ25pc2U1b3ljM1F4NGlNdjlNWHo3UllKaDZKZFpSNTcwcDFmdmdWLW45X1R4OGdINzNJakRoNXJkV0sxVVJYSzBDdWNjdjFKMHJ6OEhmX29Kd1RzYUZZV0lheE9Id05BQkJGMWMwWW9k?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-26T19:46:27+00:00",
+   "seen": "2026-11-26T19:47:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 breaks another record as uk s biggest physical release since 2019",
    "title": "GTA 6 Breaks Another Record As UK’s Biggest Physical Release Since 2019",
@@ -366,6 +378,18 @@
    "seen": "2026-11-26T18:22:18+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 metacritic and reviews the current state",
+   "title": "GTA 6 Metacritic and Reviews: The Current State",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ONXlyckhMVm5DZXoyQjVOWWx4X2pvNlN6Z1F3Z01SSnNRTG1LS01vcEdPdGZmWHFRZDV1RnUtRGZULWtKZDk5WnNKbzM3SEg4QlVSZ3hHUHFSczNkOG95Qm5USHdaY1F1QWZ5UVBDMGdiYldzZk12dlQ2ZGE?oc=5",
+   "outlet": "space4games",
+   "via": "Google News",
+   "published": "2026-11-26T18:14:11+00:00",
+   "seen": "2026-11-26T19:47:47+00:00",
+   "summary": "",
+   "topic": "Reviews",
    "record": false
   },
   {
