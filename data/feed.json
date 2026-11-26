@@ -1,109 +1,157 @@
 {
- "updated": "2026-11-26T12:55:23+00:00",
- "started": "2026-11-26T12:55:20+00:00",
+ "updated": "2026-11-26T13:00:50+00:00",
+ "started": "2026-11-26T13:00:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 99,
-   "checked": "2026-11-26T12:55:20+00:00"
+   "ok": false,
+   "error": "HTTP Error 503: Service Unavailable",
+   "hits": 0,
+   "checked": "2026-11-26T13:00:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 25,
-   "checked": "2026-11-26T12:55:21+00:00"
+   "ok": false,
+   "error": "HTTP Error 503: Service Unavailable",
+   "hits": 0,
+   "checked": "2026-11-26T13:00:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 56,
-   "checked": "2026-11-26T12:55:21+00:00"
+   "ok": false,
+   "error": "HTTP Error 503: Service Unavailable",
+   "hits": 0,
+   "checked": "2026-11-26T13:00:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-26T12:55:22+00:00"
+   "checked": "2026-11-26T13:00:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T12:55:22+00:00"
+   "checked": "2026-11-26T13:00:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-26T12:55:22+00:00"
+   "checked": "2026-11-26T13:00:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T12:55:22+00:00"
+   "checked": "2026-11-26T13:00:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T12:55:22+00:00"
+   "checked": "2026-11-26T13:00:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-26T12:55:22+00:00"
+   "hits": 4,
+   "checked": "2026-11-26T13:00:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T12:55:23+00:00"
+   "checked": "2026-11-26T13:00:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T12:55:23+00:00"
+   "checked": "2026-11-26T13:00:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T12:55:23+00:00"
+   "checked": "2026-11-26T13:00:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T12:55:23+00:00"
+   "checked": "2026-11-26T13:00:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T12:55:23+00:00"
+   "checked": "2026-11-26T13:00:50+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 secret mission in capri how to find and complete the hidden mission",
+   "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-26T13:00:13+00:00",
+   "seen": "2026-11-26T13:00:49+00:00",
+   "summary": "Here's how to trigger a secret mission in GTA 6",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 chapter 4 mission list every mission in gta 6 chapter 4 in order",
+   "title": "GTA 6 Chapter 4 Mission List – Every Mission in GTA 6 Chapter 4 in Order",
+   "link": "https://insider-gaming.com/gta-6-chapter-4-mission-list-every-mission-in-gta-6-chapter-4-in-order/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-26T12:56:50+00:00",
+   "seen": "2026-11-26T13:00:49+00:00",
+   "summary": "A complete mission list for GTA 6 Chapter 4 The post GTA 6 Chapter 4 Mission List – Every Mission in GTA 6 Chapter 4 in Order appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to register advanced tracker cars in gta 6 keep stolen cars remove all trackers",
+   "title": "How To Register Advanced Tracker Cars in GTA 6—Keep Stolen Cars & Remove All Trackers",
+   "link": "https://insider-gaming.com/register-advanced-tracker-cars-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-26T12:55:29+00:00",
+   "seen": "2026-11-26T13:00:49+00:00",
+   "summary": "If you want to keep and register the game's best cars, there are tips to do this and remove the Advanced Trackers. The post How To Register Advanced Tracker Cars in GTA 6—Keep Stolen Cars & Remove All Trackers appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to steal gta 6 atms and get a winched vehicle",
+   "title": "How to steal GTA 6 ATMs and get a winched vehicle",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-steal-atm-winch/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-26T12:54:00+00:00",
+   "seen": "2026-11-26T13:00:49+00:00",
+   "summary": "You need a winched vehicle to steal a GTA 6 ATM, and you need to know how to escape with one",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 car repair the fastest method",
    "title": "GTA 6 Car Repair: The Fastest Method",
