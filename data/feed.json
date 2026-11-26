@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T20:48:10+00:00",
- "started": "2026-11-26T20:48:06+00:00",
+ "updated": "2026-11-26T20:53:08+00:00",
+ "started": "2026-11-26T20:53:05+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,126 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-26T20:48:07+00:00"
+   "hits": 100,
+   "checked": "2026-11-26T20:53:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-26T20:48:07+00:00"
+   "checked": "2026-11-26T20:53:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 53,
-   "checked": "2026-11-26T20:48:08+00:00"
+   "checked": "2026-11-26T20:53:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T20:48:08+00:00"
+   "checked": "2026-11-26T20:53:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:48:08+00:00"
+   "checked": "2026-11-26T20:53:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T20:48:08+00:00"
+   "checked": "2026-11-26T20:53:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T20:48:09+00:00"
+   "checked": "2026-11-26T20:53:07+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T20:48:09+00:00"
+   "checked": "2026-11-26T20:53:07+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T20:48:09+00:00"
+   "checked": "2026-11-26T20:53:07+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:48:09+00:00"
+   "checked": "2026-11-26T20:53:08+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:48:09+00:00"
+   "checked": "2026-11-26T20:53:08+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T20:48:10+00:00"
+   "checked": "2026-11-26T20:53:08+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T20:48:10+00:00"
+   "checked": "2026-11-26T20:53:08+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T20:48:10+00:00"
+   "checked": "2026-11-26T20:53:08+00:00"
   }
  },
  "items": [
+  {
+   "id": "lucia actress manni l perez claims she worked on gta 6 for almost a decade",
+   "title": "Lucia actress Manni L. Perez claims she worked on GTA 6 for ‘almost a decade’",
+   "link": "https://www.videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-26T20:52:29+00:00",
+   "seen": "2026-11-26T20:53:07+00:00",
+   "summary": "Manni L. Perez thanks GTA 6 fans for their response to Lucia",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 has a lot going on here are some tips for your first time in vice city",
+   "title": "GTA 6 Has a Lot Going On. Here Are Some Tips for Your First Time in Vice City.",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmVOUDVscXBCUVFMenc2M3lNajJHNFhhbUI3Y3dxM0VDc1RRbTB3X0ZRVTRxWW4yYmtmX3czWnE0SjJfQk1PcGhpcGQxUHdLUnNTa2Nzc0YyOXBpMW8wRVJIUWhwdkpKSHpnU3FISk44b2I5VTVIa1Eta3F1ZjZsOWRQMzNFdmlnZXZvay1SWHU0TWtSbGhNSkxmMVpMQlpBRzJDS3hTSC1GUG9mRnc?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-26T20:50:13+00:00",
+   "seen": "2026-11-26T20:53:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 reportedly steals the launch week streaming crown with 420 million hours watched",
    "title": "GTA 6 reportedly steals the launch-week streaming crown with 420 million hours watched",
@@ -198,6 +222,18 @@
    "seen": "2026-11-26T20:27:59+00:00",
    "summary": "",
    "topic": "Streaming",
+   "record": false
+  },
+  {
+   "id": "tiny dog sees her gta 6 look alike on tv looks ready to join the game",
+   "title": "Tiny Dog Sees Her GTA 6 Look-Alike on TV & Looks Ready to Join the Game",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYXRPM2g4SFhyLUZiRE9MX3JWaXF4V3hUOGtmal9OemRiTUJQUzF6YWU2NXpRQ0NycFE4NHB6QWJ1V0dVRjIxT0dVdF9QYUdkalM1aDl5X0pybUxBOHlCN190RTNjNFNSSE51eDFWcnBKLURtZ21pVTY3OW1McFVzNjBaSQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-26T20:14:56+00:00",
+   "seen": "2026-11-26T20:53:06+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -364,6 +400,18 @@
    "via": "Google News",
    "published": "2026-11-26T19:18:53+00:00",
    "seen": "2026-11-26T19:22:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 album tracklist all 34 songs and singles",
+   "title": "GTA 6 Album Tracklist: All 34 Songs and Singles",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFuRWZNV3JPMzR5V3hjMFJlNWk0X2xLc0dPU2drVDJNRmFYdzBLN2xUSTNnTkNWRzJ0WlFaaUNQR0ltTWlFUEhySEJVeGRTc0IwMllUOVFNQUpPTXlSSndWWnBiUi1tWC0zd0R0ajM0TWtMekFnNUNHUlZoTGF4RG9hOWZ1VkFNMHljSDB1MDNXS0FHMkNvWWZDTEM2SEJLTjNoSTVB?oc=5",
+   "outlet": "25YearsLaterSite.com",
+   "via": "Google News",
+   "published": "2026-11-26T19:18:39+00:00",
+   "seen": "2026-11-26T20:53:06+00:00",
    "summary": "",
    "topic": "News",
    "record": false
