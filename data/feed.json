@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T02:26:45+00:00",
- "started": "2026-11-26T02:26:42+00:00",
+ "updated": "2026-11-26T02:31:54+00:00",
+ "started": "2026-11-26T02:31:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-26T02:26:42+00:00"
+   "hits": 100,
+   "checked": "2026-11-26T02:31:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 35,
-   "checked": "2026-11-26T02:26:43+00:00"
+   "hits": 34,
+   "checked": "2026-11-26T02:31:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-26T02:26:43+00:00"
+   "hits": 59,
+   "checked": "2026-11-26T02:31:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T02:26:43+00:00"
+   "checked": "2026-11-26T02:31:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T02:26:43+00:00"
+   "checked": "2026-11-26T02:31:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T02:26:43+00:00"
+   "checked": "2026-11-26T02:31:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T02:26:44+00:00"
+   "checked": "2026-11-26T02:31:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T02:26:44+00:00"
+   "checked": "2026-11-26T02:31:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T02:26:44+00:00"
+   "checked": "2026-11-26T02:31:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T02:26:44+00:00"
+   "checked": "2026-11-26T02:31:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T02:26:45+00:00"
+   "checked": "2026-11-26T02:31:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T02:26:45+00:00"
+   "checked": "2026-11-26T02:31:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T02:26:45+00:00"
+   "checked": "2026-11-26T02:31:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T02:26:45+00:00"
+   "checked": "2026-11-26T02:31:52+00:00"
   }
  },
  "items": [
+  {
+   "id": "site lets gamers play gta 6 for free as alternative to ps5 or xbox cloud gaming",
+   "title": "Site lets gamers play GTA 6 for free, as alternative to PS5 or Xbox cloud gaming",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzk2STI0Ujd4dkVXYU8xX3VtdzlvUFljdmpRUkR5bmd4SjNxRkdpZ09oYXNjQ09STWhRZFRWX1AzVmNIMzBPb2F2RWhmQzdwQ1lFZWpJVGczNGFadkhJazE1NGluMkdwSGdfNXRfbjI5ODA0ZnhSaEt6SDFfTlM0WDJQMm5SV3dfSjc0OVk5VEhEcmdneVJZaGJibGtJeGpWUzI0YVV0c3l6T040dHFGa1U3eGRfSVNDeFRYVjZPNFhSZw?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-26T02:26:00+00:00",
+   "seen": "2026-11-26T02:31:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims a site lets gamers play GTA 6 for free as an alternative to PS5 or Xbox cloud gaming."
+  },
   {
    "id": "one week in is grand theft auto vi exceeding expectations",
    "title": "One Week In: Is Grand Theft Auto VI Exceeding Expectations?",
