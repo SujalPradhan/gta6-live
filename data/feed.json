@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T11:29:44+00:00",
- "started": "2026-11-26T11:29:40+00:00",
+ "updated": "2026-11-26T11:34:47+00:00",
+ "started": "2026-11-26T11:34:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,161 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T11:29:41+00:00"
+   "checked": "2026-11-26T11:34:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-26T11:29:41+00:00"
+   "hits": 50,
+   "checked": "2026-11-26T11:34:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-26T11:29:41+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T11:34:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-26T11:29:42+00:00"
+   "checked": "2026-11-26T11:34:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T11:29:42+00:00"
+   "checked": "2026-11-26T11:34:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T11:29:42+00:00"
+   "checked": "2026-11-26T11:34:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T11:29:43+00:00"
+   "checked": "2026-11-26T11:34:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T11:29:43+00:00"
+   "checked": "2026-11-26T11:34:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-26T11:29:43+00:00"
+   "hits": 3,
+   "checked": "2026-11-26T11:34:46+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T11:29:43+00:00"
+   "checked": "2026-11-26T11:34:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T11:29:44+00:00"
+   "checked": "2026-11-26T11:34:47+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T11:29:44+00:00"
+   "checked": "2026-11-26T11:34:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T11:29:44+00:00"
+   "checked": "2026-11-26T11:34:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T11:29:44+00:00"
+   "checked": "2026-11-26T11:34:47+00:00"
   }
  },
  "items": [
+  {
+   "id": "young americans agree with gta vi bring back simp culture",
+   "title": "Young Americans agree with GTA VI: Bring back simp culture",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbkpVYlN4RkR3REVoUVNBck1hc1AtbEIybWNQUmJqMGdHRl9VcDlxMFl1MVdhT21nbV9UUzZhMjJVazBpY0ljQ1Qwa0RNNHphT3lXLUdVOEJUbEk5dmNjZHA4blZtXzFUTC1sYkUwYnJYMEw0MnIzNUNUVHJ2cFlZYW1teTZKOEo3N3VDZmVmX1lJUGs?oc=5",
+   "outlet": "Fortune",
+   "via": "Google News",
+   "published": "2026-11-26T11:30:00+00:00",
+   "seen": "2026-11-26T11:34:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "take two wipes out 3 007 gta 6 pc port repos from github in massive dmca crackdown as ai tools fuel wave of unofficial builds",
+   "title": "Take-Two wipes out 3,007 GTA 6 PC port repos from GitHub in massive DMCA crackdown — as AI tools fuel wave of unofficial builds",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcTdReHhwWDFTeGxpMUpBcmZ4MWw3RnFnNFlEdUR5X2pPVnVaTDkyS0s0SjVtRUlIWl9XTFdnNzR3UGllNlBEUmpEQ0NFNlJBRE05QmJ4aDAzWk00TU9MYmNrZjFDbXQ0c3BjckNCUGtTODk3cmVfbEFqckM3ZWladnVMLU9YREt5cnJjS1UzVlpkeVl1V1oxVXlJOWVubVZYczBpVDdMQm95QnhzSE9qUU92VGg1QXZpUGVOaFFLUUg3OFc0ajJMVUlrUlBlaVVpZHpCSWhpN1AzLTg4NGxXUElKZVl0RVZFNFhBV2ZnMkpUanJvVy02RXA5TFhEa1Z6UGsyX3RvUQ?oc=5",
+   "outlet": "Tom's Hardware",
+   "via": "Google News",
+   "published": "2026-11-26T11:30:00+00:00",
+   "seen": "2026-11-26T11:34:43+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 launched on a jailbroken ps5",
+   "title": "GTA 6 launched on a jailbroken PS5",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lRWVzV3FqZDBNOS1UTXM3SXo3ejhna2pUa2VTVVpLNHlDSTdtM1QxQkRSb2V6QXM0TDZZYzJ3c3JMWE1WbzFCUlNpSG9JX0pTbmdJRERUY3pDUzdDak1TXzN3?oc=5",
+   "outlet": "mobidevices.com",
+   "via": "Google News",
+   "published": "2026-11-26T11:27:57+00:00",
+   "seen": "2026-11-26T11:34:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "ps5 players find a workaround to make it rain and see gta 6 s impressive thunderstorms",
+   "title": "PS5 Players Find a Workaround to Make It Rain and See GTA 6's Impressive Thunderstorms",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Mdl8yTFJVbEs1ajNFdWRULWNoZ0JDZ181a3FuVU53U1dxNW5Way1tamE3clRGTXJ1ZkpTc3lycmVGbHVOWFZjVERveGZpRFR2VmdlZ1I3WnM0YWc2cmlUVTR3VDBnN0Fq?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-26T11:26:18+00:00",
+   "seen": "2026-11-26T11:34:43+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi is the toughest real world playstation 5 stress test to date as it pulls 220 w with barely anything happening on screen",
+   "title": "Grand Theft Auto VI Is the “Toughest Real-World PlayStation 5 Stress Test” to Date, As It Pulls 220 W With Barely Anything Happening On Screen",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzB4NDh2VHdudm1ZTS1sbGlmUVBqUDF4bTN4Uy1tV1RzTlJlVHNNbk8xSGNiNVU0T3I5a3lMMnV2THJocXNyRmstWWNrbWZDRVRweW9vb0Zidkk5VzNKb1c3N3NYczhJdXdVemQ5d1pEbVZCQVpDcktSbmpFQ2F4d2Jn0gGHAUFVX3lxTE9LYV9lUWhJdVFzbUlpNXdZVFZXNmJwTW5UdW1QRFFJSkw1QTctaDhZcG5kd3RPY2hfcnhtN1o5TEtZS01Rc2dNSThxUElhWlFqUGdOV282XzlKdXotVFJBcVM0VGR5Wm1ZQmRQM0NRaVo2N1NZVEIzZ005WVdPdjhPREZYN19pVQ?oc=5",
+   "outlet": "Wccftech",
+   "via": "Google News",
+   "published": "2026-11-26T11:23:42+00:00",
+   "seen": "2026-11-26T11:34:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "is gta 6 in roblox fan project explained",
    "title": "Is GTA 6 in Roblox? Fan project explained",
