@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T20:33:05+00:00",
- "started": "2026-11-26T20:33:01+00:00",
+ "updated": "2026-11-26T20:38:04+00:00",
+ "started": "2026-11-26T20:38:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T20:33:02+00:00"
+   "checked": "2026-11-26T20:38:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-26T20:33:02+00:00"
+   "hits": 27,
+   "checked": "2026-11-26T20:38:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T20:33:02+00:00"
+   "checked": "2026-11-26T20:38:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T20:33:03+00:00"
+   "checked": "2026-11-26T20:38:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:33:03+00:00"
+   "checked": "2026-11-26T20:38:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T20:33:03+00:00"
+   "checked": "2026-11-26T20:38:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T20:33:03+00:00"
+   "checked": "2026-11-26T20:38:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T20:33:03+00:00"
+   "checked": "2026-11-26T20:38:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T20:33:03+00:00"
+   "checked": "2026-11-26T20:38:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:33:04+00:00"
+   "checked": "2026-11-26T20:38:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:33:04+00:00"
+   "checked": "2026-11-26T20:38:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T20:33:04+00:00"
+   "checked": "2026-11-26T20:38:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T20:33:05+00:00"
+   "checked": "2026-11-26T20:38:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T20:33:05+00:00"
+   "checked": "2026-11-26T20:38:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 runs on pc at up to 44 fps",
+   "title": "GTA 6 runs on PC at up to 44 FPS",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MSENnem9iM3RCUE9hY2dXenBRMGhyeFFpNHR1T0FOcFVZd1JVOGttWURZNVZZczUwQUMwM1hOWUVTd2RDVlpHY2ZNdHpvMl85?oc=5",
+   "outlet": "mobidevices.com",
+   "via": "Google News",
+   "published": "2026-11-26T20:34:12+00:00",
+   "seen": "2026-11-26T20:38:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 fashion in the ign community",
    "title": "GTA 6 Fashion in the IGN Community",
@@ -775,6 +787,18 @@
    "summary": "",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "gta 6 dominates retail sales breaking every record",
+   "title": "GTA 6 Dominates Retail Sales: Breaking Every Record!",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ252MHpBVC13VVlOc1dVUHo3VUZKeV90ZGlwVzdnaVZwNHZUbmplMkdMRlVLcXE2QXd6eXV5LTQ5MVpKWDc2RG4tX1pla1JVUHNMdFZWTU9aTVVqSnFVcmhXMmdJa19PY3RDb01kRVFnZy15V3BibHRja0ZlNWtYcmU5ak40RGE1c2lYTXd6bHFta1RlaC1abE1kWnFqS0l1UWo3N1Vn?oc=5",
+   "outlet": "Unboxholics",
+   "via": "Google News",
+   "published": "2026-11-26T17:35:00+00:00",
+   "seen": "2026-11-26T20:38:02+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
   },
   {
    "id": "gta 6 players fix the weather system themselves after rockstar s latest patch left them hanging",
