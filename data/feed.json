@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T09:49:09+00:00",
- "started": "2026-11-26T09:49:06+00:00",
+ "updated": "2026-11-26T09:54:12+00:00",
+ "started": "2026-11-26T09:54:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T09:49:07+00:00"
+   "checked": "2026-11-26T09:54:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-26T09:49:07+00:00"
+   "checked": "2026-11-26T09:54:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 61,
-   "checked": "2026-11-26T09:49:07+00:00"
+   "checked": "2026-11-26T09:54:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T09:49:08+00:00"
+   "checked": "2026-11-26T09:54:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T09:49:08+00:00"
+   "checked": "2026-11-26T09:54:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T09:49:08+00:00"
+   "checked": "2026-11-26T09:54:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T09:49:08+00:00"
+   "checked": "2026-11-26T09:54:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T09:49:08+00:00"
+   "checked": "2026-11-26T09:54:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-26T09:49:08+00:00"
+   "hits": 3,
+   "checked": "2026-11-26T09:54:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T09:49:08+00:00"
+   "checked": "2026-11-26T09:54:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T09:49:09+00:00"
+   "checked": "2026-11-26T09:54:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T09:49:09+00:00"
+   "checked": "2026-11-26T09:54:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T09:49:09+00:00"
+   "checked": "2026-11-26T09:54:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T09:49:09+00:00"
+   "checked": "2026-11-26T09:54:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "a gta 6 sneaker ad seems to be referencing final fantasy 7",
+   "title": "A GTA 6 Sneaker Ad Seems To Be Referencing Final Fantasy 7",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3hHejc4dk00M0Zadlh5cmxwLU9CUGlfRTBwVk5Nc1NRN2UtVnRkb3dZNGZsamhNSUQwWG1CNFJGMGFTYzFlcHRuN21mSVZUYW5lRWhZMmRoZUh6ZXFuWTR0RUNoa0Q4UXlQUldILTdjU2pJREFoZ2xZZFhaMXVUck9fR281bThMQy04QjdjT3ZIRjBJMmhF?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-26T09:51:00+00:00",
+   "seen": "2026-11-26T09:54:10+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "us ps5 and xbox sales surged ahead of gta 6 launch despite higher prices",
+   "title": "US PS5 and Xbox sales surged ahead of GTA 6 launch despite higher prices",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmdUVvYzVjMF9YNDJHeV9kaUUxY1FVZFVSWURpTV9nLWZfNTZYWFJTZGdHTXUxTllGVlowWHpOaC1pdzVBV2MwZkxFMVdpaHVLcHhWeUR0ZDNaRk1XMFFHWVNINS1vU3dvVGJ2bjBQajFaSG01WUVVSw?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-26T09:48:49+00:00",
+   "seen": "2026-11-26T09:54:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
   {
    "id": "can you play chess in gta 6 go to a vice city rooftop to find out",
    "title": "Can you play chess in GTA 6? Go to a Vice City rooftop to find out",
