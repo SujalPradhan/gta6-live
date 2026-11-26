@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T09:14:01+00:00",
- "started": "2026-11-26T09:13:57+00:00",
+ "updated": "2026-11-26T09:19:03+00:00",
+ "started": "2026-11-26T09:18:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T09:13:57+00:00"
+   "checked": "2026-11-26T09:18:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-26T09:13:58+00:00"
+   "checked": "2026-11-26T09:19:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-26T09:13:58+00:00"
+   "hits": 61,
+   "checked": "2026-11-26T09:19:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T09:13:59+00:00"
+   "checked": "2026-11-26T09:19:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T09:13:59+00:00"
+   "checked": "2026-11-26T09:19:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T09:13:59+00:00"
+   "checked": "2026-11-26T09:19:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T09:13:59+00:00"
+   "checked": "2026-11-26T09:19:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T09:13:59+00:00"
+   "checked": "2026-11-26T09:19:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T09:13:59+00:00"
+   "checked": "2026-11-26T09:19:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T09:14:00+00:00"
+   "checked": "2026-11-26T09:19:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T09:14:00+00:00"
+   "checked": "2026-11-26T09:19:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T09:14:00+00:00"
+   "checked": "2026-11-26T09:19:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T09:14:00+00:00"
+   "checked": "2026-11-26T09:19:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T09:14:01+00:00"
+   "checked": "2026-11-26T09:19:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi appears to run on a pc with an rx 580",
+   "title": "GTA VI appears to run on a PC with an RX 580",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHRDNGxwTnhaNkhpSkRNU3hNS0s4UzlpWjNveHJaQ1FzUHhCTjJzNVdjOG9LTzM5VU5MR21hQURMV2hHVGRVUlRRRmh0MWNDTHYtWlRpbk1nZDBWS3FIcnExdlJKQjVhLWdsYnJod2hiVlUxUGhqaWlkeHlacXVmaDBGMnB1eFV4WHNiQlVJMHFBWjRZdFZrNkJB?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-26T09:14:40+00:00",
+   "seen": "2026-11-26T09:18:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 s fastest cars revealed and how to unlock them",
+   "title": "GTA 6’s fastest cars revealed – and how to unlock them",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjlnYnFmZHJCdDBYVE5NY0dvZ0tVUEExNFZmZHh5UlF0dFRHV3JjbHdVZHhMeWhjN0hVVUlueGxSZVZTQzQ0V2xLR2RNTnh1ZTFMRkJlcmVpeEpJUGxUc0c0dHp2RFZ2d1NEMnRVaklmbEdiT2RseFBHTjl6UFZUWjByMEFCOEZCLTZjTHlrZGpyMFl5Z2pJaVNab2RnUDVHV3locERIUHZRXzRJanp2WVM2S0ZmZ2ltVVE?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-26T09:12:00+00:00",
+   "seen": "2026-11-26T09:18:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
   {
    "id": "rockstar s rob nelson details gta 6 s criminal profile system",
    "title": "Rockstar's Rob Nelson Details GTA 6's Criminal Profile System",
@@ -177,6 +201,18 @@
    "record": false
   },
   {
+   "id": "all kolt stash house robbery key valuables locations gta 6",
+   "title": "All Kolt Stash House Robbery Key Valuables Locations - GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUc5a1ZnMXpPbHV5TWlTc21QWjFVOFU3Z0gzVEN6eGJmYm1WSDl6aDdVbWFwblUwQlh6ZnVacTB0emdHY3M5alVoTXZjLXh0aWt0TDEwdWVlb3NFM05BOGhDMVdWaEdMQXROLWNmek9Rci1VMjhITWdKb2FnVFpkT2VsOGlOUkhh?oc=5",
+   "outlet": "Mobalytics",
+   "via": "Google News",
+   "published": "2026-11-26T08:20:41+00:00",
+   "seen": "2026-11-26T09:18:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "grand theft auto vi lives up to its hype",
    "title": "Grand Theft Auto VI lives up to its hype",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVFDcWZaTEt0eW1wRFBPa1JRRVdtbTl0LWVkamJGSTNkcDB6aG5PaGNXak5TdlNyOS1rUWRGU3FpUDFMN1MzT1VuN3pDU1ZNREpnc0ZEaVE5QVh3Y296OW83WjVlYjJJLXBZYUlNVHVWdkJnN2xFeWljQWVqWkRGbk96UEJWV0U5WS1HR0VBbw?oc=5",
@@ -210,6 +246,18 @@
    "via": "Google News",
    "published": "2026-11-26T08:00:00+00:00",
    "seen": "2026-11-26T09:03:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "what was cut from gta vi the list is long",
+   "title": "What was cut from GTA VI? The list is long",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFl3M1BOYnlqUmRsTzZwRkpGWUpfTzFMZ0pBSVA4dkxScE8zcmhSR1EwMjFncllYX1QxcUpHT2cxUEFXZVJIandHbVlSQXE0SnA5bUxnbEhtaDFKWUk4RXVKOUNHaEIzbFJMZnhVbG9xcjFXNlFXUDREb2hxcU9DbXl4NXFKenA2akdHVtIBjAFBVV95cUxNbFl3M1BOYnlqUmRsTzZwRkpGWUpfTzFMZ0pBSVA4dkxScE8zcmhSR1EwMjFncllYX1QxcUpHT2cxUEFXZVJIandHbVlSQXE0SnA5bUxnbEhtaDFKWUk4RXVKOUNHaEIzbFJMZnhVbG9xcjFXNlFXUDREb2hxcU9DbXl4NXFKenA2akdHVg?oc=5",
+   "outlet": "iXBT.games",
+   "via": "Google News",
+   "published": "2026-11-26T07:43:00+00:00",
+   "seen": "2026-11-26T09:18:59+00:00",
    "summary": "",
    "topic": "News",
    "record": false
