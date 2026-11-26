@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T14:05:48+00:00",
- "started": "2026-11-26T14:05:45+00:00",
+ "updated": "2026-11-26T14:10:54+00:00",
+ "started": "2026-11-26T14:10:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,149 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T14:05:46+00:00"
+   "checked": "2026-11-26T14:10:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-26T14:05:46+00:00"
+   "hits": 49,
+   "checked": "2026-11-26T14:10:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-26T14:05:46+00:00"
+   "hits": 58,
+   "checked": "2026-11-26T14:10:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-26T14:05:47+00:00"
+   "checked": "2026-11-26T14:10:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T14:05:47+00:00"
+   "checked": "2026-11-26T14:10:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-26T14:05:47+00:00"
+   "checked": "2026-11-26T14:10:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T14:05:47+00:00"
+   "checked": "2026-11-26T14:10:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T14:05:47+00:00"
+   "checked": "2026-11-26T14:10:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T14:05:47+00:00"
+   "checked": "2026-11-26T14:10:53+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T14:05:48+00:00"
+   "checked": "2026-11-26T14:10:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T14:05:48+00:00"
+   "checked": "2026-11-26T14:10:54+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T14:05:48+00:00"
+   "checked": "2026-11-26T14:10:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T14:05:48+00:00"
+   "checked": "2026-11-26T14:10:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T14:05:48+00:00"
+   "checked": "2026-11-26T14:10:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "after playing the game 30 of polled gta 6 players want to buy flowers for a loved one 9 accidentally punched cats",
+   "title": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats",
+   "link": "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-26T14:09:10+00:00",
+   "seen": "2026-11-26T14:10:52+00:00",
+   "summary": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats. Read more",
+   "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "gta vi is absolutely wild a player heard screams coming from a garage pulled over to investigate and stumbled upon a group of npcs torturing",
+   "title": "GTA VI is absolutely WILD A player heard screams coming from a garage, pulled over to investigate and stumbled upon a group of NPCs torturing a police officer. Bro, what kind of random encounters are these?! 😭 Writer: Samuel",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50Z3V3QUQ5QlNIVjlRVC1XTzdEOTVDZG93TFUtZ0stTGlxX1ZkcXVEVmtselJxdWFiQURpaURsWVk3cHl6aHZaSmtfMlBES1ZRRDViTlRncV85WjBjclhvTmI1Wl9lbW5BQkRleg?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-26T14:05:00+00:00",
+   "seen": "2026-11-26T14:10:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "no disc no problem gta 6 is the biggest physical game launch since 2019",
+   "title": "No disc no problem: GTA 6 is the biggest physical game launch since 2019",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvWF85MHBlM3dwcXNjcnFWRGZqaUU5SE5RTVBoczlrd09RaXhYd2pTenAyV0cyYlkzMkFoY29peFp3UWlUZlM3OXprMUl6TzFRdDBIWndvOEZRS1dXMjJELWI2SHZ5bDA0QWwxcllyTlhKLWw2UGNKX3VxYl9mUQ?oc=5",
+   "outlet": "The Game Business",
+   "via": "Google News",
+   "published": "2026-11-26T14:03:25+00:00",
+   "seen": "2026-11-26T14:10:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "gta 6 sparks ps5 hardware fears after streamers report console failure and smoking",
+   "title": "GTA 6 Sparks PS5 Hardware Fears After Streamers Report Console Failure and Smoking",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlZuVVZYZ2RsQ21sMzNHMzFRUFJXTVhqZmJPNU1GeHlpblczZzR0TlpjQm1QTG5yUDY1bG9FZVBGZjMzSHJuenN6cEx6dUZDYXQ5aHVmTTJpQjVxNldDRGZ0UklzV0x3VVZxMFZ2S0c2M1hhZjFnZXc1UUE3UXl0S1QyR3BHVWtm?oc=5",
+   "outlet": "www.techtimes.co.uk",
+   "via": "Google News",
+   "published": "2026-11-26T14:01:46+00:00",
+   "seen": "2026-11-26T14:10:50+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
   {
    "id": "watching tv in gta 6 is more depressing than fun except for one show",
    "title": "Watching TV in GTA 6 Is More Depressing Than Fun, Except for One Show",
