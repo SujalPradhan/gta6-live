@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T16:56:50+00:00",
- "started": "2026-11-26T16:56:46+00:00",
+ "updated": "2026-11-26T17:01:50+00:00",
+ "started": "2026-11-26T17:01:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T16:56:46+00:00"
+   "checked": "2026-11-26T17:01:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-26T16:56:47+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 28,
+   "checked": "2026-11-26T17:01:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-26T16:56:47+00:00"
+   "hits": 50,
+   "checked": "2026-11-26T17:01:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T16:56:47+00:00"
+   "checked": "2026-11-26T17:01:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:56:48+00:00"
+   "checked": "2026-11-26T17:01:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T16:56:48+00:00"
+   "checked": "2026-11-26T17:01:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T16:56:49+00:00"
+   "checked": "2026-11-26T17:01:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T16:56:49+00:00"
+   "checked": "2026-11-26T17:01:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T16:56:49+00:00"
+   "checked": "2026-11-26T17:01:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:56:49+00:00"
+   "checked": "2026-11-26T17:01:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:56:50+00:00"
+   "checked": "2026-11-26T17:01:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T16:56:50+00:00"
+   "checked": "2026-11-26T17:01:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T16:56:50+00:00"
+   "checked": "2026-11-26T17:01:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T16:56:50+00:00"
+   "checked": "2026-11-26T17:01:50+00:00"
   }
  },
  "items": [
@@ -115,6 +115,18 @@
    "summary": "",
    "topic": "Sales",
    "record": false
+  },
+  {
+   "id": "this was unlike anything else we ve ever seen before but gta 6 s success is limited by the console install base and its future rests on pc",
+   "title": "\"This was unlike anything else we've ever seen before\" - but GTA 6's success is limited by the console install base, and its future rests on PC",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWENfNGkzZ0NMU2tBOXBHSk5NNEZJeUlCMWVvTFNSSzZ0dk0wTS1yYl9ka29DLWdudWdIN0tudEVXZVVLaExsTWJfcTNpdC0tQzhodmIwZmtfa2tKRUUyMU5MMkpycWU4eHVnYTVmcXo5S1dLbkNWb3J1TUVZbUM1QS1fSDVicW8tUFVPZGt2VHpxRGFUMC03SDl5WGJJbmlyT2VqUTJhZVpzOWpTc0h2TlctNVdFeEpnSzdOOWNpLThJdkZpdERiT0MzTzV4dnh2WEpmODcyNWVPZ25kUVo5UVFDWmM2NVdldTV0ZjFLOWhyanBjSzhnaGRR?oc=5",
+   "outlet": "GamesIndustry.biz",
+   "via": "Google News",
+   "published": "2026-11-26T16:53:20+00:00",
+   "seen": "2026-11-26T17:01:47+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
   },
   {
    "id": "gta 6 via xbox cloud gaming showed a latency of 184 5 ms on xbox one",
@@ -246,6 +258,18 @@
    "seen": "2026-11-26T16:46:44+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "rockstar games justifies one of gta 6 s most controversial decisions and explains why it removed a feature fans loved",
+   "title": "Rockstar Games Justifies One of GTA 6’s Most Controversial Decisions and Explains Why It Removed a Feature Fans Loved",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS2pxX0JrVzA5ZUZhcVhINXJiYlA3OFZDZ1lZS0dseEZ5d0RVaVdUbEFBanRIZTA5OHRvNHVSTU8xUU9fZHhLYVZxOHc0Q0dfQzNVOGN6Rmw2c2pnSEl1cUUyX0RKYUY5VGFBMGdDc3QwbV9hQlJmbXZLeXpzRjF3RnQ4SElla29oNFVHWV9yNnkyLWFlbUVTQjRpTWdtbEhtOGNJS3NMVFlWZjBMRE1tZlBxUmZLNDdxVVJhUGJVSEFSSDBOdUN1MUdtWVRsbGdCbmFWZExFUWJka0FCeXFMX2Fiaw?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-26T16:29:10+00:00",
+   "seen": "2026-11-26T17:01:47+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
