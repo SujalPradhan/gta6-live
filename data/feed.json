@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T13:15:32+00:00",
- "started": "2026-11-26T13:15:28+00:00",
+ "updated": "2026-11-26T13:20:36+00:00",
+ "started": "2026-11-26T13:20:32+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T13:15:28+00:00"
+   "checked": "2026-11-26T13:20:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 26,
-   "checked": "2026-11-26T13:15:29+00:00"
+   "hits": 49,
+   "checked": "2026-11-26T13:20:33+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-26T13:15:29+00:00"
+   "hits": 44,
+   "checked": "2026-11-26T13:20:33+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-26T13:15:29+00:00"
+   "checked": "2026-11-26T13:20:33+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T13:15:30+00:00"
+   "checked": "2026-11-26T13:20:34+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-26T13:15:30+00:00"
+   "checked": "2026-11-26T13:20:34+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T13:15:30+00:00"
+   "checked": "2026-11-26T13:20:34+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T13:15:31+00:00"
+   "checked": "2026-11-26T13:20:34+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T13:15:31+00:00"
+   "checked": "2026-11-26T13:20:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T13:15:31+00:00"
+   "checked": "2026-11-26T13:20:35+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T13:15:32+00:00"
+   "checked": "2026-11-26T13:20:35+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T13:15:32+00:00"
+   "checked": "2026-11-26T13:20:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T13:15:32+00:00"
+   "checked": "2026-11-26T13:20:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T13:15:32+00:00"
+   "checked": "2026-11-26T13:20:36+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 pc port taken down as take two hits 3 007 github repositories",
+   "title": "GTA 6 PC port taken down as Take-Two hits 3,007 GitHub repositories",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnFfSkFEeW4yQ3VaY1ZkRUgwVURwUk8tQmRtS3I4UVF5WG53WGxJbGxIbGRiTEVYY0hlNG5nQnlYQ2FCNFpGemR2T20tRVRacVdTOWxJYXRQOEQ1TmMwWGg1SlQzeG82d0ZFWmlYS3JjVUZBNVY2X1Y1c3VBbERSd29kS1hpQTg?oc=5",
+   "outlet": "Pasquale Pillitteri",
+   "via": "Google News",
+   "published": "2026-11-26T13:15:16+00:00",
+   "seen": "2026-11-26T13:20:33+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 watch how two players actually manage to escape six star wanted level",
+   "title": "GTA 6: Watch how two players actually manage to escape six-star wanted level",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xVjhjaEh3TF9sb0JKaXdla2VYdWdPTllKWjU4YThHcWgydDBXeWEwYlQydzNjbHNvZzB6UjhzOExKRTA4amZqazVyT2l5cjB3QW5GTUdKZFRnT2NIMkNfYWstTQ?oc=5",
+   "outlet": "Indy100",
+   "via": "Google News",
+   "published": "2026-11-26T13:14:47+00:00",
+   "seen": "2026-11-26T13:20:32+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "gta 6 players report xbox and psn suspensions over clips and photos",
+   "title": "GTA 6 players report Xbox and PSN suspensions over clips and photos",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTdzRmxTQUxRRXFJYzNSTmZWN3NFT040VS02MklBSXVLa2NYcFpaQUpIWG9xWElHcE9McG9fWEMzYWM1dHg4NkJVOUVNUXFnamlRdXpIN0xrYzFOYlZTbU1LTlJXQmtIZGIyQ0pXdUhSYWhRamdsbWQxWEtTbkNnQTFydjBSMWlnYmtyNHRsMk5oQm5CNU1Yb1pn?oc=5",
+   "outlet": "Pasquale Pillitteri",
+   "via": "Google News",
+   "published": "2026-11-26T13:13:02+00:00",
+   "seen": "2026-11-26T13:20:33+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false
+  },
   {
    "id": "gta 6 lacks mission replay because it felt at odds with the story says rockstar",
    "title": "GTA 6 Lacks Mission Replay Because “It Felt At Odds With the Story,” Says Rockstar",
@@ -282,6 +318,18 @@
    "seen": "2026-11-26T12:50:20+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi sends uk games retail sales soaring 99 to 142m in launch week",
+   "title": "​​​GTA VI sends UK games retail sales soaring 99% to £142m in launch week",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY09WeUlERTVrNDJsdTdvT2RyeU9kYjlnZ0pQaDR3eGhDWmhVQ0ZQRVNKV2s3RlpDOE5ESnlIcXVUTkx4Yk01bEN5cE5Yd0tFVWtVZ19yUVY3aFZzZE54QVliOVpQV2EzNllSSjlCNzdnWVBpQ21PbEpfUEh0Qm5EYWlvbTFWR1lkSXYxbURNSTBZallnU0lFbFlxT0lpWWRiSzJBMnpuYmg2aXVwWGRReWhBZHI1Q01u?oc=5",
+   "outlet": "NIQ",
+   "via": "Google News",
+   "published": "2026-11-26T12:45:10+00:00",
+   "seen": "2026-11-26T13:20:32+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
