@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T06:38:13+00:00",
- "started": "2026-11-26T06:38:07+00:00",
+ "updated": "2026-11-26T06:43:15+00:00",
+ "started": "2026-11-26T06:43:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T06:38:08+00:00"
+   "checked": "2026-11-26T06:43:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-26T06:38:08+00:00"
+   "hits": 31,
+   "checked": "2026-11-26T06:43:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 53,
-   "checked": "2026-11-26T06:38:08+00:00"
+   "checked": "2026-11-26T06:43:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T06:38:09+00:00"
+   "checked": "2026-11-26T06:43:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T06:38:09+00:00"
+   "checked": "2026-11-26T06:43:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T06:38:09+00:00"
+   "checked": "2026-11-26T06:43:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T06:38:10+00:00"
+   "checked": "2026-11-26T06:43:11+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T06:38:10+00:00"
+   "checked": "2026-11-26T06:43:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T06:38:10+00:00"
+   "checked": "2026-11-26T06:43:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T06:38:11+00:00"
+   "checked": "2026-11-26T06:43:12+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T06:38:11+00:00"
+   "checked": "2026-11-26T06:43:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T06:38:11+00:00"
+   "checked": "2026-11-26T06:43:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T06:38:11+00:00"
+   "checked": "2026-11-26T06:43:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T06:38:11+00:00"
+   "checked": "2026-11-26T06:43:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "south park lampoons gta vi ai and chinese spies in latest episode",
+   "title": "‘South Park’ Lampoons ‘GTA VI,’ AI and Chinese Spies in Latest Episode",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnZxLWFvWWszNTVya19wb2x0dzREYTZMdHVveVl5Q3ZYX2xEWmliOGt5U3FXMm9LSEsyUGR1OTVqbXMtbFRUSEM4ZlA1eDMtYmE4bVNqVUNQa2ZvWjdoRXFiM2Z0S3p2WFctVk5QR2o0VmV0NmdHd0EwcE9xb3Y0NVdiN0JjQURfd0tNMmR2S0tsQ0laa2RDVXdZcW5OWnBnZkx0bVZVeUd0aklTdjNhR0EtVVY0c2c?oc=5",
+   "outlet": "TheWrap",
+   "via": "Google News",
+   "published": "2026-11-26T06:37:13+00:00",
+   "seen": "2026-11-26T06:43:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that South Park lampoons GTA VI, artificial intelligence, and Chinese spies in its latest episode."
+  },
+  {
+   "id": "south park s season finale skewers billionaires and power sucking datacentres via gta vi",
+   "title": "South Park’s season finale skewers billionaires and power-sucking datacentres via GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbURKaUxKM0hJOTVXQWd4ejFsNGNjaHQ5TUJIbGtmaEVibU1sdE9mcFFwWS1xZnRPVDJTQkM3eklZcnB1TlJhQnVjSFV3d1Axd1h4cHduSUoxSjhQY0RYUUhXLXJTd1NOZy0xc2RXb2ZzUVRQanEySVZnZmdlWEYyVDhPZzNqVkJlc0FTd1lzSVVYeWNxbkZGMi0tMGdNVmY0TVMtSVFLZHlFbHp3ZUdGd3F5c0VKb1poNjA1aGl6U2xZY1My?oc=5",
+   "outlet": "The Guardian",
+   "via": "Google News",
+   "published": "2026-11-26T06:32:00+00:00",
+   "seen": "2026-11-26T06:43:10+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "The story reports that South Park's season finale skewers billionaires and power-sucking data centers via GTA VI."
+  },
   {
    "id": "leonida dmca 1 repo 2 900 forks no gta 6 pc date",
    "title": "Leonida DMCA: 1 Repo, 2,900+ Forks, No GTA 6 PC Date",
@@ -142,6 +168,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports GTA 6 is panned for a romantic streak, using terms like 'Woke Slop' and 'Simping' in the headline."
+  },
+  {
+   "id": "lana del rey rocks custom crystal gta vi birkin at launch party",
+   "title": "Lana Del Rey Rocks Custom Crystal 'GTA VI' Birkin at Launch Party",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmY5emlub1FnU0ZRNGxFaWFFbGwxZU9BV2oxeEcxOUN6WXUxMVpXOXhHTnFQU1pWdnE5SGNZRFk4NUdXRXBieTJfVjR3cGVYUlFaaEwwMUROdlN1RUxWRFE1WUZXeDN5WUdBekRqMkFEMU5JU29reFQyZ1Q5dk5ENEpscXNlR3hkU3llRHdBeEdjLS1LMWt6NFpZeUNCQ1pGcHNOUE53?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-26T06:07:00+00:00",
+   "seen": "2026-11-26T06:43:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Lana Del Rey showcases a custom crystal GTA VI Birkin at a launch party."
   },
   {
    "id": "cyberpunk 2 director calls gta 6 a creative miracle and says his own sequel will have a different flavour",
