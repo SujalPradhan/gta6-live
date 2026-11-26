@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T01:26:27+00:00",
- "started": "2026-11-26T01:26:23+00:00",
+ "updated": "2026-11-26T01:31:34+00:00",
+ "started": "2026-11-26T01:31:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T01:26:23+00:00"
+   "checked": "2026-11-26T01:31:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-26T01:26:24+00:00"
+   "hits": 55,
+   "checked": "2026-11-26T01:31:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-26T01:26:24+00:00"
+   "hits": 68,
+   "checked": "2026-11-26T01:31:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T01:26:25+00:00"
+   "checked": "2026-11-26T01:31:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T01:26:25+00:00"
+   "checked": "2026-11-26T01:31:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T01:26:25+00:00"
+   "checked": "2026-11-26T01:31:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T01:26:25+00:00"
+   "checked": "2026-11-26T01:31:29+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T01:26:26+00:00"
+   "checked": "2026-11-26T01:31:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T01:26:26+00:00"
+   "checked": "2026-11-26T01:31:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T01:26:27+00:00"
+   "checked": "2026-11-26T01:31:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T01:26:27+00:00"
+   "checked": "2026-11-26T01:31:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T01:26:27+00:00"
+   "checked": "2026-11-26T01:31:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T01:26:27+00:00"
+   "checked": "2026-11-26T01:31:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T01:26:27+00:00"
+   "checked": "2026-11-26T01:31:31+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story discusses PS5 Pro being capped at 30 FPS for GTA 6 and whether to buy now or wait for the PC version."
+  },
+  {
+   "id": "gta vi celebrity cameos janelle james bobby moynihan and more",
+   "title": "'GTA VI' Celebrity Cameos: Janelle James, Bobby Moynihan, and more!",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVpVSmJIUHA3QjUyWFlNb1JLYjZDeEkzWHJwdTl2MlFhbTZPZ1J2bWtwQ2ZPaFRoNElVVWJ5RE9iRjdadmd2M0xGVmpKWFdiZGZjSDlPTy1TRVhUdWYtWjVQSFllRDBrVk0zd0pMLTNPR3hhSk5XR292R18wVW1jellVeUVHVUVyT0w3aEFB?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-26T01:00:04+00:00",
+   "seen": "2026-11-26T01:31:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story mentions celebrity cameos in GTA VI including Janelle James and Bobby Moynihan."
   },
   {
    "id": "gta 6 s map has a useful feature i ve only just noticed",
@@ -2248,6 +2261,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story states GTA 6 owes everything to The Legend of Zelda: Ocarina of Time."
+  },
+  {
+   "id": "gta 6 owes it all to the legend of zelda ocarina of time",
+   "title": "GTA 6 Owes It All to The Legend of Zelda: Ocarina of Time",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkd6YVRBU0FXVHFOWmpDdGtCOXZPZkRtU2c5M0dwNzJNMGJDTE5kcl8wSDg4bF9VeE1MU3VRZnl4ZDFKNmdYUmU2WjlxN3NRUVg4X0JRYXNHM0tjNFZhSEJDWlZrTmp6azdxLXlLVWtPak5SUHd4dXRMTW9VT2dPQlVlZV9SV0FhRFE?oc=5",
+   "outlet": "se7en.ws",
+   "via": "Google News",
+   "published": "2026-11-25T17:00:20+00:00",
+   "seen": "2026-11-26T01:31:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 owes it all to The Legend of Zelda: Ocarina of Time."
   },
   {
    "id": "gta 6 devs reveal major gameplay features that didn t make the final cut",
