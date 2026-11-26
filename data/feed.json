@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T20:43:07+00:00",
- "started": "2026-11-26T20:43:04+00:00",
+ "updated": "2026-11-26T20:48:10+00:00",
+ "started": "2026-11-26T20:48:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T20:43:04+00:00"
+   "checked": "2026-11-26T20:48:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 28,
-   "checked": "2026-11-26T20:43:04+00:00"
+   "hits": 55,
+   "checked": "2026-11-26T20:48:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-26T20:43:05+00:00"
+   "hits": 53,
+   "checked": "2026-11-26T20:48:08+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T20:43:05+00:00"
+   "checked": "2026-11-26T20:48:08+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:43:05+00:00"
+   "checked": "2026-11-26T20:48:08+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T20:43:06+00:00"
+   "checked": "2026-11-26T20:48:08+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T20:43:06+00:00"
+   "checked": "2026-11-26T20:48:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T20:43:06+00:00"
+   "checked": "2026-11-26T20:48:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-26T20:43:06+00:00"
+   "hits": 5,
+   "checked": "2026-11-26T20:48:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:43:07+00:00"
+   "checked": "2026-11-26T20:48:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:43:07+00:00"
+   "checked": "2026-11-26T20:48:09+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T20:43:07+00:00"
+   "checked": "2026-11-26T20:48:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T20:43:07+00:00"
+   "checked": "2026-11-26T20:48:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T20:43:07+00:00"
+   "checked": "2026-11-26T20:48:10+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 reportedly steals the launch week streaming crown with 420 million hours watched",
+   "title": "GTA 6 reportedly steals the launch-week streaming crown with 420 million hours watched",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GN19YY1o1LXg3cmsweWNENHhQVldFUkdyVS01ZXdhM2Y0aDBLdlB6QnAzenBQYWIxX0h1YjdEUU1jd1pGaWdv?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-26T20:47:23+00:00",
+   "seen": "2026-11-26T20:48:07+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
+  {
+   "id": "gta 6 gives carly rae jepsen s run away with me a chart encore ign reports",
+   "title": "GTA 6 gives Carly Rae Jepsen’s ‘Run Away With Me’ a chart encore, IGN reports",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uZE5UaEF0aVZHaWE4U0xGZkRyZnFoS1A5Z3VFbE0wdTRvd0JpY2xPU2RtTG9KS3poekY1MFl1Rm9sdkJuTlFHMWtvVkoyZ0t6?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-26T20:47:09+00:00",
+   "seen": "2026-11-26T20:48:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "the yakuzafication of gta vi",
+   "title": "The Yakuzafication Of GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aNzdkSmlRaFhsOGtTNXpZU0VvRnZNcnlST1pMc0kxWkRxRGZNOFdSYTZROWtwMUcxcURoRE1TZG9nRTdhMTBYT1pJM3ctWHd6aEhkdVdQQkVGU3ZwTU5rNE5RRXU4aE43aDdUVVVyWUpYQQ?oc=5",
+   "outlet": "Aftermath",
+   "via": "Google News",
+   "published": "2026-11-26T20:44:09+00:00",
+   "seen": "2026-11-26T20:48:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 runs on pc at up to 44 fps",
    "title": "GTA 6 runs on PC at up to 44 FPS",
