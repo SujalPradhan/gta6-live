@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T12:00:04+00:00",
- "started": "2026-11-26T12:00:00+00:00",
+ "updated": "2026-11-26T12:05:03+00:00",
+ "started": "2026-11-26T12:05:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,150 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-26T12:00:00+00:00"
+   "hits": 99,
+   "checked": "2026-11-26T12:05:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-26T12:00:01+00:00"
+   "hits": 50,
+   "checked": "2026-11-26T12:05:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-26T12:00:01+00:00"
+   "hits": 41,
+   "checked": "2026-11-26T12:05:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-26T12:00:01+00:00"
+   "checked": "2026-11-26T12:05:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T12:00:02+00:00"
+   "checked": "2026-11-26T12:05:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T12:00:02+00:00"
+   "checked": "2026-11-26T12:05:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T12:00:02+00:00"
+   "checked": "2026-11-26T12:05:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T12:00:03+00:00"
+   "checked": "2026-11-26T12:05:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T12:00:03+00:00"
+   "checked": "2026-11-26T12:05:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T12:00:03+00:00"
+   "checked": "2026-11-26T12:05:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T12:00:04+00:00"
+   "checked": "2026-11-26T12:05:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T12:00:04+00:00"
+   "checked": "2026-11-26T12:05:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T12:00:04+00:00"
+   "checked": "2026-11-26T12:05:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T12:00:04+00:00"
+   "checked": "2026-11-26T12:05:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "pass the controller how single console households split gta vi",
+   "title": "Pass the Controller: How Single Console Households Split 'GTA VI'",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FaDNTeUZva0N0SjlzSHY3RFBLRVhNdzVkNVpkU3NLaEZoMWt6eWpfTDhLVWR0YWhTYWZScXlscHRNNmNEaDJWaWNCdW84MENqQVljR0lPU0NFeG5HTDRpTGhwelpvbmFnTERMZk1ETXNTY0xlZGEw?oc=5",
+   "outlet": "404 Media",
+   "via": "Google News",
+   "published": "2026-11-26T12:02:07+00:00",
+   "seen": "2026-11-26T12:05:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "nielseniq gta 6 lifts uk games retail revenue 99 to 142m during launch",
+   "title": "NielsenIQ: GTA 6 lifts UK games retail revenue 99% to £142m during launch",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeTZsMnA0Z2ExOG43R2NkRmhTbncwSEw5RGxTNFRsTkV0VlB2SXZxdldQajA2TTRRTFpNdHltNDlIZVE3LWY2c3JFRk1NeVRNVDJ3ZVhnejB3Sjd4Xy1zaVZ0dmhKcDRBUGhsZ3h3cDRSeENUY0FXRkRmVWRpaHQ0Qw?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-26T12:01:38+00:00",
+   "seen": "2026-11-26T12:05:01+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 how to find jet ski dog",
+   "title": "GTA 6: How to Find Jet Ski Dog",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96SC0wUjFvM3lkc1c2OG5xUXh1MDl2amtDcEJMc0djYTBONWt5VUxIQXVmYlM0T2JwRUk1V3JXMzR0VXZsQ0Y4VGRZSHc1aEZNb0F5cG94LURtbExGblZnRVExRWFQMS13T1Nj?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-26T12:00:26+00:00",
+   "seen": "2026-11-26T12:05:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to push your car in gta 6 explained",
+   "title": "How to push your car in GTA 6 explained",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYWGJFaFVLUVFncndiaUs1Qk9wVmwzMEJIWUdodGtWRDhNQXZ1YmV4ckhSVzROTFpzNVhhUTM1YXBoTm5Nd3RDWEs1ajcyWWZxNWNCZHBBQ2pXc19zRS1uRFMtNng4SHh6QkNXYm94LTUxaW5KS3JBQnUwbXU?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-26T12:00:00+00:00",
+   "seen": "2026-11-26T12:05:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 players urged to change one setting for a much better experience",
    "title": "GTA 6 Players Urged To Change One Setting For A Much Better Experience",
@@ -114,6 +162,18 @@
    "seen": "2026-11-26T12:00:00+00:00",
    "summary": "",
    "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "nielseniq gta 6 boosts uk games retail revenue by 99 to 142m during launch period",
+   "title": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDhHLWg2R1lPQUxhS0JoX1hGTlpySlRNZHc2RHZuRTltWFJZWUdUWERKTF96cFRLSG5NeGJzOVl0WGlDbUJjcUFQOWhIMFVveG1oajlXN2ZLY19kMXVBZk1xWlpOY29kTlF6NUdhQmMzc0J6dE1uSndHN3l6Z1Y5MTJIRUtiblJCS2YyZkctVkw3UW9ZdXphUlJld2NQMTVjbTJfLTkzRXc1LVA3UnFDdw?oc=5",
+   "outlet": "GamesIndustry.biz",
+   "via": "Google News",
+   "published": "2026-11-26T11:55:50+00:00",
+   "seen": "2026-11-26T12:05:01+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
