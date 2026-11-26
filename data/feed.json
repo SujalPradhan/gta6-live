@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T19:22:46+00:00",
- "started": "2026-11-26T19:22:43+00:00",
+ "updated": "2026-11-26T19:27:43+00:00",
+ "started": "2026-11-26T19:27:39+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-26T19:22:43+00:00"
+   "checked": "2026-11-26T19:27:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 27,
-   "checked": "2026-11-26T19:22:44+00:00"
+   "hits": 58,
+   "checked": "2026-11-26T19:27:40+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-26T19:22:44+00:00"
+   "hits": 48,
+   "checked": "2026-11-26T19:27:41+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T19:22:44+00:00"
+   "checked": "2026-11-26T19:27:41+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:22:44+00:00"
+   "checked": "2026-11-26T19:27:41+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T19:22:44+00:00"
+   "checked": "2026-11-26T19:27:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T19:22:45+00:00"
+   "checked": "2026-11-26T19:27:42+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 12,
-   "checked": "2026-11-26T19:22:45+00:00"
+   "hits": 14,
+   "checked": "2026-11-26T19:27:42+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T19:22:45+00:00"
+   "checked": "2026-11-26T19:27:42+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:22:45+00:00"
+   "checked": "2026-11-26T19:27:42+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:22:46+00:00"
+   "checked": "2026-11-26T19:27:42+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T19:22:46+00:00"
+   "checked": "2026-11-26T19:27:43+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T19:22:46+00:00"
+   "checked": "2026-11-26T19:27:43+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T19:22:46+00:00"
+   "checked": "2026-11-26T19:27:43+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 shatters streaming records with 420m hours watched as burntpeanut ishowspeed dominate",
+   "title": "GTA 6 shatters streaming records with 420M hours watched as BurntPeanut & IShowSpeed dominate",
+   "link": "https://www.dexerto.com/gta/gta-6-shatters-streaming-records-with-420m-hours-watched-as-burntpeanut-ishowspeed-dominate-3431545/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-26T19:26:25+00:00",
+   "seen": "2026-11-26T19:27:42+00:00",
+   "summary": "GTA 6 is the biggest game launch in livestreaming history, with 420M hours watched as TheBurntPeanut and IShowSpeed led the charge.",
+   "topic": "Streaming",
+   "record": true
+  },
+  {
+   "id": "for a game known for stealing cars gta 6 s transit system is actually useable and unbelievably on time",
+   "title": "For A Game Known For Stealing Cars, GTA 6's Transit System Is Actually Useable And Unbelievably On Time",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02M2lTQ2tudURUWUJzb1ZwVV8zcnNYM0hCa2pjSThxODRURURJR1duWTZ6NzZKNXNucUZib3paS282bTFyTEFuWXRCSGdjNFVwOHV6R0NwSVpYRE5MSlh6a1d4aklRbUp3SEM1OV9R?oc=5",
+   "outlet": "Jalopnik",
+   "via": "Google News",
+   "published": "2026-11-26T19:25:00+00:00",
+   "seen": "2026-11-26T19:27:40+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "rockstar union vote fails but iwgb says it isn t a sign to retreat",
    "title": "Rockstar union vote fails, but IWGB says it ‘isn’t a sign to retreat’",
@@ -354,6 +378,18 @@
    "seen": "2026-11-26T19:22:43+00:00",
    "summary": "",
    "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 criminal profiles explained full list and how the system works",
+   "title": "GTA 6 criminal profiles explained: Full list and how the system works",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUmtHZGhnR0thRzZ4Vk1GaURaTlZDYmtTNkFyUHU2R01waVFOVTVFRTBKRDZnZ3A5ZWZEZkRBLWNxdUMwSEdQSl82RmY2TmpXeGRGZnVyMVJEOU05c3BrcnBHbUptTjNZdmdHWGxkc3Juc3J2eUd4aTg5Q2FqbGlFMWFuTV9fUQ?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-26T18:03:28+00:00",
+   "seen": "2026-11-26T19:27:40+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -981,6 +1017,18 @@
    "record": true
   },
   {
+   "id": "gta 6 has a massive impact on spotify with one song seeing a 940 increase in streams",
+   "title": "GTA 6 has a massive impact on Spotify, with one song seeing a 940% increase in streams",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQnFOcWprR0Raa1dZWHhBaWlvWFRNTEkzX1dwUmxjSEF3MjJHM2pOX1BFZmxTMlZEaVNFYmhIZWpvQ25Lb0JTRk55a2FkMm1nX0hXRDQzUFI2QWdZd0hZWUZRSnA4aUVfN2RQLWNDOEtCMTFNaUJZSXVETDFQREFXbmpLd1U4cU5qdXR5TUpNZS1Bbmc4WnljWno1M2lTaFpVQ1htb1IzcnlQdXNqNmZKR0lWd3F5NU9CRXFOMjVHdFhnN3Z5VDNnS25PMEZ0aFNETlRXX2dfN0U2OUZuWHfSAd4BQVVfeXFMTUJxTnFqa0dEWmtXWVh4QWlpb1hUTUxJM19XcFJsY0hBdzIyRzNqTl9QRWZsUzJWRGlTRWJoSGVqb0NuS29CU0ZOeWthZDJtZ19IV0Q0M1BSNkFnWXdIWVlGUUpwOGlFXzdkUC1jQzhLQjExTWlCWUl1REwxUERBV25qS3dVOHFOanV0eU1KTWUtQW5nOFp5Y1p6NTNpU2haVUNYbW9SM3J5UHVzajZmSkdJVndxeTVPQkVxTjI1R3RYZzd2eVQzZ0tuTzBGdGhTRE5UV19nXzdFNjlGblh3?oc=5",
+   "outlet": "Diario AS",
+   "via": "Google News",
+   "published": "2026-11-26T16:18:19+00:00",
+   "seen": "2026-11-26T19:27:40+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
+  {
    "id": "keith gill s social media return meets grand theft auto vi launch as take two interactive nasdaq ttwo surges and gamestop nyse gme slides",
    "title": "Keith Gill's Social Media Return Meets \"Grand Theft Auto VI\" Launch As Take-Two Interactive (NASDAQ: TTWO) Surges And GameStop (NYSE: GME) Slides",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMjNpU3YwLXpLMVVZeEdXZ1A4cWR3OXVEOUdmTUdhRl9oY0VENWpHWVljcmtUS05KNUFuUHM1TjVWZHpfaEFfUXBXcTI5VmFzLW5LeDFXdE5zNndDUExscDhWeXpaZkgzbmtGM1JfQzJMWUVoSlJtQjhNOXRRNGRLTEVTVV92YlBNbkR3djVkRkUxV2tXNUFEaXhXbk1BanEzV1c4anZ4VUd4UldXNHZwcnRTY0VsY3d1SUt2YzV5QkdWcHZTWmwzcjdycjR4SlV4NzZBLW11dW5LTXp1cFp4eW9NWTBBZHFkSE1FdW9LQWdrZm1WY1MxV2QyR05GSUZvRUtvZEhSeEk4U09JbjdadXVpdw?oc=5",
@@ -1315,6 +1363,18 @@
    "summary": "",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "grand theft auto 6 review is this the best game ever",
+   "title": "Grand Theft Auto 6 review: Is this the best game ever?",
+   "link": "https://www.dexerto.com/gta/grand-theft-auto-6-review-3429400/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-26T15:39:32+00:00",
+   "seen": "2026-11-26T19:27:42+00:00",
+   "summary": "Grand Theft Auto 6 is the greatest open-world simulation ever created. It is a breathtaking recreation of modern America, with extraordinary attention to detail and unrivalled freedom, where Rockstar Games more than delivers on the hype.",
+   "topic": "Reviews",
+   "record": true
   },
   {
    "id": "gta 6 s lucia is making boyfriends and husbands step up meet the actor behind the viral sensation",
