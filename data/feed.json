@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T09:39:12+00:00",
- "started": "2026-11-26T09:39:08+00:00",
+ "updated": "2026-11-26T09:44:11+00:00",
+ "started": "2026-11-26T09:44:07+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T09:39:09+00:00"
+   "checked": "2026-11-26T09:44:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 27,
-   "checked": "2026-11-26T09:39:09+00:00"
+   "checked": "2026-11-26T09:44:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-26T09:39:10+00:00"
+   "hits": 60,
+   "checked": "2026-11-26T09:44:08+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T09:39:10+00:00"
+   "checked": "2026-11-26T09:44:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T09:39:10+00:00"
+   "checked": "2026-11-26T09:44:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T09:39:10+00:00"
+   "checked": "2026-11-26T09:44:09+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T09:39:11+00:00"
+   "checked": "2026-11-26T09:44:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T09:39:11+00:00"
+   "checked": "2026-11-26T09:44:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T09:39:11+00:00"
+   "checked": "2026-11-26T09:44:10+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T09:39:11+00:00"
+   "checked": "2026-11-26T09:44:10+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T09:39:12+00:00"
+   "checked": "2026-11-26T09:44:11+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T09:39:12+00:00"
+   "checked": "2026-11-26T09:44:11+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T09:39:12+00:00"
+   "checked": "2026-11-26T09:44:11+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T09:39:12+00:00"
+   "checked": "2026-11-26T09:44:11+00:00"
   }
  },
  "items": [
+  {
+   "id": "industry news gta vi sends uk games retail sales soaring 99 to 142m in launch week",
+   "title": "[Industry news] GTA VI sends UK games retail sales soaring 99% to £142m in launch week",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnF5NVIxaC1ma2pidUlxbHFLdUV4d2c1S1kzRlJHSkxoVnRjYl9Rb21UR3ZEMlc1aUtkTVdfbkFQcTdaaVJfUkZndWZ4OFZwNGd2YktwcnpyaEJHbzhlN2dkRl9aM2ZjS0cyVlFQTkFrNlNiSTNBNThMbThhcDVubksxc2RKeVphSjFORnNlRldVZkViNmQ2RFdTSXF2aDI3UWhQLURZX0lMdWd2RTFFem1TNjJ5QQ?oc=5",
+   "outlet": "mcv/develop",
+   "via": "Google News",
+   "published": "2026-11-26T09:41:03+00:00",
+   "seen": "2026-11-26T09:44:08+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 reinvigorates playstation 5 and xbox series s x console sales in the us even at their inflated prices",
+   "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1liRklyRWkxU3BBQ2xyM1NJczd5T1pyZ0lXSmFfRGV4ejdjU3kyNmp1em9XV0Nxd0JOU2VVUkc1RFRFekJHMzQwbnd1bElaZkpjaXdJMVAtWE1mYlhjQldKSU85Nm93TGpNcGVpRkFjWi15T3dDYko0dFowdU82LTFmSzRDLWtIVDFxcQ?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-26T09:40:10+00:00",
+   "seen": "2026-11-26T09:44:08+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
   {
    "id": "gta 6 apparently features a reference to the infamous luka doncic trade from mavericks to lakers",
    "title": "GTA 6 apparently features a reference to the infamous Luka Doncic trade from Mavericks to Lakers",
