@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T17:06:52+00:00",
- "started": "2026-11-26T17:06:48+00:00",
+ "updated": "2026-11-26T17:11:52+00:00",
+ "started": "2026-11-26T17:11:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T17:06:48+00:00"
+   "checked": "2026-11-26T17:11:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 27,
-   "checked": "2026-11-26T17:06:49+00:00"
+   "hits": 28,
+   "checked": "2026-11-26T17:11:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-26T17:06:49+00:00"
+   "hits": 54,
+   "checked": "2026-11-26T17:11:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T17:06:49+00:00"
+   "checked": "2026-11-26T17:11:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T17:06:50+00:00"
+   "checked": "2026-11-26T17:11:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T17:06:50+00:00"
+   "checked": "2026-11-26T17:11:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T17:06:50+00:00"
+   "checked": "2026-11-26T17:11:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T17:06:51+00:00"
+   "checked": "2026-11-26T17:11:51+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T17:06:51+00:00"
+   "checked": "2026-11-26T17:11:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T17:06:51+00:00"
+   "checked": "2026-11-26T17:11:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T17:06:52+00:00"
+   "checked": "2026-11-26T17:11:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T17:06:52+00:00"
+   "checked": "2026-11-26T17:11:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T17:06:52+00:00"
+   "checked": "2026-11-26T17:11:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T17:06:52+00:00"
+   "checked": "2026-11-26T17:11:52+00:00"
   }
  },
  "items": [
+  {
+   "id": "where s the ding",
+   "title": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
+   "link": "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-26T17:07:50+00:00",
+   "seen": "2026-11-26T17:11:51+00:00",
+   "summary": "Among the many, many side activities you can do in GTA 6 , there's powerwashing. Relatively early on, as part of Chapter 1's Down to Earth mission , Jason whips out his nozzle and blasts Brian's boat to a gleaming sheen. Disappointingly for powerwashing fans, though, it's a bit of a one-and-done gag, never to return. But powerwashing is powerwashing, and we immediately wondered what the experts ma",
+   "topic": "Outage",
+   "record": false
+  },
+  {
+   "id": "gta 6 s billy motorcycle crew side quests explained",
+   "title": "GTA 6's Billy Motorcycle Crew Side Quests Explained",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXNTV1FpQjBFdUlHcURPeEx2dzNORWtXWVgtTFFTMm51czZaY1RETXpJdEdFaVpieWZwVGxjXzVzUmtRMXlWdzQyaVNWTWVTdHMtcFR1QlcydWFhb0pTTkJIc3UwelZYeFBoeWJ1OXBWcHhJdXpfNFZ4X3loaWdObEdCY1M?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-26T17:00:00+00:00",
+   "seen": "2026-11-26T17:11:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "grand theft auto vi the album targets no 1 with 150k first week units",
    "title": "‘Grand Theft Auto VI: The Album’ Targets No. 1 With 150K First-Week Units",
@@ -365,6 +389,18 @@
    "published": "2026-11-26T16:11:15+00:00",
    "seen": "2026-11-26T16:16:35+00:00",
    "summary": "A new update has revealed that 75% of the workers at Rockstar Games UK have voted against unionization. Here are more details. The post Majority of Rockstar Workers Vote Against Unionization appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "rockstar explains why some extra violent weapons like chainsaws and katanas are missing from gta 6",
+   "title": "Rockstar Explains Why Some Extra Violent Weapons Like Chainsaws and Katanas Are Missing From GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdVQ3X2VZMEJEcnRmZ1VkT19mQ1hxWXg0Zm1Cc3BjQlYzcnR5RjY2SlNLYWtYdG5UVzBXaUxZLWI5eUZWVTd3LWZYdVlyel9xMHp4c2pKUHE2b1R3a2kzQkRBdmRfNUJ0SzBjQ0p0ZGRUeVdYU09sM0Q0MGZjb1NsTFcyVDczMW40VUgxTDhDcUFaVGR4SGJtSlRkRFpHUDAtYjhtNEtmWERLQjJ2dFJsTWctdzVXSEE5Wmp5bzh2M0tXWm91cXlvdGNGcjFiUmgya2pHSGY3MVRvQQ?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-26T16:09:40+00:00",
+   "seen": "2026-11-26T17:11:50+00:00",
+   "summary": "",
    "topic": "News",
    "record": false
   },
@@ -1041,6 +1077,18 @@
    "record": false
   },
   {
+   "id": "i spent 20 hours playing gta 6 like stardew valley and accidentally turned jason into leonida s worst animal rights activist",
+   "title": "I spent 20 hours playing GTA 6 like Stardew Valley and accidentally turned Jason into Leonida's worst animal rights activist",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOY3R6WVJhYW5qakRNRnk5N2VpVmN2a2lfSVVTQUlFREl5djQ2eXFNYjdBbC1nRE9oSG9fNmFIRGFMS2xmS3Z1b0c1bXN6UElubVJmOEtzbDVLWWxaaFNSbVQ4UThiWS1paUlkMGFWUWUtWDRVT3djd1YwYmkwVE1wR0hHSDJMZ1ZiNjgzeHVOaHA3MXRSQl91OENFR1JPLUpqZTFCSmQ2S0pYNXRJMEc2R3J5Nm42YzNNa01ycnlOWWoxcVVwYThzSkl5bmNTMXUxQ0JTSS00RWFRMzliUFBYNnE1WURJSTN3blMzQ3djMXFXUFBCYXYtbnBUa3Fzdk5YVnpjbw?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-26T15:00:00+00:00",
+   "seen": "2026-11-26T17:11:50+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false
+  },
+  {
    "id": "gta 6 the 26 best easter eggs and secrets found so far in leonida",
    "title": "GTA 6: The 26 best Easter eggs and secrets found so far in Leonida",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tWmhjS1ptZFhBRWpfZHdSay1nQWppQUVXMmxIM2JtYXlweDVwNGpIY0JPUmhSbGR6T1Vqd3VwUXBFMXZ2eVA4UGJVRnhveWstSlA1dzdlOFplTkFvNnFoSG9VeFF2XzA?oc=5",
@@ -1425,6 +1473,18 @@
    "record": false
   },
   {
+   "id": "how to repair your vehicle in gta 6",
+   "title": "How to repair your vehicle in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1veWlPZF9pNHhMM0hRUXc4UnBrS2thc2RtWG1JcFhhM0VwbDNDd1R6bjdZeDR6a3B4cVRBNlFrWFNsMHk1SFBoMlpNelgxdDhlbzZreGFfeWs2aDlsTUtpenFtM29BZVFxZ2NDUEhJUDdCRXdRYUE?oc=5",
+   "outlet": "ClutchPoints",
+   "via": "Google News",
+   "published": "2026-11-26T14:19:08+00:00",
+   "seen": "2026-11-26T17:11:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "10 legendary racing anime to watch after playing gta 6",
    "title": "10 Legendary Racing Anime to Watch After Playing GTA 6",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xTGU2SkM2ZFlrcmktY2hlNzJWdXowbFlyc0Jqa2toUlN3M0V5bzZiaWdVNXdGanVWRW94T1Z5UnlUU2dYYkFaSlNaSlJXeG8wNUVkSDRSamNtdHpTWEhwazZPalJfd0NZMjM2SjZ3NkRYQQ?oc=5",
@@ -1533,6 +1593,18 @@
    "record": false
   },
   {
+   "id": "popular gta 6 pc project is not dead 15 year old lead clarifies days after quitting over rockstar s apparent discord takedown and angry midd",
+   "title": "Popular GTA 6 PC project \"is not dead,\" 15-year-old lead clarifies, days after quitting over Rockstar's apparent Discord takedown and angry \"middle-aged men\"",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQMTJ6aGp1emVZYXU1LVRXWWs5eXpkdDE5LXR5TFRoLWI3Y282Z3BWVjlUZEQ0OExxY2s1OVNSTk1rdlhnS1l1cnpNY2RTeVdGTTJlYVZrdVFOTVBBaVFyVGRib2YwUGZ0bEV0UVM3YUZJaVBKeWY2dlM1aG1kUjhSM1hMLXhlY3hMM0NkZlVwYkpUT1FjOEpjX2dzT1lXQlRURFZTTUMxZUltSXVVVHdDakZYQ3MxV1RXQ3Nzc0NvQUZ2bDJ6Z2Z6SFA3a0dCOWZxV1IxOV9SRzJNcGEwVENlR05IYnV2TG15M0xreWJCUEZlUGY5OE02UDAtWG85aENLd2pyWlZsd0RyVTItNkFPbnJVX1Z1MC0xWlI0SFBldDZhWVlJWk85Ng?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-26T14:08:16+00:00",
+   "seen": "2026-11-26T17:11:50+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false
+  },
+  {
    "id": "this gta 6 player is turning vice city into a fashion lookbook",
    "title": "This GTA 6 player is turning Vice City into a fashion lookbook",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXBuUHNydXd6dkZxWnQySDV1d1VGYkluZXItRlpsaEkyelhNVGdOdU8wSGNIb2RmSWRGQ3c4RGRWS2oyNzlzdUZ1WTdqMXYtMTF1MUEyVnVodXJLYWFHZTNVejE2QW5RbzhYV1hfcjN2Z1lmNGxack1DQmkwdElOMHFWNllGRXlMcVI0WUV4Z3prVXd4?oc=5",
@@ -1626,6 +1698,18 @@
    "seen": "2026-11-26T13:55:42+00:00",
    "summary": "",
    "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "bettors wager on gta 6 pc date as hackers hit 25 fps port",
+   "title": "Bettors Wager on GTA 6 PC Date as Hackers Hit 25 FPS Port",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWlpNWkltLXhzVjlOVTBHR19rT0xHWjVmdlg3STJoQkFtbFZQZE45c1pUSEFEZF9zeU9VTUpiWUNIdk1QNHhRM0hhQ1NkVG53aVYtWWF1d2NmVmJtYURRNVNpT2FXOUN1emJtUDEydkRsRUJ5eDljX2NVMUpuc053UVlWTElKVjU1Z25VSGFrbklwaHVTNW15QkdMSQ?oc=5",
+   "outlet": "Bitcoin News",
+   "via": "Google News",
+   "published": "2026-11-26T13:49:17+00:00",
+   "seen": "2026-11-26T17:11:50+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
