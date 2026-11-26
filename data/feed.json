@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T21:33:24+00:00",
- "started": "2026-11-26T21:33:20+00:00",
+ "updated": "2026-11-26T21:38:27+00:00",
+ "started": "2026-11-26T21:38:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,138 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-26T21:33:20+00:00"
+   "hits": 99,
+   "checked": "2026-11-26T21:38:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-26T21:33:21+00:00"
+   "hits": 27,
+   "checked": "2026-11-26T21:38:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-26T21:33:21+00:00"
+   "hits": 50,
+   "checked": "2026-11-26T21:38:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T21:33:21+00:00"
+   "checked": "2026-11-26T21:38:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T21:33:22+00:00"
+   "checked": "2026-11-26T21:38:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T21:33:22+00:00"
+   "checked": "2026-11-26T21:38:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T21:33:22+00:00"
+   "checked": "2026-11-26T21:38:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-26T21:33:22+00:00"
+   "checked": "2026-11-26T21:38:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T21:33:22+00:00"
+   "checked": "2026-11-26T21:38:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T21:33:23+00:00"
+   "checked": "2026-11-26T21:38:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T21:33:23+00:00"
+   "checked": "2026-11-26T21:38:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T21:33:23+00:00"
+   "checked": "2026-11-26T21:38:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T21:33:23+00:00"
+   "checked": "2026-11-26T21:38:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T21:33:24+00:00"
+   "checked": "2026-11-26T21:38:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "after removing gta 6 pc ports github celebrates app popular in ps5 piracy groups",
+   "title": "After removing GTA 6 PC ports, GitHub celebrates app popular in PS5 piracy groups",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdTRLQ2Fka0NqbWFUTTVsOFdXUDYzaFJuZDBQWEZGQWgwWGdlYnc1UHNueFBGMnBnS21FSWZtLUJ1UTdYdGZ6Zm1nNEFZX24waGwwT1F2WjRvWFBJWEF0N0tFWFpta291cFhFSlg4NDRQRlgzWDZ2QXI1Y1MxV0VmeklTVG9HWUs2UEVteXRVTTgxQ191cU5na2dnX290MmxORWhhTGxGdU1tcDllTVVBVFN5M3BWbTlLUVA4ZkhOejBLQjA?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-26T21:32:00+00:00",
+   "seen": "2026-11-26T21:38:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "carly rae jepsen reacts to her song s mind blowing boost from gta vi",
+   "title": "Carly Rae Jepsen reacts to her song's 'mind-blowing' boost from GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHA5ZU5rdXhOTThaa2F1cjh6VG9sT01uSG92WjFrTkllMUlfeHd2OFp0QXZLNGo2QmNGNkxSTmVzcEwwbVptd2RGYlhjb00yTlVkM3FWMk9tdnFYNk9Ha3FZQU9SYUladWN3YzhtYzJYbUlCVE1rTnZKc1N3cDA5RFU2UXo0c3h3Wndz?oc=5",
+   "outlet": "CBC",
+   "via": "Google News",
+   "published": "2026-11-26T21:30:56+00:00",
+   "seen": "2026-11-26T21:38:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 smashes livestreaming record with 420 million hours watched",
+   "title": "GTA 6 smashes livestreaming record with 420 million hours watched",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTFAyTHkwZlEteUdQYzlVd2RFVThUTC1zbWdmNVo4Z0FaZmVObENSbWxmNmlDaEZ2YUJ3emlOVW9LdHYteFRqMFBCbndjWWZBX0pDZDhvZlJjWURHQVdVdUZMbm9NdUdZd0F2TFVZQ1NRaUo2VHdUMnQ4VFRvbzEtdTFCYmZqVENIRFVUaE5iOEVabTBydkhPYjcweV9HQkw1Vy1DX9IBrAFBVV95cUxQWmxkTV81QkhvVWVzM2dKazlFS0tsbENtRUlwd1ltOXBLZkM2d0FMbzNiZnctRWF2RlFDcElUbmtINS1XY0FnV0Y4ZkRLRlg2MWxsRS1vSEhHcVV6WWg1LUtwZFdibEN6SFJtX0V0V2xGLUU5MFppbU9qeHNvWEhlWFM4QXN6Z0pTclpMMmR2VTV3ZV82MWlQWVdTa1RyREFpM0xrU2tzSndiTG9G?oc=5",
+   "outlet": "The Express Tribune",
+   "via": "Google News",
+   "published": "2026-11-26T21:29:02+00:00",
+   "seen": "2026-11-26T21:38:26+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true
+  },
   {
    "id": "gta 6 tops major game watch time record",
    "title": "GTA 6 Tops Major Game Watch Time Record",
@@ -378,6 +414,18 @@
    "seen": "2026-11-26T20:07:54+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi isn t just a crime story it s a killer love story too",
+   "title": "Grand Theft Auto VI Isn’t Just A Crime Story, It’s A Killer Love Story Too",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LZTBYSFlOYXZhd0lJMlFVYXBBYlZTVDRMOWxUOFd4NDJDa1phY0JSQ0M4NzA2LXlMNHNqcjU0UHVNWDRZZDVLaWp5OVpfYTBtNWJRamFOdVJZUFV0a0VVYQ?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-26T20:00:15+00:00",
+   "seen": "2026-11-26T21:38:25+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -2488,6 +2536,18 @@
    "via": "Google News",
    "published": "2026-11-26T14:40:52+00:00",
    "seen": "2026-11-26T14:46:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "from rolex to travis scott gta vi storms chinese social media",
+   "title": "From Rolex to Travis Scott: ‘GTA VI’ storms Chinese social media",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0xBWF8yM0x4eW5mdFdsLTFiM1FTNkdUcFNOTmg5Nl82eUtodllaQjFhcEhkbmxjdmttcDdsa25aOEdJVnFBNUlJMU5xVXNiMnhFbTZRVi1aTmkzdFZDTWU5NHN3VEI5bC0wbVdqVHlheUtaVm14TUp4bkNNb0ZRdlRVMS1mTEt6QTBpaXR4Wk94aWc?oc=5",
+   "outlet": "Jing Daily",
+   "via": "Google News",
+   "published": "2026-11-26T14:40:10+00:00",
+   "seen": "2026-11-26T21:38:25+00:00",
    "summary": "",
    "topic": "News",
    "record": false
