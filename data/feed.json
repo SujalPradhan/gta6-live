@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T14:10:54+00:00",
- "started": "2026-11-26T14:10:48+00:00",
+ "updated": "2026-11-26T14:15:52+00:00",
+ "started": "2026-11-26T14:15:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T14:10:49+00:00"
+   "checked": "2026-11-26T14:15:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-26T14:10:49+00:00"
+   "hits": 50,
+   "checked": "2026-11-26T14:15:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-26T14:10:50+00:00"
+   "hits": 48,
+   "checked": "2026-11-26T14:15:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-26T14:10:50+00:00"
+   "checked": "2026-11-26T14:15:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T14:10:50+00:00"
+   "checked": "2026-11-26T14:15:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-26T14:10:52+00:00"
+   "checked": "2026-11-26T14:15:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 16,
-   "checked": "2026-11-26T14:10:52+00:00"
+   "hits": 17,
+   "checked": "2026-11-26T14:15:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T14:10:52+00:00"
+   "checked": "2026-11-26T14:15:51+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T14:10:53+00:00"
+   "checked": "2026-11-26T14:15:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T14:10:53+00:00"
+   "checked": "2026-11-26T14:15:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T14:10:54+00:00"
+   "checked": "2026-11-26T14:15:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T14:10:54+00:00"
+   "checked": "2026-11-26T14:15:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T14:10:54+00:00"
+   "checked": "2026-11-26T14:15:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T14:10:54+00:00"
+   "checked": "2026-11-26T14:15:52+00:00"
   }
  },
  "items": [
@@ -114,6 +114,30 @@
    "seen": "2026-11-26T14:10:52+00:00",
    "summary": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats. Read more",
    "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "gta 6 pc project not dead lead clarifies after quitting over rockstar s apparent discord takedown",
+   "title": "GTA 6 PC project \"not dead,\" lead clarifies after quitting over Rockstar's apparent Discord takedown",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-26T14:08:16+00:00",
+   "seen": "2026-11-26T14:15:51+00:00",
+   "summary": "\"I'll have some stuff to show all of you soon\"",
+   "topic": "Outage",
+   "record": false
+  },
+  {
+   "id": "this gta 6 player is turning vice city into a fashion lookbook",
+   "title": "This GTA 6 player is turning Vice City into a fashion lookbook",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXBuUHNydXd6dkZxWnQySDV1d1VGYkluZXItRlpsaEkyelhNVGdOdU8wSGNIb2RmSWRGQ3c4RGRWS2oyNzlzdUZ1WTdqMXYtMTF1MUEyVnVodXJLYWFHZTNVejE2QW5RbzhYV1hfcjN2Z1lmNGxack1DQmkwdElOMHFWNllGRXlMcVI0WUV4Z3prVXd4?oc=5",
+   "outlet": "Culted",
+   "via": "Google News",
+   "published": "2026-11-26T14:06:46+00:00",
+   "seen": "2026-11-26T14:15:49+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -172,6 +196,18 @@
    "via": "Google News",
    "published": "2026-11-26T14:00:00+00:00",
    "seen": "2026-11-26T14:05:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi takes capitalism seriously",
+   "title": "GTA VI Takes Capitalism Seriously",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSnY1UjdYMEdnSWVqSTZ2N2YxTUtoWjV0Z0tfVGhzZ0FqakFQQVYwbW5MMEVlckd0WThhSDZ6YkRZSU5LUHVla2tjcGNQdno0Qk5tM3JvMlBYZUx6OGNHMlJ2d1ZrZHJGcTlJbjNwVjVTYXM?oc=5",
+   "outlet": "Jacobin",
+   "via": "Google News",
+   "published": "2026-11-26T14:00:00+00:00",
+   "seen": "2026-11-26T14:15:49+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -271,6 +307,18 @@
    "summary": "",
    "topic": "Sales",
    "record": true
+  },
+  {
+   "id": "gta 6 pc porting efforts persist despite take two s dmca notice",
+   "title": "GTA 6 PC Porting Efforts Persist Despite Take-Two’s DMCA Notice",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVNxV3FTM0liOVQ5dzdkX09oZ2tlb3VMLTVXZTluU3R4N1EycllnS3pkWV9BNjFhODkxckFxUWpiVUNwSFJsQXNwWm43T1A1bkdpQkNPZzFfRGxlY0F5OXpmdVo3ZVM0TWRnbTBIeDJQMlpnZkphcno4NklMNFBpNFZiSW56SnpHbnBsZWQwRDM5Zw?oc=5",
+   "outlet": "Udaipur Kiran",
+   "via": "Google News",
+   "published": "2026-11-26T13:33:15+00:00",
+   "seen": "2026-11-26T14:15:50+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
   },
   {
    "id": "gta 6 s criminal profiles are meant to encourage choices beyond just violence",
