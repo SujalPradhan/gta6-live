@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T01:31:34+00:00",
- "started": "2026-11-26T01:31:26+00:00",
+ "updated": "2026-11-26T01:36:36+00:00",
+ "started": "2026-11-26T01:36:29+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-26T01:31:27+00:00"
+   "hits": 95,
+   "checked": "2026-11-26T01:36:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-26T01:31:28+00:00"
+   "hits": 56,
+   "checked": "2026-11-26T01:36:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 68,
-   "checked": "2026-11-26T01:31:28+00:00"
+   "hits": 61,
+   "checked": "2026-11-26T01:36:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T01:31:28+00:00"
+   "checked": "2026-11-26T01:36:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T01:31:29+00:00"
+   "checked": "2026-11-26T01:36:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T01:31:29+00:00"
+   "checked": "2026-11-26T01:36:31+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T01:31:29+00:00"
+   "checked": "2026-11-26T01:36:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T01:31:30+00:00"
+   "checked": "2026-11-26T01:36:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T01:31:30+00:00"
+   "checked": "2026-11-26T01:36:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T01:31:30+00:00"
+   "checked": "2026-11-26T01:36:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T01:31:31+00:00"
+   "checked": "2026-11-26T01:36:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T01:31:31+00:00"
+   "checked": "2026-11-26T01:36:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T01:31:31+00:00"
+   "checked": "2026-11-26T01:36:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T01:31:31+00:00"
+   "checked": "2026-11-26T01:36:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "neuralink trial participant plays gta 6 through his brain implant",
+   "title": "Neuralink Trial Participant Plays GTA 6 Through His Brain Implant",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbXA0QnlZMzItcV9nX1g2YlNjV1FZR09kc1dPRy1kcDZ2emdRY1dPd2pDUklKU0lPQjhrdmhHY1VXWVR0dGYtS2YzVGtaQlVPRTh4Q0h5My1MYjZPeDdvSE94NW9KdjBuTFpibjFjaFdwczVDVVM5UlBpd1ROQkVMVDlaYzFFWEdtLVBrQUFha3lLVnlYZ3FrS1J1T0s1a3p5alHSAacBQVVfeXFMT0d0amwwWHRKVjlFZXlXdG81d0lLMnY0ZlFrMEctdENFM1NEd0lia1R4S3haTnhXOFJxQ0hzbkc0X1FJN3ZnN3hUa0JmNVJuTTNJM0pkZ1dzWnZ4ckg5Mml1dVdRWTQxRWpsUkdHd1hZMXUta1luX3dIa0c0NFFseWtHbTNYVGVXNWdoY3ZGbHVVbzZlR05Ob2FWdGZ2ajdrMUMwaEV2Skk?oc=5",
+   "outlet": "TechPowerUp",
+   "via": "Google News",
+   "published": "2026-11-26T01:22:01+00:00",
+   "seen": "2026-11-26T01:36:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 story reports that a participant with a brain implant plays GTA 6."
+  },
   {
    "id": "ps5 pro capped at 30 fps for gta 6 should you buy a console now or wait for the pc version authoritative gaming guide",
    "title": "PS5 Pro Capped at 30 FPS for GTA 6: Should You Buy a Console Now or Wait for the PC Version? | Authoritative Gaming Guide",
@@ -2534,6 +2547,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The piece discusses empathy as a key mechanic in GTA 6, with a developer stating it's fun."
+  },
+  {
+   "id": "take two is cracking down on unofficial gta 6 pc ports",
+   "title": "Take-Two Is Cracking Down on Unofficial GTA 6 PC Ports",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3VNU2hhaUE4RG80QlN4S2loQ3JCVE01UGVTU2tOQ1J5OUFWRWxnWk5sSTFQdU5RRWwyRHV5U3pRR2NqMG5qbHRMak5iTnpkT044OVNCNEh1U3ZabXpwdFJZOWZ0aVBjZFpLdVBzR0oyaXhpTFdCM1F3TjhqaHpFRng2UnZ5cEpTRHhIZzdaQ0dONnU3Q2J6WmZ2OA?oc=5",
+   "outlet": "KeenGamer",
+   "via": "Google News",
+   "published": "2026-11-25T16:41:00+00:00",
+   "seen": "2026-11-26T01:36:30+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false,
+   "ai_summary": "A GTA 6 story reports that Take-Two is cracking down on unofficial GTA 6 PC ports."
   },
   {
    "id": "gta 6 s collectible trading cards are getting a real life release this december",
@@ -5654,6 +5680,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA VI runs better on Xbox Series X than on PS5."
+  },
+  {
+   "id": "gta 6 sells 5 trillion won on day one how is the line drawn for adult games",
+   "title": "GTA 6 Sells 5 Trillion Won on Day One... How Is the Line Drawn for Adult Games?",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OclpKblFQb1ZnRDFUZjJmYnpZTkxlTVExOEEzM3NiVzQxNkRBTDNlREJ4NF82QUZvV0V0LXdiU1hmNUZPc2pXZEhveVhESWVfNGxUSmtad0FLVHQxWmt0UjFhd3lsaVhpb250b2VR0gFmQVVfeXFMTl9NUWlyWnFBd3EycTViY2RVYjFobXVuU3VRbG9mZmVyeHBjZGd0endELS1INkhZQ1Z4cFAzWlVWUHZ2MkhpNTdMb2RYNDVNbHY2eWt4X0lxMkFkZTZsTUpsUElObGp3?oc=5",
+   "outlet": "SBS 뉴스",
+   "via": "Google News",
+   "published": "2026-11-25T10:53:45+00:00",
+   "seen": "2026-11-26T01:36:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 story questions how adult game content is defined after reported vast sales on day one."
   },
   {
    "id": "gta 6 company property walkthrough how to save the weapons cargo",
