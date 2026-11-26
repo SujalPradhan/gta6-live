@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T16:31:38+00:00",
- "started": "2026-11-26T16:31:35+00:00",
+ "updated": "2026-11-26T16:36:52+00:00",
+ "started": "2026-11-26T16:36:48+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,161 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T16:31:36+00:00"
+   "checked": "2026-11-26T16:36:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 28,
-   "checked": "2026-11-26T16:31:36+00:00"
+   "hits": 27,
+   "checked": "2026-11-26T16:36:49+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-26T16:31:37+00:00"
+   "checked": "2026-11-26T16:36:49+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T16:31:37+00:00"
+   "checked": "2026-11-26T16:36:50+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-26T16:31:37+00:00"
+   "hits": 8,
+   "checked": "2026-11-26T16:36:50+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T16:31:37+00:00"
+   "checked": "2026-11-26T16:36:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T16:31:37+00:00"
+   "checked": "2026-11-26T16:36:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T16:31:37+00:00"
+   "checked": "2026-11-26T16:36:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T16:31:37+00:00"
+   "checked": "2026-11-26T16:36:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:31:38+00:00"
+   "checked": "2026-11-26T16:36:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:31:38+00:00"
+   "checked": "2026-11-26T16:36:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T16:31:38+00:00"
+   "checked": "2026-11-26T16:36:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T16:31:38+00:00"
+   "checked": "2026-11-26T16:36:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T16:31:38+00:00"
+   "checked": "2026-11-26T16:36:52+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 on xbox one is a remarkable feat according to analysis",
+   "title": "GTA 6 on Xbox One is a ‘remarkable feat’, according to analysis",
+   "link": "https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-26T16:34:00+00:00",
+   "seen": "2026-11-26T16:36:50+00:00",
+   "summary": "Analysis of GTA 6 on Xbox One shows that it can handle streaming the Series S port",
+   "topic": "Streaming",
+   "record": false
+  },
+  {
+   "id": "gta 6 fresh evidence puzzle which dildo to choose for the mural explained",
+   "title": "GTA 6 Fresh Evidence puzzle: Which dildo to choose for the mural explained",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUhRRGJVenNfRGVVWnFTNzVfVHdhRlo5OHI1cmdlclY4UWh1TWZkN0hKYzViNFE5MklpeVNtUDRUdHBRT0MxSVplVVM3X0RvRVhmdDRWZkd3b0RPdDBZNU52RG1XVnRtSTlYb3lKRW1jXzFKZDZKMUJ2UV9Ca0FrNEt1SWJsTzZaQXNwNzh1czhKdnI2cFVKVDZFNA?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-26T16:31:44+00:00",
+   "seen": "2026-11-26T16:36:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "aspects of gta 6 are inspired by red dead redemption 2 s honor system because its player agency was a hard thing to ignore and walk away fro",
+   "title": "Aspects of GTA 6 are inspired by Red Dead Redemption 2's honor system because its player agency 'was a hard thing to ignore and walk away from'",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRl92TmU5cTNEeU5DLWdnTXYxd29zTU5yQUtGUkJjRHJKLXVOSU9KT01BTFdBVWZlMjlLeGd3TDJKbGVsRmR5YTczTTdNTmFsYWxmQVN5VkF4LUZMZ3ItbG1mM1JHeEFTaWluRzU1eEJtZ3NVaWlNdlJTTzIxM2s3N0hUZVUtYzYtQkI4eVA2YU1hbzFJZkItTDd5TGdHbXdnZEZ6WDFCYmRodmZlc1AzVll1eGFiVE9OVEpiZGFGS205LVcxcXZHSVYwWTJfMVJOMWVCem9iTmZ4YjVxZ3N1X19CYkVzTDR2bUtoUTRhRzBmTTVRUG9kQThHUmtmZkFvWExUdEhMN2FOWm43dHhHYXUyY2RIblE?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-26T16:28:37+00:00",
+   "seen": "2026-11-26T16:36:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "where to find gta 6 s ufo and alien",
+   "title": "Where to find GTA 6's UFO and alien",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zc19UeXZBMTFRNWZXZFQ4Y2ZRNnJtYVZmbmdVR0gxMW85a1hSZHl1TVRNMHFtZ2RnY2FVb0d0alpGUTFrSVpGeWRReGtSVm0xYVNKR2V1MlhSM0RRTnhaQ1M3YXpaQ3ZDWk9MYTcwYnhGSVNvVkl6NWFvSXNnQXM?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-26T16:28:36+00:00",
+   "seen": "2026-11-26T16:36:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "modders have released an unofficial patch for running gta 6 at up to 60 frames per second on a hacked ps5 pro",
+   "title": "Modders have released an unofficial patch for running GTA 6 at up to 60 frames per second on a hacked PS5 Pro.",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDJQaEUyX1Rvb3lMak4tSnoyaEtUb20xUDVqOFdfeWNrRjJjSE1melN2SG1GdDNEVk94cXcyM2cxMmVsTVFHamNCRVpmeTVxWFpDbDVnV2tTU1hfaG0wQWl0WkFHSmlYMHhHdXlLR000ang0WUNjbnEtOUN2VG9wU2VXUWlNaGt4d0lxSnV5Rm1qY2FMVWkzdHJNaGZLejdPamx5cnh3WG1CVXcxSm03RTUxaDFDYkk5Nk11UlFRdV9aMUNhb1pCQlQyenQ1b21DM3c?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-26T16:27:02+00:00",
+   "seen": "2026-11-26T16:36:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "chainsaws would have been too much even for gta 6 as rockstar explains why some extra violent weapons are missing",
    "title": "Chainsaws 'Would Have Been Too Much' Even for GTA 6, as Rockstar Explains Why Some Extra Violent Weapons Are Missing",
