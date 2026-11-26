@@ -1,109 +1,157 @@
 {
- "updated": "2026-11-26T15:36:20+00:00",
- "started": "2026-11-26T15:36:17+00:00",
+ "updated": "2026-11-26T15:41:24+00:00",
+ "started": "2026-11-26T15:41:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-26T15:36:17+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-26T15:41:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-26T15:36:18+00:00"
+   "checked": "2026-11-26T15:41:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-26T15:36:18+00:00"
+   "hits": 49,
+   "checked": "2026-11-26T15:41:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:36:18+00:00"
+   "checked": "2026-11-26T15:41:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:36:18+00:00"
+   "checked": "2026-11-26T15:41:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T15:36:19+00:00"
+   "checked": "2026-11-26T15:41:21+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-26T15:36:19+00:00"
+   "checked": "2026-11-26T15:41:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 13,
-   "checked": "2026-11-26T15:36:19+00:00"
+   "hits": 12,
+   "checked": "2026-11-26T15:41:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-26T15:36:19+00:00"
+   "hits": 7,
+   "checked": "2026-11-26T15:41:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T15:36:19+00:00"
+   "checked": "2026-11-26T15:41:23+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T15:36:20+00:00"
+   "checked": "2026-11-26T15:41:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T15:36:20+00:00"
+   "checked": "2026-11-26T15:41:23+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:36:20+00:00"
+   "checked": "2026-11-26T15:41:23+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T15:36:20+00:00"
+   "checked": "2026-11-26T15:41:24+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to get the bf bandito in gta 6 explained",
+   "title": "How to get the BF Bandito in GTA 6 explained",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXdxSDJjY0czUnRySVQxeXdnMWk1dU9scmE4VUlGME9HN1NWa0I0N2pCdllCdUI4ZjdwNXRIVVpJcnUzWjlIRjd3eng4QU84bmNIclVQbFN1b2hwa3c2NTRQaDRVcFlqODh2TkNfei12TEtITnJaVTFmdGh5QkhucVNHaTBIRk9URk1YWkhUcVhWTk9X?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-26T15:40:02+00:00",
+   "seen": "2026-11-26T15:41:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 physical sales broke records in europe despite code in box launch",
+   "title": "GTA 6 Physical Sales Broke Records in Europe, Despite Code-in-Box Launch",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHhnejNQM1NYaUFGX1JtWkRocUxKUG5jOUYwNzFZTlNLV3hnSW9Kbi1RMFVQLUNYaGRTWW0xWUtpWUphdzdORThacVR0VnpaVVRFMnIyNVJ3c1JPQTU3a3gwRURtRUVzX2sxX3VKWWp0aWJFOWV2empEMDdvVUFFOExQTWFUaFhWc1F6bjV1QzhnZjlTNTNQampXeHItVmxHSE8w?oc=5",
+   "outlet": "Xbox Achievements",
+   "via": "Google News",
+   "published": "2026-11-26T15:39:48+00:00",
+   "seen": "2026-11-26T15:41:20+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
+  },
+  {
+   "id": "slideshow gta 6 fashion gallery",
+   "title": "Slideshow: GTA 6 Fashion Gallery",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkNScVhZR1c4eFh1YjFmRUZ5VFEyemZIWkxtdnU2MFhtSFI0YW9iWF82dmc5ekFvY1BJang0eG4yUzRhcDF3MDZhSUdNMTlrQnBPLTQ5M2MtdF9CZmJFWklYa0RTb2ZJb21oVm9PQUNJTGtJd01Pc0xlUXNjRklBYS1oYXJnQkdRSWc?oc=5",
+   "outlet": "IGN Southeast Asia",
+   "via": "Google News",
+   "published": "2026-11-26T15:39:41+00:00",
+   "seen": "2026-11-26T15:41:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 radio gives a massive boost to artists spotify streams up to more than 100x versus pre launch",
+   "title": "GTA 6 radio gives a massive boost to artists' Spotify streams, up to more than 100x versus pre-launch",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0sxV21lMEZMRzFhQWxKa3lsNjg2VnhJWFg0S2hMOUZndGZPWTVVbS1jNXFoeUFyQU5xQmQwNlluclJqVndiZTMtMklsOFlrV2xRRUFSMDJTY3hkUUoyd1kzZ3kwbzBEZl9weUNITE1PWDBkOUJ0Skt0YmVINk1CaGpMLW5pRWFXb0NvWENzZXEweVFxUFVoa3g3WHdQVTRTYTVkdnFKS1pHWmRjMmF2blBmN1p3SzFxZ2tFaVBOYkZvS3RkZTVvOQ?oc=5",
+   "outlet": "PC Guide",
+   "via": "Google News",
+   "published": "2026-11-26T15:36:32+00:00",
+   "seen": "2026-11-26T15:41:20+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
   {
    "id": "circana confirms the grand theft auto 6 video game has boosted console sales",
    "title": "Circana Confirms the Grand Theft Auto 6 Video Game Has Boosted Console Sales",
@@ -177,6 +225,18 @@
    "record": true
   },
   {
+   "id": "owners radeon rx 9070 xt optimal frame generation settings for gta 6 revealed",
+   "title": "Owners Radeon RX 9070 XT Optimal frame generation settings for GTA 6 revealed",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1F4Z0Rva3kzejMyREJCbGN1aXN0a0xZVjZzck8taU9sem9peHlkV3h5aGJVRFg1U0E0UkN1RTNmYi1abEtoNEtTRFRmSTZRYURWTnhhNkhLSjhIWjJmT2FyQXpjZFFhSEh4YWZpYkROcVBnQVZVYS1ZV1pfX2hseU5CdGhqY0dhZVo1VTBzQlBYalZDeklOWDl6aUUxRWd0NDlPamowaDlEQ3pYUEU1MmJlSTVxV0RDRE1B?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-26T15:29:53+00:00",
+   "seen": "2026-11-26T15:41:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "rockstar games employees vote against union recognition",
    "title": "Rockstar Games employees vote against union recognition",
    "link": "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition",
@@ -220,6 +280,18 @@
    "via": "Google News",
    "published": "2026-11-26T15:24:41+00:00",
    "seen": "2026-11-26T15:26:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "specs for unofficial gta 6 port are worrying some pc gamers but this is nothing to panic about",
+   "title": "Specs for unofficial GTA 6 port are worrying some PC gamers — but this is nothing to panic about",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW5MOG1ZTVFmUGtWTlZYRDhZQTYtZHJmSlQ4Vm0yeWotMmZlc2E3OW42NWJJOGhFNFNIMkdmV29FRmVubXlpQ3FxdDhMVkhhSEJjMDE0bk9GWU9td3pwUlgwcmMtaTdDTTFJbEZxMnBLNWoyZWRFZUZuOFVFZHo0T2psMTkwLWdRZW8xcDhCR19hWVhwSlkyYzJBVERsaEdaU3dnM0wtaXJWZzNTT1ZlWVlfMWxOZklpVDU2ZW9Xem9IeUdvZ3c?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-26T15:24:41+00:00",
+   "seen": "2026-11-26T15:41:20+00:00",
    "summary": "",
    "topic": "News",
    "record": false
