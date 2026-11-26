@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T18:12:21+00:00",
- "started": "2026-11-26T18:12:19+00:00",
+ "updated": "2026-11-26T18:17:19+00:00",
+ "started": "2026-11-26T18:17:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T18:12:19+00:00"
+   "checked": "2026-11-26T18:17:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 26,
-   "checked": "2026-11-26T18:12:19+00:00"
+   "hits": 56,
+   "checked": "2026-11-26T18:17:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-26T18:12:20+00:00"
+   "hits": 49,
+   "checked": "2026-11-26T18:17:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T18:12:20+00:00"
+   "checked": "2026-11-26T18:17:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T18:12:20+00:00"
+   "checked": "2026-11-26T18:17:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-26T18:12:20+00:00"
+   "hits": 53,
+   "checked": "2026-11-26T18:17:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T18:12:20+00:00"
+   "checked": "2026-11-26T18:17:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T18:12:21+00:00"
+   "checked": "2026-11-26T18:17:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T18:12:21+00:00"
+   "checked": "2026-11-26T18:17:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T18:12:21+00:00"
+   "checked": "2026-11-26T18:17:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T18:12:21+00:00"
+   "checked": "2026-11-26T18:17:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T18:12:21+00:00"
+   "checked": "2026-11-26T18:17:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T18:12:21+00:00"
+   "checked": "2026-11-26T18:17:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T18:12:21+00:00"
+   "checked": "2026-11-26T18:17:19+00:00"
   }
  },
  "items": [
@@ -162,6 +162,42 @@
    "seen": "2026-11-26T18:02:14+00:00",
    "summary": "",
    "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 might run on an old rx 580",
+   "title": "GTA 6 might run on an old RX 580!",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00SVdzOUtQcWtKNnRCSXZlWjJPb3hQazhyaDMxTUI0YmNUSmpfb3VCX203NGlpVW4wU2lvQlJJVFBORDlYTW5fZWZ2enY2dUFyeVRyeFVMek5tckljWFZTWXdHcGNtTXkyMVNEM3Jn?oc=5",
+   "outlet": "overclocking.com",
+   "via": "Google News",
+   "published": "2026-11-26T17:55:36+00:00",
+   "seen": "2026-11-26T18:17:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 is the great pyramids of game development according to naughty dog s game director",
+   "title": "GTA 6 Is “The Great Pyramids of Game Development,” According to Naughty Dog's Game Director",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUJERTRKUHdzLWUtRFo2N0xjZ2xuSmE3Ql91MDVVaWFrSXN6YVFZeVFSNXV5ZWZzcHpDN0tUenctSGZwaHdWbW5xeEt3YnVlS0JCRFZpSlFWNGFkdExIUU05eVZudGU4Wng2aUR3T3dVNTluSmxPQTc0bFFLQ0V3Uzl1dmJ1QWhQS3IxcmZZT244NGxvSzQ4T0t6WQ?oc=5",
+   "outlet": "EGW.News",
+   "via": "Google News",
+   "published": "2026-11-26T17:54:27+00:00",
+   "seen": "2026-11-26T18:17:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 fans make spearmint rhino demand after game s attention to detail",
+   "title": "GTA 6 fans make Spearmint Rhino demand after game's 'attention to detail'",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xd09SN05kYXM2aFZxaW1Na09aSEtvaVBOZ3BCZ0NqR0JhQjV2NnNnOXlCa0tjYkxLSThzUXdzeFlQUUFsdjUyZklzeFRTWTJqekRHUDc5ODEzR2ZaRi1vcFF4Q2N0QUFVSHNfS2pkODB2bDlCZVNCR3VIVkJhZ9IBgwFBVV95cUxQZi1TekFKbWpULTdRemMydy0zNzZKbUMtT0gtd1gtNjhzcXB3VUZqQnN3RHJaVlQ1NVQ0VXJySmlfUlhYanZ3bFQ5Q29yM1dNMkQ2UzJ4SWV4VHRJR0E1amNXblpFeUgwMWZqRm9aWkxhN05wNklQeTFEcjRsTVljclFUWQ?oc=5",
+   "outlet": "Yorkshire Live",
+   "via": "Google News",
+   "published": "2026-11-26T17:49:00+00:00",
+   "seen": "2026-11-26T18:17:17+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -477,6 +513,18 @@
    "record": false
   },
   {
+   "id": "gta 6 themed ps5 pro console is so desirable but we fans can t get one",
+   "title": "GTA 6 themed PS5 Pro console is so desirable, but we fans can’t get one",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkdub0tGWTFTSkt2WjlXUHZRT0pzQ1gwbFc0dzZYel96aG9QXzhXTm9lVW1QT1RmS0FyVGZxVzM3RmZMU2dYTGo0cnFvdHdiTF9rbGRHSzVIcGF1WE5KNzJ4SjJyRGZyWEtZNHl6eHR6N3VZM1JYSzNIUWlCUHltMnI4QnJGLWx2dEg0STJjbmFZbmgyY0xZZkhSNDFJQkhWY3ZkWHl1RzJvS0ZBd0HSAbMBQVVfeXFMTnEtUjBXcHQtWmg4V1lBTEd2VE5paVVzc19OU25VVWp1bVI0SGZpRjZ5ZG13OV9Pd0lteUdZVXZkcDlMeW9tX1VPT2RhZ0tNLV9GSWpNbklVUkpidDI5Y2JFQVVpdTZaOGM2eVZTbmFfaUpXYzkxUlQxbGNaLWktdHFHZkpPYVFQWEhhUzJMcDFPZ1JWZEZNM2tlX3lHYW00cXltRGZaMHR0SUNuV0djMG9fNmc?oc=5",
+   "outlet": "Yanko Design",
+   "via": "Google News",
+   "published": "2026-11-26T16:40:16+00:00",
+   "seen": "2026-11-26T18:17:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "gta 6 silenced pistol how to get the assassin nipper in chapter 1",
    "title": "GTA 6 silenced pistol: How to get the Assassin Nipper in Chapter 1",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWJTek5rblNfS2p1M2ZhMS1iWmNGa1hyM3Q2cDNCUXRXaWRFVVl6THJsclctRDRsekYyc0c0ZW42Q3J5VTNjU2NFRUZLU2hkclA3QjFCZjA3OFZrZ0oyWVhLYndZN05Dd0NraVVtV1hCY3JWNDNfLVBtMHYxV05YQ2w3Zw?oc=5",
@@ -619,6 +667,18 @@
    "summary": "",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "gta vi on switch 2 digital foundry weighs 30 fps cuts",
+   "title": "GTA VI on Switch 2: Digital Foundry Weighs 30 FPS Cuts",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3dMZFJ3cEREdFZnZTMyYUg3S3RPNUx5RWZDRU54bzZLSUJwa052QzVFZkNRV1dnUWNYTU5MZFVwSnduWUM4LWpESENUSzhqdUl2RTZFS1JkYmVFMEFUQzBNWWNYdW5iamQxY01QSFdkVGtuNm1BQzRSYnFHSUtaRmZBQ3drRmRw?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-26T16:24:59+00:00",
+   "seen": "2026-11-26T18:17:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
   },
   {
    "id": "keith gill s social media return meets grand theft auto vi launch as take two interactive nasdaq ttwo surges and gamestop nyse gme slides",
