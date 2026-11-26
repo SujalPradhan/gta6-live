@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T01:36:36+00:00",
- "started": "2026-11-26T01:36:29+00:00",
+ "updated": "2026-11-26T01:41:37+00:00",
+ "started": "2026-11-26T01:41:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 95,
-   "checked": "2026-11-26T01:36:30+00:00"
+   "hits": 100,
+   "checked": "2026-11-26T01:41:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-26T01:36:30+00:00"
+   "hits": 54,
+   "checked": "2026-11-26T01:41:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 61,
-   "checked": "2026-11-26T01:36:30+00:00"
+   "hits": 67,
+   "checked": "2026-11-26T01:41:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T01:36:31+00:00"
+   "checked": "2026-11-26T01:41:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T01:36:31+00:00"
+   "checked": "2026-11-26T01:41:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T01:36:31+00:00"
+   "checked": "2026-11-26T01:41:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T01:36:31+00:00"
+   "checked": "2026-11-26T01:41:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T01:36:32+00:00"
+   "checked": "2026-11-26T01:41:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T01:36:32+00:00"
+   "checked": "2026-11-26T01:41:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T01:36:32+00:00"
+   "checked": "2026-11-26T01:41:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T01:36:33+00:00"
+   "checked": "2026-11-26T01:41:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T01:36:33+00:00"
+   "checked": "2026-11-26T01:41:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T01:36:33+00:00"
+   "checked": "2026-11-26T01:41:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T01:36:33+00:00"
+   "checked": "2026-11-26T01:41:34+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 after launch how rockstar keeps the hype",
+   "title": "GTA 6 After Launch: How Rockstar Keeps the Hype",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZWNUaFJFSFZlNG82VnM1cHpvM2hDSkVlRU5XaXRyM2tKWElCM3hzbjVod2RBSnNDdDJHNUI4TE1WTXN5N0lEakpQaG44LTlxaDViOEd0X2xjbXFLMlZjTFpHNlVxdFY1RHF0M1pTTWRzLUgzemJZYXVGZVpRYWFTcGl0S3dwa0VzdW4wazI5a2Y?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-26T01:39:57+00:00",
+   "seen": "2026-11-26T01:41:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true,
+   "ai_summary": "The story discusses how Rockstar sustains hype after the launch of GTA 6."
+  },
   {
    "id": "neuralink trial participant plays gta 6 through his brain implant",
    "title": "Neuralink Trial Participant Plays GTA 6 Through His Brain Implant",
