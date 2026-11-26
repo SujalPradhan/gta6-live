@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T22:13:35+00:00",
- "started": "2026-11-26T22:13:31+00:00",
+ "updated": "2026-11-26T22:18:37+00:00",
+ "started": "2026-11-26T22:18:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T22:13:31+00:00"
+   "checked": "2026-11-26T22:18:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 29,
-   "checked": "2026-11-26T22:13:32+00:00"
+   "hits": 54,
+   "checked": "2026-11-26T22:18:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-26T22:13:32+00:00"
+   "hits": 49,
+   "checked": "2026-11-26T22:18:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T22:13:32+00:00"
+   "checked": "2026-11-26T22:18:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T22:13:32+00:00"
+   "checked": "2026-11-26T22:18:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T22:13:33+00:00"
+   "checked": "2026-11-26T22:18:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T22:13:33+00:00"
+   "checked": "2026-11-26T22:18:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-26T22:13:33+00:00"
+   "checked": "2026-11-26T22:18:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T22:13:33+00:00"
+   "checked": "2026-11-26T22:18:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T22:13:34+00:00"
+   "checked": "2026-11-26T22:18:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T22:13:34+00:00"
+   "checked": "2026-11-26T22:18:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T22:13:34+00:00"
+   "checked": "2026-11-26T22:18:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T22:13:34+00:00"
+   "checked": "2026-11-26T22:18:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T22:13:35+00:00"
+   "checked": "2026-11-26T22:18:37+00:00"
   }
  },
  "items": [
+  {
+   "id": "december 11 is suddenly an exciting day for gta 6 players",
+   "title": "December 11 is Suddenly an Exciting Day for GTA 6 Players",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1VGRnV2NW4zLU9nUGFRNUd2V0RNNnhteWNXS0FuYXRnTlduNnl4aXdDMDVwSWc0RUtHZ0FQd1djVnB4cm9oSEp5Wmtxb0NPbmU5RzdZdEg1dUdILUx2ZjU1d0pSTTlENEd4RWZudnhKOGlSME9weXc4MGpCaVJtQkNIRFhZNWdMZEhfTlBPMU90RWFGR0E?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-26T22:12:04+00:00",
+   "seen": "2026-11-26T22:18:34+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
   {
    "id": "vibecoded gta 6 pc ports are now rendering in game graphics despite take two crackdown",
    "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
