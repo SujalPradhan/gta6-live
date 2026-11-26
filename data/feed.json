@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T20:23:00+00:00",
- "started": "2026-11-26T20:22:57+00:00",
+ "updated": "2026-11-26T20:28:02+00:00",
+ "started": "2026-11-26T20:27:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T20:22:57+00:00"
+   "checked": "2026-11-26T20:27:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-26T20:22:57+00:00"
+   "hits": 56,
+   "checked": "2026-11-26T20:27:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-26T20:22:58+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T20:28:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T20:22:58+00:00"
+   "checked": "2026-11-26T20:28:00+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:22:58+00:00"
+   "checked": "2026-11-26T20:28:00+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T20:22:58+00:00"
+   "checked": "2026-11-26T20:28:00+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T20:22:59+00:00"
+   "checked": "2026-11-26T20:28:01+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T20:22:59+00:00"
+   "checked": "2026-11-26T20:28:01+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T20:22:59+00:00"
+   "checked": "2026-11-26T20:28:01+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:22:59+00:00"
+   "checked": "2026-11-26T20:28:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:23:00+00:00"
+   "checked": "2026-11-26T20:28:02+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T20:23:00+00:00"
+   "checked": "2026-11-26T20:28:02+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T20:23:00+00:00"
+   "checked": "2026-11-26T20:28:02+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T20:23:00+00:00"
+   "checked": "2026-11-26T20:28:02+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta online event week gta vi hype continues nov 26th dec 2nd",
+   "title": "GTA Online Event Week: GTA VI Hype Continues (Nov 26th-Dec 2nd)",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTkxWjU3UFdmUUxIYzVqaXpFSEVBWjRpQVV0cDRGX1lIWlU4c1ExRzVYT2JJSE11R2xDYmJhajZtaFV2QW9XV0c3WjZzRU5DZnVPVUpjZkF5LXRaWkdHcF91YlBrYWRocVUzRTZIdWRrT0NoaXZfeEh1RGplYVZyRWsxYkVCM0ZWRER4QktNeUE?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-26T20:21:05+00:00",
+   "seen": "2026-11-26T20:27:59+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "carly rae jepsen reacts as gta 6 sends run away with me streams soaring by 1 100",
+   "title": "Carly Rae Jepsen reacts as GTA 6 sends 'Run Away With Me' streams soaring by 1,100%",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONFNpbDBPdkhHZ2JkcEozWGJuSlk1Z3ZYN09vbEY1eW9qbUE0MjVnTEtqVDE3eVVLcUdhdHg5N0JDNDU2Rm1qOGZUNWdrYm1rQnZSZ0FvcGR0ZENCMW1mNzc1VlhYUzNJZk9sYXNQTGw1MGM4SGxOcjJ6WWtkTVdwT1FEMm8zdVZvX0RwVUhuUmVJTFFxc01KS1JzOFRCQndldGR2M2dsWEVJTHB5MDZ5VHkyNV9tN0U?oc=5",
+   "outlet": "The Express Tribune",
+   "via": "Google News",
+   "published": "2026-11-26T20:20:25+00:00",
+   "seen": "2026-11-26T20:27:59+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
   {
    "id": "gta 6 producer says hyper violent weapons would have been too much",
    "title": "GTA 6 Producer Says Hyper-Violent Weapons Would Have Been “Too Much”",
