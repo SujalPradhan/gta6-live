@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T19:02:38+00:00",
- "started": "2026-11-26T19:02:35+00:00",
+ "updated": "2026-11-26T19:07:37+00:00",
+ "started": "2026-11-26T19:07:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T19:02:36+00:00"
+   "checked": "2026-11-26T19:07:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-26T19:02:36+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 56,
+   "checked": "2026-11-26T19:07:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-26T19:02:36+00:00"
+   "hits": 49,
+   "checked": "2026-11-26T19:07:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T19:02:36+00:00"
+   "checked": "2026-11-26T19:07:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:02:37+00:00"
+   "checked": "2026-11-26T19:07:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 53,
-   "checked": "2026-11-26T19:02:37+00:00"
+   "checked": "2026-11-26T19:07:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-26T19:02:37+00:00"
+   "hits": 14,
+   "checked": "2026-11-26T19:07:35+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T19:02:37+00:00"
+   "checked": "2026-11-26T19:07:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T19:02:37+00:00"
+   "checked": "2026-11-26T19:07:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:02:37+00:00"
+   "checked": "2026-11-26T19:07:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-26T19:02:38+00:00"
+   "hits": 8,
+   "checked": "2026-11-26T19:07:36+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T19:02:38+00:00"
+   "checked": "2026-11-26T19:07:36+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T19:02:38+00:00"
+   "checked": "2026-11-26T19:07:36+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T19:02:38+00:00"
+   "checked": "2026-11-26T19:07:37+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to do the advanced tracker removal glitch in gta 6",
+   "title": "How to Do the Advanced Tracker Removal Glitch in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZVGR0T0c5MkpPNThqdjdhOTlPWkMxcXQtMW5SU1ZKZTg0TE85N0JWQWZNTTFiQ0lzbXJBMXZJdFd1WkxKeExyb0ZIWFZPLWg0bWpaT3RHNVZJTWI4dnZ1eUMtaUdBY040ejZFNkxfSnc4TzVic3NTRGVB?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-26T19:05:12+00:00",
+   "seen": "2026-11-26T19:07:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 is a tragedy because you cannot sit down and eat spaghetti",
+   "title": "GTA 6 Is A Tragedy Because You Cannot Sit Down And Eat Spaghetti",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNmxsaFh0bExzVVBiS3kzWHZ6ODNaRHA0VHZTZU5ZeURpb2xYa05tbEg1c0F1blFrYW42T1M5eFo4UjVKNkV6T2FtSmM1MGZDYVhKa3hLdmdqbWlGay02UkVOUVE2WEpwMkU3Y0JrYzZrY2Z4cnVLZDgxVFVuLVcwcjFocWx6c2ItS3pTRm5xaDluU1JUWFVtcEhR?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-26T19:00:19+00:00",
+   "seen": "2026-11-26T19:07:34+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false
+  },
   {
    "id": "nba players would cause chaos in gta 6 according to kevin durant",
    "title": "NBA players would 'cause chaos' in GTA 6, According to Kevin Durant",
@@ -114,6 +138,30 @@
    "seen": "2026-11-26T19:02:36+00:00",
    "summary": "",
    "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "the results are very very impressive digital foundry praises gta 6 on xbox one",
+   "title": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmo4WGhRMURSV0w2RDlfMjhIOE1hWFVXUXFyUWxyUUtSak04YzBEc3RPMnU1aV82UURzdGY5Wk5HemFBX09ybG5Cai1iYThzTld3Z3RUWkh6eHMwNEw0RUlHU2VLMFN0OTB3MFNQRG9pTExIaUk0MkZnOHNSWDduQW1xRzdGYm42Rk5HdDl6R3NhbmJ1d2Z3emszVDlUS3QyOVdIVk4tM3djcmVvUGo4N3JobVZMVzQ?oc=5",
+   "outlet": "Pure Xbox",
+   "via": "Google News",
+   "published": "2026-11-26T19:00:00+00:00",
+   "seen": "2026-11-26T19:07:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "the results are very very impressive",
+   "title": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
+   "link": "https://www.purexbox.com/news/2026/11/the-results-are-very-very-impressive-digital-foundry-praises-gta-6-on-xbox-one",
+   "outlet": "Pure Xbox",
+   "via": "Pure Xbox",
+   "published": "2026-11-26T19:00:00+00:00",
+   "seen": "2026-11-26T19:07:36+00:00",
+   "summary": "\"﻿Latency is also exceptional - at least in context.\". The smartypants over at Digital Foundry are still putting in the work, this time going deep into the nitty gritty of how well GTA 6 performs when streamed through the Xbox Cloud Gaming app on Xbox One. Following their rigorous testing on Xbox Series X and Series S, PS5 and PS5 Pro, the boffin boys have now spent a good week putting streamed pe",
+   "topic": "Streaming",
    "record": false
   },
   {
@@ -162,6 +210,18 @@
    "seen": "2026-11-26T18:37:26+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "gta 6 s 30 fps lock didn t last a week on jailbroken ps5s",
+   "title": "GTA 6's 30 FPS lock didn’t last a week on jailbroken PS5s",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzFqUElmbThFaUZIS243SWxoVjdNS1g5VkZ5djdjSUgxZWNzMDNfNUNVUTVuMWJtUThyc1lfUFNkbDQyck9EN19nOGN3OWFpX0NDcG1oMTcxLUlMLTJEb011ZmY2QzNFZWNRYUhCSUFac0k1M1hHdE50VlVzcTFpZFU4cDBrRHdw?oc=5",
+   "outlet": "MakeUseOf",
+   "via": "Google News",
+   "published": "2026-11-26T18:31:20+00:00",
+   "seen": "2026-11-26T19:07:34+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -534,6 +594,18 @@
    "seen": "2026-11-26T17:37:05+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi launch sparks 400 surge in uk sales of physical games data shows",
+   "title": "GTA VI launch sparks 400% surge in UK sales of physical games, data shows",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwRnB5NUhqNUR0OWNsUy1CbXNJczJlTUxjNFhJR1AwaTE2ZWp4OFl3S19GVy1DVUx3NG44S09BNV9aVVFJZzdQVmdmbkRQcDhyQkFVMjVRRWFtenZyc1FrMDBTUHpQX0h3WGRMdlhhN2dwUGpUYzNxLWlucEE1UQ?oc=5",
+   "outlet": "Yahoo Finance UK",
+   "via": "Google News",
+   "published": "2026-11-26T17:06:56+00:00",
+   "seen": "2026-11-26T19:07:34+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
@@ -1012,6 +1084,18 @@
    "via": "Google News",
    "published": "2026-11-26T16:00:00+00:00",
    "seen": "2026-11-26T16:06:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi proves why efficiency isn t a virtue",
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1R3cmlmQUhhMmw5b2Rsc0hZNVhWbEFyVXRFaXM3bVE3NWsta2k2QmFyekZzdDJwd3NJbDZ1bUJ3aVIzdDI4allRbkxvZjVkOXY0a2ZRZHRTM202cjRLWWtmLWRheFJjUHFDbm5rNzhpeHRUNHJLcUFLMEZZaEZMY2RCSkVhNG12TlJycTd6eVljblNEeXFlTWotQlpMRkd2R2hPYTQyYUd1eXhv?oc=5",
+   "outlet": "TechCrunch",
+   "via": "Google News",
+   "published": "2026-11-26T16:00:00+00:00",
+   "seen": "2026-11-26T19:07:34+00:00",
    "summary": "",
    "topic": "News",
    "record": false
