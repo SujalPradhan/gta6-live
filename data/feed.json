@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T13:10:29+00:00",
- "started": "2026-11-26T13:10:25+00:00",
+ "updated": "2026-11-26T13:15:32+00:00",
+ "started": "2026-11-26T13:15:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T13:10:26+00:00"
+   "checked": "2026-11-26T13:15:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-26T13:10:26+00:00"
+   "hits": 26,
+   "checked": "2026-11-26T13:15:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 45,
-   "checked": "2026-11-26T13:10:27+00:00"
+   "hits": 55,
+   "checked": "2026-11-26T13:15:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 2,
-   "checked": "2026-11-26T13:10:27+00:00"
+   "hits": 1,
+   "checked": "2026-11-26T13:15:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T13:10:27+00:00"
+   "checked": "2026-11-26T13:15:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-26T13:10:27+00:00"
+   "hits": 56,
+   "checked": "2026-11-26T13:15:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T13:10:28+00:00"
+   "checked": "2026-11-26T13:15:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T13:10:28+00:00"
+   "checked": "2026-11-26T13:15:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T13:10:28+00:00"
+   "checked": "2026-11-26T13:15:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T13:10:28+00:00"
+   "checked": "2026-11-26T13:15:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T13:10:28+00:00"
+   "checked": "2026-11-26T13:15:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T13:10:29+00:00"
+   "checked": "2026-11-26T13:15:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T13:10:29+00:00"
+   "checked": "2026-11-26T13:15:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T13:10:29+00:00"
+   "checked": "2026-11-26T13:15:32+00:00"
   }
  },
  "items": [
@@ -225,6 +225,18 @@
    "record": false
   },
   {
+   "id": "new gta 6 feature was originally planned for gta vice city",
+   "title": "New GTA 6 Feature Was Originally Planned for GTA: Vice City",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUxpYUozRDVhbml6WWNQN0xudDROSFhsRnl4SmFrQ2ZLX01vb2VjeG4yOU5CSGk0MWNqa2tTS0dRTGxvQl9iWnUyNjZGalFTRGdoQTVqb090Unc0RE9EdFJmczZtcXZ3VXA4RFY4c2VMdjBjU0ZidTVJWlNEMEdIZHdHY0g2RWtMcVR6V1RFTXhUem1YMjVR?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-26T12:52:51+00:00",
+   "seen": "2026-11-26T13:15:28+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
    "id": "does gta 6 run better on ps5 or xbox series x s",
    "title": "Does GTA 6 run better on PS5 or Xbox Series X/S?",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY09wMTIybFVFejZCX1NkcVdGOGNHQ1VCZnFTX2hLY2RXeWNpMHBlcjNIUWhhZ0htbkp4cVVwUlhVNERqSGJOZHNxS3Y5QkVackN3bmVyQ0dkVkQtYVhnV0w3UVNYRHE2QnhwYldMbG1CWVRpdGQ3V1dmRUZMNjZlYTFIWXFBLTJvNFczbGozMWY?oc=5",
@@ -249,6 +261,18 @@
    "record": true
   },
   {
+   "id": "carly rae jepsen s run away with me streams jump almost 1 100 per cent after gta 6 sync",
+   "title": "Carly Rae Jepsen’s ‘Run Away With Me’ streams jump almost 1,100 per cent after ‘GTA 6’ sync",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE55eFMyUmVDR25ocUxqTk53SU9CSm1UcHM2aWNoZEtSLUV4TmJzZGo0LU0wYWZQd1otbEVrdnpnZkhiS3RN?oc=5",
+   "outlet": "NME",
+   "via": "Google News",
+   "published": "2026-11-26T12:50:26+00:00",
+   "seen": "2026-11-26T13:15:28+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
+  {
    "id": "gta 6 hair explained how to unlock more hairstyles for lucia and jason",
    "title": "GTA 6 hair explained: How to unlock more hairstyles for Lucia and Jason",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVEFFQW9leUtUM3IwOFFvQnJvMEh2ZV9wUHgzNmh6R2pna1QxUURMZmtyTlIwZ2tKejZNLTJHeVNuOHk0WHBHTFlBWWFWQmVlN2U2UEFLTlhNLUdaNlpwaTRiVVNDU2oxdnRXb0hnX0xEYk1mYWM1dzNIM3l1azZKd284TFhlOWdpWk5iOG1oVDRzeTQyYkNraDFOSEo2SWF0aHVXem45QXliZw?oc=5",
@@ -256,6 +280,18 @@
    "via": "Google News",
    "published": "2026-11-26T12:46:53+00:00",
    "seen": "2026-11-26T12:50:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to steal the karin futo in gta 6",
+   "title": "How to steal the Karin Futo in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGVXZraUs0NXpfcmF5M1RwUTFtZUoxaEpEZXB5dkNENXptOFIyaExaT3l1RFdlZ0pwMGdXQ2hnZk5oUkF5bjZmYWVKMmM3b2cwZXd2VnQ2Uk85V1dhTTJBMkpYWmJxdw?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-26T12:41:00+00:00",
+   "seen": "2026-11-26T13:15:28+00:00",
    "summary": "",
    "topic": "News",
    "record": false
