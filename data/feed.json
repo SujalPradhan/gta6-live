@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T19:17:40+00:00",
- "started": "2026-11-26T19:17:37+00:00",
+ "updated": "2026-11-26T19:22:46+00:00",
+ "started": "2026-11-26T19:22:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-26T19:17:37+00:00"
+   "checked": "2026-11-26T19:22:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 28,
-   "checked": "2026-11-26T19:17:37+00:00"
+   "hits": 27,
+   "checked": "2026-11-26T19:22:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-26T19:17:38+00:00"
+   "checked": "2026-11-26T19:22:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T19:17:38+00:00"
+   "checked": "2026-11-26T19:22:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:17:38+00:00"
+   "checked": "2026-11-26T19:22:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-26T19:17:39+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T19:22:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T19:17:39+00:00"
+   "checked": "2026-11-26T19:22:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T19:17:39+00:00"
+   "checked": "2026-11-26T19:22:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T19:17:39+00:00"
+   "checked": "2026-11-26T19:22:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:17:39+00:00"
+   "checked": "2026-11-26T19:22:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T19:17:40+00:00"
+   "checked": "2026-11-26T19:22:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T19:17:40+00:00"
+   "checked": "2026-11-26T19:22:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T19:17:40+00:00"
+   "checked": "2026-11-26T19:22:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T19:17:40+00:00"
+   "checked": "2026-11-26T19:22:46+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar union vote fails but iwgb says it isn t a sign to retreat",
+   "title": "Rockstar union vote fails, but IWGB says it ‘isn’t a sign to retreat’",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb2NRVlhoZkUtVHpjWkM4VHVuRzBzUzF0VDhtZG43NXVObWNqNldjRWFva1JJUV9yblpsTkNhZ3AxMkFJSUVERUhpLUZlNDJsaUhhWTZpWmRnWE9PMDdRZ09zaFRkMDhJTEo0ZERCMVMtbUVKbVEwRVlmbTBPSU8xR0lZTQ?oc=5",
+   "outlet": "The Next Web",
+   "via": "Google News",
+   "published": "2026-11-26T19:18:53+00:00",
+   "seen": "2026-11-26T19:22:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "how to do the advanced tracker removal glitch in gta 6",
    "title": "How to Do the Advanced Tracker Removal Glitch in GTA 6",
@@ -162,6 +174,18 @@
    "seen": "2026-11-26T19:07:36+00:00",
    "summary": "\"﻿Latency is also exceptional - at least in context.\". The smartypants over at Digital Foundry are still putting in the work, this time going deep into the nitty gritty of how well GTA 6 performs when streamed through the Xbox Cloud Gaming app on Xbox One. Following their rigorous testing on Xbox Series X and Series S, PS5 and PS5 Pro, the boffin boys have now spent a good week putting streamed pe",
    "topic": "Streaming",
+   "record": false
+  },
+  {
+   "id": "should you kill or spare raul in gta 6",
+   "title": "Should you kill or spare Raul in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWo0ZDFkX2gyMkIxVkpNRVE2d2stMjVrV1JydXhFSkFkYXZ6amh4U0pIQXRwR2d4anBEU1hrVkJJX3VIa0N5SGdMWHNTSkdBanhremlSZC1Zei1DZkxHaU9mSlNSbkhzNGVUajN1U2h0TWd5Y29DanVsVnJmZ1RQSQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-26T18:55:21+00:00",
+   "seen": "2026-11-26T19:22:43+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -249,6 +273,18 @@
    "record": false
   },
   {
+   "id": "gta 6 scores the uk s biggest boxed launch since 2019 disc not included",
+   "title": "GTA 6 scores the UK’s biggest boxed launch since 2019. Disc not included.",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5wc2RqSF9ScEdxUW1oQmJZQ3haRHo1NnNZRlF2WVBETGg4REl2a2UwVHZvWG1Xd0R5T0NYQ2N1UlE5Z3NsdTJz?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-26T18:24:11+00:00",
+   "seen": "2026-11-26T19:22:43+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true
+  },
+  {
    "id": "gta 6 is biggest physical release this decade even without discs",
    "title": "GTA 6 Is Biggest Physical Release This Decade, Even Without Discs",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sVDBiTDJKZFVPbDc2YzNmeld1ejlZZzc1V3NPdWVmZ3FGYnJmdFFHZmNkaGl2NG1oR3FIdFE0Q2t2SVZmS0FmNEN5SkRzUENHWHVMR2JtMDZFQ2NMaUUzdEJzMG9qTFBTUHhz?oc=5",
@@ -306,6 +342,18 @@
    "seen": "2026-11-26T18:42:27+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi launch sparks 400 surge in uk sales of physical games",
+   "title": "GTA VI launch sparks 400% surge in UK sales of physical games",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHRYWmsxQWFEU2NOWmxjcWVhMW5ONjdjcGlZekJGYVlCR21haEh5U0xNZzI3NHVHNE93LVc3SXNOWDlvUU1FamkxSmZaM1VzRnlhTm5YOE55c05tcGNROFowZEZGN191dnExMzkwVV9xMmFmcUEyTnI5bHQ4VE1kbGNkZ3JMemphNENoRlphU3o4b0lUNzdV?oc=5",
+   "outlet": "Yahoo Finance",
+   "via": "Google News",
+   "published": "2026-11-26T18:03:37+00:00",
+   "seen": "2026-11-26T19:22:43+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
