@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T02:51:58+00:00",
- "started": "2026-11-26T02:51:52+00:00",
+ "updated": "2026-11-26T02:57:01+00:00",
+ "started": "2026-11-26T02:56:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-26T02:51:52+00:00"
+   "hits": 93,
+   "checked": "2026-11-26T02:56:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 33,
-   "checked": "2026-11-26T02:51:53+00:00"
+   "hits": 53,
+   "checked": "2026-11-26T02:56:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-26T02:51:53+00:00"
+   "hits": 59,
+   "checked": "2026-11-26T02:56:57+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T02:51:53+00:00"
+   "checked": "2026-11-26T02:56:57+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T02:51:53+00:00"
+   "checked": "2026-11-26T02:56:57+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T02:51:53+00:00"
+   "checked": "2026-11-26T02:56:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T02:51:54+00:00"
+   "checked": "2026-11-26T02:56:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T02:51:54+00:00"
+   "checked": "2026-11-26T02:56:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T02:51:54+00:00"
+   "checked": "2026-11-26T02:56:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T02:51:54+00:00"
+   "checked": "2026-11-26T02:56:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T02:51:55+00:00"
+   "checked": "2026-11-26T02:56:58+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T02:51:55+00:00"
+   "checked": "2026-11-26T02:56:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T02:51:55+00:00"
+   "checked": "2026-11-26T02:56:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T02:51:55+00:00"
+   "checked": "2026-11-26T02:56:58+00:00"
   }
  },
  "items": [
@@ -220,6 +220,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "\"GTA VI\" Will Dominate Everything\" is the headline; no snippet is provided, so restating the headline's claim in plain words is required."
+  },
+  {
+   "id": "grand theft auto vi demands a protestant work ethic",
+   "title": "Grand Theft Auto VI demands a Protestant work ethic",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRW9nOUQwTG1vc0d3M0xaWENIdmFUV3VybG1qMTdyRUk1UEF0QUVsUmw0OUkzVW81V0tzeFVfTkJhR2VLbnp3QlI2MDFac2pWc3lKQTYtRktuSWdNOGlLLTc3V21EWXkwcEF5eU10Yk9qRlFwX0t1NUlUMFlFLTF4U0Y3QkduV1I1a056VktabXBPUE5hcWprTQ?oc=5",
+   "outlet": "The Spectator",
+   "via": "Google News",
+   "published": "2026-11-26T01:52:18+00:00",
+   "seen": "2026-11-26T02:56:56+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims Grand Theft Auto VI demands a Protestant work ethic."
   },
   {
    "id": "holy sh t gta 6 qr codes work irl rubius found a qr code on a bathroom wall in gta 6 he pulled out his real phone and scanned it what happen",
