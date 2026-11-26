@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T11:14:45+00:00",
- "started": "2026-11-26T11:14:42+00:00",
+ "updated": "2026-11-26T11:19:43+00:00",
+ "started": "2026-11-26T11:19:39+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T11:14:42+00:00"
+   "checked": "2026-11-26T11:19:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-26T11:14:43+00:00"
+   "hits": 50,
+   "checked": "2026-11-26T11:19:39+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 47,
-   "checked": "2026-11-26T11:14:43+00:00"
+   "hits": 45,
+   "checked": "2026-11-26T11:19:40+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-26T11:14:43+00:00"
+   "checked": "2026-11-26T11:19:40+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T11:14:43+00:00"
+   "checked": "2026-11-26T11:19:40+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T11:14:44+00:00"
+   "checked": "2026-11-26T11:19:41+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T11:14:44+00:00"
+   "checked": "2026-11-26T11:19:41+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T11:14:44+00:00"
+   "checked": "2026-11-26T11:19:41+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T11:14:44+00:00"
+   "checked": "2026-11-26T11:19:42+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T11:14:45+00:00"
+   "checked": "2026-11-26T11:19:42+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T11:14:45+00:00"
+   "checked": "2026-11-26T11:19:43+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T11:14:45+00:00"
+   "checked": "2026-11-26T11:19:43+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T11:14:45+00:00"
+   "checked": "2026-11-26T11:19:43+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T11:14:45+00:00"
+   "checked": "2026-11-26T11:19:43+00:00"
   }
  },
  "items": [
@@ -112,6 +112,18 @@
    "via": "Google News",
    "published": "2026-11-26T11:12:33+00:00",
    "seen": "2026-11-26T11:14:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to fix the gta vi weather bug and make it rain",
+   "title": "How To Fix The GTA VI Weather Bug And Make It Rain",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHFURUdMNF93R0xFZ0QyTHJqZGFydlBhSU92c01DQTJwa0NLUDRNVHFZME1pd29Gci1pcVcwTk9mQWwzZFVOTldTNmlUbXdqaFJCQkRxZmVYQkt2UnVCUDRMekkxVFhqTDdLSlBvTXNZWFpqdlZCc3poQW05aXgyd0EwVQ?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-26T11:09:38+00:00",
+   "seen": "2026-11-26T11:19:39+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -6511,6 +6523,18 @@
    "topic": "Players",
    "record": false,
    "ai_summary": "A player has found that many buildings in GTA 6 are freely accessible, totaling over 1,500 structures in Leonida."
+  },
+  {
+   "id": "cyberpunk 2 director jokes game is canceled after seeing gta 6",
+   "title": "Cyberpunk 2 director jokes game is “canceled” after seeing GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUxpMHhUdlVfa3pUdDdIZ1FLTW5JNHhUVjFuejduckYzb05sNzRGWGxFS0pZcVJab2JsWFdLYmRrU2dxWHU5RzZLUzJnRGhDVlM4MmhrNUVJc3Y4Mjl6dUVfSFFBaGFzdkJXUW5HdElxZ3VlZmVJWVJEajJKdTg0TjVHbDc?oc=5",
+   "outlet": "TrueAchievements",
+   "via": "Google News",
+   "published": "2026-11-25T12:40:33+00:00",
+   "seen": "2026-11-26T11:19:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "the first hour and a half of gta 6 gameplay has been made available on pc via the ztrx compatibility layer",
