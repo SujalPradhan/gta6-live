@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T21:53:29+00:00",
- "started": "2026-11-26T21:53:25+00:00",
+ "updated": "2026-11-26T21:58:28+00:00",
+ "started": "2026-11-26T21:58:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T21:53:26+00:00"
+   "checked": "2026-11-26T21:58:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 28,
-   "checked": "2026-11-26T21:53:26+00:00"
+   "hits": 54,
+   "checked": "2026-11-26T21:58:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-26T21:53:27+00:00"
+   "hits": 55,
+   "checked": "2026-11-26T21:58:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T21:53:27+00:00"
+   "checked": "2026-11-26T21:58:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T21:53:27+00:00"
+   "checked": "2026-11-26T21:58:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T21:53:28+00:00"
+   "checked": "2026-11-26T21:58:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T21:53:28+00:00"
+   "checked": "2026-11-26T21:58:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-26T21:53:28+00:00"
+   "checked": "2026-11-26T21:58:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T21:53:28+00:00"
+   "checked": "2026-11-26T21:58:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T21:53:29+00:00"
+   "checked": "2026-11-26T21:58:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T21:53:29+00:00"
+   "checked": "2026-11-26T21:58:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T21:53:29+00:00"
+   "checked": "2026-11-26T21:58:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T21:53:29+00:00"
+   "checked": "2026-11-26T21:58:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T21:53:29+00:00"
+   "checked": "2026-11-26T21:58:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi causes major surge in spotify streams of a carly rae jepsen classic",
+   "title": "GTA VI causes major surge in Spotify streams of a Carly Rae Jepsen classic",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNF9rZm00U19Zd3ZwSUtINk9tRkJydlA0VktVX3BlX2NzX2oxZUpOY3JyR1pLZ3RhZTlwS0EyU3Y0LXR5THVCMWlFN25QZjluOV9UUGJjNjhhVmtybUNlYTJSV09td2hmYkJQTFE5Tk9tYzFVNGpPOTdYdFJpUEU2czhJbW1oOThJWVF1N1dkUEw2SVduTmp4SUhNYXhMek5XaktxcmN5bzlKTjJPYlJ5aUZtUURkZ3lF?oc=5",
+   "outlet": "Checkpoint Gaming",
+   "via": "Google News",
+   "published": "2026-11-26T21:52:15+00:00",
+   "seen": "2026-11-26T21:58:25+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
   {
    "id": "gta 6 s manni l perez reportedly says she gave almost a decade to lucia",
    "title": "GTA 6’s Manni L. Perez reportedly says she gave “almost a decade” to Lucia",
@@ -112,6 +124,18 @@
    "via": "Google News",
    "published": "2026-11-26T21:45:43+00:00",
    "seen": "2026-11-26T21:53:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "this jewelry store robbery in gta 6 is fucking amazing writer sol",
+   "title": "This jewelry store robbery in GTA 6 is fucking amazing 🔥 Writer: Sol",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93SWRLTWp3LUJxTDFfbHpzeTJzTXVSVFE4TUZ6QTNsOXI1bk9vUDNUSTZEYm5fZGJCbHNuY0Rudy1KWVBhVkJRUThXVm9nNldVcWRTSFdPeTJoVHFVRnREakZR?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-26T21:41:21+00:00",
+   "seen": "2026-11-26T21:58:25+00:00",
    "summary": "",
    "topic": "News",
    "record": false
