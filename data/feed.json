@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T15:11:13+00:00",
- "started": "2026-11-26T15:11:09+00:00",
+ "updated": "2026-11-26T15:16:16+00:00",
+ "started": "2026-11-26T15:16:12+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-26T15:11:10+00:00"
+   "hits": 100,
+   "checked": "2026-11-26T15:16:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-26T15:11:10+00:00"
+   "hits": 26,
+   "checked": "2026-11-26T15:16:13+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-26T15:11:11+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 56,
+   "checked": "2026-11-26T15:16:14+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 1,
-   "checked": "2026-11-26T15:11:11+00:00"
+   "hits": 4,
+   "checked": "2026-11-26T15:16:14+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:11:11+00:00"
+   "checked": "2026-11-26T15:16:14+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T15:11:11+00:00"
+   "checked": "2026-11-26T15:16:14+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-26T15:11:12+00:00"
+   "checked": "2026-11-26T15:16:15+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-26T15:11:12+00:00"
+   "checked": "2026-11-26T15:16:15+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:11:12+00:00"
+   "checked": "2026-11-26T15:16:15+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T15:11:12+00:00"
+   "checked": "2026-11-26T15:16:15+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T15:11:13+00:00"
+   "checked": "2026-11-26T15:16:16+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T15:11:13+00:00"
+   "checked": "2026-11-26T15:16:16+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:11:13+00:00"
+   "checked": "2026-11-26T15:16:16+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T15:11:13+00:00"
+   "checked": "2026-11-26T15:16:16+00:00"
   }
  },
  "items": [
@@ -115,6 +115,18 @@
    "summary": "The workers decided against unionizing in a ballot held in GTA 6's launch week.",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "gta 6 had biggest physical launch since 2019 in the uk",
+   "title": "GTA 6 Had Biggest Physical Launch Since 2019 in the UK",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTYtV0t6UktmcF9BbEhPNDZXcWlfckN6WTZMUnEyTFVWcjF0clpvRzhnVm1JWWRjYnIyQlh0ejR6MHZXRGVDdFMtMWxkLWVzWkYxYkNCUk9OcVRsZko3UjdkUzJvRlNfNFNCWE1ZeENQN0FUVEVpT1B0QmhjNkFfWjl4YUM4SnJYZXlaUUxYYjBhV2NkZ2MycDJybw?oc=5",
+   "outlet": "VGChartz",
+   "via": "Google News",
+   "published": "2026-11-26T15:08:02+00:00",
+   "seen": "2026-11-26T15:16:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
   },
   {
    "id": "gta 6 is it worth doing cal s fishing challenges",
@@ -198,6 +210,30 @@
    "seen": "2026-11-26T15:01:08+00:00",
    "summary": "",
    "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "how to get cut off tool in gta 6",
+   "title": "How to get Cut-Off Tool in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43YnBfRkg0bzdkMWdQLTJpbHdSLXFjTmFWdzFjQW5lVVRJdHBDY2M1ZWtZaHhkSlNVeXBmNzFKSFhsdURQelMzb0otUUlfOFpSYXBrNXdUcVNYd3BoSXRTRFR0X3RkSXNhMWxLRFdxbw?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-26T14:57:30+00:00",
+   "seen": "2026-11-26T15:16:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "internet rallies around woman trying to play gta 6 to honor her late husband",
+   "title": "Internet rallies around woman trying to play GTA 6 to honor her late husband",
+   "link": "https://www.dexerto.com/gta/internet-rallies-around-woman-trying-to-play-gta-6-to-honor-her-late-husband-3431496/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-26T14:54:19+00:00",
+   "seen": "2026-11-26T15:16:15+00:00",
+   "summary": "A woman says she wants to play Grand Theft Auto 6 to “honor” her late husband, but actually has the wrong console for it.",
+   "topic": "News",
    "record": false
   },
   {
