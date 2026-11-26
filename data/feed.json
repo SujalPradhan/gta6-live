@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T16:36:52+00:00",
- "started": "2026-11-26T16:36:48+00:00",
+ "updated": "2026-11-26T16:41:45+00:00",
+ "started": "2026-11-26T16:41:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T16:36:49+00:00"
+   "checked": "2026-11-26T16:41:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 27,
-   "checked": "2026-11-26T16:36:49+00:00"
+   "hits": 56,
+   "checked": "2026-11-26T16:41:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-26T16:36:49+00:00"
+   "hits": 57,
+   "checked": "2026-11-26T16:41:43+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T16:36:50+00:00"
+   "checked": "2026-11-26T16:41:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:36:50+00:00"
+   "checked": "2026-11-26T16:41:44+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T16:36:50+00:00"
+   "checked": "2026-11-26T16:41:44+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T16:36:50+00:00"
+   "checked": "2026-11-26T16:41:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T16:36:50+00:00"
+   "checked": "2026-11-26T16:41:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T16:36:51+00:00"
+   "checked": "2026-11-26T16:41:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:36:51+00:00"
+   "checked": "2026-11-26T16:41:45+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:36:52+00:00"
+   "checked": "2026-11-26T16:41:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T16:36:52+00:00"
+   "checked": "2026-11-26T16:41:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T16:36:52+00:00"
+   "checked": "2026-11-26T16:41:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T16:36:52+00:00"
+   "checked": "2026-11-26T16:41:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "all mandy scenes interactions in gta 6",
+   "title": "All Mandy Scenes & Interactions in GTA 6",
+   "link": "https://insider-gaming.com/mandy-scenes-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-26T16:35:38+00:00",
+   "seen": "2026-11-26T16:41:44+00:00",
+   "summary": "Even if you've not played GTA 6, there's a good chance you've heard about Mandy, and she appears a few times throughout the game. The post All Mandy Scenes & Interactions in GTA 6 appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "where to steal a gta 6 pegassi vitello",
+   "title": "Where to steal a GTA 6 Pegassi Vitello",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pegassi-vitello/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-26T16:34:44+00:00",
+   "seen": "2026-11-26T16:41:44+00:00",
+   "summary": "There are four key GTA 6 Pegassi Vitello locations you can head to either for yourself or for Randy's client",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 on xbox one is a remarkable feat according to analysis",
    "title": "GTA 6 on Xbox One is a ‘remarkable feat’, according to analysis",
@@ -906,6 +930,18 @@
    "seen": "2026-11-26T15:16:13+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "glitchy patches gta 6 player reports ps5 problems after 20 hours of play as other games keep crashing",
+   "title": "'Glitchy Patches': GTA 6 Player Reports PS5 Problems After 20 Hours of Play as Other Games Keep Crashing",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3NobFI5NEtvaVpCUG1hTnZ1VjY5TkloX3NOekUxR3UzbUhzT3c4ODl2ZzQtalhmOFlVLXVheXlhdGVxRlFUTzVlYXJDX243UzM5SUlqWnpXMWpCMTVxSzctczQ4Q3R2eTFGRDV6b0l4UWh2RDhTMzNtZ2JacTFydmhOWFlZM1pkTGZ1UV9XOFQyNjljUnpHV21kNFFENExjb0YwN1VKOThjbl9TcGFXNmJYTXpCWkg4a1pfWkYwcFhDS2pjMnc?oc=5",
+   "outlet": "inkl",
+   "via": "Google News",
+   "published": "2026-11-26T14:57:19+00:00",
+   "seen": "2026-11-26T16:41:43+00:00",
+   "summary": "",
+   "topic": "Outage",
    "record": false
   },
   {
@@ -3585,6 +3621,18 @@
    "seen": "2026-11-26T09:34:02+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "gta 6 publisher takes down 3 007 unofficial pc projects after 3 79b launch but modders refuse to back down",
+   "title": "GTA 6 Publisher Takes Down 3,007 Unofficial PC Projects After $3.79B Launch, but Modders Refuse to Back Down",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhuRE1saHBSZmtjc3ZRNU9HNzZOVkEwUi1uYjA0QV9xR2VfRl8xY1E1bGhFM0lYSlNkcjZtN01ZV1M4RkZEUU5ncF9mLW04S2JmY2RvTUJNQmdBT3FHVnJEaThlTjM1cDcwNER6VURweVNpblZtN2MzalZBY08tY1pfYV95dWJ1N1NaMUROSzhSWVQ2RHBGQUxiVEduN3lhbEgxOWNqY0hfUkpybElONmswQ3BQMlNNRWdPZV9qY19ZUkFGMklrV3NkeEg?oc=5",
+   "outlet": "inkl",
+   "via": "Google News",
+   "published": "2026-11-26T05:00:06+00:00",
+   "seen": "2026-11-26T16:41:43+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
