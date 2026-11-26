@@ -1,109 +1,169 @@
 {
- "updated": "2026-11-26T14:35:57+00:00",
- "started": "2026-11-26T14:35:55+00:00",
+ "updated": "2026-11-26T14:41:03+00:00",
+ "started": "2026-11-26T14:40:59+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-26T14:35:55+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-26T14:41:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-26T14:35:55+00:00"
+   "hits": 26,
+   "checked": "2026-11-26T14:41:00+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-26T14:35:56+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 58,
+   "checked": "2026-11-26T14:41:00+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-26T14:35:56+00:00"
+   "checked": "2026-11-26T14:41:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T14:35:56+00:00"
+   "checked": "2026-11-26T14:41:01+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T14:35:56+00:00"
+   "checked": "2026-11-26T14:41:01+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 17,
-   "checked": "2026-11-26T14:35:57+00:00"
+   "hits": 16,
+   "checked": "2026-11-26T14:41:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T14:35:57+00:00"
+   "checked": "2026-11-26T14:41:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-26T14:35:57+00:00"
+   "hits": 6,
+   "checked": "2026-11-26T14:41:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T14:35:57+00:00"
+   "checked": "2026-11-26T14:41:02+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T14:35:57+00:00"
+   "checked": "2026-11-26T14:41:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T14:35:57+00:00"
+   "checked": "2026-11-26T14:41:03+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T14:35:57+00:00"
+   "checked": "2026-11-26T14:41:03+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T14:35:57+00:00"
+   "checked": "2026-11-26T14:41:03+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to find and complete the biker hideout illegal operation in gta 6 all key valuables",
+   "title": "How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0MG5ORGtRWFM2RF9JSjlZb09KWEV1RjhJcl9CM0x2ZG0tcl9xeWYwM1phQzZMU1ptZXhlMzRvQlFmelprdzI4UHVEbUZUb3A1ankwNktDMFFYdFBSejVpekh0S2t0Vnp6Wnk5Y1NUTnBoYVE?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-26T14:36:21+00:00",
+   "seen": "2026-11-26T14:41:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 the 5 best early game cars and where to find them",
+   "title": "GTA 6: The 5 best early-game cars and where to find them",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tQ2tlR2JlR1E2dGNUVDRJWUZNNzBCYXRSSTRHVFRRRmNjNEpSQW45MHZkS1d1R3NGdm11MEJzOFpkdndiX1dELUY1YVkxQkJGNV8wQnRZLVg4T2VNSmhQSDdTSXBOS1dVZnFoNk9fSG1yUndvbXc?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-26T14:32:44+00:00",
+   "seen": "2026-11-26T14:41:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 runs at 25 fps on pc",
+   "title": "GTA 6 runs at 25 FPS on PC",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5N3VSUmhjaTFIeFBYQVJwVm5uakhfSzJpaENvVE5hb1ZudVNGZW9sR0JOUWtMYWhGdVl5V3JoUmc4TFpSM2NGdUVNLW9kV1N1aUVFTDFoR210NDRDLTRWRTVOWlU?oc=5",
+   "outlet": "mobidevices.com",
+   "via": "Google News",
+   "published": "2026-11-26T14:30:29+00:00",
+   "seen": "2026-11-26T14:41:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 players have found a cheeky method to quickly steal atms",
+   "title": "GTA 6 Players Have Found a Cheeky Method to Quickly Steal ATMs",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWY0ZGlnNGFWRW9mYWp5UUZUTkxNekFUeXB4MXNSZFNjQndnejNkUS12S0VYdFhsOTBZT0VyNjF0VFdKeEpmVjVhR0ZQRXl2d09XZ3oyZHc4eWdhaVN3QTNKRFo0dTFQbXp6YjU5bG5RTmIyNW9wamxRWkVCNkxwMXdHRzlGX2VvdTY0aWFTYWhpcE83VUI1ZUw3ZFR5Qmk1TG1OLUdodXowQnUxT0d4ZDJB?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-26T14:30:13+00:00",
+   "seen": "2026-11-26T14:41:00+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "i love that creating fresh looks is more important in gta 6 than any game before",
+   "title": "I love that Creating Fresh Looks Is More Important in GTA 6 Than Any Game Before",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSndRdzJEZHEwdWptVjF5aWltaGtkRC1iRmN3V3l6SWEtemFEcEpJcXk2bS02MExwMHBxMU5NY0hDbFltbGxzRmJGSlk3b1FxdEZFcHQyUFRNRDRZenZ2a2JqQmlWSllFYVZYQ1hrVThUaEN3ZF9rQnhXaFVyY2tWaldHX1kzYXFQdm9LNWNkNHdvZFNfQjEtWDBfZWpGdw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-26T14:30:00+00:00",
+   "seen": "2026-11-26T14:41:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 find the cursed knife and ghost ship easter egg walkthrough",
    "title": "GTA 6: Find the Cursed Knife and Ghost Ship easter egg walkthrough",
