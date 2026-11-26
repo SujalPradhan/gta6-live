@@ -1,109 +1,145 @@
 {
- "updated": "2026-11-26T13:00:50+00:00",
- "started": "2026-11-26T13:00:25+00:00",
+ "updated": "2026-11-26T13:05:28+00:00",
+ "started": "2026-11-26T13:05:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-26T13:00:34+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-26T13:05:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-26T13:00:43+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 26,
+   "checked": "2026-11-26T13:05:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-26T13:00:49+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 56,
+   "checked": "2026-11-26T13:05:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-26T13:00:49+00:00"
+   "checked": "2026-11-26T13:05:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T13:00:49+00:00"
+   "checked": "2026-11-26T13:05:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-26T13:00:49+00:00"
+   "checked": "2026-11-26T13:05:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T13:00:49+00:00"
+   "checked": "2026-11-26T13:05:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T13:00:49+00:00"
+   "checked": "2026-11-26T13:05:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T13:00:49+00:00"
+   "checked": "2026-11-26T13:05:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T13:00:49+00:00"
+   "checked": "2026-11-26T13:05:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T13:00:50+00:00"
+   "checked": "2026-11-26T13:05:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T13:00:50+00:00"
+   "checked": "2026-11-26T13:05:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T13:00:50+00:00"
+   "checked": "2026-11-26T13:05:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T13:00:50+00:00"
+   "checked": "2026-11-26T13:05:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi racks up 420 million hours watched in first week across streaming platforms",
+   "title": "GTA VI racks up 420 million hours watched in first week across streaming platforms",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBHYmsxbFVac0xSS0FILUtIOENqd1lPUUpSeXJWQVhqQlNjMDRoZHk0WWl5ZTR6b1BhU2o4eWFkZXJNa2ZmNjFjdy1fYzJJZ21SNlZoVnd3X3d5RFZaVUxxQk8yNG1BSUVqOFFSUndsSjhPdGFzdVotRjVxb2Q5aWlSSl9SOExHNHh3SnVTRl9zOFdYRlNjWTJGU0NmTWU2V3RuWndvRjQ?oc=5",
+   "outlet": "GamesBeat",
+   "via": "Google News",
+   "published": "2026-11-26T13:03:45+00:00",
+   "seen": "2026-11-26T13:05:25+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
+  {
+   "id": "gta 6 s interactions have three different animations depending on number of items being carried",
+   "title": "GTA 6’s Interactions Have Three Different Animations Depending on Number of Items Being Carried",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSnh4WHFTUE5UOXo1OUpDbk51UFpMNXUycTN3akNpMTRrX1dGcjR4TE13MmVkeWlFbGRnWHJQU2Y3cVllQXVUMTVlLU1uWnlEaF9VR2g2WnVDN3A5ckk0eDhTQWtjS1E5bTlIVXNDUnNFSGVPeGRTQ1BJcUMtUGNJSnVRWndrbTA1VVZoRGxiZU9LNVNybG8yZmQ1T3ZEZFBPXzBveXJBZV80eWRia1huMlFEUW5ReTJj?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-26T13:03:14+00:00",
+   "seen": "2026-11-26T13:05:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 s empathy pitch still leaves room for being a menace rockstar says",
+   "title": "GTA 6's empathy pitch still leaves room for being a menace, Rockstar says",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tYTRJUGhOb25zeVV2VWR2bzNfTERWcFpOQnhlYlllemhMSTFfYUxjWWlaME5hRjVfUnF2QllPNEN2VDVFNWFYcERxZTl3NGJP?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-26T13:02:30+00:00",
+   "seen": "2026-11-26T13:05:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 secret mission in capri how to find and complete the hidden mission",
    "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
@@ -129,6 +165,18 @@
    "record": false
   },
   {
+   "id": "gta 6 chapter 4 mission list",
+   "title": "GTA 6 Chapter 4 Mission List",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUdBZVFiczF6WjFMVGtxdnBsQnZXbVNDd3lSYTBBWmdGLVZEYzFMVlA3SDlhWERQUDFfekhiNFZGT2ItVnBXWnJVMzA2SmljYjh4dzM0MW1PakkyZTNRZzhXYXZZaFBSOUU2YjdzWHhhaFZTSlp6b2Q4dTVkSGdGTEZOZVlacm9HaTNkakNuQldrZlJfbjRRbEdDVnUzcjQ?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-26T12:56:50+00:00",
+   "seen": "2026-11-26T13:05:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "how to register advanced tracker cars in gta 6 keep stolen cars remove all trackers",
    "title": "How To Register Advanced Tracker Cars in GTA 6—Keep Stolen Cars & Remove All Trackers",
    "link": "https://insider-gaming.com/register-advanced-tracker-cars-gta-6/",
@@ -149,6 +197,18 @@
    "published": "2026-11-26T12:54:00+00:00",
    "seen": "2026-11-26T13:00:49+00:00",
    "summary": "You need a winched vehicle to steal a GTA 6 ATM, and you need to know how to escape with one",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "does gta 6 run better on ps5 or xbox series x s",
+   "title": "Does GTA 6 run better on PS5 or Xbox Series X/S?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY09wMTIybFVFejZCX1NkcVdGOGNHQ1VCZnFTX2hLY2RXeWNpMHBlcjNIUWhhZ0htbkp4cVVwUlhVNERqSGJOZHNxS3Y5QkVackN3bmVyQ0dkVkQtYVhnV0w3UVNYRHE2QnhwYldMbG1CWVRpdGQ3V1dmRUZMNjZlYTFIWXFBLTJvNFczbGozMWY?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-26T12:51:51+00:00",
+   "seen": "2026-11-26T13:05:25+00:00",
+   "summary": "",
    "topic": "News",
    "record": false
   },
