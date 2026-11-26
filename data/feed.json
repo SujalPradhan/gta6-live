@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T16:46:49+00:00",
- "started": "2026-11-26T16:46:43+00:00",
+ "updated": "2026-11-26T16:51:52+00:00",
+ "started": "2026-11-26T16:51:45+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,114 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-26T16:46:44+00:00"
+   "hits": 100,
+   "checked": "2026-11-26T16:51:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-26T16:46:44+00:00"
+   "hits": 26,
+   "checked": "2026-11-26T16:51:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-26T16:46:45+00:00"
+   "hits": 56,
+   "checked": "2026-11-26T16:51:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T16:46:45+00:00"
+   "checked": "2026-11-26T16:51:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:46:45+00:00"
+   "checked": "2026-11-26T16:51:47+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T16:46:47+00:00"
+   "checked": "2026-11-26T16:51:50+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T16:46:48+00:00"
+   "checked": "2026-11-26T16:51:50+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T16:46:48+00:00"
+   "checked": "2026-11-26T16:51:51+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T16:46:48+00:00"
+   "checked": "2026-11-26T16:51:51+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:46:49+00:00"
+   "checked": "2026-11-26T16:51:51+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:46:49+00:00"
+   "checked": "2026-11-26T16:51:52+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T16:46:49+00:00"
+   "checked": "2026-11-26T16:51:52+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-26T16:46:49+00:00"
+   "hits": 5,
+   "checked": "2026-11-26T16:51:52+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T16:46:49+00:00"
+   "checked": "2026-11-26T16:51:52+00:00"
   }
  },
  "items": [
+  {
+   "id": "hobbyists and ai vibe coders have gta 6 running on windows pc days after launch how is it possible and what comes next",
+   "title": "Hobbyists and AI vibe coders have GTA 6 running on Windows PC days after launch — How is it possible, and what comes next?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0k5VmlWd1JSUFVnUHZaUkxpSEx0ek9YLWZFVG1WZll2Zjl0akE2a25nVkV5WHIwZE5KZ0NmemttV1hIN0lmcmZtMjBuU25EU1dwNHZOMHZXNll4R2puUy16MmtnZFFxSExMLVk5Qm1jSWx2WkFWeXlsbWxBYzlZZDFMMUJsVlFOOS0xT0pxMF9VQQ?oc=5",
+   "outlet": "Windows Central",
+   "via": "Google News",
+   "published": "2026-11-26T16:43:39+00:00",
+   "seen": "2026-11-26T16:51:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 all secret radio stations and how to unlock them",
    "title": "GTA 6: All Secret Radio Stations and how to unlock them",
@@ -340,6 +352,18 @@
    "via": "Google News",
    "published": "2026-11-26T16:02:38+00:00",
    "seen": "2026-11-26T16:11:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "why the gta 6 team photo became a flashpoint for the gaming industry s diversity problem",
+   "title": "Why The GTA 6 Team Photo Became A Flashpoint For The Gaming Industry's Diversity Problem",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wTmtVLW41YW5KcktXNERYT0VvVUxGQ3c2bzRMX3RFT0pEZS0xOHNYVm0wUUdveXpadnNETEFJVXZaRHBfVWZnMUYtaEF2dHRLaXlfaDFlUTRnSmRiYXlreHRnUkRyajBUS0VtcVJVbw?oc=5",
+   "outlet": "Yahoo Lifestyle Canada",
+   "via": "Google News",
+   "published": "2026-11-26T16:02:36+00:00",
+   "seen": "2026-11-26T16:51:46+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -1209,6 +1233,18 @@
    "record": false
   },
   {
+   "id": "gta 6 truffade thrax how to get andrew node s supercharged version",
+   "title": "GTA 6 Truffade Thrax: How to get Andrew Node's supercharged version",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVREYXIzdnU3cXBsTEl4dDJWTmFkejhJODVoVHBMNm1TOG4xSDY0TFBoZUdWc2dVaDFQX0dGTVpxbFJWYU9VTlJtMklWX3kteGVwYmE0VWtEdkxYaTRKaUhSZ1ptMVVXcFRNSE40NFNLendWcEJ5LWE0eDFxaFdrVTZjTGR2cmd0WGU5NlIzc0NkX05KX3c?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-26T14:37:19+00:00",
+   "seen": "2026-11-26T16:51:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "how to find and complete the biker hideout illegal operation in gta 6 all key valuables",
    "title": "How to Find and Complete the Biker Hideout Illegal Operation in GTA 6—All Key Valuables",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0MG5ORGtRWFM2RF9JSjlZb09KWEV1RjhJcl9CM0x2ZG0tcl9xeWYwM1phQzZMU1ptZXhlMzRvQlFmelprdzI4UHVEbUZUb3A1ankwNktDMFFYdFBSejVpekh0S2t0Vnp6Wnk5Y1NUTnBoYVE?oc=5",
@@ -1360,6 +1396,18 @@
    "via": "Google News",
    "published": "2026-11-26T14:13:51+00:00",
    "seen": "2026-11-26T14:30:53+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "rockstar tells vgc why gta 6 s chainsaws are strictly look don t touch",
+   "title": "Rockstar tells VGC why GTA 6’s chainsaws are strictly look, don’t touch",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JeVZWemJ6V2JHRjdsdElBZjNCSGIyeVJXR1lEeUVWM0tNc2NZd2FiYnhkSzhHYnl5UWlzZEM0Q2x3ZGxuUTNF?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-26T14:13:49+00:00",
+   "seen": "2026-11-26T16:51:46+00:00",
    "summary": "",
    "topic": "News",
    "record": false
