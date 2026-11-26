@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T05:17:39+00:00",
- "started": "2026-11-26T05:17:33+00:00",
+ "updated": "2026-11-26T05:22:43+00:00",
+ "started": "2026-11-26T05:22:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T05:17:34+00:00"
+   "checked": "2026-11-26T05:22:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 31,
-   "checked": "2026-11-26T05:17:34+00:00"
+   "hits": 50,
+   "checked": "2026-11-26T05:22:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 68,
-   "checked": "2026-11-26T05:17:34+00:00"
+   "checked": "2026-11-26T05:22:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T05:17:35+00:00"
+   "checked": "2026-11-26T05:22:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T05:17:35+00:00"
+   "checked": "2026-11-26T05:22:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T05:17:35+00:00"
+   "checked": "2026-11-26T05:22:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T05:17:35+00:00"
+   "checked": "2026-11-26T05:22:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T05:17:36+00:00"
+   "checked": "2026-11-26T05:22:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T05:17:36+00:00"
+   "checked": "2026-11-26T05:22:40+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T05:17:36+00:00"
+   "checked": "2026-11-26T05:22:40+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T05:17:36+00:00"
+   "checked": "2026-11-26T05:22:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T05:17:37+00:00"
+   "checked": "2026-11-26T05:22:41+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T05:17:37+00:00"
+   "checked": "2026-11-26T05:22:41+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T05:17:37+00:00"
+   "checked": "2026-11-26T05:22:41+00:00"
   }
  },
  "items": [
+  {
+   "id": "south park season finale drops kenny into grand theft auto vi as south america comes clean",
+   "title": "‘South Park’ Season Finale Drops Kenny Into ‘Grand Theft Auto VI’ as South America Comes Clean",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnJnUVVkcWx2S2djMllvN3ZHMTZXZkZxQVBiVmROSjlPZmpUcVFvbkhzc19QbFg5MjFGTFpZMHZudVdWNmRER2JWWEhqRlctU0M3MWtLMFJtLVl0M0dBOENzMF9ocE1qRVZobWpOdDkzZDU1RzM4cUxoZVRzODlHM1VVVGhTTDIxSEs0aUtGaEZNTkE2YXQ2ejhmbGtkR3RJdE1Yd3N2RHlKbmZkbGdZ?oc=5",
+   "outlet": "The Hollywood Reporter",
+   "via": "Google News",
+   "published": "2026-11-26T05:16:05+00:00",
+   "seen": "2026-11-26T05:22:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on South Park season finale featuring Kenny in Grand Theft Auto VI with South America coming clean."
+  },
   {
    "id": "gta 6 second missing person",
    "title": "GTA 6 - Second Missing Person",
