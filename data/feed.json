@@ -1,109 +1,181 @@
 {
- "updated": "2026-11-26T15:31:25+00:00",
- "started": "2026-11-26T15:31:22+00:00",
+ "updated": "2026-11-26T15:36:20+00:00",
+ "started": "2026-11-26T15:36:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 99,
-   "checked": "2026-11-26T15:31:23+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-26T15:36:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 26,
-   "checked": "2026-11-26T15:31:23+00:00"
+   "hits": 55,
+   "checked": "2026-11-26T15:36:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-26T15:31:24+00:00"
+   "hits": 54,
+   "checked": "2026-11-26T15:36:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:31:24+00:00"
+   "checked": "2026-11-26T15:36:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:31:24+00:00"
+   "checked": "2026-11-26T15:36:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T15:31:24+00:00"
+   "checked": "2026-11-26T15:36:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-26T15:31:24+00:00"
+   "checked": "2026-11-26T15:36:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-26T15:31:24+00:00"
+   "checked": "2026-11-26T15:36:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T15:31:25+00:00"
+   "checked": "2026-11-26T15:36:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T15:31:25+00:00"
+   "checked": "2026-11-26T15:36:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-26T15:31:25+00:00"
+   "hits": 8,
+   "checked": "2026-11-26T15:36:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T15:31:25+00:00"
+   "checked": "2026-11-26T15:36:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:31:25+00:00"
+   "checked": "2026-11-26T15:36:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T15:31:25+00:00"
+   "checked": "2026-11-26T15:36:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "circana confirms the grand theft auto 6 video game has boosted console sales",
+   "title": "Circana Confirms the Grand Theft Auto 6 Video Game Has Boosted Console Sales",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzkxeDVpRVJsaUJFXzhueDVFaXVYbU1TNDR3M3VyZERYOFExRW9nakktXzZHWEpiSElRLXQ5czRXNFZnM19ISkFBVG1LMDhrWDhUdkdmS2htMUg1UFBCckdQdE9HR2VIeGNPNDNYWUc5cDl1aVlseUtMaEhNZXd2dFg2MVJOOXB0cFNELTQyZGQ2N3lTS19zSVpNYlBKZHFyUFJpWWlTeDhKUTZnb0NxekE3VzkwSzJ4?oc=5",
+   "outlet": "KeenGamer",
+   "via": "Google News",
+   "published": "2026-11-26T15:34:07+00:00",
+   "seen": "2026-11-26T15:36:18+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 cast who plays jason and lucia and who else is in it",
+   "title": "GTA 6 Cast: Who Plays Jason and Lucia, and Who Else Is In It",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GbFRacm1wam5mUGd1bEt2MkNYSndtbUVwcnRvb003V3NNS3VsYU1GRHl1WVdFTzBwNVoxN09Oc0JrcUhjekVob1p4SjJidFNZWHlCX0xhNjB5RGVVQUx3ckpXeXBPbHdGelE?oc=5",
+   "outlet": "MNEEMO",
+   "via": "Google News",
+   "published": "2026-11-26T15:33:30+00:00",
+   "seen": "2026-11-26T15:36:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "does gta 6 have a point of no return gta 6 ending mission explained",
+   "title": "Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained",
+   "link": "https://insider-gaming.com/is-there-point-no-return-in-gta-6/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-26T15:33:28+00:00",
+   "seen": "2026-11-26T15:36:19+00:00",
+   "summary": "Does GTA 6 let you know when you're about to finish the game with a 'point of no return' prompt? Find out here. The post Does GTA 6 Have a Point of No Return? GTA 6 Ending Mission, Explained appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 reportedly sets massive livestreaming record watched more in its first week than elden ring diablo 4 valorant and lost ark combined",
+   "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNFNrNzAwSXU5MWlCeDhDbm51Qk4xQ1BhMVc5aEItQzJsZVhNRV9JVGtqSkYxX0F1MExKMFg2TmlPNUlZb19yZExqbDFoNFJNZ0F0dllHMWdQX3E3MkpsZHc1RnRBUnFKUS14WGphdi1xVWxXQVZ5eGw0Q01OSUhTb3lB?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-26T15:32:20+00:00",
+   "seen": "2026-11-26T15:36:18+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true
+  },
+  {
+   "id": "gta 6 gives ps5 a very rare win over switch 2 in japan",
+   "title": "GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
+   "link": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
+   "outlet": "Push Square",
+   "via": "Push Square",
+   "published": "2026-11-26T15:30:00+00:00",
+   "seen": "2026-11-26T15:36:19+00:00",
+   "summary": "Score. At this point, it’s well known that Switch 2 is by far the market leader in Japan. While the PS5 still commands some marketshare, it gets dominated by the Nintendo machine on a weekly basis. Read the full article on pushsquare.com",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "xbox console sales get a huge boost in the uk while gta 6 breaks records for physical games",
+   "title": "Xbox Console Sales Get A Huge Boost In The UK, While GTA 6 Breaks Records For Physical Games",
+   "link": "https://www.purexbox.com/news/2026/11/xbox-console-sales-get-a-huge-boost-in-the-uk-while-gta-6-breaks-records-for-physical-games",
+   "outlet": "Pure Xbox",
+   "via": "Pure Xbox",
+   "published": "2026-11-26T15:30:00+00:00",
+   "seen": "2026-11-26T15:36:20+00:00",
+   "summary": "Series X and S sales received their biggest jump since 2024. We've got some new data coming out about the UK games market in November 2026 today, and unsurprisingly, it's a market that's been absolutely dominated by the launch of GTA 6 last week. According to the folks at The Game Business , sales of the Xbox Series X and Xbox Series S rose by a whopping 75% during GTA 6's launch week, which repre",
+   "topic": "Sales",
+   "record": true
+  },
   {
    "id": "rockstar games employees vote against union recognition",
    "title": "Rockstar Games employees vote against union recognition",
@@ -2911,6 +2983,18 @@
    "ai_summary": "GTA 6 becomes the biggest PlayStation launch ever with over 39 million players."
   },
   {
+   "id": "gta 6 has been out for a week and the internet has been busy",
+   "title": "GTA 6 Has Been Out For A Week, And The Internet Has Been Busy",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVkF3U0dDVFpfS3ZWWTV2QlViVHZCT1pJZ1lhQU9aOFRqeXVvcFJnSVRtTERoMzE1WkxqLVhzUGRhSDNRS0JqVF9LRzlkUDdRQl8xMUZZejd2aHFVckJFSjJWMGl5LWpzRUlWek8zRy1TWjI0dVRQU180aEh4TGFQTm9OQ1JpUkhTM0NoZjFlc2RXWXB2eWdkX0ZHcW9icjlvbnp2UQ?oc=5",
+   "outlet": "Gizbot",
+   "via": "Google News",
+   "published": "2026-11-26T05:45:16+00:00",
+   "seen": "2026-11-26T15:36:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "all missing persons locations in gta 6",
    "title": "All Missing Persons locations in GTA 6",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeDA0UEN5aGI5eTBvZGJWbW5XeHdQMUJmR1E3TkZ5Q2x6cHlVZUlvWnkyWUxqQ3ZwcEZPQlRDdWZNZF9ERW9TRXRJMGZVQTNMcEV3YXdfMUU5cHFpZWdvaFFSZ2hSSlNqY1RlcE9XVzc3aUF4Vk5sOWdtSDVPbndtcmJsMWtYQQ?oc=5",
@@ -3476,6 +3560,18 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6’s in-game sports cards are becoming real collectibles, with Panini packs arriving in December."
+  },
+  {
+   "id": "gta 6 game dump surfaces on ps5 jailbreak raising piracy concerns",
+   "title": "GTA 6 Game Dump Surfaces on PS5 Jailbreak, Raising Piracy Concerns",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3BUMy0xYThQOWNtUVFtZEFqcGN3alFhYmJnZkd4aVdNVGZQbHNCakJZWFI2TmtNNGpVcUR3VHRReXFvcXZ5MFRNREZmYlFuVlRVdmxRZEN5b3ZGSHVkbkxDOUFJWjhxSjVtX2tnQlNZbEgzZUg5YTJwc1JIS1dEUk5ldlVHU1k0WTdmNXRLZGlJUUNLTVE?oc=5",
+   "outlet": "Udaipur Kiran",
+   "via": "Google News",
+   "published": "2026-11-26T02:06:10+00:00",
+   "seen": "2026-11-26T15:36:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "best black friday ps5 game deals since you already bought gta vi",
