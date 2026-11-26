@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T06:58:18+00:00",
- "started": "2026-11-26T06:58:13+00:00",
+ "updated": "2026-11-26T07:03:25+00:00",
+ "started": "2026-11-26T07:03:20+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T06:58:13+00:00"
+   "checked": "2026-11-26T07:03:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 31,
-   "checked": "2026-11-26T06:58:13+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T07:03:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-26T06:58:14+00:00"
+   "hits": 53,
+   "checked": "2026-11-26T07:03:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T06:58:14+00:00"
+   "checked": "2026-11-26T07:03:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T06:58:14+00:00"
+   "checked": "2026-11-26T07:03:22+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T06:58:14+00:00"
+   "checked": "2026-11-26T07:03:22+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T06:58:15+00:00"
+   "checked": "2026-11-26T07:03:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T06:58:15+00:00"
+   "checked": "2026-11-26T07:03:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T06:58:15+00:00"
+   "checked": "2026-11-26T07:03:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T06:58:15+00:00"
+   "checked": "2026-11-26T07:03:22+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T06:58:15+00:00"
+   "checked": "2026-11-26T07:03:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T06:58:15+00:00"
+   "checked": "2026-11-26T07:03:23+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T06:58:15+00:00"
+   "checked": "2026-11-26T07:03:23+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T06:58:16+00:00"
+   "checked": "2026-11-26T07:03:23+00:00"
   }
  },
  "items": [
@@ -155,6 +155,19 @@
    "topic": "News",
    "record": true,
    "ai_summary": "The story notes a DMCA takedown involving one repository and over two thousand forks, with no GTA 6 PC release date mentioned."
+  },
+  {
+   "id": "kotaku gta 6 s fake brands are a mixed bag essay says",
+   "title": "Kotaku: GTA 6’s fake brands are a mixed bag, essay says",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlhiVEM5S1NSQlhIbTk4LWd0QVl1ZHA4X04tUk9vQ0Y3ZmpqeHMwY01yd0dLVE9wbFRVT1VubDZjT3B3aXVvR1Nka1lxc2ZadUdqQThzZ3RBZUhnNlRndWRLVm9TNmVSc0JISUE0bng2TDc3TDhTSHhuSWpxdnVMNmNfRQ?oc=5",
+   "outlet": "A 90s Kid",
+   "via": "Google News",
+   "published": "2026-11-26T06:24:50+00:00",
+   "seen": "2026-11-26T07:03:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Kotaku says GTA 6’s fake brands are a mixed bag, according to an essay."
   },
   {
    "id": "rockstar raises the bar with grand theft auto vi",
@@ -5056,6 +5069,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports that Rockstar Games’ parent company secured a takedown of thousands of GTA VI copies on GitHub after game files leaked."
+  },
+  {
+   "id": "how india s forgotten music is finding global fame rupa biswas disco jazz gta 6",
+   "title": "How India’s Forgotten Music Is Finding Global Fame | Rupa Biswas, Disco Jazz & GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUxGdTU5TVlRQ1E0bnNjcXMyNzJjODM0QWxHS09HTzFOVGxDYkNoNFVMQ19FUEpLZFUtaGpFX0o2YTFBWmdkLWtfdlJnVzYtZ0w0N0h0LUdpaGwtNkxQRDVRcGwtNXc3MmNVVnlTS0xHdm9SY3pDQUdfcTFod2VVYURvQjdSVUdjVW9OZ0NRRERFM1MwbHJ1ZEUtcTdqc3ZSWnJCZUVCM040ZlBCR2RxdThiQl93WlhIQ09CWFpBeHpZME1kaXBfR1N4QTFac3JackphRnpzU0FUZw?oc=5",
+   "outlet": "The Sunday Guardian",
+   "via": "Google News",
+   "published": "2026-11-25T13:54:32+00:00",
+   "seen": "2026-11-26T07:03:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The Sunday Guardian notes India's forgotten music is finding global fame alongside GTA 6."
   },
   {
    "id": "how to listen to the radio while walking in gta 6",
