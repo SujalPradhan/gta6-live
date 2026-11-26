@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T09:24:06+00:00",
- "started": "2026-11-26T09:24:01+00:00",
+ "updated": "2026-11-26T09:29:07+00:00",
+ "started": "2026-11-26T09:29:03+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T09:24:02+00:00"
+   "checked": "2026-11-26T09:29:03+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 29,
-   "checked": "2026-11-26T09:24:02+00:00"
+   "hits": 51,
+   "checked": "2026-11-26T09:29:04+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-26T09:24:03+00:00"
+   "checked": "2026-11-26T09:29:04+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T09:24:03+00:00"
+   "checked": "2026-11-26T09:29:04+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T09:24:03+00:00"
+   "checked": "2026-11-26T09:29:04+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T09:24:03+00:00"
+   "checked": "2026-11-26T09:29:05+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T09:24:04+00:00"
+   "checked": "2026-11-26T09:29:05+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T09:24:04+00:00"
+   "checked": "2026-11-26T09:29:05+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T09:24:04+00:00"
+   "checked": "2026-11-26T09:29:05+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T09:24:05+00:00"
+   "checked": "2026-11-26T09:29:06+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T09:24:05+00:00"
+   "checked": "2026-11-26T09:29:06+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T09:24:05+00:00"
+   "checked": "2026-11-26T09:29:06+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T09:24:06+00:00"
+   "checked": "2026-11-26T09:29:06+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T09:24:06+00:00"
+   "checked": "2026-11-26T09:29:07+00:00"
   }
  },
  "items": [
+  {
+   "id": "seven beautiful places to visit in gta vi from mountains trails to an afternoon at the zoo",
+   "title": "Seven beautiful places to visit in GTA VI, from mountains trails to an afternoon at the zoo",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmJzd045cnY3N1B4dVY1YVYteFRraUc1VGZaRVFMUFl3VVBlUFZoVlRiUGs1bzY0UUdtSmVkUmN2bGpKYm1HdEVZLURla1NDVG8zcGJIeTRfYkFtOEYwOE5qcmdzMloteWZKQklOdDE4TnVkVTBjRUFoZVViZF92dHNTMzJJWi1yT2VZeXh5VWtYTUdISkotTDJELTNrUG1iakNNX05qMmszRnNLZXVST0VYZ0xXdDF3Q0pZZEtfdG5iWDQ3TnhLZmJLWWZQSmRaY0E?oc=5",
+   "outlet": "The Guardian",
+   "via": "Google News",
+   "published": "2026-11-26T09:22:00+00:00",
+   "seen": "2026-11-26T09:29:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 recomp hits 90 progress and here s what that means",
+   "title": "GTA 6 recomp hits 90% progress – and here's what that means",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDc2d0ROQmRNLXloZFR6QWE5TFNsRktCV1pOR2xGTkxPZTdRYXR1b0VKWU5hTEttMkdoblZVSUxNOWtNX0ZqNmMzZ1gyN1BtM2t0eW9xYWFnTWV4ckM2NkZyQlNRQ2QtOThWZVUzQ2NleDNJM1VRUlAyQ0c0MEExVUV1elRfa2dDZWFIVUx6bk14REFlb1JXcEd3N1Z5VDJRTU5F?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-26T09:20:00+00:00",
+   "seen": "2026-11-26T09:29:03+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta vi appears to run on a pc with an rx 580",
    "title": "GTA VI appears to run on a PC with an RX 580",
