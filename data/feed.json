@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T15:26:18+00:00",
- "started": "2026-11-26T15:26:14+00:00",
+ "updated": "2026-11-26T15:31:25+00:00",
+ "started": "2026-11-26T15:31:22+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,138 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-26T15:26:15+00:00"
+   "hits": 99,
+   "checked": "2026-11-26T15:31:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-26T15:26:15+00:00"
+   "hits": 26,
+   "checked": "2026-11-26T15:31:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-26T15:26:16+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T15:31:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:26:16+00:00"
+   "checked": "2026-11-26T15:31:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:26:16+00:00"
+   "checked": "2026-11-26T15:31:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T15:26:16+00:00"
+   "checked": "2026-11-26T15:31:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-26T15:26:17+00:00"
+   "checked": "2026-11-26T15:31:24+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-26T15:26:17+00:00"
+   "checked": "2026-11-26T15:31:24+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-26T15:26:17+00:00"
+   "hits": 8,
+   "checked": "2026-11-26T15:31:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T15:26:18+00:00"
+   "checked": "2026-11-26T15:31:25+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T15:26:18+00:00"
+   "checked": "2026-11-26T15:31:25+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T15:26:18+00:00"
+   "checked": "2026-11-26T15:31:25+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:26:18+00:00"
+   "checked": "2026-11-26T15:31:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T15:26:18+00:00"
+   "checked": "2026-11-26T15:31:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar games employees vote against union recognition",
+   "title": "Rockstar Games employees vote against union recognition",
+   "link": "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-26T15:29:00+00:00",
+   "seen": "2026-11-26T15:31:24+00:00",
+   "summary": "Rockstar Games employees have voted against official recognition of the Rockstar Game Workers Union, with 93.2 percent of staff participating in the vote. Read more",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to find and complete the farm fix meth lab illegal operation in gta 6 all key valuables",
+   "title": "How to Find and Complete the Farm Fix Meth Lab Illegal Operation in GTA 6—All Key Valuables",
+   "link": "https://insider-gaming.com/gta-6-farm-fix-meth-lab-all-key-valuables/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-26T15:27:31+00:00",
+   "seen": "2026-11-26T15:31:25+00:00",
+   "summary": "Here’s a guide on how to find the Farm Fix Meth Lab illegal operation in GTA 6 and grabbing all it’s key valuables. The post How to Find and Complete the Farm Fix Meth Lab Illegal Operation in GTA 6—All Key Valuables appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "the gta vi physical edition has broken sales records in europe",
+   "title": "The GTA VI physical edition has broken sales records in Europe",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTVuTmZVeFhPY2N2NmZZQVN3Q0hDWFhaeWpiUzJrV2hLc0s5bmIxekU4MGRKVV9uaW9sUWlIdUR0VDlOM3h2RUUxeHZ0ZkdVdVgxd3BsbVFoUTNUc3hXb1YyaEpFU2xBZkZsSnR6MXhQNmpmLTB3UnVXN0hURFRsTmJRMlhUT3VocGJ1cVZtTEgtd0RPQTVqdHY1RWdwN1dRdy1GRUNlSXJYcjMtNnJHRGpn?oc=5",
+   "outlet": "Instant Gaming News",
+   "via": "Google News",
+   "published": "2026-11-26T15:26:32+00:00",
+   "seen": "2026-11-26T15:31:23+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
+  },
   {
    "id": "16gb of vram that s the real issue at the moment specs for unofficial gta 6 ports are causing some pc gamers to panic but they re missing th",
    "title": "'16GB of VRAM, that's the real issue at the moment': specs for unofficial GTA 6 ports are causing some PC gamers to panic — but they're missing the point",
@@ -186,6 +222,18 @@
    "seen": "2026-11-26T15:26:15+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "how to find the jet ski dog in gta 6",
+   "title": "How to find the Jet Ski Dog in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDSHhMSVVCb1ZhOEdLemlKN25TZ3F2OWN5bE1NN2RvQ0JORmUxUm5sSm9nelFoMjVabXNKeUg1X2pRWExOYnZ1RUhQQ09EVUZvNTJfdXFFYU0waG94Nl9nc3hR?oc=5",
+   "outlet": "Eurogamer.net",
+   "via": "Google News",
+   "published": "2026-11-26T15:12:40+00:00",
+   "seen": "2026-11-26T15:31:23+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -463,6 +511,18 @@
    "summary": "",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "the unofficial gta 6 pc port has surpassed 40 fps thanks to fsr",
+   "title": "The unofficial GTA 6 PC port has surpassed 40 FPS thanks to FSR.",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2QzSmNNcEx5T28ySzREQ3BqcGp4cmhyVkI1UllHV19EUkNnMExGMFFFem84eUYyMS1lM0VFUkxBakZVRVdmNDhVcHRoOTg2Wld2VEprODZCRGM5RG1lSnVUbDIzXzlabkoyQzNuQ3lKcEVfUjdhS214bFZJQzd3alJval8xZnY3VVVpdzViWFJRd3NidTN0Z21YXzY3c3pIQ2xYcGRfeW4?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-26T14:38:19+00:00",
+   "seen": "2026-11-26T15:31:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
   },
   {
    "id": "here s how to get andrew node s supercharged truffade thrax in gta 6",
