@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T11:04:37+00:00",
- "started": "2026-11-26T11:04:33+00:00",
+ "updated": "2026-11-26T11:09:37+00:00",
+ "started": "2026-11-26T11:09:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T11:04:33+00:00"
+   "checked": "2026-11-26T11:09:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 48,
-   "checked": "2026-11-26T11:04:34+00:00"
+   "hits": 26,
+   "checked": "2026-11-26T11:09:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-26T11:04:34+00:00"
+   "hits": 47,
+   "checked": "2026-11-26T11:09:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-26T11:04:34+00:00"
+   "hits": 2,
+   "checked": "2026-11-26T11:09:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T11:04:35+00:00"
+   "checked": "2026-11-26T11:09:36+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T11:04:35+00:00"
+   "checked": "2026-11-26T11:09:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T11:04:35+00:00"
+   "checked": "2026-11-26T11:09:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T11:04:36+00:00"
+   "checked": "2026-11-26T11:09:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 3,
-   "checked": "2026-11-26T11:04:36+00:00"
+   "hits": 4,
+   "checked": "2026-11-26T11:09:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T11:04:36+00:00"
+   "checked": "2026-11-26T11:09:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-26T11:04:37+00:00"
+   "hits": 7,
+   "checked": "2026-11-26T11:09:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T11:04:37+00:00"
+   "checked": "2026-11-26T11:09:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T11:04:37+00:00"
+   "checked": "2026-11-26T11:09:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T11:04:37+00:00"
+   "checked": "2026-11-26T11:09:37+00:00"
   }
  },
  "items": [
+  {
+   "id": "bird watching in gta 6 has the seal of approval from america s top birders",
+   "title": "Bird-watching in 'GTA 6' has the seal of approval from America's top birders",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmI0cFlvaXBVSzdId2RNUThvS0N1Zy0zaW9zRWJQSGl1THB2YWdJbkFfcC0tRE9ZcjItb09IVElpS2hhcmFaLUxWUHh1eG4zQmJuUlc1ZDZ0T3FYZEFOVDdTNC1oNDNrRjhZamJGNG1GX0s3RC13NGduMGlJNXhxZnpHTnFZekhzYng3M2RtNHktTUNlODdxdkdn?oc=5",
+   "outlet": "Business Insider",
+   "via": "Google News",
+   "published": "2026-11-26T11:07:00+00:00",
+   "seen": "2026-11-26T11:09:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "how to fix weather bug in gta 6 rain storms more",
+   "title": "How To Fix Weather Bug In GTA 6—Rain, Storms & More",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LR29zYk4wN1ZBejFoeUJjQ0pNN3c0V202Tm11RHFkZ2lpMkpJNFVDeFpHNnBMNmNfSVRkZ09SSDJiWHdNMmZIRXBKLXBIZTkyWVpUTVZ3Y3RqWG11TmZrSDNOa0RLLXhDUS1ibEhB?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-26T11:04:09+00:00",
+   "seen": "2026-11-26T11:09:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 s most exciting dlc possibility is hiding in plain sight",
+   "title": "GTA 6's Most Exciting DLC Possibility Is Hiding In Plain Sight",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUk1hREJWbXk3b1dpcFhYX2dLNm9SODdTNEoxaVRCeTl6bmNUM1VMWko1SFVNS1NiOXFSU3BsV041a2tnd2dzU3dyM0czUnhNUTdTMjJLRjlidlBRYi1Ocg?oc=5",
+   "outlet": "ScreenRant",
+   "via": "Google News",
+   "published": "2026-11-26T11:03:45+00:00",
+   "seen": "2026-11-26T11:09:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 collectible cards are getting physical versions coming soon in official collab with rockstar games",
    "title": "GTA 6 collectible cards are getting physical versions \"coming soon\" in official collab with Rockstar Games",
@@ -124,6 +160,18 @@
    "via": "Google News",
    "published": "2026-11-26T11:00:30+00:00",
    "seen": "2026-11-26T11:04:33+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "20 years ago the sopranos ps2 game sank so gta 6 could swim",
+   "title": "20 Years Ago, The Sopranos PS2 Game Sank So GTA 6 Could Swim",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Cd1hQU3lDLVRSSnhwU0RScVVzRzFaV1k0dUFZdE9wQTZZN21SUWt3cm42MHE5WVhIZ3NVcE9TZTc0RjZJcURHZVZUSjZUQzJBWEJPZTRMcmwzWGRpS2IyWnNtZWduUFhWamtkdVF3?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-26T11:00:18+00:00",
+   "seen": "2026-11-26T11:09:34+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -208,6 +256,18 @@
    "via": "Google News",
    "published": "2026-11-26T10:52:28+00:00",
    "seen": "2026-11-26T10:54:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "uk playstation downloads hit 8 6 times normal as gta vi launched",
+   "title": "UK PlayStation downloads hit 8.6 times normal as GTA VI launched",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMi1OZk9PRW1TQjVWVEk0VGV5dk5mc2FoQ294dHZrRDFZX3EzN3prd0xNS0gwSldEWDFPSFpyMW9uQktxNzRFWllTZndjS2lGTnRFeE1nRTBCM0pjeTg0N2R3M3BYeDQ4dXJsbVJsU09UUll0UmpEdS1zMTNFS3pkaV9iUGkxVWJQZjVvYXJJWGUtU29tLVhRNDVkTlhkUXdmbklvX0trTm5hSkNBRl9rZnJmQnZZRVktMGNkT0NTTk4?oc=5",
+   "outlet": "MarketScale",
+   "via": "Google News",
+   "published": "2026-11-26T10:47:00+00:00",
+   "seen": "2026-11-26T11:09:34+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -932,6 +992,18 @@
    "topic": "News",
    "record": false,
    "ai_summary": "Headline claims a mix of Taylor Swift conspiracies, GTA VI music, and the best and worst Christmas songs."
+  },
+  {
+   "id": "leonida dmca reach 1 repo 2 900 forks 0 pc dates",
+   "title": "Leonida DMCA Reach: 1 Repo, 2,900+ Forks, 0 PC Dates",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkVpWUhTV2VaOXJWMVFhVzlmZEhuYURCa1lyUllSbVdXZzktQmhSQl83MER2azI3STBtSTlvMEtjMHcwTmlHTUEzSUxtcEhEc1hseThDRTZVNVhnRE5HREJvOVVIcUFuRDBzQ0ZzTnV5Q1c5U0p3T2V1Vnp4dGRpNWJ3Zmk?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-26T06:39:35+00:00",
+   "seen": "2026-11-26T11:09:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
   },
   {
    "id": "south park lampoons gta vi ai and chinese spies in latest episode",
