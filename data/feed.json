@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T16:41:45+00:00",
- "started": "2026-11-26T16:41:41+00:00",
+ "updated": "2026-11-26T16:46:49+00:00",
+ "started": "2026-11-26T16:46:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,126 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-26T16:41:42+00:00"
+   "hits": 99,
+   "checked": "2026-11-26T16:46:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-26T16:41:43+00:00"
+   "hits": 54,
+   "checked": "2026-11-26T16:46:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-26T16:41:43+00:00"
+   "hits": 49,
+   "checked": "2026-11-26T16:46:45+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T16:41:44+00:00"
+   "checked": "2026-11-26T16:46:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 8,
-   "checked": "2026-11-26T16:41:44+00:00"
+   "hits": 9,
+   "checked": "2026-11-26T16:46:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T16:41:44+00:00"
+   "checked": "2026-11-26T16:46:47+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T16:41:44+00:00"
+   "checked": "2026-11-26T16:46:48+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T16:41:44+00:00"
+   "checked": "2026-11-26T16:46:48+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T16:41:44+00:00"
+   "checked": "2026-11-26T16:46:48+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:41:45+00:00"
+   "checked": "2026-11-26T16:46:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:41:45+00:00"
+   "checked": "2026-11-26T16:46:49+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T16:41:45+00:00"
+   "checked": "2026-11-26T16:46:49+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
-   "hits": 5,
-   "checked": "2026-11-26T16:41:45+00:00"
+   "hits": 4,
+   "checked": "2026-11-26T16:46:49+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T16:41:45+00:00"
+   "checked": "2026-11-26T16:46:49+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 all secret radio stations and how to unlock them",
+   "title": "GTA 6: All Secret Radio Stations and how to unlock them",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-26T16:42:23+00:00",
+   "seen": "2026-11-26T16:46:45+00:00",
+   "summary": "Unlock the secret radio and on-demand services in Grand Theft Auto 6",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 silenced pistol how to get the assassin nipper in chapter 1",
+   "title": "GTA 6 silenced pistol: How to get the Assassin Nipper in Chapter 1",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWJTek5rblNfS2p1M2ZhMS1iWmNGa1hyM3Q2cDNCUXRXaWRFVVl6THJsclctRDRsekYyc0c0ZW42Q3J5VTNjU2NFRUZLU2hkclA3QjFCZjA3OFZrZ0oyWVhLYndZN05Dd0NraVVtV1hCY3JWNDNfLVBtMHYxV05YQ2w3Zw?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-26T16:37:00+00:00",
+   "seen": "2026-11-26T16:46:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "all mandy scenes interactions in gta 6",
    "title": "All Mandy Scenes & Interactions in GTA 6",
@@ -141,6 +165,18 @@
    "record": false
   },
   {
+   "id": "gta 6 pegassi infernus location and how to get it for randy",
+   "title": "GTA 6 Pegassi Infernus location and how to get it for Randy",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtaFU1MlA3Q0FFM3BlY0ltd0pqYVoyV2tvWnlheXFlT3Y4MGVIWjNMX01seWZ6aXNtd3htUlV2TUE3WGNnRlJyaW5GT1Y0QjBib1BaTHV2V2VaNklsTFdJZVlKek9ITm1wUnNzV25NRXlQQQ?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-26T16:34:00+00:00",
+   "seen": "2026-11-26T16:46:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "gta 6 fresh evidence puzzle which dildo to choose for the mural explained",
    "title": "GTA 6 Fresh Evidence puzzle: Which dildo to choose for the mural explained",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUhRRGJVenNfRGVVWnFTNzVfVHdhRlo5OHI1cmdlclY4UWh1TWZkN0hKYzViNFE5MklpeVNtUDRUdHBRT0MxSVplVVM3X0RvRVhmdDRWZkd3b0RPdDBZNU52RG1XVnRtSTlYb3lKRW1jXzFKZDZKMUJ2UV9Ca0FrNEt1SWJsTzZaQXNwNzh1czhKdnI2cFVKVDZFNA?oc=5",
@@ -150,6 +186,18 @@
    "seen": "2026-11-26T16:36:49+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 softlock bug keeps you from finishing the main story",
+   "title": "GTA 6 Softlock Bug Keeps You From Finishing the Main Story",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa29RaEhLTW95ZVZaZHZzdEllUjlCbzhmTEJQdlpKV0J1RUJoaTNwZzNmWU9nRDlWLU83cmg3T09sUUtwaVNQV0F0b1AyQ2ZWVUJZOC1namhDbGJlMmpjcW81M1plbEYwSm1MSldJemt4emhGRC12QmhBZXZYSVdKSTJROHdCbjdEUUlwdldqdmNnZHUxUENz?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-26T16:30:00+00:00",
+   "seen": "2026-11-26T16:46:44+00:00",
+   "summary": "",
+   "topic": "Reviews",
    "record": false
   },
   {
@@ -1060,6 +1108,18 @@
    "via": "Google News",
    "published": "2026-11-26T14:45:34+00:00",
    "seen": "2026-11-26T14:56:04+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "a deleted gta 6 leak may have revealed rockstar s graphics settings",
+   "title": "A deleted GTA 6 leak may have revealed Rockstar’s graphics settings",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWZRcVVCbEFCSy1hd3pSS2ZzNUt6NHN5eFdRWWRoZDllNDVLVGNjeUtFYUE5NjR5S3AyRk45bnh5TXVGVksyTnZUbUJFei0wTmVPUFh0NElkR2VEU3N5OEh5RVJLV2FCcXhXTlMwSHNXT29MNDh5ejNSSEZRdVk3cE01NjNUUW9GcTdJd21wN0dMOVRyR3JhWVVQTGhDWkllWl9RcEVMLTk3S0U0YjlZVmlnMA?oc=5",
+   "outlet": "KitGuru",
+   "via": "Google News",
+   "published": "2026-11-26T14:45:28+00:00",
+   "seen": "2026-11-26T16:46:44+00:00",
    "summary": "",
    "topic": "News",
    "record": false
