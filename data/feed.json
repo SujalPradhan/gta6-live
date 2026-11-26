@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T07:38:32+00:00",
- "started": "2026-11-26T07:38:26+00:00",
+ "updated": "2026-11-26T07:43:33+00:00",
+ "started": "2026-11-26T07:43:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T07:38:26+00:00"
+   "checked": "2026-11-26T07:43:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 31,
-   "checked": "2026-11-26T07:38:27+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T07:43:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 62,
-   "checked": "2026-11-26T07:38:27+00:00"
+   "checked": "2026-11-26T07:43:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T07:38:27+00:00"
+   "checked": "2026-11-26T07:43:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T07:38:28+00:00"
+   "checked": "2026-11-26T07:43:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T07:38:28+00:00"
+   "checked": "2026-11-26T07:43:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T07:38:28+00:00"
+   "checked": "2026-11-26T07:43:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T07:38:28+00:00"
+   "checked": "2026-11-26T07:43:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T07:38:29+00:00"
+   "checked": "2026-11-26T07:43:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T07:38:29+00:00"
+   "checked": "2026-11-26T07:43:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T07:38:30+00:00"
+   "checked": "2026-11-26T07:43:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T07:38:30+00:00"
+   "checked": "2026-11-26T07:43:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T07:38:30+00:00"
+   "checked": "2026-11-26T07:43:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T07:38:30+00:00"
+   "checked": "2026-11-26T07:43:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "an enthusiast launched the gta 6 loading screen on the steam deck portable console at 30 fps",
+   "title": "An enthusiast launched the GTA 6 loading screen on the Steam Deck portable console at 30 FPS.",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWE2emNvcEFkTEw4RkR1YWhtRkFEN3dDYXZ4VEIzMFNRYk9qd1dPSmVHakkzOFliQTc1OGtfb0NiVlBmbWsxTWxEVG9xWW9lR3hlT21OYW83eDYxZjctUUtsY1NuN2tHNXhTNGVfSW4zVVpnYlRrdFNhQ2ZhekhfZF9kS0VrZk8zUHhDUmNDc3oxTVlXc1ppbUxfMUFLUUFrSWVXRFpycmRibnRoOUJXei1GQnNPUQ?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-26T07:40:35+00:00",
+   "seen": "2026-11-26T07:43:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "An enthusiast launched the GTA 6 loading screen on the Steam Deck at 30 FPS."
+  },
   {
    "id": "the unofficial pc port of gta 6 has received ps5 pro level night lighting and reflections",
    "title": "The unofficial PC port of GTA 6 has received PS5 Pro-level night lighting and reflections.",
@@ -129,6 +142,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports fan claims that GTA 6 bricks PS5 consoles and questions whether Xbox Series X owners are affected."
+  },
+  {
+   "id": "in 2022 a teenager used amazon fire stick to hack gta 6 maker rockstar games and leak 90 gameplay clips",
+   "title": "In 2022, a teenager used Amazon Fire Stick to hack GTA 6 maker Rockstar Games and leak 90 gameplay clips;",
+   "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOd1pQUTM5SEhfRDFmQmpVeldFNmM3azJ5bHR6YWVqbTdPM1p3bWNRMndIbldCSWNzVlZDY3F4TWpRQXZsWTl6Y1pFWFBtaXF4MDU4cGRGR25lUk5FYnlYRGJfNEFRblRYaXRTLTNaY1R4TV9NUlFxSllISy02dnBsbld6ODdjMUFoaVcxX0pFRktuR1VCak12dUQ0Q0Y1S3pmNFRTb3BveG9ZS1NnbU45cUNOVW5ucVdxZkJxQ2xkZWJSZTZZcjh2ckhLWXVwTW91OWhrSVozTzdha2VsblZfUmM3ejBfeVpiUmtrR3ZHSktFbjM2cDdSNUtpSWR3dzFjZUZsTEVJc2l4Mk9icVhEOWVVaHNNRzZYZWw5WWl2bnJGX1FYZ1lfd2dkU3R6dVNST3hfb20yUHhoYklQLUdjb0JjRFRoOE1DUDdycGZMSnZJX3FTN0RKb1dUQnZDclR6YklFdnN1ajZYdEFfUm5oTl9FUGJ4TVRjRkVnTGt1aHY1UEFwZEQyWGpR0gGPA0FVX3lxTE9memJkUF9tU3dkTFRWX0NHem5tLWswWHl2dlZDVWE3SFlaZVZZYnAzc0RwR0JkVzhBMkc5dUxtUkdhSllJRXd1MmlpZlN3ZW9pWmtIcXhhdzFIR19zakR2ajA4M2U1Y3YzZVpQSEdTSnJ5VEh5N1lhNDNTaFNqXzZQemJHSlVwQWZZYlJaTnd5MkVPYWZDaFZQbFRlNl8wbFdMVjczOXUxU3lwY0J0Sm5CS0d5b2EwMlBxVTB6ZjczaWNueFFWT2FLd290b1d5RmpieUZFa3FyekhEekhWNlB5ZkVPS1JFZnI4NmpUWFdQWldlRWZIOHZjYVliZ0hSc0wtMldoZVRhb1NrM2Rtd0ExU3BWV1lyZkJDRjlaQWRzcGx0dGtVSGdiZFlwazNGNHhpTGF6MHVzTERNczFEaHl4dkFBZF9kSnVSS2h5M3VNVmVyZTJWQ1EtaEJyRkNUaDNWYmVtNEFYYndwQU1EUW5QbmQzdGdnT2x2alk1RlY0aks0Q28tYXVqN05OZEJMNA?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-26T07:30:00+00:00",
+   "seen": "2026-11-26T07:43:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A teenager allegedly used an Amazon Fire Stick to hack Rockstar Games and leak 90 gameplay clips in 2022."
   },
   {
    "id": "gta 6 ps5 crashes draw attention after reports surface online",
