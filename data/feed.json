@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T16:06:30+00:00",
- "started": "2026-11-26T16:06:28+00:00",
+ "updated": "2026-11-26T16:11:32+00:00",
+ "started": "2026-11-26T16:11:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,149 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T16:06:28+00:00"
+   "checked": "2026-11-26T16:11:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 29,
-   "checked": "2026-11-26T16:06:29+00:00"
+   "hits": 28,
+   "checked": "2026-11-26T16:11:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-26T16:06:29+00:00"
+   "hits": 58,
+   "checked": "2026-11-26T16:11:30+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T16:06:29+00:00"
+   "checked": "2026-11-26T16:11:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
-   "hits": 6,
-   "checked": "2026-11-26T16:06:29+00:00"
+   "hits": 7,
+   "checked": "2026-11-26T16:11:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T16:06:29+00:00"
+   "checked": "2026-11-26T16:11:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T16:06:30+00:00"
+   "checked": "2026-11-26T16:11:31+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T16:06:30+00:00"
+   "checked": "2026-11-26T16:11:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:06:30+00:00"
+   "checked": "2026-11-26T16:11:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:06:30+00:00"
+   "checked": "2026-11-26T16:11:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:06:30+00:00"
+   "checked": "2026-11-26T16:11:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T16:06:30+00:00"
+   "checked": "2026-11-26T16:11:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T16:06:30+00:00"
+   "checked": "2026-11-26T16:11:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T16:06:30+00:00"
+   "checked": "2026-11-26T16:11:32+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 the missing link walkthrough",
+   "title": "GTA 6 The Missing Link Walkthrough",
+   "link": "https://www.videogameschronicle.com/guide/gta-6-the-missing-link-walkthrough/",
+   "outlet": "VGC",
+   "via": "VGC",
+   "published": "2026-11-26T16:07:11+00:00",
+   "seen": "2026-11-26T16:11:30+00:00",
+   "summary": "How to complete The Missing Link and what to do with Monty",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "9 games under 15 in xbox s black friday sale if gta 6 is out of your price range",
+   "title": "9 games under $15 in Xbox's Black Friday sale if GTA 6 is out of your price range",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFpjMzhvcFpBOUlRWnZiNzhKdmJjeXI1aFhaQjVTd1R0OTFoRXRKNjkzTG1aT1FPaVNlUUtWazZNVEhtNTJRUHFzSnJhamJFaDlLTEVQQ2xBbTl2ZElVZ3hCZ0JScHY2T1A3aXF6SnJLOEFobWp6bDNXdUY1UmNQMUlFdS1pY2hNR2hJNEpONEFxZWF2djYtb21CQjgtVTF5WWVteERGVmJwcDlq?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-26T16:06:15+00:00",
+   "seen": "2026-11-26T16:11:29+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "anthropic prices record ipo as grand theft auto vi smashes entertainment launch marks",
+   "title": "Anthropic prices record IPO as Grand Theft Auto VI smashes entertainment launch marks",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CSWhiWG9pY1czSWRXa0VTMG9vcFlNWnFEdlRGMVFqMXpMeHllN0FaNnpOTk9LdnVsQmRiczlXWmRJWWhzRUoyYzdXQWZ5enRrUW1DMHlpb2QxTjNOejNBZTZDRDJCR2VhTWQ5WWMzMA?oc=5",
+   "outlet": "Crypto Briefing",
+   "via": "Google News",
+   "published": "2026-11-26T16:04:55+00:00",
+   "seen": "2026-11-26T16:11:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "here s where to steal the bravado banshee for randy in gta 6",
+   "title": "Here's where to steal the Bravado Banshee for Randy in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmg4X0NMQkQ0aWNDOERiQUNvLWRKcFZnWkxwbVlhS3dhS2JqOU1FeHk4VWYtVEw0b0tuYjFxamU3TDYtYkdRT2ZPZnhxQVEzYkRTcUlCN0ZkSFB2aERKa3JuN2poLTgwNkZCYnBmbWF3SHB4eUdYZnd2VVhHYklPVTVVV2Y?oc=5",
+   "outlet": "PC Gamer",
+   "via": "Google News",
+   "published": "2026-11-26T16:02:38+00:00",
+   "seen": "2026-11-26T16:11:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta vi s launch causes 26 drop in live service game attention",
    "title": "GTA VI’s launch causes 26% drop in live-service game attention",
@@ -150,6 +198,18 @@
    "seen": "2026-11-26T15:56:33+00:00",
    "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from […]",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "jorge martin reveals marathon gta 6 play time after portuguese motogp podium",
+   "title": "Jorge Martin reveals marathon GTA 6 play time after Portuguese MotoGP podium",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWNEZUZMVm1KbWEyV2hsYTlvUmJGcm9XSUFHa053MVlUd3VqV0FVMzl5eDQ4VUhXUDk4WTd4czRneld2alNwVHVRRXdXME91LUJxY0xGNWdoRExZbkZjUnJscEtSN09fcVJUNEVBaVdkZ2pkcllLTDVMNDhicVNlZXRjRWt6eXV2UTRhM3JKWURRT3o2c0MxNG1LdVlNUkNKakVFX2pFYlVrbGVGVXJVRm5ybWotOTZKWFk4Qg?oc=5",
+   "outlet": "Crash.net",
+   "via": "Google News",
+   "published": "2026-11-26T15:55:04+00:00",
+   "seen": "2026-11-26T16:11:29+00:00",
+   "summary": "",
+   "topic": "Outage",
    "record": false
   },
   {
@@ -285,6 +345,18 @@
    "record": false
   },
   {
+   "id": "i d love a playstation portal to play gta 6 anywhere but where are the black friday deals",
+   "title": "I’d love a PlayStation Portal to play GTA 6 anywhere – but where are the Black Friday deals?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlVMQldQeVpfVVhwVGFoYlYwblhvRXJUc05yTW90REFzTlNUOG5iX1hYcjBENVRYZmZ4NFZSRDdMc3QwWG05bkhPcXdTNnllSmtQMXBJbEIzVGZPeWdqU1dGN0hIOVpEdWFUbV9wRlNfQUJFWmdPeDFTTjFTN3NvcWQwMk96SnRUTDNPV3lUem8?oc=5",
+   "outlet": "Trusted Reviews",
+   "via": "Google News",
+   "published": "2026-11-26T15:38:17+00:00",
+   "seen": "2026-11-26T16:11:29+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
    "id": "us ps5 and xbox series sales more than doubled before gta 6 launched",
    "title": "US PS5 and Xbox Series Sales More Than Doubled Before GTA 6 Launched",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTF3R1NmQWxPTGd5S0tPVUNBWTNoWEUtd0x5NUM0NERvQVZWdTN2cENBQnlQalVuVFVJc2JNQmFuTVFyb3pZNUlWa253bGN4enlpcHVsWjRFNV9scFJobkd5eUdOZTNsX2JtQU9tYlFOYS1tWDV6Y2pYRWxKRWVZcUtrRWJjYXYwdWh2MkRHR2NiX1U1a21ZNUZwN0dwZEUyV0lPX1V4QjE?oc=5",
@@ -306,6 +378,18 @@
    "seen": "2026-11-26T15:41:20+00:00",
    "summary": "",
    "topic": "Streaming",
+   "record": false
+  },
+  {
+   "id": "rockstar games issues statement as union vote fails",
+   "title": "Rockstar Games Issues Statement as Union Vote Fails",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkJFVjY4dnl5cDR0YTRNNWoyZlhlbmxPcmlIN21XTFpMZmRqV3FmRzlzZ0xRTG93Nmc3T25TcFFVaDhHZTBVOUh0alFYRTdvTEVGRzl0UzFHZjlJRktsTmIweEVpUDQ1aEVEYXFCV2V3ZXd3VER4RDY4NVBhVERZUzFBQ19Xb0x6blBHcXpYVkNqRXF1VTRRTjd2UWhzazZHM3hN?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-26T15:35:13+00:00",
+   "seen": "2026-11-26T16:11:29+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
