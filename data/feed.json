@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T23:55:53+00:00",
- "started": "2026-11-25T23:55:48+00:00",
+ "updated": "2026-11-26T00:00:55+00:00",
+ "started": "2026-11-26T00:00:50+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,114 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-25T23:55:49+00:00"
+   "checked": "2026-11-26T00:00:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-25T23:55:49+00:00"
+   "hits": 36,
+   "checked": "2026-11-26T00:00:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 73,
-   "checked": "2026-11-25T23:55:50+00:00"
+   "hits": 66,
+   "checked": "2026-11-26T00:00:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-25T23:55:50+00:00"
+   "checked": "2026-11-26T00:00:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-25T23:55:50+00:00"
+   "checked": "2026-11-26T00:00:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-25T23:55:50+00:00"
+   "checked": "2026-11-26T00:00:52+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-25T23:55:51+00:00"
+   "checked": "2026-11-26T00:00:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-25T23:55:51+00:00"
+   "checked": "2026-11-26T00:00:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:55:51+00:00"
+   "checked": "2026-11-26T00:00:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-25T23:55:52+00:00"
+   "checked": "2026-11-26T00:00:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-25T23:55:52+00:00"
+   "checked": "2026-11-26T00:00:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-25T23:55:52+00:00"
+   "checked": "2026-11-26T00:00:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-25T23:55:52+00:00"
+   "checked": "2026-11-26T00:00:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-25T23:55:53+00:00"
+   "checked": "2026-11-26T00:00:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "after grand theft auto vi revived her single carly rae jepsen might buy a jet ski too",
+   "title": "After ‘Grand Theft Auto VI’ revived her single, Carly Rae Jepsen might buy a jet ski too",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMTUzbHdURzVGTmlYNFI5RktBZkFXMTF0dnoySV90S1hma3pUMHlxSDBKYmUtdmpLM09Mb0VPT0p0Szd5X0pCWHBxTklid280dzNybWRUVHhFWXBWdDYtd0w1U0xoWVNGQ21PbTZpSVpjUlphNEdTTU1HWGJTUEFvdnFtQ3pDb09nRlJwQ281Qm5lTzFSQWxEangzb3F0b2JXLWpzUkZHTmVMQWxjTW0tSWRRWjFFYVlSZElwQm5ReUduZ0hKRldobjBMc3VTRl9YRndEWUoza2lLd2Fjd3h0V0NBcw?oc=5",
+   "outlet": "Los Angeles Times",
+   "via": "Google News",
+   "published": "2026-11-25T23:54:38+00:00",
+   "seen": "2026-11-26T00:00:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that Carly Rae Jepsen, after GTA VI revived her single, might buy a jet ski."
+  },
   {
    "id": "the state of gta 6 on pc everything you need to know",
    "title": "The state of GTA 6 on PC: Everything you need to know",
@@ -571,6 +584,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story says real Central Florida landmarks and attractions are hidden in GTA 6."
+  },
+  {
+   "id": "gta 6 animation director reveals just how far rockstar went to make holding items more immersive",
+   "title": "GTA 6 Animation Director Reveals Just How Far Rockstar Went to Make Holding Items More Immersive",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnE2RXVTVXVKR0tCdzU3ZHYwQldrRm9IbEpqM2lMYU82TEFuUXg2TU9PQUVvX0NGSDJqVTRKSzF3RDlfQldmbUh6Sy1VWFIzZkdMTlR0NmZCeHJ1bFc2OVNEbFpIMjhSdzM5M1hiUERfc1U4eWRtOEJqY2ZOMnNEV21FdUZzTlF1Rm1ZM0JuWHlZa1V0aXhsLTZzN2xsOXBDYlBPRWpzYzV4bEdPbkd3aTRCZU0?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-25T21:08:56+00:00",
+   "seen": "2026-11-26T00:00:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports that the GTA 6 animation director explained how far Rockstar went to make holding items more immersive."
   },
   {
    "id": "here s some video game conversation starters that s not about gta 6",
