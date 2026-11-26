@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T05:57:49+00:00",
- "started": "2026-11-26T05:57:46+00:00",
+ "updated": "2026-11-26T06:03:03+00:00",
+ "started": "2026-11-26T06:02:57+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T05:57:46+00:00"
+   "checked": "2026-11-26T06:02:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-26T05:57:47+00:00"
+   "checked": "2026-11-26T06:02:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 66,
-   "checked": "2026-11-26T05:57:47+00:00"
+   "hits": 65,
+   "checked": "2026-11-26T06:02:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T05:57:47+00:00"
+   "checked": "2026-11-26T06:02:58+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T05:57:47+00:00"
+   "checked": "2026-11-26T06:02:58+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T05:57:48+00:00"
+   "checked": "2026-11-26T06:02:58+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T05:57:48+00:00"
+   "checked": "2026-11-26T06:02:58+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T05:57:48+00:00"
+   "checked": "2026-11-26T06:02:58+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T05:57:48+00:00"
+   "checked": "2026-11-26T06:02:59+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T05:57:48+00:00"
+   "checked": "2026-11-26T06:02:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T05:57:49+00:00"
+   "checked": "2026-11-26T06:02:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T05:57:49+00:00"
+   "checked": "2026-11-26T06:02:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T05:57:49+00:00"
+   "checked": "2026-11-26T06:02:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T05:57:49+00:00"
+   "checked": "2026-11-26T06:02:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "cyberpunk 2 director calls gta 6 a creative miracle and says his own sequel will have a different flavour",
+   "title": "Cyberpunk 2 director calls GTA 6 a “creative miracle” and says his own sequel will have a different flavour",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2lKZ2JCWGxkRi1BbzJybmlmc0kyU3lHQ0hVSW8waGhQWkVEdU1YV250V0hvY2xCWUZVd2dsS1BYcEd3X1JRWkVqRjZnLW1ia05hb2l4LVRoOW5TbWlzY0tNNEhGZEVjbGhGVjNqN1MtRk5qNUJPVHpvUlUyV2hKWFZ4QjFCS2s3Q01RbmpEdTFBdw?oc=5",
+   "outlet": "MIXED News",
+   "via": "Google News",
+   "published": "2026-11-26T05:58:49+00:00",
+   "seen": "2026-11-26T06:02:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The director of Cyberpunk 2 calls GTA 6 a creative miracle and says his own sequel will have a different flavour."
+  },
+  {
+   "id": "gta 6 becomes the biggest playstation launch ever with over 39 million players",
+   "title": "GTA 6 Becomes The Biggest PlayStation Launch Ever With Over 39 Million Players",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXpKR1BLT1ZKLV9zbTg1TUNjVWt1a3dxcjg1M0k2SElSWHkzRmdGNnR2ZUkweFZyVlVlQVNCLUx3dDdqcU1wY0VTekxEQWpCa1NMQk81UEtmMFZjR3pRUWhmN0xlMVppS011MnRRYUpfUllXdk1aTHh1bWVkUnE0RjZielVMb0JZMXdPVFpuMEF0WjU3TGc4dkRVUzRjQkttOWxKdkgxMi1BYU5hSl8yRkZHX0Q?oc=5",
+   "outlet": "Mashable India",
+   "via": "Google News",
+   "published": "2026-11-26T05:58:09+00:00",
+   "seen": "2026-11-26T06:02:58+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "GTA 6 becomes the biggest PlayStation launch ever with over 39 million players."
+  },
   {
    "id": "all missing persons locations in gta 6",
    "title": "All Missing Persons locations in GTA 6",
@@ -233,6 +259,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports a third missing person related to GTA 6."
+  },
+  {
+   "id": "gta 6 hides a purple portal to a ps2 style malibu club and finding it takes 12 power substations whose clues spell out a vice city cheat cod",
+   "title": "GTA 6 hides a purple portal to a PS2-style Malibu Club, and finding it takes 12 power substations whose clues spell out a Vice City cheat code",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKb3BkMy1xOGlnLUgydnpfNmk5YVUzQXRHWkF0NGNETGE1Y1dBblhmemZjYlh6aXliUkJkS1ByZ0FZalYwQlJQM0V1bU9mY1dDMUhGUnZXSTktSGp5YTRlTEtvTF8zZ0JfZlBPdENB?oc=5",
+   "outlet": "Make Tech Easier",
+   "via": "Google News",
+   "published": "2026-11-26T04:23:25+00:00",
+   "seen": "2026-11-26T06:02:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "GTA 6 conceals a purple portal to a PS2-style Malibu Club, and locating it requires solving clues from 12 power substations that spell a Vice City cheat code."
   },
   {
    "id": "cyberleek released the missing executable for its leaked 209gb gta 6 xbox build and an open source project says the game now boots on window",
@@ -376,6 +415,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports key valuable locations related to a kingpin bowling alley robbery in GTA 6."
+  },
+  {
+   "id": "we built an entirely new system for this game to capture dialogue dynamic range and model how it propagates through space gta 6 dev explains",
+   "title": "‘We built an entirely new system for this game to capture dialogue dynamic range and model how it propagates through space’ — GTA 6 dev explains the intricacies of Leonida’s sound design that creates a ‘sense of deep immersion’",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWUVZRndhdm5GMUoyZG96dGNjUEVJMTFtR0lvdmFBRThIb3ZHUkhWMk9HSFdkbldDMkNvUG1kb2ZMSWNLTmxfcFF6aURrZXFxa2lwYkVtOVQ2QXZqemxSai16aXh2X2JUYmZCbF9iWEYwUXBOTnNnMWV1MWREOEU3MzBRaXhBb3NGVkl0dnJZbHdhTUVUNktST3RvSkppdmNfVHNKeVhoaXcwWDNsSUN2dElwYkF4Y25FM2M0MmZIQUQtMm9iVXEwbmprUUJHNzRqX0JSclhBektVRnNMSmxYZFBQUEhXVnlHS1VGTTFncFc2X2hhd0VBYTJpTWxmNU9iSU5fSmhSLXhaRnEtLUdIOXhFQUxGQUlNdnBhU2lXUlp2NG1tMW9YbzZJSlF5LVBTcEMyaWIyWlpIenE4UjhUN0UyRW5CM085VGtLSnptZ0ZrSVM2T2J1MGQ1VVBYUjlCalBpMG82V3B4ZURCREE?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-26T03:03:30+00:00",
+   "seen": "2026-11-26T06:02:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "A GTA 6 developer explains a new system for capturing dialogue dynamic range and how it propagates through space to create immersion in Leonida’s sound design."
   },
   {
    "id": "the weeknd s gta vi song was called game exclusive here s what justice actually said",
