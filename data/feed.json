@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T20:18:00+00:00",
- "started": "2026-11-26T20:17:57+00:00",
+ "updated": "2026-11-26T20:23:00+00:00",
+ "started": "2026-11-26T20:22:57+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T20:17:57+00:00"
+   "checked": "2026-11-26T20:22:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 27,
-   "checked": "2026-11-26T20:17:58+00:00"
+   "hits": 55,
+   "checked": "2026-11-26T20:22:57+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-26T20:17:58+00:00"
+   "hits": 50,
+   "checked": "2026-11-26T20:22:58+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T20:17:58+00:00"
+   "checked": "2026-11-26T20:22:58+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:17:58+00:00"
+   "checked": "2026-11-26T20:22:58+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-26T20:17:58+00:00"
+   "checked": "2026-11-26T20:22:58+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T20:17:59+00:00"
+   "checked": "2026-11-26T20:22:59+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T20:17:59+00:00"
+   "checked": "2026-11-26T20:22:59+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T20:17:59+00:00"
+   "checked": "2026-11-26T20:22:59+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:17:59+00:00"
+   "checked": "2026-11-26T20:22:59+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T20:18:00+00:00"
+   "checked": "2026-11-26T20:23:00+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T20:18:00+00:00"
+   "checked": "2026-11-26T20:23:00+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T20:18:00+00:00"
+   "checked": "2026-11-26T20:23:00+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T20:18:00+00:00"
+   "checked": "2026-11-26T20:23:00+00:00"
   }
  },
  "items": [
@@ -114,6 +114,18 @@
    "seen": "2026-11-26T20:17:57+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "playstation and xbox sales more than double as gta 6 gives consoles a much needed boost",
+   "title": "PlayStation and Xbox sales more than double as GTA 6 gives consoles a much-needed boost",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXY5VXduLTViaFB6TXVHZ3FOQlhoT0hfTlEySjg3R0tSRW1iTnhZcnlCblVfWmZDNEtMTWlYWGlUWldIMl9OZFdKNGpQTjBzQndwaDRWVktUTGpvbmlTSG9MM0o1c1FFdVoxNVJkeE9jWHRTZ0UyU19TZ2Y3b0tqdXpObnlxVm1yNkNXOVBUWmtEMzZZOXlIbUM5RjU1REdMYnhTWHAzazM5azdGNFpPU2hMZ3FwSWY0UnI0bld0a1FXeWhZMVVEdnI1RDhpUGdKaWc?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-26T20:06:10+00:00",
+   "seen": "2026-11-26T20:22:57+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
@@ -268,6 +280,18 @@
    "via": "Google News",
    "published": "2026-11-26T19:05:12+00:00",
    "seen": "2026-11-26T19:07:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft ip the intellectual property fortress behind gta vi",
+   "title": "Grand Theft IP: The Intellectual Property Fortress Behind GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTlpHNGUxZHZqaGFtSkQ0QktpSDJtbDhHRUg2Z2R6QjI5dngxdWVZWDhXM254YkMwNFFFZTRJVlU2bUVmSXpYYTkzRjJmQjYwX1FzX1N5R1dfcUQ1QXNReERfZWNqNVExT2J6WmZOVWdjV20yUlVPcVVWQmNRMGdXTWJvTjFEQnlqZEZ1NGNYbk1BMGFYT0p6dFlkdlpWNGl3Q280a3VUMW1WZ0tCOGpXXzVwWDZmaGNmeTBsNXh0djVHa0lSRDAtakp6aDVNZ0FSOW5v?oc=5",
+   "outlet": "Legal 500",
+   "via": "Google News",
+   "published": "2026-11-26T19:02:44+00:00",
+   "seen": "2026-11-26T20:22:57+00:00",
    "summary": "",
    "topic": "News",
    "record": false
