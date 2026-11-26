@@ -1,106 +1,106 @@
 {
- "updated": "2026-11-26T15:56:33+00:00",
- "started": "2026-11-26T15:56:29+00:00",
+ "updated": "2026-11-26T16:01:32+00:00",
+ "started": "2026-11-26T16:01:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 99,
-   "checked": "2026-11-26T15:56:30+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-26T16:01:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 55,
-   "checked": "2026-11-26T15:56:30+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-26T16:01:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 48,
-   "checked": "2026-11-26T15:56:30+00:00"
+   "hits": 58,
+   "checked": "2026-11-26T16:01:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T15:56:31+00:00"
+   "checked": "2026-11-26T16:01:30+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T15:56:31+00:00"
+   "checked": "2026-11-26T16:01:30+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T15:56:31+00:00"
+   "checked": "2026-11-26T16:01:30+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 17,
-   "checked": "2026-11-26T15:56:31+00:00"
+   "checked": "2026-11-26T16:01:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T15:56:31+00:00"
+   "checked": "2026-11-26T16:01:31+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T15:56:32+00:00"
+   "checked": "2026-11-26T16:01:31+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T15:56:32+00:00"
+   "checked": "2026-11-26T16:01:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T15:56:32+00:00"
+   "checked": "2026-11-26T16:01:32+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T15:56:33+00:00"
+   "checked": "2026-11-26T16:01:32+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T15:56:33+00:00"
+   "checked": "2026-11-26T16:01:32+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T15:56:33+00:00"
+   "checked": "2026-11-26T16:01:32+00:00"
   }
  },
  "items": [
@@ -138,6 +138,18 @@
    "seen": "2026-11-26T15:56:30+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "following gta 6 release rockstar workers vote against union recognition deal",
+   "title": "Following GTA 6 release, Rockstar workers vote against union recognition deal",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/following-gta-6-release-rockstar-workers-vote-against-union-recognition-deal-but-those-in-favor-vow-to-keep-fighting/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-26T15:51:10+00:00",
+   "seen": "2026-11-26T16:01:30+00:00",
+   "summary": "\"This isn't a sign to retreat, it's a sign to double down on what we stand for,\" says the IWGB Rockstar Games Workers Union",
+   "topic": "Outage",
    "record": false
   },
   {
@@ -234,6 +246,18 @@
    "seen": "2026-11-26T15:46:23+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "us ps5 and xbox series sales more than doubled before gta 6 launched",
+   "title": "US PS5 and Xbox Series Sales More Than Doubled Before GTA 6 Launched",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTF3R1NmQWxPTGd5S0tPVUNBWTNoWEUtd0x5NUM0NERvQVZWdTN2cENBQnlQalVuVFVJc2JNQmFuTVFyb3pZNUlWa253bGN4enlpcHVsWjRFNV9scFJobkd5eUdOZTNsX2JtQU9tYlFOYS1tWDV6Y2pYRWxKRWVZcUtrRWJjYXYwdWh2MkRHR2NiX1U1a21ZNUZwN0dwZEUyV0lPX1V4QjE?oc=5",
+   "outlet": "Game News Plus",
+   "via": "Google News",
+   "published": "2026-11-26T15:37:32+00:00",
+   "seen": "2026-11-26T16:01:29+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
