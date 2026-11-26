@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T07:08:21+00:00",
- "started": "2026-11-26T07:08:17+00:00",
+ "updated": "2026-11-26T07:13:23+00:00",
+ "started": "2026-11-26T07:13:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T07:08:17+00:00"
+   "checked": "2026-11-26T07:13:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 31,
-   "checked": "2026-11-26T07:08:18+00:00"
+   "hits": 52,
+   "checked": "2026-11-26T07:13:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-26T07:08:18+00:00"
+   "hits": 63,
+   "checked": "2026-11-26T07:13:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T07:08:18+00:00"
+   "checked": "2026-11-26T07:13:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T07:08:18+00:00"
+   "checked": "2026-11-26T07:13:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T07:08:19+00:00"
+   "checked": "2026-11-26T07:13:19+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T07:08:19+00:00"
+   "checked": "2026-11-26T07:13:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T07:08:19+00:00"
+   "checked": "2026-11-26T07:13:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T07:08:19+00:00"
+   "checked": "2026-11-26T07:13:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T07:08:20+00:00"
+   "checked": "2026-11-26T07:13:20+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T07:08:20+00:00"
+   "checked": "2026-11-26T07:13:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T07:08:20+00:00"
+   "checked": "2026-11-26T07:13:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T07:08:20+00:00"
+   "checked": "2026-11-26T07:13:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T07:08:21+00:00"
+   "checked": "2026-11-26T07:13:21+00:00"
   }
  },
  "items": [
+  {
+   "id": "the unofficial port of grand theft auto vi on pc averaged 27 fps on ryzen 7 9800x3d and rtx 5070 ti",
+   "title": "The unofficial port of Grand Theft Auto VI on PC averaged 27 FPS on Ryzen 7 9800X3D and RTX 5070 Ti",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXVpemkxQTNJblFsaE1FYkR2NWN2U2h2MlNNd2piM1hqWnRacUdFV1REc2FFekNGeHJkNjFWTHJUb1owN3haM3VfM19seXlNcXVxYUhpMllSeS1tOE00b2VhV3NJdU4tdjhTcWJSR0NKbVFfUHFMRnY3OWFZNGt3WmRKWmlNN0xDclRuNnNIWFR2ZUhLNkdGa1NJMlNSOTZQWHEwbFBkN3FocXVWbm11NHRQWWl5VTI0ZmkySFhHdEVXX2pnTEJiTmR4SWoxdw?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-26T07:07:10+00:00",
+   "seen": "2026-11-26T07:13:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports the unofficial PC port of Grand Theft Auto VI averaged performance on specific hardware."
+  },
+  {
+   "id": "did the gta 6 new zealand trick give ps5 players a cut version what is confirmed",
+   "title": "Did the GTA 6 New Zealand Trick Give PS5 Players a Cut Version? What Is Confirmed",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzVhT1JUMXZ1VFZiN1JKWnlJTlhJd1VTUHNWSGNwaXF5N0F6cXBad01ZQ2hlLU5QZnAxbXA5SFRqVG9KZzJjOHhwelh6aE9RY0VSNjh1elJrcWhkUEpBQzRlZ3NyelZ3VDNnaXY2Q1RVWmxRdjZYcGJieUpuMEppX2czLWtCUFNXZm9HR1FPb3ZHcDZiVlg0?oc=5",
+   "outlet": "TalkEsport",
+   "via": "Google News",
+   "published": "2026-11-26T06:58:44+00:00",
+   "seen": "2026-11-26T07:13:17+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story questions whether a New Zealand trick led to a cut version for PS5 players and what is confirmed."
+  },
   {
    "id": "sidetracked with annie and nick taylor swift conspiracies gta vi music and the best and worst christmas songs",
    "title": "Sidetracked with Annie and Nick | Taylor Swift Conspiracies, GTA VI Music and the Best and Worst Christmas Songs",
