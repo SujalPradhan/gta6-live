@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T16:51:52+00:00",
- "started": "2026-11-26T16:51:45+00:00",
+ "updated": "2026-11-26T16:56:50+00:00",
+ "started": "2026-11-26T16:56:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,138 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-26T16:51:46+00:00"
+   "hits": 99,
+   "checked": "2026-11-26T16:56:46+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 26,
-   "checked": "2026-11-26T16:51:46+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-26T16:56:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-26T16:51:47+00:00"
+   "checked": "2026-11-26T16:56:47+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T16:51:47+00:00"
+   "checked": "2026-11-26T16:56:47+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:51:47+00:00"
+   "checked": "2026-11-26T16:56:48+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T16:51:50+00:00"
+   "checked": "2026-11-26T16:56:48+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-26T16:51:50+00:00"
+   "checked": "2026-11-26T16:56:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T16:51:51+00:00"
+   "checked": "2026-11-26T16:56:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T16:51:51+00:00"
+   "checked": "2026-11-26T16:56:49+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:51:51+00:00"
+   "checked": "2026-11-26T16:56:49+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:51:52+00:00"
+   "checked": "2026-11-26T16:56:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T16:51:52+00:00"
+   "checked": "2026-11-26T16:56:50+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T16:51:52+00:00"
+   "checked": "2026-11-26T16:56:50+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T16:51:52+00:00"
+   "checked": "2026-11-26T16:56:50+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi the album targets no 1 with 150k first week units",
+   "title": "‘Grand Theft Auto VI: The Album’ Targets No. 1 With 150K First-Week Units",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUUp3RWNqWkowQW1SdHBUVjJoN1M5NzJBN3ZlV0lCclNLejZEdi1iWmtta2tNX3JpNjVoZDRWTHlIQkhCWnhDTlZCNG1VY0oyc3M1N2ZjRndaSUtZaVZoZ3RuN1h6STVQU0NBNkFSbWJHYVFwb0dISWF6REZWSnRyRHMydzR6R2hzZ1BKNDRyb1dwcnRFUzB5eC1yU09KV3lFLWc?oc=5",
+   "outlet": "Ratings Game Music",
+   "via": "Google News",
+   "published": "2026-11-26T16:56:22+00:00",
+   "seen": "2026-11-26T16:56:46+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 via xbox cloud gaming showed a latency of 184 5 ms on xbox one",
+   "title": "GTA 6 via Xbox Cloud Gaming showed a latency of 184,5 ms on Xbox One",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm84dlQxS1J0NDFUdFdnSDFHRm5UYzFXaVg1ZFJHR01sUG1jMi1LMkRRTWVqWWs2NlU3VDhGS09kVVF0Wms3cWFibGZFdi16YkNGaDh5enJyV3BpZnFuNnZZWlVqNjhkRjFUT0FyT0tnNzJkakFzZXpoTC0yX2NWS0F1RGRMb1duakN4ckdqdVgtMzFQc3o4MldPWHFQaGk1ZzZkSGNB?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-26T16:50:59+00:00",
+   "seen": "2026-11-26T16:56:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "staff at grand theft auto vi developer vote against union recognition",
+   "title": "Staff at Grand Theft Auto VI developer vote against union recognition",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkQ0ck0yOTlnWWowZVBpbU5MZHJLc2VSb0tKcnFfVjZEaFcyRzlwOXpYNjdkSk5HeUFMSi1mUWZNcEVpa2s1dHIycWVrVXlpZktJZlJIdER0QmFSbl9ZbjZjQ1JWREJqZUE5aTNXR3VVVHBWaUljODNHMFpuU2N6eTdQNlhxWlJsdFE?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-26T16:49:13+00:00",
+   "seen": "2026-11-26T16:56:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "hobbyists and ai vibe coders have gta 6 running on windows pc days after launch how is it possible and what comes next",
    "title": "Hobbyists and AI vibe coders have GTA 6 running on Windows PC days after launch — How is it possible, and what comes next?",
