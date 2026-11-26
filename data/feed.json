@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T13:05:28+00:00",
- "started": "2026-11-26T13:05:24+00:00",
+ "updated": "2026-11-26T13:10:29+00:00",
+ "started": "2026-11-26T13:10:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T13:05:25+00:00"
+   "checked": "2026-11-26T13:10:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 26,
-   "checked": "2026-11-26T13:05:25+00:00"
+   "hits": 51,
+   "checked": "2026-11-26T13:10:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-26T13:05:26+00:00"
+   "hits": 45,
+   "checked": "2026-11-26T13:10:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-26T13:05:26+00:00"
+   "checked": "2026-11-26T13:10:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T13:05:26+00:00"
+   "checked": "2026-11-26T13:10:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 57,
-   "checked": "2026-11-26T13:05:26+00:00"
+   "checked": "2026-11-26T13:10:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-26T13:05:27+00:00"
+   "hits": 16,
+   "checked": "2026-11-26T13:10:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T13:05:27+00:00"
+   "checked": "2026-11-26T13:10:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T13:05:27+00:00"
+   "checked": "2026-11-26T13:10:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T13:05:27+00:00"
+   "checked": "2026-11-26T13:10:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-26T13:05:28+00:00"
+   "checked": "2026-11-26T13:10:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T13:05:28+00:00"
+   "checked": "2026-11-26T13:10:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T13:05:28+00:00"
+   "checked": "2026-11-26T13:10:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T13:05:28+00:00"
+   "checked": "2026-11-26T13:10:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 lacks mission replay because it felt at odds with the story says rockstar",
+   "title": "GTA 6 Lacks Mission Replay Because “It Felt At Odds With the Story,” Says Rockstar",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVkFBWlFBMzc5S1hkN1oxTV9la0JlTlRRTjJaYzc2ajBjYlNNT0ZuX09kU1JnX3hJLTc2c0VDUm4xUjFkVVBSdDRnaElsWm55Ri1UQy1MT3RhZFIzR1RwYWwxWkFmYW8xUHB0VlR3TmRUNFlDbzZPMC1XNjFwY0xWZkhRMG8tc3d3SWJNQ05TN2wzbVh2Uy1hM2E1UHp4eFNoODdCbg?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-26T13:08:14+00:00",
+   "seen": "2026-11-26T13:10:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta vi racks up 420 million hours watched in first week across streaming platforms",
    "title": "GTA VI racks up 420 million hours watched in first week across streaming platforms",
@@ -137,6 +149,18 @@
    "published": "2026-11-26T13:02:30+00:00",
    "seen": "2026-11-26T13:05:25+00:00",
    "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 is like looking at a skyscraper but i m from the 1800s says veteran last of us 2 artist",
+   "title": "GTA 6 is \"like looking at a skyscraper, but I'm from the 1800s,\" says veteran Last of Us 2 artist",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-like-looking-at-a-skyscraper-but-im-from-the-1800s-says-veteran-last-of-us-2-and-star-wars-jedi-survivor-artist/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-26T13:02:20+00:00",
+   "seen": "2026-11-26T13:10:28+00:00",
+   "summary": "Del Walker says \"I didn't know this was possible\"",
    "topic": "News",
    "record": false
   },
@@ -2033,6 +2057,18 @@
    "ai_summary": "The story references South Park S29E06 and discusses GTA 6, Dead Kenny and more."
   },
   {
+   "id": "young thug and gunna drop original gta 6 rap songs",
+   "title": "Young Thug and Gunna Drop Original GTA 6 Rap Songs",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96d3NoT3ZZZzRHRF9fLXFxc3lEU080TE1hRlVmT0ctSXJILVRsRV9oRTlFYjlpQmRLYXpJZmNQMHg1SWVhWTR3LWhJSE5zTEt1Um9UNU5uZHNNb0ZrRFBZdEF6U1hoYTFOT1NLQnVOTzY4eVdpR0RGNVdYelE?oc=5",
+   "outlet": "urbanstreet.com.pe",
+   "via": "Google News",
+   "published": "2026-11-26T03:38:34+00:00",
+   "seen": "2026-11-26T13:10:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "gta 6 easter eggs hidden references",
    "title": "GTA 6 - Easter Eggs & Hidden References",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91c1BMMDlzd19keW5JWWxYOXlyQ0M5Zm94YTg2cE1ySjNQd0VXbXdVNFc0NkV3UGx5Y3E3Q3I4Y2ZRdm5DWF8zWHd5aVN2NHNxVmlySHVoRm5iOHRhc0s5d1lVU3dkSFZyWGlWRUwteEJ6MGFHdlJF?oc=5",
@@ -2355,6 +2391,18 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story presents a LEGO GTA VI diorama featuring a speedboat getaway on a shelf."
+  },
+  {
+   "id": "refurbished ps5 pro is back in stock on the official playstation store but it may sell out quickly amid gta 6 hype",
+   "title": "Refurbished PS5 Pro is back in stock on the official PlayStation Store, but it may sell out quickly amid GTA 6 hype",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYnhBSmVaODZIWVFyN3diYnJEZzVjZ0ZTeXpYdVA3d203MnRxOW9JTDdvTWlsbVFUa0c2dDlDVzBvXzhMd0JaNUhqTHRnVUNYUHdHOUJrMUFmUGpFZmNQajdlU1hyVjJ2cDBTdEFtTmpKRzV0Z2lOTmVFcDFrdzRqR2xTX0RIdVY1b1VrUWlNTnlNNG9Qc2R2TTF1Njk2aEtmVjdFRXdBb05POFQ2UGowRFhoQjJHS1ctSzNRb2NQdExfdmx3S3dDNGJKZ25fdE9iWXR3VGxkQTY3Yi1lNUFGSzRpbFRyUXloSm1mdXFDWWY?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-26T01:24:00+00:00",
+   "seen": "2026-11-26T13:10:26+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
   },
   {
    "id": "neuralink trial participant plays gta 6 through his brain implant",
