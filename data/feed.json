@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T04:12:19+00:00",
- "started": "2026-11-26T04:12:16+00:00",
+ "updated": "2026-11-26T04:17:24+00:00",
+ "started": "2026-11-26T04:17:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T04:12:16+00:00"
+   "checked": "2026-11-26T04:17:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-26T04:12:17+00:00"
+   "checked": "2026-11-26T04:17:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-26T04:12:17+00:00"
+   "hits": 64,
+   "checked": "2026-11-26T04:17:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T04:12:17+00:00"
+   "checked": "2026-11-26T04:17:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T04:12:17+00:00"
+   "checked": "2026-11-26T04:17:19+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T04:12:17+00:00"
+   "checked": "2026-11-26T04:17:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T04:12:18+00:00"
+   "checked": "2026-11-26T04:17:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T04:12:18+00:00"
+   "checked": "2026-11-26T04:17:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T04:12:18+00:00"
+   "checked": "2026-11-26T04:17:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T04:12:18+00:00"
+   "checked": "2026-11-26T04:17:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T04:12:19+00:00"
+   "checked": "2026-11-26T04:17:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T04:12:19+00:00"
+   "checked": "2026-11-26T04:17:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T04:12:19+00:00"
+   "checked": "2026-11-26T04:17:21+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T04:12:19+00:00"
+   "checked": "2026-11-26T04:17:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "all unique animal map locations in grand theft auto 6",
+   "title": "All Unique Animal Map Locations in Grand Theft Auto 6",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFRS0M4NlBqajVYRkgtT2NvMF80dmxQTHBKczBkVEJxUFM3SXpLOXpJRkNTdVY0SUM4U0tqcHdYX2oyV1BSUXBxSG03TkV0em85dkRxaEhoTTVoVnd5a2dKQTBXczdSNElCa3pBdTRSRVNMOHlIbHI0Z0h6N051dUF5d05ldE0?oc=5",
+   "outlet": "Mobalytics",
+   "via": "Google News",
+   "published": "2026-11-26T04:13:15+00:00",
+   "seen": "2026-11-26T04:17:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "All Unique Animal Map Locations in Grand Theft Auto 6 reports on the locations of unique animals on the in-game map."
+  },
+  {
+   "id": "how to unlock hunting in grand theft auto 6",
+   "title": "How to Unlock Hunting in Grand Theft Auto 6",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zMGJLOTRYYWNOZ1l1eXVmMUtUMnFoY3p5TGJ5b0FCNGdpM1k5ZUhXU21XeVBpUjlheGU4c051VzRZNVBoWDVfaWxVZnZWeGd6cnVhZElwYkJNQmJaeTJMaDk0X28yNFFtSUhPTTJkbUhobmJSWXBTdFlB?oc=5",
+   "outlet": "Mobalytics",
+   "via": "Google News",
+   "published": "2026-11-26T04:13:15+00:00",
+   "seen": "2026-11-26T04:17:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "How to Unlock Hunting in Grand Theft Auto 6 explains how to access hunting features in the game."
+  },
   {
    "id": "south park season 29 finale gta 6 data centers and billionares",
    "title": "'South Park' Season 29 Finale: 'GTA 6,' Data Centers and Billionares",
@@ -116,6 +142,32 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports on the South Park season finale featuring GTA 6, data centers, and billionaires."
+  },
+  {
+   "id": "alternate cut scene in gta 6 s chapter 1 finale",
+   "title": "Alternate Cut Scene In GTA 6's Chapter 1 Finale",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CRXE0cnlFOHctNjEwNzd4c0IzV01sTEwyWG1BcEFoektzdDRGUjBCT1JNc1lCUHRFaVplTXlkRjRRUUhieGxqT0tjdTk4S1ZiX2gxVmtNNjZUYU43S1NTeEVSbGlTWkkwMlUxZjA2VXlEN0dhVnlPVFBpVVIwdw?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-26T03:56:26+00:00",
+   "seen": "2026-11-26T04:17:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Alternate Cut Scene In GTA 6's Chapter 1 Finale describes a different cut scene present in the Chapter 1 finale."
+  },
+  {
+   "id": "pro s and con s of gta 6 s fast travel options",
+   "title": "Pro's And Con's Of GTA 6's Fast Travel Options",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55dGtJTmRTRFU2X3ByOXBqVGFsaEdVZFBXcGk2Zk1rc19WX3l4bXF1Sm16UEJNSk93cGpuUnpfYXBhOWdqV2ZzQ2F2WHRxSEd1TFdWdFpMMExfd3dtdmJ0WHF6WTEwZGNpVkFabmlXampKVHh3V0xPMzlR?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-26T03:55:09+00:00",
+   "seen": "2026-11-26T04:17:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "Pro's And Con's Of GTA 6's Fast Travel Options discusses advantages and disadvantages of fast travel choices."
   },
   {
    "id": "south park celebrates gta vi but outages ai data centers zombie kenny stand in the way in season 29 finale",
