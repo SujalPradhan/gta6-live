@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T00:06:00+00:00",
- "started": "2026-11-26T00:05:56+00:00",
+ "updated": "2026-11-26T00:10:57+00:00",
+ "started": "2026-11-26T00:10:51+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,115 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-26T00:05:57+00:00"
+   "hits": 93,
+   "checked": "2026-11-26T00:10:51+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-26T00:05:57+00:00"
+   "hits": 55,
+   "checked": "2026-11-26T00:10:52+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 72,
-   "checked": "2026-11-26T00:05:58+00:00"
+   "hits": 66,
+   "checked": "2026-11-26T00:10:52+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T00:05:58+00:00"
+   "checked": "2026-11-26T00:10:52+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T00:05:58+00:00"
+   "checked": "2026-11-26T00:10:52+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T00:05:58+00:00"
+   "checked": "2026-11-26T00:10:53+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T00:05:58+00:00"
+   "checked": "2026-11-26T00:10:53+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T00:05:58+00:00"
+   "checked": "2026-11-26T00:10:53+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T00:05:59+00:00"
+   "checked": "2026-11-26T00:10:53+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T00:05:59+00:00"
+   "checked": "2026-11-26T00:10:53+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T00:05:59+00:00"
+   "checked": "2026-11-26T00:10:54+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T00:05:59+00:00"
+   "checked": "2026-11-26T00:10:54+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T00:05:59+00:00"
+   "checked": "2026-11-26T00:10:54+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T00:06:00+00:00"
+   "checked": "2026-11-26T00:10:54+00:00"
   }
  },
  "items": [
+  {
+   "id": "players have discovered a famous easter egg in gta 6 featuring the chainsaw scene from the movie scarface",
+   "title": "Players have discovered a famous Easter egg in GTA 6 featuring the chainsaw scene from the movie Scarface.",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdTdwQzFra0VZSExBS0NNZ1ZmQ1ktU053Y29NSkRTYmRwUWpCUGdRYUFkc081Sjd1bkZ1YkljRldZWXl1d2NiSGZTcWZPVGkwZG1ZUXVfRnUwUmVvU19BR0tCY2c3Q2VxTVRSZnFPdVQ3R2ttSmo5WmRGSFc3X1BGTzlzY19OcEx2bmJjVVpDN3BUTENsRlR3ZnpabUFTRzhNY2ZVNW1FcXhfZGozWHVMY0ctakx6TzF2dXE4QzdNbkRNNF9oMEFLa1Uzdw?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-25T23:58:16+00:00",
+   "seen": "2026-11-26T00:10:51+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that players have found a well-known Easter egg in GTA 6 featuring the Scarface chainsaw scene."
+  },
   {
    "id": "after grand theft auto vi revived her single carly rae jepsen might buy a jet ski too",
    "title": "After ‘Grand Theft Auto VI’ revived her single, Carly Rae Jepsen might buy a jet ski too",
@@ -1195,6 +1208,19 @@
    "topic": "Sales",
    "record": false,
    "ai_summary": "The story reports GTA VI drew 39 million unique PS5 players in four days and generated $3.79 billion on launch day."
+  },
+  {
+   "id": "gta vi surpasses 39 million unique ps5 players in four days setting playstation launch record",
+   "title": "GTA VI Surpasses 39 Million Unique PS5 Players in Four Days, Setting PlayStation Launch Record",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0JKb3Bnc3BvX0V5WG94aEo3Q0Q5eU5QUXBMTjZHYjUtQTUyQWlSOFBkWGdoLVZtZ3RHQUwycnU0QkwyaHVYYldMd1d0V2ZNLXB1eTN4UTFjTGd2aGJsaEJBWXdpM0RldmNydF9vN2RBRnZpSkZoR3Q2Z21UZWZVdWJINWlnSmI0QmdXdzY5WVVnUGdna0VYN3Z5azItLVpmUldWSUxKenA5TFplS01ScTByN1lwRklkaEhj?oc=5",
+   "outlet": "inkl",
+   "via": "Google News",
+   "published": "2026-11-25T19:08:29+00:00",
+   "seen": "2026-11-26T00:10:52+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true,
+   "ai_summary": "The story reports that GTA VI surpassed 39 million unique PS5 players in four days, setting a PlayStation launch record."
   },
   {
    "id": "gta 6 gave me guns cars and cash all i wanted was to take pictures",
