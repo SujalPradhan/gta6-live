@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T01:06:21+00:00",
- "started": "2026-11-26T01:06:18+00:00",
+ "updated": "2026-11-26T01:11:27+00:00",
+ "started": "2026-11-26T01:11:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-26T01:06:18+00:00"
+   "checked": "2026-11-26T01:11:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 37,
-   "checked": "2026-11-26T01:06:18+00:00"
+   "checked": "2026-11-26T01:11:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 70,
-   "checked": "2026-11-26T01:06:19+00:00"
+   "hits": 73,
+   "checked": "2026-11-26T01:11:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T01:06:19+00:00"
+   "checked": "2026-11-26T01:11:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T01:06:19+00:00"
+   "checked": "2026-11-26T01:11:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T01:06:19+00:00"
+   "checked": "2026-11-26T01:11:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T01:06:20+00:00"
+   "checked": "2026-11-26T01:11:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T01:06:20+00:00"
+   "checked": "2026-11-26T01:11:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T01:06:20+00:00"
+   "checked": "2026-11-26T01:11:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T01:06:20+00:00"
+   "checked": "2026-11-26T01:11:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T01:06:21+00:00"
+   "checked": "2026-11-26T01:11:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T01:06:21+00:00"
+   "checked": "2026-11-26T01:11:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T01:06:21+00:00"
+   "checked": "2026-11-26T01:11:25+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T01:06:21+00:00"
+   "checked": "2026-11-26T01:11:25+00:00"
   }
  },
  "items": [
@@ -116,6 +116,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports that GTA 6's map has a useful feature that the author noticed after many hours of play."
+  },
+  {
+   "id": "gta 6 how to unlock more legendary vehicles and weapons",
+   "title": "GTA 6: How To Unlock More Legendary Vehicles And Weapons",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OUVVuOWwweVZWMjF1QWhuVHc0ZUJJejhGdXNDTHRFQ0U3emg2bmg1SGVtTDFZV2ZYT0tIcGNTQnNEN3gtUzFiNGplb05tZ2NMWGFpNksyN0xnb3pDbTl1b1ExdG9qUlE5TzN3X0xHeURfT1RjaEw1R3BNZHI?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-26T01:00:00+00:00",
+   "seen": "2026-11-26T01:11:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on how to unlock more legendary vehicles and weapons in GTA 6."
   },
   {
    "id": "rockstar explains why it added consequences to gta 6 s violence and crimes",
@@ -220,6 +233,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story presents the current status of GTA 6 on PC, covering everything you need to know."
+  },
+  {
+   "id": "gta 6 players find dexter morgan s apartment and boat hiding in vice city",
+   "title": "‘GTA 6’ Players Find Dexter Morgan’s Apartment and Boat Hiding in Vice City",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LRnFwcXFzZnl2cFVNSWJZd3dQcEFOM1RGRzBfeVlUWmJ5TnRtM0hMaFlwYnJPT3ZGMjhIdG4xTnlkejRhXzVyVl9QS0J3R2VnWlE?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-25T23:24:49+00:00",
+   "seen": "2026-11-26T01:11:22+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false,
+   "ai_summary": "The story reports that players have found Dexter Morgan’s apartment and boat hiding in Vice City in GTA 6."
   },
   {
    "id": "scranton native voices character in newly released gta vi video game",
@@ -701,6 +727,19 @@
    "topic": "News",
    "record": false,
    "ai_summary": "The story reports video game conversation starters that are not about GTA 6."
+  },
+  {
+   "id": "here are some video game conversation starters that aren t about gta 6",
+   "title": "Here Are Some Video Game Conversation Starters That Aren’t About GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVM2UFk5aWpaUWdaNmhnWWJQMksyVE14cDFNa3F0NG5WVkduVzlyblIyOFJUMTg1STE4T3lza0hlZGNWeVZQSERfeEFTUXp6bmJlWF9XZS1acWQ1N21Scl93azNSX3dSVV8wUkhoazZ2bXA3MEY0Q0tsYVJPU2c2amJkN0FWdVo0d3o1TDhrcm5nYWp6Vk1KMmtlMA?oc=5",
+   "outlet": "Kotaku",
+   "via": "Google News",
+   "published": "2026-11-25T21:07:26+00:00",
+   "seen": "2026-11-26T01:11:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story reports on video game conversation starters that aren’t about GTA 6."
   },
   {
    "id": "gta 6 publisher furious as reverse engineers get it running on pc",
