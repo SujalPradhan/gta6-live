@@ -1,109 +1,145 @@
 {
- "updated": "2026-11-26T16:01:32+00:00",
- "started": "2026-11-26T16:01:28+00:00",
+ "updated": "2026-11-26T16:06:30+00:00",
+ "started": "2026-11-26T16:06:28+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-26T16:01:29+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 100,
+   "checked": "2026-11-26T16:06:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-26T16:01:29+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 29,
+   "checked": "2026-11-26T16:06:29+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-26T16:01:29+00:00"
+   "hits": 51,
+   "checked": "2026-11-26T16:06:29+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T16:01:30+00:00"
+   "checked": "2026-11-26T16:06:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-26T16:01:30+00:00"
+   "checked": "2026-11-26T16:06:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-26T16:01:30+00:00"
+   "checked": "2026-11-26T16:06:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 17,
-   "checked": "2026-11-26T16:01:30+00:00"
+   "hits": 16,
+   "checked": "2026-11-26T16:06:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 12,
-   "checked": "2026-11-26T16:01:31+00:00"
+   "checked": "2026-11-26T16:06:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:01:31+00:00"
+   "checked": "2026-11-26T16:06:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-26T16:01:31+00:00"
+   "checked": "2026-11-26T16:06:30+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T16:01:32+00:00"
+   "checked": "2026-11-26T16:06:30+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T16:01:32+00:00"
+   "checked": "2026-11-26T16:06:30+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T16:01:32+00:00"
+   "checked": "2026-11-26T16:06:30+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T16:01:32+00:00"
+   "checked": "2026-11-26T16:06:30+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi s launch causes 26 drop in live service game attention",
+   "title": "GTA VI’s launch causes 26% drop in live-service game attention",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYjJOYVJYTkt2a1p6eGV5MnZBdXlkNjJMQllPYVlQY0RjWUZocW40ZG1UbVZERFJwSFh4Y1dNTzJUUFB0b2pseXZXNUt5eFhfUTFzbnFfSVZjVkI3Qkp0QmlaV1cwQk1SaU9YenRHNzdubHBVLWRtbFVlWkQ1eHVjZURxeDhDUEdmWGI0?oc=5",
+   "outlet": "GamesBeat",
+   "via": "Google News",
+   "published": "2026-11-26T16:02:17+00:00",
+   "seen": "2026-11-26T16:06:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi the album deluxe edition adds 23 new tracks from travis scott slayyyter and more",
+   "title": "'GTA VI: The Album' (Deluxe Edition) Adds 23 New Tracks From Travis Scott, Slayyyter and More",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3RFdjlaZGpyZXpCbmN2OTVBY21PNmhtcURiblFzR1lNYUFad3lXaUQxSkdYV3lvTFg0ekVKMkZ2TXYtT2Znd0FiZ3VZZEx5NzhESjlYQ3gtY0MxOVhzeFpiQ2o5ek1uaFNuZDViUkk4TktOaVliSUMtZVg0ZEZiWUpuOERDOFJZSEZzNlRlWTFiX0tsMXFEUlFiV0FYblIxWk1yWTFZZkZWejFjQ3c?oc=5",
+   "outlet": "CelebMix",
+   "via": "Google News",
+   "published": "2026-11-26T16:01:41+00:00",
+   "seen": "2026-11-26T16:06:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "as anthropic ipos grand theft auto vi proves why efficiency isn t a virtue",
+   "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1R3cmlmQUhhMmw5b2Rsc0hZNVhWbEFyVXRFaXM3bVE3NWsta2k2QmFyekZzdDJwd3NJbDZ1bUJ3aVIzdDI4allRbkxvZjVkOXY0a2ZRZHRTM202cjRLWWtmLWRheFJjUHFDbm5rNzhpeHRUNHJLcUFLMEZZaEZMY2RCSkVhNG12TlJycTd6eVljblNEeXFlTWotQlpMRkd2R2hPYTQyYUd1eXhv?oc=5",
+   "outlet": "TechCrunch",
+   "via": "Google News",
+   "published": "2026-11-26T16:00:00+00:00",
+   "seen": "2026-11-26T16:06:28+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta vi developers vote against unionization",
    "title": "GTA VI developers vote against unionization",
