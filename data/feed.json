@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T07:58:42+00:00",
- "started": "2026-11-26T07:58:38+00:00",
+ "updated": "2026-11-26T08:03:39+00:00",
+ "started": "2026-11-26T08:03:33+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,127 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-26T07:58:38+00:00"
+   "checked": "2026-11-26T08:03:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-26T07:58:38+00:00"
+   "hits": 30,
+   "checked": "2026-11-26T08:03:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-26T07:58:39+00:00"
+   "hits": 61,
+   "checked": "2026-11-26T08:03:34+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-26T07:58:39+00:00"
+   "checked": "2026-11-26T08:03:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-26T07:58:39+00:00"
+   "checked": "2026-11-26T08:03:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 59,
-   "checked": "2026-11-26T07:58:39+00:00"
+   "checked": "2026-11-26T08:03:35+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-26T07:58:39+00:00"
+   "checked": "2026-11-26T08:03:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-26T07:58:39+00:00"
+   "checked": "2026-11-26T08:03:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T07:58:39+00:00"
+   "checked": "2026-11-26T08:03:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 10,
-   "checked": "2026-11-26T07:58:39+00:00"
+   "checked": "2026-11-26T08:03:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-26T07:58:40+00:00"
+   "checked": "2026-11-26T08:03:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-26T07:58:40+00:00"
+   "checked": "2026-11-26T08:03:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-26T07:58:40+00:00"
+   "checked": "2026-11-26T08:03:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-26T07:58:40+00:00"
+   "checked": "2026-11-26T08:03:37+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi lives up to its hype",
+   "title": "Grand Theft Auto VI lives up to its hype",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVFDcWZaTEt0eW1wRFBPa1JRRVdtbTl0LWVkamJGSTNkcDB6aG5PaGNXak5TdlNyOS1rUWRGU3FpUDFMN1MzT1VuN3pDU1ZNREpnc0ZEaVE5QVh3Y296OW83WjVlYjJJLXBZYUlNVHVWdkJnN2xFeWljQWVqWkRGbk96UEJWV0U5WS1HR0VBbw?oc=5",
+   "outlet": "The Lewiston Tribune",
+   "via": "Google News",
+   "published": "2026-11-26T08:02:21+00:00",
+   "seen": "2026-11-26T08:03:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims Grand Theft Auto VI lives up to its hype."
+  },
+  {
+   "id": "gta 6 has 10 tattoo parlours you don t need the ultimate edition to visit",
+   "title": "GTA 6 has 10 tattoo parlours you don't need the Ultimate Edition to visit",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaG4zbXZzM3lnSUJWejN6TnZ0clp5NFBFRlp4eTFrNnVtZ25yaEVQVVJaWjN5c01meGtveE4ySFJrUVpWOXh0S3ZkcEVUbHFta09jc2NwemlFZW9yZ3poRFdqMVFYOE1sNWRFakdSWmR0WGxKT3hPYTFuUmlPRHRiUktn?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-26T08:00:00+00:00",
+   "seen": "2026-11-26T08:03:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false,
+   "ai_summary": "The story claims GTA 6 has ten tattoo parlours you can visit without the Ultimate Edition."
+  },
   {
    "id": "an enthusiast launched the gta 6 loading screen on the steam deck portable console at 30 fps",
    "title": "An enthusiast launched the GTA 6 loading screen on the Steam Deck portable console at 30 FPS.",
