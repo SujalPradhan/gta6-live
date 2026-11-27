@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T19:10:35+00:00",
- "started": "2026-11-27T19:10:31+00:00",
+ "updated": "2026-11-27T19:15:33+00:00",
+ "started": "2026-11-27T19:15:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T19:10:31+00:00"
+   "checked": "2026-11-27T19:15:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 30,
-   "checked": "2026-11-27T19:10:32+00:00"
+   "hits": 50,
+   "checked": "2026-11-27T19:15:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-27T19:10:32+00:00"
+   "checked": "2026-11-27T19:15:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T19:10:32+00:00"
+   "checked": "2026-11-27T19:15:31+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T19:10:33+00:00"
+   "checked": "2026-11-27T19:15:31+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-27T19:10:33+00:00"
+   "checked": "2026-11-27T19:15:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T19:10:33+00:00"
+   "checked": "2026-11-27T19:15:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T19:10:33+00:00"
+   "checked": "2026-11-27T19:15:32+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T19:10:33+00:00"
+   "checked": "2026-11-27T19:15:32+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T19:10:34+00:00"
+   "checked": "2026-11-27T19:15:32+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T19:10:34+00:00"
+   "checked": "2026-11-27T19:15:33+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T19:10:35+00:00"
+   "checked": "2026-11-27T19:15:33+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T19:10:35+00:00"
+   "checked": "2026-11-27T19:15:33+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T19:10:35+00:00"
+   "checked": "2026-11-27T19:15:33+00:00"
   }
  },
  "items": [
+  {
+   "id": "where to find gta 6 s the last of us easter egg",
+   "title": "Where To Find GTA 6's The Last Of Us Easter Egg",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wSTkyX21RaGFZQS0xYjlGQTdod0Mzcnhhc2lmdmR1VU5xQnBidHBmSEswRk14VmdXSDBhd25VLTlyRVlXYkh5NHhnYXNkNlRKLVA5VzA1LVVQTW92VTJuUkhCcWNBNjQ?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-27T19:11:49+00:00",
+   "seen": "2026-11-27T19:15:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "github deletes post promoting ps5 to pc project anyps5 days after axing 3 000 gta 6 pc port repos",
+   "title": "GitHub deletes post promoting PS5-to-PC project AnyPS5 days after axing 3,000 GTA 6 PC port repos",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOcm9Ld0dVaVNHbHBESFBWcHVEMkdvaVd6NGlOZ3p2d2JfWS1oOGYycElDeVZVRVBURTJjRGwwdUpaaDliaDc0bl9RUzhtNTVhei1aYll6TU8za0hJWWlibU5lMGt0d3UtTHhpZWV2V0ZjUXRCRkJWNG5DazY0NUtKcUQ1a1JLTEQ1emVUVmRtVThLY2R1bnM1bllQT3k3OWVHQ3JLNm5yRkRNamNQS0k3TUg1Ny1ZY1JnR2pxRTF0SS03YVFqM1lNcnhDLW5wREVsaHA3V2xSd2d3N1VSRWptRE91anM4c1VIejhUUjRxNzdQTWs1ekZTbVFINnctQ05zQU5wSVRneFFKWUFOcDNKbnpmTi0wb3VsS0ZzSURtbDhTRGc?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-27T19:10:04+00:00",
+   "seen": "2026-11-27T19:15:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "micha l brun talks ten years of bayo gta vi and his kodak black collaboration",
    "title": "Michaël Brun Talks Ten Years of BAYO, 'GTA VI,' and His Kodak Black Collaboration",
@@ -160,6 +184,18 @@
    "via": "Google News",
    "published": "2026-11-27T18:54:57+00:00",
    "seen": "2026-11-27T19:00:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "someone already made a multiplayer mod for an unofficial gta 6 pc port and it seems to run surprisingly smoothly",
+   "title": "Someone already made a multiplayer mod for an unofficial GTA 6 PC port, and it seems to run surprisingly smoothly",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlk5RWVIaXJMclRQcXJ4MTlTQ1M2M2ZUaDlTeW1pay1oTlhCT2ZPWXBqdkZiWlh1cGNxZlBvX05uelZFSU05cDNwZHRtWjBtNVRiMFVBeElEWUVINnNZeGJZMEV3Q2NoYUUtbGdLaXZycmhXMS1Ld0pCa2VNYlJFdjlOYTFBT2Q0QkhrRWhwdmpwOFgyVklvZ1JhXzQ5bjBMRUE?oc=5",
+   "outlet": "XDA",
+   "via": "Google News",
+   "published": "2026-11-27T18:53:05+00:00",
+   "seen": "2026-11-27T19:15:30+00:00",
    "summary": "",
    "topic": "News",
    "record": false
