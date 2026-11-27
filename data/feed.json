@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T03:15:19+00:00",
- "started": "2026-11-27T03:15:17+00:00",
+ "updated": "2026-11-27T03:20:19+00:00",
+ "started": "2026-11-27T03:20:16+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T03:15:17+00:00"
+   "checked": "2026-11-27T03:20:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-27T03:15:17+00:00"
+   "hits": 53,
+   "checked": "2026-11-27T03:20:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-27T03:15:18+00:00"
+   "hits": 58,
+   "checked": "2026-11-27T03:20:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-27T03:15:18+00:00"
+   "checked": "2026-11-27T03:20:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T03:15:18+00:00"
+   "checked": "2026-11-27T03:20:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T03:15:18+00:00"
+   "checked": "2026-11-27T03:20:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T03:15:18+00:00"
+   "checked": "2026-11-27T03:20:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T03:15:19+00:00"
+   "checked": "2026-11-27T03:20:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T03:15:19+00:00"
+   "checked": "2026-11-27T03:20:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T03:15:19+00:00"
+   "checked": "2026-11-27T03:20:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T03:15:19+00:00"
+   "checked": "2026-11-27T03:20:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T03:15:19+00:00"
+   "checked": "2026-11-27T03:20:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T03:15:19+00:00"
+   "checked": "2026-11-27T03:20:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T03:15:19+00:00"
+   "checked": "2026-11-27T03:20:19+00:00"
   }
  },
  "items": [
@@ -352,6 +352,18 @@
    "via": "Google News",
    "published": "2026-11-27T00:00:50+00:00",
    "seen": "2026-11-27T00:04:11+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "all gta 6 missing persons locations and how to find the serial killer",
+   "title": "All GTA 6 missing persons locations and how to find the serial killer",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1R1UkZOZmJOX005NHFmOXZZUkpJcnFfUVZfcjRVOTZWMUstaVMzb0otbTV1Vjl6NHRFdmdTZDhlYlpvc3BzMzAwM0ZQUTRFNzM1NkN2Y19FRGdESlBURm42YWJ2dEVva2thdUVabEVCWVNhNElvS0JvS2x5NjVieFlybTBlLWswZEptT1dwaTlhVmlCMVhvOEcyZ3VfU21HOU9YOVlYajByWk9nbm85VUdBZDNNdENtY0p6bg?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-26T23:50:42+00:00",
+   "seen": "2026-11-27T03:20:16+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -1029,6 +1041,18 @@
    "record": false
   },
   {
+   "id": "gta vi is officially the biggest launch in playstation history with over 39 million players",
+   "title": "GTA VI is Officially the Biggest Launch in PlayStation History With Over 39 Million Players",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPck1RSml6dFItRkVZV3ZoYXV0bjY5Y0toZTJNY3FyVXpucklEYVJKM09EakRrMHI4b2NUY2xFUm8wX2VkRTRhLVZVTW8zTWhLd0lEc29DbzctWmRaUzB1OENvbHlMblBtclNxaUlwbEJSTS1OM0N5dDU5N0F3QTZxZEozTUtrWFZyLURRNFliYlcyMGJkZWxQamliTm9jampWTXBsRXk4YlpVWE1iOTV0T3dtRFBpVjhEUjM0?oc=5",
+   "outlet": "GeekTyrant",
+   "via": "Google News",
+   "published": "2026-11-26T19:57:00+00:00",
+   "seen": "2026-11-27T03:20:16+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": true
+  },
+  {
    "id": "what s the easiest bank to rob in gta 6 easiest 200 000 bank heist location",
    "title": "What's the Easiest Bank to Rob in GTA 6—Easiest $200,000 Bank Heist Location",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBenlBVGhuaDVKUmlxbFJIZjY5MUlDeko1Y1BPb3NuSE91TFpULXFrZG5EUHdjQm9FQm1VdGxxYmNUZjdieGZOT1o5b3FQcU5tc3VKcWs3ZU5PcGpIMGtOUGtSeGlFVFM0X01iQUNIN3ZuV1Aw?oc=5",
@@ -1529,6 +1553,18 @@
    "published": "2026-11-26T18:00:00+00:00",
    "seen": "2026-11-26T18:07:16+00:00",
    "summary": "Grand Theft Auto 6 \"opens a new range of choices and decisions\"",
+   "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "rockstar boss knew some gta 6 players would reject the criminal profile system but assures you can still do whatever you wanted to do before",
+   "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system, but assures \"you can still do whatever you wanted to do before\"",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQaTgwZDAxbzVTOGQzclYzUHlTbWdfaXowNy0tUTMyWktwSWRRNkU2a3ZreFQyV2QwSU1HZzF1OG10UGxnTUdkYTR5azJJR2xIcS10RUl0bGF4LXlRYVJ6LUMxNGtVaWtEd0o4T05rMzNsSDlGWGloNDk5dnItQ1VBSHdZOFJoNVZ2S2VCQ1k4VnZUSkk1YURzeWptdWphR3dENkZBM3JsODB2Q2JMTl8tTGhCbmFtWWg0cFA2VTRBVzVrckxkZjBEdG41enkxekhwUEF4cncxQnQ5UXVDYWo0SWpab1Vja1Z5Y0JqbHA2Sm5BNHVoLXE5QWl3VmsxSlRfT3Q5Zm1rYUlGRFRpNzBjdV92dTRJVW5iS2FR?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-26T18:00:00+00:00",
+   "seen": "2026-11-27T03:20:16+00:00",
+   "summary": "",
    "topic": "Players",
    "record": false
   },
@@ -4411,6 +4447,18 @@
    "summary": "Movie theater visits, too!",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "gta 6 launch breaks record and pulls engagement away from fortnite and call of duty",
+   "title": "GTA 6 Launch Breaks Record and Pulls Engagement Away from Fortnite and Call of Duty",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSm1IajRQeVI3MWMwZ0RtM0RidDVPdlhpbk92aDk1aVhFanpkYTh4Z09YNWJOWnBURC0xUEVCdEM1cUduaVBfTVRtOUM3YTZKR0d5OWtSYVdsUmNTaTh5ZTJnSncwRU11MU9rZGpBd1NXTjBXQTkwQ1JtYUNHZUZVcU0wVkxpQ0RLTTZFWXlPQThsRWZQdlAyLTZmNDdZcEpRd3RKejBBRHVXQUIxVmtrbXV0TkpFcVoxSzhkX2dLNGjSAcYBQVVfeXFMTUZrdDhtcmZsR0c3XzNYVmxSdnBhTUU4Vkd4dDdXam1GNkVJZk5jcjdrc19mMWkxazBQb1duLTQ3RVA3RGYwOTctT0pUd2U2X21yc2JvUkZRM2dCdmlEVUtKVjdMQ01tTHV4c0dwc1h1ajZycTFZOHoxWU1qOXA5N3V1Qk5vMVJpZXhYRGtNYkRyM1hFV3RCTlBIYmN6ZEVZcGJhbi1MQi1ULS12ZEQ2YlM0VXNERzVuY1FXQnlvNUJqWnFfMi1R?oc=5",
+   "outlet": "PCQuest",
+   "via": "Google News",
+   "published": "2026-11-26T11:31:40+00:00",
+   "seen": "2026-11-27T03:20:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
   },
   {
    "id": "all waink sculpture locations in gta 6",
