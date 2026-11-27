@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T07:16:34+00:00",
- "started": "2026-11-27T07:16:31+00:00",
+ "updated": "2026-11-27T07:21:38+00:00",
+ "started": "2026-11-27T07:21:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T07:16:32+00:00"
+   "checked": "2026-11-27T07:21:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-27T07:16:32+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 56,
+   "checked": "2026-11-27T07:21:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-27T07:16:32+00:00"
+   "hits": 55,
+   "checked": "2026-11-27T07:21:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T07:16:33+00:00"
+   "checked": "2026-11-27T07:21:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T07:16:33+00:00"
+   "checked": "2026-11-27T07:21:36+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T07:16:33+00:00"
+   "checked": "2026-11-27T07:21:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T07:16:33+00:00"
+   "checked": "2026-11-27T07:21:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T07:16:33+00:00"
+   "checked": "2026-11-27T07:21:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T07:16:33+00:00"
+   "checked": "2026-11-27T07:21:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T07:16:34+00:00"
+   "checked": "2026-11-27T07:21:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T07:16:34+00:00"
+   "checked": "2026-11-27T07:21:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T07:16:34+00:00"
+   "checked": "2026-11-27T07:21:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T07:16:34+00:00"
+   "checked": "2026-11-27T07:21:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T07:16:34+00:00"
+   "checked": "2026-11-27T07:21:38+00:00"
   }
  },
  "items": [
@@ -136,6 +136,18 @@
    "via": "Google News",
    "published": "2026-11-27T06:40:00+00:00",
    "seen": "2026-11-27T06:51:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "lucia actress says she spent almost a decade on the role in gta vi",
+   "title": "Lucia Actress Says She Spent Almost a Decade on the Role in GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDZ5VVhLd1J3U08xNE9ydzVRZHJUT0l2NnEtUTl1ejREbkdsMjlUNWx3SHNyam4yRUVVX2dacTNrYTduejdwN2VCV3RCaGtJQ2RMV1hEUGxjMlYtb25PYlZFRjNLUktDVmFuXzA4MHo1bUJIVnoya2tqQXhFbV9xNmw1SGRkZEJ5SXdrd0tKTVFlMFVWTURRU1NnMA?oc=5",
+   "outlet": "GamerBraves",
+   "via": "Google News",
+   "published": "2026-11-27T06:31:41+00:00",
+   "seen": "2026-11-27T07:21:34+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -630,6 +642,18 @@
    "seen": "2026-11-27T00:54:34+00:00",
    "summary": "From GT to GTA. Rockstar hired a former Gran Turismo pro to help master the car handling in GTA 6 . Lewis Bentley, a 2018 GT World Series Finalist , says he spent the last three-and-a-half years heads down with the studio’s physics team, working on how the cars feel to drive. Read the full article on pushsquare.com",
    "topic": "Outage",
+   "record": false
+  },
+  {
+   "id": "gta 6 review better late than never",
+   "title": "GTA 6 review – better late than never",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4NUZCSDh5b3NsU0FvQUlua29yV0FKeEtQQVJKZExNWmNnbnlLMXdFVmdRN0VHbFAyNmlMQ1F6bnd4cHJtV0cwR242dk9oeE9hUEFsWkNrdGQtTVBxRUJvUHlqQkVWQUpSR2F6WGxEWElmY2gxMkJfcjg3SdIBgAFBVV95cUxOZ01vUWpWOW45UUpndTBnRXlKX21BNEMzYm5jMS1SLTNuWkNlN25peWdENThSZEZyUUFHNkFNNTcxZlJJUUFFR3A0Mlp5b2p3ZHZEUlNvVzk2QzcxcFVNWlNmRzdKRlRGUVY3RWt0T21VdzdBUldwUE4zQzR5S3dyMQ?oc=5",
+   "outlet": "Metro.co.uk",
+   "via": "Google News",
+   "published": "2026-11-27T01:00:00+00:00",
+   "seen": "2026-11-27T07:21:34+00:00",
+   "summary": "",
+   "topic": "Reviews",
    "record": false
   },
   {
