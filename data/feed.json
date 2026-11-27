@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T13:43:41+00:00",
- "started": "2026-11-27T13:43:38+00:00",
+ "updated": "2026-11-27T13:48:45+00:00",
+ "started": "2026-11-27T13:48:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T13:43:39+00:00"
+   "checked": "2026-11-27T13:48:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-27T13:43:39+00:00"
+   "checked": "2026-11-27T13:48:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-27T13:43:39+00:00"
+   "hits": 54,
+   "checked": "2026-11-27T13:48:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T13:43:40+00:00"
+   "checked": "2026-11-27T13:48:43+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T13:43:40+00:00"
+   "checked": "2026-11-27T13:48:43+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-27T13:43:40+00:00"
+   "checked": "2026-11-27T13:48:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T13:43:40+00:00"
+   "checked": "2026-11-27T13:48:44+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-27T13:43:40+00:00"
+   "checked": "2026-11-27T13:48:44+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T13:43:40+00:00"
+   "checked": "2026-11-27T13:48:44+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T13:43:41+00:00"
+   "checked": "2026-11-27T13:48:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T13:43:41+00:00"
+   "checked": "2026-11-27T13:48:45+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T13:43:41+00:00"
+   "checked": "2026-11-27T13:48:45+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T13:43:41+00:00"
+   "checked": "2026-11-27T13:48:45+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T13:43:41+00:00"
+   "checked": "2026-11-27T13:48:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "life has been a whirlwind gta 6 s lucia actress says thank you to fans",
+   "title": "'Life Has Been a Whirlwind': GTA 6's Lucia Actress Says Thank You to Fans",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYlZrYVdHd2xOMjJPYkJFc01uS0tDNVBwN0NyX2JSRmwta0FGdzlveVRfaFEtUHEyeVJTNXM0U0JnS2pJUEh2Y2JObHMtQTBHRVJRdkRVeWp4S3lZWGlSak4xMEVnd2VkWl81aDd3ZXZqVUhNMW4xcWNpY2lGVVZ0SnJVVUliVzF1a3FGWW11MWNVRHQ1Z1QzZEhfLTJ0cW5nZnZLRHpOdFVPVmN1U1E?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-27T13:45:00+00:00",
+   "seen": "2026-11-27T13:48:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "former gran turismo world series competitor worked on gta 6 vehicle physics",
    "title": "Former Gran Turismo World Series Competitor Worked on GTA 6 Vehicle Physics",
@@ -112,6 +124,18 @@
    "via": "Google News",
    "published": "2026-11-27T13:42:53+00:00",
    "seen": "2026-11-27T13:43:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "unofficial port of gta vi delivered 12 fps on pc with ryzen 5 4500 and rx 6600",
+   "title": "Unofficial port of GTA VI delivered 12 FPS on PC with Ryzen 5 4500 and RX 6600",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3JQby1FelRIR2llTEpiRTJBZGxoY1VfQWtHTktzdVJHMWhsZlo1S1B1eGF3dl9wVTlGWHdNeVNwclhGalBwR190eWJURTl6S0dEa1dIOEh1Yk9Dd0Y5T3B0a3V2T3NrT1V0WHFUWmRYdC14eVJIYTZwR3lTdlN0Vk9FWFhkZUhLLU1GSS1hNnNUNE1JTlIwVU53bnJjTkNyc0RxUg?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-27T13:41:30+00:00",
+   "seen": "2026-11-27T13:48:42+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -160,6 +184,18 @@
    "via": "Google News",
    "published": "2026-11-27T13:30:00+00:00",
    "seen": "2026-11-27T13:33:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 scooter bros have cars delivered repaired and brought back",
+   "title": "GTA 6 Scooter Bros: Have Cars Delivered, Repaired and Brought Back",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVhrdS1mMW5pZXlvb1ZQUDhTdHJUU1R0NDRISE4yazRMUC1XUEZYbGwwdnduSlhnY2UxNnpwdDNRR05rb1B1dzFJZG05RUhaMnhxTUs0RmVkUXFzSW5uY0ZKYzFZdnBGUWJZOHk0OFdFaDVLazFXaU16NmFCX2poejBjUkxNRFNJ?oc=5",
+   "outlet": "space4games",
+   "via": "Google News",
+   "published": "2026-11-27T13:29:09+00:00",
+   "seen": "2026-11-27T13:48:42+00:00",
    "summary": "",
    "topic": "News",
    "record": false
