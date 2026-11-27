@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T16:59:52+00:00",
- "started": "2026-11-27T16:59:47+00:00",
+ "updated": "2026-11-27T17:04:51+00:00",
+ "started": "2026-11-27T17:04:47+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T16:59:47+00:00"
+   "checked": "2026-11-27T17:04:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-27T16:59:48+00:00"
+   "hits": 32,
+   "checked": "2026-11-27T17:04:48+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-27T16:59:48+00:00"
+   "hits": 46,
+   "checked": "2026-11-27T17:04:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T16:59:48+00:00"
+   "checked": "2026-11-27T17:04:49+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T16:59:49+00:00"
+   "checked": "2026-11-27T17:04:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T16:59:50+00:00"
+   "checked": "2026-11-27T17:04:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T16:59:50+00:00"
+   "checked": "2026-11-27T17:04:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T16:59:50+00:00"
+   "checked": "2026-11-27T17:04:50+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T16:59:50+00:00"
+   "checked": "2026-11-27T17:04:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T16:59:51+00:00"
+   "checked": "2026-11-27T17:04:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T16:59:51+00:00"
+   "checked": "2026-11-27T17:04:50+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T16:59:51+00:00"
+   "checked": "2026-11-27T17:04:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T16:59:52+00:00"
+   "checked": "2026-11-27T17:04:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T16:59:52+00:00"
+   "checked": "2026-11-27T17:04:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "unofficial gta 6 pc port is now live no building required",
+   "title": "Unofficial GTA 6 PC Port Is Now Live, No Building Required",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzY3elB3UGgweUR3c2NYbU1RbXl3WF92LXNFM044ZXR0N1NIUV81eGYzelkxM296WFBSNDZ2QlBJTmhUYzl4TkptSGxDTHFkSXB0cHhseXY3djJpSTRtLW9IQXN1WGo4M2lNekhnZGhqc1lINE1xcUpTSEwxdUx2elZQZEQ2eVhjUjFQcV9RWjB5MjZNMVE?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-27T17:03:14+00:00",
+   "seen": "2026-11-27T17:04:48+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "get the limited edition gta 6 ps5 controller at best buy now",
+   "title": "Get the limited-edition GTA 6 PS5 Controller at Best Buy now",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56dG5uaDg4ZXlPV3lJTHZoUWxSXzg1cEk1SGtrdkxfRGo5dUtxNmRjU05sa2gtMGdXcHF4a0ZSQ1lzbDllMFFJYjdia3FjYWlCd29VS01tZXJMVDBOM1dYN1RSTDlHR2xySVg5WGtwTDRlbF9KVV9SYkxXZVhYZw?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-27T17:02:21+00:00",
+   "seen": "2026-11-27T17:04:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "6 essential gta 6 car mods you should pay for to make racing and heists easier",
+   "title": "6 essential GTA 6 car mods you should pay for to make racing and heists easier",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUdWVDZBU1B0Z3ZHS1dvRVFESTZ4OUNta0ZNTFJlYzR6Z2FWVXVUeTNXenphV2d4M2MwMnROMXUzbkRPRGsxSEtYUHJ3SUc0YUtqTGdCVFdSUWVsQ1RIRFFLRDVGbW5hbnJSOW5UbFJYQVdfTC1hdGNNcTVqU1R1dQ?oc=5",
+   "outlet": "GAMINGbible",
+   "via": "Google News",
+   "published": "2026-11-27T17:00:00+00:00",
+   "seen": "2026-11-27T17:04:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 can you get six stars with just one bullet",
    "title": "GTA 6: Can You Get Six Stars With Just One Bullet?",
@@ -225,6 +261,18 @@
    "record": false
   },
   {
+   "id": "a real birdwatching expert found all 60 gta 6 bird species and he s seriously impressed",
+   "title": "A Real Birdwatching Expert Found All 60 GTA 6 Bird Species, and He’s Seriously Impressed",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yUFpzYkhNRWkyOU9ndUtyUDNwQjF2c3cxcThwSlhOMVpITjhOemM1d1JLMGtsbzJDWl9VOENOM1NpVzlBdFRKM2FUbkdadw?oc=5",
+   "outlet": "GameByte",
+   "via": "Google News",
+   "published": "2026-11-27T16:43:17+00:00",
+   "seen": "2026-11-27T17:04:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "one week on here s the impact gta 6 s launch had on the industry so far",
    "title": "One week on, here's the impact GTA 6's launch had on the industry so far",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHRSc1l6c0d4Z2t4S3lKbUtzSDZod08wOG95Z1RjNmdPRDNMejBmdU40a0ItLWpZa3JsRzRfYjVqckRDRmhkQUdzeU00NHNQOUo5YVRlX3FaMlpzMm5COWg1UEpBOVlvaEk5NkNQTXpFek40cFJZc2RjRFpfRUNfc3dnTHl3SEI0X01WT3YyVzgzMGlmdjZBbmJDZy1tYmty?oc=5",
@@ -304,6 +352,18 @@
    "via": "Google News",
    "published": "2026-11-27T16:29:10+00:00",
    "seen": "2026-11-27T16:49:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "all snapmatic animal locations in gta 6",
+   "title": "All Snapmatic Animal locations in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHZVZU9VVjJlWlFtN1gzMVZ4eFZBcTV1WmFKa0ttTndzM0hmOXFGWVRkcVdkNmFudF9XdG5OS3lEbjduUmZNX3UwN0NJQUdsMVR2aHYwYVQ4MkxwQzhZNFpvUk9MYm5tamU0NWIyNnl2VlhCN2pEcFhfVmNpSGlGM3p4ZjlUSi03OVdraURRbw?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-27T16:28:11+00:00",
+   "seen": "2026-11-27T17:04:48+00:00",
    "summary": "",
    "topic": "News",
    "record": false
