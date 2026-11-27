@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T18:50:29+00:00",
- "started": "2026-11-27T18:50:25+00:00",
+ "updated": "2026-11-27T18:55:28+00:00",
+ "started": "2026-11-27T18:55:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T18:50:25+00:00"
+   "checked": "2026-11-27T18:55:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-27T18:50:25+00:00"
+   "checked": "2026-11-27T18:55:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 43,
-   "checked": "2026-11-27T18:50:26+00:00"
+   "checked": "2026-11-27T18:55:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T18:50:26+00:00"
+   "checked": "2026-11-27T18:55:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T18:50:26+00:00"
+   "checked": "2026-11-27T18:55:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-27T18:50:27+00:00"
+   "checked": "2026-11-27T18:55:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T18:50:27+00:00"
+   "checked": "2026-11-27T18:55:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T18:50:27+00:00"
+   "checked": "2026-11-27T18:55:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
-   "hits": 9,
-   "checked": "2026-11-27T18:50:28+00:00"
+   "hits": 8,
+   "checked": "2026-11-27T18:55:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T18:50:28+00:00"
+   "checked": "2026-11-27T18:55:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:50:29+00:00"
+   "checked": "2026-11-27T18:55:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T18:50:29+00:00"
+   "checked": "2026-11-27T18:55:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:50:29+00:00"
+   "checked": "2026-11-27T18:55:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T18:50:29+00:00"
+   "checked": "2026-11-27T18:55:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "carly rae jepsen says she s really enjoying viral moment following gta vi streaming surge",
+   "title": "Carly Rae Jepsen Says She’s ‘Really Enjoying’ Viral Moment Following ‘GTA VI’ Streaming Surge",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qUktDcXdVMFEwdEo0SHJudHBxb3VLaXdOdEE1dGl2Z05CZXBHSmttR2szQTRaNXFDcmU3S3pDSDRyWmZZbEx1TVFpSzlQbjg3SlRnLV95OHZ6RWd4MWhxc1BxSGhXQQ?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-27T18:48:04+00:00",
+   "seen": "2026-11-27T18:55:24+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
   {
    "id": "we got gta 6 online before gta 6 online",
    "title": "We Got GTA 6 Online Before GTA 6 Online",
@@ -640,6 +652,18 @@
    "via": "Google News",
    "published": "2026-11-27T17:06:04+00:00",
    "seen": "2026-11-27T17:09:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "gta 6 is already one of the best selling games ever report says",
+   "title": "‘GTA 6’ Is Already One Of The Best-Selling Games Ever, Report Says",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGF2aTB6bjktdlRvOGJUUVNURmQ5QWM3X0ZwWmtnMGVqS3BMX1RDODR2TmhWaFN3aENYRU5fR0VHYnF6S3BzdDNvNWoyTGw3UHcyLXFpNTZrN2dyMDBmZDhXdmFNUDg3N0dqYzk0S1NKZXdjUzR4RVdUeERVMVNYMWZBbHR4MDlzQ3Y0MXoya1lEcGFBWTZIYTh5cnlxRkZmRTBXeHZ6QUhYWVZQZmVXNVAzblA?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-27T17:06:04+00:00",
+   "seen": "2026-11-27T18:55:24+00:00",
    "summary": "",
    "topic": "News",
    "record": true
