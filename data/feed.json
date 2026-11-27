@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T01:34:46+00:00",
- "started": "2026-11-27T01:34:42+00:00",
+ "updated": "2026-11-27T01:39:44+00:00",
+ "started": "2026-11-27T01:39:40+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-27T01:34:42+00:00"
+   "checked": "2026-11-27T01:39:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 30,
-   "checked": "2026-11-27T01:34:42+00:00"
+   "hits": 52,
+   "checked": "2026-11-27T01:39:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-27T01:34:43+00:00"
+   "hits": 57,
+   "checked": "2026-11-27T01:39:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T01:34:43+00:00"
+   "checked": "2026-11-27T01:39:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T01:34:43+00:00"
+   "checked": "2026-11-27T01:39:42+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T01:34:44+00:00"
+   "checked": "2026-11-27T01:39:42+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T01:34:44+00:00"
+   "checked": "2026-11-27T01:39:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T01:34:44+00:00"
+   "checked": "2026-11-27T01:39:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T01:34:45+00:00"
+   "checked": "2026-11-27T01:39:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T01:34:45+00:00"
+   "checked": "2026-11-27T01:39:43+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T01:34:46+00:00"
+   "checked": "2026-11-27T01:39:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T01:34:46+00:00"
+   "checked": "2026-11-27T01:39:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T01:34:46+00:00"
+   "checked": "2026-11-27T01:39:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T01:34:46+00:00"
+   "checked": "2026-11-27T01:39:44+00:00"
   }
  },
  "items": [
+  {
+   "id": "microsoft owned github spotlighted a ps5 to pc translation layer amid gta 6 dmca strikes then quietly deleted the post",
+   "title": "Microsoft-owned GitHub spotlighted a PS5-to-PC translation layer amid GTA 6 DMCA strikes, then quietly deleted the post",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZHk2VHJjTG5KVzAwRi0tWHB1cFdRcTNQNS1FRGhpMFJEMWZLYm1WT0FUNXlmRXhhb21ma0RWdlFzSnVJX3VWcGdSQkpvS2JTS3B6bFVINkZ1ODdpS0JMcXRwaXBqVEE3ck0yelZhNTFqcFdfOGRYQUtKX1k2emhhWkVPTEFGTFNhUzR0NVgwTXczNjB4U1FCT3Q4WE5HZE5HbEx1YThqb3Z4Y2FfdmdfcWJ1VTdfU1I0Y0NvMg?oc=5",
+   "outlet": "XDA",
+   "via": "Google News",
+   "published": "2026-11-27T01:33:00+00:00",
+   "seen": "2026-11-27T01:39:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "who is roxy in gta 6",
    "title": "Who Is Roxy in GTA 6?",
@@ -928,6 +940,18 @@
    "via": "Google News",
    "published": "2026-11-26T19:46:27+00:00",
    "seen": "2026-11-26T19:47:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "spearmint rhino adds gta 6 lap dance routines",
+   "title": "Spearmint Rhino Adds GTA 6 Lap Dance Routines",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYlBRaW1JOVlTR1RsUjBXNUpXM0lhZTQ4ZWMxeTVPNFctVW5rbE5WNGxQSUpUZmU4SG9sNVdLZXlrb2R1V0V0aTNjeHM1RFNmdUU0dVRCNm5ob2UwNTlQdDF5a2JEYXhqMlFIRjh5cGtGRGZ3dnEwOEp2QlRFU1NyNWd4M0hfUQ?oc=5",
+   "outlet": "Wisevoter",
+   "via": "Google News",
+   "published": "2026-11-26T19:41:19+00:00",
+   "seen": "2026-11-27T01:39:42+00:00",
    "summary": "",
    "topic": "News",
    "record": false
