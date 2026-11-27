@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T11:08:04+00:00",
- "started": "2026-11-27T11:08:01+00:00",
+ "updated": "2026-11-27T11:12:57+00:00",
+ "started": "2026-11-27T11:12:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 93,
-   "checked": "2026-11-27T11:08:02+00:00"
+   "hits": 92,
+   "checked": "2026-11-27T11:12:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 33,
-   "checked": "2026-11-27T11:08:02+00:00"
+   "hits": 59,
+   "checked": "2026-11-27T11:12:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-27T11:08:02+00:00"
+   "checked": "2026-11-27T11:12:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T11:08:02+00:00"
+   "checked": "2026-11-27T11:12:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T11:08:03+00:00"
+   "checked": "2026-11-27T11:12:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-27T11:08:03+00:00"
+   "checked": "2026-11-27T11:12:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T11:08:03+00:00"
+   "checked": "2026-11-27T11:12:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T11:08:03+00:00"
+   "checked": "2026-11-27T11:12:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T11:08:03+00:00"
+   "checked": "2026-11-27T11:12:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T11:08:04+00:00"
+   "checked": "2026-11-27T11:12:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T11:08:04+00:00"
+   "checked": "2026-11-27T11:12:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T11:08:04+00:00"
+   "checked": "2026-11-27T11:12:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T11:08:04+00:00"
+   "checked": "2026-11-27T11:12:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T11:08:04+00:00"
+   "checked": "2026-11-27T11:12:57+00:00"
   }
  },
  "items": [
@@ -112,6 +112,18 @@
    "via": "Google News",
    "published": "2026-11-27T11:06:37+00:00",
    "seen": "2026-11-27T11:08:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 viral video reignites old rockstar theory",
+   "title": "GTA 6: Viral video reignites old Rockstar theory",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOam8ySVZnREtuRE5USHU5ZWdjYUlOa2VSN2VsTnBWSS1aRHVWb1pFMm4wUDJWZWE4bXVFOXF0dDdpZTlQOTRpOEhvaDRIUmJOLWtBYlRTUWlmSFlubjJnQjkxdjI5MThKWWFZR3Jxd185bFJuejhuTjJNSGdwVGYyeDlhaUI4STc4cVRrSWZfNTlGb0lXdTBB?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-27T11:02:00+00:00",
+   "seen": "2026-11-27T11:12:54+00:00",
    "summary": "",
    "topic": "News",
    "record": false
