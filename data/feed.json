@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T16:09:29+00:00",
- "started": "2026-11-27T16:09:24+00:00",
+ "updated": "2026-11-27T16:14:26+00:00",
+ "started": "2026-11-27T16:14:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T16:09:25+00:00"
+   "checked": "2026-11-27T16:14:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-27T16:09:25+00:00"
+   "hits": 31,
+   "checked": "2026-11-27T16:14:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-27T16:09:26+00:00"
+   "hits": 52,
+   "checked": "2026-11-27T16:14:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T16:09:26+00:00"
+   "checked": "2026-11-27T16:14:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T16:09:26+00:00"
+   "checked": "2026-11-27T16:14:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T16:09:27+00:00"
+   "checked": "2026-11-27T16:14:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T16:09:27+00:00"
+   "checked": "2026-11-27T16:14:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T16:09:27+00:00"
+   "checked": "2026-11-27T16:14:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T16:09:28+00:00"
+   "checked": "2026-11-27T16:14:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T16:09:28+00:00"
+   "checked": "2026-11-27T16:14:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T16:09:29+00:00"
+   "checked": "2026-11-27T16:14:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T16:09:29+00:00"
+   "checked": "2026-11-27T16:14:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T16:09:29+00:00"
+   "checked": "2026-11-27T16:14:26+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T16:09:29+00:00"
+   "checked": "2026-11-27T16:14:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "carly rae jepsen returns to the charts thanks to gta 6",
+   "title": "Carly Rae Jepsen Returns to the Charts Thanks to GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXMtSU9oNmdxeWRjdHN1dGdRNWNhR2hydFNuSVM0VDBQNXp0d1NlWkVyUFBrZXpFTWFpS2dzUWJwaVk4ZDctQkUxLU1MYjFvQlpPa3RKeUlWV3hUdUxsOHhTam5IeTFlZDg0eFpYT2JBd2NMZXQyMVRzaGROUXNqZmFCUDNfSUgteGM3TGlKRktwY2lUTUJYSQ?oc=5",
+   "outlet": "Indie Boulevard Magazine",
+   "via": "Google News",
+   "published": "2026-11-27T16:06:59+00:00",
+   "seen": "2026-11-27T16:14:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "ten pin trophy achievement walkthrough in gta 6 bowl em over with a melee drive by solution",
    "title": "Ten Pin Trophy & Achievement Walkthrough in GTA 6—Bowl ’em Over With A Melee Drive-By Solution",
@@ -112,6 +124,30 @@
    "via": "Google News",
    "published": "2026-11-27T16:05:45+00:00",
    "seen": "2026-11-27T16:09:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "modders strip gta vi s 30 fps cap on jailbroken ps5s but 60 fps remains out of reach",
+   "title": "Modders Strip GTA VI's 30 FPS Cap on Jailbroken PS5s, but 60 FPS Remains Out of Reach",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEenYwSEQ0MjB5Szk4eXVqdS1lbk1RNmpKYzdPYjIxMjVjVEticS1wbU52YmhxMWhlVXBoQlMzTDZILTJORHkyOVRfb2JTeGJuSkVadXdzOU1DS0UxWkZkQ1IwcWdSLUU2bUdmUVV4RnVRSEJmVFE?oc=5",
+   "outlet": "BigGo Finance",
+   "via": "Google News",
+   "published": "2026-11-27T16:05:00+00:00",
+   "seen": "2026-11-27T16:14:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "here is how to build the ultimate drag built in gta vi",
+   "title": "Here Is How To Build The Ultimate Drag Built In GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02YzlXanFkZXNDVDlMZmxkUkZheUszdlpTclZyaDQ1YXJTQkVBYnVIWTZrYmk1cmRFZVJlQnc1TXZET0E0Vk1wYkJKdTVLNDVjb3BaUlVGUV92NXNjMEs2Ni1Sdjd0SGY3WmtGUDN4S0RpSFo1MmRR?oc=5",
+   "outlet": "HotCars",
+   "via": "Google News",
+   "published": "2026-11-27T16:02:52+00:00",
+   "seen": "2026-11-27T16:14:24+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -172,6 +208,18 @@
    "via": "Google News",
    "published": "2026-11-27T15:58:56+00:00",
    "seen": "2026-11-27T16:04:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "github promoted a ps5 to pc tool during gta vi s launch week then deleted the post",
+   "title": "GitHub Promoted a PS5-to-PC Tool During GTA VI’s Launch Week, Then Deleted the Post",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa290WjZSNElZdmR2VlVUb1RlVDd2czM2YlBxTUxyODV5dFJKczJiNWhrcGx3WXVWbUo1NkYwSFZBYTF1d1BZMmVJX0xxZmFYZE0xN21RclFPLXYzSWhlUEstdTFBNTA4WmtTclFwQXVQejhBV2ctSVA4N1ItUzY3aFZNR0kzdElh?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-27T15:49:23+00:00",
+   "seen": "2026-11-27T16:14:24+00:00",
    "summary": "",
    "topic": "News",
    "record": false
