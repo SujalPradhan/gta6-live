@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T08:26:57+00:00",
- "started": "2026-11-27T08:26:53+00:00",
+ "updated": "2026-11-27T08:31:59+00:00",
+ "started": "2026-11-27T08:31:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T08:26:54+00:00"
+   "checked": "2026-11-27T08:31:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-27T08:26:54+00:00"
+   "hits": 28,
+   "checked": "2026-11-27T08:31:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-27T08:26:54+00:00"
+   "hits": 54,
+   "checked": "2026-11-27T08:31:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T08:26:55+00:00"
+   "checked": "2026-11-27T08:31:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T08:26:55+00:00"
+   "checked": "2026-11-27T08:31:57+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T08:26:55+00:00"
+   "checked": "2026-11-27T08:31:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T08:26:55+00:00"
+   "checked": "2026-11-27T08:31:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T08:26:56+00:00"
+   "checked": "2026-11-27T08:31:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-27T08:26:56+00:00"
+   "checked": "2026-11-27T08:31:58+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T08:26:57+00:00"
+   "checked": "2026-11-27T08:31:58+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T08:26:57+00:00"
+   "checked": "2026-11-27T08:31:59+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T08:26:57+00:00"
+   "checked": "2026-11-27T08:31:59+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T08:26:57+00:00"
+   "checked": "2026-11-27T08:31:59+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T08:26:57+00:00"
+   "checked": "2026-11-27T08:31:59+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 free luxury cars the starfish island garage raid",
+   "title": "GTA 6 Free Luxury Cars: The Starfish Island Garage Raid",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aNVhwbS1kQWs2SzZWX1dpQlI1RkVEd2tCTTFsY1NsUl9OVU9CR0h0Z3JFMGdwdXRxUFlIM0tOSDNTU3NEdWx2Z2lIakpxWjNDcE9zZEJDWEVPYlR2S1ZHR25JZzAtVWdIYS1kMmJPSndwZw?oc=5",
+   "outlet": "eGamers.io",
+   "via": "Google News",
+   "published": "2026-11-27T08:29:08+00:00",
+   "seen": "2026-11-27T08:31:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "loving these gta vi heists unlike gta v you actually have to think and make choices writer mhedi",
+   "title": "🇺🇸 Loving these GTA VI heists. Unlike GTA V, you actually have to think and make choices. Writer: Mhedi",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93Um5vMkh6dmIzTFNyc0k5LUlJSGRHZ2dFYURQaU5Jdkt1WmlESk1hUWMxbkltVTlXUTZrZlNONzNlSFM1UmFIZ2QzNm5BYy1nSVJKR21IRkMzaWllZE5UTzdLV0p6OXRxbDR1dQ?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-27T08:25:00+00:00",
+   "seen": "2026-11-27T08:31:55+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "here s what we actually know about getting the best ending in gta 6",
    "title": "Here’s What We Actually Know About Getting The Best Ending In GTA 6",
