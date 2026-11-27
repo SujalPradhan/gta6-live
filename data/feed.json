@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T16:14:26+00:00",
- "started": "2026-11-27T16:14:23+00:00",
+ "updated": "2026-11-27T16:19:31+00:00",
+ "started": "2026-11-27T16:19:27+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T16:14:24+00:00"
+   "checked": "2026-11-27T16:19:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-27T16:14:24+00:00"
+   "checked": "2026-11-27T16:19:28+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-27T16:14:24+00:00"
+   "hits": 46,
+   "checked": "2026-11-27T16:19:28+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T16:14:25+00:00"
+   "checked": "2026-11-27T16:19:29+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T16:14:25+00:00"
+   "checked": "2026-11-27T16:19:29+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T16:14:25+00:00"
+   "checked": "2026-11-27T16:19:29+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-27T16:14:25+00:00"
+   "hits": 14,
+   "checked": "2026-11-27T16:19:30+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T16:14:25+00:00"
+   "checked": "2026-11-27T16:19:30+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T16:14:25+00:00"
+   "checked": "2026-11-27T16:19:30+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T16:14:26+00:00"
+   "checked": "2026-11-27T16:19:31+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T16:14:26+00:00"
+   "checked": "2026-11-27T16:19:31+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T16:14:26+00:00"
+   "checked": "2026-11-27T16:19:31+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T16:14:26+00:00"
+   "checked": "2026-11-27T16:19:31+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T16:14:26+00:00"
+   "checked": "2026-11-27T16:19:31+00:00"
   }
  },
  "items": [
+  {
+   "id": "i tried to get six stars in gta 6 with just one bullet and broke the game",
+   "title": "I Tried to Get Six Stars in GTA 6 With Just One Bullet and Broke the Game",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdnkwaVA1STFmVzVER2tNam5IOTdTdzhPalBVZE03c0puRUh6d0NzSWFPeHNFQ0hvZHV6VFdYSHVnOVRuQkRnc0VHUTNwN3lJaXlQaGlFTml1MGZEa0VYT0hyNWxYczF2eUNYUEg0dGIybGdOQWdfNHdJcGlaTnZTMXdYVl9aZGxZUDFMNFlSYXRFMEVlRGZ3SWRUeWlQVnZtd3RzajdMNTMxalBROFl2SXpRaGlOVkpGd041Ui1tYnhmcWRKR2FNQ0Z0VUMzUQ?oc=5",
+   "outlet": "IGN Pakistan",
+   "via": "Google News",
+   "published": "2026-11-27T16:15:08+00:00",
+   "seen": "2026-11-27T16:19:27+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": true
+  },
+  {
+   "id": "how to find and complete casa guardia illegal operation in gta 6 all key valuables",
+   "title": "How to Find and Complete Casa Guardia Illegal Operation in GTA 6—All Key Valuables",
+   "link": "https://insider-gaming.com/gta-6-casa-guardia-all-key-valuables/",
+   "outlet": "Insider Gaming",
+   "via": "Insider Gaming",
+   "published": "2026-11-27T16:11:34+00:00",
+   "seen": "2026-11-27T16:19:30+00:00",
+   "summary": "Here’s a guide on how to find the Casa Guardia illegal operation in GTA 6 and grabbing all it’s key valuables. The post How to Find and Complete Casa Guardia Illegal Operation in GTA 6—All Key Valuables appeared first on Insider Gaming .",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 15 easter eggs references you totally missed",
+   "title": "GTA 6: 15 Easter Eggs & References You Totally Missed",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PMXNJS3ZGWENoWVBZSFZjYUJrUVZsMFlyUVZNaTZkRUFCOUFHSlhQOGpwWmRIdF9kQW9UUVgtNlRDU25nNWtBZGR6d3Z2M2EzYWFNc0hqUjFINUJ2dXBUT1ZQTlowUEhpVmlIaUlqdmtMbUU3bVY1Mi1nY3pxb1k?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-27T16:09:11+00:00",
+   "seen": "2026-11-27T16:19:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "carly rae jepsen returns to the charts thanks to gta 6",
    "title": "Carly Rae Jepsen Returns to the Charts Thanks to GTA 6",
