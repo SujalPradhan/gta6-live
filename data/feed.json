@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T13:28:37+00:00",
- "started": "2026-11-27T13:28:33+00:00",
+ "updated": "2026-11-27T13:33:40+00:00",
+ "started": "2026-11-27T13:33:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,173 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T13:28:33+00:00"
+   "checked": "2026-11-27T13:33:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 56,
-   "checked": "2026-11-27T13:28:34+00:00"
+   "checked": "2026-11-27T13:33:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-27T13:28:34+00:00"
+   "hits": 63,
+   "checked": "2026-11-27T13:33:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T13:28:34+00:00"
+   "checked": "2026-11-27T13:33:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T13:28:35+00:00"
+   "checked": "2026-11-27T13:33:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-27T13:28:35+00:00"
+   "checked": "2026-11-27T13:33:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T13:28:35+00:00"
+   "checked": "2026-11-27T13:33:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-27T13:28:36+00:00"
+   "hits": 16,
+   "checked": "2026-11-27T13:33:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T13:28:36+00:00"
+   "checked": "2026-11-27T13:33:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T13:28:36+00:00"
+   "checked": "2026-11-27T13:33:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T13:28:36+00:00"
+   "checked": "2026-11-27T13:33:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T13:28:36+00:00"
+   "checked": "2026-11-27T13:33:40+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T13:28:37+00:00"
+   "checked": "2026-11-27T13:33:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T13:28:37+00:00"
+   "checked": "2026-11-27T13:33:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "should you stay down or defend jason in gta 6",
+   "title": "Should you stay down or defend Jason in GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWOGstSF9CQmhkV1ZpVlB5YzFpQ1c2R1dmT1NNeGRwOVQxOUV5UkVGbUlQNEVXTTA1bFV1clJ6MmRfZW4wSHFPQ1JfUnpBQXlwUXoyaHRvSDQxYzN1NHdwUmlVSV9DYXE1bnB1c1lmNHYza1hHSFoyTnlMckdQTFU?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-27T13:31:51+00:00",
+   "seen": "2026-11-27T13:33:36+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false
+  },
+  {
+   "id": "toyota turned the hilux into something straight out of gta vi",
+   "title": "Toyota Turned The Hilux Into Something Straight Out of GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUNnSDlfR0tZRUVwb3k1LU5XYWh4ZDUycnhuRy1oSXVjbU9tTVc3cDNpOHlxeUh0RVA3c2N5MnAxU0RIS2VDaUtaajNJYWFObEhXdEUzOE85TDFrTnFINWRTUVVrZUtkWjVQbzktN2JOSHE0bTRkVmNSVU11TV92VzBuSnVobHVIa0dteG9vSk9WQjFVSXc?oc=5",
+   "outlet": "Autoblog",
+   "via": "Google News",
+   "published": "2026-11-27T13:30:00+00:00",
+   "seen": "2026-11-27T13:33:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 will run more stably on pcs with 32gb of ram thanks to new victory scarlett optimizations",
+   "title": "GTA 6 will run more stably on PCs with 32GB of RAM thanks to new Victory Scarlett optimizations.",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd3VTUUdhb3YtaW1nZ0pZaHkwQk5tZ1BPS0paY3RRX201U3N0aTJKTTdoeGVlLTA5TFlCVWtUODlUTDFGVV9UOXJmZFRDSUhhQXNvRkFvV05vSUhiWlJtNzljdXhraUFCb0MxWVBZQm5GeW9lSWRCZXlYTzdiRjJScmtOeHAtUlpyTDFES09iMlBIcFBQV01Pa1lMU3FkNGtyTk1IOVJoV0VrbmQ1cXloSGRQY0cwYnRkTk9mNDgwREtlcG5VWS11VQ?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-27T13:28:13+00:00",
+   "seen": "2026-11-27T13:33:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "danny dyer makes surprise cameo in gta 6 but not all fans will find him",
+   "title": "Danny Dyer makes surprise cameo in GTA 6 – but not all fans will find him",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjRqV29oTHMtMnhnZFBZdVdKdXhwNHdTZUpwb0tZNVgyS19aZ3p5cGtvX2xObmh3d1dHbWdRVFZWdXNWV0JNYlJ0dmRObnQ0R0UzVHdzcVMwWWp3SmxHb0ZXVV9PWFFlLVBIcG1abFF5Rlp1MmFKVmhfeTlFWlhEV2RZbk81Uncyd04ycWpWV21NV0pPNW9mQy1MUQ?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-27T13:28:00+00:00",
+   "seen": "2026-11-27T13:33:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 sends ps5 and xbox series x s sales soaring in the us",
+   "title": "GTA 6 Sends PS5 and Xbox Series X|S Sales Soaring in the US",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMW9oUE1zSi01TzJqRF8tb19ibHNOVlhTSVBKbzQ0dFV1SEEyY1lHNlNJajVhRzY0dzM3UjRFUzNDY2FUSkNuMTlWbWFESE9QZkVtNTVsYldKQU5hQlFkMERoZHFZUHBFQWNpQTVTcW5NeHJhMTltZTBRWU81SHpnS1hOSWozcVFtV0RZ?oc=5",
+   "outlet": "eTeknix",
+   "via": "Google News",
+   "published": "2026-11-27T13:23:37+00:00",
+   "seen": "2026-11-27T13:33:36+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta vi pushes series to nearly 1 trillion youtube views with record breaking launch",
+   "title": "GTA VI Pushes Series To Nearly 1 Trillion YouTube Views With Record Breaking Launch",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnNnRzZud2FXNFpPYUFBNTd2WjNKSHdIWWJWNGVSMDFCVmYxMXBtckpiX0Z0Y0Jad2MyWTdBYzQ5YkRTQVd2eW9xdkRPa01DMU5WSF95dC1rRXhnR2lmckFjUkRpaUFwS3hwWDQ4dUNuUmhLc0pkWXZPd3FoajJIRmlHeUMtelJpXzBSRDJ2Wm01aHFKY0o0STRYdy1vYjF2eU1FVV9yaVFRX3ZUaENn?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-27T13:22:23+00:00",
+   "seen": "2026-11-27T13:33:36+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true
+  },
   {
    "id": "where are the best tattoo shops in gta 6 locations explained",
    "title": "Where are the best tattoo shops in GTA 6? Locations explained",
@@ -160,6 +232,18 @@
    "via": "Google News",
    "published": "2026-11-27T13:17:04+00:00",
    "seen": "2026-11-27T13:18:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "xbox series x and s consoles are failing after gta 6 sessions too after a wave of ps5 shutdowns",
+   "title": "Xbox Series X and S consoles are failing after GTA 6 sessions too, after a wave of PS5 shutdowns",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVHpwd2VaVlE3X2FtOEV2eE9lSFlxR0VJUW9xU3h2cDIzM0xiSFQ4NjRvWk1yQTBRcTZJbHdfNFVxdTRrbGVZOUE5aGhVT0o3XzlEckExRHF1QTNKSzBIVmhEbmJiZ1FydWEwcWNXQ2plYk4wMGJoZ0JzUlpJTHFXdjZ6bWktOVRCSFhXYUJuTlVrRVFBckwtSGxiZ2ZiWXZIX2J3ekhpVzZCZldabnRRVzFGdkM2U0R3ZWh1WWRQMF9FWVFpUlUyYWhSUGFfV2I1VlJFNjZIUlJQR3I0d1dnYXpzc05sUVRwcU5scVF4YWVVSlVnR0pwUWRUREpWQWhIM2V2cTIxeTRyZ9IBjwJBVV95cUxOSzhLZzZ3N0txbldnaWRmbkFzX2VsN01zd3YyWGVLck1NVU55VV9WU19sTjFsOHZ2dXhweTRLdjM1amlIQXpXT2x5VVZ0VGxud043blBPTFZGakFwS1U4aVV3RWpMeUpJWUw4QWxiOUxhb2tyTVZVdlhrT3FXWndDclp3RXRfQllqTTJiMTc3bk9nOFdMQ1VmNUVuODNyMGpQcWtrbTZaQ0xkdlBVaGNWbTBtUGVtalk5M2ZpV05Rc2lYUThCcl9jYU9GTXdsV1ZlN3U3VXpib1h5UHlJVDBCWFNmMHc4Mng5LVhwVUZfLTFrNjFWTWxWZzJzZDNKNXdicFMxYTVkRm5SSG5seGNv?oc=5",
+   "outlet": "The Times of India",
+   "via": "Google News",
+   "published": "2026-11-27T13:13:00+00:00",
+   "seen": "2026-11-27T13:33:36+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -261,6 +345,18 @@
    "record": false
   },
   {
+   "id": "easy to miss dialogue in gta 6 hints at a romantic history between jason and mandy",
+   "title": "Easy To Miss Dialogue in GTA 6 Hints at a Romantic History Between Jason and Mandy",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjN4d0NWWFU1WUhPZXpYZUU4WlVFU0xUSzMyNFJNX3F0Nm83cGFUNjNuR011aEVMWFI0QmRNZlRybXd5dkJIcFd2QV95UXUwT1RRNV9FV0M3cl9lSWtSZDIwZnZtalZWME9zYVYyQUV4WDR0Ql9zZDZ0SnRNN3dLeFA2UmJPc19zOGllNHhMM0k2c0xyYWFtd1FjV19rWWc?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-27T13:02:06+00:00",
+   "seen": "2026-11-27T13:33:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
    "id": "should you shoot mendez or take the deal in gta 6 choice explained",
    "title": "Should you shoot Mendez or take the deal in GTA 6? Choice explained",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblZwU2NQcnppTERBdDVORE4zRkZVbWY4ZjdvN3Bwa0NLcnI2alpybGZ2a0RhR0RlYnk2R0xZWWtkV3NYMlRVV25Qc01xYXEyVzJZNXNVY0RoLUxQTWJQMTZSTGxWMUptbE9wbE9PSGN0alpnZ1ZBcHlGY1lDU3pnSjV4SQ?oc=5",
@@ -353,6 +449,18 @@
    "published": "2026-11-27T12:54:42+00:00",
    "seen": "2026-11-27T13:03:27+00:00",
    "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 5 s michael actor hits back at claim gta 6 went woke with lucia",
+   "title": "GTA 5’s Michael actor hits back at claim GTA 6 went “woke” with Lucia",
+   "link": "https://www.dexerto.com/gta/gta-5s-michael-actor-hits-back-at-claim-gta-6-went-woke-with-lucia-3431651/",
+   "outlet": "Dexerto",
+   "via": "Dexerto",
+   "published": "2026-11-27T12:51:44+00:00",
+   "seen": "2026-11-27T13:33:38+00:00",
+   "summary": "GTA 5’s Michael actor has hit back at claims that Rockstar went “woke” with GTA 6, defending its decision to put Lucia in a leading role.",
    "topic": "News",
    "record": false
   },
