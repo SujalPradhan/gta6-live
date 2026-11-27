@@ -1,109 +1,121 @@
 {
- "updated": "2026-11-27T23:01:54+00:00",
- "started": "2026-11-27T23:01:50+00:00",
+ "updated": "2026-11-27T23:07:04+00:00",
+ "started": "2026-11-27T23:07:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-27T23:01:50+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-27T23:07:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-27T23:01:51+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 50,
+   "checked": "2026-11-27T23:07:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-27T23:01:51+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 48,
+   "checked": "2026-11-27T23:07:02+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-27T23:01:51+00:00"
+   "checked": "2026-11-27T23:07:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T23:01:52+00:00"
+   "checked": "2026-11-27T23:07:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-27T23:01:52+00:00"
+   "checked": "2026-11-27T23:07:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T23:01:52+00:00"
+   "checked": "2026-11-27T23:07:03+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T23:01:53+00:00"
+   "checked": "2026-11-27T23:07:03+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T23:01:53+00:00"
+   "checked": "2026-11-27T23:07:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T23:01:53+00:00"
+   "checked": "2026-11-27T23:07:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T23:01:53+00:00"
+   "checked": "2026-11-27T23:07:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T23:01:53+00:00"
+   "checked": "2026-11-27T23:07:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T23:01:53+00:00"
+   "checked": "2026-11-27T23:07:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T23:01:54+00:00"
+   "checked": "2026-11-27T23:07:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 chapter 1 s ending has a major twist you need to watch out for",
+   "title": "GTA 6 Chapter 1's Ending Has A Major Twist You Need To Watch Out For",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdk5mdkY2M0xrZFhtV3oySzNyV2xvSzRrcHRtejd2c3VjRzcwcGFxbnBvcDJIcnRlTHJaTTJ4ZmVtb0ltYWhoOExRcnIweGt2TGMtVUstYlZ2REd6RkdXdVZpd1FXYm9QdHN0el9xY3E5SUNFVVNTb1g4RjN4Q0JnV1l6WGE?oc=5",
+   "outlet": "www.svg.com",
+   "via": "Google News",
+   "published": "2026-11-27T23:00:00+00:00",
+   "seen": "2026-11-27T23:07:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "5 ways to make sure your console isn t holding back your gta 6 performance",
    "title": "5 Ways To Make Sure Your Console Isn't Holding Back Your GTA 6 Performance",
