@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T06:46:30+00:00",
- "started": "2026-11-27T06:46:25+00:00",
+ "updated": "2026-11-27T06:51:28+00:00",
+ "started": "2026-11-27T06:51:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T06:46:25+00:00"
+   "checked": "2026-11-27T06:51:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 28,
-   "checked": "2026-11-27T06:46:26+00:00"
+   "hits": 56,
+   "checked": "2026-11-27T06:51:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-27T06:46:26+00:00"
+   "hits": 54,
+   "checked": "2026-11-27T06:51:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T06:46:27+00:00"
+   "checked": "2026-11-27T06:51:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T06:46:27+00:00"
+   "checked": "2026-11-27T06:51:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T06:46:27+00:00"
+   "checked": "2026-11-27T06:51:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T06:46:28+00:00"
+   "checked": "2026-11-27T06:51:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T06:46:28+00:00"
+   "checked": "2026-11-27T06:51:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T06:46:28+00:00"
+   "checked": "2026-11-27T06:51:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T06:46:29+00:00"
+   "checked": "2026-11-27T06:51:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T06:46:29+00:00"
+   "checked": "2026-11-27T06:51:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T06:46:29+00:00"
+   "checked": "2026-11-27T06:51:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T06:46:29+00:00"
+   "checked": "2026-11-27T06:51:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T06:46:30+00:00"
+   "checked": "2026-11-27T06:51:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto vi soundtrack drives to no 1 on aria chart",
+   "title": "‘Grand Theft Auto VI’ Soundtrack Drives to No. 1 on ARIA Chart",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWTdHQlNHS0hycWZ2RnlHZW8wY1hJbGMzSUFUc0tndUZMMkw5NExtQkVqcXJSeDdITnAtaG1PdWpZY3NXSUhvT3BOLXBvZWUzTUJ3YS12VzdOcDJfdDBVZUdKd0c4X3hpS0tIbE5aYnE4RnJhZVJPMVl0azh4SUFiVGhzUXp1V29wakRkVWhVMXNPQjBWbjRHNjZyX2c0QmJvOXZZ?oc=5",
+   "outlet": "Billboard",
+   "via": "Google News",
+   "published": "2026-11-27T06:49:31+00:00",
+   "seen": "2026-11-27T06:51:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "is gta vi overheating xbox series x s repair shop reports a sharp increase in breakdowns",
+   "title": "Is GTA VI overheating Xbox Series X|S? Repair shop reports a sharp increase in breakdowns",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFhRX1RPRldzcVZreUY4WDJMbWJZQkVMVnJ0X1dqZEJmZVA1RzBwbV9BNlY5VkREN3JoY3BPT0I3ejQ5Mno5Rkd3cHpCd19TWFBQMDY1cUF4Rmd1R2tST000LW5fUUR6d1c2VHU1eDdlMG93Y2dZOGVlZG5PeUgyZGFrZktkU09NT0ZVWmxFdnNGVUdRdDlfc0pOR3drcTZVR0dDNTdfakZ1ZFJMRWRpb3dfSGJCX2dQQlgza19Fd9IBxAFBVV95cUxQQXVnZ1ZkNHFlUXNycUVBWU5LYlFTT21EbGYwSm5zb1Z4Q3k4WFI4Y0NkNHA4NlhkYTNfbkc1RnJDQjZQLWlwck5wVG83bEQ5QVR1cXVkZEtKdWdHZGxBMHVoRXFCTGRNZUlsUHA2bG80XzVlaU9NNmRESEQ1dTN3bTVLWDlQaHAwMkFOd19oeWV5bm92aUtIeHdWQS1HZGY5aWVoXzNhSmtaOExvQ0tYR0xSdFpmOHpoRjQ5MXdnZmpJdEZV?oc=5",
+   "outlet": "iXBT.games",
+   "via": "Google News",
+   "published": "2026-11-27T06:40:00+00:00",
+   "seen": "2026-11-27T06:51:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "xbox series x is missing a gta 6 upgrade that the cheaper series s already has",
    "title": "Xbox Series X is missing a GTA 6 upgrade that the cheaper Series S already has",
@@ -222,6 +246,18 @@
    "seen": "2026-11-27T06:41:24+00:00",
    "summary": "",
    "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "kenny crawls out of the tv as the boys play gta 6 in the south park finale",
+   "title": "Kenny Crawls Out of the TV as the Boys Play GTA 6 in the South Park Finale",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpaklJTDlERmhnQXZBcmI2U2o2QmZYWlk2d2IwWjN4UVBodzZ4UFVXeTYyT1czZ1FZekRFN0VoWW1YcXBZVVJhWFMtTlZWRGJnYnBnaDJnRlVVWnJwXzhLSzNXSzFuX0FwcVlEN2VvYV9PbDc0U0lGSFJ3?oc=5",
+   "outlet": "GTA BOOM",
+   "via": "Google News",
+   "published": "2026-11-27T05:39:16+00:00",
+   "seen": "2026-11-27T06:51:26+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -856,6 +892,18 @@
    "via": "Google News",
    "published": "2026-11-26T22:12:04+00:00",
    "seen": "2026-11-26T22:18:34+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "gta 6 review visually beautiful great music and mostly fun gameplay",
+   "title": "GTA 6 Review: Visually Beautiful, Great Music, and (Mostly) Fun Gameplay",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEM2TUFOQ0RoTWc4OWRqZ1l4cHE2aWcxcnc5SUlQcFFKZXZ0NEU3RVFXYVU5M0JpNUp1LTgtNXBqT2ZaTDVqQ3BIWXRacnRZRzc1YUd6Vi1hLWU3QkdtdlU2dC1Ka2dCZ2N4N0Q0cE8waTJma2U2azdjSXM2dWxRQkY3cE1jZmdudkkxdWJqN2NXSFVoalNiWWoxN3NPMlRFLUVfc1g5THdIUjkwVTdMSg?oc=5",
+   "outlet": "KeenGamer",
+   "via": "Google News",
+   "published": "2026-11-26T22:09:43+00:00",
+   "seen": "2026-11-27T06:51:26+00:00",
    "summary": "",
    "topic": "Reviews",
    "record": false
