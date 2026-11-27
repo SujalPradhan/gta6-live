@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T12:33:27+00:00",
- "started": "2026-11-27T12:33:19+00:00",
+ "updated": "2026-11-27T12:38:23+00:00",
+ "started": "2026-11-27T12:38:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-27T12:33:20+00:00"
+   "checked": "2026-11-27T12:38:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-27T12:33:20+00:00"
+   "checked": "2026-11-27T12:38:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-27T12:33:21+00:00"
+   "hits": 52,
+   "checked": "2026-11-27T12:38:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T12:33:21+00:00"
+   "checked": "2026-11-27T12:38:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:33:21+00:00"
+   "checked": "2026-11-27T12:38:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-27T12:33:25+00:00"
+   "checked": "2026-11-27T12:38:21+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T12:33:25+00:00"
+   "checked": "2026-11-27T12:38:22+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T12:33:25+00:00"
+   "checked": "2026-11-27T12:38:22+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:33:26+00:00"
+   "checked": "2026-11-27T12:38:22+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T12:33:26+00:00"
+   "checked": "2026-11-27T12:38:22+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:33:26+00:00"
+   "checked": "2026-11-27T12:38:23+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T12:33:26+00:00"
+   "checked": "2026-11-27T12:38:23+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T12:33:27+00:00"
+   "checked": "2026-11-27T12:38:23+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T12:33:27+00:00"
+   "checked": "2026-11-27T12:38:23+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 s car physics had help from a former gran turismo world series competitor",
+   "title": "GTA 6's Car Physics Had Help From a Former Gran Turismo World Series Competitor",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajY2cjlsMjAyYUdEbExDaVVhMlpSZ3JQMDZ1WkpBN1RiQ0NpUGQxV0Zmbi1TYXJSUFo3QU1RS05odjBPeE53dU5rR3kwUDE5LXJCTWNXSlE5TF9iZzRQdk4yU0FSckt0UDhBN2ZzTlZRbWloS01yOTFCdExvSUhJRkh2c3ZZRWVjcFRILTdtZGFOWDhGOEhzdUVIcVNmZWw1ZDFzVA?oc=5",
+   "outlet": "IGN",
+   "via": "Google News",
+   "published": "2026-11-27T12:34:16+00:00",
+   "seen": "2026-11-27T12:38:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 lucia actor makes first statement since the game s launch",
+   "title": "'GTA 6' Lucia actor makes first statement since the game's launch",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjNSYjM3YjZVeGoxRlh4c3BUWVBWTWp1dWhNTW85Zm43aUtCUFFwMkQ1bHJkZkNIam8tYWswSDlwb0ZIdzJNWmE0TGhhQnItRnJKYzJoN0VtT1I3eDgxaXVoenVLTUhuSVJEbkVTQ1d3MmY0QTg3WkQ4NEF4WFdHM0trazVyTDFnd2VNTkpjazJYSkpaZVNjUHd3R19SY0NEREJ6NWhFVFJNdVBK?oc=5",
+   "outlet": "NME",
+   "via": "Google News",
+   "published": "2026-11-27T12:32:31+00:00",
+   "seen": "2026-11-27T12:38:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "justice make club space debut as miami club turns into gta vi s the vault",
    "title": "Justice make Club Space debut as Miami club turns into GTA VI’s The Vault",
