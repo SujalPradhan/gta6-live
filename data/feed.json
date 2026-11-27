@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T21:51:27+00:00",
- "started": "2026-11-27T21:51:23+00:00",
+ "updated": "2026-11-27T21:56:28+00:00",
+ "started": "2026-11-27T21:56:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,138 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-27T21:51:23+00:00"
+   "hits": 98,
+   "checked": "2026-11-27T21:56:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 26,
-   "checked": "2026-11-27T21:51:24+00:00"
+   "hits": 52,
+   "checked": "2026-11-27T21:56:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 38,
-   "checked": "2026-11-27T21:51:24+00:00"
+   "hits": 48,
+   "checked": "2026-11-27T21:56:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-27T21:51:24+00:00"
+   "checked": "2026-11-27T21:56:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T21:51:24+00:00"
+   "checked": "2026-11-27T21:56:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-27T21:51:25+00:00"
+   "checked": "2026-11-27T21:56:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T21:51:25+00:00"
+   "checked": "2026-11-27T21:56:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T21:51:25+00:00"
+   "checked": "2026-11-27T21:56:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T21:51:25+00:00"
+   "checked": "2026-11-27T21:56:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T21:51:26+00:00"
+   "checked": "2026-11-27T21:56:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T21:51:26+00:00"
+   "checked": "2026-11-27T21:56:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T21:51:26+00:00"
+   "checked": "2026-11-27T21:56:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T21:51:26+00:00"
+   "checked": "2026-11-27T21:56:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T21:51:27+00:00"
+   "checked": "2026-11-27T21:56:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 ultimate edition hands you a boat that already has the gearbox open with a grenade launcher rpg and scuba tanks sitting right there th",
+   "title": "🎮 GTA 6 Ultimate Edition hands you a BOAT that already has the gearbox open, with a grenade launcher, RPG, and scuba tanks sitting right there 🚤 The whole setup is ready for whatever you want to do once you’re out on the water. Feels like the game is alre",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0UHp0dzFjano2c3dZekVCMGowbDJycUR1T1RodGNSeEZhVmhxcUZqMG84WUpRdG51UVpaZFduQUlKNnhxdkNxUGFFYVUzcmhHWU01VGdvYjBzRzNlUzM1M05oUC0xbXRlZUoxTg?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-27T21:55:00+00:00",
+   "seen": "2026-11-27T21:56:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "bradley stone says gta 6 honors his baby daughter with an in game memorial",
+   "title": "Bradley Stone says GTA 6 honors his baby daughter with an in-game memorial",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LYXhIZnh5MVp6UXp5MkZicVg1cHlZcVlnMFNUcXE5S19xS2ljUmRUTE13a3Rpbkc1cTlRNjFEZHJBU0xCN0lIbHdXdWhXbGVw?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-27T21:52:58+00:00",
+   "seen": "2026-11-27T21:56:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to enter cheat codes in gta 6 gta 6 cheat code guide",
+   "title": "How to Enter Cheat Codes in GTA 6—GTA 6 Cheat Code Guide",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0elpsRHhMajdQSzhuTE9IT042dXhTeHRZRHBxdEJpSFlDdFZBRWNMMGgxdWFzZVNCMkFvZjM2YW8wSEhlMWU5UWJFUFVhajVnWV9RWkJDV3E1UEN1cU5POWRjczQ0LTA?oc=5",
+   "outlet": "Insider Gaming",
+   "via": "Google News",
+   "published": "2026-11-27T21:50:16+00:00",
+   "seen": "2026-11-27T21:56:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "the witcher 4 will be a gta 6 sized leap forward cd projekt red says",
    "title": "The Witcher 4 Will Be a GTA 6-Sized Leap Forward, CD Projekt Red Says",
@@ -1252,6 +1288,18 @@
    "via": "Google News",
    "published": "2026-11-27T17:04:24+00:00",
    "seen": "2026-11-27T18:40:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 celebrity cameos actors janelle james jeremy irons john leguizamo",
+   "title": "GTA 6 Celebrity Cameos: Actors Janelle James, Jeremy Irons, John Leguizamo",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZm1oenpVZUszR1ZHQVhjQWI3clY2aEtYcC1GZ3pXbDNoaTN1elo3UWo2cWxncjBSakJncWFuUE4tRXZtR28tVnVnaC11MlRUNDNCdmtTeDA5RGhNQlppajd6Vi0tVGdYbnk1TS1rajlHaFcyV2hWNnlCbHhia2Y2SG5fWVdabVl2eHpvMnM3aDdHS2tRMHhtdzVwR3pDOV94OENpcTNmUGw?oc=5",
+   "outlet": "Variety",
+   "via": "Google News",
+   "published": "2026-11-27T17:04:00+00:00",
+   "seen": "2026-11-27T21:56:24+00:00",
    "summary": "",
    "topic": "News",
    "record": false
