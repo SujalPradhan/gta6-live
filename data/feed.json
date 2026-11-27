@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T20:05:52+00:00",
- "started": "2026-11-27T20:05:47+00:00",
+ "updated": "2026-11-27T20:10:53+00:00",
+ "started": "2026-11-27T20:10:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T20:05:48+00:00"
+   "checked": "2026-11-27T20:10:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-27T20:05:48+00:00"
+   "hits": 28,
+   "checked": "2026-11-27T20:10:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 41,
-   "checked": "2026-11-27T20:05:49+00:00"
+   "hits": 51,
+   "checked": "2026-11-27T20:10:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T20:05:49+00:00"
+   "checked": "2026-11-27T20:10:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T20:05:49+00:00"
+   "checked": "2026-11-27T20:10:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 47,
-   "checked": "2026-11-27T20:05:50+00:00"
+   "checked": "2026-11-27T20:10:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 15,
-   "checked": "2026-11-27T20:05:50+00:00"
+   "hits": 14,
+   "checked": "2026-11-27T20:10:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 19,
-   "checked": "2026-11-27T20:05:50+00:00"
+   "checked": "2026-11-27T20:10:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T20:05:51+00:00"
+   "checked": "2026-11-27T20:10:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T20:05:51+00:00"
+   "checked": "2026-11-27T20:10:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T20:05:52+00:00"
+   "checked": "2026-11-27T20:10:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T20:05:52+00:00"
+   "checked": "2026-11-27T20:10:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T20:05:52+00:00"
+   "checked": "2026-11-27T20:10:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T20:05:52+00:00"
+   "checked": "2026-11-27T20:10:53+00:00"
   }
  },
  "items": [
@@ -113,6 +113,30 @@
    "published": "2026-11-27T20:05:07+00:00",
    "seen": "2026-11-27T20:05:49+00:00",
    "summary": "Every Snapmatic Unique Animal location that Bret asks you to hunt in Grand Theft Auto 6",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 apocalypse bunker location entry guide",
+   "title": "GTA 6 Apocalypse Bunker Location & Entry Guide",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qcVZpUVU4anhnSjdNZEI3VDlGQS03bFR1NzJYT0ZsYTRCZ011Rmh3V19ZWUtSSUw4WXhKU1FBSjVnLV9ZMUduVlptTkx3eEZWMEYteW5ENnAxRWhvOE0wazhBbw?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-27T20:04:51+00:00",
+   "seen": "2026-11-27T20:10:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "brainwashing easter egg walkthrough in gta 6",
+   "title": "Brainwashing Easter egg walkthrough in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVdsYkFfVFR2cXFHNE5ZQU5jdXM5b0p3UWl1YXpvbVd1bDMyZkZERlozLVZaUUx4YkQwZjE4UzYzTkN6MFR0NGpWU19iWnRVR1k0UW9rSnZjWFdzMkxHeUN2NDE3VFBiNFN2aTVWRGhNNWpZVVhlUWQyLTVHVFZUY2ln?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-27T20:02:54+00:00",
+   "seen": "2026-11-27T20:10:50+00:00",
+   "summary": "",
    "topic": "News",
    "record": false
   },
@@ -184,6 +208,18 @@
    "via": "Google News",
    "published": "2026-11-27T19:29:00+00:00",
    "seen": "2026-11-27T19:35:39+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "florida artist s tattoo designs appear in gta vi video game daytona beach news journal",
+   "title": "Florida artist's tattoo designs appear in GTA VI video game - Daytona Beach News-Journal",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGs2RHg2b18xNHd3c2NHX0RCRmJ3SFJpMlFNeHIyTVhMYmVDMkM1azFnMzJxbmliZHVWa0ZfbGkzMXFqVlZwX0UxMDNILWJMY09wR0EwZ1VfSmt6bkR4bHVNV0EzdmZWczZTd1BwTW5rRTZNV2M4NVBKMDk3WWpMa3ZlMEpjUmVWanlTeDNWdDIxaGFucWp0dW5PNTNJdmJVbHZVZVdnanhRazFHZG5udlJFaThTcHBybmhVeTlCVEd5SGpwcHc?oc=5",
+   "outlet": "Daytona Beach News-Journal",
+   "via": "Google News",
+   "published": "2026-11-27T19:29:00+00:00",
+   "seen": "2026-11-27T20:10:50+00:00",
    "summary": "",
    "topic": "News",
    "record": false
