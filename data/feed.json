@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T14:54:04+00:00",
- "started": "2026-11-27T14:53:59+00:00",
+ "updated": "2026-11-27T14:57:14+00:00",
+ "started": "2026-11-27T14:57:11+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-27T14:54:00+00:00"
+   "checked": "2026-11-27T14:57:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 30,
-   "checked": "2026-11-27T14:54:00+00:00"
+   "hits": 31,
+   "checked": "2026-11-27T14:57:12+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-27T14:54:01+00:00"
+   "hits": 57,
+   "checked": "2026-11-27T14:57:13+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T14:54:01+00:00"
+   "checked": "2026-11-27T14:57:13+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T14:54:01+00:00"
+   "checked": "2026-11-27T14:57:13+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-27T14:54:01+00:00"
+   "checked": "2026-11-27T14:57:13+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-27T14:54:02+00:00"
+   "hits": 15,
+   "checked": "2026-11-27T14:57:14+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-27T14:54:02+00:00"
+   "checked": "2026-11-27T14:57:14+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T14:54:02+00:00"
+   "checked": "2026-11-27T14:57:14+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T14:54:03+00:00"
+   "checked": "2026-11-27T14:57:14+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T14:54:03+00:00"
+   "checked": "2026-11-27T14:57:14+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T14:54:03+00:00"
+   "checked": "2026-11-27T14:57:14+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T14:54:03+00:00"
+   "checked": "2026-11-27T14:57:14+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T14:54:04+00:00"
+   "checked": "2026-11-27T14:57:14+00:00"
   }
  },
  "items": [
+  {
+   "id": "how to unlock hurricanes in gta 6",
+   "title": "How to unlock Hurricanes in GTA 6",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hurricane/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-27T14:52:32+00:00",
+   "seen": "2026-11-27T14:57:14+00:00",
+   "summary": "Freddie Gibbs' apocalypse bunker is what will unlock Hurricanes for the first time in GTA 6",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 fighter jet location explained where to get military planes",
+   "title": "GTA 6 Fighter Jet location explained: Where to get military planes",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSS05T2pKTFhmZG84YURzVTlVb2JIUjdQSUFscEh5M3lZTFh0Ry1iZVpmNUVOdXFqa0xQdTN6Z0JUbGxObXlmd2lZWm1OQk5zdUM2RHNRaG8zZTV5UmtTU0wtMm1xMTU1Z2lmblg1MjNoWE9kTUl5RklueDZ5VkR0VEVQelRRaEJidnc?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-27T14:51:51+00:00",
+   "seen": "2026-11-27T14:57:12+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 s pirate pc ports new tools old problem opinion",
    "title": "GTA 6's pirate PC ports: new tools, old problem | Opinion",
@@ -1521,6 +1545,18 @@
    "record": false
   },
   {
+   "id": "digital foundry s gta 6 verdict ps5 pro wins but 60fps stays off the menu",
+   "title": "Digital Foundry’s GTA 6 verdict: PS5 Pro wins, but 60fps stays off the menu",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjaUU0N1Vtc0J5OWRMZjc3SFMyczFxNjBYb0RxYkJJMWVoekhXbklqdExWeUd3SkZoWHhMRHFjMXdaZWdTNW5N?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-27T11:18:19+00:00",
+   "seen": "2026-11-27T14:57:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "gta 6 10 things you shouldn t miss in chapter 5",
    "title": "GTA 6: 10 Things You Shouldn’t Miss in Chapter 5",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qTlFBeGdPcmtONzFNNF92cmhEMDI0OEIxZVM4UG9PaVpBeEFBeWJkT0Q2T1F6ME5peXhlaWFheDk5dTBKemhPVGxlNDE3bzJLMTFLamVzZDhFUUoxSWRjRGlUNXN4bnE4U1Q3UEpoN05mT3FD?oc=5",
@@ -1852,6 +1888,18 @@
    "via": "Google News",
    "published": "2026-11-27T10:13:31+00:00",
    "seen": "2026-11-27T10:22:29+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 release barely dents global worker productivity",
+   "title": "GTA 6 Release Barely Dents Global Worker Productivity",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMV9vYjJHYjFiNDR4cVRFdTFxaXhDMDhVRWdyaGtzMGQwU1hWVkxrdkFUYktmLWp2LXJ1Q0ZWTTZDSExRQzU4R1o5Z0E5eWZQZkxYYkpRMVNaeVNCa0VJNDlsS3NBTk1idlNjTkVOM3F3cEZnQnM5cjJjMmlWb2hVUjM4NmxxNHpuNUZMYzJoM0Q?oc=5",
+   "outlet": "Wisevoter",
+   "via": "Google News",
+   "published": "2026-11-27T10:12:53+00:00",
+   "seen": "2026-11-27T14:57:12+00:00",
    "summary": "",
    "topic": "News",
    "record": false
