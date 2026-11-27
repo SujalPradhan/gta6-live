@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T07:31:43+00:00",
- "started": "2026-11-27T07:31:40+00:00",
+ "updated": "2026-11-27T07:36:42+00:00",
+ "started": "2026-11-27T07:36:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T07:31:41+00:00"
+   "checked": "2026-11-27T07:36:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-27T07:31:41+00:00"
+   "hits": 28,
+   "checked": "2026-11-27T07:36:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-27T07:31:42+00:00"
+   "hits": 53,
+   "checked": "2026-11-27T07:36:39+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T07:31:42+00:00"
+   "checked": "2026-11-27T07:36:39+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T07:31:42+00:00"
+   "checked": "2026-11-27T07:36:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T07:31:42+00:00"
+   "checked": "2026-11-27T07:36:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T07:31:42+00:00"
+   "checked": "2026-11-27T07:36:40+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T07:31:42+00:00"
+   "checked": "2026-11-27T07:36:40+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T07:31:42+00:00"
+   "checked": "2026-11-27T07:36:41+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T07:31:43+00:00"
+   "checked": "2026-11-27T07:36:41+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T07:31:43+00:00"
+   "checked": "2026-11-27T07:36:41+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T07:31:43+00:00"
+   "checked": "2026-11-27T07:36:42+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T07:31:43+00:00"
+   "checked": "2026-11-27T07:36:42+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T07:31:43+00:00"
+   "checked": "2026-11-27T07:36:42+00:00"
   }
  },
  "items": [
+  {
+   "id": "dave the diver gta 6 collab tease 1 image 0 deals",
+   "title": "Dave the Diver GTA 6 Collab Tease: 1 Image, 0 Deals",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGRKMGFnTFdVdHNoLVpOUUp0d21HSUVSYzAwNWlISktnVkFjbEZOTFl4OHBLTDJ2blFXbUpzZ01KZXh2Q194dlRZcGk3RUF3NUNYZEpVTEZTN2U2dkVGNUpVNVVwY2w3Yk53VW5PNm5kdG5Gd0MyN1p2RDlDZVYzN3kteEh4TzJTR3c?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-27T07:34:51+00:00",
+   "seen": "2026-11-27T07:36:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "gta 6 deals deliver this black friday with up to 15 off the game and 100 off ps5 bundles",
+   "title": "GTA 6 deals deliver this Black Friday with up to £15 off the game and £100 off PS5 bundles",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaFdfNS1aSlh1VWNxbWpQOVBLaUt5MDlidTdFaDRQWXMydXJjVHZORGNFTy13ZERoSVRJbGkzcmRIaUMycEI1VFVTMzIwbUlkSGYtUC04WXFjYmpzdlFzRm51S0l0dGw0U1FTVEt5anF1eFV6eWIwTEFTT0I4Qk9fbkFn?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-27T07:32:15+00:00",
+   "seen": "2026-11-27T07:36:38+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "random did dave the diver just tease a gta 6 collab",
    "title": "Random: Did Dave The Diver Just Tease A GTA 6 Collab?",
