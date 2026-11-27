@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T12:43:24+00:00",
- "started": "2026-11-27T12:43:20+00:00",
+ "updated": "2026-11-27T12:48:27+00:00",
+ "started": "2026-11-27T12:48:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 96,
-   "checked": "2026-11-27T12:43:20+00:00"
+   "hits": 98,
+   "checked": "2026-11-27T12:48:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-27T12:43:21+00:00"
+   "checked": "2026-11-27T12:48:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-27T12:43:21+00:00"
+   "hits": 52,
+   "checked": "2026-11-27T12:48:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T12:43:22+00:00"
+   "checked": "2026-11-27T12:48:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:43:22+00:00"
+   "checked": "2026-11-27T12:48:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-27T12:43:22+00:00"
+   "checked": "2026-11-27T12:48:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T12:43:23+00:00"
+   "checked": "2026-11-27T12:48:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T12:43:23+00:00"
+   "checked": "2026-11-27T12:48:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:43:23+00:00"
+   "checked": "2026-11-27T12:48:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T12:43:23+00:00"
+   "checked": "2026-11-27T12:48:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:43:24+00:00"
+   "checked": "2026-11-27T12:48:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T12:43:24+00:00"
+   "checked": "2026-11-27T12:48:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T12:43:24+00:00"
+   "checked": "2026-11-27T12:48:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T12:43:24+00:00"
+   "checked": "2026-11-27T12:48:27+00:00"
   }
  },
  "items": [
@@ -616,6 +616,18 @@
    "via": "Google News",
    "published": "2026-11-27T11:23:48+00:00",
    "seen": "2026-11-27T11:27:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 10 things you shouldn t miss in chapter 5",
+   "title": "GTA 6: 10 Things You Shouldn’t Miss in Chapter 5",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qTlFBeGdPcmtONzFNNF92cmhEMDI0OEIxZVM4UG9PaVpBeEFBeWJkT0Q2T1F6ME5peXhlaWFheDk5dTBKemhPVGxlNDE3bzJLMTFLamVzZDhFUUoxSWRjRGlUNXN4bnE4U1Q3UEpoN05mT3FD?oc=5",
+   "outlet": "PlayDayOne",
+   "via": "Google News",
+   "published": "2026-11-27T11:17:21+00:00",
+   "seen": "2026-11-27T12:48:24+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -1168,6 +1180,18 @@
    "via": "Google News",
    "published": "2026-11-27T09:05:44+00:00",
    "seen": "2026-11-27T09:17:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "fake gta vi clickfix campaign delivers infostealer",
+   "title": "Fake GTA VI ClickFix Campaign Delivers Infostealer",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjZvMWM3SjBYNU9SUUV3RlgzZl9WQ2hUUjNrOWV0Ml8wdm1zVzlXWWV1bFNHM1RSVmlSUmxTcUxXTzhNYWQ1Q3pRMV9xcjBSa1IzOFFPM1c3d1ExOS0wb212RVlRNWQ0bVR0cjc4LVdLallFcVhqUzFlX3BQRlFJd21JXzlZQzg4NjVxNGU1Sk02dFU?oc=5",
+   "outlet": "SOC Prime",
+   "via": "Google News",
+   "published": "2026-11-27T09:05:33+00:00",
+   "seen": "2026-11-27T12:48:24+00:00",
    "summary": "",
    "topic": "News",
    "record": false
