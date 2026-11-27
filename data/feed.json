@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T18:30:27+00:00",
- "started": "2026-11-27T18:30:24+00:00",
+ "updated": "2026-11-27T18:35:20+00:00",
+ "started": "2026-11-27T18:35:17+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T18:30:24+00:00"
+   "checked": "2026-11-27T18:35:17+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-27T18:30:25+00:00"
+   "checked": "2026-11-27T18:35:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-27T18:30:25+00:00"
+   "hits": 56,
+   "checked": "2026-11-27T18:35:18+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T18:30:26+00:00"
+   "checked": "2026-11-27T18:35:18+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T18:30:26+00:00"
+   "checked": "2026-11-27T18:35:18+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-27T18:30:26+00:00"
+   "checked": "2026-11-27T18:35:18+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-27T18:30:26+00:00"
+   "checked": "2026-11-27T18:35:19+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T18:30:26+00:00"
+   "checked": "2026-11-27T18:35:19+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T18:30:26+00:00"
+   "checked": "2026-11-27T18:35:19+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T18:30:27+00:00"
+   "checked": "2026-11-27T18:35:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:30:27+00:00"
+   "checked": "2026-11-27T18:35:20+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T18:30:27+00:00"
+   "checked": "2026-11-27T18:35:20+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:30:27+00:00"
+   "checked": "2026-11-27T18:35:20+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T18:30:27+00:00"
+   "checked": "2026-11-27T18:35:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi reportedly runs on macs the frames are taking their time",
+   "title": "GTA VI reportedly runs on Macs. The frames are taking their time.",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAxVWplZ3AtbnBYMThudUJnTDdMVHhlaUlFQ3ZHdkIyYS1JZ05iZHA2OFZhdXB2aDFQd3BkTkdEck03YlNa?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-27T18:34:21+00:00",
+   "seen": "2026-11-27T18:35:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 fans are pulling off perfect robberies with only a six pack of beer",
+   "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFNqWGgzWGZZV2xmQTZOVlE1bDAtV3RNYlRKNHM0Wko1cThxOWhNbVFmd0NlMW5aZC1NZ1NfeTBBdW1SVGZvMS1jQzZuNk1USEpqMWVCU2gxRDhKMFpvRkhlQjhiSXNwbERSNmpVbTJWbmpHMFdaUXJSdW1Xc0U5MVMxcl9SZjQ2NmY2SmxVbw?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-27T18:27:39+00:00",
+   "seen": "2026-11-27T18:35:17+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "version 2 2 0 of the unofficial gta vi port has reduced frame rate lag by 78",
    "title": "Version 2.2.0 of the unofficial GTA VI port has reduced frame rate lag by 78%.",
@@ -185,6 +209,18 @@
    "published": "2026-11-27T18:12:39+00:00",
    "seen": "2026-11-27T18:20:16+00:00",
    "summary": "There are plenty of extra controls and hidden mechanics in GTA 6 that aren't made clear, so let us bring you up to speed",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "modders strip gta vi s 30 fps cap on jailbroken ps5 hardware averaging 45 fps on ps5 pro and confirming rockstar s cpu limits",
+   "title": "Modders Strip GTA VI’s 30 FPS Cap on Jailbroken PS5 Hardware – Averaging 45 FPS on PS5 Pro and Confirming Rockstar’s CPU Limits",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmtNMEU5TlNaeHRZQVdrNTQzejhIaTFyQmNtU1dYbXJrd1JCMmlnQmEtNldfSUoya0xCYVBMV294QUN3YUZYbHBzYlZrLVpkZkFQQlJrZWRzeDRfSTV5MzhRclg1eEdKZmFLOW5nQ3VBVHJUSTJPX2FSdzktT01HSHI5UQ?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-27T18:09:12+00:00",
+   "seen": "2026-11-27T18:35:17+00:00",
+   "summary": "",
    "topic": "News",
    "record": false
   },
