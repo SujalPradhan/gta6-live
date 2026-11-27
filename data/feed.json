@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T16:19:31+00:00",
- "started": "2026-11-27T16:19:27+00:00",
+ "updated": "2026-11-27T16:24:39+00:00",
+ "started": "2026-11-27T16:24:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T16:19:27+00:00"
+   "checked": "2026-11-27T16:24:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 31,
-   "checked": "2026-11-27T16:19:28+00:00"
+   "hits": 54,
+   "checked": "2026-11-27T16:24:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-27T16:19:28+00:00"
+   "hits": 56,
+   "checked": "2026-11-27T16:24:36+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T16:19:29+00:00"
+   "checked": "2026-11-27T16:24:36+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T16:19:29+00:00"
+   "checked": "2026-11-27T16:24:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T16:19:29+00:00"
+   "checked": "2026-11-27T16:24:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 14,
-   "checked": "2026-11-27T16:19:30+00:00"
+   "hits": 13,
+   "checked": "2026-11-27T16:24:37+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T16:19:30+00:00"
+   "checked": "2026-11-27T16:24:37+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T16:19:30+00:00"
+   "checked": "2026-11-27T16:24:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T16:19:31+00:00"
+   "checked": "2026-11-27T16:24:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T16:19:31+00:00"
+   "checked": "2026-11-27T16:24:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T16:19:31+00:00"
+   "checked": "2026-11-27T16:24:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T16:19:31+00:00"
+   "checked": "2026-11-27T16:24:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T16:19:31+00:00"
+   "checked": "2026-11-27T16:24:39+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto 6 artists set to crash uk music charts",
+   "title": "Grand Theft Auto 6 artists set to crash UK music charts",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16N1BEY25MMm1fWnNQWGxpb05PLV94TjY5NFRJYmtRQXpNMk9nNUVBUWZFay1SeDd4M1FYYTNmT2Q0WXFjYjRmV3lSQzI5S09XSGxyN0VTOTBCU0k?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-27T16:18:18+00:00",
+   "seen": "2026-11-27T16:24:35+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false
+  },
+  {
+   "id": "gta vi hits 53 million copies sold in just 1 week generating 4 7 billion",
+   "title": "GTA VI Hits 53 Million Copies Sold in Just 1 Week, Generating $4.7 Billion",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEZMUEN1UGZkNlpSZ3ZjazlLdGFkSUZnZC1KeU1PNzZfdXF4Njh5VzJ4WUFmUmxlOVdwNW92aFBwd2FVMURQWlYzRjFFcFZ3aE96UE1EZUtMcEI1OVk1X3gtYU9nRmctaGdFVFg4d1JXQkJGSUJHOUtSVC0tTE1KOGdxYnk2OWhqcktRV2dmX2JWemJEMG4tTFRLUkxFOHdk?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-27T16:16:27+00:00",
+   "seen": "2026-11-27T16:24:35+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 cloud streaming reaches ps5 and playstation portal",
+   "title": "GTA 6 Cloud Streaming Reaches PS5 and PlayStation Portal",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HUHBfSGVTT3NxN2s5Z3h1NWZRZm1iaU1RNllla0h4VU5IenB6enQwYU90YU11dmJER1RGRm1kZnBGYzdlVVpLOFZkYWt0OHhYc0htaEpOMUdlbjI1NDhPN29NZzVpMmFoNDhTS1hNOFN6VWRtZGtWSdIBeEFVX3lxTE9HUHBfSGVTT3NxN2s5Z3h1NWZRZm1iaU1RNllla0h4VU5IenB6enQwYU90YU11dmJER1RGRm1kZnBGYzdlVVpLOFZkYWt0OHhYc0htaEpOMUdlbjI1NDhPN29NZzVpMmFoNDhTS1hNOFN6VWRtZGtWSQ?oc=5",
+   "outlet": "Tech My Money",
+   "via": "Google News",
+   "published": "2026-11-27T16:16:09+00:00",
+   "seen": "2026-11-27T16:24:35+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
   {
    "id": "i tried to get six stars in gta 6 with just one bullet and broke the game",
    "title": "I Tried to Get Six Stars in GTA 6 With Just One Bullet and Broke the Game",
@@ -321,6 +357,18 @@
    "record": false
   },
   {
+   "id": "rockstar s ai dilemma can gta 6 s staggered release model survive coding agents",
+   "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEcyV0FUdmNHclVidGdNNGhyUFdUbVR0aWtadFJoc1hjOE1uaW9TM3VZenBvanFtVDhtbGRrMUJkREVMSmVVVU8wZzZvd19mU1p2S3JLb2tUb2k4XzNBOXYyVDA2ZjExQUxqTG5wRlZlQkRxWFdBdE5GTzZ0MVczUE1uaW1OVEUxZy1WVjZjZXE4UldqeXBVcDdTeVJJeTJFV0o3Vw?oc=5",
+   "outlet": "The Decoder",
+   "via": "Google News",
+   "published": "2026-11-27T15:37:47+00:00",
+   "seen": "2026-11-27T16:24:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "best buy has the only gta 6 ps5 console bundle deal on black friday get it before it sells out",
    "title": "Best Buy has the only GTA 6 PS5 console bundle deal on Black Friday. Get it before it sells out",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVE1fRWx4SzlQSXdIcm1nci1SMW5zaEU2OE42WWFrT1pUZVhwaURjVXVGc1hjVGxTVF90cXV5M1hMcnp6YmtkcDdOdWdGel9hRkdCZHZoNkthYzZORExPZG5KNG82dFgtWG91cC1JZVJNQS1mMHVUUXF4XzJ2Nk9XczRGR3JaX1czYU1XRg?oc=5",
@@ -448,6 +496,30 @@
    "via": "Google News",
    "published": "2026-11-27T15:03:40+00:00",
    "seen": "2026-11-27T15:14:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 cheat codes full list of cheats and how to unlock them all",
+   "title": "GTA 6 cheat codes: Full list of cheats and how to unlock them all",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sODZFVHN6ejRMV2tCN3J5ZnBzeHBfZlhVSkNoaW9PWWFlV1hGQm8xZVJUQWhJdzUyVkc1THlvb2tGMlZjbFZrTzV5ZVZ2ckNqNU15Q0JSQ01iYl83Z05HQzBLWThLNHAxcmo4OG8zdk5td2Y2YVVITUdR?oc=5",
+   "outlet": "Radio Times",
+   "via": "Google News",
+   "published": "2026-11-27T15:03:34+00:00",
+   "seen": "2026-11-27T16:24:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft auto 6 a week in",
+   "title": "Grand Theft Auto 6, a week in",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MEs2Q1V1V1RzaWJoTDBPazdxSXBBVXRhcjd6ZUNweXBxQVlVQUlTVm5Nc2plT3lXcDlRRk8tWDVrWjVscXU0NmVEODhtZWowSjlSSHlOYk1JcVhKQmpDZ19ER1YyTjlWNGdkbFlqMEVvN0xwLWc?oc=5",
+   "outlet": "The Alinea Insight newsletter",
+   "via": "Google News",
+   "published": "2026-11-27T15:02:34+00:00",
+   "seen": "2026-11-27T16:24:36+00:00",
    "summary": "",
    "topic": "News",
    "record": false
