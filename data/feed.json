@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T08:42:02+00:00",
- "started": "2026-11-27T08:41:57+00:00",
+ "updated": "2026-11-27T08:47:09+00:00",
+ "started": "2026-11-27T08:47:06+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T08:41:58+00:00"
+   "checked": "2026-11-27T08:47:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-27T08:41:59+00:00"
+   "hits": 29,
+   "checked": "2026-11-27T08:47:07+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-27T08:41:59+00:00"
+   "hits": 51,
+   "checked": "2026-11-27T08:47:07+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T08:41:59+00:00"
+   "checked": "2026-11-27T08:47:08+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T08:41:59+00:00"
+   "checked": "2026-11-27T08:47:08+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T08:42:00+00:00"
+   "checked": "2026-11-27T08:47:08+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T08:42:00+00:00"
+   "checked": "2026-11-27T08:47:08+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T08:42:00+00:00"
+   "checked": "2026-11-27T08:47:08+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-27T08:42:01+00:00"
+   "checked": "2026-11-27T08:47:08+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T08:42:01+00:00"
+   "checked": "2026-11-27T08:47:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T08:42:01+00:00"
+   "checked": "2026-11-27T08:47:09+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T08:42:01+00:00"
+   "checked": "2026-11-27T08:47:09+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T08:42:01+00:00"
+   "checked": "2026-11-27T08:47:09+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T08:42:02+00:00"
+   "checked": "2026-11-27T08:47:09+00:00"
   }
  },
  "items": [
@@ -244,6 +244,18 @@
    "via": "Google News",
    "published": "2026-11-27T07:47:20+00:00",
    "seen": "2026-11-27T07:51:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "13 year old xbox one handled gta vi experts called the result an unusual achievement",
+   "title": "13-year-old Xbox One handled GTA VI. Experts called the result an unusual achievement",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSmJoNUk5bzlDbmtPUElWT2JtWGljV1ROZ182RW52d2JRUjF0Ym9BNVBYSmctclNndEZnRmVvWUVWdjFldXFjLThSVHhJRTRjc3VQN0F5emlWTEkzcXVjVDJKQUNfclZVbU9YaFlCdHRSOFBKV1Z5dHVIaW9IWk9CTFVfSmRVR0gtcXg4Y1hHRlZPZmdqaVBqejBidHRoMjFYWUwyQ291V3VLM3VTdWdGU2s5MUVZTjZoYXlPaGtCYTlZVWVsU0F1YW1R0gHPAUFVX3lxTFBySmloVUphdG56S3Z6cWlvVU5IT2N1aFB1N0Y2R1N0UlN0cllBWS1MLTBORzRXeWphVTk2S2FpNGQ3NXZqbTV2ZkxSOVRzY0JkTmRBZjJod0M2dEFqTzFkeFdHekx1Tm1iQ3NyNHh6dEFCcVF0WDJYeFowYkg1U1k1bnhUV0lFU1pfeE9VQ3gxSTd6WG9CZ0U5ZzhhSGZ1M1ZZeXJnVzNaS3NzNG9KeDZ5ZjM1blU2dFVoalNFWFZ2WmNsdmtaYklvMTlSd3ZaVQ?oc=5",
+   "outlet": "iXBT.games",
+   "via": "Google News",
+   "published": "2026-11-27T07:41:00+00:00",
+   "seen": "2026-11-27T08:47:07+00:00",
    "summary": "",
    "topic": "News",
    "record": false
