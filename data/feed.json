@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T07:36:42+00:00",
- "started": "2026-11-27T07:36:37+00:00",
+ "updated": "2026-11-27T07:41:45+00:00",
+ "started": "2026-11-27T07:41:41+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T07:36:38+00:00"
+   "checked": "2026-11-27T07:41:41+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 28,
-   "checked": "2026-11-27T07:36:38+00:00"
+   "hits": 56,
+   "checked": "2026-11-27T07:41:42+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-27T07:36:39+00:00"
+   "hits": 54,
+   "checked": "2026-11-27T07:41:42+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T07:36:39+00:00"
+   "checked": "2026-11-27T07:41:42+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T07:36:39+00:00"
+   "checked": "2026-11-27T07:41:42+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T07:36:39+00:00"
+   "checked": "2026-11-27T07:41:43+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T07:36:40+00:00"
+   "checked": "2026-11-27T07:41:43+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T07:36:40+00:00"
+   "checked": "2026-11-27T07:41:43+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T07:36:41+00:00"
+   "checked": "2026-11-27T07:41:43+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T07:36:41+00:00"
+   "checked": "2026-11-27T07:41:44+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T07:36:41+00:00"
+   "checked": "2026-11-27T07:41:44+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T07:36:42+00:00"
+   "checked": "2026-11-27T07:41:44+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T07:36:42+00:00"
+   "checked": "2026-11-27T07:41:44+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T07:36:42+00:00"
+   "checked": "2026-11-27T07:41:45+00:00"
   }
  },
  "items": [
+  {
+   "id": "wu tang clan s nfl halftime performance branded more demonic than gta 6 but fans leap to its defense",
+   "title": "Wu-Tang Clan's NFL halftime performance branded 'more demonic than GTA 6' but fans leap to its defense",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXhnTUxfTkdrcWM0d1h0VHdhUElPcF91MWRCTVU4MF9fRU1rRjBZMVZma0hoYS1tVmpGbVpNVWJGaTlSQjhkX3JteHZRdGItRHBFbno3amhGQWZHWnU2akwtOTJ6OTdvdHpnaEplVkE3d2xtNnU3VkhPMklONG1RbUlkSldLekxUVmp6RU5FaFRuNjg1X09iSXZtOUVTU0wzTVZKd3l5TjluLU9KOVhr?oc=5",
+   "outlet": "UNILAD",
+   "via": "Google News",
+   "published": "2026-11-27T07:37:46+00:00",
+   "seen": "2026-11-27T07:41:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "uk man spots late daughter s name on plaque in gta 6 shares heartbreaking story",
+   "title": "UK man spots late daughter's name on plaque in GTA 6, shares heartbreaking story",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc2ZpMHFoQnRiY1VndHlEYUlFazlmZWg2dXpYUHdwRVBKNFJhb2ZUa01GRmVfa1paMWhoSVVabmR5dGh1b3RlN1lCWjl5U1c3V2VibndTblJHdzVYR2xNcjhkYkhMRVJMWXJZSlRjaDRDNUxlOU9ZUG03QkE5MnRUdWZOX3BuNGRsNXBpdlg0NUhMWVpycC1Iamt5VlJqWDNiazlzZVBkS2ZBYTcybzBseEZKR0toTDhhbTNuOWxMM2RoS0RXb3YzVXBSSjhhRFFscFBubmJzQm4zUTDSAeABQVVfeXFMTTRWdEpGNno4bU15OW02R2VITGxTR1hwMWpXU0g2Ui1jdHhDMnJrMlpnZjlFSUp4NzVJX2RvOUpsX19DTHdwSl9zTEd1N2xlSHNUa21rblB4SGJMdW15eFYtaGJiRlNhU3pQcEJOS2xnSzcwYjZNblZiTXViOGdSY0JWZGdCSEZIQXFlaFRIenYyV2NfWjc5aE4ycDI1eFJVYjhRWXY5dGFiSEpVYXdlRWp6ZEhXRGZaeEJkR3hhcmhZeV9iWlJ1Z0xNX0JQb1hyejZHRkNGa1k2Q2RabzFKNXY?oc=5",
+   "outlet": "India Today",
+   "via": "Google News",
+   "published": "2026-11-27T07:36:18+00:00",
+   "seen": "2026-11-27T07:41:41+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
   {
    "id": "dave the diver gta 6 collab tease 1 image 0 deals",
    "title": "Dave the Diver GTA 6 Collab Tease: 1 Image, 0 Deals",
@@ -126,6 +150,18 @@
    "seen": "2026-11-27T07:36:38+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi reviewed a gaming masterpiece worth the wait",
+   "title": "Grand Theft Auto VI reviewed: a gaming masterpiece worth the wait",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEdNcUpJM05URDRrT1hFRVV4OWZsWlhReFVLdjA5dXdiRVpSMVBXVEtkUUF4TWdRYlEyOHFMOXFEblZrMzI4Qm9ZeW4zZzBMTy02QmhyZGJ3Uko0NFdSTWNlN2UzTlp2XzZKRXZZdkdWQ2Z2MnpMVnJTZzcybHdpdnNnTUdlcmxvdzdSaEYxUGczMFZsUGw1ODdjaHRFNTRZaFZSU0FkRUdZUUls?oc=5",
+   "outlet": "RTE.ie",
+   "via": "Google News",
+   "published": "2026-11-27T07:18:45+00:00",
+   "seen": "2026-11-27T07:41:41+00:00",
+   "summary": "",
+   "topic": "Reviews",
    "record": false
   },
   {
@@ -451,6 +487,18 @@
    "summary": "",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "gta 6 graphics leak 4 consoles 0 rockstar confirmations",
+   "title": "GTA 6 Graphics Leak: 4 Consoles, 0 Rockstar Confirmations",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0tYaFdyX1JHQml4UmNVVG8yNmZiRDFmNGhnMEFIcy1zVmF0WERWUWxidHRzWlFGQmY0am9Ma1lpWjNLYjRIN2pEVDdaTEJmcFJTSTZzeEw1TC00TUJ6YWNuVzU0eEhGUThHMWVtMWl1aUZCR1J5QnF5RVU0eE95WGtVbnlidGhBNVQyZ0k1T1piZkt5MUVLaXVoQ0VNM2Zp?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-27T02:57:57+00:00",
+   "seen": "2026-11-27T07:41:41+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
   },
   {
    "id": "gta 6 graphics settings leak 4 consoles 0 confirmed",
