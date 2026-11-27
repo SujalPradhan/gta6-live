@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T03:45:24+00:00",
- "started": "2026-11-27T03:45:21+00:00",
+ "updated": "2026-11-27T03:50:29+00:00",
+ "started": "2026-11-27T03:50:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T03:45:21+00:00"
+   "checked": "2026-11-27T03:50:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-27T03:45:22+00:00"
+   "hits": 53,
+   "checked": "2026-11-27T03:50:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-27T03:45:22+00:00"
+   "hits": 58,
+   "checked": "2026-11-27T03:50:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-27T03:45:22+00:00"
+   "checked": "2026-11-27T03:50:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T03:45:23+00:00"
+   "checked": "2026-11-27T03:50:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T03:45:23+00:00"
+   "checked": "2026-11-27T03:50:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T03:45:23+00:00"
+   "checked": "2026-11-27T03:50:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T03:45:23+00:00"
+   "checked": "2026-11-27T03:50:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T03:45:23+00:00"
+   "checked": "2026-11-27T03:50:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T03:45:24+00:00"
+   "checked": "2026-11-27T03:50:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T03:45:24+00:00"
+   "checked": "2026-11-27T03:50:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T03:45:24+00:00"
+   "checked": "2026-11-27T03:50:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T03:45:24+00:00"
+   "checked": "2026-11-27T03:50:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T03:45:24+00:00"
+   "checked": "2026-11-27T03:50:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 developer rockstar s uk staff vote down union recognition proposal",
+   "title": "GTA 6 Developer Rockstar's UK Staff Vote Down Union Recognition Proposal",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZll4TGdfTUI0bkJERTB0S2NWSVJHTzVqRHVJNWl2YXg1UWkyN0d6dVNZU0VtMERsUlBIc0VJRHI5VW1SSVdYQ3RKV3RORGVSaExXSkRrLVBwRUxTTmVMaG9KdnhycUYtWFl1ZDJNV3VnSVYzdW5wQ2NSVVlWdHVON0g2YXRWMWhtWlJ0N0VVWndYck1GU1RFZzVLa1UtYUIwZ1VEN1gyMU9QVUxJQjFfcnUxT3U?oc=5",
+   "outlet": "Inven Global",
+   "via": "Google News",
+   "published": "2026-11-27T03:45:31+00:00",
+   "seen": "2026-11-27T03:50:25+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false
+  },
+  {
+   "id": "gta 6 s realism goes further than gta 5 and an rpg vs a train shows it the train reacts more physically and the destruction feels closer to ",
+   "title": "🎮 GTA 6’s realism goes further than GTA 5, and an RPG vs. a train shows it 💀 The train reacts more physically, and the destruction feels closer to what you’d actually expect. Small detail, but it shows how much Rockstar pushed the physics this time. Writer: Luc",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13N3lIb1dKRlpZN1E3eTFoZkR5UTYyQzVVOVN2UFJ6NjVqNUJNd3ZRMk5ob21JR3E4VlpteFhYcmlkVk5CZkNWZWl1TUxmNzB2LXY3UHhPTlFhZi1ON0s4OWJhNTJEaFZjQkZMLQ?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-27T03:45:00+00:00",
+   "seen": "2026-11-27T03:50:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "enthusiasts reported achieving 4k and 120 fps in the gta 6 port using claude",
+   "title": "Enthusiasts reported achieving 4K and 120 FPS in the GTA 6 port using Claude",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbks4TGlIOEdSaFNoVlBFdTIwOFJGaXFpekpkTVl5X3h3b3dlMDhUSU1IMzZlQTFoc0Z5YWdLOGprMjNfMzA0eEpHaEFZWWVNR3RkS2M2WFc0d042ZXRpUzBkd0FxcTJjQnpHV1dweWpfdkhVSFVEaG10SWRab3pGd0pRcXhkSTU5M0lETVpVNFJaLUFCdmVkT2hMMmhoV1RQLWJNdzUzdmc1N1lnbU44R0JLWF92b1E?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-27T03:44:47+00:00",
+   "seen": "2026-11-27T03:50:25+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "from the swamp to gta vi florida s legendary skunk ape goes global",
    "title": "From the swamp to 'GTA VI': Florida’s legendary skunk ape goes global",
