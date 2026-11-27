@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T10:12:32+00:00",
- "started": "2026-11-27T10:12:28+00:00",
+ "updated": "2026-11-27T10:17:29+00:00",
+ "started": "2026-11-27T10:17:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-27T10:12:28+00:00"
+   "checked": "2026-11-27T10:17:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 30,
-   "checked": "2026-11-27T10:12:29+00:00"
+   "checked": "2026-11-27T10:17:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-27T10:12:29+00:00"
+   "checked": "2026-11-27T10:17:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T10:12:29+00:00"
+   "checked": "2026-11-27T10:17:27+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T10:12:29+00:00"
+   "checked": "2026-11-27T10:17:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-27T10:12:30+00:00"
+   "checked": "2026-11-27T10:17:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T10:12:30+00:00"
+   "checked": "2026-11-27T10:17:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T10:12:30+00:00"
+   "checked": "2026-11-27T10:17:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-27T10:12:31+00:00"
+   "checked": "2026-11-27T10:17:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T10:12:31+00:00"
+   "checked": "2026-11-27T10:17:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T10:12:32+00:00"
+   "checked": "2026-11-27T10:17:29+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T10:12:32+00:00"
+   "checked": "2026-11-27T10:17:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T10:12:32+00:00"
+   "checked": "2026-11-27T10:17:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T10:12:32+00:00"
+   "checked": "2026-11-27T10:17:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "unofficial gta 6 pc build shows multiplayer features developer reports 25 30 fps",
+   "title": "Unofficial GTA 6 PC build shows multiplayer features; developer reports 25–30 FPS",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0d4WDR5TnJ0a2ZkLWtiQ0x2UXdSam8tLUYwU2pfNzJxMVUzUVBvZERKTXZRMDc5SHNWUnZYRGl6OW9uTHYydlNvU1BtYUZXYXhYX2M2U3htY1o2dHlZSHF6bFdLS21MeHQ5V2lWTC1OZUNCQ3pybHBnc0RmajR2Zg?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-27T10:15:35+00:00",
+   "seen": "2026-11-27T10:17:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "unofficial gta 6 pc port shows multiplayer and proximity voice chat at 25 30 fps",
+   "title": "Unofficial GTA 6 PC port shows multiplayer and proximity voice chat at 25–30 FPS",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFhYMS1MQXdpU09RT25vMnk0Z084NWRxdm1fdDExNWhlUVFmZjBzbzVUWlg1b2k0dFItNzEwZm5fV0Z2aVpLNFB0ZHJaWnFzYmJ3bjA0a2VCWUU3ODRnRjdwMFhfLTBNc0puSHdBaTZsT19PVFBVeWs1cXdlYVBZUDIxNWxsc1J6VlBjSkQzR0dzNzBwai1ueUYzQm8zb2pTR0F2WDlXVkRVcDlBcDh3Y2hSZWVzWTVXLWd3TTVDZXM5dk0?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-27T10:04:00+00:00",
+   "seen": "2026-11-27T10:17:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 worries spread as xbox joins ps5 in blackouts tech expert explains console issue",
    "title": "GTA 6 worries spread as Xbox joins PS5 in blackouts, tech expert explains console issue",
