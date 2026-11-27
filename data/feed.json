@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T12:13:15+00:00",
- "started": "2026-11-27T12:13:12+00:00",
+ "updated": "2026-11-27T12:18:19+00:00",
+ "started": "2026-11-27T12:18:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 95,
-   "checked": "2026-11-27T12:13:13+00:00"
+   "checked": "2026-11-27T12:18:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 32,
-   "checked": "2026-11-27T12:13:13+00:00"
+   "checked": "2026-11-27T12:18:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 60,
-   "checked": "2026-11-27T12:13:14+00:00"
+   "hits": 54,
+   "checked": "2026-11-27T12:18:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T12:13:14+00:00"
+   "checked": "2026-11-27T12:18:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:13:14+00:00"
+   "checked": "2026-11-27T12:18:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-27T12:13:14+00:00"
+   "checked": "2026-11-27T12:18:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T12:13:14+00:00"
+   "checked": "2026-11-27T12:18:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T12:13:15+00:00"
+   "checked": "2026-11-27T12:18:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:13:15+00:00"
+   "checked": "2026-11-27T12:18:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T12:13:15+00:00"
+   "checked": "2026-11-27T12:18:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:13:15+00:00"
+   "checked": "2026-11-27T12:18:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T12:13:15+00:00"
+   "checked": "2026-11-27T12:18:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T12:13:15+00:00"
+   "checked": "2026-11-27T12:18:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T12:13:15+00:00"
+   "checked": "2026-11-27T12:18:19+00:00"
   }
  },
  "items": [
@@ -112,6 +112,18 @@
    "via": "Google News",
    "published": "2026-11-27T12:10:52+00:00",
    "seen": "2026-11-27T12:13:13+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "the best hidden side missions in gta 6 and where to find them",
+   "title": "The best hidden side missions in GTA 6 and where to find them",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jejVka0xHejUtRnJSVm03R1dOMXlXVE91STFkalNIRmJsRUNkb2ZIMnQ2U1Y0UXJmV2M4VEIteXlWNnl0Ri1XamdSLWI2YTRlRzZTQWVPMHZpOGJDY1RrTzdscTA?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-27T12:08:56+00:00",
+   "seen": "2026-11-27T12:18:15+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -273,6 +285,18 @@
    "record": true
   },
   {
+   "id": "got an xbox series x s it might join the fray after gta 6 causes a surge in ps5 failures",
+   "title": "Got an Xbox Series X|S? It might join the fray after GTA 6 causes a surge in PS5 failures",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTjUyNG0tdmx5SEtRNk5pcjZPMDRQT3kyajVZYXlFNjhEclpmSXVWTFFBY1FKaFFKUF9GcHNDNXd1OE8zV3h0cnI3UzNFVmZZSE5XQWNoeHljY1JTeFRMdkw1Y1VpaS1lUWdQRlMxOHBkcXhJLWRrQnV1YlFha0NjUzJfLU1JVklmRVdVaU1kM2hZSjkyLTJZX01Zd3ROcjliSmVIUjFPRUYxTncxbUoxYkdtcHd1NVA0WnRVV3dGN0pPaXc?oc=5",
+   "outlet": "Digital Trends",
+   "via": "Google News",
+   "published": "2026-11-27T11:45:51+00:00",
+   "seen": "2026-11-27T12:18:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "gta vi comes full circle now running on ps5 based crypto mining hardware",
    "title": "GTA VI comes full circle, now running on PS5-based crypto mining hardware",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVpRd3Y1Ym9ZajAxZUltcUlrQ21RTDJDTXQzdXAwbTBsNEZBcXZUMzVQVndTTlprZ1NETlpxWkM5UXNfRm42YlROMjlkcDlpRHdXS3l4VE5YZXNkZFNQRkE4VjdOdnJBWWFlZUV3aG5uUEZVQ2xLU3lRcGg0UG9pamdCcTFBUERBZF8wdl94LUpoVXZ5SjBOa2o5Qko2UTRfd3c?oc=5",
@@ -412,6 +436,18 @@
    "via": "Google News",
    "published": "2026-11-27T11:28:26+00:00",
    "seen": "2026-11-27T11:33:00+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 s chainsaws are look but don t touch",
+   "title": "GTA 6’s chainsaws are look-but-don’t-touch",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9DTlRwVUliZ2wtMkV1azdTUUFzVnVEVEszczMzcmtEZVlRNDZtR1JHSTExRmpiNmFoMmtZWVNORkJuWXlsV2Nv?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-27T11:28:26+00:00",
+   "seen": "2026-11-27T12:18:15+00:00",
    "summary": "",
    "topic": "News",
    "record": false
