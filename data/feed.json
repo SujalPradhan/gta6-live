@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T10:02:24+00:00",
- "started": "2026-11-27T10:02:21+00:00",
+ "updated": "2026-11-27T10:07:28+00:00",
+ "started": "2026-11-27T10:07:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-27T10:02:21+00:00"
+   "checked": "2026-11-27T10:07:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 29,
-   "checked": "2026-11-27T10:02:22+00:00"
+   "hits": 57,
+   "checked": "2026-11-27T10:07:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 54,
-   "checked": "2026-11-27T10:02:22+00:00"
+   "checked": "2026-11-27T10:07:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T10:02:22+00:00"
+   "checked": "2026-11-27T10:07:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T10:02:23+00:00"
+   "checked": "2026-11-27T10:07:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-27T10:02:23+00:00"
+   "checked": "2026-11-27T10:07:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T10:02:23+00:00"
+   "checked": "2026-11-27T10:07:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T10:02:23+00:00"
+   "checked": "2026-11-27T10:07:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 3,
-   "checked": "2026-11-27T10:02:23+00:00"
+   "checked": "2026-11-27T10:07:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T10:02:23+00:00"
+   "checked": "2026-11-27T10:07:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T10:02:24+00:00"
+   "checked": "2026-11-27T10:07:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T10:02:24+00:00"
+   "checked": "2026-11-27T10:07:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T10:02:24+00:00"
+   "checked": "2026-11-27T10:07:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T10:02:24+00:00"
+   "checked": "2026-11-27T10:07:28+00:00"
   }
  },
  "items": [
@@ -115,6 +115,30 @@
    "summary": "",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "how carly rae jepsen is using the moment around her gta vi sync",
+   "title": "How Carly Rae Jepsen is using the moment around her GTA VI sync",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM2JUa1FSdkVzVTdNMERWcXd2WVdWdTFBTkxmaHd6WjFGQkJoWGNOOUs3ZmNKakhod3VyXzR5clM2eXZRTGdVS0UyOVNTWGFacG5pM2VPcDFMQlZPbEU3VVM5MTdleDEydmpWekxBR1hsUi1HaElMcUJLRml3TmNBYkdSY2FIakNRSTk4R0ZWaWRYVkZwTk9ZVVF3aTdQZw?oc=5",
+   "outlet": "Music Ally",
+   "via": "Google News",
+   "published": "2026-11-27T10:00:00+00:00",
+   "seen": "2026-11-27T10:07:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 sets streaming debut record with 420 million hours",
+   "title": "GTA 6 sets streaming debut record with 420 million hours",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSzBZSlp6ZXJTeXlSYV85d3VLVmRVMUVqUWJFaVgySzFnZjk3eE5abGNmYVFwS0IyOFlocnhMejcxU2p1MGduU0otam9XZnM3bzFCdENneFlMS29GMHZETzN3al85VmlIMzRTR2hwaGVCVWR6TjBlS0dLb1Yza0ItYUpWZHFfWnZBQzZrN3BONWVNQ2NWdHNMYTQ0c1BGeTVXWWkwM3pTZjBDRmtlUHc?oc=5",
+   "outlet": "NewsBytes",
+   "via": "Google News",
+   "published": "2026-11-27T09:59:15+00:00",
+   "seen": "2026-11-27T10:07:25+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true
   },
   {
    "id": "motogp martin s gta 6 fever i played it for 14 hours straight on monday",
