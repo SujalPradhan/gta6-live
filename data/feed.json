@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T02:50:08+00:00",
- "started": "2026-11-27T02:50:04+00:00",
+ "updated": "2026-11-27T02:55:11+00:00",
+ "started": "2026-11-27T02:55:07+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T02:50:05+00:00"
+   "checked": "2026-11-27T02:55:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 29,
-   "checked": "2026-11-27T02:50:05+00:00"
+   "hits": 52,
+   "checked": "2026-11-27T02:55:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-27T02:50:05+00:00"
+   "hits": 54,
+   "checked": "2026-11-27T02:55:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T02:50:05+00:00"
+   "checked": "2026-11-27T02:55:09+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T02:50:06+00:00"
+   "checked": "2026-11-27T02:55:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T02:50:06+00:00"
+   "checked": "2026-11-27T02:55:10+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T02:50:06+00:00"
+   "checked": "2026-11-27T02:55:10+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T02:50:07+00:00"
+   "checked": "2026-11-27T02:55:10+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T02:50:07+00:00"
+   "checked": "2026-11-27T02:55:10+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T02:50:07+00:00"
+   "checked": "2026-11-27T02:55:10+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T02:50:07+00:00"
+   "checked": "2026-11-27T02:55:11+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T02:50:08+00:00"
+   "checked": "2026-11-27T02:55:11+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T02:50:08+00:00"
+   "checked": "2026-11-27T02:55:11+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T02:50:08+00:00"
+   "checked": "2026-11-27T02:55:11+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 graphics settings leak 4 consoles 0 confirmed",
+   "title": "GTA 6 Graphics Settings Leak: 4 Consoles, 0 Confirmed",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0tYaFdyX1JHQml4UmNVVG8yNmZiRDFmNGhnMEFIcy1zVmF0WERWUWxidHRzWlFGQmY0am9Ma1lpWjNLYjRIN2pEVDdaTEJmcFJTSTZzeEw1TC00TUJ6YWNuVzU0eEhGUThHMWVtMWl1aUZCR1J5QnF5RVU0eE95WGtVbnlidGhBNVQyZ0k1T1piZkt5MUVLaXVoQ0VNM2Zp?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-27T02:50:06+00:00",
+   "seen": "2026-11-27T02:55:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
   {
    "id": "repair shop reports rise in xbox failures after gta 6 release",
    "title": "Repair shop reports rise in Xbox failures after GTA 6 release",
@@ -1408,6 +1420,18 @@
    "via": "Google News",
    "published": "2026-11-26T18:13:20+00:00",
    "seen": "2026-11-26T18:42:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "south park s gta 6 finale has kenny pulling a terrifying the ring move",
+   "title": "South Park’s GTA 6 Finale Has Kenny Pulling a Terrifying The Ring Move",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMldPWGM0MWotS2xxYWJFQi1FM3FabTU1UUg4ekxmR1NFa3dDVFFYQm9wRHBSdmhFaVBTcmd0VkNoRXMzQk5jYjA1eEhOTFpFNEFudEZnNnFod2Ruc3JybjJBYl9CNDNfOU51d0xYUmFsdTdWM0pySjdTYWtUMjNPQ240ZE5RUG9IQmxoalZyVQ?oc=5",
+   "outlet": "Yahoo",
+   "via": "Google News",
+   "published": "2026-11-26T18:11:05+00:00",
+   "seen": "2026-11-27T02:55:08+00:00",
    "summary": "",
    "topic": "News",
    "record": false
