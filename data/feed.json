@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T17:19:55+00:00",
- "started": "2026-11-27T17:19:52+00:00",
+ "updated": "2026-11-27T17:24:58+00:00",
+ "started": "2026-11-27T17:24:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T17:19:52+00:00"
+   "checked": "2026-11-27T17:24:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 30,
-   "checked": "2026-11-27T17:19:52+00:00"
+   "hits": 53,
+   "checked": "2026-11-27T17:24:56+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-27T17:19:53+00:00"
+   "hits": 43,
+   "checked": "2026-11-27T17:24:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T17:19:53+00:00"
+   "checked": "2026-11-27T17:24:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T17:19:53+00:00"
+   "checked": "2026-11-27T17:24:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T17:19:53+00:00"
+   "checked": "2026-11-27T17:24:57+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T17:19:54+00:00"
+   "checked": "2026-11-27T17:24:57+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T17:19:54+00:00"
+   "checked": "2026-11-27T17:24:57+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T17:19:54+00:00"
+   "checked": "2026-11-27T17:24:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T17:19:54+00:00"
+   "checked": "2026-11-27T17:24:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T17:19:55+00:00"
+   "checked": "2026-11-27T17:24:58+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T17:19:55+00:00"
+   "checked": "2026-11-27T17:24:58+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T17:19:55+00:00"
+   "checked": "2026-11-27T17:24:58+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T17:19:55+00:00"
+   "checked": "2026-11-27T17:24:58+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 sales estimates place it above cyberpunk 2077 the sims and the first pokemon games as the 13th best selling game ever",
+   "title": "GTA 6 sales estimates place it above Cyberpunk 2077, The Sims, and the first Pokemon games as the 13th best-selling game ever",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdFljcjcyMWJfUXRvVUJJVkUteWV0dVRRbi1zYzFxVlZoX2RvbGRxLVh6ek5MaEVqU3ZBc1J4YWZBZFktbmttWTdJQm1Rc0pPOEI5RWhaNzZUSU15Tl9IQUo4ZVFqX0RpZ1B3eXlPZDh6VXlUVGNGZFBGSjhtZEJmR3FVaFJPU0pLRkFWNF9zS1E5aHhwNTFlbm5HU2w4cE1XcmprVl85VDVUVTJtTHNOdy1XZlBqZC04cmtYamFHdm9PcURYYm1QLW9vSEhVa0xSOW9UWGgtaHdpNFdnNWZrN3dtazh2U2VOdzB4LXhieXhuTE1kb0JIODVGMmQyMnA2V2NETw?oc=5",
+   "outlet": "GamesRadar+",
+   "via": "Google News",
+   "published": "2026-11-27T17:17:46+00:00",
+   "seen": "2026-11-27T17:24:56+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
+  },
+  {
+   "id": "gta 6 sales estimates place it as the 13th best selling game ever",
+   "title": "GTA 6 sales estimates place it as the 13th best-selling game ever",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-27T17:17:46+00:00",
+   "seen": "2026-11-27T17:24:57+00:00",
+   "summary": "53 million puts it above any Call of Duty game",
+   "topic": "Sales",
+   "record": true
+  },
+  {
+   "id": "vice city just got a whole lot bigger this gta 6 ready projector is 600 off",
+   "title": "Vice City just got a whole lot bigger: This GTA 6-ready projector is $600 off",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHQ0ekxRMWI5Z2Y1ektrM1dmcUNsSG55dl94TVN5SVN0TEhBRVl0ajRWaXppY1NaazdCbmpDUDJENTJtZVNYWWFObjdYeGdUUnBZYk9QN3VnMVk4Ti1rQVprd2NRRXJvUHRHNWRSSC00WGpKYUxXYlZVSVNhWkpLUFg2cVpVdGM0Nm9DeVlXc1hVcm1KS1hQMFllc3BnWjk1WlVlc1lLczVtYlhzU25RNFFjdnNJek85SVZj?oc=5",
+   "outlet": "New York Post",
+   "via": "Google News",
+   "published": "2026-11-27T17:14:00+00:00",
+   "seen": "2026-11-27T17:24:55+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
   {
    "id": "gta 6 is already one of the best selling games ever says report",
    "title": "‘GTA 6’ Is Already One Of The Best-Selling Games Ever, Says Report",
@@ -1108,6 +1144,18 @@
    "via": "Google News",
    "published": "2026-11-27T14:55:00+00:00",
    "seen": "2026-11-27T15:14:06+00:00",
+   "summary": "",
+   "topic": "Outage",
+   "record": false
+  },
+  {
+   "id": "a breakdown of grand theft auto vi sports and activities across leonida",
+   "title": "A breakdown of 'Grand Theft Auto VI' sports and activities across Leonida",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51ajQtSkZmN01BWk1LY0JzX3FQaktQdzlTNGFSMDBNRGdRMXI4MzlfeUJGZDFSRUFOdWN4RjUzMWJLNlhxRWF0c0t4X2dVY0NLYUlZR29LWkpSVHgzeXlNa3VtZUZNU2dWM3ZhMmhlU1lfWXR0TEdtRC1oX20?oc=5",
+   "outlet": "ESPN",
+   "via": "Google News",
+   "published": "2026-11-27T14:55:00+00:00",
+   "seen": "2026-11-27T17:24:55+00:00",
    "summary": "",
    "topic": "Outage",
    "record": false
