@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T10:57:54+00:00",
- "started": "2026-11-27T10:57:48+00:00",
+ "updated": "2026-11-27T11:02:53+00:00",
+ "started": "2026-11-27T11:02:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,138 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 94,
-   "checked": "2026-11-27T10:57:48+00:00"
+   "hits": 95,
+   "checked": "2026-11-27T11:02:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 32,
-   "checked": "2026-11-27T10:57:49+00:00"
+   "hits": 58,
+   "checked": "2026-11-27T11:02:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-27T10:57:49+00:00"
+   "hits": 59,
+   "checked": "2026-11-27T11:02:51+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T10:57:49+00:00"
+   "checked": "2026-11-27T11:02:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T10:57:50+00:00"
+   "checked": "2026-11-27T11:02:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-27T10:57:51+00:00"
+   "checked": "2026-11-27T11:02:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 12,
-   "checked": "2026-11-27T10:57:52+00:00"
+   "hits": 13,
+   "checked": "2026-11-27T11:02:52+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T10:57:52+00:00"
+   "checked": "2026-11-27T11:02:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T10:57:53+00:00"
+   "checked": "2026-11-27T11:02:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T10:57:53+00:00"
+   "checked": "2026-11-27T11:02:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T10:57:53+00:00"
+   "checked": "2026-11-27T11:02:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T10:57:53+00:00"
+   "checked": "2026-11-27T11:02:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T10:57:54+00:00"
+   "checked": "2026-11-27T11:02:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T10:57:54+00:00"
+   "checked": "2026-11-27T11:02:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 running on pc at 4k 120 fps labeled a fake as modders rush to improve performance",
+   "title": "GTA 6 running on PC at 4K 120 FPS labeled a fake as modders rush to improve performance",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1V6NUlIRFB4SF9oSmRWaXByeXNZWWtpYlBTeURua0QtZnNxZjJwcDRzUVFxQUV2eFFsQjBtajNGbWhvSWVuUUtmNE5mWTg0UEdVU0Q0dElYdmUxU01JOGxSSkRQdFFhVDZfZE9keFQtUUJFbFJ6TXozU0s1UkQtcC1RRDZHeE1mYmdUYno1MEFYVGMybFBGZlVoOWxPYThtckgzNWd4YWdVeG0zbldYc1BiZHFXN1p4?oc=5",
+   "outlet": "PC Guide",
+   "via": "Google News",
+   "published": "2026-11-27T10:59:13+00:00",
+   "seen": "2026-11-27T11:02:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 surpasses valorant elden ring and diablo 4 for top streaming debut",
+   "title": "GTA 6 surpasses Valorant, Elden Ring, and Diablo 4 for top streaming debut",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1ByM25DczhjVjRBREZ2SmRJNXc0cjJJSThMOGFpWmdjRFk5X3Q5Q1dpOXI4ckFWaGZiN3ZUb3hnd3FMeVFmazVvcFBPZ18yUWlvYkJOaTdvUmhYLUZUMzVSaEVvUjNBZFJ3UTFHU0U4V2t3V3NtV1k2aWRZQkowMzRQeXFvVUJfdGJvekxQOVVvQVFOR0lfVHFnWHhxcl9B?oc=5",
+   "outlet": "FlipItMoney",
+   "via": "Google News",
+   "published": "2026-11-27T10:58:11+00:00",
+   "seen": "2026-11-27T11:02:50+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true
+  },
+  {
+   "id": "rockstar explains why it left out chainsaws and other extra violent weapons in gta vi",
+   "title": "Rockstar Explains Why It Left Out Chainsaws and Other Extra Violent Weapons in GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjhlRnFLR3lGTDhtU1pOX05fdVpNMEQzLThST1hnRHVSMk5ZUGtHc2J3WGVKOHFmVUc1NHJJbzVDcGhPTHYwVy1YUjdzWkd5dVhKQVZvWFdRUkRkZ29VSG5LYVBhaVMzNjJ5Nml2YVoyV2M2RVRfb0c5STNGOWVZcjVQRldDd3JpUTlFNC1QMnY4bWptWXp5amwzZnlxd2EzQ0o4UUtCUEFVakJ4TkptWXRZNlA?oc=5",
+   "outlet": "GamerBraves",
+   "via": "Google News",
+   "published": "2026-11-27T10:57:27+00:00",
+   "seen": "2026-11-27T11:02:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "where to find principe burnished alvino in gta 6 fastest motorcycles location stats",
    "title": "Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats",
@@ -115,6 +151,18 @@
    "summary": "Here's where to find the Principe Burnished Alvino in Grand Theft Auto 6, as well as a detailed look at the motorcycle's stats. The post Where To Find Principe Burnished Alvino In GTA 6—Fastest Motorcycles Location & Stats appeared first on Insider Gaming .",
    "topic": "News",
    "record": true
+  },
+  {
+   "id": "all the gta 6 stat boost missions we ve found",
+   "title": "All the GTA 6 stat boost missions we've found",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-increase-stats-missions/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-27T10:55:53+00:00",
+   "seen": "2026-11-27T11:02:52+00:00",
+   "summary": "All the GTA 6 stat boost missions we've found",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "rockstar north boss knew some gta 6 players would reject new systems like criminal profiles but insists you can still do whatever you wanted",
