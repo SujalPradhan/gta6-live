@@ -1,109 +1,133 @@
 {
- "updated": "2026-11-27T15:09:32+00:00",
- "started": "2026-11-27T15:09:09+00:00",
+ "updated": "2026-11-27T15:14:08+00:00",
+ "started": "2026-11-27T15:14:05+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-27T15:09:16+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-27T15:14:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-27T15:09:24+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 32,
+   "checked": "2026-11-27T15:14:06+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable",
-   "hits": 0,
-   "checked": "2026-11-27T15:09:31+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 58,
+   "checked": "2026-11-27T15:14:06+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T15:09:31+00:00"
+   "checked": "2026-11-27T15:14:07+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T15:09:31+00:00"
+   "checked": "2026-11-27T15:14:07+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-27T15:09:31+00:00"
+   "checked": "2026-11-27T15:14:07+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T15:09:32+00:00"
+   "checked": "2026-11-27T15:14:07+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-27T15:09:32+00:00"
+   "checked": "2026-11-27T15:14:07+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T15:09:32+00:00"
+   "checked": "2026-11-27T15:14:07+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T15:09:32+00:00"
+   "checked": "2026-11-27T15:14:07+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T15:09:32+00:00"
+   "checked": "2026-11-27T15:14:08+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T15:09:32+00:00"
+   "checked": "2026-11-27T15:14:08+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T15:09:32+00:00"
+   "checked": "2026-11-27T15:14:08+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T15:09:32+00:00"
+   "checked": "2026-11-27T15:14:08+00:00"
   }
  },
  "items": [
+  {
+   "id": "on top of everything else gta 6 is a solid stealth sandbox",
+   "title": "On Top of Everything Else, GTA 6 Is a Solid Stealth Sandbox",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWgzN09zZmltU256M191NS1xY2JjV2UwQVdfV056OFhfWkJRU0VTUWlueWE2NVNSb1UyRlJDTmxidEVKYzdRSGtYdFU4UWZpMzhvWFc5SnFLOFo5cFRmbEkzZFBISDM0Yk1iblcxNnBuWXpoendPWDBWc0RjT3hCM01SMzJXbGVUUDRTYkQ3NDg1SXlrNUpCX3h5dzM?oc=5",
+   "outlet": "IGN Nordic",
+   "via": "Google News",
+   "published": "2026-11-27T15:10:42+00:00",
+   "seen": "2026-11-27T15:14:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "fishing in gta 6 tips and tricks for catching every fish",
+   "title": "Fishing in GTA 6: Tips and tricks for catching every fish",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZjZrNmdBYnRZRWk4YjR2RE1BNnhsMlA1UDZlc1NwM2dNREZ4bkdRRGtqck5uQkNBSlpKQTlVNnJDTzRJaERreUhtTmp3YXhXbUVQa0RPY045dG85TXc?oc=5",
+   "outlet": "Red Bull",
+   "via": "Google News",
+   "published": "2026-11-27T15:03:40+00:00",
+   "seen": "2026-11-27T15:14:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "11 gifts to buy for the gta 6 fan in your life",
    "title": "11 Gifts To Buy For The GTA 6 Fan In Your Life",
@@ -141,6 +165,18 @@
    "record": true
   },
   {
+   "id": "where to find the progen purple drank emerus location in gta 6",
+   "title": "Where to find the Progen Purple Drank Emerus location in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRGdHTTRua2djNkdscDlfd2ZnM2Q4Z3NnVVYtRXljcWtqbjBjWEJBT1ZXUHRoMzJSMml5THk1Q3h4NmZNNkZmYVRIZFNhcVlQcjc3Nzh2SGFYTWV4V0pldl93NHotTTZvcTkyUHdURGJ2ODFzcG1MZ2lRR2F0ZVE?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-27T14:59:10+00:00",
+   "seen": "2026-11-27T15:14:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "major gta 6 glitch is locking players out of finishing the story",
    "title": "Major GTA 6 Glitch Is Locking Players Out Of Finishing The Story",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ01pckk2RjB4NV9JZDQ5a1FMckxKZVZESThVYVk5bXJIVmJCWVhXZmM4NGlicmsyS1ZDR3ZuVllJd2drendKeWQ3S19BalZIRlFncWJUZFEteWhIbS1RTTd2a1I5aEpkYkhIWGg4TVZLZGM?oc=5",
@@ -165,6 +201,18 @@
    "record": false
   },
   {
+   "id": "where to find the bravado banshee s location in gta 6",
+   "title": "Where to find the Bravado Banshee's location in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBET0xBWEpVbHFBRVYtSmZBWlhqNi1pSjBOd3dHSjRBaU0yX2h3R0p5blVQYi13SkRyV3hXdm5lSG9DRjJKUWtSdDFUeF9Lc0NSU2R2Wjd3N3JDWjJVdHhJRGxsdURobzNITTlkZTVvZ0c?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-27T14:57:10+00:00",
+   "seen": "2026-11-27T15:14:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "gta 6 can you go back to jason s house in key lento",
    "title": "GTA 6: Can You Go Back to Jason's House in Key Lento?",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdC1SSnBVYWtWRFZWc3lYTHg2UzNyVUZuWUFNd25QN3Zab3FicVhFbG5pNWJhQS11d0ZUSXVDWTBhSmd4M1NpV3VoZlZZZE0teHphNmVYSzVacVdqUEJxTmF4Nk9weVpGR094SV94alJpYklnZzRrX25Vc21JUnJVNEE4bkpJZVlKNFFycQ?oc=5",
@@ -174,6 +222,18 @@
    "seen": "2026-11-27T14:59:01+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi sports and activities breakdown",
+   "title": "'Grand Theft Auto VI' sports and activities breakdown",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51ajQtSkZmN01BWk1LY0JzX3FQaktQdzlTNGFSMDBNRGdRMXI4MzlfeUJGZDFSRUFOdWN4RjUzMWJLNlhxRWF0c0t4X2dVY0NLYUlZR29LWkpSVHgzeXlNa3VtZUZNU2dWM3ZhMmhlU1lfWXR0TEdtRC1oX20?oc=5",
+   "outlet": "ESPN",
+   "via": "Google News",
+   "published": "2026-11-27T14:55:00+00:00",
+   "seen": "2026-11-27T15:14:06+00:00",
+   "summary": "",
+   "topic": "Outage",
    "record": false
   },
   {
@@ -1603,6 +1663,18 @@
    "summary": "One thing you might have noticed is that GTA 6 doesn't have online multiplayer at launch, so find out more about the missing game mode. The post When Will GTA 6 Online Come Out? GTA 6 Online Release Window appeared first on Insider Gaming .",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "cod hq daily users 7 5m to 4 4m after gta 6",
+   "title": "CoD HQ Daily Users: 7.5M to 4.4M After GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOTRvam1UcmFCX241NllteG1GMGF3MXl6Nzg1RFctRl9BY1A1blZUajlaVHFjaUoxX2N3eXA5MTltLXVkcG96ZjR2b3M0QmZEOGl4RnFCUHJDYkZKcWJ4VXpITDlGN1dpakVGLWFOYmJnQ2FMVEQ2a2RuS08zSEtUZHBSVmVwRTJnbWJSQjV3?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-27T11:24:59+00:00",
+   "seen": "2026-11-27T15:14:06+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
   },
   {
    "id": "grand theft inbox how gta vi hype turned qr codes into a phishing weapon",
