@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T11:18:01+00:00",
- "started": "2026-11-27T11:17:58+00:00",
+ "updated": "2026-11-27T11:23:04+00:00",
+ "started": "2026-11-27T11:23:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,114 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 92,
-   "checked": "2026-11-27T11:17:58+00:00"
+   "hits": 93,
+   "checked": "2026-11-27T11:23:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 59,
-   "checked": "2026-11-27T11:17:59+00:00"
+   "hits": 33,
+   "checked": "2026-11-27T11:23:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-27T11:17:59+00:00"
+   "hits": 58,
+   "checked": "2026-11-27T11:23:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T11:17:59+00:00"
+   "checked": "2026-11-27T11:23:01+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T11:18:00+00:00"
+   "checked": "2026-11-27T11:23:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-27T11:18:00+00:00"
+   "checked": "2026-11-27T11:23:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T11:18:00+00:00"
+   "checked": "2026-11-27T11:23:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T11:18:00+00:00"
+   "checked": "2026-11-27T11:23:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T11:18:00+00:00"
+   "checked": "2026-11-27T11:23:02+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T11:18:01+00:00"
+   "checked": "2026-11-27T11:23:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T11:18:01+00:00"
+   "checked": "2026-11-27T11:23:04+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T11:18:01+00:00"
+   "checked": "2026-11-27T11:23:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T11:18:01+00:00"
+   "checked": "2026-11-27T11:23:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T11:18:01+00:00"
+   "checked": "2026-11-27T11:23:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi x gta screenshots gallery",
+   "title": "GTA VI x GTA+ Screenshots Gallery",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PMG5rck5VZVFsb1JIR1BTNk1hdGNjVGJWYmszWjdoZDIxVW56bUxmS1NUMzhPYjN2OTl2VUMwdFMzMmF0ekM4Q3QwQndiQl8zRjBhdU90ekNHeFFIM0s4MDF5aEFkbkhvazQ0?oc=5",
+   "outlet": "RockstarINTEL",
+   "via": "Google News",
+   "published": "2026-11-27T11:06:53+00:00",
+   "seen": "2026-11-27T11:23:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "where is the ghostbusters ecto 1 car in gta 6",
    "title": "Where is the Ghostbusters Ecto-1 Car in GTA 6?",
@@ -185,6 +197,18 @@
    "published": "2026-11-27T10:55:53+00:00",
    "seen": "2026-11-27T11:02:52+00:00",
    "summary": "All the GTA 6 stat boost missions we've found",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 shipwrecks how to dive with kenton and find the first treasures",
+   "title": "GTA 6 Shipwrecks: How to Dive with Kenton and Find the First Treasures",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLVFPbzE0MzRLd0J4Rm92V0NTNmtadzhTdjd3ck9kUGFocU5XckpOckM4X3diTTk3Q3JTZlhaSGY4bTIzWHBDX2wyV2dEMVpDaFpLQlNsN0VxS3p3N0tHNDd4eGptbDhzbkFLdFJpbkNHMUZOOEtWRW10R0tLeG1IRHhXVVZQMVBCWWlCS3hnb1llV2RPVEl1ZGQ2bmx3Yk54S0t1anpTV1RpZEN0bGwwcWRQbnlPTFlmaGQtcG5oV09MQnZNdjNDcGRYV1VoU1kxMTdJTzBTWWk0Mk1K?oc=5",
+   "outlet": "Sortir à Paris",
+   "via": "Google News",
+   "published": "2026-11-27T10:50:41+00:00",
+   "seen": "2026-11-27T11:23:01+00:00",
+   "summary": "",
    "topic": "News",
    "record": false
   },
@@ -330,6 +354,18 @@
    "seen": "2026-11-27T10:17:26+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 5 mods insane ultra photorealistic graphics mod with gta 6 natural vision evolved on rtx2060",
+   "title": "GTA 5 Mods - Insane Ultra Photorealistic Graphics Mod With GTA 6 Natural Vision Evolved On RTX2060",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16MkNwR21paDdsazY5MnRwT3VoRWVVZzRqSkpwUlQyZE4yZ2l5X0RQZF9ZcllOUTM0ejN3WU53V3JBUQ?oc=5",
+   "outlet": "YouTube",
+   "via": "Google News",
+   "published": "2026-11-27T10:15:05+00:00",
+   "seen": "2026-11-27T11:23:01+00:00",
+   "summary": "",
+   "topic": "Streaming",
    "record": false
   },
   {
@@ -1216,6 +1252,18 @@
    "via": "Google News",
    "published": "2026-11-27T05:04:45+00:00",
    "seen": "2026-11-27T07:06:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "10 year gta 6 becomes hit highlighting human creativity in ai era",
+   "title": "10-year GTA 6 becomes hit, highlighting human creativity in AI era",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGF4aXo4N0g1TGp1cFpNRHNxeW1pRVgyVms3UDNINUVoRHMySmkwYnJuT2d3aVdWTXBPUE9uc3h0NzJKaVRZMDNNMDI1dTdTa3JXRWp4cnM4d21MVkE2Q0w4YjgwcTRmSE1jU2NOQk1XM0ZsSEY5NW9sSEpVQm9tRlptVWhvNWdzS2daMlJfZnhRYzhSX2dqR1BCdkY3VWpibGJuc3BidEpJMV9meWhVdHM0TQ?oc=5",
+   "outlet": "디지털투데이",
+   "via": "Google News",
+   "published": "2026-11-27T04:55:49+00:00",
+   "seen": "2026-11-27T11:23:01+00:00",
    "summary": "",
    "topic": "News",
    "record": false
