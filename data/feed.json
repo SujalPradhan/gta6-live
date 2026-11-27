@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T18:25:19+00:00",
- "started": "2026-11-27T18:25:15+00:00",
+ "updated": "2026-11-27T18:30:27+00:00",
+ "started": "2026-11-27T18:30:24+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T18:25:15+00:00"
+   "checked": "2026-11-27T18:30:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 32,
-   "checked": "2026-11-27T18:25:16+00:00"
+   "hits": 51,
+   "checked": "2026-11-27T18:30:25+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-27T18:25:16+00:00"
+   "hits": 55,
+   "checked": "2026-11-27T18:30:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T18:25:16+00:00"
+   "checked": "2026-11-27T18:30:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T18:25:17+00:00"
+   "checked": "2026-11-27T18:30:26+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-27T18:25:17+00:00"
+   "checked": "2026-11-27T18:30:26+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-27T18:25:17+00:00"
+   "checked": "2026-11-27T18:30:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T18:25:17+00:00"
+   "checked": "2026-11-27T18:30:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T18:25:17+00:00"
+   "checked": "2026-11-27T18:30:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T18:25:18+00:00"
+   "checked": "2026-11-27T18:30:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:25:18+00:00"
+   "checked": "2026-11-27T18:30:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T18:25:19+00:00"
+   "checked": "2026-11-27T18:30:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:25:19+00:00"
+   "checked": "2026-11-27T18:30:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T18:25:19+00:00"
+   "checked": "2026-11-27T18:30:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "version 2 2 0 of the unofficial gta vi port has reduced frame rate lag by 78",
+   "title": "Version 2.2.0 of the unofficial GTA VI port has reduced frame rate lag by 78%.",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkdDWkQ4ME1VX2U4Qjc3ZFEyX0Q4NHF1UWVkX1NIY2U1YmY2TDlyQ1diYkZjY0pqVGVTakJoWVhDeEY5RXk1bDVQZTdUYklPNWlKT2MzeWlZRzZ1dVBMSHNDZF9yRU9NQ0pURjJ6NDdMMVgzTnVMRExwY1NJd2EzQWFsWGpCNXJpOFhCZEtPanRBbHA4bzUtSkdWcEdaMEFvTTFUYkR3ZUVEVG1zT0R6SzEySXpUUnpqSmE5Qw?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-27T18:26:53+00:00",
+   "seen": "2026-11-27T18:30:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "play gta vi remotely with raspberry pi piday raspberrypi",
+   "title": "Play GTA VI Remotely with Raspberry Pi? #piday #raspberrypi",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1JqTF9DblBRMUs5WUZhQVAzakNtUGV5TWN1QUlObGRxUUpVTFh6SHV0bU9NNTQtSlhyVFFzOV93Qk5Zd29SU2R1emV3U3VMb1ZQbkZxdkJfVTJ0X29QZEtBc0t6MDFjOFFkbjdBMjE4RkcxbmlWVkowRmVFLXlhcHZZakEwZkhqSU1FcE1oVWxIQnJ0blFybU1B?oc=5",
+   "outlet": "Adafruit",
+   "via": "Google News",
+   "published": "2026-11-27T18:25:47+00:00",
+   "seen": "2026-11-27T18:30:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi has sold 53m copies after a week alinea analytics",
+   "title": "GTA VI has sold 53M copies after a week | Alinea Analytics",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWEJEOWhnbHpGNERIZTUzZVo5c2ZNQURBQWxkMWRoN0JQMDU1NWRPV2NicndIcWFzclpCcEd1cGc2OC14M1hya0VXbzlJT3hPc094LVJZaTBpMnhPYUZXTVJiM3pQZWNXWDdRR2UwX0pNVWtZYWZjQTY3Mjk0VGZJV3U4ejZvZw?oc=5",
+   "outlet": "GamesBeat",
+   "via": "Google News",
+   "published": "2026-11-27T18:24:40+00:00",
+   "seen": "2026-11-27T18:30:24+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
   {
    "id": "mercer county has the most gta 6 ready internet in ohio study finds",
    "title": "Mercer County has the most GTA 6-ready internet in Ohio, study finds",
@@ -112,6 +148,30 @@
    "via": "Google News",
    "published": "2026-11-27T18:24:24+00:00",
    "seen": "2026-11-27T18:25:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "desoto sheriff tuggle warns parents about gta 6",
+   "title": "DeSoto Sheriff Tuggle Warns Parents About GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV2RsaWNPNDRwTnpJcFJfMTVHTTk1YkVzWWNRalVseFNqZ1dadmtKRTlMaGw2Z1B4Rks2ZkxPd2x0dkl6NmxSWVZELUtrTFUtcjlPeFp4RnVkcDg2N3p4R0t1cV9mVW5ZNklTUUZUSk1jUUx4dU4xNVFnSXhjZU42TV9lRQ?oc=5",
+   "outlet": "DeSoto County News",
+   "via": "Google News",
+   "published": "2026-11-27T18:24:22+00:00",
+   "seen": "2026-11-27T18:30:24+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 sparks ps5 sellouts across the us just before black friday",
+   "title": "GTA 6 Sparks PS5 Sellouts Across the US Just Before Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWZMb0dNXzM0aGJJaWxoVVo5Q2EzbC0wUk1uWFdBU3pnUEM3ZDIway0zQS1GTzF5b2t6QWk3S3JfeGhWNzA2NldPOTJPdkhCcE5oNUNwRlFyay1vdHQzVmRHNDAtMmkzNlFRWlc0Tlg5RHB4cGNDQWxZeUdwRE5PVnIxMFlidw?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-27T18:18:35+00:00",
+   "seen": "2026-11-27T18:30:24+00:00",
    "summary": "",
    "topic": "News",
    "record": false
