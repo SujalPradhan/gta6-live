@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T18:55:28+00:00",
- "started": "2026-11-27T18:55:23+00:00",
+ "updated": "2026-11-27T19:00:28+00:00",
+ "started": "2026-11-27T19:00:25+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T18:55:24+00:00"
+   "checked": "2026-11-27T19:00:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 30,
-   "checked": "2026-11-27T18:55:24+00:00"
+   "hits": 52,
+   "checked": "2026-11-27T19:00:26+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-27T18:55:24+00:00"
+   "hits": 44,
+   "checked": "2026-11-27T19:00:26+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T18:55:25+00:00"
+   "checked": "2026-11-27T19:00:26+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T18:55:25+00:00"
+   "checked": "2026-11-27T19:00:27+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-27T18:55:25+00:00"
+   "checked": "2026-11-27T19:00:27+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T18:55:26+00:00"
+   "checked": "2026-11-27T19:00:27+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T18:55:26+00:00"
+   "checked": "2026-11-27T19:00:27+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T18:55:26+00:00"
+   "checked": "2026-11-27T19:00:27+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T18:55:27+00:00"
+   "checked": "2026-11-27T19:00:28+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:55:27+00:00"
+   "checked": "2026-11-27T19:00:28+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T18:55:27+00:00"
+   "checked": "2026-11-27T19:00:28+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:55:27+00:00"
+   "checked": "2026-11-27T19:00:28+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T18:55:28+00:00"
+   "checked": "2026-11-27T19:00:28+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi release has swept playstation 5 off the shelves worldwide",
+   "title": "‘GTA VI’ release has swept PlayStation 5 off the shelves worldwide",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFBJSlcySmFjbUdaNDJpYXUtX1N1ZXNtSFFWaEFpUkdIUms0ME1QSm8wV2Z0YWRoM0lYb2hITnpuTXMyMDVXVDVRQVd2RVhlYmljdWRGTVlpNTUzZmlGZHF6V2RVZ3E3ZkM0aV9vUldabDJJcDRxZ2dHcWRIVThpUG9KekI0bXFqWlpLVUNnVU8xaS1QYWtaSFRQRDdzVFFGTmRzYXh6Wl9NaHRpNFE?oc=5",
+   "outlet": "The Washington Post",
+   "via": "Google News",
+   "published": "2026-11-27T18:54:57+00:00",
+   "seen": "2026-11-27T19:00:26+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "carly rae jepsen says she s really enjoying viral moment following gta vi streaming surge",
    "title": "Carly Rae Jepsen Says She’s ‘Really Enjoying’ Viral Moment Following ‘GTA VI’ Streaming Surge",
@@ -115,6 +127,18 @@
    "summary": "",
    "topic": "Streaming",
    "record": false
+  },
+  {
+   "id": "gta vi sets record with 3 8 billion dollar launch",
+   "title": "GTA VI Sets Record With 3.8 Billion Dollar Launch",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54RXVXeDBnZWRDeEpuaE9BczgyUldFdWY3TDJnWDdIeDJqUlZJUjVzbGYwd3RLS2czZEVvSnd6RnhTRUY4dmxOUzBnbUxDUEVSQ2VFc1lGUFVsSk5xRU91aw?oc=5",
+   "outlet": "cwibc.co.id",
+   "via": "Google News",
+   "published": "2026-11-27T18:40:00+00:00",
+   "seen": "2026-11-27T19:00:26+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
   },
   {
    "id": "we got gta 6 online before gta 6 online",
@@ -472,6 +496,18 @@
    "via": "Google News",
    "published": "2026-11-27T17:41:20+00:00",
    "seen": "2026-11-27T18:20:14+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "utrecht artist secretly creates three artworks for gta vi commisioned by rockstar games",
+   "title": "Utrecht artist secretly creates three artworks for GTA VI commisioned by Rockstar Games",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEtENDNnR2NfSGpuaF9ISUhBc05La1lQZ2tuZnRlenpLc3lDbGZWS09JZmhVRGU2c3poTVgtNkljeEg2TDJUc3pidzlKV2sxdzNraTlkcmFJSlI2UUJnV2hGMkxkejdwRkZJUFhUX3pLaHJackxrRkRVcXZ1alU0T0M1aEEtd2RrV2tCWTNuQnRXcXYzZkpfRk5VQzdlUHBhSm5lZjh4bnptUXFLczE4?oc=5",
+   "outlet": "NL Times",
+   "via": "Google News",
+   "published": "2026-11-27T17:40:00+00:00",
+   "seen": "2026-11-27T19:00:26+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -2287,6 +2323,18 @@
    "summary": "",
    "topic": "News",
    "record": false
+  },
+  {
+   "id": "gta 6 day one sales hit 3 79 billion setting a record",
+   "title": "GTA 6 Day-One Sales Hit $3.79 Billion, Setting a Record",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2aDAybE9fU0NyT25DVGFiaG9CbWF5RnR3Ukd5N2tNeGwtUmNTNHo5UE00d2o5RnE3SndyZ0FtalhKVFp5QkxOVVMtMU9UcjdZS0QxVHdoX3BBOUF2NWw5VUJ2V1JaOUVPakhPRzc3UQ?oc=5",
+   "outlet": "New Game Network",
+   "via": "Google News",
+   "published": "2026-11-27T13:40:29+00:00",
+   "seen": "2026-11-27T19:00:26+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
   },
   {
    "id": "sneakthief trophy achievement walkthrough in gta 6 how to rob stores without being detected",
