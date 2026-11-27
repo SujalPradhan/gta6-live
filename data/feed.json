@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T17:04:51+00:00",
- "started": "2026-11-27T17:04:47+00:00",
+ "updated": "2026-11-27T17:09:53+00:00",
+ "started": "2026-11-27T17:09:49+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T17:04:48+00:00"
+   "checked": "2026-11-27T17:09:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 32,
-   "checked": "2026-11-27T17:04:48+00:00"
+   "hits": 53,
+   "checked": "2026-11-27T17:09:50+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-27T17:04:48+00:00"
+   "hits": 44,
+   "checked": "2026-11-27T17:09:50+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T17:04:49+00:00"
+   "checked": "2026-11-27T17:09:51+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T17:04:49+00:00"
+   "checked": "2026-11-27T17:09:51+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T17:04:49+00:00"
+   "checked": "2026-11-27T17:09:51+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T17:04:49+00:00"
+   "checked": "2026-11-27T17:09:51+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T17:04:50+00:00"
+   "checked": "2026-11-27T17:09:52+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T17:04:50+00:00"
+   "checked": "2026-11-27T17:09:52+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
-   "hits": 7,
-   "checked": "2026-11-27T17:04:50+00:00"
+   "hits": 8,
+   "checked": "2026-11-27T17:09:52+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T17:04:50+00:00"
+   "checked": "2026-11-27T17:09:53+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T17:04:51+00:00"
+   "checked": "2026-11-27T17:09:53+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T17:04:51+00:00"
+   "checked": "2026-11-27T17:09:53+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T17:04:51+00:00"
+   "checked": "2026-11-27T17:09:53+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 is already one of the best selling games ever says report",
+   "title": "‘GTA 6’ Is Already One Of The Best-Selling Games Ever, Says Report",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGF2aTB6bjktdlRvOGJUUVNURmQ5QWM3X0ZwWmtnMGVqS3BMX1RDODR2TmhWaFN3aENYRU5fR0VHYnF6S3BzdDNvNWoyTGw3UHcyLXFpNTZrN2dyMDBmZDhXdmFNUDg3N0dqYzk0S1NKZXdjUzR4RVdUeERVMVNYMWZBbHR4MDlzQ3Y0MXoya1lEcGFBWTZIYTh5cnlxRkZmRTBXeHZ6QUhYWVZQZmVXNVAzblA?oc=5",
+   "outlet": "Forbes",
+   "via": "Google News",
+   "published": "2026-11-27T17:06:04+00:00",
+   "seen": "2026-11-27T17:09:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "limited edition the gta 6 dualsense ps5 controller is up at best buy for black friday",
+   "title": "Limited-edition: The GTA 6 DualSense PS5 Controller is up at Best Buy for Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56dG5uaDg4ZXlPV3lJTHZoUWxSXzg1cEk1SGtrdkxfRGo5dUtxNmRjU05sa2gtMGdXcHF4a0ZSQ1lzbDllMFFJYjdia3FjYWlCd29VS01tZXJMVDBOM1dYN1RSTDlHR2xySVg5WGtwTDRlbF9KVV9SYkxXZVhYZw?oc=5",
+   "outlet": "Mashable",
+   "via": "Google News",
+   "published": "2026-11-27T17:03:45+00:00",
+   "seen": "2026-11-27T17:09:50+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "unofficial gta 6 pc port is now live no building required",
    "title": "Unofficial GTA 6 PC Port Is Now Live, No Building Required",
@@ -136,6 +160,42 @@
    "via": "Google News",
    "published": "2026-11-27T17:00:00+00:00",
    "seen": "2026-11-27T17:04:48+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "as gta vi dominates the sales charts which classic grand theft auto entry is your favourite",
+   "title": "As GTA VI Dominates the Sales Charts, Which Classic Grand Theft Auto Entry Is Your Favourite?",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaXdia3dlYk9ZRG5jYUx0dlgxXzVBOXZxR2s0a0VBb2FGQkJTNmxDT1F1dFZ2al9FVHk4cTF3Y0JMWlNveEZ2STVaRTYtaUpzd0pDT3BYTWE5SGV1cEdMOVo0b1RuR3ZYNThKaFgxQjVXQ2Y3aTF0aHBKanlxNGtwSEg2WUV1M19EU0w2bGdBbjRLU2ZVNEp0NFh6WE9fMUVuY25LcGVvY0VlTTZGbEpPTWl1UmFkOEtGbUUtS0Z5WmZUWTBhMVlyb2lLR2F4b0E?oc=5",
+   "outlet": "Time Extension",
+   "via": "Google News",
+   "published": "2026-11-27T17:00:00+00:00",
+   "seen": "2026-11-27T17:09:50+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "poll what review score would you give gta 6",
+   "title": "Poll: What Review Score Would You Give GTA 6?",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWk9wTGVBUDhyNFRjT3ZMRzJkdk14MnJFYjF0clRqYVJacWhoSVBzc0h0RmcwMDJfUTQxRE9WSV9weU9OdFMtbWdYc1pSa3JiUGlHM3FPR2tXa2pkMEVHTTU1OGRkVjc1T0VHYzdtdHZtVG01VDJRRXpMbXJFd0pETHlsYmpsQQ?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-27T17:00:00+00:00",
+   "seen": "2026-11-27T17:09:50+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "gta 6 runs better on bc 250 than ps5",
+   "title": "GTA 6 runs ‘better’ on BC-250 than PS5",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYS1CUmd0Z09SZ1JROGNBNG1nOHpaTWlFMVVYN1RiVXVnVk9DWkdSTkZzVDVrNno1czhMWjlZMmplcmJRWVpNQm56c0FzQnZDRG03ZTJxTXEtX1NsdGpRdFdWQmlWYmlUOURKNEpmNk5fdTkwamw1cjdmM0ZuZzNveGY3dUJXdnkz?oc=5",
+   "outlet": "Notebookcheck",
+   "via": "Google News",
+   "published": "2026-11-27T16:54:00+00:00",
+   "seen": "2026-11-27T17:09:50+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -376,6 +436,18 @@
    "via": "Google News",
    "published": "2026-11-27T16:27:26+00:00",
    "seen": "2026-11-27T16:34:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "theburntpeanut says gta 6 is fantastic but another studio could have made it",
+   "title": "TheBurntPeanut Says GTA 6 Is Fantastic, But Another Studio Could Have Made It",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15MTRfcGN4RXBzR3hyc0dpWnZtbEVkQ3RLZkxiQURLWm9DR1pBUnMwamlFVHRPRDI3cWZqcW1CUy04T0thelNQX1FLakNhb1FqWkU1ZHpJUktlUQ?oc=5",
+   "outlet": "GameByte",
+   "via": "Google News",
+   "published": "2026-11-27T16:27:26+00:00",
+   "seen": "2026-11-27T17:09:50+00:00",
    "summary": "",
    "topic": "News",
    "record": false
