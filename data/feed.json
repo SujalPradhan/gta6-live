@@ -1,109 +1,121 @@
 {
- "updated": "2026-11-27T06:31:27+00:00",
- "started": "2026-11-27T06:31:24+00:00",
+ "updated": "2026-11-27T06:36:25+00:00",
+ "started": "2026-11-27T06:36:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+OR+%22GTA+VI%22+OR+%22Grand+Theft+Auto+VI%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
-   "hits": 0,
-   "checked": "2026-11-27T06:31:24+00:00"
+   "ok": true,
+   "error": "",
+   "hits": 99,
+   "checked": "2026-11-27T06:36:21+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 28,
-   "checked": "2026-11-27T06:31:25+00:00"
+   "checked": "2026-11-27T06:36:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 55,
-   "checked": "2026-11-27T06:31:25+00:00"
+   "checked": "2026-11-27T06:36:22+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T06:31:25+00:00"
+   "checked": "2026-11-27T06:36:22+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T06:31:25+00:00"
+   "checked": "2026-11-27T06:36:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T06:31:26+00:00"
+   "checked": "2026-11-27T06:36:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T06:31:26+00:00"
+   "checked": "2026-11-27T06:36:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T06:31:26+00:00"
+   "checked": "2026-11-27T06:36:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T06:31:26+00:00"
+   "checked": "2026-11-27T06:36:23+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T06:31:26+00:00"
+   "checked": "2026-11-27T06:36:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T06:31:27+00:00"
+   "checked": "2026-11-27T06:36:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T06:31:27+00:00"
+   "checked": "2026-11-27T06:36:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T06:31:27+00:00"
+   "checked": "2026-11-27T06:36:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T06:31:27+00:00"
+   "checked": "2026-11-27T06:36:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "xbox series x is missing a gta 6 upgrade that the cheaper series s already has",
+   "title": "Xbox Series X is missing a GTA 6 upgrade that the cheaper Series S already has",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDZ4cTl1dDg2MkVYbmtfSWhoQ1dVZXdMWHR0ckxPcWxoUDV2NmV1V2paQWZlNEhRaUhENTUzd3hWcmZOd1BwWTg4Z2tBa0dpZDlyVjJDc3NCaXVxTWRlUklYZi1QWjRRMlpyZ3JsSjlBR1Nsai1Kd3ZmZ1pMY2NCUXo2Nk93dlBXNEZ3VmUwb0xrV2plYmphV2o3SGpaaFRUQWEyZWVqZElWaUMwZWo3VGYwWmxWeVFmWVFGWWdWMU51WjVMVWc?oc=5",
+   "outlet": "TweakTown",
+   "via": "Google News",
+   "published": "2026-11-27T06:28:13+00:00",
+   "seen": "2026-11-27T06:36:21+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta vi was able to run on a geforce gtx 1650 graphics card with 2 fps and 24 gb of ram",
    "title": "GTA VI was able to run on a GeForce GTX 1650 graphics card with 2 FPS and 24 GB of RAM.",
@@ -124,6 +136,18 @@
    "via": "Google News",
    "published": "2026-11-27T06:14:06+00:00",
    "seen": "2026-11-27T06:21:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi s virtual girlfriend micro cheating or relationship red flag",
+   "title": "GTA VI's Virtual Girlfriend: Micro-Cheating Or Relationship Red Flag?",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXN6a1hMekJsTE9xaTI0YjVrQjVRWXd6SGF5bjhYQ0VlR0l1ZkFXWGZtX0t1Ulh5eWFZR01BTXUyYUtsbVRzUHpoNGxtZWFJT284czZ3OGo1T0o1QTAyLWJjT1JzR3R6N1VIei1qNTJKVU1TZ1RDMHZvblpSMWNwclJxZFZhVlU5VlkwZmNQV1RhdGsySXZCSllkZ3VHZmFab0N0RHZuQmFoTUdCeEZBNU1rT2U2Rjh2NXfSAbwBQVVfeXFMTlF4dGxlUzZOSzN4d2IwVFp1TF9pZjFremVnZ1NTUXI4el9jQVY1ZUpySXh1allmMzFrNlIyMzRfN0xsVExiSFd6cmM1cEZXbGt5MjlFSHpmcEpLTVhDbUFSYnFQbzc4NkhTQ0dLaHd6a1Vfck82SEhuR2hRcmx4ODY4YnppcFBOR04tcVRORldLeDVVVUtvMmpKX3ByNjgtU2dzZ29lOXdvdml3Y3ljOEdtQjYzZDIxZmhQeXM?oc=5",
+   "outlet": "Rediff.com",
+   "via": "Google News",
+   "published": "2026-11-27T06:13:27+00:00",
+   "seen": "2026-11-27T06:36:21+00:00",
    "summary": "",
    "topic": "News",
    "record": false
