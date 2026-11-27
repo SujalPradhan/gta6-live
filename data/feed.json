@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T19:00:28+00:00",
- "started": "2026-11-27T19:00:25+00:00",
+ "updated": "2026-11-27T19:05:29+00:00",
+ "started": "2026-11-27T19:05:26+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T19:00:26+00:00"
+   "checked": "2026-11-27T19:05:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 52,
-   "checked": "2026-11-27T19:00:26+00:00"
+   "hits": 30,
+   "checked": "2026-11-27T19:05:27+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 44,
-   "checked": "2026-11-27T19:00:26+00:00"
+   "checked": "2026-11-27T19:05:27+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T19:00:26+00:00"
+   "checked": "2026-11-27T19:05:28+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T19:00:27+00:00"
+   "checked": "2026-11-27T19:05:28+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-27T19:00:27+00:00"
+   "checked": "2026-11-27T19:05:28+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T19:00:27+00:00"
+   "checked": "2026-11-27T19:05:28+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T19:00:27+00:00"
+   "checked": "2026-11-27T19:05:28+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T19:00:27+00:00"
+   "checked": "2026-11-27T19:05:28+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T19:00:28+00:00"
+   "checked": "2026-11-27T19:05:29+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T19:00:28+00:00"
+   "checked": "2026-11-27T19:05:29+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T19:00:28+00:00"
+   "checked": "2026-11-27T19:05:29+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T19:00:28+00:00"
+   "checked": "2026-11-27T19:05:29+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T19:00:28+00:00"
+   "checked": "2026-11-27T19:05:29+00:00"
   }
  },
  "items": [
+  {
+   "id": "no disc yes buy gta 6 is the biggest physical game launch of this decade",
+   "title": "No disc, yes buy: GTA 6 is the biggest physical game launch of this decade",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BUVVBZmMwaG9KTVVhcy0wdkxQYnM3LS1zVFNOZk9GNE9XR09PRWpTNTBIRzlybVkzR1pwelhud29kbGwtbWV3U3RDU0Z4LThMNmYyOGxwY2dBQTkxbG8xVWFUaE9VYjlOQl9KNHByRl90Yzdlc0sxRFgwNjA?oc=5",
+   "outlet": "Destructoid",
+   "via": "Google News",
+   "published": "2026-11-27T19:00:00+00:00",
+   "seen": "2026-11-27T19:05:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "anthropic gets a blockbuster ipo take two gets a blockbuster gta vi release",
+   "title": "Anthropic Gets a Blockbuster IPO; Take-Two Gets a Blockbuster GTA VI Release",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcnlNVUNGQXR6Q2RJMW9CMjUxek9pSllrN2lsZFJIQ0Iza3RVZjBIakdETExiQU5IZ19YUkMwLUhCNElqdDlodUlnWHVYMG1jZzlCMU8tMjN0dmdvSjYxVnlzZDJXcjBkYWdTRHV4dk5wSUpUdVlqVVlYS1VWbWtaRm9YTHUtZnhMSmhsYUFLd2U3RHY4OEJ5UTJVV1VrT1dJTjZkM3ByQzhPaTlIaUhyaDVxNHBBYkhFVUE?oc=5",
+   "outlet": "The Motley Fool",
+   "via": "Google News",
+   "published": "2026-11-27T18:59:02+00:00",
+   "seen": "2026-11-27T19:05:27+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
   {
    "id": "gta vi release has swept playstation 5 off the shelves worldwide",
    "title": "‘GTA VI’ release has swept PlayStation 5 off the shelves worldwide",
@@ -148,6 +172,18 @@
    "via": "Google News",
    "published": "2026-11-27T18:38:27+00:00",
    "seen": "2026-11-27T18:45:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "avoid grand theft auto vi at all costs",
+   "title": "Avoid ‘Grand Theft Auto VI’ at all costs",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVViWEoxY0NJMUtyMnIzWGVJQjVLaDJpYUoyM2RxSmxZaWNDNUllRW5pR1d5V2JDZXZHREo0ZTBuWU5Cb1MwckV0VXV4YkEyTGtIY1p0R3I4anF6TlgwN08xRTkzZGpnbjNVSWRSd3NXVVF1RGVzdGV2LTI1VTBQOHBMVEdQc0hr?oc=5",
+   "outlet": "Washington Times",
+   "via": "Google News",
+   "published": "2026-11-27T18:35:42+00:00",
+   "seen": "2026-11-27T19:05:27+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -352,6 +388,18 @@
    "via": "Google News",
    "published": "2026-11-27T18:00:11+00:00",
    "seen": "2026-11-27T18:05:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 first hour will a hater be converted",
+   "title": "GTA 6 First Hour: Will a Hater Be Converted?",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zMGNuSU1Jb0pUOHo0S3JZbDFNMDNLTV84VXAzQ0pzd2tFb0N1ZkR6VVpqcUZ5YUdzRS1ocGczTlc4Ym5wZDZlVG9Ibnk3WjZpeUhJLVh2Z3FSRlVGcDVwbzA0SGVqNzRKeC1KU0MxTFhISEFHWkE?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-27T18:00:00+00:00",
+   "seen": "2026-11-27T19:05:27+00:00",
    "summary": "",
    "topic": "News",
    "record": false
