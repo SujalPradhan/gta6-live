@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T11:38:01+00:00",
- "started": "2026-11-27T11:37:58+00:00",
+ "updated": "2026-11-27T11:43:05+00:00",
+ "started": "2026-11-27T11:43:01+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,138 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 92,
-   "checked": "2026-11-27T11:37:59+00:00"
+   "hits": 91,
+   "checked": "2026-11-27T11:43:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 58,
-   "checked": "2026-11-27T11:37:59+00:00"
+   "hits": 32,
+   "checked": "2026-11-27T11:43:02+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 58,
-   "checked": "2026-11-27T11:38:00+00:00"
+   "checked": "2026-11-27T11:43:03+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T11:38:00+00:00"
+   "checked": "2026-11-27T11:43:03+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T11:38:00+00:00"
+   "checked": "2026-11-27T11:43:03+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-27T11:38:00+00:00"
+   "checked": "2026-11-27T11:43:03+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T11:38:00+00:00"
+   "checked": "2026-11-27T11:43:04+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T11:38:00+00:00"
+   "checked": "2026-11-27T11:43:04+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T11:38:00+00:00"
+   "checked": "2026-11-27T11:43:04+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T11:38:01+00:00"
+   "checked": "2026-11-27T11:43:04+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T11:38:01+00:00"
+   "checked": "2026-11-27T11:43:05+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T11:38:01+00:00"
+   "checked": "2026-11-27T11:43:05+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T11:38:01+00:00"
+   "checked": "2026-11-27T11:43:05+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T11:38:01+00:00"
+   "checked": "2026-11-27T11:43:05+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 complete beginner s guide",
+   "title": "GTA 6: Complete Beginner's Guide",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mWkxtN1JibHVPLThpNlhEYUhscGVKYktpaGtTQWcxYVFQSEFzd0ExbWhQOUdUMmpFMkpfNDRlM2pEcVBPbVotYlgzekZXdUYzZGo4UnptbjduaGVORmhhU21IckpOQXZzd0Nj?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-27T11:42:29+00:00",
+   "seen": "2026-11-27T11:43:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "7 details that make gta 6 a flawed game",
+   "title": "7 Details That Make GTA 6 A Flawed Game",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MenpITG9MWXA0Nmg0WTdJVVB4NEhNU3ZFbUpIOXBKWjdLWjE4QjUyNDVfUFFJVjNtRElGQk53Q25FUFRJdXdteXJ2QzNGZVdlbmpRSDUxRWltYXdSenE0RGk2R1NRR1BaRGNlV09LQ3Y5UV9Ranc?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-27T11:40:23+00:00",
+   "seen": "2026-11-27T11:43:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 meets bonnie and clyde in netflix s hit thriller",
+   "title": "'GTA 6' Meets 'Bonnie and Clyde' in Netflix's Hit Thriller",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcXM4emhYTmE3Vlg1NTY4eEJEd2JhblVyVllqQ25iT1VqVzlPRmZfZFNSdFZUaWltdkFWOENIWEhmNlhxc21FQWZGa05hbjlabGp3ZC1IRmlMZUx1OWkxNEZJX1lMelZublBGOWU3ajFYaENQTUFxSWVQNnNEaXdidW9sNjF5eVd3YmtBLXQzSmdCSG50Rlhtag?oc=5",
+   "outlet": "Collider",
+   "via": "Google News",
+   "published": "2026-11-27T11:38:12+00:00",
+   "seen": "2026-11-27T11:43:02+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "where to find nagasaki smokescreen carbon rs in gta 6 fastest motorcycles location stats",
    "title": "Where To Find Nagasaki Smokescreen Carbon RS In GTA 6—Fastest Motorcycles Location & Stats",
@@ -220,6 +256,18 @@
    "via": "Google News",
    "published": "2026-11-27T11:23:48+00:00",
    "seen": "2026-11-27T11:27:57+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 which trophies unlock automatically and which ones should you prepare for from chapter 1",
+   "title": "GTA 6: Which trophies unlock automatically, and which ones should you prepare for from Chapter 1?",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNEZzM3EtUGEzUVlXeG1GUW5aY2JFN3VBOHg4TU05RXZFOVNLTFpucjA2T2RaTEMzeWJMeFI4cHdyeXR6NmZKUkF2VFhuS3pVbkdXcmc3YjdCckw1dlRCV2R4S0owcVNiV3FzRmdMUHpXa0pVUkM4aWJBSGNwd3ZWRHVQZXhXS1prNEpxamxUWERYTmtzSE96TUprNHFZVF81MDN6YTBmQWM4alJDb2V3X19wOFNKY0tRclRuQ3ZYWUNOQS1xT1Fjc2dLSG1KNmxyZEtlSWVTbmlmdDBsc3l1WGlCU3A1S2s?oc=5",
+   "outlet": "Sortir à Paris",
+   "via": "Google News",
+   "published": "2026-11-27T11:07:16+00:00",
+   "seen": "2026-11-27T11:43:02+00:00",
    "summary": "",
    "topic": "News",
    "record": false
