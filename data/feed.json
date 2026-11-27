@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T12:28:19+00:00",
- "started": "2026-11-27T12:28:16+00:00",
+ "updated": "2026-11-27T12:33:27+00:00",
+ "started": "2026-11-27T12:33:19+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 97,
-   "checked": "2026-11-27T12:28:16+00:00"
+   "checked": "2026-11-27T12:33:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 32,
-   "checked": "2026-11-27T12:28:17+00:00"
+   "hits": 58,
+   "checked": "2026-11-27T12:33:20+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 60,
-   "checked": "2026-11-27T12:28:17+00:00"
+   "checked": "2026-11-27T12:33:21+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T12:28:17+00:00"
+   "checked": "2026-11-27T12:33:21+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:28:17+00:00"
+   "checked": "2026-11-27T12:33:21+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-27T12:28:17+00:00"
+   "hits": 50,
+   "checked": "2026-11-27T12:33:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
-   "hits": 13,
-   "checked": "2026-11-27T12:28:18+00:00"
+   "hits": 14,
+   "checked": "2026-11-27T12:33:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T12:28:18+00:00"
+   "checked": "2026-11-27T12:33:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:28:18+00:00"
+   "checked": "2026-11-27T12:33:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T12:28:18+00:00"
+   "checked": "2026-11-27T12:33:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T12:28:18+00:00"
+   "checked": "2026-11-27T12:33:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T12:28:19+00:00"
+   "checked": "2026-11-27T12:33:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T12:28:19+00:00"
+   "checked": "2026-11-27T12:33:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T12:28:19+00:00"
+   "checked": "2026-11-27T12:33:27+00:00"
   }
  },
  "items": [
+  {
+   "id": "justice make club space debut as miami club turns into gta vi s the vault",
+   "title": "Justice make Club Space debut as Miami club turns into GTA VI’s The Vault",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PbHJJQmdkT2tTWHE3dXlSaHM2Mno0RGM2ZXJZbFN5WFdxeWxCRmE3Vm9MYUZmLThLSXZEZnRCdFFWZjNETUsxRjhCMTlwUms5X0w1UUR0RUx1UHZpMVZWQ0NNbUZfU1VaWXlyQ1k3YkVmcFAtUFNRLUUwQnU?oc=5",
+   "outlet": "We Rave You",
+   "via": "Google News",
+   "published": "2026-11-27T12:28:54+00:00",
+   "seen": "2026-11-27T12:33:20+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "should you participate or not as the pool boy in gta 6",
+   "title": "Should you participate or not as the pool boy in GTA 6?",
+   "link": "https://www.gamesradar.com/games/grand-theft-auto/all-pool-boy-choices-in-the-gta-6-safe-word-mission/",
+   "outlet": "GamesRadar+",
+   "via": "GamesRadar+",
+   "published": "2026-11-27T12:27:14+00:00",
+   "seen": "2026-11-27T12:33:25+00:00",
+   "summary": "Should you participate as the pool boy in GTA 6?",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "teen behind project leonida says gta 6 pc effort is not dead",
    "title": "Teen Behind Project Leonida Says GTA 6 PC Effort Is Not Dead",
@@ -114,6 +138,18 @@
    "seen": "2026-11-27T12:28:16+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "rockstar co studio head expects some gta 6 players to reject its new systems",
+   "title": "Rockstar Co-Studio Head Expects Some GTA 6 Players to Reject Its New Systems",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVlVQUJFcXJ6X3dRZWNxQzFwNDF4aUIzd1JNWlNfZnZMMlhzQjB4WUJZLXktem0xOFJmQU55ZjdSaVhmNjEzZGNvSFF4UTU4U2RRQnhnSGpPZlFPclhJR0lmNWpQNk1uY1NaNkdKZjFxeEVRd2tGOEU5b0Zlb0NlUUVBbHBnb3p1Wmc?oc=5",
+   "outlet": "Mezha.net",
+   "via": "Google News",
+   "published": "2026-11-27T12:24:26+00:00",
+   "seen": "2026-11-27T12:33:20+00:00",
+   "summary": "",
+   "topic": "Players",
    "record": false
   },
   {
