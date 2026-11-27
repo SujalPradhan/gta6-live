@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T18:20:18+00:00",
- "started": "2026-11-27T18:20:14+00:00",
+ "updated": "2026-11-27T18:25:19+00:00",
+ "started": "2026-11-27T18:25:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T18:20:14+00:00"
+   "checked": "2026-11-27T18:25:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-27T18:20:15+00:00"
+   "hits": 32,
+   "checked": "2026-11-27T18:25:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-27T18:20:15+00:00"
+   "hits": 44,
+   "checked": "2026-11-27T18:25:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 4,
-   "checked": "2026-11-27T18:20:16+00:00"
+   "hits": 1,
+   "checked": "2026-11-27T18:25:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T18:20:16+00:00"
+   "checked": "2026-11-27T18:25:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-27T18:20:16+00:00"
+   "checked": "2026-11-27T18:25:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-27T18:20:16+00:00"
+   "checked": "2026-11-27T18:25:17+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T18:20:17+00:00"
+   "checked": "2026-11-27T18:25:17+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T18:20:17+00:00"
+   "checked": "2026-11-27T18:25:17+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T18:20:17+00:00"
+   "checked": "2026-11-27T18:25:18+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:20:17+00:00"
+   "checked": "2026-11-27T18:25:18+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T18:20:18+00:00"
+   "checked": "2026-11-27T18:25:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:20:18+00:00"
+   "checked": "2026-11-27T18:25:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T18:20:18+00:00"
+   "checked": "2026-11-27T18:25:19+00:00"
   }
  },
  "items": [
+  {
+   "id": "mercer county has the most gta 6 ready internet in ohio study finds",
+   "title": "Mercer County has the most GTA 6-ready internet in Ohio, study finds",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOEtfdjdSVmxTaXdfU0ZWQ0lRTkdXTzRCT1hVd0IwUkpFa1dURFl6RXpfUGEwX0d2MlRvYzBqOXktVzNHRmlnOEducXZNejVMemJxbWVhVjJUTV85QTlOUUlLcDMyU3VCVmtRV2xhLUpVX2xWSmpRczlYVmxBdzF6dUhrQkZaei1hUkZqQmtPbGdXYXlDOEE0Ry1IbWdLQjdfeS1rZi1zQlRTVS1aQ3JMTA?oc=5",
+   "outlet": "Mercer County Outlook",
+   "via": "Google News",
+   "published": "2026-11-27T18:24:24+00:00",
+   "seen": "2026-11-27T18:25:15+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "25 things you probably missed in gta 6",
    "title": "25 things you probably missed in GTA 6",
@@ -141,6 +153,18 @@
    "record": false
   },
   {
+   "id": "gta 6 is yet to unleash its biggest game changer hints twitch ceo",
+   "title": "GTA 6 Is Yet to Unleash Its Biggest Game-Changer, Hints Twitch CEO",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUVhWldxSEtlcTV1UVhCYTAtaUFQREpld01PYktrQU5DTC0zQUY0Zkg4ekNlQW9MVElneE9DUXgxWWJ1dzJGOFdjRFhhS2o5RGM0bW5Pa2ZMNWJsWjdTeGYySFgwTUc1MXpVSnNNUV9odVVzR1Q3d3ZHck4wUEpYXzdCTFNLUDFiNlZmc3JB0gGTAUFVX3lxTE84blV1Tm0teFk3TTRTZklJR1N3VVlGTEh0dS1iTGozM2VDZnFtY1ZkckNwd3VGaFh3T0ROVFlIQUF0QU9WY3Vyd28zVDlmUmhhN1BaMUEyUmtGMGtsZnl5dHpkSVY2WTY3V3VmTS1QbTJOMlFxbG5fcHRER2xBRlZ1X3Z4MVcwbk9MeGdXeFh6ZThvSQ?oc=5",
+   "outlet": "PlayStation LifeStyle",
+   "via": "Google News",
+   "published": "2026-11-27T18:04:40+00:00",
+   "seen": "2026-11-27T18:25:16+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": true
+  },
+  {
    "id": "forza horizon 6 still beats gta 6 in one key way",
    "title": "Forza Horizon 6 Still Beats GTA 6 in One Key Way",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RSkxYSzVXNDBJTGtETnNSdm1IRHFZUlF6dmJ4REZEdlhYOGdVWWNBRzcyUzdiTGhkYll2VXExZC1QTG85LXBCTV9VVGRFNEoxNWI3cl9OVGFVUk5uYkNUY2EtTVBuY2c?oc=5",
@@ -162,6 +186,18 @@
    "seen": "2026-11-27T18:05:09+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "alinea analytics gta 6 sold 53 million copies and its revenue is now 4 7 billion",
+   "title": "Alinea Analytics: GTA 6 Sold 53 Million Copies, and Its Revenue Is Now $4.7 Billion",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLTZfNzJQbzlUN005R2JMSS1Cc3VMVjlqc2ZBN2l6UzdVR1Z1X19hWVlYSmsxMVIwOTVycGdkRUNXcHBXem1VTXhPR2I5XzgzYWlFS293SWdLRUdWTENvXzRFbHhRcnJhYndlblE4YWhuYkwxdVJBTkVNcUY5azJZMkFNRHp4VVRScnhEV1BCRFByaHBmUVJPSldoUQ?oc=5",
+   "outlet": "EGW.News",
+   "via": "Google News",
+   "published": "2026-11-27T17:57:20+00:00",
+   "seen": "2026-11-27T18:25:16+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
