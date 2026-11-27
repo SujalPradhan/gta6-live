@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T15:34:15+00:00",
- "started": "2026-11-27T15:34:13+00:00",
+ "updated": "2026-11-27T15:39:20+00:00",
+ "started": "2026-11-27T15:39:15+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,150 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-27T15:34:13+00:00"
+   "hits": 98,
+   "checked": "2026-11-27T15:39:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 54,
-   "checked": "2026-11-27T15:34:13+00:00"
+   "hits": 55,
+   "checked": "2026-11-27T15:39:16+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-27T15:34:14+00:00"
+   "hits": 46,
+   "checked": "2026-11-27T15:39:17+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T15:34:14+00:00"
+   "checked": "2026-11-27T15:39:17+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T15:34:14+00:00"
+   "checked": "2026-11-27T15:39:17+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T15:34:14+00:00"
+   "checked": "2026-11-27T15:39:17+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T15:34:14+00:00"
+   "checked": "2026-11-27T15:39:18+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T15:34:15+00:00"
+   "checked": "2026-11-27T15:39:18+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T15:34:15+00:00"
+   "checked": "2026-11-27T15:39:18+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T15:34:15+00:00"
+   "checked": "2026-11-27T15:39:19+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T15:34:15+00:00"
+   "checked": "2026-11-27T15:39:19+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T15:34:15+00:00"
+   "checked": "2026-11-27T15:39:19+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T15:34:15+00:00"
+   "checked": "2026-11-27T15:39:19+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T15:34:15+00:00"
+   "checked": "2026-11-27T15:39:20+00:00"
   }
  },
  "items": [
+  {
+   "id": "industry news gta vi captures record breaking 31 4 of global gaming attention",
+   "title": "[Industry news] GTA VI CAPTURES RECORD-BREAKING 31.4% OF GLOBAL GAMING ATTENTION",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjR0bDJDXzh5a2lwdEJ5SnNUQjhjSGZiOXMyNDVObzBBRjFqR0JOYW5JZjBCa1Q3N1FQdEJNZXBXWnl5eHVQaWtoWkJpNVdPQkhYNlF1Znk0al9xWWh1M2JFaTNFdzFrMGVHRXN0ZHZXdnlKV0JJNzhZNG52ajFOU0Y4Wnh1SGpFRnM0T3BKYXdUYmdacGU2YW5OZDRpUkRaLU40amc0SXo0OEdJYlhZ?oc=5",
+   "outlet": "mcv/develop",
+   "via": "Google News",
+   "published": "2026-11-27T15:35:07+00:00",
+   "seen": "2026-11-27T15:39:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "leaked gta 6 xbox build boots on windows at about 1 fps",
+   "title": "Leaked GTA 6 Xbox Build Boots on Windows at About 1 FPS",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjEyU1hNTXFuaVNLRDh3YVFaMTRNNngyOERwRk1ZM0JkOU11Q2dvVXE2dk5ldWxZN2pQZHRmMjdrakZnSlNzMnhvUGJhVlFDcTJWa21aT1NSVEdtQ3YwV2QyUmdpVG5oNU8xUVU3amNoYVNGN1Z5dHFGLWVXOElKLVZQdDZRMXNVUVY0bFNHQXdTZw?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-27T15:33:45+00:00",
+   "seen": "2026-11-27T15:39:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "gta 6 studio scrapped crafting home decoration systems because they didn t fit the game",
+   "title": "GTA 6 Studio Scrapped Crafting, Home Decoration Systems Because They Didn’t Fit the Game",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFN3a0ZfNzhkaTRHLTdDLUZjUXNTd3lfbGNYMlN5TnpnZ1J4aUF5RDNGV0VUc05hb09iMXU1ZGZFNlAyRmk3alEzRnBpZDdsTEJ2cGFoWkpvcjdHak1ubUluVUEwX21jcVF0aVlETUFsVmVSTmtEQ183cEYtcDdnV0czM08tTGJqUjFPbkVucWNSbXVMbXFnZDdCNjA5cmFpdEk5U2NQWlBxZHh5Mmc?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-27T15:33:13+00:00",
+   "seen": "2026-11-27T15:39:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 vehicle physics lewis bentley s rockstar role",
+   "title": "GTA 6 Vehicle Physics: Lewis Bentley's Rockstar Role",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjVWRUhVTk1kVmczYW1JWS1WVGMtOTdsTk5yYVlobGd5RlFBZXE0VnVOYnJYWDRpQ1BjQXdJRkFiamljWkZQY2RwazJUenJCNjdlZUs2TUFKZlRxMS15eHZZWWktZ19VMXBxc1ZLNWU3ODRKNGtmbHh3MEJYT21NQ3Q4X3ZnOWoyM0xzN3VYZWtRaGgxajVvOTdnNExFSW1nQ1ZiQ3FGSnBBOE8yZDJtX3dnZ3A?oc=5",
+   "outlet": "Game News Plus",
+   "via": "Google News",
+   "published": "2026-11-27T15:22:25+00:00",
+   "seen": "2026-11-27T15:39:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 speculated to have already made playstation a ridiculous amount of money",
    "title": "GTA 6 speculated to have already made PlayStation a ridiculous amount of money",
@@ -295,6 +343,18 @@
    "summary": "",
    "topic": "Outage",
    "record": false
+  },
+  {
+   "id": "rockstar games workers reject union deal despite gta 6 s record breaking launch",
+   "title": "Rockstar Games Workers Reject Union Deal Despite GTA 6’s Record-Breaking Launch",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZldFNXNwd3lCdlZKY1Q1YXhVQ05iZGp1WGtIMnlRN1BVVmUtSGRqWE5KNmtjSTVoYUxiQVRFbklBWGFXd2djQUdIRGxIMVQzLUR1d2VVZHRxN2tBdllGa0FoMzNHakQzUlE4YU1pOW4xa25nVEFTMllzSlduNVhPZEZ5WGpvTkxzOGktWW9CQQ?oc=5",
+   "outlet": "www.techtimes.co.uk",
+   "via": "Google News",
+   "published": "2026-11-27T14:54:45+00:00",
+   "seen": "2026-11-27T15:39:16+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
   },
   {
    "id": "how to unlock hurricanes in gta 6",
