@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T15:19:10+00:00",
- "started": "2026-11-27T15:19:07+00:00",
+ "updated": "2026-11-27T15:24:13+00:00",
+ "started": "2026-11-27T15:24:09+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-27T15:19:07+00:00"
+   "hits": 99,
+   "checked": "2026-11-27T15:24:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-27T15:19:08+00:00"
+   "hits": 54,
+   "checked": "2026-11-27T15:24:10+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-27T15:19:08+00:00"
+   "hits": 50,
+   "checked": "2026-11-27T15:24:10+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 1,
-   "checked": "2026-11-27T15:19:08+00:00"
+   "hits": 4,
+   "checked": "2026-11-27T15:24:11+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T15:19:09+00:00"
+   "checked": "2026-11-27T15:24:11+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T15:19:09+00:00"
+   "checked": "2026-11-27T15:24:11+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T15:19:09+00:00"
+   "checked": "2026-11-27T15:24:12+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T15:19:09+00:00"
+   "checked": "2026-11-27T15:24:12+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T15:19:09+00:00"
+   "checked": "2026-11-27T15:24:12+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T15:19:09+00:00"
+   "checked": "2026-11-27T15:24:13+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T15:19:10+00:00"
+   "checked": "2026-11-27T15:24:13+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T15:19:10+00:00"
+   "checked": "2026-11-27T15:24:13+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T15:19:10+00:00"
+   "checked": "2026-11-27T15:24:13+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T15:19:10+00:00"
+   "checked": "2026-11-27T15:24:13+00:00"
   }
  },
  "items": [
@@ -112,6 +112,18 @@
    "via": "Google News",
    "published": "2026-11-27T15:17:19+00:00",
    "seen": "2026-11-27T15:19:07+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "where to find all kingpin bowling key valuables in gta 6",
+   "title": "Where to find all Kingpin Bowling Key Valuables in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HUnY1SGMwdUJVSXJET1pQRnVEdnJGV3M4SE1EWmh2SDNfUFZJUjVBOWNhQmVjOG9hLXltWUttTW9JYzJGV1FoYXNHdHctSURSMFpPUVE2bnd3bWNydjVIMDBzOU82VGdYUTRkclhZaHhBZVZvZXVF?oc=5",
+   "outlet": "Rock Paper Shotgun",
+   "via": "Google News",
+   "published": "2026-11-27T15:16:00+00:00",
+   "seen": "2026-11-27T15:24:09+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -139,6 +151,18 @@
    "summary": "",
    "topic": "News",
    "record": true
+  },
+  {
+   "id": "how to rob with class and discretion in gta vi writer samuel",
+   "title": "How to rob with class and discretion in GTA VI Writer: Samuel",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jVTZhN1RSN2hVOUdORFBWSVVPOWJYYzNyajVEMl9VdGdqd05VNHFySVI0M0tFRVlfN0tGaS1PclFmN3BxN2lCSnFSd3lkSmpuN25Ua1pFY1pqRUs0XzN1dklxWml4bUdmei1KdA?oc=5",
+   "outlet": "X",
+   "via": "Google News",
+   "published": "2026-11-27T15:05:00+00:00",
+   "seen": "2026-11-27T15:24:09+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "fishing in gta 6 tips and tricks for catching every fish",
