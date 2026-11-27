@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T16:44:46+00:00",
- "started": "2026-11-27T16:44:41+00:00",
+ "updated": "2026-11-27T16:49:47+00:00",
+ "started": "2026-11-27T16:49:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,149 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T16:44:42+00:00"
+   "checked": "2026-11-27T16:49:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 32,
-   "checked": "2026-11-27T16:44:42+00:00"
+   "hits": 53,
+   "checked": "2026-11-27T16:49:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-27T16:44:43+00:00"
+   "hits": 56,
+   "checked": "2026-11-27T16:49:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T16:44:43+00:00"
+   "checked": "2026-11-27T16:49:44+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T16:44:43+00:00"
+   "checked": "2026-11-27T16:49:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T16:44:44+00:00"
+   "checked": "2026-11-27T16:49:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T16:44:44+00:00"
+   "checked": "2026-11-27T16:49:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T16:44:44+00:00"
+   "checked": "2026-11-27T16:49:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T16:44:45+00:00"
+   "checked": "2026-11-27T16:49:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T16:44:45+00:00"
+   "checked": "2026-11-27T16:49:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T16:44:45+00:00"
+   "checked": "2026-11-27T16:49:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T16:44:46+00:00"
+   "checked": "2026-11-27T16:49:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T16:44:46+00:00"
+   "checked": "2026-11-27T16:49:46+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T16:44:46+00:00"
+   "checked": "2026-11-27T16:49:47+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi memorial honors developers late family members rockstarintel reports",
+   "title": "GTA VI memorial honors developers’ late family members, RockstarINTEL reports",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wME9yVGg5SG5ydUFwMllCYWJ2c0xpSHlZdG5FYUMyRHdLVWJqUDQ5bTRDMVFlSzlJaHhCN1lxd01wbVZHMVFr?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-27T16:48:13+00:00",
+   "seen": "2026-11-27T16:49:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "don t expect a gta set outside the usa anytime soon as rockstar has not had a lot of conversations over doing it anywhere else",
+   "title": "Don't expect a GTA set outside the USA anytime soon, as Rockstar has \"not had a lot of conversations over doing it anywhere else\"",
+   "link": "https://www.eurogamer.net/gta-outside-usa-unlikely-rockstar-not-had-conversations-over-anywhere-else",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-27T16:46:00+00:00",
+   "seen": "2026-11-27T16:49:45+00:00",
+   "summary": "Would Rockstar really set a future Grand Theft Auto game outside of the United States? The concept's been mooted recently, particularly in reporting on a recent Rockstar interview with The Guardian , where co-studio head Rob Nelson quipped: \"Never say never.\" But speaking to Eurogamer in another interview since then, I would say it's unlikely. Read more",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "cgbj gta 6 pc project goes public then disappears minutes later",
+   "title": "CGBJ GTA 6 PC Project Goes Public, Then Disappears Minutes Later",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlI5bkdzYXMxamRmeUxkSThzRkVUek1KX2RDUGpKdzhYY25KTDZKVUg4bVNmeE1kd2VocElCZDItV1AzQk9EdUMxMGV1aXd2UUREM2xyekhwNThHY1ktQXE5VnltQlgyX284QzZSOEJkQVZoOHIxUVFhN1BmaENpYnlvN2U0eGdDTjNfVkF1T2FhNnFlelB0UjFLNktWdw?oc=5",
+   "outlet": "OpenCritic",
+   "via": "Google News",
+   "published": "2026-11-27T16:43:31+00:00",
+   "seen": "2026-11-27T16:49:43+00:00",
+   "summary": "",
+   "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "one week on here s the impact gta 6 s launch had on the industry so far",
+   "title": "One week on, here's the impact GTA 6's launch had on the industry so far",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHRSc1l6c0d4Z2t4S3lKbUtzSDZod08wOG95Z1RjNmdPRDNMejBmdU40a0ItLWpZa3JsRzRfYjVqckRDRmhkQUdzeU00NHNQOUo5YVRlX3FaMlpzMm5COWg1UEpBOVlvaEk5NkNQTXpFek40cFJZc2RjRFpfRUNfc3dnTHl3SEI0X01WT3YyVzgzMGlmdjZBbmJDZy1tYmty?oc=5",
+   "outlet": "GamesIndustry.biz",
+   "via": "Google News",
+   "published": "2026-11-27T16:38:10+00:00",
+   "seen": "2026-11-27T16:49:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "st clair college graduate s body movements captured for grand theft auto vi",
    "title": "St. Clair College graduate's body movements captured for Grand Theft Auto VI",
@@ -160,6 +208,18 @@
    "via": "Google News",
    "published": "2026-11-27T16:30:17+00:00",
    "seen": "2026-11-27T16:34:42+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi easter eggs npc thinks he s trapped in a video game",
+   "title": "'GTA VI' Easter Eggs: NPC Thinks He's Trapped in a Video Game",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQXFRbnQ4d0RSWko2T1NsV1VGR0hJQUhFR29mbEhhaktSMVFPQ2ZlYWVjVm45MGg0NVk5NXd2cnctSkNFN3djQTFWbk9GZU5xNFJZSHV6b3lFOVRMRmdoNG5tZWppeWk5ZmRsSHFFREhMRzRFQkg5cUZvR3lnQ1JxMWtR?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-27T16:29:10+00:00",
+   "seen": "2026-11-27T16:49:43+00:00",
    "summary": "",
    "topic": "News",
    "record": false
