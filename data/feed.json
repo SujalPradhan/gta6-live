@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T07:46:46+00:00",
- "started": "2026-11-27T07:46:42+00:00",
+ "updated": "2026-11-27T07:51:47+00:00",
+ "started": "2026-11-27T07:51:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T07:46:43+00:00"
+   "checked": "2026-11-27T07:51:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 56,
-   "checked": "2026-11-27T07:46:43+00:00"
+   "hits": 28,
+   "checked": "2026-11-27T07:51:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-27T07:46:44+00:00"
+   "hits": 61,
+   "checked": "2026-11-27T07:51:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 2,
-   "checked": "2026-11-27T07:46:44+00:00"
+   "checked": "2026-11-27T07:51:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T07:46:44+00:00"
+   "checked": "2026-11-27T07:51:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T07:46:44+00:00"
+   "checked": "2026-11-27T07:51:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T07:46:44+00:00"
+   "checked": "2026-11-27T07:51:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-27T07:46:44+00:00"
+   "checked": "2026-11-27T07:51:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T07:46:45+00:00"
+   "checked": "2026-11-27T07:51:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T07:46:45+00:00"
+   "checked": "2026-11-27T07:51:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T07:46:46+00:00"
+   "checked": "2026-11-27T07:51:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T07:46:46+00:00"
+   "checked": "2026-11-27T07:51:46+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T07:46:46+00:00"
+   "checked": "2026-11-27T07:51:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T07:46:46+00:00"
+   "checked": "2026-11-27T07:51:47+00:00"
   }
  },
  "items": [
+  {
+   "id": "carly rae jepsen s run away with me finds new life thanks to gta vi",
+   "title": "Carly Rae Jepsen’s ‘Run Away With Me’ Finds New Life Thanks to GTA VI",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRm9oTVM2cHl4RHd2ZG9LNUd6em1nME5scjYxWFpkeWlZbUZEY09DVFYyY1MzNlREeWF5OVVFZ3o0UER3UzZNUXh1WFJUeUlwTE5NVmxEZkQzcWhaMXh0NnRaQVM5WWFmdzg0SVB5UUV6LUhmTlZDRkhzZ2tiMW41MHBOS3ZKbXR3bDY3QWpRY3h5aGRjb3QzMURLdmxWNEhTcW96eDRxbFFjN28?oc=5",
+   "outlet": "Decatur Radio",
+   "via": "Google News",
+   "published": "2026-11-27T07:47:20+00:00",
+   "seen": "2026-11-27T07:51:44+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta vi devs reveal which features didn t make the game",
    "title": "'GTA VI' Devs Reveal Which Features Didn't Make the Game",
@@ -112,6 +124,18 @@
    "via": "Google News",
    "published": "2026-11-27T07:40:32+00:00",
    "seen": "2026-11-27T07:46:43+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "rockstar developers detail the gta vi features that got cut",
+   "title": "Rockstar Developers Detail the 'GTA VI' Features That Got Cut",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0VLVnR4dkd3bkI1SWhvdHU4WXRYTjJiMEtVMWgxUzE0a3VPa0x3bjZNai1Dd1V3RkZ1bmxJSi1vcnIwNzQ5MHg4dG9OWlg5LWQ4d2hjWjFNMmFnNjBySzdKLUg1OGJ0RXNraEtib0s0NHFvb1JrU256RXVCQ2NkVHE5TWg2SE5kcVNKRWZXOHRFUXRZZURsb0JaVFlGNWlET2Zlamd3aWN2cTdQZzlOcg?oc=5",
+   "outlet": "Hypebeast",
+   "via": "Google News",
+   "published": "2026-11-27T07:40:32+00:00",
+   "seen": "2026-11-27T07:51:44+00:00",
    "summary": "",
    "topic": "News",
    "record": false
