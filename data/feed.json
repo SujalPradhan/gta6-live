@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T18:40:27+00:00",
- "started": "2026-11-27T18:40:24+00:00",
+ "updated": "2026-11-27T18:45:25+00:00",
+ "started": "2026-11-27T18:45:21+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T18:40:25+00:00"
+   "checked": "2026-11-27T18:45:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-27T18:40:25+00:00"
+   "checked": "2026-11-27T18:45:22+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-27T18:40:26+00:00"
+   "hits": 53,
+   "checked": "2026-11-27T18:45:23+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T18:40:26+00:00"
+   "checked": "2026-11-27T18:45:23+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T18:40:26+00:00"
+   "checked": "2026-11-27T18:45:23+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 48,
-   "checked": "2026-11-27T18:40:26+00:00"
+   "checked": "2026-11-27T18:45:23+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-27T18:40:26+00:00"
+   "checked": "2026-11-27T18:45:23+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T18:40:26+00:00"
+   "checked": "2026-11-27T18:45:23+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T18:40:26+00:00"
+   "checked": "2026-11-27T18:45:24+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T18:40:26+00:00"
+   "checked": "2026-11-27T18:45:24+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:40:27+00:00"
+   "checked": "2026-11-27T18:45:24+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T18:40:27+00:00"
+   "checked": "2026-11-27T18:45:24+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T18:40:27+00:00"
+   "checked": "2026-11-27T18:45:24+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T18:40:27+00:00"
+   "checked": "2026-11-27T18:45:25+00:00"
   }
  },
  "items": [
+  {
+   "id": "we got gta 6 online before gta 6 online",
+   "title": "We Got GTA 6 Online Before GTA 6 Online",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfRUZDMnRtZXVsZ09ZTjdJRm44SXNzY29HQzF3YUx5cXNHZ2ZhOElPcTlmbXhBTFBLSzh4Z1RVSWpOWkd2WURYS0lYeDh5NGp1RkxmTWlWb2pSQW5BeUEyUDNnaGdRUlA3em43SGdDOVZXMVl4X0tvaFI5aGhfYUXSAYQBQVVfeXFMUG9FbEU0bzgyT0ZUSnNUU3AxSmJwTjh6SGQ4aDFWTGRkQ0haZWdDTEZ1SGFrNFB2dUZadHQxQlgyQnpxR001czRRa3FsX2t5RzJCVXBNdlBVWUY1VkFvU3VMa2U3WFFKWnFCSk9tck9UZEFKRjFaU3dQa0dZN0lkV1N5R19O?oc=5",
+   "outlet": "TechPowerUp",
+   "via": "Google News",
+   "published": "2026-11-27T18:38:27+00:00",
+   "seen": "2026-11-27T18:45:22+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 players are not in fact eating good",
+   "title": "GTA 6 Players Are Not, In Fact, Eating Good",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05V0l0QnBkOEtFeWs1ak0yMUQ1SjRTdHJfQmlsMWxiSzZ0MzdDOFd0eVVkd1EyLVZ1djNGYzN6dWU3bzRGeFFpUDZ1cVA0RUhHYXNRTGdTM2dRMUE?oc=5",
+   "outlet": "Polygon.com",
+   "via": "Google News",
+   "published": "2026-11-27T18:35:30+00:00",
+   "seen": "2026-11-27T18:45:22+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false
+  },
   {
    "id": "gta vi reportedly runs on macs the frames are taking their time",
    "title": "GTA VI reportedly runs on Macs. The frames are taking their time.",
@@ -114,6 +138,18 @@
    "seen": "2026-11-27T18:35:17+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "grand theft auto 6 controversy sparks retaliatory review bombing on metacritic of zelda ocarina of time soul calibur and other classics",
+   "title": "Grand Theft Auto 6 Controversy Sparks Retaliatory Review Bombing on Metacritic of Zelda: Ocarina of Time, Soul Calibur, and Other Classics",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMDJaM1Zja1VmN2JUNU0yZ1lrUERNQV9YX3dvY3hGTHhLb0VGWi11VXpDU2JlYTlLQTRNWDV5c0tJTG9JdHhidWVKUUM4ZmNOSlhZWVk0ZVUzZG1KaHRid3lfbUtGWTZNaUZkV0hlZ08xNG9pOXdtN3U3RXQ3R3VRbjI5eU5TZ3gzU0dqNkhzWlJzMFRFbDROYnVtN29MVUV6b0JSdVZaWVlveG94cTd1WFd2WkhIOTRHWmh1aFF4SU9fWnI3RHdtVThTaTF1UXNndGQycTY0aUhuQzRGbzhrRXRLVTRJLVg3WlFaX01Mb0xqTW55WmRiMVJ2aWg?oc=5",
+   "outlet": "www.levelup.com",
+   "via": "Google News",
+   "published": "2026-11-27T18:33:44+00:00",
+   "seen": "2026-11-27T18:45:23+00:00",
+   "summary": "",
+   "topic": "Reviews",
    "record": false
   },
   {
