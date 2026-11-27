@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T15:44:19+00:00",
- "started": "2026-11-27T15:44:16+00:00",
+ "updated": "2026-11-27T15:49:22+00:00",
+ "started": "2026-11-27T15:49:18+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-27T15:44:16+00:00"
+   "checked": "2026-11-27T15:49:18+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 31,
-   "checked": "2026-11-27T15:44:17+00:00"
+   "checked": "2026-11-27T15:49:19+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 45,
-   "checked": "2026-11-27T15:44:17+00:00"
+   "hits": 53,
+   "checked": "2026-11-27T15:49:19+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 4,
-   "checked": "2026-11-27T15:44:17+00:00"
+   "checked": "2026-11-27T15:49:19+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T15:44:17+00:00"
+   "checked": "2026-11-27T15:49:20+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 49,
-   "checked": "2026-11-27T15:44:17+00:00"
+   "checked": "2026-11-27T15:49:20+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T15:44:18+00:00"
+   "checked": "2026-11-27T15:49:20+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-27T15:44:18+00:00"
+   "checked": "2026-11-27T15:49:20+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T15:44:18+00:00"
+   "checked": "2026-11-27T15:49:20+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T15:44:18+00:00"
+   "checked": "2026-11-27T15:49:21+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T15:44:19+00:00"
+   "checked": "2026-11-27T15:49:21+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T15:44:19+00:00"
+   "checked": "2026-11-27T15:49:21+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T15:44:19+00:00"
+   "checked": "2026-11-27T15:49:22+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T15:44:19+00:00"
+   "checked": "2026-11-27T15:49:22+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi now barely running on apple silicon macs",
+   "title": "GTA VI Now (Barely) Running on Apple Silicon Macs",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ESTJOSnVFN09EUzRtNmZuQnBHQ3NRbEhCVXZlQVM5X2VxYV91WVU1cnlHc3ZlVkd4NGNkRWdHSHktZEVYQ3JkOGVld0xjei1yREg3S3Y4bE1vV0FoQzBKR1lwZFhmWWhPSVJIaDlJRW1hTTEt?oc=5",
+   "outlet": "MacRumors",
+   "via": "Google News",
+   "published": "2026-11-27T15:46:08+00:00",
+   "seen": "2026-11-27T15:49:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to lower your criminal profile in gta 6 and get the best ending",
+   "title": "How to Lower Your Criminal Profile in GTA 6 and Get the Best Ending",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjUmFIUkJNVVAtT28tOGZtX04wNVdUWDJIMm1XOENtVC1wQmJrSGx5QmdhQXphVVpOYWlYM2dUMWpSLVJGbUNSV1RNbFlWU3NpSExRLU1hcVhoaFdDaEw3ZUVzN0JqU2VNMG1vZjhLM3I0NUp6cFZN?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-27T15:43:48+00:00",
+   "seen": "2026-11-27T15:49:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta 6 may get an official 60 fps mode on ps5 pro in 2027",
    "title": "GTA 6 may get an official 60 FPS mode on PS5 Pro in 2027",
@@ -2034,6 +2058,18 @@
    "seen": "2026-11-27T11:02:52+00:00",
    "summary": "All the GTA 6 stat boost missions we've found",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 attend eddie acosta s party should you pay the 20 000 crypto investment",
+   "title": "GTA 6 Attend Eddie Acosta’s Party: Should You Pay the $20,000 Crypto Investment?",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGc1VHIzVW1BUnd1Rm1hODNqaHNITDhrV1BZVnBUbV9zUndhRENZZ2p3Nk5CLXkwNmhHYmRaeUdLMVVnYmwzdU8xODNiOW1uWTF2TGJ5ZXBsZkN4bWhzVWRIcHlnWmJJd0kzWkJhVi0xb3VjLUl4aUhXWUliOW5TakJPTW1TdlNJc0RuZmljU1VZekxIQ0Q5S2ZNSUlfd1E4eEpqQ3RDTU9YckdNU0FxUXZ1WWsxd0JPTjhiQW5PRWx5UTAyS0plWHdnWVM5MU5YbWw3YU5FWjjSAd4BQVVfeXFMTXZMRE1rRlVld2R6YmtjZnBiazZ0b01kcHNBTmktWTVhVTZmengzR25JOWxLOXBiMUtmb2hlMm9NR2M5WXpSb1dpRGlzeEgwUVY2MFhHV2VaeDFZMnpIQlJxZFJwUEVYOGlmQmJCTnlGUlB2UGVXZDFpSV9fajFJN0lNUUZtOXpnWXJXZzVPTFpkcF9Hc3ZncVVLMTZDOEpDRWUwUS1UN0dqTkwxSWpUOTRldkhZMlRjOUtzLTB3Z0MwcG5MbXNlUDgxOWNPVnFaMVVWWDdYd09NU21YTThB?oc=5",
+   "outlet": "Indiatimes",
+   "via": "Google News",
+   "published": "2026-11-27T10:53:35+00:00",
+   "seen": "2026-11-27T15:49:19+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
