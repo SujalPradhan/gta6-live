@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T14:28:54+00:00",
- "started": "2026-11-27T14:28:51+00:00",
+ "updated": "2026-11-27T14:33:57+00:00",
+ "started": "2026-11-27T14:33:53+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 98,
-   "checked": "2026-11-27T14:28:52+00:00"
+   "checked": "2026-11-27T14:33:53+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-27T14:28:52+00:00"
+   "hits": 54,
+   "checked": "2026-11-27T14:33:54+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 52,
-   "checked": "2026-11-27T14:28:52+00:00"
+   "checked": "2026-11-27T14:33:54+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T14:28:53+00:00"
+   "checked": "2026-11-27T14:33:55+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T14:28:53+00:00"
+   "checked": "2026-11-27T14:33:55+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-27T14:28:53+00:00"
+   "checked": "2026-11-27T14:33:55+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T14:28:53+00:00"
+   "checked": "2026-11-27T14:33:55+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 16,
-   "checked": "2026-11-27T14:28:53+00:00"
+   "checked": "2026-11-27T14:33:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T14:28:53+00:00"
+   "checked": "2026-11-27T14:33:56+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T14:28:54+00:00"
+   "checked": "2026-11-27T14:33:56+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 8,
-   "checked": "2026-11-27T14:28:54+00:00"
+   "checked": "2026-11-27T14:33:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T14:28:54+00:00"
+   "checked": "2026-11-27T14:33:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T14:28:54+00:00"
+   "checked": "2026-11-27T14:33:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T14:28:54+00:00"
+   "checked": "2026-11-27T14:33:57+00:00"
   }
  },
  "items": [
@@ -197,6 +197,18 @@
    "published": "2026-11-27T14:07:57+00:00",
    "seen": "2026-11-27T14:08:46+00:00",
    "summary": "Go to hell and get this health upgrade in GTA 6",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 the disney world inspired theme park rockstar chose not to build in its game",
+   "title": "GTA 6: the Disney World-inspired theme park Rockstar chose not to build in its game...",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaVgycDI0Vm5jUXYzTGNyR3J5QnFuZ2Zzd3VIU2pwWEZQQV82TTI4Mll4ZVRrY0JkMEVYbVFPcGtnbGtMa0l5aGRQLWJHNVRTNEtyTm1WZGloUmhUV0FKbG96UzNJUzhIS19PdUV4ZHVtaHVBTGZYU2lheUpBampYYjFvcTVaYTRNVUdEMFZhc2p6NHR1TkVmM1d1dy0xSmJEV1pLdUdieG9yNkxZUFZ3dGY3ckZHNnRhLWZ4WjdfbEpYWkloaHZGM2RWZmNkZ0lxSWkwaG5EWU9QMnZIdVVKUy1mQndEQ28?oc=5",
+   "outlet": "Sortir à Paris",
+   "via": "Google News",
+   "published": "2026-11-27T14:06:07+00:00",
+   "seen": "2026-11-27T14:33:53+00:00",
+   "summary": "",
    "topic": "News",
    "record": false
   },
