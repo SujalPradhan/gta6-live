@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T13:08:38+00:00",
- "started": "2026-11-27T13:08:34+00:00",
+ "updated": "2026-11-27T13:13:34+00:00",
+ "started": "2026-11-27T13:13:30+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,126 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 98,
-   "checked": "2026-11-27T13:08:34+00:00"
+   "hits": 97,
+   "checked": "2026-11-27T13:13:30+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-27T13:08:35+00:00"
+   "hits": 56,
+   "checked": "2026-11-27T13:13:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 64,
-   "checked": "2026-11-27T13:08:35+00:00"
+   "hits": 55,
+   "checked": "2026-11-27T13:13:31+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-27T13:08:35+00:00"
+   "checked": "2026-11-27T13:13:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-27T13:08:36+00:00"
+   "checked": "2026-11-27T13:13:32+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 50,
-   "checked": "2026-11-27T13:08:36+00:00"
+   "checked": "2026-11-27T13:13:32+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-27T13:08:36+00:00"
+   "checked": "2026-11-27T13:13:32+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 15,
-   "checked": "2026-11-27T13:08:36+00:00"
+   "checked": "2026-11-27T13:13:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T13:08:36+00:00"
+   "checked": "2026-11-27T13:13:33+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 9,
-   "checked": "2026-11-27T13:08:37+00:00"
+   "checked": "2026-11-27T13:13:33+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-27T13:08:37+00:00"
+   "checked": "2026-11-27T13:13:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-27T13:08:38+00:00"
+   "checked": "2026-11-27T13:13:34+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-27T13:08:38+00:00"
+   "checked": "2026-11-27T13:13:34+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-27T13:08:38+00:00"
+   "checked": "2026-11-27T13:13:34+00:00"
   }
  },
  "items": [
+  {
+   "id": "grand theft auto 6 s liquid filled vinyl is going viral a work of art",
+   "title": "‘Grand Theft Auto 6’s liquid-filled vinyl is going viral: “A work of art”",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42RHZ2QXhzN2tTYTdWQ25IT3JycFBkX0RvaHJWanRzRVl2Z0JYeHF6OWpCdnVaWnIyMVNFUmM5bVpzaU5pM2Z4akZpMzYtVXI0N3Bv?oc=5",
+   "outlet": "شبكة تواصل الإخبارية",
+   "via": "Google News",
+   "published": "2026-11-27T13:08:20+00:00",
+   "seen": "2026-11-27T13:13:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 producer says chainsaws felt like too much to include as weapons",
+   "title": "GTA 6 Producer Says Chainsaws Felt Like “Too Much” To Include As Weapons",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHBPMXpxVkQ0ZFJ3U1pMVHF6dlBLUGlvanJOOWNpblg0LXE5LV83T3lTT1ZkcG41LWtObXM5eUQ0MndobWlDZWg5T1FJaldTNWgwTGJQNEFRWFZoN0J3Mk93QmpQOHUtekpfVWdxSFVTWkVQMGRYZU5DZUx1LXNpWGRZX1M1WGRqNW14eXpYZTN0S1pXN1o0Zw?oc=5",
+   "outlet": "GamingBolt",
+   "via": "Google News",
+   "published": "2026-11-27T13:08:13+00:00",
+   "seen": "2026-11-27T13:13:30+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "why grand theft auto vi needed a different kind of ending",
    "title": "Why Grand Theft Auto VI needed a different kind of ending",
@@ -1233,6 +1257,18 @@
    "record": false
   },
   {
+   "id": "amid gta 6 s record breaking launch 75 of rockstar s uk employees voted against union recognition",
+   "title": "Amid GTA 6's record-breaking launch, 75% of Rockstar's UK employees voted against union recognition",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9na1UtQ184ejB6UVRXcEkzM1RCaXFsdGk3V0s4d0pEUXh0MUhxZ0c2TEVyMWF1VFlRLUhXWGo3NDlyVXMxQVBONE1WWUs4YWJjV21SV0JLUWdFeWxFU1pRV1ZuX2hNODE1X0Z2YdIBckFVX3lxTE9JYTJneWxISEFhSnIwZG9LNzR5blJwVDJJXzRGOFpKWjQ4RzBQTGllRVhZWHBWcWxUOVRzTm1CYWJWZC1wcFVHX0JncTE5SjdnbTMwdGRTUGxtdUNxaXQxV3VpMWZKYTlqNnl5MWM3eVM2Zw?oc=5",
+   "outlet": "Mezha",
+   "via": "Google News",
+   "published": "2026-11-27T09:50:00+00:00",
+   "seen": "2026-11-27T13:13:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
    "id": "gta 6 unofficial pc port now has multiplayer running at up to 30 fps",
    "title": "GTA 6 Unofficial PC Port Now Has Multiplayer Running at Up to 30 FPS",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTDZsbkxDM0wzY3pUUHg4VlpRSnV1NnR5OEZUdmp1YU1hbkV4RUV6dDhtSW5pZ2FSOFBXbHF3SGJfS2xjWFcyZzBONkZ0R3ZkMG5yMkdrMkpER2hHTDdSRGJ5d1V3a2VfQ1M0MEt1LXRxLVNlVEdTNXdVazNpdWFKRFQ4WlRScFBXaVl2QjFaUDlWanZ0TnRlVk12LWpMdGV1V3o3R2laeGNvWEN1bGc?oc=5",
@@ -1852,6 +1888,18 @@
    "via": "Google News",
    "published": "2026-11-27T06:55:00+00:00",
    "seen": "2026-11-27T07:11:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "random did dave the diver just tease a gta 6 collab it seems unlikely but some fans are hopeful",
+   "title": "Random: Did Dave The Diver Just Tease A GTA 6 Collab? It Seems Unlikely, But Some Fans Are Hopeful",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOExSZmI5NE1OM0MxTGpCZGpHd0NCZ2dFb3VVaW1kYjZrT3hEQXlsdnpmb3BJYkdaNkNySmFvWW1Ldlk4QWFtc0hoY2M1MnVCWGNQeExuQ1RFdnR3SWRfRUhwMDR5T1gyd183SVVtRVdzVmRDQzdhcGd3aWFQaktZY1FoWjBndEdVZ1BfZDQtTlIweFM2N3NIRXExb1dsY2pQWXNWRlhJVGhLUVNpUGZnOXBtQVZST05yZTdJUm1rWlpweWtSTVNFSVlETXNobUNfMVFN?oc=5",
+   "outlet": "Nintendo Life",
+   "via": "Google News",
+   "published": "2026-11-27T06:55:00+00:00",
+   "seen": "2026-11-27T13:13:30+00:00",
    "summary": "",
    "topic": "News",
    "record": false
