@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T01:57:47+00:00",
- "started": "2026-11-28T01:57:43+00:00",
+ "updated": "2026-11-28T02:02:51+00:00",
+ "started": "2026-11-28T02:02:46+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,114 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-28T01:57:43+00:00"
+   "hits": 100,
+   "checked": "2026-11-28T02:02:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 48,
-   "checked": "2026-11-28T01:57:44+00:00"
+   "hits": 50,
+   "checked": "2026-11-28T02:02:47+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 40,
-   "checked": "2026-11-28T01:57:44+00:00"
+   "hits": 51,
+   "checked": "2026-11-28T02:02:48+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T01:57:44+00:00"
+   "checked": "2026-11-28T02:02:48+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T01:57:45+00:00"
+   "checked": "2026-11-28T02:02:49+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-28T01:57:45+00:00"
+   "checked": "2026-11-28T02:02:49+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T01:57:45+00:00"
+   "checked": "2026-11-28T02:02:49+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T01:57:46+00:00"
+   "checked": "2026-11-28T02:02:49+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T01:57:46+00:00"
+   "checked": "2026-11-28T02:02:50+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T01:57:47+00:00"
+   "checked": "2026-11-28T02:02:50+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T01:57:47+00:00"
+   "checked": "2026-11-28T02:02:51+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T01:57:47+00:00"
+   "checked": "2026-11-28T02:02:51+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T01:57:47+00:00"
+   "checked": "2026-11-28T02:02:51+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T01:57:47+00:00"
+   "checked": "2026-11-28T02:02:51+00:00"
   }
  },
  "items": [
+  {
+   "id": "coders use ai to attempt gta vi pc ports as take two targets github projects",
+   "title": "Coders use AI to attempt GTA VI PC ports as Take-Two targets GitHub projects",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2dvYk9YQXp5REt0cUZTZDZRLUVwVkNOdzRyQkY5RDBrX29qd1BjNTNDTHh3WGNfOFVfYlR4YVNwV1hlTW16SlplTUFVMmxWdkVsRWVMTGh1MGJZakhheVJWcnd1d2NmcExoTUNxM05WTWppYXB2X19CLUo0TFBjYnhBQm51NFlLUTc5MFBDMDhYZGdGbUh0eXd2aWFMTUR5bXU0ZEpRYXlPZ0ozTW8w?oc=5",
+   "outlet": "Superpower Daily",
+   "via": "Google News",
+   "published": "2026-11-28T01:59:00+00:00",
+   "seen": "2026-11-28T02:02:47+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
   {
    "id": "it s a surreal moment cincinnati native voices character in gta vi",
    "title": "'It's a surreal moment': Cincinnati native voices character in GTA VI",
@@ -246,6 +258,18 @@
    "seen": "2026-11-28T00:17:18+00:00",
    "summary": "",
    "topic": "Players",
+   "record": false
+  },
+  {
+   "id": "desoto county sheriff s warning to parents about gta 6",
+   "title": "DeSoto County sheriff’s warning to parents about GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbE9UQ3RDMWI1SFg0WXg2ZklUU2xPSkNDWW9QVFg1YnR2OEU0dW54aVNONWpMZUktdFBKQ1pDMERsMi1yeWhDMmhjZUJ5QzdfNEkwOURibXpzV2Z3bVhidUFFVEtQMHhWNGhsODZCX29mVDBPN0M0SkJ5RXNsa3ptSGlHZ1hQQ0XSAYwBQVVfeXFMT3l1cEVDaEZoN1VoWlFXOWpRalRweWlDYk1GbG5nWkNRWjB4LTFNOWNEWXZBUFQ1QlEzRGx5MUsxUThlX2RyOU5FbzNFTk1wWFU0a0gwS01UUUotdGczUmNFVWJPaUJydUozR1JuTXJuS3Fma3pLQ09UVEVISDhlQ3dEZ2VBVGJ2WjFSUlY?oc=5",
+   "outlet": "WREG.com",
+   "via": "Google News",
+   "published": "2026-11-27T23:53:49+00:00",
+   "seen": "2026-11-28T02:02:47+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
