@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T13:01:12+00:00",
- "started": "2026-11-28T13:01:08+00:00",
+ "updated": "2026-11-28T13:06:12+00:00",
+ "started": "2026-11-28T13:06:08+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,138 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-28T13:01:08+00:00"
+   "hits": 99,
+   "checked": "2026-11-28T13:06:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 45,
-   "checked": "2026-11-28T13:01:09+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-28T13:06:09+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
-   "ok": true,
-   "error": "",
-   "hits": 45,
-   "checked": "2026-11-28T13:01:09+00:00"
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests",
+   "hits": 0,
+   "checked": "2026-11-28T13:06:09+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-28T13:01:10+00:00"
+   "checked": "2026-11-28T13:06:10+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T13:01:10+00:00"
+   "checked": "2026-11-28T13:06:10+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-28T13:01:10+00:00"
+   "checked": "2026-11-28T13:06:10+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T13:01:11+00:00"
+   "checked": "2026-11-28T13:06:10+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T13:01:11+00:00"
+   "checked": "2026-11-28T13:06:11+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T13:01:11+00:00"
+   "checked": "2026-11-28T13:06:11+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T13:01:11+00:00"
+   "checked": "2026-11-28T13:06:11+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T13:01:12+00:00"
+   "checked": "2026-11-28T13:06:12+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T13:01:12+00:00"
+   "checked": "2026-11-28T13:06:12+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T13:01:12+00:00"
+   "checked": "2026-11-28T13:06:12+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T13:01:12+00:00"
+   "checked": "2026-11-28T13:06:12+00:00"
   }
  },
  "items": [
+  {
+   "id": "it looks like gta 6 s jason and mandy might have had a history after all",
+   "title": "It looks like GTA 6's Jason and Mandy might have had a history after all",
+   "link": "https://www.eurogamer.net/gta-6-jason-mandy-history-lucia-meditation-dialogue",
+   "outlet": "Eurogamer",
+   "via": "Eurogamer",
+   "published": "2026-11-28T13:05:00+00:00",
+   "seen": "2026-11-28T13:06:10+00:00",
+   "summary": "Warning: spoilers for GTA 6 follow. Read more",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "d angelo s gta vi track kamikazi reaches streaming rockstarintel reports",
+   "title": "D’Angelo’s GTA VI track “Kamikazi” reaches streaming, RockstarINTEL reports",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pbXZFNTRrNVZ6RzJMTFc4a3liY1ZuYk1XMUJrREFaLUVvMW1RUk96YmE2ZUdHVHM5NXZBZUZvbkptUk05ZlJN?oc=5",
+   "outlet": "Digg",
+   "via": "Google News",
+   "published": "2026-11-28T13:04:50+00:00",
+   "seen": "2026-11-28T13:06:08+00:00",
+   "summary": "",
+   "topic": "Streaming",
+   "record": false
+  },
+  {
+   "id": "the real world planes gta vi s aircraft are based on",
+   "title": "The Real-World Planes GTA VI's Aircraft Are Based On",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40ei1NN0tmMmxlTGkyUkliWDdsRnNKdkFENFZNUDd1TEdCRGtUNGVNMzFFWFlPM2wwM1l3RElTRFZ0RHFnTmxtUXpsbzNDYTB3X0xzOWxYRW9zT2FXR1dJQVlCbHRGS19NWXotMkNOUGEzTEdlTUVV?oc=5",
+   "outlet": "Simple Flying",
+   "via": "Google News",
+   "published": "2026-11-28T13:00:18+00:00",
+   "seen": "2026-11-28T13:06:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta vi unofficial pc port goes ultrawide reaches 180 fps with frame generation",
    "title": "GTA VI unofficial PC port goes ultrawide, reaches 180 FPS with Frame Generation",
@@ -184,6 +220,18 @@
    "via": "Google News",
    "published": "2026-11-28T12:00:00+00:00",
    "seen": "2026-11-28T12:05:49+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 anime tattoos get them at dominion ink with all prices",
+   "title": "GTA 6 Anime Tattoos: Get Them at Dominion Ink, With All Prices",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ2dKc0dJQmhEdHByQkI5UUt4MFh3MmNFTjJCc3dEQ1Azcjc1ZkhXdTROdmM5Y0FjSWszcE1hMzZxc0hTcjlIMDE3SkpkSURUTl9yTWxNQll3WlRpajlmR191OUFoSnJRenRnbG1xZFNQbFN4Wkd4SV9oOEpRWlEzZQ?oc=5",
+   "outlet": "space4games",
+   "via": "Google News",
+   "published": "2026-11-28T11:55:28+00:00",
+   "seen": "2026-11-28T13:06:08+00:00",
    "summary": "",
    "topic": "News",
    "record": false
