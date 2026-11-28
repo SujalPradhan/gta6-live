@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T02:48:02+00:00",
- "started": "2026-11-28T02:47:58+00:00",
+ "updated": "2026-11-28T02:53:04+00:00",
+ "started": "2026-11-28T02:53:00+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,114 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-28T02:47:58+00:00"
+   "hits": 99,
+   "checked": "2026-11-28T02:53:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 48,
-   "checked": "2026-11-28T02:47:59+00:00"
+   "hits": 49,
+   "checked": "2026-11-28T02:53:01+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 42,
-   "checked": "2026-11-28T02:47:59+00:00"
+   "hits": 43,
+   "checked": "2026-11-28T02:53:01+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T02:47:59+00:00"
+   "checked": "2026-11-28T02:53:02+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T02:47:59+00:00"
+   "checked": "2026-11-28T02:53:02+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-28T02:47:59+00:00"
+   "checked": "2026-11-28T02:53:02+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T02:48:00+00:00"
+   "checked": "2026-11-28T02:53:02+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T02:48:00+00:00"
+   "checked": "2026-11-28T02:53:02+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T02:48:00+00:00"
+   "checked": "2026-11-28T02:53:03+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T02:48:01+00:00"
+   "checked": "2026-11-28T02:53:03+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T02:48:01+00:00"
+   "checked": "2026-11-28T02:53:03+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T02:48:01+00:00"
+   "checked": "2026-11-28T02:53:04+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T02:48:01+00:00"
+   "checked": "2026-11-28T02:53:04+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T02:48:02+00:00"
+   "checked": "2026-11-28T02:53:04+00:00"
   }
  },
  "items": [
+  {
+   "id": "rockstar chief prays gta 6 twist stays secret 0 plans",
+   "title": "Rockstar Chief Prays GTA 6 Twist Stays Secret, 0 Plans",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2x1Vko2M2ZxSDZQSjQwR0tPei1vdkg4S1kwVmo5ZDFEaFhFaDBMakZhdUh6bk5hNmRqUkhTT0dBbGlJUFA2N1N0V0RzaXhDSGZNbkw3LTJ6Wm1RUlZmQThMWGtGRVpxSHVNaW1IN1JQY1NzbVdDZ19UVHdUY08xcHplbGRzei0yRVJ5T3lEbUFfckFsODNPOE5NTF95OTQ?oc=5",
+   "outlet": "shattered.io",
+   "via": "Google News",
+   "published": "2026-11-28T02:45:07+00:00",
+   "seen": "2026-11-28T02:53:01+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
   {
    "id": "10 most useful gta 6 controls the game doesn t tell you about",
    "title": "10 Most Useful GTA 6 Controls the Game Doesn't Tell You About",
@@ -162,6 +174,18 @@
    "seen": "2026-11-28T02:02:47+00:00",
    "summary": "",
    "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "did this north carolina town inspire an area in grand theft auto vi",
+   "title": "Did this North Carolina town inspire an area in Grand Theft Auto VI?",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXE3TExqMkhqTDV6cjhtTlFxdzdpVGk4QXlia0h0M0Q1NFc2MUpQcXh0WVdRSThMQlY3Q0hiZnFXNENacXNoQW85TVFXb1BTbU5RSnRmeUNIaWZ5N2pacU1LQ1lhdFhPb0VCcy1PRERSQjJQMUdhQWdnUFZtY01WUlAxTjlOM1EyNTIzZFJoRlZmZmJlLXVwUE9hZUZSVTVEZFcwamRzR1Y3R3BFSjl0RXI4WVNyVW12NjBXeWR2RGNsMV9q0gHYAUFVX3lxTE9feEtUZkFramRoLWFaZGxUbjZWOXU4M28zOE5HOHhDM0ZxQ3hmelpjNENoN3pEVTJnajk3VmljQVliUlBaVWhNX3pVYWt0aGRSLXczaXE2ekF2SlF2RlhVak1QZzdBS1JJVnl2Si1yWHBVbUx2YUw3OFJ6dEVtR2RNTWRTenBNT1FFc0lMSHhiVnM4YXhmZG0yT2RBazNzZkhRNmU3MWxLalJVOUtCUVNDTG1ZQkVPYkRsTHkzd0g2UVQtdTNQQVVpNWcwcC1KS3VrbUw4T194OA?oc=5",
+   "outlet": "WSOC TV",
+   "via": "Google News",
+   "published": "2026-11-28T01:54:00+00:00",
+   "seen": "2026-11-28T02:53:01+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -426,6 +450,18 @@
    "seen": "2026-11-27T23:26:58+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to get imponte bloodbath phoenix vehicle gta 6",
+   "title": "How to get Imponte Bloodbath Phoenix Vehicle GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhaFd3Y2poUkp6WkRUN0dDX0kzVE1RZmJoNlh6UmFveW9wTmpXelJjSGstYUowTGJLdjU2cVJDeWY3QQ?oc=5",
+   "outlet": "YouTube",
+   "via": "Google News",
+   "published": "2026-11-27T23:18:29+00:00",
+   "seen": "2026-11-28T02:53:01+00:00",
+   "summary": "",
+   "topic": "Streaming",
    "record": false
   },
   {
@@ -6040,6 +6076,18 @@
    "via": "Google News",
    "published": "2026-11-27T05:26:00+00:00",
    "seen": "2026-11-27T05:56:10+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 pc race intensifies as 30 community projects compete one reaches 91 3 completion",
+   "title": "GTA 6 PC Race Intensifies as 30 Community Projects Compete, One Reaches 91.3% Completion",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjVoRm1mYVoxRXRiZjE4S0VQV0tZOTJpeDA0b2xqT0pNZ0tCdW13ZWN3c3djQ2ZRY0wyc0U3TFpBR2U2bUQ3NEttbzQ2YXZIZ1NFNjV0RUJWSUxjVmNHY0k1TFUzMy1Qc2lXVElERkJVSFJPT285d3g2a1VFd1ZhcFRvbFEyT0tGMlF6dzNqZ19nYjBHRThmSkp4TzdFc1BDcFJfSy1QRjA3OUxHdmhBbmdHQkFyLXBmSHpVTlZLNVRidGPSAcgBQVVfeXFMTUY5eGtpMjR2WnlwYzFIR2NNbTQ4X0Y0ZUs0SVpTcXNhS3hRYVR0TW9EV3VqMlBJUVFJeldyaHR4elhIdjZacFhpaUptaWRkcDI4S1BCZXhzUmJxYmtxRFFxR0dEd3ZVaVdZQnA5eUQwYVNCREZmNWt2LTNFZnhKdUFtRTd2UjJEWFI5ZG9DRXQtU19zejk3SThhUGk2cm5YRDFVR1dYNzZTTnJleHVySUt0SDNTZ3k3VWJzTnhaVzZoMFRNS0I0dVA?oc=5",
+   "outlet": "PCQuest",
+   "via": "Google News",
+   "published": "2026-11-27T05:22:45+00:00",
+   "seen": "2026-11-28T02:53:01+00:00",
    "summary": "",
    "topic": "News",
    "record": false
