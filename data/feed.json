@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T11:10:37+00:00",
- "started": "2026-11-28T11:10:34+00:00",
+ "updated": "2026-11-28T11:15:37+00:00",
+ "started": "2026-11-28T11:15:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-28T11:10:35+00:00"
+   "checked": "2026-11-28T11:15:34+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 45,
-   "checked": "2026-11-28T11:10:35+00:00"
+   "hits": 24,
+   "checked": "2026-11-28T11:15:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 45,
-   "checked": "2026-11-28T11:10:35+00:00"
+   "hits": 46,
+   "checked": "2026-11-28T11:15:35+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T11:10:35+00:00"
+   "checked": "2026-11-28T11:15:35+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T11:10:36+00:00"
+   "checked": "2026-11-28T11:15:35+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-28T11:10:36+00:00"
+   "checked": "2026-11-28T11:15:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T11:10:36+00:00"
+   "checked": "2026-11-28T11:15:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T11:10:36+00:00"
+   "checked": "2026-11-28T11:15:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T11:10:36+00:00"
+   "checked": "2026-11-28T11:15:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T11:10:36+00:00"
+   "checked": "2026-11-28T11:15:36+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T11:10:37+00:00"
+   "checked": "2026-11-28T11:15:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T11:10:37+00:00"
+   "checked": "2026-11-28T11:15:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T11:10:37+00:00"
+   "checked": "2026-11-28T11:15:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T11:10:37+00:00"
+   "checked": "2026-11-28T11:15:37+00:00"
   }
  },
  "items": [
+  {
+   "id": "optimizing the pc port of gta vi radeon rx 7900 xtx increased productivity by 10",
+   "title": "Optimizing the PC port of GTA VI Radeon RX 7900 XTX increased productivity by 10%",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQTkyS0VUb0lDX1JzMmk4TGhRYjJZSlRlNjZXLXFxRDJlZ0pVVUFIc0lQOUdtWEdXMnQtLVdCM2pseTF0bHpYRWJZQzk0d0N4SEp0Y2w0X3ZzNzZ3VmEwbndIM2Jpd19IQ1pFOEtTN09jSFRSaGMzX0dZNEJ6V2pGNV85S2drQVp6SVdCVXNiZ0Q1b21LaFMzMzZtSGxYVHFfVnNpeWo2NV9BR3JZSWN0c3lXMUxfLWs3dnc?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-28T11:07:41+00:00",
+   "seen": "2026-11-28T11:15:34+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "everything you need to know about unofficial gta 6 pc ports including how they re happening so fast how rockstar is dealing with them and wh",
    "title": "Everything you need to know about unofficial GTA 6 PC ports — including how they're happening so fast, how Rockstar is dealing with them, and what this might mean for the official release",
@@ -112,6 +124,30 @@
    "via": "Google News",
    "published": "2026-11-28T11:00:00+00:00",
    "seen": "2026-11-28T11:05:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 sales hit 53 million copies in just over a week report",
+   "title": "GTA 6 sales hit 53 million copies in just over a week - Report",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0x6Y0l2MDJobUNMalFyMGprWnlSQmNGWUx2dXUzT01ta05fcFJGX25rTzFXaWlKblk3OXdXZjhBS29sU0lFUnJ6RDJLN3BRV1FIbnZnWUg2YmJRQ2NwaDE5bHdlMWlTakc4S2V3ZnB4Mm5FTm9xRVhFdTN5X0VtR3FDdjU3cl9OcWptRmF2Nm8?oc=5",
+   "outlet": "Khel Now",
+   "via": "Google News",
+   "published": "2026-11-28T11:00:00+00:00",
+   "seen": "2026-11-28T11:15:35+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "gta 6 vice city narcos card locations wip",
+   "title": "GTA 6: Vice City Narcos Card Locations (WIP)",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XNUNsQVBzajV5ZjRjaFJqX1o4NXBYcml5UTlHaXhlZ3kwbjZTRlpuaHJ0cWV2RjB5WlF4MVQ0MEw0MmQ4cnlwRkxhTmYwSU1JS0Q3RGh5eVk1WHloajZOQVJGdFhmbkF4dmlZdWZJbnNYanIwbVBEWEppYw?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-28T10:42:05+00:00",
+   "seen": "2026-11-28T11:15:34+00:00",
    "summary": "",
    "topic": "News",
    "record": false
