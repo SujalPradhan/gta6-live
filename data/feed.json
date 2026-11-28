@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T02:42:59+00:00",
- "started": "2026-11-28T02:42:55+00:00",
+ "updated": "2026-11-28T02:48:02+00:00",
+ "started": "2026-11-28T02:47:58+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,99 +8,99 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-28T02:42:56+00:00"
+   "hits": 100,
+   "checked": "2026-11-28T02:47:58+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-28T02:42:56+00:00"
+   "hits": 48,
+   "checked": "2026-11-28T02:47:59+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 42,
-   "checked": "2026-11-28T02:42:56+00:00"
+   "checked": "2026-11-28T02:47:59+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T02:42:57+00:00"
+   "checked": "2026-11-28T02:47:59+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T02:42:57+00:00"
+   "checked": "2026-11-28T02:47:59+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-28T02:42:57+00:00"
+   "checked": "2026-11-28T02:47:59+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T02:42:57+00:00"
+   "checked": "2026-11-28T02:48:00+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T02:42:58+00:00"
+   "checked": "2026-11-28T02:48:00+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T02:42:58+00:00"
+   "checked": "2026-11-28T02:48:00+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T02:42:58+00:00"
+   "checked": "2026-11-28T02:48:01+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T02:42:59+00:00"
+   "checked": "2026-11-28T02:48:01+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T02:42:59+00:00"
+   "checked": "2026-11-28T02:48:01+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T02:42:59+00:00"
+   "checked": "2026-11-28T02:48:01+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T02:42:59+00:00"
+   "checked": "2026-11-28T02:48:02+00:00"
   }
  },
  "items": [
@@ -210,6 +210,18 @@
    "seen": "2026-11-28T01:47:39+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "gamers can get a free game for deleting gta 6 from their console",
+   "title": "Gamers Can Get a Free Game For Deleting GTA 6 from Their Console",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwalJuZzR5STBibmlyYjRrTGZNWDJNS0JDeHlycl9Nc1NkUFU0NC1saUNLYXpNWUdmb2NSa0ZGRzVuNERJaEhJRDg5SXNJYXF6bmk3Zkx2QTh5ejRiTFB1WTNqcUU1d1k?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-28T01:32:59+00:00",
+   "seen": "2026-11-28T02:47:58+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
@@ -4936,6 +4948,18 @@
    "via": "Google News",
    "published": "2026-11-27T10:27:29+00:00",
    "seen": "2026-11-27T10:42:46+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "red dead redemption 3 could be rockstar s next game and it s bigger than gta 6",
+   "title": "Red Dead Redemption 3 Could be Rockstar’s Next Game and it’s Bigger than GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXJvNExlcGxDWnFIVHFiMlZpOWFTM2VUVURvV19QMmFiaGVHeC0zcHo2azFzamNDSUQweENOcmNJLXJuNzhzUVB6R3plTDhTODlRMVFKSC1NMnNsOWt3emVPUm1pWjVTRUFicmh6VldUQmtQbDU5ZktYLTZwVGNoLXJDeEdXUzFadFRwWjBvNUEzOUZrWFlFdEU1eGNvblBBZExRS2JEVm11RUNUenFFQXpTQ1VBZ1nSAbwBQVVfeXFMT01xTUZBMUd3VWRDWFBEU2RIMjk2anF0Y2Y5S3FEVHktRkVyc3I0MDZGTmV3cWdrbjJXME1PQmppcGk4OXd0aFhtdDR0cGIzeWJJUmFpWWJZakdYNTZiS1k5LTRYekF6b1htX2JBRThzNTc4RVl4elNIM09VaVl0TG1uc2VSWWpCMzBfNFE3bXBCRFgxRXplOEVUeFBxSmozVkhpMTVNVjZiYnQ1UTMtQXRVZGdSSTBFT1pyREE?oc=5",
+   "outlet": "PCQuest",
+   "via": "Google News",
+   "published": "2026-11-27T10:26:32+00:00",
+   "seen": "2026-11-28T02:47:59+00:00",
    "summary": "",
    "topic": "News",
    "record": false
