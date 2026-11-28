@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T03:43:16+00:00",
- "started": "2026-11-28T03:43:13+00:00",
+ "updated": "2026-11-28T03:48:26+00:00",
+ "started": "2026-11-28T03:48:22+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,114 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 100,
-   "checked": "2026-11-28T03:43:13+00:00"
+   "hits": 99,
+   "checked": "2026-11-28T03:48:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-28T03:43:14+00:00"
+   "hits": 49,
+   "checked": "2026-11-28T03:48:23+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-28T03:43:14+00:00"
+   "hits": 43,
+   "checked": "2026-11-28T03:48:24+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T03:43:14+00:00"
+   "checked": "2026-11-28T03:48:24+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T03:43:14+00:00"
+   "checked": "2026-11-28T03:48:24+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-28T03:43:14+00:00"
+   "checked": "2026-11-28T03:48:24+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T03:43:15+00:00"
+   "checked": "2026-11-28T03:48:25+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T03:43:15+00:00"
+   "checked": "2026-11-28T03:48:25+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T03:43:15+00:00"
+   "checked": "2026-11-28T03:48:25+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T03:43:15+00:00"
+   "checked": "2026-11-28T03:48:26+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T03:43:16+00:00"
+   "checked": "2026-11-28T03:48:26+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T03:43:16+00:00"
+   "checked": "2026-11-28T03:48:26+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T03:43:16+00:00"
+   "checked": "2026-11-28T03:48:26+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T03:43:16+00:00"
+   "checked": "2026-11-28T03:48:26+00:00"
   }
  },
  "items": [
+  {
+   "id": "the unofficial gta vi port received the klbf lab launcher with amd fsr 4 support",
+   "title": "The unofficial GTA VI port received the KLBF Lab launcher with AMD FSR 4 support.",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMm1YQXpYb25USzVZZ2h5NjVaczJjWFFpalRvSm1zdGhYaHh6WjNMY2F3b2xnTFdnZ2NIYzE1ZnAzQ3FXTVo1djltVWE2NDRPeUE1MjFZMGY5M2gzeUM4Vk9hS2Q5YW1VS1VFNzlaNEhPNm9GTGJaWGlvN2l6OE9CSms5THJrN1VDTFBLdjBZTVlXbjEyVGJrNWdlQXZQMWVKdWpIN2FvNHBucy02VEE?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-28T03:42:17+00:00",
+   "seen": "2026-11-28T03:48:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "grand theft auto vi lets you visit miami playtulsa wants you to visit downtown",
    "title": "‘Grand Theft Auto VI’ lets you visit Miami. ‘PlayTulsa’ wants you to visit downtown.",
@@ -366,6 +378,30 @@
    "seen": "2026-11-28T00:37:19+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "how to use nitrous in gta 6",
+   "title": "How to Use Nitrous in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qY21oLVpPb0xHbFd1X1RnN0dxNVctTFlJQUpXZE9HWV82RjdhRlpDYVVBS190aUgzR3FfTnRrcUJwdTJRNXd6V1NDR2J2TEhKNE9HZGV4RGRLaGRLejBnTEdhNURCOEk?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-28T00:21:51+00:00",
+   "seen": "2026-11-28T03:48:23+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 s most incredible easter egg is 5 years in the making",
+   "title": "GTA 6’s Most Incredible Easter Egg Is 5 Years in the Making",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qV3BKLUxnbXZCdFN1eEVpSVN3d2t3dkpYdlpXNEoxT2VUNHR4cHA0TXFReWJvUzcxTHBxbmFVN0QtdXF0WEZONURXWmpxdlFxYVhxVnJMaFB2SkczaVlLbDBtZ3hyVnM?oc=5",
+   "outlet": "IMDb",
+   "via": "Google News",
+   "published": "2026-11-28T00:15:30+00:00",
+   "seen": "2026-11-28T03:48:23+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
