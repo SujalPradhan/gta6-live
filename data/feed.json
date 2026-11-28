@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T11:00:36+00:00",
- "started": "2026-11-28T11:00:32+00:00",
+ "updated": "2026-11-28T11:05:35+00:00",
+ "started": "2026-11-28T11:05:31+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-28T11:00:32+00:00"
+   "checked": "2026-11-28T11:05:31+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 24,
-   "checked": "2026-11-28T11:00:32+00:00"
+   "hits": 45,
+   "checked": "2026-11-28T11:05:32+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 50,
-   "checked": "2026-11-28T11:00:33+00:00"
+   "hits": 51,
+   "checked": "2026-11-28T11:05:32+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T11:00:33+00:00"
+   "checked": "2026-11-28T11:05:32+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T11:00:33+00:00"
+   "checked": "2026-11-28T11:05:33+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-28T11:00:34+00:00"
+   "checked": "2026-11-28T11:05:33+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T11:00:34+00:00"
+   "checked": "2026-11-28T11:05:33+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T11:00:34+00:00"
+   "checked": "2026-11-28T11:05:33+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T11:00:34+00:00"
+   "checked": "2026-11-28T11:05:34+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T11:00:35+00:00"
+   "checked": "2026-11-28T11:05:34+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T11:00:35+00:00"
+   "checked": "2026-11-28T11:05:34+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T11:00:35+00:00"
+   "checked": "2026-11-28T11:05:35+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T11:00:36+00:00"
+   "checked": "2026-11-28T11:05:35+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T11:00:36+00:00"
+   "checked": "2026-11-28T11:05:35+00:00"
   }
  },
  "items": [
+  {
+   "id": "everything you need to know about unofficial gta 6 pc ports including how they re happening so fast how rockstar is dealing with them and wh",
+   "title": "Everything you need to know about unofficial GTA 6 PC ports — including how they're happening so fast, how Rockstar is dealing with them, and what this might mean for the official release",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONHpjV2dNYTRjX1M3TXp4MG1ESmVRdURucnNmM1IxMklTaTU0amRjN0xjWS15M0NrSXBGUDRwSW5NTkxuY2NKOWJEeng2anc1OEY3QVZKZGpCTHVtRTdkMF83b0xiSk41Y1JmSTIwb2RPbEdpdUMyUUk4RkVQVnZCMWdIVFJteWFldkU2SURZSHZLcE8tajZZci1iVXdRR2JvSmw4bkNqRkRmVndXMl9xQlFMTFctQlpUcjNQVVMxUWlBSDNJc2dMbmZpbHpWeUZLc21fLUVTQzd1Q3lDNUxJUW8xTlkzWVdWbmNVUy01RDhYNFctTVVTM2VnOA?oc=5",
+   "outlet": "TechRadar",
+   "via": "Google News",
+   "published": "2026-11-28T11:00:00+00:00",
+   "seen": "2026-11-28T11:05:31+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "gta vi showing you the most realistic way to get rich in today s economy writer mhedi",
    "title": "🇺🇸 GTA VI showing you the most realistic way to get rich in today's economy. 🤣 Writer: Mhedi",
