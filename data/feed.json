@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T12:15:55+00:00",
- "started": "2026-11-28T12:15:52+00:00",
+ "updated": "2026-11-28T12:20:57+00:00",
+ "started": "2026-11-28T12:20:55+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-28T12:15:53+00:00"
+   "checked": "2026-11-28T12:20:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 24,
-   "checked": "2026-11-28T12:15:53+00:00"
+   "checked": "2026-11-28T12:20:55+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 46,
-   "checked": "2026-11-28T12:15:53+00:00"
+   "hits": 50,
+   "checked": "2026-11-28T12:20:56+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
-   "hits": 0,
-   "checked": "2026-11-28T12:15:54+00:00"
+   "hits": 1,
+   "checked": "2026-11-28T12:20:56+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T12:15:54+00:00"
+   "checked": "2026-11-28T12:20:56+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-28T12:15:54+00:00"
+   "checked": "2026-11-28T12:20:56+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T12:15:54+00:00"
+   "checked": "2026-11-28T12:20:56+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T12:15:54+00:00"
+   "checked": "2026-11-28T12:20:56+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T12:15:54+00:00"
+   "checked": "2026-11-28T12:20:57+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T12:15:55+00:00"
+   "checked": "2026-11-28T12:20:57+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T12:15:55+00:00"
+   "checked": "2026-11-28T12:20:57+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T12:15:55+00:00"
+   "checked": "2026-11-28T12:20:57+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T12:15:55+00:00"
+   "checked": "2026-11-28T12:20:57+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T12:15:55+00:00"
+   "checked": "2026-11-28T12:20:57+00:00"
   }
  },
  "items": [
@@ -261,6 +261,18 @@
    "record": false
   },
   {
+   "id": "raylo s black friday deals mean you can get a ps5 with gta 6 other consoles right away at under 20 a month",
+   "title": "Raylo's Black Friday Deals Mean You Can Get A PS5 With GTA 6 & Other Consoles Right Away at Under £20 a Month",
+   "link": "https://www.ign.com/articles/raylos-black-friday-gaming-console-deals",
+   "outlet": "IGN",
+   "via": "IGN",
+   "published": "2026-11-28T10:31:06+00:00",
+   "seen": "2026-11-28T12:20:56+00:00",
+   "summary": "Check out Raylo's Black Friday gaming subscriptions, including PS5 and Xbox GTA 6 bundles, Nintendo Switch 2, gaming TVs, and more for a complete setup with £0 upfront.",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "nickeh30 under fire as valkyrae and qtcinderella slam his gta 6 behavior",
    "title": "NickEh30 Under Fire As Valkyrae And QTCinderella Slam His GTA 6 Behavior",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTVveVR5ZkJXdmF0UkVEdmh0N04tY2k0WmJIX2VMQVRsMktKUmsxRFpoWTRlN3FvX1o3bW1sbmtuaFpGMEtSOGV1UmdXNGtHeFQ1UGs4YkwwZUxTczBLdHpxTkUycktlRHJfdTVoZ0VYLVg0cDBsVnZDM19sQlIzVlNTdEdSOFZQb1RNUmZzLUVudGpKZkE1UUJvOF9LSHNfa09UbEJuTElnZ1MxdVRTNDJmWWNvNlEtRWVPYVlB?oc=5",
@@ -414,6 +426,18 @@
    "seen": "2026-11-28T12:10:54+00:00",
    "summary": "",
    "topic": "Streaming",
+   "record": false
+  },
+  {
+   "id": "grand theft auto vi review",
+   "title": "Grand Theft Auto VI Review",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13WTNjc1dDcDJwZm5tdmxWcTVmZjZaNXE0dUNuc1R3UV9vOFluWmdtQWlsQXQtNzNXVUs2Y213dUxGYjhNNnUtWDZqT25WX1phZGFGQTNRMjVyX0JYVHRSZjFWdWY2eV9ROGQtczRNbWo?oc=5",
+   "outlet": "PCMag Middle East",
+   "via": "Google News",
+   "published": "2026-11-28T09:25:35+00:00",
+   "seen": "2026-11-28T12:20:55+00:00",
+   "summary": "",
+   "topic": "Reviews",
    "record": false
   },
   {
