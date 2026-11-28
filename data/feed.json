@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T14:31:42+00:00",
- "started": "2026-11-28T14:31:39+00:00",
+ "updated": "2026-11-28T14:36:40+00:00",
+ "started": "2026-11-28T14:36:36+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -8,102 +8,126 @@
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 99,
-   "checked": "2026-11-28T14:31:40+00:00"
+   "hits": 100,
+   "checked": "2026-11-28T14:36:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 25,
-   "checked": "2026-11-28T14:31:40+00:00"
+   "checked": "2026-11-28T14:36:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 51,
-   "checked": "2026-11-28T14:31:40+00:00"
+   "checked": "2026-11-28T14:36:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-28T14:31:41+00:00"
+   "checked": "2026-11-28T14:36:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:31:41+00:00"
+   "checked": "2026-11-28T14:36:38+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-28T14:31:41+00:00"
+   "checked": "2026-11-28T14:36:38+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T14:31:41+00:00"
+   "checked": "2026-11-28T14:36:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T14:31:41+00:00"
+   "checked": "2026-11-28T14:36:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T14:31:41+00:00"
+   "checked": "2026-11-28T14:36:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T14:31:41+00:00"
+   "checked": "2026-11-28T14:36:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:31:42+00:00"
+   "checked": "2026-11-28T14:36:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T14:31:42+00:00"
+   "checked": "2026-11-28T14:36:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:31:42+00:00"
+   "checked": "2026-11-28T14:36:40+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T14:31:42+00:00"
+   "checked": "2026-11-28T14:36:40+00:00"
   }
  },
  "items": [
+  {
+   "id": "8 most thought provoking messages in gta 6",
+   "title": "8 Most Thought-Provoking Messages in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zWmJ1dDRzRmxzdG9DVHlRUTNVTVE2anR4b2UwVFJuNUt5cm1RWXJnSzFBV2lDeWdSclJvay10Nkd0YXZxUktjMUFUaEVtZjMyTFZpOXRIUGVDZXpXMEdmWEwtRjVMd0NHaS1kRTFiVllnU1Nrbk9aeE5R?oc=5",
+   "outlet": "DualShockers",
+   "via": "Google News",
+   "published": "2026-11-28T14:35:11+00:00",
+   "seen": "2026-11-28T14:36:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "an unofficial port of gta vi based on razda4a xen wave 11 has been launched on radeon rx 9070 xt at 52 fps",
+   "title": "An unofficial port of GTA VI based on RAZDA4A XEN Wave 11 has been launched on Radeon RX 9070 XT at 52 FPS",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3B6Qm1qdnVuVk13Sm5TdjJGMGdEZ0Q1UTJzSzdKd09jeTkxWG1qQlN1TDlQTXU0WTB6VmZBVTBxdVRIM3lRRnR5My1XMnZiNkd1eWRHSmhUd2NWQllpSmZ0VVBBcDlGY2UxaDRnWWdLQ3NiUmFaVkJmU3czUDJtRVJLcU02V3h2MlpFeFAxU1Q2VjdxcUM4MWlZdWk2b2dtUlMtM2EyaTltcE5OR056OEQ2UVJEbEdlMTRMTGNWaWJjV0RlcUJB?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-28T14:33:07+00:00",
+   "seen": "2026-11-28T14:36:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "optimal hdr settings for gta vi on 55 inch tcl tvs for different lighting conditions",
    "title": "Optimal HDR settings for GTA VI on 55-inch TCL TVs for different lighting conditions",
