@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T10:30:26+00:00",
- "started": "2026-11-28T10:30:22+00:00",
+ "updated": "2026-11-28T10:35:27+00:00",
+ "started": "2026-11-28T10:35:23+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-28T10:30:23+00:00"
+   "checked": "2026-11-28T10:35:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-28T10:30:23+00:00"
+   "hits": 44,
+   "checked": "2026-11-28T10:35:24+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 53,
-   "checked": "2026-11-28T10:30:24+00:00"
+   "hits": 52,
+   "checked": "2026-11-28T10:35:25+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T10:30:24+00:00"
+   "checked": "2026-11-28T10:35:25+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T10:30:24+00:00"
+   "checked": "2026-11-28T10:35:25+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-28T10:30:24+00:00"
+   "checked": "2026-11-28T10:35:25+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T10:30:25+00:00"
+   "checked": "2026-11-28T10:35:26+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T10:30:25+00:00"
+   "checked": "2026-11-28T10:35:26+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T10:30:25+00:00"
+   "checked": "2026-11-28T10:35:26+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T10:30:25+00:00"
+   "checked": "2026-11-28T10:35:27+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T10:30:26+00:00"
+   "checked": "2026-11-28T10:35:27+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T10:30:26+00:00"
+   "checked": "2026-11-28T10:35:27+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T10:30:26+00:00"
+   "checked": "2026-11-28T10:35:27+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T10:30:26+00:00"
+   "checked": "2026-11-28T10:35:27+00:00"
   }
  },
  "items": [
@@ -112,6 +112,18 @@
    "via": "Google News",
    "published": "2026-11-28T10:11:44+00:00",
    "seen": "2026-11-28T10:15:18+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 17 secret controls you could easily miss",
+   "title": "GTA 6: 17 Secret Controls You Could Easily Miss",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01dmY3SnVxaTJacXlYRmVMSGc4Qi1vU2dKaC1aTU9jYWVFcWE1Y28yd0pzaW5nbkpzNDNoRDJtanBuQ2JadFRMX3hqWHIzTVp3UDNsWVBrZDdtMjU5X3BUXw?oc=5",
+   "outlet": "Cultured Vultures",
+   "via": "Google News",
+   "published": "2026-11-28T10:11:44+00:00",
+   "seen": "2026-11-28T10:35:24+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -1158,6 +1170,18 @@
    "seen": "2026-11-28T01:37:37+00:00",
    "summary": "",
    "topic": "Sales",
+   "record": false
+  },
+  {
+   "id": "into the world of ai gta 6 made without ai cracked by ai",
+   "title": "[Into the World of AI] 'GTA 6,' Made Without AI, Cracked by AI",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JSGFzVE9IRlJqLTBxRGxwbFdOMTg4MDhBV2k1d3RXTFk3Qkd3TmNvaFlFaDJxd21XWkg4Sm1YWm04TUpINVdpQ05XYmI3N1NBRzA1VzdRNzh4ZlB0Q1dQbDg1UDE?oc=5",
+   "outlet": "아시아경제",
+   "via": "Google News",
+   "published": "2026-11-27T23:11:39+00:00",
+   "seen": "2026-11-28T10:35:24+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
