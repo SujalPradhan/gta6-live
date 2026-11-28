@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T09:24:58+00:00",
- "started": "2026-11-28T09:24:54+00:00",
+ "updated": "2026-11-28T09:30:10+00:00",
+ "started": "2026-11-28T09:30:07+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-28T09:24:55+00:00"
+   "checked": "2026-11-28T09:30:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 47,
-   "checked": "2026-11-28T09:24:55+00:00"
+   "hits": 26,
+   "checked": "2026-11-28T09:30:08+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 57,
-   "checked": "2026-11-28T09:24:55+00:00"
+   "hits": 46,
+   "checked": "2026-11-28T09:30:08+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T09:24:56+00:00"
+   "checked": "2026-11-28T09:30:08+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T09:24:56+00:00"
+   "checked": "2026-11-28T09:30:09+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-28T09:24:56+00:00"
+   "checked": "2026-11-28T09:30:09+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T09:24:56+00:00"
+   "checked": "2026-11-28T09:30:09+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T09:24:57+00:00"
+   "checked": "2026-11-28T09:30:09+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T09:24:57+00:00"
+   "checked": "2026-11-28T09:30:09+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T09:24:57+00:00"
+   "checked": "2026-11-28T09:30:09+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T09:24:58+00:00"
+   "checked": "2026-11-28T09:30:09+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T09:24:58+00:00"
+   "checked": "2026-11-28T09:30:10+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T09:24:58+00:00"
+   "checked": "2026-11-28T09:30:10+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T09:24:58+00:00"
+   "checked": "2026-11-28T09:30:10+00:00"
   }
  },
  "items": [
@@ -112,6 +112,18 @@
    "via": "Google News",
    "published": "2026-11-28T09:18:45+00:00",
    "seen": "2026-11-28T09:19:54+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "cancellations are not real hasan piker fires back amid ohnepixel and gta 6 gaming community dispute",
+   "title": "\"Cancellations Are Not Real\": Hasan Piker Fires Back Amid OhnePixel and GTA 6 Gaming Community Dispute",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS01ESDlGSnh0ZXhEaXRMN1RRWk1HVlQtSkZpSTNXSjJFWm81a21rcVJNV2NNWjhJV2lBQkFtMVRycmlTcktPdmNFYVlXS2k5bFdmaWFDTWxrWVdoeHBucGt1MURucEstRDQ4V0FUQUpXdWlYb1BMVThmcWJKWHMySk56bFk1ejcxcDBTUV9aeVY2TUlIbGo1LVIzdTJzZDB6N1NvMkd6dXdtYUUzU2Foc1AzYXZ5aWZxSnQ5SV8zdzFTSGl3QklLSWdVTVhMV3BWZ0FDVjFMODhFaE40NVNYN01B?oc=5",
+   "outlet": "NDTV Sports",
+   "via": "Google News",
+   "published": "2026-11-28T09:17:46+00:00",
+   "seen": "2026-11-28T09:30:08+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -201,6 +213,18 @@
    "record": false
   },
   {
+   "id": "grand theft auto vi where to find the watson bay nudist rv camp",
+   "title": "Grand Theft Auto VI – Where to Find the Watson Bay Nudist RV Camp",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjhNendKYVRVM1Fnd2JEd0sxd2xtQkM5aWtPRGNCTjFwdkd6TXFJeHRvdC1nUllhSU8xQkNIR2tsXzdSdk5zV1NWbUp4WGlJQTFNWnFFbUI3Q3dVdUUtZGcwSHE3X0VuZjNubTU4NktwVV9GNGxKQlN4YnhwTG1mTjFYSEJlakhRY3JydGV6NFZEVWs5ZWxCSVpjUklyanVSMERENw?oc=5",
+   "outlet": "Gamer Social Club",
+   "via": "Google News",
+   "published": "2026-11-28T08:02:51+00:00",
+   "seen": "2026-11-28T09:30:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
    "id": "gta 6 waink no flusher tags map all locations explained",
    "title": "GTA 6 WAiNK No Flusher Tags Map: All Locations Explained",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnRzM2hfaWNlQWZMeEF0NVhtM0YtbHFmOUxTMW0yakJfVEtGdEhZOW9CMlBhR0IyTXVGd19oTTZZQlI3MGlTZ0JKSkZfYklteEhXeW5XSk9sUHU2ZTRpazRfTDlCN0V4WTB6S0ViVWZQemdDNDNYYUF6VldsRkFBUDRR?oc=5",
@@ -247,6 +271,18 @@
    "summary": "",
    "topic": "News",
    "record": true
+  },
+  {
+   "id": "grand theft auto vi where to find the cherry popper boxville ice cream truck",
+   "title": "Grand Theft Auto VI – Where to Find the Cherry Popper Boxville Ice Cream Truck",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmtia0JaMkNzV2pQYWtrQ3MwbW8yRUU0S1BiMnJKNUs5aHgzdmRaZ045Vk1MaVNTTFhOZXNORUZ4eW0welhHeFpmQ2FPNlVhaTBUUjVaaU5sX0hFaDR1MF9vYW9pN3daVHBEQXlsMm1wNklQV2FzUXNLSnQ4bnJ4Yjk2QVpsczFUSER5MUtZRWlteUhhVDBXT2h2OWl0WEROODNNME5LOElXTzR6ZG1sa1htZk92QQ?oc=5",
+   "outlet": "Gamer Social Club",
+   "via": "Google News",
+   "published": "2026-11-28T07:42:52+00:00",
+   "seen": "2026-11-28T09:30:08+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "gta 6 reveals seven final chapter missions and completion time",
