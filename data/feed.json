@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T14:56:43+00:00",
- "started": "2026-11-28T14:56:40+00:00",
+ "updated": "2026-11-28T15:01:47+00:00",
+ "started": "2026-11-28T15:01:43+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-28T14:56:41+00:00"
+   "checked": "2026-11-28T15:01:43+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-28T14:56:41+00:00"
+   "hits": 42,
+   "checked": "2026-11-28T15:01:44+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-28T14:56:42+00:00"
+   "checked": "2026-11-28T15:01:44+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-28T14:56:42+00:00"
+   "checked": "2026-11-28T15:01:45+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:56:42+00:00"
+   "checked": "2026-11-28T15:01:45+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-28T14:56:42+00:00"
+   "checked": "2026-11-28T15:01:45+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 14,
-   "checked": "2026-11-28T14:56:42+00:00"
+   "checked": "2026-11-28T15:01:45+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T14:56:42+00:00"
+   "checked": "2026-11-28T15:01:45+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T14:56:43+00:00"
+   "checked": "2026-11-28T15:01:45+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T14:56:43+00:00"
+   "checked": "2026-11-28T15:01:46+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:56:43+00:00"
+   "checked": "2026-11-28T15:01:46+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T14:56:43+00:00"
+   "checked": "2026-11-28T15:01:47+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:56:43+00:00"
+   "checked": "2026-11-28T15:01:47+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T14:56:43+00:00"
+   "checked": "2026-11-28T15:01:47+00:00"
   }
  },
  "items": [
@@ -688,6 +688,18 @@
    "via": "Google News",
    "published": "2026-11-28T10:40:00+00:00",
    "seen": "2026-11-28T10:40:27+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta 6 key lento collectibles secrets walkthrough",
+   "title": "GTA 6: Key Lento Collectibles & Secrets Walkthrough",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRE9ibmh5eE1RWTEyZ2E4TTdkb1dLaXZwZFQ3STVpVEJmS2xQcFdVd0hBVkVBSTltbjRWVjA3dXVhY3JVVzdMdUxhanM5ajB1SkMxbWhkTEdRcnFGdFoxb3BSUWltSm9MMUFyYzd6eFc5dDVfWHd3NTVfQzdvamxpdWZoRHo4eDVGN21LcnZocw?oc=5",
+   "outlet": "Push Square",
+   "via": "Google News",
+   "published": "2026-11-28T10:38:00+00:00",
+   "seen": "2026-11-28T15:01:43+00:00",
    "summary": "",
    "topic": "News",
    "record": false
@@ -2886,6 +2898,18 @@
    "seen": "2026-11-27T18:45:23+00:00",
    "summary": "",
    "topic": "Reviews",
+   "record": false
+  },
+  {
+   "id": "how to complete sound4sound studio in gta 6 find the k17 pistol cocaine and buckingham bourbon windsor",
+   "title": "How to Complete Sound4Sound Studio in GTA 6: Find the K17 Pistol, Cocaine and Buckingham Bourbon Windsor",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdF93YWppOTV1c1dINC1iXzYzTzJHVFQ5ajE3UVNKdzhtT1RXWUJNNHdFeUZpVk9XOWFoRzZzYU5jeFZERmxsaGNxeHBYQjdUeko4TFNSdjMydjJiczlIeGl5NXpYY292aEdza09ZYWt1NlZYR3NZckhyY3VfRl8zWGxuUF9QS3RwNmtOa2dGSERvTER4ZG92c243LVRhNGdfYjFBeTA1S013N0ZVZFJ6cjZNRVBmUHVQQ21xWk1PUW0yWHhMT29GNUs2OHdSOXhNYTgyLVNPTDRrcUpEYURZb04tN21XZExyZlhWSXdJNUNHSW5WZW1mTXJLaWdwS0NsOWfSAYICQVVfeXFMTXRfd2FqaTk1dXNXSDQtYl82M08yR1RUOWoxN1FTSnc4bU9UV1lCTTR3RXlGaVZPVzlhaEc2c2FOY3hWREZsbGhjcXhwWEI3VHpKOExTUnYzMnYyYnM5SHhpeTV6WGNvdmhHc2tPWWFrdTZWWEdzWXJIcmN1X0ZfM1hsblBfUEt0cDZrTmtnRkhEb0xEeGRvdnNuNy1UYTRnX2IxQXkwNUtNdzdGVWRSenI2TUVQZlB1UENtcVpNT1FtMlh4TE9vRjVLNjh3Ujl4TWE4Mi1TT0w0a3FKRGFEWW9OLTdtV2RMcmZYVkl3STVDR0luVmVtZk1yS2lncEtDbDln?oc=5",
+   "outlet": "Indiatimes",
+   "via": "Google News",
+   "published": "2026-11-27T18:27:50+00:00",
+   "seen": "2026-11-28T15:01:44+00:00",
+   "summary": "",
+   "topic": "News",
    "record": false
   },
   {
