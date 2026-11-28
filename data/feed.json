@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T14:21:33+00:00",
- "started": "2026-11-28T14:21:29+00:00",
+ "updated": "2026-11-28T14:26:39+00:00",
+ "started": "2026-11-28T14:26:37+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,137 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-28T14:21:30+00:00"
+   "checked": "2026-11-28T14:26:37+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 43,
-   "checked": "2026-11-28T14:21:30+00:00"
+   "hits": 25,
+   "checked": "2026-11-28T14:26:38+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 45,
-   "checked": "2026-11-28T14:21:31+00:00"
+   "hits": 46,
+   "checked": "2026-11-28T14:26:38+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-28T14:21:31+00:00"
+   "checked": "2026-11-28T14:26:38+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:21:31+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-28T14:21:31+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T14:21:32+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T14:21:32+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T14:21:32+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T14:21:32+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:21:33+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T14:21:33+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:21:33+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T14:21:33+00:00"
+   "checked": "2026-11-28T14:26:39+00:00"
   }
  },
  "items": [
+  {
+   "id": "optimal hdr settings for gta vi on 55 inch tcl tvs for different lighting conditions",
+   "title": "Optimal HDR settings for GTA VI on 55-inch TCL TVs for different lighting conditions",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWEtU3czWEZ5S0llclRnaEg1bW5sTnFqSEFTMUtHclJYWEFjNE5UU0dKOFhZb2lnUWhFdGFBMUZqZlJSSno2VzFvTU1BRGdtQlJtamtGM0hVSlJVd2UzRGNfd3VXYl9WWGRwSEFNN1EtQkY0cmhXZGNiRXB4QVJiZFd3MDFsUzItZ0ZwV0FCejdzRURSOGpQVnVMbWVNclUzSmZBU3UzQ2xSQjhfSHFQRmtJcjlUb1daOXlZSkNfNEFPQWNTb1lzcGZB?oc=5",
+   "outlet": "GameGPU",
+   "via": "Google News",
+   "published": "2026-11-28T14:24:53+00:00",
+   "seen": "2026-11-28T14:26:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "how to fix gta 6 s weather glitch without waiting for another rockstar update",
+   "title": "How to Fix GTA 6’s Weather Glitch Without Waiting for Another Rockstar Update",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0FES1ZwbERJRUNSZkh1SUdzQ0tCMzJpQUJ2VE5zVEItQ0xOMUt4VGt1blZzTWFiYk42Z181RW9CUGNRWGJ2eXBmNUVXR0Jfa0VDNnl5XzVpNjdYN0dvRVp5OG0ta1lxWGc0dTdQX2tJdGJ4X1psckZyUXMwYnlGNlh0SFNYOVA1Z2Y5bVh4akpLSW5Sd05ncTFId3JILVludmNVS3JILWYxc0hwWWc?oc=5",
+   "outlet": "VICE",
+   "via": "Google News",
+   "published": "2026-11-28T14:24:18+00:00",
+   "seen": "2026-11-28T14:26:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "did gta 6 get a graphics downgrade ps5 players say update 01 002 002 looks worse rockstar hasn t confirmed",
+   "title": "Did GTA 6 get a graphics downgrade? PS5 players say update 01.002.002 looks worse; Rockstar hasn't confirmed",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2hKYXdTaThzdWpzSVE4YS1KVWoxaDkzVXUzNnRLaUJJUlZJRmVmZC1OSVQ2bXdEeTlaeHczQ0x0ZG9DMndWZjdoODAweTZ3T0dFY0hHSjhuTkRNQUJpdGJfZEFrelVyeGdNVS1BYUhfeHpsdGw5UFJub2JxRnBGaUxrbE1DbzVKSHlzazRfb2pDdGR2Y1pzd0VDYVB5dldaUC1GZGFRUkE4ZG5XRW44QzJR?oc=5",
+   "outlet": "Nacionale",
+   "via": "Google News",
+   "published": "2026-11-28T14:24:00+00:00",
+   "seen": "2026-11-28T14:26:37+00:00",
+   "summary": "",
+   "topic": "Players",
+   "record": false
+  },
   {
    "id": "grand theft auto vi with ray tracing delivered 14 fps on the rtx 5090 at 5120 1440 resolution",
    "title": "Grand Theft Auto VI with ray tracing delivered 14 FPS on the RTX 5090 at 5120×1440 resolution.",
@@ -163,6 +199,18 @@
    "summary": "",
    "topic": "News",
    "record": true
+  },
+  {
+   "id": "is jake paul target of gta vi joke about influencer fighting 86 year old",
+   "title": "Is Jake Paul Target of 'GTA VI' Joke About Influencer Fighting 86-Year-Old?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0NRYmRWdzk0clpGREZjaXZKdzlpbEdyYXN5ck81UlgwdWdVQkdNa3lUcDZzTW1CQnRURWVCdWRfOHYwcWFRVENCM1NuZlpaa3ZscGNlUEQ4VDZFc2c2ellZTThzSUNuRFp4M0xvZmRmQTlKNkNKYkVIVW9uenNrY3J2cw?oc=5",
+   "outlet": "Yahoo Tech",
+   "via": "Google News",
+   "published": "2026-11-28T13:56:19+00:00",
+   "seen": "2026-11-28T14:26:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "gta 6 uk physical sales 32m in 3 days no disc",
@@ -1960,6 +2008,18 @@
    "via": "Google News",
    "published": "2026-11-27T21:58:05+00:00",
    "seen": "2026-11-27T22:06:32+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
+  {
+   "id": "a tech editor s guide to the best ps5 deals for black friday including gta 6 bundles",
+   "title": "A tech editor’s guide to the best PS5 deals for Black Friday, including GTA 6 bundles",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcllsMHM5YUpoUXNGdC0zTmt4Z1RLX0NtN1Z2dHViYXdvQ2NmeE5ia1IxNGlKT2s3dFVaSEtFWjZ3UlpBZmZyVEtrQ2VsdFBNWnlIZGtpTmIzSHlWdWZMOWhMVDNMMk9Wd1BvY09feUJHeDZzNmRBemcycmtweVlNc0MtajdHaHN5SUNGVlNYN1NTTC1COEg1OFZsTDdsWEpoeTJzTS1sUHdRbzBHQUxKdQ?oc=5",
+   "outlet": "The Independent",
+   "via": "Google News",
+   "published": "2026-11-27T21:55:34+00:00",
+   "seen": "2026-11-28T14:26:38+00:00",
    "summary": "",
    "topic": "News",
    "record": false
