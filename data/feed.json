@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T01:32:41+00:00",
- "started": "2026-11-28T01:32:36+00:00",
+ "updated": "2026-11-28T01:37:39+00:00",
+ "started": "2026-11-28T01:37:35+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,125 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-28T01:32:37+00:00"
+   "checked": "2026-11-28T01:37:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 49,
-   "checked": "2026-11-28T01:32:37+00:00"
+   "hits": 25,
+   "checked": "2026-11-28T01:37:36+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 39,
-   "checked": "2026-11-28T01:32:37+00:00"
+   "hits": 53,
+   "checked": "2026-11-28T01:37:37+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T01:32:38+00:00"
+   "checked": "2026-11-28T01:37:37+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T01:32:38+00:00"
+   "checked": "2026-11-28T01:37:37+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-28T01:32:38+00:00"
+   "checked": "2026-11-28T01:37:37+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T01:32:39+00:00"
+   "checked": "2026-11-28T01:37:38+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T01:32:39+00:00"
+   "checked": "2026-11-28T01:37:38+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T01:32:39+00:00"
+   "checked": "2026-11-28T01:37:38+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T01:32:40+00:00"
+   "checked": "2026-11-28T01:37:38+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T01:32:40+00:00"
+   "checked": "2026-11-28T01:37:38+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T01:32:41+00:00"
+   "checked": "2026-11-28T01:37:39+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T01:32:41+00:00"
+   "checked": "2026-11-28T01:37:39+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T01:32:41+00:00"
+   "checked": "2026-11-28T01:37:39+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta 6 the ai race to clone the world s biggest video game for pc",
+   "title": "GTA 6: The AI race to clone the world's biggest video game for PC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KdGFSMXE0OHRvdWlRZ0tyT1lhakVJM3lzbmlibjJ0Nm8ydDNOWlgydVJxcWd2SHQ1cUtoeUtmNnFUem9kcUFlcVJnVGpTZ1Zpa25IYjVhUVkycTg?oc=5",
+   "outlet": "BBC",
+   "via": "Google News",
+   "published": "2026-11-28T01:30:50+00:00",
+   "seen": "2026-11-28T01:37:37+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
+   "id": "from backyard brawls to gta vi dada 5000 takes bkb west perrine to the gaming world",
+   "title": "From backyard brawls to GTA VI: ‘Dada 5000’ takes BKB, West Perrine to the gaming world",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOW9vc0dNaE1TVWNacWx4aWJNdERfNHlRdTFVaWtYVS1jb3JHdUJDZzV4X1l0bnpDM282OTcxTUFVVi05LUgwUU5rNVc0UVpiNzEyR3VxZGt1cUlrX0tDaUk1TV9JQi00M0pLcnhnUzRtR2Fhb3ZUUzNMTGdLeTlNdTJabkVBN3VzR1FybXkzRkVCSjlQY01oQVRvYjdDSlJEVFhta2hnbWdkSWVYcndvM0dIT0hmZGdwRC1oSWxnZU02amtuNjlr0gHMAUFVX3lxTE13RF80Sm9VMEpQclZhT1Vfdm9TcHdJdi1va3pmUE9MQVVGamhyVlN4bHJuRmR6QmpDcEVUVUdWNnVhZmFFUHA4RlVfODVWSU9IU1U0eWUxOXNUazBUVmFjOEFYV2FuR0VZcW1lY0l1YTJYQU1EZ1VrUzdoNU9nUHNBRWx0YXBNWFJUZDBlSUlOdDZ1anRZQk93Rnh6VkgxZmIzd0ZTMnpsc0lLREd6RlBmSElSQmFkS1QyQkY5eE16THFnVDI5UGdYMmFmaQ?oc=5",
+   "outlet": "Sherdog",
+   "via": "Google News",
+   "published": "2026-11-28T01:13:44+00:00",
+   "seen": "2026-11-28T01:37:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
+  },
   {
    "id": "omfg gta vi has p diddy s mansion complete with his freak off room this game thought of everything writer marie",
    "title": "🚨🎮 OMFG!! GTA VI has P. Diddy's mansion... Complete with his FREAK OFF room!! This game thought of everything... 😆 Writer: Marie",
@@ -246,6 +270,18 @@
    "seen": "2026-11-27T23:26:58+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "gta vi physical edition sales in europe reach levels not seen since fifa 20",
+   "title": "GTA VI Physical Edition Sales in Europe Reach Levels Not Seen Since FIFA 20",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaUd5ZzY5SzdWOEMzMWhoTDRoTjVrZ3ZxaHBKeWlxOEZWNFFoQzZtSlhMcDZsci1uRUZvZTNLR2FuQlVwWHVtVXJKSDgzWG1mTUl3VTlHOEdtQmZkUUI4NUZLazRQMVlyalg5X2pVaEZmYTZmcTk2aERWVDkyVzJJMURGajN3dzVmRDk1VWFvMUNpa1JPV0xQVWIydHNkWmExRFpB?oc=5",
+   "outlet": "se7en.ws",
+   "via": "Google News",
+   "published": "2026-11-27T23:16:48+00:00",
+   "seen": "2026-11-28T01:37:37+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
@@ -583,6 +619,18 @@
    "summary": "",
    "topic": "News",
    "record": true
+  },
+  {
+   "id": "gta 6 is finally here microsoft s github hyped a tool that turns ps5 games into windows 11 apps days after wiping 3 007 gta 6 pc port repos ",
+   "title": "\"GTA 6 is finally here\": Microsoft's GitHub hyped a tool that turns PS5 games into Windows 11 apps, days after wiping 3,007 GTA 6 PC port repos, then quietly deleted the post",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPVE5Mb0o0c0I4aWNnU3ZqaFAzWkxXSnZhNDVBZXJqYnd1Q3BsYWF3UHNlOXgwSlp0LUJBWUVLR1hrRE9RcC11am41X0d1VmZjUGNlTm1CR2h0RUx3cVV5aDNlYXFRalhOVzFwU19zbTUwSElFYUZsYnZqOFFZWHBCLXp0NV9xc0loX0lPemdwa2drbllRRUJhWlQ1cndwd280WmFYYXEwSGZFRWdFOXZVdm9CeUNRZzJtdF9ERjNudXg4OXdncHU3VmdEdzFvMmdUNjZ2d3JPbklrOGU0ZXVicUMzZFZSdXltSW1GWE92cHNaMXg0RFFPZXdIY3F6S2tJM0RZNnM2TUZsYlFKMTE4SnhqRVRhUlg1NE9QVXJrbktfbGRBVk15RVhrMUxUaEVfY09F?oc=5",
+   "outlet": "Windows Latest",
+   "via": "Google News",
+   "published": "2026-11-27T20:45:05+00:00",
+   "seen": "2026-11-28T01:37:36+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": false
   },
   {
    "id": "inside gta 6 how rockstar made the game of the generation",
