@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T00:17:21+00:00",
- "started": "2026-11-28T00:17:18+00:00",
+ "updated": "2026-11-28T00:22:38+00:00",
+ "started": "2026-11-28T00:22:14+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,101 +9,113 @@
    "ok": true,
    "error": "",
    "hits": 99,
-   "checked": "2026-11-28T00:17:18+00:00"
+   "checked": "2026-11-28T00:22:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 25,
-   "checked": "2026-11-28T00:17:19+00:00"
+   "hits": 24,
+   "checked": "2026-11-28T00:22:15+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 55,
-   "checked": "2026-11-28T00:17:19+00:00"
+   "hits": 42,
+   "checked": "2026-11-28T00:22:16+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 0,
-   "checked": "2026-11-28T00:17:19+00:00"
+   "checked": "2026-11-28T00:22:16+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T00:17:19+00:00"
+   "checked": "2026-11-28T00:22:16+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 46,
-   "checked": "2026-11-28T00:17:20+00:00"
+   "checked": "2026-11-28T00:22:16+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
-   "ok": true,
-   "error": "",
-   "hits": 13,
-   "checked": "2026-11-28T00:17:20+00:00"
+   "ok": false,
+   "error": "<urlopen error _ssl.c:994: The handshake operation timed out>",
+   "hits": 0,
+   "checked": "2026-11-28T00:22:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T00:17:20+00:00"
+   "checked": "2026-11-28T00:22:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T00:17:20+00:00"
+   "checked": "2026-11-28T00:22:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T00:17:20+00:00"
+   "checked": "2026-11-28T00:22:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T00:17:21+00:00"
+   "checked": "2026-11-28T00:22:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T00:17:21+00:00"
+   "checked": "2026-11-28T00:22:38+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T00:17:21+00:00"
+   "checked": "2026-11-28T00:22:38+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T00:17:21+00:00"
+   "checked": "2026-11-28T00:22:38+00:00"
   }
  },
  "items": [
+  {
+   "id": "gta vi tops 50 million units sold in launch week ps5 still leads with over 75 share",
+   "title": "GTA VI Tops 50 Million Units Sold in Launch Week—PS5 Still Leads with Over 75% Share",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVY2bURKWVBxNlBxSjJJSU5QcFFycnRJTFhuMWFrcHQ0YXp6MDczQ2ZjY29NejFYc0JaZzVVcHk4bi1NdkpGRWNyeVlXeTlKMGtPYU5WZTNOdk83RlhIbkN4b1lwdzZNZUhfZVYzcVZMX3JNQm81OEdsNzdqOTZVTUlNNGVBMHdtSlFlZmRxYk1WVHFrd3BVYzIwOENBNG1QVUhaXzZNMkJtOWtCd3ZsQVM3a2lmUm82UUHSAb8BQVVfeXFMTkR5Vmszdm81ZlVwU0luMDRoTUYxRm9ZTjdZWkZ2MTJKME1JaDV0R3J5SHJhNHZyLWdoMUVfdFdlUndYU1N5aGJXbjdHZGVUSDJkMzVDZmVNck4xRjE5OVNlSVhqS1pXWXg0UklrdnM5N3hjUjdWNjZYSXB3RU5Vbl9USnFxVlQ0YkxmMXZac0VhaF9tMkx3R0xvdXZwTzZLYl9MNTBPS0hTOURva2l4UlAwaW9yNnZiOUVmdGJwTFU?oc=5",
+   "outlet": "TechPowerUp",
+   "via": "Google News",
+   "published": "2026-11-28T00:15:22+00:00",
+   "seen": "2026-11-28T00:22:15+00:00",
+   "summary": "",
+   "topic": "Sales",
+   "record": true
+  },
   {
    "id": "gta 6 ps5 and ps5 pro players note downgraded graphics following first update",
    "title": "GTA 6 PS5 and PS5 Pro players note downgraded graphics following first update",
