@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T14:06:31+00:00",
- "started": "2026-11-28T14:06:28+00:00",
+ "updated": "2026-11-28T14:11:37+00:00",
+ "started": "2026-11-28T14:11:34+00:00",
  "polls": 1,
  "poll_seconds": 300,
  "sources": {
@@ -9,98 +9,98 @@
    "ok": true,
    "error": "",
    "hits": 100,
-   "checked": "2026-11-28T14:06:29+00:00"
+   "checked": "2026-11-28T14:11:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+record+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 44,
-   "checked": "2026-11-28T14:06:29+00:00"
+   "hits": 26,
+   "checked": "2026-11-28T14:11:35+00:00"
   },
   "Google News|https://news.google.com/rss/search?q=%22GTA+6%22+sales+OR+viewers+OR+Twitch+OR+Metacritic+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen": {
    "name": "Google News",
    "ok": true,
    "error": "",
-   "hits": 51,
-   "checked": "2026-11-28T14:06:29+00:00"
+   "hits": 52,
+   "checked": "2026-11-28T14:11:36+00:00"
   },
   "IGN|https://feeds.feedburner.com/ign/all": {
    "name": "IGN",
    "ok": true,
    "error": "",
    "hits": 1,
-   "checked": "2026-11-28T14:06:29+00:00"
+   "checked": "2026-11-28T14:11:36+00:00"
   },
   "VGC|https://www.videogameschronicle.com/feed/": {
    "name": "VGC",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:06:30+00:00"
+   "checked": "2026-11-28T14:11:36+00:00"
   },
   "Eurogamer|https://www.eurogamer.net/feed": {
    "name": "Eurogamer",
    "ok": true,
    "error": "",
    "hits": 45,
-   "checked": "2026-11-28T14:06:30+00:00"
+   "checked": "2026-11-28T14:11:36+00:00"
   },
   "GamesRadar+|https://www.gamesradar.com/feeds/all/": {
    "name": "GamesRadar+",
    "ok": true,
    "error": "",
    "hits": 13,
-   "checked": "2026-11-28T14:06:30+00:00"
+   "checked": "2026-11-28T14:11:36+00:00"
   },
   "Dexerto|https://www.dexerto.com/feed/": {
    "name": "Dexerto",
    "ok": true,
    "error": "",
    "hits": 18,
-   "checked": "2026-11-28T14:06:30+00:00"
+   "checked": "2026-11-28T14:11:36+00:00"
   },
   "Insider Gaming|https://insider-gaming.com/feed/": {
    "name": "Insider Gaming",
    "ok": true,
    "error": "",
    "hits": 5,
-   "checked": "2026-11-28T14:06:30+00:00"
+   "checked": "2026-11-28T14:11:36+00:00"
   },
   "Push Square|https://www.pushsquare.com/feeds/latest": {
    "name": "Push Square",
    "ok": true,
    "error": "",
    "hits": 7,
-   "checked": "2026-11-28T14:06:30+00:00"
+   "checked": "2026-11-28T14:11:37+00:00"
   },
   "Pure Xbox|https://www.purexbox.com/feeds/latest": {
    "name": "Pure Xbox",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:06:31+00:00"
+   "checked": "2026-11-28T14:11:37+00:00"
   },
   "Dot Esports|https://dotesports.com/feed": {
    "name": "Dot Esports",
    "ok": false,
    "error": "HTTP Error 403: Forbidden",
    "hits": 0,
-   "checked": "2026-11-28T14:06:31+00:00"
+   "checked": "2026-11-28T14:11:37+00:00"
   },
   "The Verge|https://www.theverge.com/rss/games/index.xml": {
    "name": "The Verge",
    "ok": true,
    "error": "",
    "hits": 6,
-   "checked": "2026-11-28T14:06:31+00:00"
+   "checked": "2026-11-28T14:11:37+00:00"
   },
   "r/GTA6|https://www.reddit.com/r/GTA6/new/.rss": {
    "name": "r/GTA6",
    "ok": false,
    "error": "HTTP Error 404: Not Found",
    "hits": 0,
-   "checked": "2026-11-28T14:06:31+00:00"
+   "checked": "2026-11-28T14:11:37+00:00"
   }
  },
  "items": [
@@ -141,6 +141,18 @@
    "record": false
   },
   {
+   "id": "indestructible grand theft auto vi gets first nonbinary character in game s history",
+   "title": "Indestructible: Grand Theft Auto VI gets first nonbinary character in game’s history",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmVCTmxNbmZFckhZbDZ5WVFKN2Q4YkRvQXpVam1uYWIwQjlhSlh2d05GUVMyUXBaNm5MLVlEQlJrSk5uWDNrQTZWSVNPZGNlTUJvVUdubmRWa3Vfei1YbUQ2WmdrMHdXcFEwZU16bTh1VEdGZi00eTI2TkEtZ0IyRHoyN0F2c1hSMmZvYnpSOG1iT0FkZFp4bjhzN0RWeF8wN3puVFY1NE1lVjN6RU1wMjdtMTJTWjFXWDFN?oc=5",
+   "outlet": "LGBTQ Nation",
+   "via": "Google News",
+   "published": "2026-11-28T14:00:00+00:00",
+   "seen": "2026-11-28T14:11:35+00:00",
+   "summary": "",
+   "topic": "News",
+   "record": true
+  },
+  {
    "id": "gta 6 uk physical sales 32m in 3 days no disc",
    "title": "GTA 6 UK Physical Sales: £32M in 3 Days, No Disc",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3dJbnlPdXlhXzRzS3luZ1p6bG9ENEJLdlJZMGwyTnhXbFJld1B3S2ZQcVZieEh5d0dWOWtBNG5QSGtMcEQ3WlNtSlVGbHhIOW9hMTVvTk5Jb09vWHkxNDFVSXU4TjlKanBVenVOZGtVcFl5ZXhiWlVxeVQ5R094aXJmUDBTajBuRXc?oc=5",
@@ -174,6 +186,18 @@
    "seen": "2026-11-28T13:56:23+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "users bought 53 million copies of gta vi worth 4 7 billion in a week most copies were bought for playstation",
+   "title": "Users bought 53 million copies of GTA VI worth $4.7 billion in a week. Most copies were bought for PlayStation",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUc0JmbFo5UDRoaHJOZlZ3Z0lZaDh3eHVITEtIWHh5blhKcWtaVDhJYVkzYkpJc3Y5YWtVWHBuTk1idUd5cHlrTl9WbHBLQQ?oc=5",
+   "outlet": "dev.ua",
+   "via": "Google News",
+   "published": "2026-11-28T13:50:00+00:00",
+   "seen": "2026-11-28T14:11:35+00:00",
+   "summary": "",
+   "topic": "Sales",
    "record": false
   },
   {
@@ -1962,6 +1986,18 @@
    "seen": "2026-11-27T21:36:18+00:00",
    "summary": "",
    "topic": "News",
+   "record": false
+  },
+  {
+   "id": "ps5 players can snap up gta 6 for under 49 with clever black friday deal stack",
+   "title": "PS5 players can snap up GTA 6 for under £49 with clever Black Friday deal stack",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWdUMXNOaTV5Z0RhSUxYRy00MjVrS1JLYjlRQVRJYWJEV3hkN090TnJRUmRfOE5aVzFGcjBCZ1NnM3V0cHNGMzV3ZGVoR21ZN0dkazhtbWJxU1F1cDczelRnTU9pV1UtaGgtWGJBNVgxMl81dFBoZksySDlfcHpRdjZWcS0zQ1k1Rll3Z1YzRWVEazhF0gGaAUFVX3lxTE1idFVXNVhoTmxpRDZPLUI1bWFCUjN1LXhIcEFJQW1WZU9JZmIwYlV1ZjNlQkhqeXNmcGM1TlJULU9nTEpxUm44VWtQVVZDdUhRc1pTZjh3THZqV0ZVNElzVHBCcFhqeTVQVEZ4eU9ObERyZ3FjbmxDc2FnbTlZWTI1YmZGU01wOHVPeHpQcHJhZ0FxYTFXa2I3bHc?oc=5",
+   "outlet": "Manchester Evening News",
+   "via": "Google News",
+   "published": "2026-11-27T21:30:00+00:00",
+   "seen": "2026-11-28T14:11:36+00:00",
+   "summary": "",
+   "topic": "Players",
    "record": false
   },
   {
